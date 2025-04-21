@@ -1,17 +1,17 @@
 {
-  "id": 17943,
-  "username": "tavib",
+  "id": 17968,
+  "username": "mlgsuperstart",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2017-01-28T23:54:11.000Z",
-  "date_last_played": "2017-01-29T03:17:40.000Z",
+  "date_created": "2017-01-29T00:44:59.000Z",
+  "date_last_played": "2017-09-23T22:21:32.000Z",
   "profile_views": 0,
-  "kill_count": 2,
+  "kill_count": 52,
   "play_count": 0,
-  "highest_score": 5110,
-  "picture": "17943.jpg",
+  "highest_score": 242426,
+  "picture": "17968.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 17943,
-    "rank_kc": null,
+    "user_id": 17968,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-21T23:58:45.221Z",
+    "updated_at": "2025-04-21T23:58:45.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-21T13:28:33.000Z",
-    "updated_at": "2025-04-21T13:28:33.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-21T23:58:40.132Z"
+  "archived_at": "2025-04-21T23:58:45.304Z"
 }
