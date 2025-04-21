@@ -1,0 +1,50 @@
+{
+  "id": 2000,
+  "username": "俊榮曹",
+  "description": "ggininder",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-01-18T15:17:50.000Z",
+  "date_last_played": "2022-02-19T18:25:37.000Z",
+  "profile_views": 0,
+  "kill_count": 401,
+  "play_count": 1,
+  "highest_score": 1331970,
+  "picture": "2000.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 2000,
+    "rank_kc": 50382,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-05T05:10:59.000Z",
+    "rank_pc": 328959,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-10-05T05:10:59.000Z",
+    "rank_hs": 67043,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-05T05:11:00.000Z",
+    "created_at": "2023-10-17T11:59:07.000Z",
+    "updated_at": "2023-10-05T05:11:00.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-21T20:14:52.698Z"
+}
