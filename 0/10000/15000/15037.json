@@ -1,17 +1,17 @@
 {
-  "id": 15070,
-  "username": "9165667",
-  "description": "GET REKT",
+  "id": 15037,
+  "username": "anthonyt",
+  "description": "they should add kraken",
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2017-01-26T01:50:41.000Z",
-  "date_last_played": "2017-02-12T05:18:07.000Z",
+  "date_created": "2017-01-26T01:10:45.000Z",
+  "date_last_played": "2017-01-26T04:37:18.000Z",
   "profile_views": 0,
-  "kill_count": 39,
+  "kill_count": 0,
   "play_count": 0,
-  "highest_score": 113246,
-  "picture": "15070.jpg",
+  "highest_score": 7875,
+  "picture": "15037.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 15070,
-    "rank_kc": null,
+    "user_id": 15037,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-21T23:43:52.973Z",
+    "updated_at": "2025-04-21T23:43:53.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-21T12:44:45.000Z",
-    "updated_at": "2025-04-21T12:44:45.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-21T23:43:59.887Z"
+  "archived_at": "2025-04-21T23:43:53.065Z"
 }
