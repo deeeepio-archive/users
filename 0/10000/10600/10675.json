@@ -1,0 +1,50 @@
+{
+  "id": 10675,
+  "username": "fany",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-01-23T03:35:29.000Z",
+  "date_last_played": "2017-01-23T07:19:28.000Z",
+  "profile_views": 1,
+  "kill_count": 34,
+  "play_count": 0,
+  "highest_score": 101808,
+  "picture": "10675.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 10675,
+    "rank_kc": 166531,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-08-30T15:51:16.000Z",
+    "rank_pc": 351649,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-08-30T15:51:19.000Z",
+    "rank_hs": 316878,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-30T15:51:20.000Z",
+    "created_at": "2023-08-30T15:51:14.000Z",
+    "updated_at": "2023-08-30T15:51:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-21T23:09:02.848Z"
+}
