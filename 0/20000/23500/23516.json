@@ -1,0 +1,97 @@
+{
+  "id": 23516,
+  "username": "3128741",
+  "description": "Thx for the xp. I will team with you if you change your name to lazershare1.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-02-03T06:34:18.000Z",
+  "date_last_played": "2020-03-21T08:19:36.000Z",
+  "profile_views": 0,
+  "kill_count": 779,
+  "play_count": 2,
+  "highest_score": 3169680,
+  "picture": "23516.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 16,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 23516,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-21T15:10:37.307Z",
+    "updated_at": "2025-04-21T15:10:37.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2626,
+          "user_id": 23516,
+          "cloneof_id": null,
+          "string_id": "only_jump",
+          "title": "Map jumping but now its useful",
+          "description": "You must jump up high to get meat falling from the sky",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 88,
+          "created_at": "2020-04-15T21:35:15.000Z",
+          "updated_at": "2020-04-15T21:39:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 23516,
+            "username": "3128741",
+            "description": "Thx for the xp. I will team with you if you change your name to lazershare1.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-02-03T06:34:18.000Z",
+            "date_last_played": "2020-03-21T08:19:36.000Z",
+            "kill_count": 779,
+            "play_count": 2,
+            "highest_score": 3169680,
+            "picture": "23516.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "meat rain"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-21T15:10:37.602Z"
+}
