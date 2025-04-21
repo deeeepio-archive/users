@@ -49,6 +49,7 @@
           "string_id": "escape_abisal_v2",
           "title": "Escape Abisal v2",
           "description": "Otra idea de juego",
+          "password": null,
           "public": true,
           "locked": false,
           "clonable": false,
@@ -104,6 +105,7 @@
           "string_id": "minijuego_1",
           "title": "Escape abisal",
           "description": "Una nueva idea de juego.",
+          "password": null,
           "public": true,
           "locked": false,
           "clonable": false,
@@ -156,6 +158,7 @@
           "string_id": "mapa_1",
           "title": "Paraíso",
           "description": "Para una batalla épica",
+          "password": null,
           "public": true,
           "locked": false,
           "clonable": false,
@@ -206,5 +209,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-21T11:26:39.236Z"
+  "archived_at": "2025-04-21T22:59:51.097Z"
 }
