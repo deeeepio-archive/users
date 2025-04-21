@@ -1,0 +1,50 @@
+{
+  "id": 15,
+  "username": "yuris",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-01-01T18:59:24.000Z",
+  "date_last_played": "2017-07-06T00:59:38.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": "15.jpg",
+  "displayPicture": false,
+  "active": false,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 15,
+    "rank_kc": 374171,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-27T19:42:39.000Z",
+    "rank_pc": 269123,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-27T19:42:40.000Z",
+    "rank_hs": 501749,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-08-27T19:42:42.000Z",
+    "created_at": "2022-08-27T19:44:33.000Z",
+    "updated_at": "2022-08-27T19:42:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-21T07:45:24.048Z"
+}
