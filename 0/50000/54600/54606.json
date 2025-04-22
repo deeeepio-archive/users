@@ -1,0 +1,247 @@
+{
+  "id": 54606,
+  "username": "6560552",
+  "description": "its been too long ",
+  "about": "【ｓｎｏｏｔｓｙ３１】\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-02-21T16:50:35.000Z",
+  "date_last_played": "2025-04-12T22:07:42.000Z",
+  "profile_views": 1021,
+  "kill_count": 40183,
+  "play_count": 6048,
+  "highest_score": 22375157,
+  "picture": "54606-d10ab36e4d7d56e4e77d5ecf96118cbeb-453eb3a0-82ae-4515-9c2c-9931ff0a9bee.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 991,
+  "tier": 8,
+  "xp": 844650,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 54606,
+    "rank_kc": 138,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-07T02:10:06.000Z",
+    "rank_pc": 740,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-07T02:10:09.000Z",
+    "rank_hs": 1234,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-07T02:10:12.000Z",
+    "created_at": "2025-04-12T23:00:01.000Z",
+    "updated_at": "2025-04-12T23:00:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6118,
+          "user_id": 54606,
+          "cloneof_id": null,
+          "string_id": "V2017MAY",
+          "title": "map from may 2017",
+          "description": "another game-mode I am proposing, focused on the map of may 2017. I miss those young deeeep.io days",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 4,
+          "objects": 244,
+          "created_at": "2021-03-03T22:54:31.000Z",
+          "updated_at": "2025-04-13T23:21:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 54606,
+            "username": "6560552",
+            "description": "its been too long ",
+            "about": "【ｓｎｏｏｔｓｙ３１】\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-02-21T16:50:35.000Z",
+            "date_last_played": "2025-04-12T22:07:42.000Z",
+            "kill_count": 40183,
+            "play_count": 6048,
+            "highest_score": 22375157,
+            "picture": "54606-d10ab36e4d7d56e4e77d5ecf96118cbeb-453eb3a0-82ae-4515-9c2c-9931ff0a9bee.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 991,
+            "tier": 8,
+            "xp": 844650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "old"
+            },
+            {
+              "id": "V1"
+            }
+          ]
+        },
+        {
+          "id": 4592,
+          "user_id": 54606,
+          "cloneof_id": null,
+          "string_id": "snootsoldstyle",
+          "title": "deeeep.io map older style!",
+          "description": "[WIP] (Please leave a like!) A deeeep.io map that actually looks like deeeep.io! it matches the older style",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 7,
+          "objects": 551,
+          "created_at": "2020-10-17T18:40:57.000Z",
+          "updated_at": "2025-04-13T23:19:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 54606,
+            "username": "6560552",
+            "description": "its been too long ",
+            "about": "【ｓｎｏｏｔｓｙ３１】\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-02-21T16:50:35.000Z",
+            "date_last_played": "2025-04-12T22:07:42.000Z",
+            "kill_count": 40183,
+            "play_count": 6048,
+            "highest_score": 22375157,
+            "picture": "54606-d10ab36e4d7d56e4e77d5ecf96118cbeb-453eb3a0-82ae-4515-9c2c-9931ff0a9bee.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 991,
+            "tier": 8,
+            "xp": 844650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            },
+            {
+              "id": "ocean"
+            }
+          ]
+        },
+        {
+          "id": 1945,
+          "user_id": 54606,
+          "cloneof_id": null,
+          "string_id": "snootsFFA",
+          "title": "????????????????????????????????????'???? ???????????? ????????????????! (WIP)",
+          "description": "Deep reef, lake, and other fixes.",
+          "public": true,
+          "locked": true,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 666,
+          "created_at": "2020-02-29T20:40:50.000Z",
+          "updated_at": "2020-03-16T20:57:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 54606,
+            "username": "6560552",
+            "description": "its been too long ",
+            "about": "【ｓｎｏｏｔｓｙ３１】\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-02-21T16:50:35.000Z",
+            "date_last_played": "2025-04-12T22:07:42.000Z",
+            "kill_count": 40183,
+            "play_count": 6048,
+            "highest_score": 22375157,
+            "picture": "54606-d10ab36e4d7d56e4e77d5ecf96118cbeb-453eb3a0-82ae-4515-9c2c-9931ff0a9bee.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 991,
+            "tier": 8,
+            "xp": 844650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            },
+            {
+              "id": "winner map"
+            }
+          ]
+        },
+        {
+          "id": 1673,
+          "user_id": 54606,
+          "cloneof_id": null,
+          "string_id": "onevone",
+          "title": "Wonderful 1v1 map!",
+          "description": "????????????????????????????????????'???? ???????????? ????????????! ????????????????????-????????????????????????????!",
+          "public": true,
+          "locked": true,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 24,
+          "created_at": "2020-02-11T15:22:48.000Z",
+          "updated_at": "2020-02-22T21:40:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 54606,
+            "username": "6560552",
+            "description": "its been too long ",
+            "about": "【ｓｎｏｏｔｓｙ３１】\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-02-21T16:50:35.000Z",
+            "date_last_played": "2025-04-12T22:07:42.000Z",
+            "kill_count": 40183,
+            "play_count": 6048,
+            "highest_score": 22375157,
+            "picture": "54606-d10ab36e4d7d56e4e77d5ecf96118cbeb-453eb3a0-82ae-4515-9c2c-9931ff0a9bee.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 991,
+            "tier": 8,
+            "xp": 844650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-22T03:36:46.911Z"
+}
