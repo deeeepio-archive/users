@@ -1,0 +1,97 @@
+{
+  "id": 55969,
+  "username": "Lexl",
+  "description": "sorry if you were a low tier but a man needs his coins",
+  "about": "yeah its me",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-02-22T19:51:27.000Z",
+  "date_last_played": "2025-01-20T21:15:12.000Z",
+  "profile_views": 10,
+  "kill_count": 1632,
+  "play_count": 542,
+  "highest_score": 2761132,
+  "picture": "55969.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 106,
+  "tier": 1,
+  "xp": 19200,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 55969,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-01-20T21:15:12.000Z",
+    "updated_at": "2025-01-20T21:15:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1636,
+          "user_id": 55969,
+          "cloneof_id": null,
+          "string_id": "new1v1_v1",
+          "title": "New 1v1",
+          "description": "not done yet",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 39,
+          "created_at": "2020-02-08T19:56:47.000Z",
+          "updated_at": "2020-02-11T08:40:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 55969,
+            "username": "Lexl",
+            "description": "sorry if you were a low tier but a man needs his coins",
+            "about": "yeah its me",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-02-22T19:51:27.000Z",
+            "date_last_played": "2025-01-20T21:15:12.000Z",
+            "kill_count": 1632,
+            "play_count": 542,
+            "highest_score": 2761132,
+            "picture": "55969.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 106,
+            "tier": 1,
+            "xp": 19200,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-22T03:43:55.203Z"
+}
