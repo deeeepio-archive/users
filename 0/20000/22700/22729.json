@@ -1,17 +1,17 @@
 {
-  "id": 22788,
-  "username": "matthewg",
-  "description": null,
+  "id": 22729,
+  "username": "柏勛王",
+  "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2017-02-02T19:50:31.000Z",
-  "date_last_played": "2017-02-02T20:09:44.000Z",
+  "date_created": "2017-02-02T18:55:49.000Z",
+  "date_last_played": "2017-02-02T18:55:49.000Z",
   "profile_views": 0,
-  "kill_count": 6,
+  "kill_count": 0,
   "play_count": 0,
-  "highest_score": 37054,
-  "picture": "22788.jpg",
+  "highest_score": 0,
+  "picture": "22729.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 22788,
-    "rank_kc": null,
+    "user_id": 22729,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-22T00:31:17.201Z",
+    "updated_at": "2025-04-22T00:31:17.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-21T14:59:38.000Z",
-    "updated_at": "2025-04-21T14:59:38.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-22T00:31:24.924Z"
+  "archived_at": "2025-04-22T00:31:17.271Z"
 }
