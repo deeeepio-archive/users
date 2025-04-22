@@ -1,17 +1,17 @@
 {
-  "id": 32575,
-  "username": "irons",
+  "id": 32542,
+  "username": "213060",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2017-02-09T05:09:08.000Z",
-  "date_last_played": "2017-02-09T05:12:38.000Z",
+  "date_created": "2017-02-09T04:15:20.000Z",
+  "date_last_played": "2017-02-09T04:19:15.000Z",
   "profile_views": 0,
   "kill_count": 0,
   "play_count": 0,
-  "highest_score": 11200,
-  "picture": "32575.jpg",
+  "highest_score": 5875,
+  "picture": null,
   "displayPicture": false,
   "active": true,
   "ban_message": null,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 32575,
-    "rank_kc": null,
+    "user_id": 32542,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-22T01:29:51.773Z",
+    "updated_at": "2025-04-22T01:29:52.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-21T17:50:49.000Z",
-    "updated_at": "2025-04-21T17:50:49.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-22T01:29:56.163Z"
+  "archived_at": "2025-04-22T01:29:51.844Z"
 }
