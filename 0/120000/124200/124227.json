@@ -1,0 +1,61 @@
+{
+  "id": 124227,
+  "username": "TheDarth27",
+  "description": "nom",
+  "about": "that profile picture is a selfie of me.\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-03-28T21:56:44.000Z",
+  "date_last_played": "2023-03-30T21:31:12.000Z",
+  "profile_views": 2,
+  "kill_count": 385,
+  "play_count": 9,
+  "highest_score": 1796195,
+  "picture": "124227-21993dc755127c961081b104fa9eb9d5104.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 23,
+  "tier": 1,
+  "xp": 1650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16800,
+      "user_id": 124227,
+      "platform_id": "dc",
+      "platform_user_id": "TheDarth27#5968",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-30T20:47:46.000Z",
+      "updated_at": "2023-03-30T20:47:46.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 124227,
+    "rank_kc": 47800,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-30T20:48:02.000Z",
+    "rank_pc": 256792,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-30T20:48:04.000Z",
+    "rank_hs": 41877,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-30T20:48:06.000Z",
+    "created_at": "2023-05-03T01:57:44.000Z",
+    "updated_at": "2023-03-30T21:31:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-22T10:39:38.809Z"
+}
