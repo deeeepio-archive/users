@@ -1,17 +1,17 @@
 {
-  "id": 30470,
-  "username": "sergip",
+  "id": 30422,
+  "username": "5262339",
   "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2017-02-07T23:55:23.000Z",
-  "date_last_played": "2017-03-18T12:26:32.000Z",
+  "date_created": "2017-02-07T22:46:25.000Z",
+  "date_last_played": "2017-02-12T00:54:33.000Z",
   "profile_views": 0,
-  "kill_count": 220,
+  "kill_count": 10,
   "play_count": 0,
-  "highest_score": 913120,
-  "picture": "30470.jpg",
+  "highest_score": 58190,
+  "picture": null,
   "displayPicture": false,
   "active": true,
   "ban_message": null,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 30470,
-    "rank_kc": null,
+    "user_id": 30422,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-22T01:18:36.332Z",
+    "updated_at": "2025-04-22T01:18:36.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-21T17:13:49.000Z",
-    "updated_at": "2025-04-21T17:13:49.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-22T01:18:41.027Z"
+  "archived_at": "2025-04-22T01:18:36.382Z"
 }
