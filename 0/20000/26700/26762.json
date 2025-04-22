@@ -1,0 +1,50 @@
+{
+  "id": 26762,
+  "username": "joe",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-02-05T13:47:48.000Z",
+  "date_last_played": "2019-11-05T20:03:49.000Z",
+  "profile_views": 6,
+  "kill_count": 67,
+  "play_count": 0,
+  "highest_score": 136245,
+  "picture": "26762.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 26762,
+    "rank_kc": 117900,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-03-24T06:30:32.000Z",
+    "rank_pc": 317369,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-03-24T06:30:33.000Z",
+    "rank_hs": 263977,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-24T06:30:34.000Z",
+    "created_at": "2023-03-24T06:30:31.000Z",
+    "updated_at": "2023-03-24T06:30:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-22T00:58:39.276Z"
+}
