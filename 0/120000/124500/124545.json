@@ -1,0 +1,50 @@
+{
+  "id": 124545,
+  "username": "meatvolcano",
+  "description": "hi",
+  "about": "hi",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-03-28T23:24:10.000Z",
+  "date_last_played": "2023-01-17T15:53:39.000Z",
+  "profile_views": 3,
+  "kill_count": 50,
+  "play_count": 13,
+  "highest_score": 448011,
+  "picture": "124545-20d77844f3515810159d76b912f101e62d.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 124545,
+    "rank_kc": 125120,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-05-26T16:51:42.000Z",
+    "rank_pc": 246332,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-05-26T16:51:42.000Z",
+    "rank_hs": 192299,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-05-26T16:51:42.000Z",
+    "created_at": "2023-01-17T15:53:39.000Z",
+    "updated_at": "2023-01-17T15:53:39.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-22T10:46:56.179Z"
+}
