@@ -1,17 +1,17 @@
 {
-  "id": 22803,
-  "username": "9214475",
-  "description": "",
+  "id": 22850,
+  "username": "thomasb",
+  "description": "Lord of Flies",
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2017-02-02T20:02:05.000Z",
-  "date_last_played": "2017-06-03T16:36:27.000Z",
+  "date_created": "2017-02-02T20:31:41.000Z",
+  "date_last_played": "2017-02-02T20:31:41.000Z",
   "profile_views": 0,
   "kill_count": 0,
   "play_count": 0,
-  "highest_score": 55260,
-  "picture": null,
+  "highest_score": 0,
+  "picture": "22850.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 22803,
-    "rank_kc": null,
+    "user_id": 22850,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-22T00:31:51.166Z",
+    "updated_at": "2025-04-22T00:31:51.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-21T14:59:41.000Z",
-    "updated_at": "2025-04-21T14:59:41.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-22T00:31:43.614Z"
+  "archived_at": "2025-04-22T00:31:51.250Z"
 }
