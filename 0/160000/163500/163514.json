@@ -1,0 +1,71 @@
+{
+  "id": 163514,
+  "username": "9639221",
+  "description": "Well then...",
+  "about": "Just a dude kicking your dogshit ass",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-04-06T23:00:10.000Z",
+  "date_last_played": "2023-06-24T03:55:20.000Z",
+  "profile_views": 5,
+  "kill_count": 246,
+  "play_count": 83,
+  "highest_score": 2336922,
+  "picture": "163514.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 48,
+  "tier": 1,
+  "xp": 3600,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21405,
+      "user_id": 163514,
+      "platform_id": "dc",
+      "platform_user_id": "Zimrim",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-22T04:58:28.000Z",
+      "updated_at": "2023-06-22T04:58:28.000Z"
+    },
+    {
+      "id": 21406,
+      "user_id": 163514,
+      "platform_id": "yt",
+      "platform_user_id": "Zimrim",
+      "platform_user_url": "https://www.youtube.com/@zimrim3211",
+      "verified": false,
+      "created_at": "2023-06-22T04:58:56.000Z",
+      "updated_at": "2023-06-22T04:58:56.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 163514,
+    "rank_kc": 65899,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-22T04:59:21.000Z",
+    "rank_pc": 80605,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-22T04:59:22.000Z",
+    "rank_hs": 29782,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-22T04:59:23.000Z",
+    "created_at": "2023-12-18T17:27:25.000Z",
+    "updated_at": "2023-06-24T03:55:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-22T14:39:48.126Z"
+}
