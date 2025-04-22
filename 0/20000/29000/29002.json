@@ -1,0 +1,97 @@
+{
+  "id": 29002,
+  "username": "endlessm",
+  "description": "make more severs on the fucking beta ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-02-07T02:02:41.000Z",
+  "date_last_played": "2022-02-24T17:27:51.000Z",
+  "profile_views": 0,
+  "kill_count": 1526,
+  "play_count": 23,
+  "highest_score": 2741241,
+  "picture": "29002.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 17,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 29002,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-22T01:10:00.851Z",
+    "updated_at": "2025-04-22T01:10:01.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5134,
+          "user_id": 29002,
+          "cloneof_id": null,
+          "string_id": "goku",
+          "title": "Untitled",
+          "description": "rgtdfgg",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-12-05T05:47:41.000Z",
+          "updated_at": "2020-12-05T05:47:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 29002,
+            "username": "endlessm",
+            "description": "make more severs on the fucking beta ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-02-07T02:02:41.000Z",
+            "date_last_played": "2022-02-24T17:27:51.000Z",
+            "kill_count": 1526,
+            "play_count": 23,
+            "highest_score": 2741241,
+            "picture": "29002.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 17,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "rrgrrgr"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-22T01:10:00.903Z"
+}
