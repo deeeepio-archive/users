@@ -1,17 +1,17 @@
 {
-  "id": 24217,
-  "username": "6092898",
-  "description": "௵௵௵௵௵௵௵௵௵௵௵௵௵௵௵௵",
+  "id": 24284,
+  "username": "superdogeg",
+  "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2017-02-03T19:10:56.000Z",
-  "date_last_played": "2017-08-27T03:29:06.000Z",
+  "date_created": "2017-02-03T19:46:06.000Z",
+  "date_last_played": "2017-02-05T15:47:39.000Z",
   "profile_views": 0,
-  "kill_count": 503,
+  "kill_count": 2,
   "play_count": 0,
-  "highest_score": 1763862,
-  "picture": "24217.gif",
+  "highest_score": 109447,
+  "picture": "24284.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 24217,
-    "rank_kc": null,
+    "user_id": 24284,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-22T00:39:29.418Z",
+    "updated_at": "2025-04-22T00:39:29.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-21T15:26:18.000Z",
-    "updated_at": "2025-04-21T15:26:18.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-22T00:39:15.770Z"
+  "archived_at": "2025-04-22T00:39:29.520Z"
 }
