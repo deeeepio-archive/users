@@ -1,17 +1,17 @@
 {
-  "id": 26302,
-  "username": "hsum",
-  "description": "",
+  "id": 26375,
+  "username": "deusdetempore",
+  "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2017-02-05T11:12:38.000Z",
-  "date_last_played": "2017-08-29T09:12:45.000Z",
+  "date_created": "2017-02-05T11:45:41.000Z",
+  "date_last_played": "2017-02-05T11:45:59.000Z",
   "profile_views": 0,
-  "kill_count": 28,
+  "kill_count": 0,
   "play_count": 0,
-  "highest_score": 243588,
-  "picture": "26302.jpg",
+  "highest_score": 50,
+  "picture": "26375.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 26302,
-    "rank_kc": null,
+    "user_id": 26375,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-22T00:56:46.123Z",
+    "updated_at": "2025-04-22T00:56:46.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-21T16:04:39.000Z",
-    "updated_at": "2025-04-21T16:04:39.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-22T00:56:36.342Z"
+  "archived_at": "2025-04-22T00:56:46.196Z"
 }
