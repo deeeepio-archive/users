@@ -1,17 +1,17 @@
 {
-  "id": 32624,
-  "username": "tersoplasf",
-  "description": null,
+  "id": 32673,
+  "username": "николайк",
+  "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2017-02-09T06:40:45.000Z",
-  "date_last_played": "2017-03-06T14:16:30.000Z",
+  "date_created": "2017-02-09T07:53:05.000Z",
+  "date_last_played": "2017-09-18T05:46:12.000Z",
   "profile_views": 0,
-  "kill_count": 3,
+  "kill_count": 65,
   "play_count": 0,
-  "highest_score": 83638,
-  "picture": "32624.jpg",
+  "highest_score": 204537,
+  "picture": "32673.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 32624,
-    "rank_kc": null,
+    "user_id": 32673,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-22T01:30:24.142Z",
+    "updated_at": "2025-04-22T01:30:24.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-21T17:50:55.000Z",
-    "updated_at": "2025-04-21T17:50:55.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-22T01:30:17.073Z"
+  "archived_at": "2025-04-22T01:30:24.213Z"
 }
