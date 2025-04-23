@@ -1,0 +1,109 @@
+{
+  "id": 490517,
+  "username": "goldenpegasus38ytm_885",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-12-27T21:30:07.000Z",
+  "date_last_played": "2021-02-23T13:04:25.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 3,
+  "highest_score": 23930,
+  "picture": "490517.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 5,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 490517,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-23T23:23:14.852Z",
+    "updated_at": "2025-04-23T23:23:15.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6047,
+          "user_id": 490517,
+          "cloneof_id": null,
+          "string_id": "arctic01",
+          "title": "Arctic World V.01",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-02-24T11:39:04.000Z",
+          "updated_at": "2021-02-24T11:39:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 490517,
+            "username": "goldenpegasus38ytm_885",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-12-27T21:30:07.000Z",
+            "date_last_played": "2021-02-23T13:04:25.000Z",
+            "kill_count": 0,
+            "play_count": 3,
+            "highest_score": 23930,
+            "picture": "490517.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 5,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " Artic"
+            },
+            {
+              "id": "Arctic"
+            },
+            {
+              "id": "Cold"
+            },
+            {
+              "id": "Ice"
+            },
+            {
+              "id": "Winter"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-23T23:23:14.913Z"
+}
