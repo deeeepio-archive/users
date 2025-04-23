@@ -1,0 +1,71 @@
+{
+  "id": 401813,
+  "username": "fw",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-06-18T19:41:10.000Z",
+  "date_last_played": "2020-09-25T14:09:19.000Z",
+  "profile_views": 135,
+  "kill_count": 745,
+  "play_count": 5,
+  "highest_score": 500886293,
+  "picture": "401813.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": "-",
+  "ban_at": "2025-04-17T22:55:58.000Z",
+  "coins": 59,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 93071,
+      "user_id": 401813,
+      "platform_id": "dc",
+      "platform_user_id": "ghurblol",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-21T23:45:29.000Z",
+      "updated_at": "2024-03-21T23:45:29.000Z"
+    },
+    {
+      "id": 93072,
+      "user_id": 401813,
+      "platform_id": "dc",
+      "platform_user_id": "https://beta.deeeep.io/u/ghurb",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-21T23:45:40.000Z",
+      "updated_at": "2024-03-21T23:45:40.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 401813,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-03-21T23:40:06.000Z",
+    "updated_at": "2024-03-21T23:40:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-23T13:55:36.282Z"
+}
