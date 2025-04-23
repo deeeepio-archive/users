@@ -1,0 +1,71 @@
+{
+  "id": 389883,
+  "username": "lokijumi",
+  "description": "Sorry I am not bad guy/ lo siento no soy un mal tipo\r\n\r\n\r\nFollow me in twitch/ sigueme en twitch\r\nhttps://www.twitch.tv/lokijumi",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-05-31T21:08:57.000Z",
+  "date_last_played": "2022-07-23T04:03:12.000Z",
+  "profile_views": 4,
+  "kill_count": 1662,
+  "play_count": 996,
+  "highest_score": 3534190,
+  "picture": "389883-75f1b90c5ad2dd3943bd9d7a414cf3ee.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 51,
+  "tier": 1,
+  "xp": 4500,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 6193,
+      "user_id": 389883,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.gg/TEs8Ua9v9N",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-05T02:51:11.000Z",
+      "updated_at": "2022-09-05T02:51:11.000Z"
+    },
+    {
+      "id": 6192,
+      "user_id": 389883,
+      "platform_id": "tc",
+      "platform_user_id": "https://www.twitch.tv/lokijumi",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-05T02:50:33.000Z",
+      "updated_at": "2022-09-05T02:50:33.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 389883,
+    "rank_kc": 14287,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-05T02:51:18.000Z",
+    "rank_pc": 9327,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-05T02:51:18.000Z",
+    "rank_hs": 12336,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-05T02:51:18.000Z",
+    "created_at": "2022-11-26T21:55:01.000Z",
+    "updated_at": "2022-09-05T02:51:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-23T12:44:46.769Z"
+}
