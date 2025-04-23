@@ -1,0 +1,405 @@
+{
+  "id": 379126,
+  "username": "not_a_cat",
+  "description": "Challenger Approaching",
+  "about": "el trol",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-05-21T03:55:55.000Z",
+  "date_last_played": "2025-01-15T01:13:24.000Z",
+  "profile_views": 1011,
+  "kill_count": 24770,
+  "play_count": 4188,
+  "highest_score": 12721683,
+  "picture": "379126-3e2ffae8a1a11882094910efd565138aa.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11917,
+  "tier": 6,
+  "xp": 407100,
+  "migrated": true,
+  "verified": true,
+  "beta": true,
+  "badges": [
+    {
+      "id": 11,
+      "slug": "alpha-tester",
+      "title": "Alpha Tester"
+    },
+    {
+      "id": 13,
+      "slug": "forum-moderator",
+      "title": "Forum Moderator"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 98545,
+      "user_id": 379126,
+      "platform_id": "dc",
+      "platform_user_id": "darth_shocklet",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-09-14T22:43:09.000Z",
+      "updated_at": "2024-09-14T22:43:09.000Z"
+    },
+    {
+      "id": 20,
+      "user_id": 379126,
+      "platform_id": "dc",
+      "platform_user_id": "not a cat#1951",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-17T07:01:42.000Z",
+      "updated_at": "2022-05-17T07:01:42.000Z"
+    },
+    {
+      "id": 19,
+      "user_id": 379126,
+      "platform_id": "rd",
+      "platform_user_id": "not-a_cat",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-17T07:00:41.000Z",
+      "updated_at": "2022-05-17T07:00:41.000Z"
+    },
+    {
+      "id": 18,
+      "user_id": 379126,
+      "platform_id": "yt",
+      "platform_user_id": "not a cat",
+      "platform_user_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "verified": false,
+      "created_at": "2022-05-17T06:59:41.000Z",
+      "updated_at": "2022-05-17T06:59:41.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 379126,
+    "rank_kc": 449,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T23:44:32.000Z",
+    "rank_pc": 1728,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T23:44:35.000Z",
+    "rank_hs": 1942,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-19T23:44:38.000Z",
+    "created_at": "2025-01-15T04:00:03.000Z",
+    "updated_at": "2025-01-15T04:00:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8397,
+          "user_id": 379126,
+          "cloneof_id": 3008,
+          "string_id": "e1_fjords",
+          "title": "epicness with fjords (WIP)",
+          "description": "The future update for epicness (nac_ffa). Not done obviously. ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1848,
+          "created_at": "2021-10-30T01:16:15.000Z",
+          "updated_at": "2022-01-28T21:31:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 379126,
+            "username": "not_a_cat",
+            "description": "Challenger Approaching",
+            "about": "el trol",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-05-21T03:55:55.000Z",
+            "date_last_played": "2025-01-15T01:13:24.000Z",
+            "kill_count": 24770,
+            "play_count": 4188,
+            "highest_score": 12721683,
+            "picture": "379126-3e2ffae8a1a11882094910efd565138aa.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11917,
+            "tier": 6,
+            "xp": 407100,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": []
+        },
+        {
+          "id": 7894,
+          "user_id": 379126,
+          "cloneof_id": null,
+          "string_id": "ds_ffa",
+          "title": "Daring Shores",
+          "description": "my second FFA map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 14,
+          "objects": 2565,
+          "created_at": "2021-09-20T10:03:08.000Z",
+          "updated_at": "2023-09-14T00:52:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 379126,
+            "username": "not_a_cat",
+            "description": "Challenger Approaching",
+            "about": "el trol",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-05-21T03:55:55.000Z",
+            "date_last_played": "2025-01-15T01:13:24.000Z",
+            "kill_count": 24770,
+            "play_count": 4188,
+            "highest_score": 12721683,
+            "picture": "379126-3e2ffae8a1a11882094910efd565138aa.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11917,
+            "tier": 6,
+            "xp": 407100,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "Daring"
+            },
+            {
+              "id": "Darth"
+            },
+            {
+              "id": "DS"
+            },
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "NAC"
+            },
+            {
+              "id": "not a cat"
+            },
+            {
+              "id": "Shocklet"
+            },
+            {
+              "id": "Shores"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 6314,
+          "user_id": 379126,
+          "cloneof_id": null,
+          "string_id": "rocky_cove_1v1",
+          "title": "Rocky Cove (1v1) ",
+          "description": "bigger 1v1 map with open top. The official 1v1 map. ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 35,
+          "created_at": "2021-03-22T21:34:27.000Z",
+          "updated_at": "2021-07-23T19:07:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 379126,
+            "username": "not_a_cat",
+            "description": "Challenger Approaching",
+            "about": "el trol",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-05-21T03:55:55.000Z",
+            "date_last_played": "2025-01-15T01:13:24.000Z",
+            "kill_count": 24770,
+            "play_count": 4188,
+            "highest_score": 12721683,
+            "picture": "379126-3e2ffae8a1a11882094910efd565138aa.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11917,
+            "tier": 6,
+            "xp": 407100,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "bigger"
+            },
+            {
+              "id": "NAC"
+            },
+            {
+              "id": "not a cat"
+            },
+            {
+              "id": "official"
+            },
+            {
+              "id": "open"
+            },
+            {
+              "id": "reef"
+            }
+          ]
+        },
+        {
+          "id": 6254,
+          "user_id": 379126,
+          "cloneof_id": 3008,
+          "string_id": "nac_ffa_estuary_revamp",
+          "title": "epicness but estuary revamp",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1412,
+          "created_at": "2021-03-17T21:37:45.000Z",
+          "updated_at": "2021-03-17T21:48:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 379126,
+            "username": "not_a_cat",
+            "description": "Challenger Approaching",
+            "about": "el trol",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-05-21T03:55:55.000Z",
+            "date_last_played": "2025-01-15T01:13:24.000Z",
+            "kill_count": 24770,
+            "play_count": 4188,
+            "highest_score": 12721683,
+            "picture": "379126-3e2ffae8a1a11882094910efd565138aa.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11917,
+            "tier": 6,
+            "xp": 407100,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": []
+        },
+        {
+          "id": 5609,
+          "user_id": 379126,
+          "cloneof_id": null,
+          "string_id": "empty_map",
+          "title": "empty map",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-01-18T05:49:38.000Z",
+          "updated_at": "2021-01-18T05:49:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 379126,
+            "username": "not_a_cat",
+            "description": "Challenger Approaching",
+            "about": "el trol",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-05-21T03:55:55.000Z",
+            "date_last_played": "2025-01-15T01:13:24.000Z",
+            "kill_count": 24770,
+            "play_count": 4188,
+            "highest_score": 12721683,
+            "picture": "379126-3e2ffae8a1a11882094910efd565138aa.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11917,
+            "tier": 6,
+            "xp": 407100,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": []
+        },
+        {
+          "id": 3008,
+          "user_id": 379126,
+          "cloneof_id": null,
+          "string_id": "nac_ffa",
+          "title": "epicness (V8) ",
+          "description": "work is temporarily paused on this map while i work on another one",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 1645,
+          "created_at": "2020-05-14T18:09:35.000Z",
+          "updated_at": "2022-03-21T11:08:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 379126,
+            "username": "not_a_cat",
+            "description": "Challenger Approaching",
+            "about": "el trol",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-05-21T03:55:55.000Z",
+            "date_last_played": "2025-01-15T01:13:24.000Z",
+            "kill_count": 24770,
+            "play_count": 4188,
+            "highest_score": 12721683,
+            "picture": "379126-3e2ffae8a1a11882094910efd565138aa.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11917,
+            "tier": 6,
+            "xp": 407100,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": []
+        }
+      ],
+      "count": 6
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-23T11:46:01.363Z"
+}
