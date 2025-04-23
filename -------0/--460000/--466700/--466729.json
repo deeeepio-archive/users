@@ -1,0 +1,61 @@
+{
+  "id": 466729,
+  "username": "GermaineJung",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-10-18T09:57:16.000Z",
+  "date_last_played": "2022-11-27T11:39:40.000Z",
+  "profile_views": 20,
+  "kill_count": 25,
+  "play_count": 16,
+  "highest_score": 334566,
+  "picture": "466729-eef3946109cd3998f005682195066c139.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 47,
+  "tier": 1,
+  "xp": 7050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8602,
+      "user_id": 466729,
+      "platform_id": "tw",
+      "platform_user_id": "KMS22001",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-27T12:14:50.000Z",
+      "updated_at": "2022-10-27T12:14:50.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 466729,
+    "rank_kc": 175316,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-10T04:29:28.000Z",
+    "rank_pc": 207394,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-10T04:29:29.000Z",
+    "rank_hs": 189868,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-10T04:29:31.000Z",
+    "created_at": "2022-11-27T11:39:40.000Z",
+    "updated_at": "2022-11-27T11:39:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-23T20:49:42.969Z"
+}
