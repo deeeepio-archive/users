@@ -1,0 +1,54 @@
+{
+  "id": 489020,
+  "username": "Zed",
+  "description": "Oop",
+  "about": "Pro flappy duck surfer",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-12-22T19:27:25.000Z",
+  "date_last_played": "2025-03-25T00:25:32.000Z",
+  "profile_views": 4442,
+  "kill_count": 62275,
+  "play_count": 7064,
+  "highest_score": 2142445436,
+  "picture": "489020-1e2a956f4127162fba365bb1828367cb-97ff90ee-1b59-4a61-be3a-6b3780b91f91.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 568,
+  "tier": 10,
+  "xp": 3312750,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 489020,
+    "rank_kc": 68,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T16:52:47.000Z",
+    "rank_pc": 950,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T16:53:05.000Z",
+    "rank_hs": 51,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T04:04:38.000Z",
+    "created_at": "2025-03-25T00:25:31.000Z",
+    "updated_at": "2025-03-25T00:25:32.000Z",
+    "pd": {
+      "played": 11,
+      "won": 6,
+      "ratio": 55
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-23T23:12:25.561Z"
+}
