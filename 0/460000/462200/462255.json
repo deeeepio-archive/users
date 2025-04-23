@@ -1,0 +1,271 @@
+{
+  "id": 462255,
+  "username": "GW0905",
+  "description": "Get rekt nub",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-10-06T21:55:54.000Z",
+  "date_last_played": "2023-02-05T00:38:16.000Z",
+  "profile_views": 32,
+  "kill_count": 19026,
+  "play_count": 3335,
+  "highest_score": 8032157,
+  "picture": "462255.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 86,
+  "tier": 3,
+  "xp": 85500,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 462255,
+    "rank_kc": 620,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-30T01:37:36.000Z",
+    "rank_pc": 1987,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-30T01:37:39.000Z",
+    "rank_hs": 3154,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-30T01:37:44.000Z",
+    "created_at": "2023-02-19T02:58:02.000Z",
+    "updated_at": "2023-02-05T00:38:16.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4049,
+          "user_id": 462255,
+          "cloneof_id": null,
+          "string_id": "space_1v1",
+          "title": "1v1 space map",
+          "description": "1v1 Space Map!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 46,
+          "created_at": "2020-08-19T22:28:27.000Z",
+          "updated_at": "2022-03-14T23:59:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 462255,
+            "username": "GW0905",
+            "description": "Get rekt nub",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-10-06T21:55:54.000Z",
+            "date_last_played": "2023-02-05T00:38:16.000Z",
+            "kill_count": 19026,
+            "play_count": 3335,
+            "highest_score": 8032157,
+            "picture": "462255.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 86,
+            "tier": 3,
+            "xp": 85500,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#1v1"
+            },
+            {
+              "id": "#GW"
+            },
+            {
+              "id": "#space"
+            }
+          ]
+        },
+        {
+          "id": 4011,
+          "user_id": 462255,
+          "cloneof_id": null,
+          "string_id": "kingofthehillgw",
+          "title": "King of the hill FFA/TFFA",
+          "description": "This FFA map is a king of the hill game",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 799,
+          "created_at": "2020-08-16T15:14:26.000Z",
+          "updated_at": "2021-11-07T05:33:40.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 462255,
+            "username": "GW0905",
+            "description": "Get rekt nub",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-10-06T21:55:54.000Z",
+            "date_last_played": "2023-02-05T00:38:16.000Z",
+            "kill_count": 19026,
+            "play_count": 3335,
+            "highest_score": 8032157,
+            "picture": "462255.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 86,
+            "tier": 3,
+            "xp": 85500,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#FFA"
+            },
+            {
+              "id": "#KOTH"
+            },
+            {
+              "id": "#TFFA"
+            },
+            {
+              "id": "GW0905"
+            }
+          ]
+        },
+        {
+          "id": 3993,
+          "user_id": 462255,
+          "cloneof_id": null,
+          "string_id": "gwpd",
+          "title": "GW's PearlDefense",
+          "description": "A pearl defense made by yours truly",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 6,
+          "created_at": "2020-08-14T00:59:00.000Z",
+          "updated_at": "2020-09-13T15:39:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 462255,
+            "username": "GW0905",
+            "description": "Get rekt nub",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-10-06T21:55:54.000Z",
+            "date_last_played": "2023-02-05T00:38:16.000Z",
+            "kill_count": 19026,
+            "play_count": 3335,
+            "highest_score": 8032157,
+            "picture": "462255.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 86,
+            "tier": 3,
+            "xp": 85500,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#deeeep.io"
+            },
+            {
+              "id": "#gw0905"
+            },
+            {
+              "id": "#pearldefense"
+            }
+          ]
+        },
+        {
+          "id": 3982,
+          "user_id": 462255,
+          "cloneof_id": null,
+          "string_id": "GWFFATFFA",
+          "title": "Survival of the Fittest",
+          "description": "Only the best will survive. This huge map has many dangers and you WIL die if you're nor careful enough.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 2037,
+          "created_at": "2020-08-13T02:11:01.000Z",
+          "updated_at": "2021-11-06T01:15:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 462255,
+            "username": "GW0905",
+            "description": "Get rekt nub",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-10-06T21:55:54.000Z",
+            "date_last_played": "2023-02-05T00:38:16.000Z",
+            "kill_count": 19026,
+            "play_count": 3335,
+            "highest_score": 8032157,
+            "picture": "462255.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 86,
+            "tier": 3,
+            "xp": 85500,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "epic"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "free for all"
+            },
+            {
+              "id": "huge"
+            },
+            {
+              "id": "tffa"
+            },
+            {
+              "id": "toxic algae"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-23T20:03:38.800Z"
+}
