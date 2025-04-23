@@ -1,0 +1,61 @@
+{
+  "id": 451707,
+  "username": "FluffyGOD",
+  "description": "Can't get enough\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-09-13T15:11:54.000Z",
+  "date_last_played": "2024-12-23T17:11:30.000Z",
+  "profile_views": 223,
+  "kill_count": 17945,
+  "play_count": 5075,
+  "highest_score": 5675742,
+  "picture": "451707.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11102,
+  "tier": 10,
+  "xp": 1663950,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 566,
+      "user_id": 451707,
+      "platform_id": "dc",
+      "platform_user_id": "fiziukas#8242",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-23T17:54:38.000Z",
+      "updated_at": "2022-11-23T15:52:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 451707,
+    "rank_kc": 1059,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-15T12:10:23.000Z",
+    "rank_pc": 1465,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-15T12:10:25.000Z",
+    "rank_hs": 6601,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-15T12:10:26.000Z",
+    "created_at": "2024-12-23T17:11:29.000Z",
+    "updated_at": "2024-12-23T17:11:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-23T19:05:30.236Z"
+}
