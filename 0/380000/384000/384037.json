@@ -1,0 +1,168 @@
+{
+  "id": 384037,
+  "username": "OPOSSYBOY",
+  "description": "rip\n\n",
+  "about": "they/he femboy fag\n\nif i friend request you it's cause i think you're cool <3\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-05-25T20:30:23.000Z",
+  "date_last_played": "2023-03-29T01:59:21.000Z",
+  "profile_views": 90,
+  "kill_count": 5234,
+  "play_count": 2145,
+  "highest_score": 2776924,
+  "picture": "384037-b570e182b10b52d110719b468f004d1695.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 125,
+  "tier": 4,
+  "xp": 193950,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5760,
+      "user_id": 384037,
+      "platform_id": "yt",
+      "platform_user_id": "MUSHROOMTIME !",
+      "platform_user_url": "https://www.youtube.com/channel/UC1e72c0UOHtyEnl4V4VxuMA",
+      "verified": false,
+      "created_at": "2022-08-28T20:49:17.000Z",
+      "updated_at": "2022-08-28T20:49:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 384037,
+    "rank_kc": 4392,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-22T20:17:58.000Z",
+    "rank_pc": 3830,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-22T20:17:58.000Z",
+    "rank_hs": 19733,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-22T20:17:59.000Z",
+    "created_at": "2023-05-16T20:04:27.000Z",
+    "updated_at": "2023-03-29T01:59:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7121,
+          "user_id": 384037,
+          "cloneof_id": null,
+          "string_id": "map_aaaaaaa",
+          "title": "Map aaaaaa",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 24,
+          "created_at": "2021-06-12T19:51:05.000Z",
+          "updated_at": "2021-09-05T21:15:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 384037,
+            "username": "OPOSSYBOY",
+            "description": "rip\n\n",
+            "about": "they/he femboy fag\n\nif i friend request you it's cause i think you're cool <3\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-05-25T20:30:23.000Z",
+            "date_last_played": "2023-03-29T01:59:21.000Z",
+            "kill_count": 5234,
+            "play_count": 2145,
+            "highest_score": 2776924,
+            "picture": "384037-b570e182b10b52d110719b468f004d1695.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 125,
+            "tier": 4,
+            "xp": 193950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 6463,
+          "user_id": 384037,
+          "cloneof_id": 6436,
+          "string_id": "TFFA_MAP",
+          "title": "Team Free For All",
+          "description": "tffa, first map of mine, suggestions more than welcome",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 918,
+          "created_at": "2021-04-05T19:29:01.000Z",
+          "updated_at": "2021-09-03T01:21:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 384037,
+            "username": "OPOSSYBOY",
+            "description": "rip\n\n",
+            "about": "they/he femboy fag\n\nif i friend request you it's cause i think you're cool <3\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2017-05-25T20:30:23.000Z",
+            "date_last_played": "2023-03-29T01:59:21.000Z",
+            "kill_count": 5234,
+            "play_count": 2145,
+            "highest_score": 2776924,
+            "picture": "384037-b570e182b10b52d110719b468f004d1695.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 125,
+            "tier": 4,
+            "xp": 193950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cold swamp"
+            },
+            {
+              "id": "cold_swamp"
+            },
+            {
+              "id": "first"
+            },
+            {
+              "id": "first map"
+            },
+            {
+              "id": "first_map"
+            },
+            {
+              "id": "new"
+            },
+            {
+              "id": "tffa"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-23T12:12:56.867Z"
+}
