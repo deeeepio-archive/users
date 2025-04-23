@@ -1,0 +1,77 @@
+{
+  "id": 401115,
+  "username": "딥이오",
+  "description": "Deeeep.io 한국어 포럼을 이용해보세요.\nDeeeep.io Korea > https://www.deeeep.zz.am/",
+  "about": "Deeeep.io 한국 커뮤니티 관리자 공식 계정입니다.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-06-17T14:42:04.000Z",
+  "date_last_played": "2025-01-15T13:56:02.000Z",
+  "profile_views": 1404,
+  "kill_count": 2997,
+  "play_count": 1069,
+  "highest_score": 4783221,
+  "picture": "401115-ad791f4dab103bf31fad6f8a076d0481010.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 341,
+  "tier": 5,
+  "xp": 315000,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 15148,
+      "user_id": 401115,
+      "platform_id": "dc",
+      "platform_user_id": "https://cafe.naver.com/deeeepio",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-17T10:05:22.000Z",
+      "updated_at": "2023-02-17T10:05:22.000Z"
+    },
+    {
+      "id": 15147,
+      "user_id": 401115,
+      "platform_id": "dc",
+      "platform_user_id": "https://www.deeeep.zz.am/",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-17T10:04:16.000Z",
+      "updated_at": "2023-02-17T10:04:57.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 401115,
+    "rank_kc": 10998,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-08T10:13:59.000Z",
+    "rank_pc": 12999,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-08T10:14:03.000Z",
+    "rank_hs": 9143,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-08T10:14:09.000Z",
+    "created_at": "2025-01-15T13:56:01.000Z",
+    "updated_at": "2025-01-15T13:56:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-23T13:51:38.386Z"
+}
