@@ -1,0 +1,61 @@
+{
+  "id": 366880,
+  "username": "yzz",
+  "description": "Im That I AM\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2017-05-13T14:27:46.000Z",
+  "date_last_played": "2023-11-25T04:25:11.000Z",
+  "profile_views": 5,
+  "kill_count": 1367,
+  "play_count": 1209,
+  "highest_score": 2052058,
+  "picture": "366880-77b2f2a7513ad0ca377c67164632ac8d.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 172,
+  "tier": 1,
+  "xp": 20100,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16224,
+      "user_id": 366880,
+      "platform_id": "ig",
+      "platform_user_id": "yiizhen__",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-14T13:34:49.000Z",
+      "updated_at": "2023-03-14T13:34:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 366880,
+    "rank_kc": 20034,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-14T16:04:44.000Z",
+    "rank_pc": 9378,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-14T16:04:56.000Z",
+    "rank_hs": 34483,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-14T16:05:21.000Z",
+    "created_at": "2023-11-25T04:25:10.000Z",
+    "updated_at": "2023-11-25T04:25:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-23T10:42:51.549Z"
+}
