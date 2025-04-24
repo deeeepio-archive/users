@@ -1,0 +1,253 @@
+{
+  "id": 613198,
+  "username": "SalinTheFish",
+  "description": "It`s you, George?",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-07T17:21:06.000Z",
+  "date_last_played": "2021-01-22T18:43:38.000Z",
+  "profile_views": 0,
+  "kill_count": 938,
+  "play_count": 169,
+  "highest_score": 2443360,
+  "picture": "613198.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 173,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 613198,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T12:14:00.935Z",
+    "updated_at": "2025-04-24T12:14:01.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3414,
+          "user_id": 613198,
+          "cloneof_id": null,
+          "string_id": "ie_roleplay_map_v4",
+          "title": "RolePlayMap",
+          "description": "Now i realy \"building\" normal map for pvpve",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 53,
+          "created_at": "2020-06-16T08:16:11.000Z",
+          "updated_at": "2020-06-17T11:06:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 613198,
+            "username": "SalinTheFish",
+            "description": "It`s you, George?",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-07T17:21:06.000Z",
+            "date_last_played": "2021-01-22T18:43:38.000Z",
+            "kill_count": 938,
+            "play_count": 169,
+            "highest_score": 2443360,
+            "picture": "613198.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 173,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "pve"
+            },
+            {
+              "id": "pvp"
+            },
+            {
+              "id": "RP"
+            }
+          ]
+        },
+        {
+          "id": 3413,
+          "user_id": 613198,
+          "cloneof_id": 3398,
+          "string_id": "ie_roleplay_map_v3",
+          "title": "Untitled",
+          "description": "Ok. Now it`s realy map for deep io.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 300,
+          "created_at": "2020-06-16T07:12:09.000Z",
+          "updated_at": "2020-06-16T07:12:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 613198,
+            "username": "SalinTheFish",
+            "description": "It`s you, George?",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-07T17:21:06.000Z",
+            "date_last_played": "2021-01-22T18:43:38.000Z",
+            "kill_count": 938,
+            "play_count": 169,
+            "highest_score": 2443360,
+            "picture": "613198.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 173,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "rp"
+            }
+          ]
+        },
+        {
+          "id": 3397,
+          "user_id": 613198,
+          "cloneof_id": null,
+          "string_id": "ie_roleplay_map_v2",
+          "title": "RolePlayMap",
+          "description": "RP Map for deeeep io, pls add rp mode.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 31,
+          "created_at": "2020-06-15T20:42:42.000Z",
+          "updated_at": "2020-06-15T21:21:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 613198,
+            "username": "SalinTheFish",
+            "description": "It`s you, George?",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-07T17:21:06.000Z",
+            "date_last_played": "2021-01-22T18:43:38.000Z",
+            "kill_count": 938,
+            "play_count": 169,
+            "highest_score": 2443360,
+            "picture": "613198.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 173,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "Map"
+            },
+            {
+              "id": "RolePlay"
+            },
+            {
+              "id": "RP"
+            }
+          ]
+        },
+        {
+          "id": 3395,
+          "user_id": 613198,
+          "cloneof_id": null,
+          "string_id": "ie_rp_map_v1",
+          "title": "MapForRP",
+          "description": "idk, just rp map.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2020-06-15T19:24:42.000Z",
+          "updated_at": "2020-06-15T20:39:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 613198,
+            "username": "SalinTheFish",
+            "description": "It`s you, George?",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-07T17:21:06.000Z",
+            "date_last_played": "2021-01-22T18:43:38.000Z",
+            "kill_count": 938,
+            "play_count": 169,
+            "highest_score": 2443360,
+            "picture": "613198.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 173,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Deeee"
+            },
+            {
+              "id": "RP"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:14:01.007Z"
+}
