@@ -1,0 +1,452 @@
+{
+  "id": 627940,
+  "username": "Bernvich_thifvihl_vlalin",
+  "description": "You have become sherk.\r\nSherk is one, sherk is all.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-09-01T10:57:30.000Z",
+  "date_last_played": "2022-07-01T07:18:13.000Z",
+  "profile_views": 10,
+  "kill_count": 7793,
+  "play_count": 1196,
+  "highest_score": 2922761,
+  "picture": "627940.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 2,
+  "xp": 29250,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 627940,
+    "rank_kc": 2392,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-30T09:49:55.000Z",
+    "rank_pc": 7335,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-30T09:49:55.000Z",
+    "rank_hs": 16746,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-30T09:49:56.000Z",
+    "created_at": "2022-07-28T20:13:27.000Z",
+    "updated_at": "2022-07-01T07:18:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8775,
+          "user_id": 627940,
+          "cloneof_id": null,
+          "string_id": "123saj8yb",
+          "title": "GO Map",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 374,
+          "created_at": "2021-12-17T10:18:16.000Z",
+          "updated_at": "2022-02-22T21:10:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 627940,
+            "username": "Bernvich_thifvihl_vlalin",
+            "description": "You have become sherk.\r\nSherk is one, sherk is all.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-01T10:57:30.000Z",
+            "date_last_played": "2022-07-01T07:18:13.000Z",
+            "kill_count": 7793,
+            "play_count": 1196,
+            "highest_score": 2922761,
+            "picture": "627940.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 29250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 3775,
+          "user_id": 627940,
+          "cloneof_id": null,
+          "string_id": "2122",
+          "title": "Ball World",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 25,
+          "created_at": "2020-07-23T11:16:48.000Z",
+          "updated_at": "2020-07-23T11:30:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 627940,
+            "username": "Bernvich_thifvihl_vlalin",
+            "description": "You have become sherk.\r\nSherk is one, sherk is all.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-01T10:57:30.000Z",
+            "date_last_played": "2022-07-01T07:18:13.000Z",
+            "kill_count": 7793,
+            "play_count": 1196,
+            "highest_score": 2922761,
+            "picture": "627940.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 29250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "weird"
+            }
+          ]
+        },
+        {
+          "id": 2857,
+          "user_id": 627940,
+          "cloneof_id": null,
+          "string_id": "123788893482",
+          "title": "Cold lake & River",
+          "description": "Cold lake & River",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-05-04T06:30:06.000Z",
+          "updated_at": "2020-05-04T06:30:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 627940,
+            "username": "Bernvich_thifvihl_vlalin",
+            "description": "You have become sherk.\r\nSherk is one, sherk is all.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-01T10:57:30.000Z",
+            "date_last_played": "2022-07-01T07:18:13.000Z",
+            "kill_count": 7793,
+            "play_count": 1196,
+            "highest_score": 2922761,
+            "picture": "627940.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 29250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 545,
+          "user_id": 627940,
+          "cloneof_id": null,
+          "string_id": "map_5_v1",
+          "title": "Space",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 111,
+          "created_at": "2019-09-15T22:41:02.000Z",
+          "updated_at": "2019-10-15T09:34:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 627940,
+            "username": "Bernvich_thifvihl_vlalin",
+            "description": "You have become sherk.\r\nSherk is one, sherk is all.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-01T10:57:30.000Z",
+            "date_last_played": "2022-07-01T07:18:13.000Z",
+            "kill_count": 7793,
+            "play_count": 1196,
+            "highest_score": 2922761,
+            "picture": "627940.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 29250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 511,
+          "user_id": 627940,
+          "cloneof_id": null,
+          "string_id": "map_4_v1",
+          "title": "Maze",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 124,
+          "created_at": "2019-09-14T11:44:31.000Z",
+          "updated_at": "2020-02-21T06:53:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 627940,
+            "username": "Bernvich_thifvihl_vlalin",
+            "description": "You have become sherk.\r\nSherk is one, sherk is all.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-01T10:57:30.000Z",
+            "date_last_played": "2022-07-01T07:18:13.000Z",
+            "kill_count": 7793,
+            "play_count": 1196,
+            "highest_score": 2922761,
+            "picture": "627940.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 29250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 494,
+          "user_id": 627940,
+          "cloneof_id": null,
+          "string_id": "map_3_v1",
+          "title": "The Shallows",
+          "description": "One big reef",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 47,
+          "created_at": "2019-09-13T13:17:06.000Z",
+          "updated_at": "2020-02-21T06:59:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 627940,
+            "username": "Bernvich_thifvihl_vlalin",
+            "description": "You have become sherk.\r\nSherk is one, sherk is all.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-01T10:57:30.000Z",
+            "date_last_played": "2022-07-01T07:18:13.000Z",
+            "kill_count": 7793,
+            "play_count": 1196,
+            "highest_score": 2922761,
+            "picture": "627940.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 29250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "island"
+            },
+            {
+              "id": "reef"
+            },
+            {
+              "id": "sand bays"
+            },
+            {
+              "id": "small caves"
+            }
+          ]
+        },
+        {
+          "id": 431,
+          "user_id": 627940,
+          "cloneof_id": null,
+          "string_id": "map_2_v1",
+          "title": "Worm Pit",
+          "description": "weird idea. Fear the Worms.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 29,
+          "created_at": "2019-09-09T07:08:04.000Z",
+          "updated_at": "2019-10-15T09:34:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 627940,
+            "username": "Bernvich_thifvihl_vlalin",
+            "description": "You have become sherk.\r\nSherk is one, sherk is all.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-01T10:57:30.000Z",
+            "date_last_played": "2022-07-01T07:18:13.000Z",
+            "kill_count": 7793,
+            "play_count": 1196,
+            "highest_score": 2922761,
+            "picture": "627940.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 29250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Death Pit"
+            },
+            {
+              "id": "Small Map"
+            },
+            {
+              "id": "Worm Buffet"
+            }
+          ]
+        },
+        {
+          "id": 331,
+          "user_id": 627940,
+          "cloneof_id": null,
+          "string_id": "map_1_v2",
+          "title": "The Deeeep Canyon",
+          "description": "IT DEEEEP. also very messy",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 743,
+          "created_at": "2019-09-03T10:12:16.000Z",
+          "updated_at": "2021-12-17T09:31:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 627940,
+            "username": "Bernvich_thifvihl_vlalin",
+            "description": "You have become sherk.\r\nSherk is one, sherk is all.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-01T10:57:30.000Z",
+            "date_last_played": "2022-07-01T07:18:13.000Z",
+            "kill_count": 7793,
+            "play_count": 1196,
+            "highest_score": 2922761,
+            "picture": "627940.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 29250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "all habitats"
+            },
+            {
+              "id": "Brine lack"
+            },
+            {
+              "id": "coarl reef"
+            },
+            {
+              "id": "Cold cave"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "Deeeep caverns"
+            },
+            {
+              "id": "Swamp cave"
+            },
+            {
+              "id": "Swamp island"
+            },
+            {
+              "id": "Two arctic "
+            },
+            {
+              "id": "very deeeep"
+            }
+          ]
+        }
+      ],
+      "count": 8
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T13:41:45.204Z"
+}
