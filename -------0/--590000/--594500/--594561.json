@@ -1,0 +1,112 @@
+{
+  "id": 594561,
+  "username": "5108193_652",
+  "description": "Hi Sorry I killed you",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-18T01:28:45.000Z",
+  "date_last_played": "2020-05-28T23:26:33.000Z",
+  "profile_views": 0,
+  "kill_count": 70,
+  "play_count": 23,
+  "highest_score": 2226062,
+  "picture": "594561.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 92,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 594561,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T10:21:37.795Z",
+    "updated_at": "2025-04-24T10:21:38.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1410,
+          "user_id": 594561,
+          "cloneof_id": null,
+          "string_id": "kkai_map",
+          "title": "A World With a Cove",
+          "description": "A world with ice caps on both sides and a cove at the heart where all my live togeather",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 989,
+          "created_at": "2020-01-05T23:46:02.000Z",
+          "updated_at": "2020-01-11T20:28:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 594561,
+            "username": "5108193_652",
+            "description": "Hi Sorry I killed you",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-18T01:28:45.000Z",
+            "date_last_played": "2020-05-28T23:26:33.000Z",
+            "kill_count": 70,
+            "play_count": 23,
+            "highest_score": 2226062,
+            "picture": "594561.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 92,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Coral Reef"
+            },
+            {
+              "id": "Cove"
+            },
+            {
+              "id": "Ice castle"
+            },
+            {
+              "id": "Ice maze"
+            },
+            {
+              "id": "Kkai2004"
+            },
+            {
+              "id": "Volcanic Vents"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T10:21:37.906Z"
+}
