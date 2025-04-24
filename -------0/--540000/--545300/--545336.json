@@ -1,0 +1,97 @@
+{
+  "id": 545336,
+  "username": "Brickwall",
+  "description": "F",
+  "about": "Shaaaallow",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2018-12-06T22:41:23.000Z",
+  "date_last_played": "2023-09-27T19:38:21.000Z",
+  "profile_views": 18,
+  "kill_count": 5023,
+  "play_count": 1324,
+  "highest_score": 2867479,
+  "picture": "545336.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 170,
+  "tier": 3,
+  "xp": 78450,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 545336,
+    "rank_kc": 4449,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-19T01:36:55.000Z",
+    "rank_pc": 6909,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-19T01:36:56.000Z",
+    "rank_hs": 17961,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-18T19:55:57.000Z",
+    "created_at": "2023-09-27T19:38:20.000Z",
+    "updated_at": "2023-09-27T19:38:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1660,
+          "user_id": 545336,
+          "cloneof_id": null,
+          "string_id": "112233445566",
+          "title": "1v1 map",
+          "description": "Hiding Spaces on Shipwreck Don't Work On This Map.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2020-02-09T20:16:33.000Z",
+          "updated_at": "2020-02-09T20:16:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 545336,
+            "username": "Brickwall",
+            "description": "F",
+            "about": "Shaaaallow",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2018-12-06T22:41:23.000Z",
+            "date_last_played": "2023-09-27T19:38:21.000Z",
+            "kill_count": 5023,
+            "play_count": 1324,
+            "highest_score": 2867479,
+            "picture": "545336.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 170,
+            "tier": 3,
+            "xp": 78450,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T05:17:29.810Z"
+}
