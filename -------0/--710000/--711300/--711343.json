@@ -1,0 +1,61 @@
+{
+  "id": 711343,
+  "username": "blυ",
+  "description": "",
+  "about": "\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-12T23:11:43.000Z",
+  "date_last_played": "2024-01-02T05:04:07.000Z",
+  "profile_views": 5313,
+  "kill_count": 56050,
+  "play_count": 13448,
+  "highest_score": 11454735,
+  "picture": "711343-bb8c10484865fae749108195b90d107ed1c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 30318,
+  "tier": 10,
+  "xp": 3996750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28471,
+      "user_id": 711343,
+      "platform_id": "ig",
+      "platform_user_id": "p.tri2",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-23T02:43:28.000Z",
+      "updated_at": "2023-10-23T02:43:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 711343,
+    "rank_kc": 64,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-02T05:13:26.000Z",
+    "rank_pc": 54,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-02T05:13:27.000Z",
+    "rank_hs": 2175,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-02T04:41:26.000Z",
+    "created_at": "2024-01-02T05:47:06.000Z",
+    "updated_at": "2024-01-02T05:13:27.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T22:48:18.998Z"
+}
