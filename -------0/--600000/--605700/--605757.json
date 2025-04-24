@@ -1,0 +1,158 @@
+{
+  "id": 605757,
+  "username": "Colossaleye",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-07T10:48:12.000Z",
+  "date_last_played": "2025-01-10T07:23:21.000Z",
+  "profile_views": 376,
+  "kill_count": 8101,
+  "play_count": 4283,
+  "highest_score": 7901272,
+  "picture": "605757-db7dfe243777147b950d86934847bf82.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 145,
+  "tier": 5,
+  "xp": 285900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 605757,
+    "rank_kc": 3120,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-09T10:51:49.000Z",
+    "rank_pc": 1514,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-09T10:51:51.000Z",
+    "rank_hs": 3511,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-09T10:51:52.000Z",
+    "created_at": "2025-01-10T07:23:20.000Z",
+    "updated_at": "2025-01-10T07:23:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9306,
+          "user_id": 605757,
+          "cloneof_id": null,
+          "string_id": "crazygoat_pd",
+          "title": "Gulf of Deeeep.io",
+          "description": "Mid Large Pearl Defence map located in the Gulf of Deeeep.io with a 1 way transportation tunnels on both sides operated with currents. (Some Lighthouse properties based from Grucho's Lighthouse) ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 464,
+          "created_at": "2022-02-18T14:41:26.000Z",
+          "updated_at": "2022-02-26T14:14:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 605757,
+            "username": "Colossaleye",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-07T10:48:12.000Z",
+            "date_last_played": "2025-01-10T07:23:21.000Z",
+            "kill_count": 8101,
+            "play_count": 4283,
+            "highest_score": 7901272,
+            "picture": "605757-db7dfe243777147b950d86934847bf82.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 145,
+            "tier": 5,
+            "xp": 285900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "CrazyGoat"
+            },
+            {
+              "id": "Pearl Defence"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": [
+      {
+        "id": 21833,
+        "version": 1,
+        "asset": "21833-1.png",
+        "created_at": "2023-06-18T15:06:04.000Z",
+        "updated_at": "2024-09-27T22:10:04.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 56,
+        "name": "Spotlight Loosejaw",
+        "description": null,
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/comments/14cmbdm/dragonfish_stoplight_loosejaw_75_dabloons/",
+        "category": "real",
+        "season": null,
+        "on_sale": true,
+        "price": 75,
+        "sales": 22,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 605757,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 605757,
+          "username": "Colossaleye",
+          "description": "",
+          "about": null,
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2019-06-07T10:48:12.000Z",
+          "date_last_played": "2025-01-10T07:23:21.000Z",
+          "kill_count": 8101,
+          "play_count": 4283,
+          "highest_score": 7901272,
+          "picture": "605757-db7dfe243777147b950d86934847bf82.png",
+          "displayPicture": true,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 145,
+          "tier": 5,
+          "xp": 285900,
+          "migrated": false,
+          "verified": false,
+          "beta": false
+        }
+      }
+    ]
+  },
+  "archived_at": "2025-04-24T11:28:57.145Z"
+}
