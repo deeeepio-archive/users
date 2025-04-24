@@ -1,0 +1,103 @@
+{
+  "id": 705007,
+  "username": "EmoilyUnicorn",
+  "description": "\r\nHuh.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-28T17:40:49.000Z",
+  "date_last_played": "2020-03-05T15:48:33.000Z",
+  "profile_views": 0,
+  "kill_count": 1,
+  "play_count": 9,
+  "highest_score": 61950,
+  "picture": "705007.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 705007,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T22:05:41.024Z",
+    "updated_at": "2025-04-24T22:05:41.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1913,
+          "user_id": 705007,
+          "cloneof_id": null,
+          "string_id": "the_emoily_fantasylands",
+          "title": "Fantasy Lands",
+          "description": "This is my first map,  I do not know what i was doing ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 54,
+          "created_at": "2020-02-28T20:28:44.000Z",
+          "updated_at": "2020-02-28T21:28:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 705007,
+            "username": "EmoilyUnicorn",
+            "description": "\r\nHuh.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-28T17:40:49.000Z",
+            "date_last_played": "2020-03-05T15:48:33.000Z",
+            "kill_count": 1,
+            "play_count": 9,
+            "highest_score": 61950,
+            "picture": "705007.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " emoily"
+            },
+            {
+              "id": "1st map"
+            },
+            {
+              "id": "awsome"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T22:05:41.086Z"
+}
