@@ -1,0 +1,200 @@
+{
+  "id": 600066,
+  "username": "TheGiantPirrana",
+  "description": "<RED>You died by a pancake!\n\n                 - TheGiantPancake",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-27T22:02:37.000Z",
+  "date_last_played": "2024-12-31T13:49:14.000Z",
+  "profile_views": 105,
+  "kill_count": 4220,
+  "play_count": 2236,
+  "highest_score": 100200778,
+  "picture": "600066.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 35,
+  "tier": 3,
+  "xp": 89400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2008,
+      "user_id": 600066,
+      "platform_id": "dc",
+      "platform_user_id": "Idsfjkl",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-10T20:02:30.000Z",
+      "updated_at": "2022-06-10T20:02:30.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 600066,
+    "rank_kc": 5807,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-16T15:24:49.000Z",
+    "rank_pc": 3660,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-16T15:24:49.000Z",
+    "rank_hs": 562,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-12-31T13:49:14.000Z",
+    "updated_at": "2024-12-31T13:49:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6892,
+          "user_id": 600066,
+          "cloneof_id": null,
+          "string_id": "nation_ffa",
+          "title": "Yes",
+          "description": "YEs",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1,
+          "created_at": "2021-05-20T16:57:42.000Z",
+          "updated_at": "2021-05-20T16:57:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 600066,
+            "username": "TheGiantPirrana",
+            "description": "<RED>You died by a pancake!\n\n                 - TheGiantPancake",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-27T22:02:37.000Z",
+            "date_last_played": "2024-12-31T13:49:14.000Z",
+            "kill_count": 4220,
+            "play_count": 2236,
+            "highest_score": 100200778,
+            "picture": "600066.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 35,
+            "tier": 3,
+            "xp": 89400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            }
+          ]
+        },
+        {
+          "id": 6802,
+          "user_id": 600066,
+          "cloneof_id": null,
+          "string_id": "pancake_ffa",
+          "title": "Pancake FFA",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1,
+          "created_at": "2021-05-11T20:29:31.000Z",
+          "updated_at": "2021-05-11T20:29:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 600066,
+            "username": "TheGiantPirrana",
+            "description": "<RED>You died by a pancake!\n\n                 - TheGiantPancake",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-27T22:02:37.000Z",
+            "date_last_played": "2024-12-31T13:49:14.000Z",
+            "kill_count": 4220,
+            "play_count": 2236,
+            "highest_score": 100200778,
+            "picture": "600066.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 35,
+            "tier": 3,
+            "xp": 89400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            }
+          ]
+        },
+        {
+          "id": 6789,
+          "user_id": 600066,
+          "cloneof_id": null,
+          "string_id": "pancake_1v1",
+          "title": "1v1 map of Pancake",
+          "description": "yes",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 9,
+          "created_at": "2021-05-10T22:05:57.000Z",
+          "updated_at": "2021-05-10T22:05:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 600066,
+            "username": "TheGiantPirrana",
+            "description": "<RED>You died by a pancake!\n\n                 - TheGiantPancake",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-27T22:02:37.000Z",
+            "date_last_played": "2024-12-31T13:49:14.000Z",
+            "kill_count": 4220,
+            "play_count": 2236,
+            "highest_score": 100200778,
+            "picture": "600066.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 35,
+            "tier": 3,
+            "xp": 89400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T10:54:48.972Z"
+}
