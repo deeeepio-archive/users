@@ -1,0 +1,97 @@
+{
+  "id": 558353,
+  "username": "Josephcyte",
+  "description": "I foind fishe",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-02-11T23:24:38.000Z",
+  "date_last_played": "2024-05-13T13:08:13.000Z",
+  "profile_views": 36,
+  "kill_count": 560,
+  "play_count": 390,
+  "highest_score": 739973,
+  "picture": "558353-ee92789ad35dc9bb6a4d7e216ebb4d4a.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 126,
+  "tier": 2,
+  "xp": 36600,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 558353,
+    "rank_kc": 47581,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-12T14:02:48.000Z",
+    "rank_pc": 36273,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-12T14:03:06.000Z",
+    "rank_hs": 143245,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-12T14:03:16.000Z",
+    "created_at": "2024-05-13T13:08:12.000Z",
+    "updated_at": "2024-05-13T13:08:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2253,
+          "user_id": 558353,
+          "cloneof_id": null,
+          "string_id": "the_hellands_v1",
+          "title": "Welcome to hell",
+          "description": "your not gonna make it :)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 33,
+          "created_at": "2020-03-23T14:18:24.000Z",
+          "updated_at": "2020-03-23T14:18:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 558353,
+            "username": "Josephcyte",
+            "description": "I foind fishe",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-02-11T23:24:38.000Z",
+            "date_last_played": "2024-05-13T13:08:13.000Z",
+            "kill_count": 560,
+            "play_count": 390,
+            "highest_score": 739973,
+            "picture": "558353-ee92789ad35dc9bb6a4d7e216ebb4d4a.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 126,
+            "tier": 2,
+            "xp": 36600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#badmap"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T06:39:38.715Z"
+}
