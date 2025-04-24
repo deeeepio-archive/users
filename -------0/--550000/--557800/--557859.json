@@ -1,0 +1,146 @@
+{
+  "id": 557859,
+  "username": "williamj_974",
+  "description": "better luck next time bro",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-02-08T22:59:52.000Z",
+  "date_last_played": "2021-01-01T13:28:28.000Z",
+  "profile_views": 0,
+  "kill_count": 100,
+  "play_count": 69,
+  "highest_score": 643650,
+  "picture": "557859.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 557859,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T06:36:14.294Z",
+    "updated_at": "2025-04-24T06:36:14.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1128,
+          "user_id": 557859,
+          "cloneof_id": null,
+          "string_id": "potato",
+          "title": "cavern",
+          "description": "potato",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2019-11-16T12:44:49.000Z",
+          "updated_at": "2019-11-16T12:44:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 557859,
+            "username": "williamj_974",
+            "description": "better luck next time bro",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-02-08T22:59:52.000Z",
+            "date_last_played": "2021-01-01T13:28:28.000Z",
+            "kill_count": 100,
+            "play_count": 69,
+            "highest_score": 643650,
+            "picture": "557859.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cavern"
+            },
+            {
+              "id": "potato"
+            }
+          ]
+        },
+        {
+          "id": 1127,
+          "user_id": 557859,
+          "cloneof_id": null,
+          "string_id": "potatoes",
+          "title": "cavern",
+          "description": "a simple cavern map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2019-11-16T12:42:12.000Z",
+          "updated_at": "2019-11-16T12:42:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 557859,
+            "username": "williamj_974",
+            "description": "better luck next time bro",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-02-08T22:59:52.000Z",
+            "date_last_played": "2021-01-01T13:28:28.000Z",
+            "kill_count": 100,
+            "play_count": 69,
+            "highest_score": 643650,
+            "picture": "557859.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cavern"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T06:36:14.379Z"
+}
