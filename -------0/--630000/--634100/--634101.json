@@ -1,0 +1,103 @@
+{
+  "id": 634101,
+  "username": "9422652_446",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-09-19T22:12:36.000Z",
+  "date_last_played": "2020-03-12T17:22:48.000Z",
+  "profile_views": 0,
+  "kill_count": 593,
+  "play_count": 18,
+  "highest_score": 1117499,
+  "picture": "634101.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 35,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 634101,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T14:17:54.581Z",
+    "updated_at": "2025-04-24T14:17:55.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 651,
+          "user_id": 634101,
+          "cloneof_id": null,
+          "string_id": "weebsquad",
+          "title": "BurgerkingChickenNuggetObamaSonicU",
+          "description": "epic",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2019-09-27T16:25:14.000Z",
+          "updated_at": "2019-09-27T16:25:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 634101,
+            "username": "9422652_446",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-19T22:12:36.000Z",
+            "date_last_played": "2020-03-12T17:22:48.000Z",
+            "kill_count": 593,
+            "play_count": 18,
+            "highest_score": 1117499,
+            "picture": "634101.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 35,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#facebook"
+            },
+            {
+              "id": "#mcdonalds #"
+            },
+            {
+              "id": "#roblox"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T14:17:54.667Z"
+}
