@@ -1,0 +1,100 @@
+{
+  "id": 647566,
+  "username": "PEST",
+  "description": "hi lol",
+  "about": "i don't play this game often LOL\nHELP i can't change my pfp",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-24T17:50:16.000Z",
+  "date_last_played": "2024-03-03T19:13:02.000Z",
+  "profile_views": 21,
+  "kill_count": 1627,
+  "play_count": 252,
+  "highest_score": 2901381,
+  "picture": "647566-846d4c6bb2da2546214f112d3f343997.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 40,
+  "tier": 1,
+  "xp": 10200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 647566,
+    "rank_kc": 14601,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-05T20:51:04.000Z",
+    "rank_pc": 30014,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-05T20:51:05.000Z",
+    "rank_hs": 17804,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-05T20:51:05.000Z",
+    "created_at": "2024-03-03T19:13:02.000Z",
+    "updated_at": "2024-03-03T19:13:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2317,
+          "user_id": 647566,
+          "cloneof_id": null,
+          "string_id": "ie_my_map_v1",
+          "title": "????????????????????❜???? ????????????????????????.???????? ???????????? 【????????????????】",
+          "description": "This is my HUGE deeeep.io map! It's a WIP right now so stay tuned until it's finished!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 37,
+          "created_at": "2020-03-27T23:36:13.000Z",
+          "updated_at": "2020-03-29T01:18:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 647566,
+            "username": "PEST",
+            "description": "hi lol",
+            "about": "i don't play this game often LOL\nHELP i can't change my pfp",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-10-24T17:50:16.000Z",
+            "date_last_played": "2024-03-03T19:13:02.000Z",
+            "kill_count": 1627,
+            "play_count": 252,
+            "highest_score": 2901381,
+            "picture": "647566-846d4c6bb2da2546214f112d3f343997.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 40,
+            "tier": 1,
+            "xp": 10200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Just no."
+            },
+            {
+              "id": "No."
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:39:06.624Z"
+}
