@@ -1,0 +1,110 @@
+{
+  "id": 565058,
+  "username": "Blobfish_The_Devourer",
+  "description": "                            ༼   ºل͟º ༼   ºل͟º ༼   ºل͟º  ༽ ºل͟º  ༽ ºل͟º  ༽\n                             This is the blorbmen council\n                                They came for your soul",
+  "about": "All hail the holy  Blobfish itself the devourer of worlds\n(not me)\nMy nick is usually: -_-\nI main Crab (the tier 2)",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-03-17T18:39:31.000Z",
+  "date_last_played": "2025-01-05T17:27:44.000Z",
+  "profile_views": 368,
+  "kill_count": 27618,
+  "play_count": 5166,
+  "highest_score": 7558862,
+  "picture": "565058.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2391,
+  "tier": 10,
+  "xp": 1240050,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 18953,
+      "user_id": 565058,
+      "platform_id": "dc",
+      "platform_user_id": "Blobfish The Devourer#5715",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-09T12:02:33.000Z",
+      "updated_at": "2023-05-09T12:02:33.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 565058,
+    "rank_kc": 360,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-03T18:52:14.000Z",
+    "rank_pc": 1255,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-03T18:52:18.000Z",
+    "rank_hs": 3956,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-02T19:01:05.000Z",
+    "created_at": "2025-01-05T17:27:44.000Z",
+    "updated_at": "2025-01-05T17:27:44.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 360,
+          "user_id": 565058,
+          "cloneof_id": null,
+          "string_id": "pool_workinprogress",
+          "title": "work in progress",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 32,
+          "created_at": "2019-09-04T18:22:35.000Z",
+          "updated_at": "2019-09-05T15:39:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 565058,
+            "username": "Blobfish_The_Devourer",
+            "description": "                            ༼   ºل͟º ༼   ºل͟º ༼   ºل͟º  ༽ ºل͟º  ༽ ºل͟º  ༽\n                             This is the blorbmen council\n                                They came for your soul",
+            "about": "All hail the holy  Blobfish itself the devourer of worlds\n(not me)\nMy nick is usually: -_-\nI main Crab (the tier 2)",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-03-17T18:39:31.000Z",
+            "date_last_played": "2025-01-05T17:27:44.000Z",
+            "kill_count": 27618,
+            "play_count": 5166,
+            "highest_score": 7558862,
+            "picture": "565058.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2391,
+            "tier": 10,
+            "xp": 1240050,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T07:21:52.003Z"
+}
