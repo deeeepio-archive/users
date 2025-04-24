@@ -1,0 +1,411 @@
+{
+  "id": 662517,
+  "username": "Venom583",
+  "description": "gg man",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-24T18:58:42.000Z",
+  "date_last_played": "2024-12-29T23:00:02.000Z",
+  "profile_views": 1627,
+  "kill_count": 46543,
+  "play_count": 7973,
+  "highest_score": 22007822,
+  "picture": "662517.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 26393,
+  "tier": 10,
+  "xp": 1272600,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 3,
+      "slug": "harmony-member",
+      "title": "Harmony Member"
+    },
+    {
+      "id": 5,
+      "slug": "cartography-member",
+      "title": "Cartography Member"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    },
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 662517,
+    "rank_kc": 144,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-13T20:11:42.000Z",
+    "rank_pc": 484,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-13T20:11:44.000Z",
+    "rank_hs": 1254,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-13T20:11:48.000Z",
+    "created_at": "2024-12-29T23:00:02.000Z",
+    "updated_at": "2024-12-29T23:00:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244279,
+          "user_id": 662517,
+          "cloneof_id": 9310,
+          "string_id": "venom_pd_2_original",
+          "title": "Untitled",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 159,
+          "created_at": "2024-05-20T17:24:55.000Z",
+          "updated_at": "2024-05-20T17:25:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 662517,
+            "username": "Venom583",
+            "description": "gg man",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-24T18:58:42.000Z",
+            "date_last_played": "2024-12-29T23:00:02.000Z",
+            "kill_count": 46543,
+            "play_count": 7973,
+            "highest_score": 22007822,
+            "picture": "662517.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26393,
+            "tier": 10,
+            "xp": 1272600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 8877,
+          "user_id": 662517,
+          "cloneof_id": null,
+          "string_id": "venom_ffa",
+          "title": "Venom's Newest FFA Map!!!",
+          "description": "Newest Venom FFA Map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 963,
+          "created_at": "2021-12-29T20:19:44.000Z",
+          "updated_at": "2023-04-10T01:11:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 662517,
+            "username": "Venom583",
+            "description": "gg man",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-24T18:58:42.000Z",
+            "date_last_played": "2024-12-29T23:00:02.000Z",
+            "kill_count": 46543,
+            "play_count": 7973,
+            "highest_score": 22007822,
+            "picture": "662517.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26393,
+            "tier": 10,
+            "xp": 1272600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "venom"
+            }
+          ]
+        },
+        {
+          "id": 8855,
+          "user_id": 662517,
+          "cloneof_id": null,
+          "string_id": "venom_1v1_fjord",
+          "title": "Venom's 1v1 Map",
+          "description": "Electric Boogaloo ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 21,
+          "created_at": "2021-12-26T16:49:18.000Z",
+          "updated_at": "2022-02-25T03:45:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 662517,
+            "username": "Venom583",
+            "description": "gg man",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-24T18:58:42.000Z",
+            "date_last_played": "2024-12-29T23:00:02.000Z",
+            "kill_count": 46543,
+            "play_count": 7973,
+            "highest_score": 22007822,
+            "picture": "662517.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26393,
+            "tier": 10,
+            "xp": 1272600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Fjord"
+            },
+            {
+              "id": "Venom"
+            }
+          ]
+        },
+        {
+          "id": 8646,
+          "user_id": 662517,
+          "cloneof_id": 7935,
+          "string_id": "Venom_FFA_3",
+          "title": "Venom's FFA Map",
+          "description": "My Newest FFA Map ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 784,
+          "created_at": "2021-11-29T23:40:34.000Z",
+          "updated_at": "2022-07-31T15:42:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 662517,
+            "username": "Venom583",
+            "description": "gg man",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-24T18:58:42.000Z",
+            "date_last_played": "2024-12-29T23:00:02.000Z",
+            "kill_count": 46543,
+            "play_count": 7973,
+            "highest_score": 22007822,
+            "picture": "662517.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26393,
+            "tier": 10,
+            "xp": 1272600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "venom"
+            }
+          ]
+        },
+        {
+          "id": 7426,
+          "user_id": 662517,
+          "cloneof_id": null,
+          "string_id": "venom_pd",
+          "title": "Venom's Pearl Defense Map",
+          "description": "Pearl Defense Map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 152,
+          "created_at": "2021-07-24T21:08:23.000Z",
+          "updated_at": "2021-09-15T19:27:40.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 662517,
+            "username": "Venom583",
+            "description": "gg man",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-24T18:58:42.000Z",
+            "date_last_played": "2024-12-29T23:00:02.000Z",
+            "kill_count": 46543,
+            "play_count": 7973,
+            "highest_score": 22007822,
+            "picture": "662517.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26393,
+            "tier": 10,
+            "xp": 1272600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "PD"
+            }
+          ]
+        },
+        {
+          "id": 6760,
+          "user_id": 662517,
+          "cloneof_id": null,
+          "string_id": "Venom_FFA_2_preupdate",
+          "title": "???????????? ???????????? ????????????????????",
+          "description": "reworking the deep next",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 1077,
+          "created_at": "2021-05-06T22:18:18.000Z",
+          "updated_at": "2021-12-08T16:45:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 662517,
+            "username": "Venom583",
+            "description": "gg man",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-24T18:58:42.000Z",
+            "date_last_played": "2024-12-29T23:00:02.000Z",
+            "kill_count": 46543,
+            "play_count": 7973,
+            "highest_score": 22007822,
+            "picture": "662517.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26393,
+            "tier": 10,
+            "xp": 1272600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "ta"
+            },
+            {
+              "id": "tffa"
+            }
+          ]
+        },
+        {
+          "id": 6649,
+          "user_id": 662517,
+          "cloneof_id": 6460,
+          "string_id": "Venom_FFA_preupdate",
+          "title": "Venom's FFA Map",
+          "description": "If you like it, give it a thumbs up",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 1003,
+          "created_at": "2021-04-28T12:21:06.000Z",
+          "updated_at": "2021-12-08T16:45:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 662517,
+            "username": "Venom583",
+            "description": "gg man",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-24T18:58:42.000Z",
+            "date_last_played": "2024-12-29T23:00:02.000Z",
+            "kill_count": 46543,
+            "play_count": 7973,
+            "highest_score": 22007822,
+            "picture": "662517.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26393,
+            "tier": 10,
+            "xp": 1272600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "finished"
+            },
+            {
+              "id": "tffa"
+            }
+          ]
+        }
+      ],
+      "count": 7
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T17:11:18.403Z"
+}
