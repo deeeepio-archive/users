@@ -1,0 +1,61 @@
+{
+  "id": 618819,
+  "username": "Peteious",
+  "description": "ok then",
+  "about": "Certified idiot",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-31T19:03:22.000Z",
+  "date_last_played": "2025-01-24T00:50:08.000Z",
+  "profile_views": 1184,
+  "kill_count": 18842,
+  "play_count": 8220,
+  "highest_score": 10792488,
+  "picture": "618819-ca193026ec1428b3ff43719e41937f5d.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4795,
+  "tier": 10,
+  "xp": 2828550,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4987,
+      "user_id": 618819,
+      "platform_id": "yt",
+      "platform_user_id": "Blitz",
+      "platform_user_url": "https://www.youtube.com/c/Blitzkriegsler",
+      "verified": false,
+      "created_at": "2022-08-15T02:52:16.000Z",
+      "updated_at": "2022-08-15T02:52:16.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 618819,
+    "rank_kc": 827,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-09T01:29:24.000Z",
+    "rank_pc": 350,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-09T01:29:26.000Z",
+    "rank_hs": 2339,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-09T01:29:28.000Z",
+    "created_at": "2025-01-24T00:50:08.000Z",
+    "updated_at": "2025-01-24T00:50:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:47:03.300Z"
+}
