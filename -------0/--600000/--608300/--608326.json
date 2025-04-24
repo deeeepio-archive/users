@@ -1,0 +1,61 @@
+{
+  "id": 608326,
+  "username": "mmoossess",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-16T02:53:33.000Z",
+  "date_last_played": "2024-09-09T16:27:12.000Z",
+  "profile_views": 44,
+  "kill_count": 136,
+  "play_count": 56,
+  "highest_score": 393271,
+  "picture": "608326.PNG",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 170,
+  "tier": 1,
+  "xp": 24600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 98290,
+      "user_id": 608326,
+      "platform_id": "tw",
+      "platform_user_id": "mmoosess",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-09-04T01:09:10.000Z",
+      "updated_at": "2024-09-04T01:09:10.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 608326,
+    "rank_kc": 137557,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-05T00:50:59.000Z",
+    "rank_pc": 187561,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-05T00:50:59.000Z",
+    "rank_hs": 171532,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-05T00:51:00.000Z",
+    "created_at": "2024-09-09T16:27:12.000Z",
+    "updated_at": "2024-09-09T16:27:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:44:28.466Z"
+}
