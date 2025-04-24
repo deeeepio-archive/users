@@ -1,0 +1,276 @@
+{
+  "id": 690461,
+  "username": "✓０１２３４０ツ",
+  "description": "Hey u died sry dont be angry at me.. im just better than you hehehehhe",
+  "about": ":) IM BACKKK",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-05T18:44:32.000Z",
+  "date_last_played": "2024-04-07T19:06:34.000Z",
+  "profile_views": 158,
+  "kill_count": 15623,
+  "play_count": 2692,
+  "highest_score": 65175684,
+  "picture": "690461-2e8ba5e355ec97ca10bf1e1dd3a65b2b10.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 56,
+  "tier": 2,
+  "xp": 49200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2990,
+      "user_id": 690461,
+      "platform_id": "dc",
+      "platform_user_id": "Tiiiiigerr__#1719",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-27T16:18:04.000Z",
+      "updated_at": "2022-06-27T16:18:04.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 690461,
+    "rank_kc": 919,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-25T18:20:49.000Z",
+    "rank_pc": 3062,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-25T18:21:09.000Z",
+    "rank_hs": 681,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-25T18:21:35.000Z",
+    "created_at": "2024-04-07T19:06:33.000Z",
+    "updated_at": "2024-04-07T19:06:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2046,
+          "user_id": 690461,
+          "cloneof_id": null,
+          "string_id": "mapnew",
+          "title": "just for fun",
+          "description": "play",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 40,
+          "created_at": "2020-03-07T14:05:27.000Z",
+          "updated_at": "2020-03-07T14:05:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 690461,
+            "username": "✓０１２３４０ツ",
+            "description": "Hey u died sry dont be angry at me.. im just better than you hehehehhe",
+            "about": ":) IM BACKKK",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-05T18:44:32.000Z",
+            "date_last_played": "2024-04-07T19:06:34.000Z",
+            "kill_count": 15623,
+            "play_count": 2692,
+            "highest_score": 65175684,
+            "picture": "690461-2e8ba5e355ec97ca10bf1e1dd3a65b2b10.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 56,
+            "tier": 2,
+            "xp": 49200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "funny"
+            },
+            {
+              "id": "gg"
+            },
+            {
+              "id": "lol"
+            },
+            {
+              "id": "try"
+            }
+          ]
+        },
+        {
+          "id": 1894,
+          "user_id": 690461,
+          "cloneof_id": null,
+          "string_id": "1v1v1",
+          "title": "orca,shark,croc",
+          "description": "play",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 29,
+          "created_at": "2020-02-27T20:25:22.000Z",
+          "updated_at": "2020-02-27T20:25:23.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 690461,
+            "username": "✓０１２３４０ツ",
+            "description": "Hey u died sry dont be angry at me.. im just better than you hehehehhe",
+            "about": ":) IM BACKKK",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-05T18:44:32.000Z",
+            "date_last_played": "2024-04-07T19:06:34.000Z",
+            "kill_count": 15623,
+            "play_count": 2692,
+            "highest_score": 65175684,
+            "picture": "690461-2e8ba5e355ec97ca10bf1e1dd3a65b2b10.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 56,
+            "tier": 2,
+            "xp": 49200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1v1"
+            },
+            {
+              "id": "try"
+            },
+            {
+              "id": "win"
+            }
+          ]
+        },
+        {
+          "id": 1893,
+          "user_id": 690461,
+          "cloneof_id": null,
+          "string_id": "1vs1",
+          "title": "1v1 try to win",
+          "description": "play",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 24,
+          "created_at": "2020-02-27T20:13:11.000Z",
+          "updated_at": "2020-02-27T20:26:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 690461,
+            "username": "✓０１２３４０ツ",
+            "description": "Hey u died sry dont be angry at me.. im just better than you hehehehhe",
+            "about": ":) IM BACKKK",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-05T18:44:32.000Z",
+            "date_last_played": "2024-04-07T19:06:34.000Z",
+            "kill_count": 15623,
+            "play_count": 2692,
+            "highest_score": 65175684,
+            "picture": "690461-2e8ba5e355ec97ca10bf1e1dd3a65b2b10.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 56,
+            "tier": 2,
+            "xp": 49200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "gg"
+            },
+            {
+              "id": "try"
+            },
+            {
+              "id": "win"
+            }
+          ]
+        },
+        {
+          "id": 1877,
+          "user_id": 690461,
+          "cloneof_id": null,
+          "string_id": "newwmap",
+          "title": "play alone or find team",
+          "description": "play",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 171,
+          "created_at": "2020-02-26T19:42:24.000Z",
+          "updated_at": "2020-02-29T18:30:37.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 690461,
+            "username": "✓０１２３４０ツ",
+            "description": "Hey u died sry dont be angry at me.. im just better than you hehehehhe",
+            "about": ":) IM BACKKK",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-05T18:44:32.000Z",
+            "date_last_played": "2024-04-07T19:06:34.000Z",
+            "kill_count": 15623,
+            "play_count": 2692,
+            "highest_score": 65175684,
+            "picture": "690461-2e8ba5e355ec97ca10bf1e1dd3a65b2b10.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 56,
+            "tier": 2,
+            "xp": 49200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "be the best "
+            },
+            {
+              "id": "deeeep.io"
+            },
+            {
+              "id": "fish"
+            },
+            {
+              "id": "play"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T20:08:10.682Z"
+}
