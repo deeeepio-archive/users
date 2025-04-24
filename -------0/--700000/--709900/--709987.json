@@ -1,0 +1,259 @@
+{
+  "id": 709987,
+  "username": "LeoTheGoat",
+  "description": "If u r reading this, u died from a newbie that started only around 2 yrs ago. So that means u r noobyer than a noob.\r\n\r\nAnd I'm making a map so make sure to check it out :D\r\n( press tha mapmaker button )",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-09T20:44:29.000Z",
+  "date_last_played": "2020-05-26T13:37:58.000Z",
+  "profile_views": 0,
+  "kill_count": 5671,
+  "play_count": 1807,
+  "highest_score": 4900408,
+  "picture": "709987.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 141,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 709987,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T22:40:55.286Z",
+    "updated_at": "2025-04-24T22:40:55.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2664,
+          "user_id": 709987,
+          "cloneof_id": null,
+          "string_id": "leos_survival_island",
+          "title": "Leos Survival Island",
+          "description": "Inspiration from Broths \"Party Island\"",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 33,
+          "created_at": "2020-04-18T12:18:33.000Z",
+          "updated_at": "2020-04-18T12:45:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 709987,
+            "username": "LeoTheGoat",
+            "description": "If u r reading this, u died from a newbie that started only around 2 yrs ago. So that means u r noobyer than a noob.\r\n\r\nAnd I'm making a map so make sure to check it out :D\r\n( press tha mapmaker button )",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-09T20:44:29.000Z",
+            "date_last_played": "2020-05-26T13:37:58.000Z",
+            "kill_count": 5671,
+            "play_count": 1807,
+            "highest_score": 4900408,
+            "picture": "709987.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 141,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "LEO"
+            },
+            {
+              "id": "Plz Like"
+            }
+          ]
+        },
+        {
+          "id": 2616,
+          "user_id": 709987,
+          "cloneof_id": null,
+          "string_id": "leos_1v1_map",
+          "title": "Leos Swamp 1v1 Map",
+          "description": "I drank expired milk dripping from a dirty sock :D",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 20,
+          "created_at": "2020-04-15T13:30:21.000Z",
+          "updated_at": "2020-04-18T12:13:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 709987,
+            "username": "LeoTheGoat",
+            "description": "If u r reading this, u died from a newbie that started only around 2 yrs ago. So that means u r noobyer than a noob.\r\n\r\nAnd I'm making a map so make sure to check it out :D\r\n( press tha mapmaker button )",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-09T20:44:29.000Z",
+            "date_last_played": "2020-05-26T13:37:58.000Z",
+            "kill_count": 5671,
+            "play_count": 1807,
+            "highest_score": 4900408,
+            "picture": "709987.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 141,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "idk"
+            },
+            {
+              "id": "Leo"
+            },
+            {
+              "id": "Plz like"
+            }
+          ]
+        },
+        {
+          "id": 2603,
+          "user_id": 709987,
+          "cloneof_id": null,
+          "string_id": "leo_skyislands",
+          "title": "Sky Islands",
+          "description": "I still didn't think of how the players will travel, this basically an art project so DON'T WORRY ABOUT THAT ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 55,
+          "created_at": "2020-04-14T14:15:36.000Z",
+          "updated_at": "2020-04-14T14:44:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 709987,
+            "username": "LeoTheGoat",
+            "description": "If u r reading this, u died from a newbie that started only around 2 yrs ago. So that means u r noobyer than a noob.\r\n\r\nAnd I'm making a map so make sure to check it out :D\r\n( press tha mapmaker button )",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-09T20:44:29.000Z",
+            "date_last_played": "2020-05-26T13:37:58.000Z",
+            "kill_count": 5671,
+            "play_count": 1807,
+            "highest_score": 4900408,
+            "picture": "709987.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 141,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Leo"
+            },
+            {
+              "id": "Plz Like it"
+            },
+            {
+              "id": "UNFINISHED"
+            }
+          ]
+        },
+        {
+          "id": 2451,
+          "user_id": 709987,
+          "cloneof_id": 2269,
+          "string_id": "leos_ffa_map",
+          "title": "Leos FFA Map",
+          "description": "Not expecting this to be anything official because its my first time. but I think I'm doing a good job on this. If you have any suggestions, copy this map and change it a little plz.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 381,
+          "created_at": "2020-04-03T13:14:45.000Z",
+          "updated_at": "2020-04-18T12:13:38.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 709987,
+            "username": "LeoTheGoat",
+            "description": "If u r reading this, u died from a newbie that started only around 2 yrs ago. So that means u r noobyer than a noob.\r\n\r\nAnd I'm making a map so make sure to check it out :D\r\n( press tha mapmaker button )",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-09T20:44:29.000Z",
+            "date_last_played": "2020-05-26T13:37:58.000Z",
+            "kill_count": 5671,
+            "play_count": 1807,
+            "highest_score": 4900408,
+            "picture": "709987.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 141,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "LEO"
+            },
+            {
+              "id": "UNFINISHED"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T22:40:55.346Z"
+}
