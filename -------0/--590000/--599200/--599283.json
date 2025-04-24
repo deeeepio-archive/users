@@ -1,0 +1,61 @@
+{
+  "id": 599283,
+  "username": "Ticci",
+  "description": "welp looks like you failed again",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-26T01:46:30.000Z",
+  "date_last_played": "2022-08-21T02:10:26.000Z",
+  "profile_views": 3,
+  "kill_count": 27,
+  "play_count": 18,
+  "highest_score": 470619,
+  "picture": "599283-5d9c1638e7ba2187bf1b2fa282194cc6.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 39,
+  "tier": 1,
+  "xp": 300,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3363,
+      "user_id": 599283,
+      "platform_id": "dc",
+      "platform_user_id": "𝓨𝓸𝓾𝓻 𝓖𝓪𝔂 𝓣𝓱𝓸𝓾𝓰𝓱𝓽𝓼#4090",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-05T21:22:55.000Z",
+      "updated_at": "2022-07-05T21:22:55.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 599283,
+    "rank_kc": 153388,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-05T21:23:07.000Z",
+    "rank_pc": 148986,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-05T21:23:07.000Z",
+    "rank_hs": 125123,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-07-05T21:23:08.000Z",
+    "created_at": "2023-10-05T16:04:26.000Z",
+    "updated_at": "2022-08-21T02:10:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T10:50:01.152Z"
+}
