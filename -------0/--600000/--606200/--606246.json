@@ -1,0 +1,81 @@
+{
+  "id": 606246,
+  "username": "Aether",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-08T19:29:36.000Z",
+  "date_last_played": "2025-03-01T13:09:16.000Z",
+  "profile_views": 4847,
+  "kill_count": 7547,
+  "play_count": 3736,
+  "highest_score": 30024900,
+  "picture": "606246-527b4ccd0ae9493a6155434d8b58422c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 177,
+  "tier": 9,
+  "xp": 913650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102646,
+      "user_id": 606246,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.gg/mopeio",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-02-15T11:39:31.000Z",
+      "updated_at": "2025-02-15T11:39:31.000Z"
+    },
+    {
+      "id": 102647,
+      "user_id": 606246,
+      "platform_id": "dc",
+      "platform_user_id": "ravinchiyt",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-02-15T11:39:37.000Z",
+      "updated_at": "2025-02-15T11:39:37.000Z"
+    },
+    {
+      "id": 102648,
+      "user_id": 606246,
+      "platform_id": "yt",
+      "platform_user_id": "Ravinchi",
+      "platform_user_url": "https://youtube.com/@ravinchimope2030",
+      "verified": false,
+      "created_at": "2025-02-15T11:40:07.000Z",
+      "updated_at": "2025-02-15T11:40:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 606246,
+    "rank_kc": 3757,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-01T19:30:18.000Z",
+    "rank_pc": 2161,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-01T19:30:27.000Z",
+    "rank_hs": 1044,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-01T19:30:31.000Z",
+    "created_at": "2025-03-01T13:09:16.000Z",
+    "updated_at": "2025-03-01T13:09:16.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:32:23.864Z"
+}
