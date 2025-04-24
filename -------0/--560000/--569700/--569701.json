@@ -1,0 +1,61 @@
+{
+  "id": 569701,
+  "username": "GetPickled",
+  "description": "im back after 4 years. yay.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-03-28T13:32:00.000Z",
+  "date_last_played": "2023-10-28T16:14:29.000Z",
+  "profile_views": 5,
+  "kill_count": 955,
+  "play_count": 7,
+  "highest_score": 1407654,
+  "picture": "569701.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 59,
+  "tier": 1,
+  "xp": 600,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28695,
+      "user_id": 569701,
+      "platform_id": "dc",
+      "platform_user_id": "pickledl",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-28T16:15:56.000Z",
+      "updated_at": "2023-10-28T16:15:56.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 569701,
+    "rank_kc": 28167,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-10-28T15:55:30.000Z",
+    "rank_pc": 243302,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-10-28T16:15:07.000Z",
+    "rank_hs": 63550,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-28T15:55:35.000Z",
+    "created_at": "2023-10-28T16:15:06.000Z",
+    "updated_at": "2023-10-28T16:15:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T07:48:54.958Z"
+}
