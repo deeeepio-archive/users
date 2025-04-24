@@ -1,0 +1,100 @@
+{
+  "id": 606806,
+  "username": "Shellington",
+  "description": "⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜\n   ⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜\n   ⬜⬜⬛🟦⬛🟦🟦🟦🟦🟦⬜\n   ⬜⬛🟦🟦🟦🟦🟦🟦🟦🟦⬜\n   ⬜⬛🟦🟦🟦🟦🟦🟦🟦🟦⬜\n   ⬜⬛🟦🟦🟦⬛⬛🟦⬛🟦⬜\n   ⬜⬛🟦🟦🟦🟦⬛🟦🟦⬛⬜\n   ⬜⬛🟦🟦🟦🟦🟦🟦🟦🟦⬜\n   ⬜⬜⬛🟦⬛🟦🟦🟦🟦🟦⬜\n   ⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜\n   ⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜",
+  "about": "I am Shellington, the least toxic deeeep.io player",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-10T18:34:12.000Z",
+  "date_last_played": "2025-01-25T22:46:02.000Z",
+  "profile_views": 294,
+  "kill_count": 1884,
+  "play_count": 1019,
+  "highest_score": 4020621,
+  "picture": "606806-33a922dfe0468fc786581ed432f7a1005-a7df5479-2a7f-41fb-89d0-94f07bd60162.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1225,
+  "tier": 4,
+  "xp": 246000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 606806,
+    "rank_kc": 21475,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-20T15:19:27.000Z",
+    "rank_pc": 21538,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-20T17:39:38.000Z",
+    "rank_hs": 43792,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-20T15:19:30.000Z",
+    "created_at": "2025-01-25T22:46:02.000Z",
+    "updated_at": "2025-01-25T22:46:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244630,
+          "user_id": 606806,
+          "cloneof_id": null,
+          "string_id": "pd_castle_siege",
+          "title": "PD Castle Siege",
+          "description": "A pearl defense map but it is siege warfare",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 170,
+          "created_at": "2024-09-14T15:33:09.000Z",
+          "updated_at": "2024-09-14T20:50:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 606806,
+            "username": "Shellington",
+            "description": "⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜\n   ⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜\n   ⬜⬜⬛🟦⬛🟦🟦🟦🟦🟦⬜\n   ⬜⬛🟦🟦🟦🟦🟦🟦🟦🟦⬜\n   ⬜⬛🟦🟦🟦🟦🟦🟦🟦🟦⬜\n   ⬜⬛🟦🟦🟦⬛⬛🟦⬛🟦⬜\n   ⬜⬛🟦🟦🟦🟦⬛🟦🟦⬛⬜\n   ⬜⬛🟦🟦🟦🟦🟦🟦🟦🟦⬜\n   ⬜⬜⬛🟦⬛🟦🟦🟦🟦🟦⬜\n   ⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜\n   ⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜⬜",
+            "about": "I am Shellington, the least toxic deeeep.io player",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-10T18:34:12.000Z",
+            "date_last_played": "2025-01-25T22:46:02.000Z",
+            "kill_count": 1884,
+            "play_count": 1019,
+            "highest_score": 4020621,
+            "picture": "606806-33a922dfe0468fc786581ed432f7a1005-a7df5479-2a7f-41fb-89d0-94f07bd60162.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1225,
+            "tier": 4,
+            "xp": 246000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "PD"
+            },
+            {
+              "id": "Pearl Defense"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:35:55.351Z"
+}
