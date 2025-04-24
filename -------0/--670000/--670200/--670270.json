@@ -1,0 +1,100 @@
+{
+  "id": 670270,
+  "username": "Kamm",
+  "description": "hehaw scrub alert clown downnn",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-12-11T16:35:30.000Z",
+  "date_last_played": "2021-05-07T21:21:31.000Z",
+  "profile_views": 0,
+  "kill_count": 10,
+  "play_count": 7,
+  "highest_score": 260764,
+  "picture": "670270.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 670270,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T18:00:08.483Z",
+    "updated_at": "2025-04-24T18:00:08.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1279,
+          "user_id": 670270,
+          "cloneof_id": null,
+          "string_id": "IslandMap_alpha2",
+          "title": "Island Map, alpha 2",
+          "description": "Currently only in its second version!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 177,
+          "created_at": "2019-12-11T16:54:14.000Z",
+          "updated_at": "2020-01-23T16:33:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 670270,
+            "username": "Kamm",
+            "description": "hehaw scrub alert clown downnn",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-12-11T16:35:30.000Z",
+            "date_last_played": "2021-05-07T21:21:31.000Z",
+            "kill_count": 10,
+            "play_count": 7,
+            "highest_score": 260764,
+            "picture": "670270.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 13,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "alpha"
+            },
+            {
+              "id": "firstmap"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T18:00:08.569Z"
+}
