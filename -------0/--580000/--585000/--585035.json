@@ -1,0 +1,50 @@
+{
+  "id": 585035,
+  "username": "一層",
+  "description": "hello~",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-03T01:24:12.000Z",
+  "date_last_played": "2023-04-25T15:33:54.000Z",
+  "profile_views": 3,
+  "kill_count": 18,
+  "play_count": 2,
+  "highest_score": 401809,
+  "picture": "585035-13e8103b68b6924fd9d10e521c1752556d.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 21,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 585035,
+    "rank_kc": 195729,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-11T15:50:55.000Z",
+    "rank_pc": 309038,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-11T15:51:01.000Z",
+    "rank_hs": 155753,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-11T15:51:05.000Z",
+    "created_at": "2024-01-19T08:09:06.000Z",
+    "updated_at": "2023-04-25T15:33:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:24:39.189Z"
+}

@@ -1,0 +1,357 @@
+{
+  "id": 585016,
+  "username": "cake",
+  "description": "you tasted good, thanks for your xp.\r\nyou are helping me get coins.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-03T00:30:20.000Z",
+  "date_last_played": "2024-08-24T15:28:04.000Z",
+  "profile_views": 5,
+  "kill_count": 1856,
+  "play_count": 1310,
+  "highest_score": 2095837,
+  "picture": "585016.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 2,
+  "xp": 32400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 585016,
+    "rank_kc": 12307,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-12T17:25:24.000Z",
+    "rank_pc": 6620,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-12T17:25:32.000Z",
+    "rank_hs": 28186,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-12T17:25:39.000Z",
+    "created_at": "2024-08-24T15:28:03.000Z",
+    "updated_at": "2024-08-24T15:28:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8627,
+          "user_id": 585016,
+          "cloneof_id": 65,
+          "string_id": "12_cake_12",
+          "title": "12cake12 ocean",
+          "description": "FFA",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 3684,
+          "created_at": "2021-11-27T22:40:14.000Z",
+          "updated_at": "2021-11-27T22:40:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 585016,
+            "username": "cake",
+            "description": "you tasted good, thanks for your xp.\r\nyou are helping me get coins.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-03T00:30:20.000Z",
+            "date_last_played": "2024-08-24T15:28:04.000Z",
+            "kill_count": 1856,
+            "play_count": 1310,
+            "highest_score": 2095837,
+            "picture": "585016.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 28,
+            "tier": 2,
+            "xp": 32400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            }
+          ]
+        },
+        {
+          "id": 5719,
+          "user_id": 585016,
+          "cloneof_id": null,
+          "string_id": "battle_pvp",
+          "title": "cake battle",
+          "description": "battle",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 16,
+          "created_at": "2021-01-26T16:30:36.000Z",
+          "updated_at": "2021-12-09T23:52:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 585016,
+            "username": "cake",
+            "description": "you tasted good, thanks for your xp.\r\nyou are helping me get coins.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-03T00:30:20.000Z",
+            "date_last_played": "2024-08-24T15:28:04.000Z",
+            "kill_count": 1856,
+            "play_count": 1310,
+            "highest_score": 2095837,
+            "picture": "585016.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 28,
+            "tier": 2,
+            "xp": 32400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "battle"
+            },
+            {
+              "id": "one vs one"
+            },
+            {
+              "id": "pvp"
+            },
+            {
+              "id": "small map"
+            }
+          ]
+        },
+        {
+          "id": 4506,
+          "user_id": 585016,
+          "cloneof_id": null,
+          "string_id": "cake",
+          "title": "cake ocean",
+          "description": "cake",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 40,
+          "created_at": "2020-10-07T14:16:18.000Z",
+          "updated_at": "2021-11-27T22:44:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 585016,
+            "username": "cake",
+            "description": "you tasted good, thanks for your xp.\r\nyou are helping me get coins.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-03T00:30:20.000Z",
+            "date_last_played": "2024-08-24T15:28:04.000Z",
+            "kill_count": 1856,
+            "play_count": 1310,
+            "highest_score": 2095837,
+            "picture": "585016.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 28,
+            "tier": 2,
+            "xp": 32400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cake"
+            },
+            {
+              "id": "cake ocean"
+            },
+            {
+              "id": "ocean"
+            }
+          ]
+        },
+        {
+          "id": 780,
+          "user_id": 585016,
+          "cloneof_id": null,
+          "string_id": "deep",
+          "title": "deep",
+          "description": "deep",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 36,
+          "created_at": "2019-10-09T17:45:36.000Z",
+          "updated_at": "2019-10-09T17:45:37.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 585016,
+            "username": "cake",
+            "description": "you tasted good, thanks for your xp.\r\nyou are helping me get coins.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-03T00:30:20.000Z",
+            "date_last_played": "2024-08-24T15:28:04.000Z",
+            "kill_count": 1856,
+            "play_count": 1310,
+            "highest_score": 2095837,
+            "picture": "585016.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 28,
+            "tier": 2,
+            "xp": 32400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "small"
+            }
+          ]
+        },
+        {
+          "id": 367,
+          "user_id": 585016,
+          "cloneof_id": null,
+          "string_id": "sky",
+          "title": "sky",
+          "description": "sky",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 36,
+          "created_at": "2019-09-04T19:30:22.000Z",
+          "updated_at": "2019-09-17T17:30:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 585016,
+            "username": "cake",
+            "description": "you tasted good, thanks for your xp.\r\nyou are helping me get coins.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-03T00:30:20.000Z",
+            "date_last_played": "2024-08-24T15:28:04.000Z",
+            "kill_count": 1856,
+            "play_count": 1310,
+            "highest_score": 2095837,
+            "picture": "585016.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 28,
+            "tier": 2,
+            "xp": 32400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "big"
+            },
+            {
+              "id": "good"
+            },
+            {
+              "id": "sky"
+            }
+          ]
+        },
+        {
+          "id": 365,
+          "user_id": 585016,
+          "cloneof_id": null,
+          "string_id": "idiscake",
+          "title": "deeeeep",
+          "description": "deep",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 546,
+          "created_at": "2019-09-04T19:25:05.000Z",
+          "updated_at": "2019-10-09T17:55:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 585016,
+            "username": "cake",
+            "description": "you tasted good, thanks for your xp.\r\nyou are helping me get coins.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-03T00:30:20.000Z",
+            "date_last_played": "2024-08-24T15:28:04.000Z",
+            "kill_count": 1856,
+            "play_count": 1310,
+            "highest_score": 2095837,
+            "picture": "585016.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 28,
+            "tier": 2,
+            "xp": 32400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "big"
+            },
+            {
+              "id": "cake"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "good"
+            }
+          ]
+        }
+      ],
+      "count": 6
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:24:36.457Z"
+}
