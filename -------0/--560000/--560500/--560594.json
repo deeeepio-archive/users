@@ -1,0 +1,97 @@
+{
+  "id": 560594,
+  "username": "𝓐𝔂𝓪𝓷𝓸𝓴𝓸𝓳𝓲綾小路",
+  "description": "As long as I win in the end, that's all that matters.",
+  "about": "I've been playing this game too long :/",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-02-25T00:15:04.000Z",
+  "date_last_played": "2025-04-16T21:06:10.000Z",
+  "profile_views": 18,
+  "kill_count": 2502,
+  "play_count": 594,
+  "highest_score": 5894325,
+  "picture": "560594-f07db26d410eae2218b34bd6d71f912f.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 115,
+  "tier": 3,
+  "xp": 117600,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 560594,
+    "rank_kc": 9788,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-04T01:35:12.000Z",
+    "rank_pc": 16566,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-04T01:35:12.000Z",
+    "rank_hs": 4605,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-04T01:35:13.000Z",
+    "created_at": "2025-04-16T21:06:10.000Z",
+    "updated_at": "2025-04-16T21:06:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2107,
+          "user_id": 560594,
+          "cloneof_id": null,
+          "string_id": "17818",
+          "title": "yeeeeeepsFFA",
+          "description": "a fun colorful map that anyone is welcome on",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-03-11T21:13:52.000Z",
+          "updated_at": "2020-03-11T21:13:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 560594,
+            "username": "𝓐𝔂𝓪𝓷𝓸𝓴𝓸𝓳𝓲綾小路",
+            "description": "As long as I win in the end, that's all that matters.",
+            "about": "I've been playing this game too long :/",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-02-25T00:15:04.000Z",
+            "date_last_played": "2025-04-16T21:06:10.000Z",
+            "kill_count": 2502,
+            "play_count": 594,
+            "highest_score": 5894325,
+            "picture": "560594-f07db26d410eae2218b34bd6d71f912f.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 115,
+            "tier": 3,
+            "xp": 117600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "idk"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T06:53:42.478Z"
+}
