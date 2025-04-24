@@ -1,0 +1,71 @@
+{
+  "id": 681297,
+  "username": "SyphenYoutube",
+  "description": "Youtube : Syphen / Pls subscribe :)",
+  "about": "Syphen Animatör / Youtuber",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-01-14T18:41:06.000Z",
+  "date_last_played": "2024-11-25T14:43:24.000Z",
+  "profile_views": 476,
+  "kill_count": 16271,
+  "play_count": 2914,
+  "highest_score": 6284699,
+  "picture": "681297-998af0bbe96112857be9a5a3ca5cc123-ec63424e-5831-475f-9443-f7e0c224aa55.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2829,
+  "tier": 8,
+  "xp": 770100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 95218,
+      "user_id": 681297,
+      "platform_id": "dc",
+      "platform_user_id": "syphenanimasyon",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-06T14:05:38.000Z",
+      "updated_at": "2024-06-06T14:06:07.000Z"
+    },
+    {
+      "id": 94493,
+      "user_id": 681297,
+      "platform_id": "yt",
+      "platform_user_id": "Syphen",
+      "platform_user_url": "https://www.youtube.com/@SyphenAnimations",
+      "verified": false,
+      "created_at": "2024-05-06T08:38:12.000Z",
+      "updated_at": "2024-05-06T08:38:12.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 681297,
+    "rank_kc": 1256,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-04T06:10:35.000Z",
+    "rank_pc": 3914,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-04T06:10:36.000Z",
+    "rank_hs": 4519,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-04T06:10:37.000Z",
+    "created_at": "2024-11-25T14:43:23.000Z",
+    "updated_at": "2024-11-25T14:43:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T19:11:23.602Z"
+}
