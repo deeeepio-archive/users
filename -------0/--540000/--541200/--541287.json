@@ -1,0 +1,160 @@
+{
+  "id": 541287,
+  "username": "308015_969",
+  "description": "You've been treated by Doctor Gupta and Associates.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2018-10-15T15:58:28.000Z",
+  "date_last_played": "2022-04-13T18:25:38.000Z",
+  "profile_views": 1,
+  "kill_count": 2996,
+  "play_count": 138,
+  "highest_score": 4535819,
+  "picture": "541287.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 90,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 541287,
+    "rank_kc": 10226,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-05T18:38:35.000Z",
+    "rank_pc": 60166,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-05T18:38:36.000Z",
+    "rank_hs": 9646,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-05T18:38:37.000Z",
+    "created_at": "2023-12-12T13:40:33.000Z",
+    "updated_at": "2023-10-05T18:38:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1218,
+          "user_id": 541287,
+          "cloneof_id": null,
+          "string_id": "Doctor_Gupta_Complete_Map",
+          "title": "Magnum Opus",
+          "description": "My ideal Deeeep.io map.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 3646,
+          "created_at": "2019-11-30T19:05:55.000Z",
+          "updated_at": "2019-12-17T00:22:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 541287,
+            "username": "308015_969",
+            "description": "You've been treated by Doctor Gupta and Associates.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2018-10-15T15:58:28.000Z",
+            "date_last_played": "2022-04-13T18:25:38.000Z",
+            "kill_count": 2996,
+            "play_count": 138,
+            "highest_score": 4535819,
+            "picture": "541287.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 90,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": ":)"
+            },
+            {
+              "id": "crisp"
+            },
+            {
+              "id": "ffa?"
+            },
+            {
+              "id": "high effort"
+            },
+            {
+              "id": "lake"
+            },
+            {
+              "id": "new biomes!"
+            },
+            {
+              "id": "reef"
+            },
+            {
+              "id": "sky layers"
+            }
+          ]
+        },
+        {
+          "id": 1202,
+          "user_id": 541287,
+          "cloneof_id": null,
+          "string_id": "Shrek",
+          "title": "Guzzler Swamp",
+          "description": "first try @ map maker",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 377,
+          "created_at": "2019-11-27T00:11:28.000Z",
+          "updated_at": "2019-12-01T00:26:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 541287,
+            "username": "308015_969",
+            "description": "You've been treated by Doctor Gupta and Associates.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2018-10-15T15:58:28.000Z",
+            "date_last_played": "2022-04-13T18:25:38.000Z",
+            "kill_count": 2996,
+            "play_count": 138,
+            "highest_score": 4535819,
+            "picture": "541287.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 90,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T04:52:05.381Z"
+}

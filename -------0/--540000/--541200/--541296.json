@@ -1,0 +1,163 @@
+{
+  "id": 541296,
+  "username": "PrivateAS",
+  "description": "LAW OF THE OCEAN: EAT OR BE EATEN",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2018-10-15T19:14:48.000Z",
+  "date_last_played": "2024-04-24T20:20:25.000Z",
+  "profile_views": 10,
+  "kill_count": 5832,
+  "play_count": 503,
+  "highest_score": 2446803,
+  "picture": "541296.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 921,
+  "tier": 2,
+  "xp": 43650,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 541296,
+    "rank_kc": 3959,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-17T22:43:16.000Z",
+    "rank_pc": 20442,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-17T22:43:18.000Z",
+    "rank_hs": 24937,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-17T12:46:46.000Z",
+    "created_at": "2024-04-24T20:20:24.000Z",
+    "updated_at": "2024-04-24T20:20:25.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1610,
+          "user_id": 541296,
+          "cloneof_id": null,
+          "string_id": "oceanaruim",
+          "title": "Disaster in the oceanarium",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-02-06T13:08:45.000Z",
+          "updated_at": "2020-02-06T13:08:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 541296,
+            "username": "PrivateAS",
+            "description": "LAW OF THE OCEAN: EAT OR BE EATEN",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2018-10-15T19:14:48.000Z",
+            "date_last_played": "2024-04-24T20:20:25.000Z",
+            "kill_count": 5832,
+            "play_count": 503,
+            "highest_score": 2446803,
+            "picture": "541296.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 921,
+            "tier": 2,
+            "xp": 43650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 57,
+          "user_id": 541296,
+          "cloneof_id": null,
+          "string_id": "Megamap",
+          "title": "Full FFA map with new habitats and tunnels",
+          "description": "I will remake kelp forest and make some cosmetic changes when mapmaker is ready. If it is meant to be in game it should be scaled to be 4 times smaller (both width and height)  (1750x100).) There can be teleports in caves and at the end of rivers.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 2157,
+          "created_at": "2019-08-27T10:32:21.000Z",
+          "updated_at": "2020-02-07T18:32:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 541296,
+            "username": "PrivateAS",
+            "description": "LAW OF THE OCEAN: EAT OR BE EATEN",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2018-10-15T19:14:48.000Z",
+            "date_last_played": "2024-04-24T20:20:25.000Z",
+            "kill_count": 5832,
+            "play_count": 503,
+            "highest_score": 2446803,
+            "picture": "541296.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 921,
+            "tier": 2,
+            "xp": 43650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ArcticMaze"
+            },
+            {
+              "id": "Caves"
+            },
+            {
+              "id": "CoralReef"
+            },
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "ffa19"
+            },
+            {
+              "id": "KelpForest"
+            },
+            {
+              "id": "Lake"
+            },
+            {
+              "id": "NewBiomes"
+            },
+            {
+              "id": "River"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T04:52:07.369Z"
+}
