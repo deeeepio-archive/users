@@ -1,0 +1,118 @@
+{
+  "id": 723122,
+  "username": "Shoebill_Stork",
+  "description": "just cleaning up the ocean's trash",
+  "about": "mediocre coel player\ni like 1v1\n*snort* LETS GO GET SOME FREE CRACK!!!!!!!!!!!!!!!!!!!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-10T14:49:51.000Z",
+  "date_last_played": "2025-03-14T13:17:47.000Z",
+  "profile_views": 970,
+  "kill_count": 2481,
+  "play_count": 1956,
+  "highest_score": 2496253,
+  "picture": "723122-b55a2fe80c6fb6b837f2104ba8f936ce9-5429c035-e7e0-4dba-9bcc-a615982824fd.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 6,
+  "xp": 443550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92886,
+      "user_id": 723122,
+      "platform_id": "dc",
+      "platform_user_id": "Deeeep OG, 5th account",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-15T14:12:27.000Z",
+      "updated_at": "2024-03-15T14:12:27.000Z"
+    },
+    {
+      "id": 92885,
+      "user_id": 723122,
+      "platform_id": "tw",
+      "platform_user_id": "fuck elon musk",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-15T14:12:07.000Z",
+      "updated_at": "2024-09-27T12:19:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 723122,
+    "rank_kc": 24464,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-12T15:31:59.000Z",
+    "rank_pc": 11161,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-12T15:32:07.000Z",
+    "rank_hs": 69123,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-12T15:32:17.000Z",
+    "created_at": "2025-03-17T15:00:02.000Z",
+    "updated_at": "2025-03-17T15:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244177,
+          "user_id": 723122,
+          "cloneof_id": null,
+          "string_id": "big_ctf1",
+          "title": "Peal Defense Mega",
+          "description": "Giant peal defense map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 6,
+          "created_at": "2024-04-09T13:05:45.000Z",
+          "updated_at": "2024-04-09T13:05:45.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 723122,
+            "username": "Shoebill_Stork",
+            "description": "just cleaning up the ocean's trash",
+            "about": "mediocre coel player\ni like 1v1\n*snort* LETS GO GET SOME FREE CRACK!!!!!!!!!!!!!!!!!!!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-10T14:49:51.000Z",
+            "date_last_played": "2025-03-14T13:17:47.000Z",
+            "kill_count": 2481,
+            "play_count": 1956,
+            "highest_score": 2496253,
+            "picture": "723122-b55a2fe80c6fb6b837f2104ba8f936ce9-5429c035-e7e0-4dba-9bcc-a615982824fd.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 19,
+            "tier": 6,
+            "xp": 443550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "PD"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:58:13.396Z"
+}
