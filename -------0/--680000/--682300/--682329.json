@@ -1,0 +1,61 @@
+{
+  "id": 682329,
+  "username": "drasil",
+  "description": "gg",
+  "about": "hello !\ni usually use orca !",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-01-17T03:24:50.000Z",
+  "date_last_played": "2025-04-23T07:09:06.000Z",
+  "profile_views": 280,
+  "kill_count": 26824,
+  "play_count": 10480,
+  "highest_score": 5604051,
+  "picture": "682329-87b00fe6e8ff1cd3ca366f59bc76cbfc.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4321,
+  "tier": 5,
+  "xp": 314100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 19585,
+      "user_id": 682329,
+      "platform_id": "dc",
+      "platform_user_id": "S grab#8185",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-21T03:19:57.000Z",
+      "updated_at": "2023-05-21T03:19:57.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 682329,
+    "rank_kc": 381,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-30T09:53:13.000Z",
+    "rank_pc": 161,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-30T09:53:18.000Z",
+    "rank_hs": 6688,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-30T09:53:25.000Z",
+    "created_at": "2025-04-23T10:00:01.000Z",
+    "updated_at": "2025-04-23T10:00:01.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T19:17:35.195Z"
+}
