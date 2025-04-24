@@ -1,0 +1,81 @@
+{
+  "id": 671411,
+  "username": "Melancrawly",
+  "description": "Literally 1984",
+  "about": "Literally 1984",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-12-13T20:19:59.000Z",
+  "date_last_played": "2024-09-17T06:05:29.000Z",
+  "profile_views": 8,
+  "kill_count": 13309,
+  "play_count": 4690,
+  "highest_score": 32906203,
+  "picture": "671411-ff1c0102ac9e590fc4df9f5df7288e317.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 404,
+  "tier": 2,
+  "xp": 27450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 145,
+      "user_id": 671411,
+      "platform_id": "dc",
+      "platform_user_id": "Melancrawly#7667",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-18T00:53:33.000Z",
+      "updated_at": "2022-05-18T00:53:33.000Z"
+    },
+    {
+      "id": 147,
+      "user_id": 671411,
+      "platform_id": "rd",
+      "platform_user_id": "Melancrawly",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-18T00:55:00.000Z",
+      "updated_at": "2022-05-18T00:55:00.000Z"
+    },
+    {
+      "id": 146,
+      "user_id": 671411,
+      "platform_id": "tc",
+      "platform_user_id": "Melancrawly",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-18T00:54:00.000Z",
+      "updated_at": "2022-05-18T00:54:00.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 671411,
+    "rank_kc": 1495,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-02T06:09:02.000Z",
+    "rank_pc": 1308,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-02T06:09:03.000Z",
+    "rank_hs": 986,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-02T06:09:04.000Z",
+    "created_at": "2024-09-17T06:05:29.000Z",
+    "updated_at": "2024-09-17T06:05:29.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T18:07:02.455Z"
+}
