@@ -1,0 +1,61 @@
+{
+  "id": 716186,
+  "username": "caesark",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-24T17:12:23.000Z",
+  "date_last_played": "2024-12-29T07:10:03.000Z",
+  "profile_views": 23,
+  "kill_count": 5991,
+  "play_count": 4076,
+  "highest_score": 2532542,
+  "picture": "716186.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 276,
+  "tier": 2,
+  "xp": 55050,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101275,
+      "user_id": 716186,
+      "platform_id": "dc",
+      "platform_user_id": "2o9_kd insta",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-20T06:39:18.000Z",
+      "updated_at": "2024-12-20T06:39:18.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 716186,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T23:16:31.302Z",
+    "updated_at": "2025-04-24T23:16:31.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:16:31.397Z"
+}
