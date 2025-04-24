@@ -1,0 +1,115 @@
+{
+  "id": 703573,
+  "username": "pigizoid",
+  "description": "banned",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-26T10:49:42.000Z",
+  "date_last_played": "2020-09-11T04:59:40.000Z",
+  "profile_views": 0,
+  "kill_count": 552,
+  "play_count": 385,
+  "highest_score": 1481244,
+  "picture": "703573.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 67,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 703573,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T21:51:03.438Z",
+    "updated_at": "2025-04-24T21:51:03.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1881,
+          "user_id": 703573,
+          "cloneof_id": null,
+          "string_id": "the_layers",
+          "title": "The layers",
+          "description": "it has many biomes and different secrets to find",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 903,
+          "created_at": "2020-02-26T23:37:50.000Z",
+          "updated_at": "2020-03-04T02:38:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 703573,
+            "username": "pigizoid",
+            "description": "banned",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-26T10:49:42.000Z",
+            "date_last_played": "2020-09-11T04:59:40.000Z",
+            "kill_count": 552,
+            "play_count": 385,
+            "highest_score": 1481244,
+            "picture": "703573.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 67,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " "
+            },
+            {
+              "id": " biomes"
+            },
+            {
+              "id": " first"
+            },
+            {
+              "id": " pigizoid"
+            },
+            {
+              "id": " secret"
+            },
+            {
+              "id": " secrets"
+            },
+            {
+              "id": "biome"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T21:51:03.508Z"
+}
