@@ -1,0 +1,71 @@
+{
+  "id": 613447,
+  "username": "yukimah",
+  "description": "😈",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-08T22:10:10.000Z",
+  "date_last_played": "2024-07-10T18:25:54.000Z",
+  "profile_views": 35,
+  "kill_count": 933,
+  "play_count": 82,
+  "highest_score": 1665736,
+  "picture": "613447-e1588303dbaf01d19912e1e493adadc7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 20,
+  "tier": 2,
+  "xp": 28350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5380,
+      "user_id": 613447,
+      "platform_id": "ig",
+      "platform_user_id": "yukimaah",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-21T08:40:03.000Z",
+      "updated_at": "2022-08-21T08:40:03.000Z"
+    },
+    {
+      "id": 5381,
+      "user_id": 613447,
+      "platform_id": "tw",
+      "platform_user_id": "yukim_ah",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-21T08:40:33.000Z",
+      "updated_at": "2022-08-21T08:40:46.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 613447,
+    "rank_kc": 25683,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-21T11:32:03.000Z",
+    "rank_pc": 74854,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-21T11:32:15.000Z",
+    "rank_hs": 45553,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-21T11:32:28.000Z",
+    "created_at": "2024-07-10T18:25:54.000Z",
+    "updated_at": "2024-07-10T18:25:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:15:19.450Z"
+}
