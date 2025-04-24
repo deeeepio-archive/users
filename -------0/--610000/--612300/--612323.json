@@ -1,0 +1,61 @@
+{
+  "id": 612323,
+  "username": "JulkaPL",
+  "description": "mlem",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-02T16:13:58.000Z",
+  "date_last_played": "2023-09-03T17:22:02.000Z",
+  "profile_views": 3,
+  "kill_count": 13726,
+  "play_count": 466,
+  "highest_score": 5581297,
+  "picture": "612323.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3019,
+  "tier": 1,
+  "xp": 900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4105,
+      "user_id": 612323,
+      "platform_id": "dc",
+      "platform_user_id": "JuJu⛧#1014",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-24T21:38:32.000Z",
+      "updated_at": "2022-07-24T21:38:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 612323,
+    "rank_kc": 972,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-24T21:38:39.000Z",
+    "rank_pc": 18311,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-24T21:38:40.000Z",
+    "rank_hs": 5119,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-24T21:38:40.000Z",
+    "created_at": "2023-09-03T17:22:01.000Z",
+    "updated_at": "2023-09-03T17:22:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:08:44.301Z"
+}

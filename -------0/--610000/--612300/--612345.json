@@ -1,0 +1,50 @@
+{
+  "id": 612345,
+  "username": "doi",
+  "description": "lamus",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-02T17:54:33.000Z",
+  "date_last_played": "2022-07-11T09:16:13.000Z",
+  "profile_views": 15,
+  "kill_count": 1877,
+  "play_count": 353,
+  "highest_score": 2347600,
+  "picture": "612345.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 53,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 612345,
+    "rank_kc": 12479,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-10T13:33:46.000Z",
+    "rank_pc": 22329,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-10T13:33:46.000Z",
+    "rank_hs": 24078,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-10T13:33:47.000Z",
+    "created_at": "2022-12-06T06:33:49.000Z",
+    "updated_at": "2022-08-25T12:50:41.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:08:49.892Z"
+}
