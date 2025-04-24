@@ -1,0 +1,97 @@
+{
+  "id": 587002,
+  "username": "Fren",
+  "description": "I felt dat oof",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-06T15:19:43.000Z",
+  "date_last_played": "2020-07-04T12:27:46.000Z",
+  "profile_views": 0,
+  "kill_count": 1171,
+  "play_count": 34,
+  "highest_score": 2119545,
+  "picture": "587002.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 287,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 587002,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T09:37:32.295Z",
+    "updated_at": "2025-04-24T09:37:32.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 341,
+          "user_id": 587002,
+          "cloneof_id": null,
+          "string_id": "trench_map_by_fren",
+          "title": "Fren's Trench Map",
+          "description": "Perfect for flying or deep animals",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 17,
+          "created_at": "2019-09-03T17:33:35.000Z",
+          "updated_at": "2019-09-03T17:33:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587002,
+            "username": "Fren",
+            "description": "I felt dat oof",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-06T15:19:43.000Z",
+            "date_last_played": "2020-07-04T12:27:46.000Z",
+            "kill_count": 1171,
+            "play_count": 34,
+            "highest_score": 2119545,
+            "picture": "587002.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 287,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "trench"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:37:32.383Z"
+}
