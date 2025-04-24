@@ -1,0 +1,97 @@
+{
+  "id": 636309,
+  "username": "crustmangodboi",
+  "description": "You motherfuckers better do your job and roll up and watch how we roll up and\nI can't control it, can't hold it, it's so nuts",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-09-26T00:39:11.000Z",
+  "date_last_played": "2024-02-18T20:41:01.000Z",
+  "profile_views": 4,
+  "kill_count": 2218,
+  "play_count": 414,
+  "highest_score": 2897575,
+  "picture": "636309-a07b869655fcd6a1872d2aaf905f24ad.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 249,
+  "tier": 1,
+  "xp": 9600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 636309,
+    "rank_kc": 11703,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-27T03:57:54.000Z",
+    "rank_pc": 24326,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-27T03:57:55.000Z",
+    "rank_hs": 18780,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-27T03:57:56.000Z",
+    "created_at": "2024-02-18T20:41:00.000Z",
+    "updated_at": "2024-02-18T20:41:01.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 641,
+          "user_id": 636309,
+          "cloneof_id": null,
+          "string_id": "ocra",
+          "title": "orca mayham,",
+          "description": "orca",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 13,
+          "created_at": "2019-09-26T00:40:51.000Z",
+          "updated_at": "2019-09-26T00:40:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 636309,
+            "username": "crustmangodboi",
+            "description": "You motherfuckers better do your job and roll up and watch how we roll up and\nI can't control it, can't hold it, it's so nuts",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-26T00:39:11.000Z",
+            "date_last_played": "2024-02-18T20:41:01.000Z",
+            "kill_count": 2218,
+            "play_count": 414,
+            "highest_score": 2897575,
+            "picture": "636309-a07b869655fcd6a1872d2aaf905f24ad.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 249,
+            "tier": 1,
+            "xp": 9600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "orca"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T14:31:40.976Z"
+}
