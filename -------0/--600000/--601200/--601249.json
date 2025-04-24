@@ -1,0 +1,97 @@
+{
+  "id": 601249,
+  "username": "Jettrain",
+  "description": "heya. I see I killed you. why?\r\nfriend/team: accident\r\ninnocents: coins/food/ annoyed\r\npvp: coins/ to get on leaderboard\r\nattacker: you already know.\r\n(BTW whales in 1v1 are for noobs) (unless nice noob)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-29T20:15:09.000Z",
+  "date_last_played": "2023-12-12T23:38:52.000Z",
+  "profile_views": 63,
+  "kill_count": 5602,
+  "play_count": 1916,
+  "highest_score": 3206320,
+  "picture": "601249.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 88,
+  "tier": 2,
+  "xp": 60300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 601249,
+    "rank_kc": 3962,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-17T22:48:05.000Z",
+    "rank_pc": 4336,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-17T22:48:05.000Z",
+    "rank_hs": 14325,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-17T22:48:05.000Z",
+    "created_at": "2023-12-12T23:38:51.000Z",
+    "updated_at": "2023-12-12T23:38:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6328,
+          "user_id": 601249,
+          "cloneof_id": null,
+          "string_id": "my_map_v1000000",
+          "title": "Untitled",
+          "description": "its very kool",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 14,
+          "created_at": "2021-03-23T18:31:51.000Z",
+          "updated_at": "2021-03-23T18:31:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 601249,
+            "username": "Jettrain",
+            "description": "heya. I see I killed you. why?\r\nfriend/team: accident\r\ninnocents: coins/food/ annoyed\r\npvp: coins/ to get on leaderboard\r\nattacker: you already know.\r\n(BTW whales in 1v1 are for noobs) (unless nice noob)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-29T20:15:09.000Z",
+            "date_last_played": "2023-12-12T23:38:52.000Z",
+            "kill_count": 5602,
+            "play_count": 1916,
+            "highest_score": 3206320,
+            "picture": "601249.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 88,
+            "tier": 2,
+            "xp": 60300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fun."
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:01:35.942Z"
+}
