@@ -1,0 +1,97 @@
+{
+  "id": 650719,
+  "username": "F_in_the_chat",
+  "description": "A Zeppelin is a type of rigid airship named after the German inventor Count Ferdinand von Zeppelin a German pronunciation who pioneered rigid airship development at the beginning of the war",
+  "about": "Zeppelin's notions were first formulated in 1874[1] and developed in detail in 1893. They were patented in Germany in 1895 and in the United States in 1899. After the outstanding success of the Zeppelin design",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-01T14:06:26.000Z",
+  "date_last_played": "2020-11-27T15:12:42.000Z",
+  "profile_views": 0,
+  "kill_count": 384,
+  "play_count": 209,
+  "highest_score": 1221342,
+  "picture": "650719.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 551,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 650719,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T15:59:12.330Z",
+    "updated_at": "2025-04-24T15:59:12.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4935,
+          "user_id": 650719,
+          "cloneof_id": null,
+          "string_id": "294858594",
+          "title": "bad time ",
+          "description": "it.. a thing ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 57,
+          "created_at": "2020-11-20T15:20:21.000Z",
+          "updated_at": "2020-11-20T15:20:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650719,
+            "username": "F_in_the_chat",
+            "description": "A Zeppelin is a type of rigid airship named after the German inventor Count Ferdinand von Zeppelin a German pronunciation who pioneered rigid airship development at the beginning of the war",
+            "about": "Zeppelin's notions were first formulated in 1874[1] and developed in detail in 1893. They were patented in Germany in 1895 and in the United States in 1899. After the outstanding success of the Zeppelin design",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T14:06:26.000Z",
+            "date_last_played": "2020-11-27T15:12:42.000Z",
+            "kill_count": 384,
+            "play_count": 209,
+            "highest_score": 1221342,
+            "picture": "650719.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 551,
+            "tier": 1,
+            "xp": 300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "F"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:59:12.386Z"
+}
