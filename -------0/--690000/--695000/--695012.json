@@ -1,0 +1,61 @@
+{
+  "id": 695012,
+  "username": "VINCENT_LIN",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-12T02:22:34.000Z",
+  "date_last_played": "2022-06-10T06:10:04.000Z",
+  "profile_views": 28,
+  "kill_count": 162,
+  "play_count": 30,
+  "highest_score": 444925,
+  "picture": "695012-6c1707edec62946379a37e44108431c510.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 21,
+  "tier": 1,
+  "xp": 9750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1806,
+      "user_id": 695012,
+      "platform_id": "dc",
+      "platform_user_id": "961125",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-08T03:24:37.000Z",
+      "updated_at": "2022-06-08T03:24:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 695012,
+    "rank_kc": 92693,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-02T06:46:10.000Z",
+    "rank_pc": 118696,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-02T06:46:11.000Z",
+    "rank_hs": 126057,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-02T06:46:12.000Z",
+    "created_at": "2023-09-22T06:26:13.000Z",
+    "updated_at": "2022-06-10T06:10:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T20:47:09.759Z"
+}
