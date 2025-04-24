@@ -1,0 +1,61 @@
+{
+  "id": 698787,
+  "username": "Warkur",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-18T14:04:48.000Z",
+  "date_last_played": "2023-04-27T19:55:54.000Z",
+  "profile_views": 2,
+  "kill_count": 244,
+  "play_count": 310,
+  "highest_score": 545561,
+  "picture": "698787.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 21,
+  "tier": 1,
+  "xp": 1350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7452,
+      "user_id": 698787,
+      "platform_id": "vk",
+      "platform_user_id": "warkur",
+      "platform_user_url": "https://vk.com/warkur",
+      "verified": false,
+      "created_at": "2022-09-29T20:08:12.000Z",
+      "updated_at": "2022-09-29T20:08:12.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 698787,
+    "rank_kc": 59994,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-29T20:06:45.000Z",
+    "rank_pc": 30178,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-29T20:06:45.000Z",
+    "rank_hs": 119817,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-29T20:06:46.000Z",
+    "created_at": "2023-07-17T05:21:12.000Z",
+    "updated_at": "2023-04-27T19:55:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T21:15:37.214Z"
+}
