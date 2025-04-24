@@ -1,0 +1,97 @@
+{
+  "id": 688434,
+  "username": "HorizonHybrid",
+  "description": "Sorry about that, but kinda need to lvl up.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-01-31T19:43:55.000Z",
+  "date_last_played": "2020-03-13T17:36:55.000Z",
+  "profile_views": 0,
+  "kill_count": 251,
+  "play_count": 101,
+  "highest_score": 1357040,
+  "picture": "688434.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 24,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 688434,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T19:55:18.685Z",
+    "updated_at": "2025-04-24T19:55:19.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2029,
+          "user_id": 688434,
+          "cloneof_id": 1756,
+          "string_id": "clone_if_u_want_idc",
+          "title": "Don't Explore (WIP)",
+          "description": "it a map and it kinda succ rn, but i have plans (lol far right is trippy)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 130,
+          "created_at": "2020-03-06T21:10:52.000Z",
+          "updated_at": "2020-03-13T19:09:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688434,
+            "username": "HorizonHybrid",
+            "description": "Sorry about that, but kinda need to lvl up.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-01-31T19:43:55.000Z",
+            "date_last_played": "2020-03-13T17:36:55.000Z",
+            "kill_count": 251,
+            "play_count": 101,
+            "highest_score": 1357040,
+            "picture": "688434.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 24,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "wip"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T19:55:18.739Z"
+}

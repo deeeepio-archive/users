@@ -1,0 +1,143 @@
+{
+  "id": 688473,
+  "username": "HellMax",
+  "description": "i always revenge",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-01-31T20:57:54.000Z",
+  "date_last_played": "2025-03-02T21:02:15.000Z",
+  "profile_views": 12,
+  "kill_count": 6180,
+  "play_count": 1730,
+  "highest_score": 4636261,
+  "picture": "688473.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 72,
+  "tier": 2,
+  "xp": 30000,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 688473,
+    "rank_kc": 4172,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-12T12:41:27.000Z",
+    "rank_pc": 6197,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-12T12:41:36.000Z",
+    "rank_hs": 8617,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-12T12:41:40.000Z",
+    "created_at": "2025-03-02T21:02:15.000Z",
+    "updated_at": "2025-03-02T21:02:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6657,
+          "user_id": 688473,
+          "cloneof_id": null,
+          "string_id": "map_ffa_team_995",
+          "title": "FFA TEAM",
+          "description": "soon coming",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 168,
+          "created_at": "2021-04-28T21:13:50.000Z",
+          "updated_at": "2021-04-30T13:57:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688473,
+            "username": "HellMax",
+            "description": "i always revenge",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-01-31T20:57:54.000Z",
+            "date_last_played": "2025-03-02T21:02:15.000Z",
+            "kill_count": 6180,
+            "play_count": 1730,
+            "highest_score": 4636261,
+            "picture": "688473.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 72,
+            "tier": 2,
+            "xp": 30000,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "11102342"
+            }
+          ]
+        },
+        {
+          "id": 6522,
+          "user_id": 688473,
+          "cloneof_id": null,
+          "string_id": "sussy_my_map_v2321111",
+          "title": "Epic",
+          "description": "Maxim233223323223",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 69,
+          "created_at": "2021-04-13T19:59:01.000Z",
+          "updated_at": "2021-04-13T20:01:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688473,
+            "username": "HellMax",
+            "description": "i always revenge",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-01-31T20:57:54.000Z",
+            "date_last_played": "2025-03-02T21:02:15.000Z",
+            "kill_count": 6180,
+            "play_count": 1730,
+            "highest_score": 4636261,
+            "picture": "688473.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 72,
+            "tier": 2,
+            "xp": 30000,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#2014"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T19:55:23.509Z"
+}
