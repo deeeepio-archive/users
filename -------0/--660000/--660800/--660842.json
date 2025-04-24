@@ -1,0 +1,97 @@
+{
+  "id": 660842,
+  "username": "Rockyroadster",
+  "description": "Has A Good Days Ands Ims Verys Soorrrys For Murdering U's",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-20T20:28:58.000Z",
+  "date_last_played": "2022-07-25T06:58:50.000Z",
+  "profile_views": 4,
+  "kill_count": 144,
+  "play_count": 83,
+  "highest_score": 1391406,
+  "picture": "660842.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 82,
+  "tier": 1,
+  "xp": 8250,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 660842,
+    "rank_kc": 76127,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-24T06:57:21.000Z",
+    "rank_pc": 63440,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-24T06:57:22.000Z",
+    "rank_hs": 50481,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-24T01:08:12.000Z",
+    "created_at": "2022-08-16T02:54:45.000Z",
+    "updated_at": "2022-07-25T06:58:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6475,
+          "user_id": 660842,
+          "cloneof_id": null,
+          "string_id": "12334549083590359345",
+          "title": "Area",
+          "description": "Area",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 53,
+          "created_at": "2021-04-07T06:19:52.000Z",
+          "updated_at": "2021-04-07T06:19:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 660842,
+            "username": "Rockyroadster",
+            "description": "Has A Good Days Ands Ims Verys Soorrrys For Murdering U's",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-20T20:28:58.000Z",
+            "date_last_played": "2022-07-25T06:58:50.000Z",
+            "kill_count": 144,
+            "play_count": 83,
+            "highest_score": 1391406,
+            "picture": "660842.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 82,
+            "tier": 1,
+            "xp": 8250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Cool"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T17:00:58.717Z"
+}
