@@ -1,0 +1,853 @@
+{
+  "id": 555251,
+  "username": "Theverycutefishy",
+  "description": "Hi",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-01-27T01:59:20.000Z",
+  "date_last_played": "2025-02-20T12:18:01.000Z",
+  "profile_views": 3868,
+  "kill_count": 7177,
+  "play_count": 1793,
+  "highest_score": 94847850,
+  "picture": "555251.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6856,
+  "tier": 3,
+  "xp": 139350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 5,
+      "slug": "cartography-member",
+      "title": "Cartography Member"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    },
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 555251,
+    "rank_kc": 3784,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-30T17:37:59.000Z",
+    "rank_pc": 6446,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-30T17:38:04.000Z",
+    "rank_hs": 579,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-30T17:38:07.000Z",
+    "created_at": "2025-02-20T12:18:00.000Z",
+    "updated_at": "2025-02-20T12:18:01.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244373,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "fishy_ffa_v2",
+          "title": "Fishy's ffa (2)",
+          "description": "Deeeep & arctic WIP. Arctic TLC.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 1783,
+          "created_at": "2024-06-26T11:05:20.000Z",
+          "updated_at": "2024-08-27T05:59:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "compact"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 9712,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "tacoco_arctic_scene",
+          "title": "Arctic Scene",
+          "description": "Re-created of a drawing Tacoco made",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 97,
+          "created_at": "2022-04-25T01:20:40.000Z",
+          "updated_at": "2022-06-04T21:47:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Arctic"
+            },
+            {
+              "id": "Iceberg"
+            }
+          ]
+        },
+        {
+          "id": 9293,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "fishy_pd",
+          "title": "Fishy's PD",
+          "description": "Decided to try making a PD map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 468,
+          "created_at": "2022-02-17T05:53:58.000Z",
+          "updated_at": "2022-02-24T10:12:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Kelp x Estuary"
+            },
+            {
+              "id": "PD"
+            }
+          ]
+        },
+        {
+          "id": 8156,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "fishy_tffa_map",
+          "title": "Fishy's tffa map",
+          "description": "Got bored so I started working on a new map lol",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 280,
+          "created_at": "2021-10-10T22:59:13.000Z",
+          "updated_at": "2021-10-16T09:06:28.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cold swamps"
+            },
+            {
+              "id": "tffa"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 5611,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "waterfalls_map",
+          "title": "Waterfalls",
+          "description": "Made this at 12 am B)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 9,
+          "created_at": "2021-01-18T08:30:12.000Z",
+          "updated_at": "2021-01-18T08:30:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "idk"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 5600,
+          "user_id": 555251,
+          "cloneof_id": 1688,
+          "string_id": "v1_but_modern",
+          "title": "v1 but modern (WIP)",
+          "description": "Meant to be simple and neat",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 220,
+          "created_at": "2021-01-17T08:14:47.000Z",
+          "updated_at": "2022-08-09T02:09:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "v1/ffa"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 4643,
+          "user_id": 555251,
+          "cloneof_id": 64,
+          "string_id": "fishy_ffa",
+          "title": "Fishy's ffa",
+          "description": "some changes to Estuary",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 22,
+          "objects": 2474,
+          "created_at": "2020-10-22T06:16:09.000Z",
+          "updated_at": "2023-01-12T07:14:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "new 2022 ffa map"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 4251,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "size_comparison",
+          "title": "Animal Size comparison",
+          "description": "All animals in mapmaker from smallest to biggest. Some may be innacurate",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 86,
+          "created_at": "2020-09-11T19:40:34.000Z",
+          "updated_at": "2020-10-12T18:30:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 4224,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "Reef_map_2",
+          "title": "Quiet reef",
+          "description": "A normal reef, that hides a big secret...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 899,
+          "created_at": "2020-09-07T23:45:00.000Z",
+          "updated_at": "2022-08-08T06:50:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "old"
+            },
+            {
+              "id": "remastered"
+            }
+          ]
+        },
+        {
+          "id": 4191,
+          "user_id": 555251,
+          "cloneof_id": 64,
+          "string_id": "Federico_FFA_revamp",
+          "title": "FFA Official revamp",
+          "description": "Fede's FFA remade, I like this map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1590,
+          "created_at": "2020-09-02T18:36:52.000Z",
+          "updated_at": "2022-02-07T07:55:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA remake"
+            },
+            {
+              "id": "MASSIVE changes"
+            }
+          ]
+        },
+        {
+          "id": 4006,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "Penguin_farm_v1",
+          "title": "Penguin farmer's haven",
+          "description": "kill me",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 93,
+          "created_at": "2020-08-15T19:27:13.000Z",
+          "updated_at": "2020-10-21T03:19:38.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "forgive me"
+            },
+            {
+              "id": "I'm sorry"
+            }
+          ]
+        },
+        {
+          "id": 3566,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "tffa_fishy",
+          "title": "Fishy tffa",
+          "description": "rebranded my second ffa map poste",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1519,
+          "created_at": "2020-07-01T04:42:35.000Z",
+          "updated_at": "2021-04-25T19:36:23.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "tffa"
+            }
+          ]
+        },
+        {
+          "id": 2813,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "first_version_v1",
+          "title": "Fishy's first version ffa map",
+          "description": "the first version map, but with deep caves and extra evolution branches.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 439,
+          "created_at": "2020-05-01T21:20:33.000Z",
+          "updated_at": "2020-05-27T23:43:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1st version"
+            },
+            {
+              "id": "ffa"
+            }
+          ]
+        },
+        {
+          "id": 2554,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "Fishyffa_v2",
+          "title": "Fishy's ffa Map",
+          "description": "My ffa map. leave a like if u think it's neat.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1542,
+          "created_at": "2020-04-10T19:58:51.000Z",
+          "updated_at": "2020-09-06T04:57:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 1497,
+          "user_id": 555251,
+          "cloneof_id": null,
+          "string_id": "coral_reef_v1",
+          "title": "Mini reef",
+          "description": "Just a smol reef with a huge surprise",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 479,
+          "created_at": "2020-01-19T23:59:41.000Z",
+          "updated_at": "2020-05-01T19:09:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 555251,
+            "username": "Theverycutefishy",
+            "description": "Hi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-27T01:59:20.000Z",
+            "date_last_played": "2025-02-20T12:18:01.000Z",
+            "kill_count": 7177,
+            "play_count": 1793,
+            "highest_score": 94847850,
+            "picture": "555251.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6856,
+            "tier": 3,
+            "xp": 139350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Kelp"
+            },
+            {
+              "id": "Reef"
+            },
+            {
+              "id": "Smol"
+            }
+          ]
+        }
+      ],
+      "count": 15
+    },
+    "skins": [
+      {
+        "id": 11962,
+        "version": 1,
+        "asset": "11962-1.png",
+        "created_at": "2022-07-06T07:15:06.000Z",
+        "updated_at": "2022-08-08T05:01:30.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 111,
+        "name": "Hellibut",
+        "description": "A demonic, fiery fish, this beast from the depths of the mantle sets flame to anything that dares cross its path!",
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/comments/q56m7b/halibut_hellibut_250/",
+        "category": "unrealistic",
+        "season": null,
+        "on_sale": true,
+        "price": 250,
+        "sales": 133,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 555251,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 555251,
+          "username": "Theverycutefishy",
+          "description": "Hi",
+          "about": null,
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2019-01-27T01:59:20.000Z",
+          "date_last_played": "2025-02-20T12:18:01.000Z",
+          "kill_count": 7177,
+          "play_count": 1793,
+          "highest_score": 94847850,
+          "picture": "555251.png",
+          "displayPicture": false,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 6856,
+          "tier": 3,
+          "xp": 139350,
+          "migrated": true,
+          "verified": false,
+          "beta": false
+        }
+      }
+    ]
+  },
+  "archived_at": "2025-04-24T06:19:51.792Z"
+}
