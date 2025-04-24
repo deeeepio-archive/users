@@ -1,0 +1,61 @@
+{
+  "id": 542764,
+  "username": "Garstro1",
+  "description": "I'm bistro",
+  "about": "I'm Bistro1",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2018-11-03T01:21:02.000Z",
+  "date_last_played": "2024-06-10T20:45:59.000Z",
+  "profile_views": 8,
+  "kill_count": 2402,
+  "play_count": 189,
+  "highest_score": 5812043,
+  "picture": "542764.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 2,
+  "xp": 30300,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2468,
+      "user_id": 542764,
+      "platform_id": "dc",
+      "platform_user_id": "BIS FREAKING TRO#4130",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-17T18:27:36.000Z",
+      "updated_at": "2022-06-17T18:27:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 542764,
+    "rank_kc": 10442,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-13T23:24:15.000Z",
+    "rank_pc": 39169,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-13T23:24:17.000Z",
+    "rank_hs": 4988,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-13T23:24:18.000Z",
+    "created_at": "2024-06-10T20:45:58.000Z",
+    "updated_at": "2024-06-10T20:45:59.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T05:01:07.667Z"
+}
