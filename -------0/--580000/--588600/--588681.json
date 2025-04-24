@@ -1,0 +1,77 @@
+{
+  "id": 588681,
+  "username": "ognjen_Zota",
+  "description": "\n",
+  "about": "Zota The Mechanically Gifted One\n\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-08T21:10:49.000Z",
+  "date_last_played": "2024-06-20T20:17:23.000Z",
+  "profile_views": 5541,
+  "kill_count": 38881,
+  "play_count": 6437,
+  "highest_score": 27523873,
+  "picture": "588681-fb10a0e7c746e2641b562bcdcb544ea51.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 27896,
+  "tier": 10,
+  "xp": 1773900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 3,
+      "slug": "harmony-member",
+      "title": "Harmony Member"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    },
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 2061,
+      "user_id": 588681,
+      "platform_id": "dc",
+      "platform_user_id": "ognjen9",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-11T10:52:56.000Z",
+      "updated_at": "2023-07-03T21:31:13.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 588681,
+    "rank_kc": 151,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-17T14:55:21.000Z",
+    "rank_pc": 635,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-17T14:55:26.000Z",
+    "rank_hs": 1099,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-17T14:55:28.000Z",
+    "created_at": "2024-08-10T21:00:02.000Z",
+    "updated_at": "2024-08-10T21:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:47:01.825Z"
+}
