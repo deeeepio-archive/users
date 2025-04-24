@@ -1,0 +1,97 @@
+{
+  "id": 579906,
+  "username": "621301_613",
+  "description": "u tasted good. (a little salty tho)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-04-20T10:30:02.000Z",
+  "date_last_played": "2023-11-27T18:12:21.000Z",
+  "profile_views": 18,
+  "kill_count": 1883,
+  "play_count": 1701,
+  "highest_score": 1303106,
+  "picture": "579906.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 2,
+  "xp": 43500,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 579906,
+    "rank_kc": 15004,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-19T15:24:29.000Z",
+    "rank_pc": 6145,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-19T15:24:59.000Z",
+    "rank_hs": 64330,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-19T15:25:28.000Z",
+    "created_at": "2023-11-27T18:12:20.000Z",
+    "updated_at": "2023-11-27T18:12:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6674,
+          "user_id": 579906,
+          "cloneof_id": null,
+          "string_id": "696969",
+          "title": "Do it now",
+          "description": "OwO!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 25,
+          "created_at": "2021-04-29T22:22:09.000Z",
+          "updated_at": "2021-04-30T01:04:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 579906,
+            "username": "621301_613",
+            "description": "u tasted good. (a little salty tho)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-20T10:30:02.000Z",
+            "date_last_played": "2023-11-27T18:12:21.000Z",
+            "kill_count": 1883,
+            "play_count": 1701,
+            "highest_score": 1303106,
+            "picture": "579906.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 43500,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#Join!"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T08:54:12.907Z"
+}
