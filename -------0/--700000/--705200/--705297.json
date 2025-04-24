@@ -1,0 +1,97 @@
+{
+  "id": 705297,
+  "username": "Bingiboy",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-29T03:09:53.000Z",
+  "date_last_played": "2020-02-29T04:09:44.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 11,
+  "highest_score": 2,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 705297,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T22:06:53.991Z",
+    "updated_at": "2025-04-24T22:06:54.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1929,
+          "user_id": 705297,
+          "cloneof_id": null,
+          "string_id": "bingi_map1",
+          "title": "Bingi map",
+          "description": "This is a hard map/world to survive in",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 52,
+          "created_at": "2020-02-29T03:11:46.000Z",
+          "updated_at": "2020-02-29T04:13:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 705297,
+            "username": "Bingiboy",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-29T03:09:53.000Z",
+            "date_last_played": "2020-02-29T04:09:44.000Z",
+            "kill_count": 0,
+            "play_count": 11,
+            "highest_score": 2,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Bingi "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T22:06:54.042Z"
+}
