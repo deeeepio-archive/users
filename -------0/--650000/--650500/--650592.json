@@ -1,0 +1,246 @@
+{
+  "id": 650592,
+  "username": "Player_4188",
+  "description": "THE DROPOFF?! The dropoff, are you INSANE?! Why don’t we just FRY THEM UP NOW and SERVE THEM WITH CHIPS!?!?!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-01T03:50:52.000Z",
+  "date_last_played": "2020-01-30T02:44:03.000Z",
+  "profile_views": 0,
+  "kill_count": 589,
+  "play_count": 0,
+  "highest_score": 2896733,
+  "picture": "650592.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 635,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 650592,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T15:58:31.864Z",
+    "updated_at": "2025-04-24T15:58:32.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1507,
+          "user_id": 650592,
+          "cloneof_id": null,
+          "string_id": "1v1_biomes_1",
+          "title": "1v1 Biomes Map",
+          "description": "The four biomes with a 1v1 “bloody\" water octagon in the middle.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 78,
+          "created_at": "2020-01-22T02:37:14.000Z",
+          "updated_at": "2020-01-22T02:37:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650592,
+            "username": "Player_4188",
+            "description": "THE DROPOFF?! The dropoff, are you INSANE?! Why don’t we just FRY THEM UP NOW and SERVE THEM WITH CHIPS!?!?!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T03:50:52.000Z",
+            "date_last_played": "2020-01-30T02:44:03.000Z",
+            "kill_count": 589,
+            "play_count": 0,
+            "highest_score": 2896733,
+            "picture": "650592.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 635,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "biome"
+            },
+            {
+              "id": "ceiling"
+            }
+          ]
+        },
+        {
+          "id": 1147,
+          "user_id": 650592,
+          "cloneof_id": null,
+          "string_id": "finding_nemo_story",
+          "title": "Finding Nemo Story",
+          "description": "The story of Finding Nemo (left to right) in a Deeeep.io map!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 261,
+          "created_at": "2019-11-18T03:37:53.000Z",
+          "updated_at": "2019-11-19T01:43:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650592,
+            "username": "Player_4188",
+            "description": "THE DROPOFF?! The dropoff, are you INSANE?! Why don’t we just FRY THEM UP NOW and SERVE THEM WITH CHIPS!?!?!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T03:50:52.000Z",
+            "date_last_played": "2020-01-30T02:44:03.000Z",
+            "kill_count": 589,
+            "play_count": 0,
+            "highest_score": 2896733,
+            "picture": "650592.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 635,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Nemo"
+            },
+            {
+              "id": "Story"
+            }
+          ]
+        },
+        {
+          "id": 1124,
+          "user_id": 650592,
+          "cloneof_id": null,
+          "string_id": "very_deeeep_map_version1",
+          "title": "Very Deeeep Map (version 1)",
+          "description": "Veeeery Deeeep map!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 164,
+          "created_at": "2019-11-16T07:35:15.000Z",
+          "updated_at": "2019-11-17T03:08:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650592,
+            "username": "Player_4188",
+            "description": "THE DROPOFF?! The dropoff, are you INSANE?! Why don’t we just FRY THEM UP NOW and SERVE THEM WITH CHIPS!?!?!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T03:50:52.000Z",
+            "date_last_played": "2020-01-30T02:44:03.000Z",
+            "kill_count": 589,
+            "play_count": 0,
+            "highest_score": 2896733,
+            "picture": "650592.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 635,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "big"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "deep"
+            }
+          ]
+        },
+        {
+          "id": 989,
+          "user_id": 650592,
+          "cloneof_id": null,
+          "string_id": "map_no_1",
+          "title": "Map no.1",
+          "description": "The first map I started working on, on 10.31.19",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 60,
+          "created_at": "2019-11-01T03:54:01.000Z",
+          "updated_at": "2019-11-01T03:54:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650592,
+            "username": "Player_4188",
+            "description": "THE DROPOFF?! The dropoff, are you INSANE?! Why don’t we just FRY THEM UP NOW and SERVE THEM WITH CHIPS!?!?!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T03:50:52.000Z",
+            "date_last_played": "2020-01-30T02:44:03.000Z",
+            "kill_count": 589,
+            "play_count": 0,
+            "highest_score": 2896733,
+            "picture": "650592.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 635,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:58:31.912Z"
+}
