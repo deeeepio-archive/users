@@ -1,0 +1,152 @@
+{
+  "id": 714507,
+  "username": "HardGamingMario",
+  "description": "I game alot and I feel like my keyboard is broken (っ °Д °;)っ",
+  "about": "send help",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-20T13:32:08.000Z",
+  "date_last_played": "2022-07-31T13:12:49.000Z",
+  "profile_views": 9,
+  "kill_count": 58,
+  "play_count": 214,
+  "highest_score": 291752,
+  "picture": "714507-910be278b0818494138a3bf9462eedc83.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 714507,
+    "rank_kc": 115473,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-24T21:37:21.000Z",
+    "rank_pc": 32828,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-24T21:37:21.000Z",
+    "rank_hs": 164665,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-24T21:37:21.000Z",
+    "created_at": "2022-10-08T06:45:31.000Z",
+    "updated_at": "2022-08-14T20:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7470,
+          "user_id": 714507,
+          "cloneof_id": null,
+          "string_id": "new_vid93_33",
+          "title": "deeep.io BROKEN",
+          "description": "i cant make somthing",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 72,
+          "created_at": "2021-07-31T23:12:25.000Z",
+          "updated_at": "2021-10-31T21:24:37.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 714507,
+            "username": "HardGamingMario",
+            "description": "I game alot and I feel like my keyboard is broken (っ °Д °;)っ",
+            "about": "send help",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-20T13:32:08.000Z",
+            "date_last_played": "2022-07-31T13:12:49.000Z",
+            "kill_count": 58,
+            "play_count": 214,
+            "highest_score": 291752,
+            "picture": "714507-910be278b0818494138a3bf9462eedc83.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 12,
+            "tier": 1,
+            "xp": 1800,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "i cant make it"
+            }
+          ]
+        },
+        {
+          "id": 7363,
+          "user_id": 714507,
+          "cloneof_id": null,
+          "string_id": "free_map",
+          "title": "random map",
+          "description": "i made my first map lol",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 13,
+          "created_at": "2021-07-12T21:39:20.000Z",
+          "updated_at": "2021-07-12T23:01:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 714507,
+            "username": "HardGamingMario",
+            "description": "I game alot and I feel like my keyboard is broken (っ °Д °;)っ",
+            "about": "send help",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-20T13:32:08.000Z",
+            "date_last_played": "2022-07-31T13:12:49.000Z",
+            "kill_count": 58,
+            "play_count": 214,
+            "highest_score": 291752,
+            "picture": "714507-910be278b0818494138a3bf9462eedc83.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 12,
+            "tier": 1,
+            "xp": 1800,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "even habitats"
+            },
+            {
+              "id": "first map made"
+            },
+            {
+              "id": "NPCs included"
+            },
+            {
+              "id": "Wierd spawns"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:07:14.223Z"
+}
