@@ -1,0 +1,252 @@
+{
+  "id": 688767,
+  "username": "Estofado",
+  "description": "El pepe",
+  "about": "que nuv",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-01T17:28:33.000Z",
+  "date_last_played": "2023-03-07T23:16:37.000Z",
+  "profile_views": 14,
+  "kill_count": 755,
+  "play_count": 2437,
+  "highest_score": 1201224,
+  "picture": "688767-1aef6f0a9daa51644de992fd81483c3e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 23,
+  "tier": 1,
+  "xp": 4650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3248,
+      "user_id": 688767,
+      "platform_id": "yt",
+      "platform_user_id": "PibeAsado",
+      "platform_user_url": "https://www.youtube.com/channel/UC4IzfawfZeUhXFcziGMjoNg",
+      "verified": false,
+      "created_at": "2022-07-03T00:16:27.000Z",
+      "updated_at": "2022-07-03T00:16:27.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 688767,
+    "rank_kc": 27853,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-10T17:12:03.000Z",
+    "rank_pc": 2887,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-10T17:12:03.000Z",
+    "rank_hs": 59219,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-10T17:12:04.000Z",
+    "created_at": "2023-04-04T08:21:47.000Z",
+    "updated_at": "2023-03-07T23:16:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3392,
+          "user_id": 688767,
+          "cloneof_id": null,
+          "string_id": "1011010293938482020i838",
+          "title": "deeeep.io map idea",
+          "description": "big map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 78,
+          "created_at": "2020-06-15T16:22:31.000Z",
+          "updated_at": "2020-06-15T16:22:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688767,
+            "username": "Estofado",
+            "description": "El pepe",
+            "about": "que nuv",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-01T17:28:33.000Z",
+            "date_last_played": "2023-03-07T23:16:37.000Z",
+            "kill_count": 755,
+            "play_count": 2437,
+            "highest_score": 1201224,
+            "picture": "688767-1aef6f0a9daa51644de992fd81483c3e.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 23,
+            "tier": 1,
+            "xp": 4650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "SM team"
+            }
+          ]
+        },
+        {
+          "id": 1676,
+          "user_id": 688767,
+          "cloneof_id": null,
+          "string_id": "woomy_by_boomy",
+          "title": "wooooooomy",
+          "description": "wooooomy",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 22,
+          "created_at": "2020-02-11T16:57:30.000Z",
+          "updated_at": "2020-02-11T16:57:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688767,
+            "username": "Estofado",
+            "description": "El pepe",
+            "about": "que nuv",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-01T17:28:33.000Z",
+            "date_last_played": "2023-03-07T23:16:37.000Z",
+            "kill_count": 755,
+            "play_count": 2437,
+            "highest_score": 1201224,
+            "picture": "688767-1aef6f0a9daa51644de992fd81483c3e.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 23,
+            "tier": 1,
+            "xp": 4650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "battle royale"
+            }
+          ]
+        },
+        {
+          "id": 1675,
+          "user_id": 688767,
+          "cloneof_id": null,
+          "string_id": "m_lag_v1",
+          "title": "npc agresivo",
+          "description": "batalla contra npc si se matan",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 16,
+          "created_at": "2020-02-11T16:31:17.000Z",
+          "updated_at": "2020-02-11T16:47:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688767,
+            "username": "Estofado",
+            "description": "El pepe",
+            "about": "que nuv",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-01T17:28:33.000Z",
+            "date_last_played": "2023-03-07T23:16:37.000Z",
+            "kill_count": 755,
+            "play_count": 2437,
+            "highest_score": 1201224,
+            "picture": "688767-1aef6f0a9daa51644de992fd81483c3e.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 23,
+            "tier": 1,
+            "xp": 4650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "pequeño"
+            },
+            {
+              "id": "team"
+            }
+          ]
+        },
+        {
+          "id": 1664,
+          "user_id": 688767,
+          "cloneof_id": null,
+          "string_id": "battle_royale_indeeep",
+          "title": "demo",
+          "description": "a demo",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 3,
+          "created_at": "2020-02-10T00:14:06.000Z",
+          "updated_at": "2020-02-10T00:22:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688767,
+            "username": "Estofado",
+            "description": "El pepe",
+            "about": "que nuv",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-01T17:28:33.000Z",
+            "date_last_played": "2023-03-07T23:16:37.000Z",
+            "kill_count": 755,
+            "play_count": 2437,
+            "highest_score": 1201224,
+            "picture": "688767-1aef6f0a9daa51644de992fd81483c3e.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 23,
+            "tier": 1,
+            "xp": 4650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "battle royale"
+            },
+            {
+              "id": "demo"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T19:57:14.822Z"
+}
