@@ -1,0 +1,143 @@
+{
+  "id": 603865,
+  "username": "Mrsfairy",
+  "description": "I'm holding out for a hero",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-03T18:29:26.000Z",
+  "date_last_played": "2025-03-17T20:37:08.000Z",
+  "profile_views": 246,
+  "kill_count": 1137,
+  "play_count": 974,
+  "highest_score": 2733001,
+  "picture": "603865-f302546b8eee09ccb84fd0f082476372-dd64403e-836c-4af1-a2eb-99c0bcf3454e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 159,
+  "tier": 5,
+  "xp": 253500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 603865,
+    "rank_kc": 29480,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-28T22:44:25.000Z",
+    "rank_pc": 16555,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-28T22:44:26.000Z",
+    "rank_hs": 61442,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-28T22:44:27.000Z",
+    "created_at": "2025-03-17T20:37:08.000Z",
+    "updated_at": "2025-03-17T20:37:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10868,
+          "user_id": 603865,
+          "cloneof_id": null,
+          "string_id": "ok_i_do",
+          "title": "Untitled",
+          "description": "ok",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 19,
+          "created_at": "2022-09-09T14:39:08.000Z",
+          "updated_at": "2022-09-09T14:46:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 603865,
+            "username": "Mrsfairy",
+            "description": "I'm holding out for a hero",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-03T18:29:26.000Z",
+            "date_last_played": "2025-03-17T20:37:08.000Z",
+            "kill_count": 1137,
+            "play_count": 974,
+            "highest_score": 2733001,
+            "picture": "603865-f302546b8eee09ccb84fd0f082476372-dd64403e-836c-4af1-a2eb-99c0bcf3454e.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 159,
+            "tier": 5,
+            "xp": 253500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "okok"
+            }
+          ]
+        },
+        {
+          "id": 9693,
+          "user_id": 603865,
+          "cloneof_id": null,
+          "string_id": "3rch108",
+          "title": "Untitled",
+          "description": "hqcf3p",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1,
+          "created_at": "2022-04-19T13:47:11.000Z",
+          "updated_at": "2022-04-19T13:47:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 603865,
+            "username": "Mrsfairy",
+            "description": "I'm holding out for a hero",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-03T18:29:26.000Z",
+            "date_last_played": "2025-03-17T20:37:08.000Z",
+            "kill_count": 1137,
+            "play_count": 974,
+            "highest_score": 2733001,
+            "picture": "603865-f302546b8eee09ccb84fd0f082476372-dd64403e-836c-4af1-a2eb-99c0bcf3454e.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 159,
+            "tier": 5,
+            "xp": 253500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cqjhf "
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:17:54.633Z"
+}
