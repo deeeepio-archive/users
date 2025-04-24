@@ -1,0 +1,339 @@
+{
+  "id": 590515,
+  "username": "ssf",
+  "description": "you could have beat me if you tried your best",
+  "about": "im a very og player",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-11T16:48:38.000Z",
+  "date_last_played": "2022-08-07T17:08:55.000Z",
+  "profile_views": 4,
+  "kill_count": 1237,
+  "play_count": 762,
+  "highest_score": 1225712,
+  "picture": "590515-f12e3e744675acbcf96e101106b0a0685b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 67,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3334,
+      "user_id": 590515,
+      "platform_id": "dc",
+      "platform_user_id": "ssf#5257",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-04T18:44:08.000Z",
+      "updated_at": "2022-07-04T18:44:08.000Z"
+    },
+    {
+      "id": 3335,
+      "user_id": 590515,
+      "platform_id": "ig",
+      "platform_user_id": "setemi_bamz",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-04T18:44:17.000Z",
+      "updated_at": "2022-07-04T18:44:17.000Z"
+    },
+    {
+      "id": 3336,
+      "user_id": 590515,
+      "platform_id": "rd",
+      "platform_user_id": "setemox",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-04T18:44:28.000Z",
+      "updated_at": "2022-07-04T18:44:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 590515,
+    "rank_kc": 20066,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-24T21:42:08.000Z",
+    "rank_pc": 13764,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-24T21:42:10.000Z",
+    "rank_hs": 65122,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-24T21:42:12.000Z",
+    "created_at": "2023-02-23T22:22:15.000Z",
+    "updated_at": "2023-01-24T21:42:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4725,
+          "user_id": 590515,
+          "cloneof_id": null,
+          "string_id": "21jeed9309mdmd398v",
+          "title": "Survival zone",
+          "description": "welcome to the survival zone! its gonna be pretty hard to survive out here... make sure to stay away from the evil volcano side unless ur daring enough :v",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 153,
+          "created_at": "2020-11-01T13:59:32.000Z",
+          "updated_at": "2020-11-01T14:55:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 590515,
+            "username": "ssf",
+            "description": "you could have beat me if you tried your best",
+            "about": "im a very og player",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-11T16:48:38.000Z",
+            "date_last_played": "2022-08-07T17:08:55.000Z",
+            "kill_count": 1237,
+            "play_count": 762,
+            "highest_score": 1225712,
+            "picture": "590515-f12e3e744675acbcf96e101106b0a0685b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 67,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deadly"
+            },
+            {
+              "id": "evil"
+            },
+            {
+              "id": "scary"
+            },
+            {
+              "id": "survive"
+            }
+          ]
+        },
+        {
+          "id": 340,
+          "user_id": 590515,
+          "cloneof_id": null,
+          "string_id": "abc",
+          "title": "NAT GEO WILD",
+          "description": "get ready for the most crazythings ever! Updates coming soon!!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 2182,
+          "created_at": "2019-09-03T16:21:28.000Z",
+          "updated_at": "2020-02-15T18:28:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 590515,
+            "username": "ssf",
+            "description": "you could have beat me if you tried your best",
+            "about": "im a very og player",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-11T16:48:38.000Z",
+            "date_last_played": "2022-08-07T17:08:55.000Z",
+            "kill_count": 1237,
+            "play_count": 762,
+            "highest_score": 1225712,
+            "picture": "590515-f12e3e744675acbcf96e101106b0a0685b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 67,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Animals"
+            }
+          ]
+        },
+        {
+          "id": 338,
+          "user_id": 590515,
+          "cloneof_id": null,
+          "string_id": "venienvienvi",
+          "title": "VENOM",
+          "description": "welcome,U can go inside venom's mouth",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 24,
+          "created_at": "2019-09-03T13:18:48.000Z",
+          "updated_at": "2019-09-03T13:18:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 590515,
+            "username": "ssf",
+            "description": "you could have beat me if you tried your best",
+            "about": "im a very og player",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-11T16:48:38.000Z",
+            "date_last_played": "2022-08-07T17:08:55.000Z",
+            "kill_count": 1237,
+            "play_count": 762,
+            "highest_score": 1225712,
+            "picture": "590515-f12e3e744675acbcf96e101106b0a0685b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 67,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "superhero"
+            },
+            {
+              "id": "supervillian"
+            },
+            {
+              "id": "venom"
+            }
+          ]
+        },
+        {
+          "id": 337,
+          "user_id": 590515,
+          "cloneof_id": null,
+          "string_id": "1414_yumsuk",
+          "title": "MY ANACONDA DONT",
+          "description": "Hello anaconda lovers this is just the right place for u! also check out what all that big snake swallowed",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2019-09-03T12:54:31.000Z",
+          "updated_at": "2019-09-03T12:54:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 590515,
+            "username": "ssf",
+            "description": "you could have beat me if you tried your best",
+            "about": "im a very og player",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-11T16:48:38.000Z",
+            "date_last_played": "2022-08-07T17:08:55.000Z",
+            "kill_count": 1237,
+            "play_count": 762,
+            "highest_score": 1225712,
+            "picture": "590515-f12e3e744675acbcf96e101106b0a0685b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 67,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "anaconda"
+            },
+            {
+              "id": "animals"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 336,
+          "user_id": 590515,
+          "cloneof_id": null,
+          "string_id": "yumsuk_1414",
+          "title": "卩ㄖㄥ卂尺   乇爪卩乇尺ㄖ尺丂  /  乇爪卩尺乇丂丂乇丂",
+          "description": "welcome to the polar kingdom players. if Your to weak at a time or ur about to die jump to the island in the night sky. big guys fight in the royale cave in the bottom right, HAVE FUN ???? WARNING ur creature has to be able to be able to survive in arctic",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 26,
+          "created_at": "2019-09-03T12:19:00.000Z",
+          "updated_at": "2019-09-03T12:19:02.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 590515,
+            "username": "ssf",
+            "description": "you could have beat me if you tried your best",
+            "about": "im a very og player",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-11T16:48:38.000Z",
+            "date_last_played": "2022-08-07T17:08:55.000Z",
+            "kill_count": 1237,
+            "play_count": 762,
+            "highest_score": 1225712,
+            "picture": "590515-f12e3e744675acbcf96e101106b0a0685b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 67,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Ice"
+            },
+            {
+              "id": "Polar"
+            },
+            {
+              "id": "Royale"
+            }
+          ]
+        }
+      ],
+      "count": 5
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:58:09.800Z"
+}
