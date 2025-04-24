@@ -1,0 +1,109 @@
+{
+  "id": 600111,
+  "username": "xXsQuidsQuadXx",
+  "description": "You died to a laggy ass mobile player xD",
+  "about": "I like spinning aggressively.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-27T23:51:57.000Z",
+  "date_last_played": "2023-07-26T18:13:59.000Z",
+  "profile_views": 42,
+  "kill_count": 6517,
+  "play_count": 2988,
+  "highest_score": 3854577,
+  "picture": "600111-61f9258eb8c9a46c374affbe5bab0978.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 133,
+  "tier": 3,
+  "xp": 95250,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 600111,
+    "rank_kc": 3319,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-09T23:13:27.000Z",
+    "rank_pc": 2362,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-09T23:13:28.000Z",
+    "rank_hs": 10549,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-09T23:13:29.000Z",
+    "created_at": "2023-07-26T18:13:58.000Z",
+    "updated_at": "2023-07-26T18:13:59.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2799,
+          "user_id": 600111,
+          "cloneof_id": null,
+          "string_id": "mymapo",
+          "title": "My Mapo!",
+          "description": "full of a lot of mountions",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 40,
+          "created_at": "2020-04-30T20:29:48.000Z",
+          "updated_at": "2020-04-30T21:03:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 600111,
+            "username": "xXsQuidsQuadXx",
+            "description": "You died to a laggy ass mobile player xD",
+            "about": "I like spinning aggressively.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-27T23:51:57.000Z",
+            "date_last_played": "2023-07-26T18:13:59.000Z",
+            "kill_count": 6517,
+            "play_count": 2988,
+            "highest_score": 3854577,
+            "picture": "600111-61f9258eb8c9a46c374affbe5bab0978.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 133,
+            "tier": 3,
+            "xp": 95250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#AWSOMENESS"
+            },
+            {
+              "id": "#big"
+            },
+            {
+              "id": "#caves"
+            },
+            {
+              "id": "#floatingislands"
+            },
+            {
+              "id": "#mountians"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T10:55:07.875Z"
+}
