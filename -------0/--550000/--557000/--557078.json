@@ -1,0 +1,143 @@
+{
+  "id": 557078,
+  "username": "8592461_331",
+  "description": "I kill u because I am very hungery and wana beat a record",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-02-05T00:34:44.000Z",
+  "date_last_played": "2022-03-08T22:12:36.000Z",
+  "profile_views": 0,
+  "kill_count": 1069,
+  "play_count": 148,
+  "highest_score": 1735160,
+  "picture": "557078.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 42,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 557078,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T06:31:28.166Z",
+    "updated_at": "2025-04-24T06:31:28.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4668,
+          "user_id": 557078,
+          "cloneof_id": null,
+          "string_id": "thebee",
+          "title": "MY MAP",
+          "description": "THE BEST",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 4,
+          "created_at": "2020-10-25T21:58:04.000Z",
+          "updated_at": "2020-10-25T21:58:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 557078,
+            "username": "8592461_331",
+            "description": "I kill u because I am very hungery and wana beat a record",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-02-05T00:34:44.000Z",
+            "date_last_played": "2022-03-08T22:12:36.000Z",
+            "kill_count": 1069,
+            "play_count": 148,
+            "highest_score": 1735160,
+            "picture": "557078.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 42,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "map"
+            }
+          ]
+        },
+        {
+          "id": 4667,
+          "user_id": 557078,
+          "cloneof_id": null,
+          "string_id": "mymap6",
+          "title": "MYNEWMAP",
+          "description": "its a gud map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-10-25T21:48:03.000Z",
+          "updated_at": "2020-10-25T21:52:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 557078,
+            "username": "8592461_331",
+            "description": "I kill u because I am very hungery and wana beat a record",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-02-05T00:34:44.000Z",
+            "date_last_played": "2022-03-08T22:12:36.000Z",
+            "kill_count": 1069,
+            "play_count": 148,
+            "highest_score": 1735160,
+            "picture": "557078.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 42,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "MAP"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T06:31:28.217Z"
+}
