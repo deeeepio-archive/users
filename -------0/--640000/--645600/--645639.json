@@ -1,0 +1,61 @@
+{
+  "id": 645639,
+  "username": "5050955_950",
+  "description": "我不關心",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-19T14:07:57.000Z",
+  "date_last_played": "2024-09-03T08:26:51.000Z",
+  "profile_views": 34,
+  "kill_count": 3520,
+  "play_count": 202,
+  "highest_score": 2805310,
+  "picture": "645639-c68f78fb7aef2792f9064b31d2b1022f3.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 254,
+  "tier": 1,
+  "xp": 23100,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7808,
+      "user_id": 645639,
+      "platform_id": "fb",
+      "platform_user_id": "https://www.facebook.com/profile.php?id=100021495902642",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=100021495902642",
+      "verified": false,
+      "created_at": "2022-10-08T10:30:26.000Z",
+      "updated_at": "2022-10-08T10:30:26.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 645639,
+    "rank_kc": 8433,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-13T00:29:06.000Z",
+    "rank_pc": 47744,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-13T00:29:07.000Z",
+    "rank_hs": 22875,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-13T00:29:07.000Z",
+    "created_at": "2024-09-03T08:26:51.000Z",
+    "updated_at": "2024-09-03T08:26:51.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:27:36.430Z"
+}
