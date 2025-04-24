@@ -1,0 +1,97 @@
+{
+  "id": 553697,
+  "username": "dantel_603",
+  "description": "5,029,562 score, piranha\r\n4mil, tigershark\r\nWithout an account\r\n6mil eagle",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-01-20T22:24:52.000Z",
+  "date_last_played": "2022-06-16T22:43:49.000Z",
+  "profile_views": 1,
+  "kill_count": 7366,
+  "play_count": 1239,
+  "highest_score": 5029562,
+  "picture": "553697.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 953,
+  "tier": 1,
+  "xp": 8850,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 553697,
+    "rank_kc": 2563,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-16T22:42:31.000Z",
+    "rank_pc": 6948,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-16T22:42:31.000Z",
+    "rank_hs": 6042,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-16T22:42:31.000Z",
+    "created_at": "2022-07-09T00:02:07.000Z",
+    "updated_at": "2022-06-16T22:43:49.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7095,
+          "user_id": 553697,
+          "cloneof_id": null,
+          "string_id": "Night_Hide_Away",
+          "title": "Night Town",
+          "description": "stuff",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 289,
+          "created_at": "2021-06-09T17:12:48.000Z",
+          "updated_at": "2021-08-21T02:05:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 553697,
+            "username": "dantel_603",
+            "description": "5,029,562 score, piranha\r\n4mil, tigershark\r\nWithout an account\r\n6mil eagle",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-01-20T22:24:52.000Z",
+            "date_last_played": "2022-06-16T22:43:49.000Z",
+            "kill_count": 7366,
+            "play_count": 1239,
+            "highest_score": 5029562,
+            "picture": "553697.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 953,
+            "tier": 1,
+            "xp": 8850,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Dark"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T06:07:59.989Z"
+}
