@@ -1,0 +1,72 @@
+{
+  "id": 626256,
+  "username": "Gh0sts",
+  "description": "Boo!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-08-27T12:30:45.000Z",
+  "date_last_played": "2025-04-18T06:30:15.000Z",
+  "profile_views": 2903,
+  "kill_count": 96024,
+  "play_count": 15642,
+  "highest_score": 59996300,
+  "picture": "626256.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 46787,
+  "tier": 10,
+  "xp": 4610550,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 3,
+      "slug": "harmony-member",
+      "title": "Harmony Member"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 5220,
+      "user_id": 626256,
+      "platform_id": "dc",
+      "platform_user_id": "Tmarocks#0984",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-17T15:07:46.000Z",
+      "updated_at": "2022-08-17T15:07:46.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 626256,
+    "rank_kc": 13,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T19:02:55.000Z",
+    "rank_pc": 31,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T19:03:20.000Z",
+    "rank_hs": 713,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T19:03:37.000Z",
+    "created_at": "2025-04-18T06:30:15.000Z",
+    "updated_at": "2025-04-18T06:30:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T13:31:46.013Z"
+}
