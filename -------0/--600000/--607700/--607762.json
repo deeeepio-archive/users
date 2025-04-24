@@ -1,0 +1,197 @@
+{
+  "id": 607762,
+  "username": "unarmed",
+  "description": "Welp. You got the dead.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-14T00:48:16.000Z",
+  "date_last_played": "2019-09-29T18:12:32.000Z",
+  "profile_views": 0,
+  "kill_count": 143,
+  "play_count": 0,
+  "highest_score": 1905806,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 98,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 607762,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T11:41:21.632Z",
+    "updated_at": "2025-04-24T11:41:22.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 751,
+          "user_id": 607762,
+          "cloneof_id": null,
+          "string_id": "example",
+          "title": "Example/template map",
+          "description": "A template map, that is just an example",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 154,
+          "created_at": "2019-10-06T17:34:20.000Z",
+          "updated_at": "2019-10-12T00:16:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 607762,
+            "username": "unarmed",
+            "description": "Welp. You got the dead.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-14T00:48:16.000Z",
+            "date_last_played": "2019-09-29T18:12:32.000Z",
+            "kill_count": 143,
+            "play_count": 0,
+            "highest_score": 1905806,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 98,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "nonprofessional"
+            }
+          ]
+        },
+        {
+          "id": 686,
+          "user_id": 607762,
+          "cloneof_id": null,
+          "string_id": "maze_low_all",
+          "title": "Maze for all habitats",
+          "description": "A maze-like map that has a lot of curves in it.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 267,
+          "created_at": "2019-09-30T00:10:25.000Z",
+          "updated_at": "2019-09-30T02:05:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 607762,
+            "username": "unarmed",
+            "description": "Welp. You got the dead.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-14T00:48:16.000Z",
+            "date_last_played": "2019-09-29T18:12:32.000Z",
+            "kill_count": 143,
+            "play_count": 0,
+            "highest_score": 1905806,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 98,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "all"
+            },
+            {
+              "id": "bad"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "maze"
+            },
+            {
+              "id": "non-profesional"
+            }
+          ]
+        },
+        {
+          "id": 681,
+          "user_id": 607762,
+          "cloneof_id": null,
+          "string_id": "my_first_map",
+          "title": "first map",
+          "description": "Just figuring it out",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 37,
+          "created_at": "2019-09-29T17:01:51.000Z",
+          "updated_at": "2019-09-29T17:01:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 607762,
+            "username": "unarmed",
+            "description": "Welp. You got the dead.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-14T00:48:16.000Z",
+            "date_last_played": "2019-09-29T18:12:32.000Z",
+            "kill_count": 143,
+            "play_count": 0,
+            "highest_score": 1905806,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 98,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:41:21.730Z"
+}
