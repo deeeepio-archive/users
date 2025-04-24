@@ -1,0 +1,109 @@
+{
+  "id": 615270,
+  "username": "Laurys20179",
+  "description": "I'm not going to be sad because i killed you, because i know that you have killed more than me.\n\nNow continue playing and dont be sad, because you did same.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-18T23:04:48.000Z",
+  "date_last_played": "2022-10-10T23:18:20.000Z",
+  "profile_views": 7,
+  "kill_count": 73,
+  "play_count": 199,
+  "highest_score": 256031,
+  "picture": "615270.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4,
+  "tier": 1,
+  "xp": 900,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 615270,
+    "rank_kc": 105215,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-05T23:51:47.000Z",
+    "rank_pc": 37140,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-05T23:51:47.000Z",
+    "rank_hs": 180339,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-09-05T23:51:47.000Z",
+    "created_at": "2022-10-10T23:18:19.000Z",
+    "updated_at": "2022-10-10T23:18:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5649,
+          "user_id": 615270,
+          "cloneof_id": null,
+          "string_id": "january_2021",
+          "title": "My first map",
+          "description": "A normal map, but some bugs..",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 288,
+          "created_at": "2021-01-21T19:08:30.000Z",
+          "updated_at": "2021-01-21T19:08:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 615270,
+            "username": "Laurys20179",
+            "description": "I'm not going to be sad because i killed you, because i know that you have killed more than me.\n\nNow continue playing and dont be sad, because you did same.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-18T23:04:48.000Z",
+            "date_last_played": "2022-10-10T23:18:20.000Z",
+            "kill_count": 73,
+            "play_count": 199,
+            "highest_score": 256031,
+            "picture": "615270.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 4,
+            "tier": 1,
+            "xp": 900,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "All vs all"
+            },
+            {
+              "id": "Bugs"
+            },
+            {
+              "id": "Custom"
+            },
+            {
+              "id": "First"
+            },
+            {
+              "id": "Normal"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:26:53.608Z"
+}
