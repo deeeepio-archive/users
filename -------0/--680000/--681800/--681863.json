@@ -1,0 +1,151 @@
+{
+  "id": 681863,
+  "username": "Vona",
+  "description": "sorry, just stop going near me i have been killed so many godamn times",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-01-16T01:51:33.000Z",
+  "date_last_played": "2022-12-03T05:35:05.000Z",
+  "profile_views": 2,
+  "kill_count": 236,
+  "play_count": 257,
+  "highest_score": 32951223,
+  "picture": "681863.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 69,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 681863,
+    "rank_kc": 56432,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-27T08:30:43.000Z",
+    "rank_pc": 28542,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-27T08:30:43.000Z",
+    "rank_hs": 982,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-27T08:30:44.000Z",
+    "created_at": "2023-02-20T03:24:28.000Z",
+    "updated_at": "2022-12-03T05:35:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2424,
+          "user_id": 681863,
+          "cloneof_id": null,
+          "string_id": "qwerty07",
+          "title": "FFA Slim",
+          "description": "A fun 1v1 or 2v2 or 3v3 map!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 8,
+          "created_at": "2020-04-02T18:10:07.000Z",
+          "updated_at": "2020-04-02T18:29:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 681863,
+            "username": "Vona",
+            "description": "sorry, just stop going near me i have been killed so many godamn times",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-01-16T01:51:33.000Z",
+            "date_last_played": "2022-12-03T05:35:05.000Z",
+            "kill_count": 236,
+            "play_count": 257,
+            "highest_score": 32951223,
+            "picture": "681863.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 69,
+            "tier": 1,
+            "xp": 300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " pro"
+            },
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "new"
+            },
+            {
+              "id": "old"
+            }
+          ]
+        },
+        {
+          "id": 1473,
+          "user_id": 681863,
+          "cloneof_id": null,
+          "string_id": "myfirstmap",
+          "title": "Cfefer",
+          "description": "try and survive, and become nb1!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 27,
+          "created_at": "2020-01-16T01:53:16.000Z",
+          "updated_at": "2020-01-16T02:10:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 681863,
+            "username": "Vona",
+            "description": "sorry, just stop going near me i have been killed so many godamn times",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-01-16T01:51:33.000Z",
+            "date_last_played": "2022-12-03T05:35:05.000Z",
+            "kill_count": 236,
+            "play_count": 257,
+            "highest_score": 32951223,
+            "picture": "681863.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 69,
+            "tier": 1,
+            "xp": 300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T19:14:39.929Z"
+}
