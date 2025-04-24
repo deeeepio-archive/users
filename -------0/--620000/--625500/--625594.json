@@ -1,0 +1,100 @@
+{
+  "id": 625594,
+  "username": "Me3",
+  "description": "My record score is 3.031m xp in ffa.\nBe loyal to friends.\nRespect 1v1s.\n",
+  "about": "I am cool",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-08-25T03:22:42.000Z",
+  "date_last_played": "2024-06-27T09:12:21.000Z",
+  "profile_views": 151,
+  "kill_count": 8593,
+  "play_count": 2172,
+  "highest_score": 3030982,
+  "picture": "625594-d5cc1071091cea23341dceda6e6843fc5.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 171,
+  "tier": 5,
+  "xp": 261600,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 625594,
+    "rank_kc": 2476,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-23T05:18:38.000Z",
+    "rank_pc": 4210,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-23T05:18:39.000Z",
+    "rank_hs": 18529,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-23T05:18:40.000Z",
+    "created_at": "2024-06-27T09:12:20.000Z",
+    "updated_at": "2024-06-27T09:12:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5348,
+          "user_id": 625594,
+          "cloneof_id": null,
+          "string_id": "first_map_by_me3",
+          "title": "small map",
+          "description": "My first (and very small) map.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 35,
+          "created_at": "2020-12-20T06:32:56.000Z",
+          "updated_at": "2020-12-28T04:31:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 625594,
+            "username": "Me3",
+            "description": "My record score is 3.031m xp in ffa.\nBe loyal to friends.\nRespect 1v1s.\n",
+            "about": "I am cool",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-08-25T03:22:42.000Z",
+            "date_last_played": "2024-06-27T09:12:21.000Z",
+            "kill_count": 8593,
+            "play_count": 2172,
+            "highest_score": 3030982,
+            "picture": "625594-d5cc1071091cea23341dceda6e6843fc5.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 171,
+            "tier": 5,
+            "xp": 261600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "(btp)"
+            },
+            {
+              "id": "first map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T13:27:41.372Z"
+}
