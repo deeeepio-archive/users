@@ -1,0 +1,97 @@
+{
+  "id": 717571,
+  "username": "Zymotic",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-27T18:54:59.000Z",
+  "date_last_played": "2024-07-06T02:59:11.000Z",
+  "profile_views": 8,
+  "kill_count": 568,
+  "play_count": 941,
+  "highest_score": 1354285,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 23,
+  "tier": 1,
+  "xp": 1950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 717571,
+    "rank_kc": 36351,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-05T22:00:55.000Z",
+    "rank_pc": 11313,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-05T22:00:59.000Z",
+    "rank_hs": 58534,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-05T22:01:05.000Z",
+    "created_at": "2024-07-06T02:59:11.000Z",
+    "updated_at": "2024-07-06T02:59:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3528,
+          "user_id": 717571,
+          "cloneof_id": null,
+          "string_id": "1234566761273",
+          "title": "trash map",
+          "description": "yo",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 12,
+          "created_at": "2020-06-27T17:49:43.000Z",
+          "updated_at": "2020-06-27T17:49:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 717571,
+            "username": "Zymotic",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-27T18:54:59.000Z",
+            "date_last_played": "2024-07-06T02:59:11.000Z",
+            "kill_count": 568,
+            "play_count": 941,
+            "highest_score": 1354285,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 23,
+            "tier": 1,
+            "xp": 1950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "777"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:25:33.035Z"
+}

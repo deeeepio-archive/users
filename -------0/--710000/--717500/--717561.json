@@ -1,0 +1,61 @@
+{
+  "id": 717561,
+  "username": "dwight111",
+  "description": "W only",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-27T18:34:03.000Z",
+  "date_last_played": "2022-07-26T14:43:30.000Z",
+  "profile_views": 12,
+  "kill_count": 6487,
+  "play_count": 3723,
+  "highest_score": 30172616,
+  "picture": "717561.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 771,
+  "tier": 1,
+  "xp": 7500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16315,
+      "user_id": 717561,
+      "platform_id": "dc",
+      "platform_user_id": "dwight#9826",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-17T20:57:07.000Z",
+      "updated_at": "2023-03-17T20:57:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 717561,
+    "rank_kc": 4226,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-25T14:13:36.000Z",
+    "rank_pc": 2015,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-25T14:13:38.000Z",
+    "rank_hs": 1035,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-25T16:41:23.000Z",
+    "created_at": "2023-12-10T16:16:06.000Z",
+    "updated_at": "2023-10-25T16:41:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:25:31.446Z"
+}
