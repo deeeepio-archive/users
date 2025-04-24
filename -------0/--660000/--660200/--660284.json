@@ -1,0 +1,164 @@
+{
+  "id": 660284,
+  "username": "A_roblox_player",
+  "description": "Aww,don't cry or be sad because i killed you,i just want to survive like everyone else because it's the foodchain.Good luck next time ;)though if you attacked me,it was your fault.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-19T16:42:42.000Z",
+  "date_last_played": "2020-01-19T18:09:36.000Z",
+  "profile_views": 0,
+  "kill_count": 117,
+  "play_count": 0,
+  "highest_score": 1717931,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 196,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 660284,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T16:56:51.723Z",
+    "updated_at": "2025-04-24T16:56:52.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1179,
+          "user_id": 660284,
+          "cloneof_id": null,
+          "string_id": "7657563",
+          "title": "Mysterious lake (swamp only)",
+          "description": "Hi!This is a mysterious lake that has some strange looking things which resemble something,but what ? you need to find out",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 243,
+          "created_at": "2019-11-23T11:28:29.000Z",
+          "updated_at": "2019-11-23T11:28:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 660284,
+            "username": "A_roblox_player",
+            "description": "Aww,don't cry or be sad because i killed you,i just want to survive like everyone else because it's the foodchain.Good luck next time ;)though if you attacked me,it was your fault.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-19T16:42:42.000Z",
+            "date_last_played": "2020-01-19T18:09:36.000Z",
+            "kill_count": 117,
+            "play_count": 0,
+            "highest_score": 1717931,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 196,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#forest"
+            },
+            {
+              "id": "#lake"
+            },
+            {
+              "id": "#mysterious"
+            },
+            {
+              "id": "#swamponly"
+            }
+          ]
+        },
+        {
+          "id": 1168,
+          "user_id": 660284,
+          "cloneof_id": null,
+          "string_id": "49305437456",
+          "title": "Alaskan reserve(unfinished)",
+          "description": "Hello! this map is not yet finished so for the moment you can play it,but it's still a work in progress.So,enjoy!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 135,
+          "created_at": "2019-11-22T15:44:23.000Z",
+          "updated_at": "2019-11-23T10:39:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 660284,
+            "username": "A_roblox_player",
+            "description": "Aww,don't cry or be sad because i killed you,i just want to survive like everyone else because it's the foodchain.Good luck next time ;)though if you attacked me,it was your fault.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-19T16:42:42.000Z",
+            "date_last_played": "2020-01-19T18:09:36.000Z",
+            "kill_count": 117,
+            "play_count": 0,
+            "highest_score": 1717931,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 196,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "alaska"
+            },
+            {
+              "id": "artic"
+            },
+            {
+              "id": "polar"
+            },
+            {
+              "id": "tundra"
+            },
+            {
+              "id": "unfinished"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T16:56:51.783Z"
+}
