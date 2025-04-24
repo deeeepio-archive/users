@@ -1,0 +1,61 @@
+{
+  "id": 586821,
+  "username": "Froggers",
+  "description": "flounder hater",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-06T07:38:49.000Z",
+  "date_last_played": "2024-06-11T13:41:07.000Z",
+  "profile_views": 292,
+  "kill_count": 4625,
+  "play_count": 1239,
+  "highest_score": 4390840,
+  "picture": "586821-fd6dbff32c10611c5943241005cb952fc.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 231,
+  "tier": 6,
+  "xp": 479700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9547,
+      "user_id": 586821,
+      "platform_id": "dc",
+      "platform_user_id": "Froggers#0001",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-13T13:29:44.000Z",
+      "updated_at": "2023-05-27T06:34:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 586821,
+    "rank_kc": 6404,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-27T05:41:20.000Z",
+    "rank_pc": 9337,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-27T05:41:22.000Z",
+    "rank_hs": 9467,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-27T05:41:23.000Z",
+    "created_at": "2024-06-11T13:43:46.000Z",
+    "updated_at": "2024-06-11T13:43:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:35:21.283Z"
+}
