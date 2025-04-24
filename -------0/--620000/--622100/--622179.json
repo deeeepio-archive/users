@@ -1,0 +1,100 @@
+{
+  "id": 622179,
+  "username": "MaximumGoose",
+  "description": "Per aspera ad astra",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-08-13T01:08:32.000Z",
+  "date_last_played": "2023-06-11T02:09:37.000Z",
+  "profile_views": 5,
+  "kill_count": 713,
+  "play_count": 223,
+  "highest_score": 1063034,
+  "picture": "622179-776747062663e11cf9fa23c6cf6471d3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 52,
+  "tier": 1,
+  "xp": 2550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 622179,
+    "rank_kc": 32580,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-17T17:16:09.000Z",
+    "rank_pc": 40462,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-17T17:16:13.000Z",
+    "rank_hs": 79871,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-05-17T17:16:16.000Z",
+    "created_at": "2023-06-11T02:09:37.000Z",
+    "updated_at": "2023-06-11T02:09:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 506,
+          "user_id": 622179,
+          "cloneof_id": null,
+          "string_id": "the_pit_beta",
+          "title": "The PIT",
+          "description": "very very very large pit *DISCLAIMER* you will feel insignificant",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 25,
+          "created_at": "2019-09-14T02:23:27.000Z",
+          "updated_at": "2019-11-28T18:33:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 622179,
+            "username": "MaximumGoose",
+            "description": "Per aspera ad astra",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-08-13T01:08:32.000Z",
+            "date_last_played": "2023-06-11T02:09:37.000Z",
+            "kill_count": 713,
+            "play_count": 223,
+            "highest_score": 1063034,
+            "picture": "622179-776747062663e11cf9fa23c6cf6471d3.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 52,
+            "tier": 1,
+            "xp": 2550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "PIt"
+            },
+            {
+              "id": "yikes"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T13:06:58.185Z"
+}
