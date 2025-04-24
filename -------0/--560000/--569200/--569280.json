@@ -1,0 +1,103 @@
+{
+  "id": 569280,
+  "username": "thomass_857",
+  "description": "*Insert toxic death message here*",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-03-27T13:48:14.000Z",
+  "date_last_played": "2021-09-07T21:46:26.000Z",
+  "profile_views": 0,
+  "kill_count": 261,
+  "play_count": 86,
+  "highest_score": 1476223,
+  "picture": "569280.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 42,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 569280,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T07:46:58.580Z",
+    "updated_at": "2025-04-24T07:46:59.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5911,
+          "user_id": 569280,
+          "cloneof_id": null,
+          "string_id": "agentgreenscreen",
+          "title": "Atmosphere and Space",
+          "description": "Flying animals recommended. Fast ones if you can, the map is 400 tall. ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 80,
+          "created_at": "2021-02-13T05:44:38.000Z",
+          "updated_at": "2021-02-13T09:12:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 569280,
+            "username": "thomass_857",
+            "description": "*Insert toxic death message here*",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-03-27T13:48:14.000Z",
+            "date_last_played": "2021-09-07T21:46:26.000Z",
+            "kill_count": 261,
+            "play_count": 86,
+            "highest_score": 1476223,
+            "picture": "569280.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 42,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Space"
+            },
+            {
+              "id": "Tall"
+            },
+            {
+              "id": "ZeroG"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T07:46:58.629Z"
+}
