@@ -1,0 +1,99 @@
+{
+  "id": 581321,
+  "username": "ClassN",
+  "description": "Attack ships on fire off the shoulders of Orion.",
+  "about": "Nothing much to say here yet",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-04-23T20:41:02.000Z",
+  "date_last_played": "2025-01-14T21:15:18.000Z",
+  "profile_views": 60,
+  "kill_count": 5706,
+  "play_count": 691,
+  "highest_score": 6069172,
+  "picture": "581321.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 103,
+  "tier": 4,
+  "xp": 180300,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 581321,
+    "rank_kc": 4713,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-06T04:39:38.000Z",
+    "rank_pc": 19158,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-06T04:39:39.000Z",
+    "rank_hs": 5206,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-06T04:39:40.000Z",
+    "created_at": "2025-01-14T21:15:17.000Z",
+    "updated_at": "2025-01-14T21:15:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7567,
+          "user_id": 581321,
+          "cloneof_id": null,
+          "string_id": "mymap2222222222",
+          "title": "Untitled",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-08-16T14:46:34.000Z",
+          "updated_at": "2021-08-16T14:46:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 581321,
+            "username": "ClassN",
+            "description": "Attack ships on fire off the shoulders of Orion.",
+            "about": "Nothing much to say here yet",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-23T20:41:02.000Z",
+            "date_last_played": "2025-01-14T21:15:18.000Z",
+            "kill_count": 5706,
+            "play_count": 691,
+            "highest_score": 6069172,
+            "picture": "581321.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 103,
+            "tier": 4,
+            "xp": 180300,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:02:31.707Z"
+}
