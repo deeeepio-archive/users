@@ -1,0 +1,61 @@
+{
+  "id": 577525,
+  "username": "purplepapos",
+  "description": "oops i guess i killed you XD but you tasted pretty good.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-04-15T00:00:14.000Z",
+  "date_last_played": "2022-07-12T20:29:56.000Z",
+  "profile_views": 9,
+  "kill_count": 181,
+  "play_count": 56,
+  "highest_score": 2226630,
+  "picture": "577525.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 116,
+  "tier": 1,
+  "xp": 1950,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8296,
+      "user_id": 577525,
+      "platform_id": "dc",
+      "platform_user_id": "purplepapos#6614",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-20T05:10:03.000Z",
+      "updated_at": "2022-10-20T05:15:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 577525,
+    "rank_kc": 68059,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-20T05:08:19.000Z",
+    "rank_pc": 76670,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-20T05:08:19.000Z",
+    "rank_hs": 28025,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-20T05:08:20.000Z",
+    "created_at": "2023-09-17T10:52:47.000Z",
+    "updated_at": "2022-10-20T05:08:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T08:38:31.536Z"
+}
