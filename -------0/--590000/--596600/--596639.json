@@ -1,0 +1,439 @@
+{
+  "id": 596639,
+  "username": "SSneaky",
+  "description": "O-O",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-21T20:18:50.000Z",
+  "date_last_played": "2025-04-13T22:26:22.000Z",
+  "profile_views": 12,
+  "kill_count": 2327,
+  "play_count": 2037,
+  "highest_score": 1552135,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 31,
+  "tier": 2,
+  "xp": 43650,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 596639,
+    "rank_kc": 13997,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-15T00:47:28.000Z",
+    "rank_pc": 5780,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-15T00:47:29.000Z",
+    "rank_hs": 58304,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-15T00:47:32.000Z",
+    "created_at": "2025-04-13T22:26:21.000Z",
+    "updated_at": "2025-04-13T22:26:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13418,
+          "user_id": 596639,
+          "cloneof_id": null,
+          "string_id": "ssneakys_the_gift",
+          "title": "SSneaky's Gift Map",
+          "description": "A gift from the Competition",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 379,
+          "created_at": "2024-01-26T02:37:52.000Z",
+          "updated_at": "2024-01-27T20:48:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 596639,
+            "username": "SSneaky",
+            "description": "O-O",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-21T20:18:50.000Z",
+            "date_last_played": "2025-04-13T22:26:22.000Z",
+            "kill_count": 2327,
+            "play_count": 2037,
+            "highest_score": 1552135,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 31,
+            "tier": 2,
+            "xp": 43650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 9135,
+          "user_id": 596639,
+          "cloneof_id": null,
+          "string_id": "ssneak_subareamap",
+          "title": "SSneaky's sub-areas",
+          "description": "map with sub areas, in progress",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 193,
+          "created_at": "2022-01-27T01:36:39.000Z",
+          "updated_at": "2022-02-05T03:38:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 596639,
+            "username": "SSneaky",
+            "description": "O-O",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-21T20:18:50.000Z",
+            "date_last_played": "2025-04-13T22:26:22.000Z",
+            "kill_count": 2327,
+            "play_count": 2037,
+            "highest_score": 1552135,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 31,
+            "tier": 2,
+            "xp": 43650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 8897,
+          "user_id": 596639,
+          "cloneof_id": 2782,
+          "string_id": "anti_crabimap",
+          "title": "a map to piss off crabinet",
+          "description": "crabnet don't like unstrict maps, so heres SSneaks_gigamap without those pecky habitats. although there's no lights now",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 3482,
+          "created_at": "2021-12-30T23:40:01.000Z",
+          "updated_at": "2021-12-31T01:48:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 596639,
+            "username": "SSneaky",
+            "description": "O-O",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-21T20:18:50.000Z",
+            "date_last_played": "2025-04-13T22:26:22.000Z",
+            "kill_count": 2327,
+            "play_count": 2037,
+            "highest_score": 1552135,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 31,
+            "tier": 2,
+            "xp": 43650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "TA"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 8065,
+          "user_id": 596639,
+          "cloneof_id": null,
+          "string_id": "ssneak_wrap_round",
+          "title": "SSneaky's wrap around map",
+          "description": "Uses teleport feature to connect each side",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 871,
+          "created_at": "2021-10-06T19:50:29.000Z",
+          "updated_at": "2021-10-11T21:14:40.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 596639,
+            "username": "SSneaky",
+            "description": "O-O",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-21T20:18:50.000Z",
+            "date_last_played": "2025-04-13T22:26:22.000Z",
+            "kill_count": 2327,
+            "play_count": 2037,
+            "highest_score": 1552135,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 31,
+            "tier": 2,
+            "xp": 43650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 5174,
+          "user_id": 596639,
+          "cloneof_id": null,
+          "string_id": "ssneak_basic",
+          "title": "SSneaky's map",
+          "description": "a map with the basic layout and size.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1650,
+          "created_at": "2020-12-07T17:30:18.000Z",
+          "updated_at": "2021-03-24T22:08:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 596639,
+            "username": "SSneaky",
+            "description": "O-O",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-21T20:18:50.000Z",
+            "date_last_played": "2025-04-13T22:26:22.000Z",
+            "kill_count": 2327,
+            "play_count": 2037,
+            "highest_score": 1552135,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 31,
+            "tier": 2,
+            "xp": 43650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 4940,
+          "user_id": 596639,
+          "cloneof_id": null,
+          "string_id": "template_water_sky",
+          "title": "Water/sky template",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 16,
+          "created_at": "2020-11-21T15:57:24.000Z",
+          "updated_at": "2020-11-21T15:57:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 596639,
+            "username": "SSneaky",
+            "description": "O-O",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-21T20:18:50.000Z",
+            "date_last_played": "2025-04-13T22:26:22.000Z",
+            "kill_count": 2327,
+            "play_count": 2037,
+            "highest_score": 1552135,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 31,
+            "tier": 2,
+            "xp": 43650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "template"
+            }
+          ]
+        },
+        {
+          "id": 4813,
+          "user_id": 596639,
+          "cloneof_id": null,
+          "string_id": "SSneak_Arctic_mid",
+          "title": "SSneaky arctic middle.",
+          "description": "Done. has the arctic in the middle.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1219,
+          "created_at": "2020-11-10T02:00:32.000Z",
+          "updated_at": "2021-12-28T18:52:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 596639,
+            "username": "SSneaky",
+            "description": "O-O",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-21T20:18:50.000Z",
+            "date_last_played": "2025-04-13T22:26:22.000Z",
+            "kill_count": 2327,
+            "play_count": 2037,
+            "highest_score": 1552135,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 31,
+            "tier": 2,
+            "xp": 43650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "Finished"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 2782,
+          "user_id": 596639,
+          "cloneof_id": null,
+          "string_id": "ssneakys_gigamap",
+          "title": "SSneaky's Giga-map",
+          "description": "a very large map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 3795,
+          "created_at": "2020-04-30T15:22:48.000Z",
+          "updated_at": "2024-01-26T02:36:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 596639,
+            "username": "SSneaky",
+            "description": "O-O",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-21T20:18:50.000Z",
+            "date_last_played": "2025-04-13T22:26:22.000Z",
+            "kill_count": 2327,
+            "play_count": 2037,
+            "highest_score": 1552135,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 31,
+            "tier": 2,
+            "xp": 43650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        }
+      ],
+      "count": 8
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T10:33:42.094Z"
+}
