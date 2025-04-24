@@ -1,0 +1,61 @@
+{
+  "id": 714465,
+  "username": "Donninator",
+  "description": "have good day!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-20T10:01:35.000Z",
+  "date_last_played": "2025-02-27T18:13:18.000Z",
+  "profile_views": 31,
+  "kill_count": 3423,
+  "play_count": 2351,
+  "highest_score": 2823039,
+  "picture": "714465.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 200,
+  "tier": 2,
+  "xp": 70500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 10123,
+      "user_id": 714465,
+      "platform_id": "dc",
+      "platform_user_id": ".sveikas",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-23T13:36:53.000Z",
+      "updated_at": "2023-10-19T20:58:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 714465,
+    "rank_kc": 9496,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-19T20:58:40.000Z",
+    "rank_pc": 4633,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-19T20:58:42.000Z",
+    "rank_hs": 23405,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-19T20:58:44.000Z",
+    "created_at": "2025-02-27T18:13:18.000Z",
+    "updated_at": "2025-02-27T18:13:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:06:50.382Z"
+}
