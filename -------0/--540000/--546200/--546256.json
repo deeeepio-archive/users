@@ -1,0 +1,118 @@
+{
+  "id": 546256,
+  "username": "RealDeimos",
+  "description": "The Real Deimos",
+  "about": "Yes I am the real Deimos.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2018-12-16T19:24:52.000Z",
+  "date_last_played": "2023-07-31T04:00:03.000Z",
+  "profile_views": 24,
+  "kill_count": 15319,
+  "play_count": 1424,
+  "highest_score": 5276877,
+  "picture": "546256.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1506,
+  "tier": 1,
+  "xp": 7200,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23572,
+      "user_id": 546256,
+      "platform_id": "dc",
+      "platform_user_id": "oculus_summus#0",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-30T16:04:49.000Z",
+      "updated_at": "2023-07-31T03:43:12.000Z"
+    },
+    {
+      "id": 574,
+      "user_id": 546256,
+      "platform_id": "yt",
+      "platform_user_id": "Oculus",
+      "platform_user_url": "https://www.youtube.com/channel/UCgvgBFjqkMW_Hw_MzhVm8iw",
+      "verified": false,
+      "created_at": "2022-05-23T18:49:23.000Z",
+      "updated_at": "2022-05-23T18:49:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 546256,
+    "rank_kc": 1049,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-31T16:07:07.000Z",
+    "rank_pc": 8018,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-31T16:07:09.000Z",
+    "rank_hs": 6890,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-31T16:07:10.000Z",
+    "created_at": "2023-11-04T02:13:04.000Z",
+    "updated_at": "2023-07-31T16:07:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 882,
+          "user_id": 546256,
+          "cloneof_id": null,
+          "string_id": "1v1_arena_v1",
+          "title": "1v1 arena version 1",
+          "description": "1v1 arena",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 8,
+          "created_at": "2019-10-21T14:19:29.000Z",
+          "updated_at": "2019-10-21T14:19:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 546256,
+            "username": "RealDeimos",
+            "description": "The Real Deimos",
+            "about": "Yes I am the real Deimos.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2018-12-16T19:24:52.000Z",
+            "date_last_played": "2023-07-31T04:00:03.000Z",
+            "kill_count": 15319,
+            "play_count": 1424,
+            "highest_score": 5276877,
+            "picture": "546256.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1506,
+            "tier": 1,
+            "xp": 7200,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1 arena"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T05:23:24.544Z"
+}
