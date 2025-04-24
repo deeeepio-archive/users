@@ -1,0 +1,149 @@
+{
+  "id": 706254,
+  "username": "RavioliRailway",
+  "description": "Axes are just sharp hammers",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-02T02:10:42.000Z",
+  "date_last_played": "2020-03-23T01:45:11.000Z",
+  "profile_views": 0,
+  "kill_count": 858,
+  "play_count": 184,
+  "highest_score": 2318400,
+  "picture": "706254.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 343,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 706254,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T22:17:50.915Z",
+    "updated_at": "2025-04-24T22:17:51.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2039,
+          "user_id": 706254,
+          "cloneof_id": 1900,
+          "string_id": "ffa_biorama_v5",
+          "title": "Biorama",
+          "description": "A FFA map based on Doctorpus' FFA map. In addition to some tweaks, it introduces tide pools and the river biome!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1235,
+          "created_at": "2020-03-07T06:25:15.000Z",
+          "updated_at": "2020-03-15T10:26:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 706254,
+            "username": "RavioliRailway",
+            "description": "Axes are just sharp hammers",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-02T02:10:42.000Z",
+            "date_last_played": "2020-03-23T01:45:11.000Z",
+            "kill_count": 858,
+            "play_count": 184,
+            "highest_score": 2318400,
+            "picture": "706254.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 343,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "River"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 1977,
+          "user_id": 706254,
+          "cloneof_id": null,
+          "string_id": "pd_2clam_v2_3",
+          "title": "2Clam",
+          "description": "A Pearl Defence map loosely inspired by the TF2 map, 2Fort!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 253,
+          "created_at": "2020-03-02T13:37:16.000Z",
+          "updated_at": "2020-03-03T07:55:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 706254,
+            "username": "RavioliRailway",
+            "description": "Axes are just sharp hammers",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-02T02:10:42.000Z",
+            "date_last_played": "2020-03-23T01:45:11.000Z",
+            "kill_count": 858,
+            "play_count": 184,
+            "highest_score": 2318400,
+            "picture": "706254.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 343,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Pearl Defence"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T22:17:51.011Z"
+}
