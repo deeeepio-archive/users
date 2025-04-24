@@ -1,0 +1,128 @@
+{
+  "id": 679177,
+  "username": "Army1123",
+  "description": "GG. Playing for a long time but I stopped for years Im prety bad now. Please add me :)\nSubscribe: bit.ly/SubModdGodd\n",
+  "about": "Hi\nIm in severe depression\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-01-08T21:10:43.000Z",
+  "date_last_played": "2023-02-26T10:31:32.000Z",
+  "profile_views": 18,
+  "kill_count": 658,
+  "play_count": 739,
+  "highest_score": 826728,
+  "picture": "679177.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 43,
+  "tier": 1,
+  "xp": 19650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15121,
+      "user_id": 679177,
+      "platform_id": "dc",
+      "platform_user_id": "Army1123#9496",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-16T02:19:39.000Z",
+      "updated_at": "2023-02-16T02:19:39.000Z"
+    },
+    {
+      "id": 15123,
+      "user_id": 679177,
+      "platform_id": "tw",
+      "platform_user_id": "ModdGoddYT",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-16T02:20:49.000Z",
+      "updated_at": "2023-02-16T02:20:49.000Z"
+    },
+    {
+      "id": 15122,
+      "user_id": 679177,
+      "platform_id": "yt",
+      "platform_user_id": "ModdGoddYT THIS ISNT UPDATED ANYMORE <3 I love you for reading this",
+      "platform_user_url": "https://www.youtube.com/channel/UCVKyo_kr2PROC9AMpU2f8Sw?sub_confirmation=1",
+      "verified": false,
+      "created_at": "2023-02-16T02:20:32.000Z",
+      "updated_at": "2023-02-16T02:20:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 679177,
+    "rank_kc": 33344,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-23T01:47:57.000Z",
+    "rank_pc": 14799,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-23T01:47:58.000Z",
+    "rank_hs": 95606,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-23T01:47:59.000Z",
+    "created_at": "2023-11-02T20:01:44.000Z",
+    "updated_at": "2023-02-26T10:31:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1502,
+          "user_id": 679177,
+          "cloneof_id": null,
+          "string_id": "1123",
+          "title": "The Best Deep.io Map",
+          "description": "Coming Soon",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 40,
+          "created_at": "2020-01-20T15:51:23.000Z",
+          "updated_at": "2020-01-20T18:49:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 679177,
+            "username": "Army1123",
+            "description": "GG. Playing for a long time but I stopped for years Im prety bad now. Please add me :)\nSubscribe: bit.ly/SubModdGodd\n",
+            "about": "Hi\nIm in severe depression\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-01-08T21:10:43.000Z",
+            "date_last_played": "2023-02-26T10:31:32.000Z",
+            "kill_count": 658,
+            "play_count": 739,
+            "highest_score": 826728,
+            "picture": "679177.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 43,
+            "tier": 1,
+            "xp": 19650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Best Map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T18:58:21.998Z"
+}
