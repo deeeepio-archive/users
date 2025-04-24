@@ -1,0 +1,100 @@
+{
+  "id": 663230,
+  "username": "Yoshivert555",
+  "description": "Ah les cro-co-co les crocodiles, sur le bord du Nil ils sont partis n'en parlons plus !",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-26T18:10:16.000Z",
+  "date_last_played": "2020-10-16T17:04:28.000Z",
+  "profile_views": 0,
+  "kill_count": 350,
+  "play_count": 20,
+  "highest_score": 1836425,
+  "picture": "663230.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 87,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 663230,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T17:14:37.701Z",
+    "updated_at": "2025-04-24T17:14:38.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4508,
+          "user_id": 663230,
+          "cloneof_id": null,
+          "string_id": "yoshivert555",
+          "title": "Flygon area",
+          "description": "A salted/deep area",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 85,
+          "created_at": "2020-10-07T16:48:20.000Z",
+          "updated_at": "2020-10-07T16:48:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 663230,
+            "username": "Yoshivert555",
+            "description": "Ah les cro-co-co les crocodiles, sur le bord du Nil ils sont partis n'en parlons plus !",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-26T18:10:16.000Z",
+            "date_last_played": "2020-10-16T17:04:28.000Z",
+            "kill_count": 350,
+            "play_count": 20,
+            "highest_score": 1836425,
+            "picture": "663230.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 87,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Deep"
+            },
+            {
+              "id": "Salt"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T17:14:37.763Z"
+}
