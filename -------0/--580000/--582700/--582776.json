@@ -1,0 +1,106 @@
+{
+  "id": 582776,
+  "username": "Maximo",
+  "description": "Una lastima...",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-04-29T20:18:07.000Z",
+  "date_last_played": "2024-07-26T23:28:19.000Z",
+  "profile_views": 4,
+  "kill_count": 563,
+  "play_count": 1186,
+  "highest_score": 2252735,
+  "picture": "582776-3f73ffe9a846dd8c9d98c48d10469102aa.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 274,
+  "tier": 1,
+  "xp": 18300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 582776,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-07-27T18:34:51.000Z",
+    "updated_at": "2024-07-27T18:34:51.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6788,
+          "user_id": 582776,
+          "cloneof_id": null,
+          "string_id": "id_mapaffa_betaa0",
+          "title": "MapaFFA_BetaA0",
+          "description": "Este es mi primer mapa ffa de deeeep.io. no se esperen mucho ya que esta en fase Beta",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 336,
+          "created_at": "2021-05-10T21:57:06.000Z",
+          "updated_at": "2021-05-10T21:57:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 582776,
+            "username": "Maximo",
+            "description": "Una lastima...",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-29T20:18:07.000Z",
+            "date_last_played": "2024-07-26T23:28:19.000Z",
+            "kill_count": 563,
+            "play_count": 1186,
+            "highest_score": 2252735,
+            "picture": "582776-3f73ffe9a846dd8c9d98c48d10469102aa.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 274,
+            "tier": 1,
+            "xp": 18300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " Mapa"
+            },
+            {
+              "id": "Beta"
+            },
+            {
+              "id": "Deeeep.io"
+            },
+            {
+              "id": "Map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:11:12.144Z"
+}
