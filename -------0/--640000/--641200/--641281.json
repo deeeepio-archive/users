@@ -1,0 +1,108 @@
+{
+  "id": 641281,
+  "username": "bluegrape",
+  "description": "Killer? I hardly know her!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-08T21:31:41.000Z",
+  "date_last_played": "2025-04-23T01:38:29.000Z",
+  "profile_views": 2083,
+  "kill_count": 32344,
+  "play_count": 6205,
+  "highest_score": 3317626,
+  "picture": "641281-2c53dd09101018438914109911a1096458f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 5223,
+  "tier": 10,
+  "xp": 2692200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103115,
+      "user_id": 641281,
+      "platform_id": "dc",
+      "platform_user_id": "thecookie#1191",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-03-11T20:55:06.000Z",
+      "updated_at": "2025-03-29T14:25:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 641281,
+    "rank_kc": 577,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-16T16:50:10.000Z",
+    "rank_pc": 1698,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-16T16:50:23.000Z",
+    "rank_hs": 18272,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-16T16:50:35.000Z",
+    "created_at": "2025-04-23T01:38:29.000Z",
+    "updated_at": "2025-04-23T01:38:29.000Z",
+    "pd": {
+      "played": 94,
+      "won": 59,
+      "ratio": 63
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3060,
+          "user_id": 641281,
+          "cloneof_id": null,
+          "string_id": "bluegrape_map",
+          "title": "World",
+          "description": "Everything",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 69,
+          "created_at": "2020-05-19T14:29:14.000Z",
+          "updated_at": "2020-06-19T15:47:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 641281,
+            "username": "bluegrape",
+            "description": "Killer? I hardly know her!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-10-08T21:31:41.000Z",
+            "date_last_played": "2025-04-23T01:38:29.000Z",
+            "kill_count": 32344,
+            "play_count": 6205,
+            "highest_score": 3317626,
+            "picture": "641281-2c53dd09101018438914109911a1096458f.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 5223,
+            "tier": 10,
+            "xp": 2692200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:00:54.115Z"
+}
