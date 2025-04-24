@@ -1,0 +1,71 @@
+{
+  "id": 620664,
+  "username": "sapien",
+  "description": "not a peeping tom",
+  "about": "fw me im blaisan\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-08-07T17:04:25.000Z",
+  "date_last_played": "2024-11-26T20:52:34.000Z",
+  "profile_views": 1404,
+  "kill_count": 24239,
+  "play_count": 10604,
+  "highest_score": 5834458,
+  "picture": "620664-b1ab6f87819f571e59104448d82ccf02c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 143,
+  "tier": 10,
+  "xp": 2188500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 6613,
+      "user_id": 620664,
+      "platform_id": "dc",
+      "platform_user_id": "Jadie <3#7972",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-10T14:44:25.000Z",
+      "updated_at": "2022-09-10T14:44:25.000Z"
+    },
+    {
+      "id": 6614,
+      "user_id": 620664,
+      "platform_id": "yt",
+      "platform_user_id": "sykosiz",
+      "platform_user_url": "https://www.youtube.com/channel/UCi5lepCwZokYgh4HSUVIIfQ/about",
+      "verified": false,
+      "created_at": "2022-09-10T14:45:06.000Z",
+      "updated_at": "2022-09-10T14:45:06.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 620664,
+    "rank_kc": 486,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-30T20:58:59.000Z",
+    "rank_pc": 147,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-30T20:59:02.000Z",
+    "rank_hs": 6235,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-30T20:59:05.000Z",
+    "created_at": "2024-11-26T20:52:33.000Z",
+    "updated_at": "2024-11-26T20:52:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:57:48.280Z"
+}
