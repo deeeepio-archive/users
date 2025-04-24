@@ -1,0 +1,71 @@
+{
+  "id": 672954,
+  "username": "RobinYarn",
+  "description": "I'm Sorry :[",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-12-18T02:58:47.000Z",
+  "date_last_played": "2022-06-14T14:29:22.000Z",
+  "profile_views": 2,
+  "kill_count": 5,
+  "play_count": 3,
+  "highest_score": 390623,
+  "picture": "672954-863536c6e6b776a5b07919f4cef54de2.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2292,
+      "user_id": 672954,
+      "platform_id": "rd",
+      "platform_user_id": "crunchy-dread",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-14T14:20:17.000Z",
+      "updated_at": "2022-06-14T14:20:17.000Z"
+    },
+    {
+      "id": 2293,
+      "user_id": 672954,
+      "platform_id": "yt",
+      "platform_user_id": "R G",
+      "platform_user_url": "https://www.youtube.com/channel/UCNMizf-_okT5Viv0Vyo6SQQ",
+      "verified": false,
+      "created_at": "2022-06-14T14:20:54.000Z",
+      "updated_at": "2022-06-14T14:20:54.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 672954,
+    "rank_kc": 251508,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-06-14T14:19:34.000Z",
+    "rank_pc": 229195,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-14T14:19:35.000Z",
+    "rank_hs": 137425,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-06-14T14:19:35.000Z",
+    "created_at": "2022-06-14T14:29:22.000Z",
+    "updated_at": "2022-06-14T14:29:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T18:16:07.341Z"
+}
