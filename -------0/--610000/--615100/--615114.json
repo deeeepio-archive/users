@@ -1,0 +1,143 @@
+{
+  "id": 615114,
+  "username": "Kalmar",
+  "description": "Еще один человек, умерший нелепой смертью сталкера...",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-18T10:04:13.000Z",
+  "date_last_played": "2019-12-07T13:26:06.000Z",
+  "profile_views": 0,
+  "kill_count": 276,
+  "play_count": 0,
+  "highest_score": 641328,
+  "picture": "615114.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 615114,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T12:25:39.656Z",
+    "updated_at": "2025-04-24T12:25:40.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 516,
+          "user_id": 615114,
+          "cloneof_id": null,
+          "string_id": "map_king_food_1",
+          "title": "King food RUS/UKRAINE MAP",
+          "description": "Viva La king food ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2019-09-14T12:49:31.000Z",
+          "updated_at": "2019-09-14T12:49:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 615114,
+            "username": "Kalmar",
+            "description": "Еще один человек, умерший нелепой смертью сталкера...",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-18T10:04:13.000Z",
+            "date_last_played": "2019-12-07T13:26:06.000Z",
+            "kill_count": 276,
+            "play_count": 0,
+            "highest_score": 641328,
+            "picture": "615114.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 25,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#king #food"
+            }
+          ]
+        },
+        {
+          "id": 515,
+          "user_id": 615114,
+          "cloneof_id": null,
+          "string_id": "food_king_map_1",
+          "title": "King food",
+          "description": "Viva La King food",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 5,
+          "created_at": "2019-09-14T12:44:36.000Z",
+          "updated_at": "2019-09-14T12:44:37.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 615114,
+            "username": "Kalmar",
+            "description": "Еще один человек, умерший нелепой смертью сталкера...",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-18T10:04:13.000Z",
+            "date_last_played": "2019-12-07T13:26:06.000Z",
+            "kill_count": 276,
+            "play_count": 0,
+            "highest_score": 641328,
+            "picture": "615114.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 25,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#king #food"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:25:39.777Z"
+}
