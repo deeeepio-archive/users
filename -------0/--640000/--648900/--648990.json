@@ -1,0 +1,171 @@
+{
+  "id": 648990,
+  "username": "lowkeybear10",
+  "description": "\nŁ̶Ø̶Ş̶Ŧ̶\n[ѕσυℓ]\nDELT∆\n[SC]\n𓆩⟡𓆪\n[§†]\n[SPO]\n",
+  "about": "[ѕσυℓowkeybear10",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-28T10:35:23.000Z",
+  "date_last_played": "2025-01-16T17:33:59.000Z",
+  "profile_views": 1130,
+  "kill_count": 11922,
+  "play_count": 4454,
+  "highest_score": 11047055,
+  "picture": "648990.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 479,
+  "tier": 9,
+  "xp": 933300,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20792,
+      "user_id": 648990,
+      "platform_id": "dc",
+      "platform_user_id": "lowkeybear10",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-10T23:18:43.000Z",
+      "updated_at": "2023-12-11T22:58:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 648990,
+    "rank_kc": 2105,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T13:27:06.000Z",
+    "rank_pc": 1983,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T13:27:08.000Z",
+    "rank_hs": 2292,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T13:27:13.000Z",
+    "created_at": "2025-02-28T01:00:06.000Z",
+    "updated_at": "2025-02-28T01:00:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244363,
+          "user_id": 648990,
+          "cloneof_id": null,
+          "string_id": "jinty_centre_v1",
+          "title": "Jinty Centre",
+          "description": "A centre for Jintys",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-06-22T11:46:23.000Z",
+          "updated_at": "2024-06-22T11:53:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 648990,
+            "username": "lowkeybear10",
+            "description": "\nŁ̶Ø̶Ş̶Ŧ̶\n[ѕσυℓ]\nDELT∆\n[SC]\n𓆩⟡𓆪\n[§†]\n[SPO]\n",
+            "about": "[ѕσυℓowkeybear10",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-10-28T10:35:23.000Z",
+            "date_last_played": "2025-01-16T17:33:59.000Z",
+            "kill_count": 11922,
+            "play_count": 4454,
+            "highest_score": 11047055,
+            "picture": "648990.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 479,
+            "tier": 9,
+            "xp": 933300,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "asylum"
+            },
+            {
+              "id": "centre"
+            },
+            {
+              "id": "jint"
+            },
+            {
+              "id": "jinted"
+            },
+            {
+              "id": "jinter"
+            },
+            {
+              "id": "jintied"
+            },
+            {
+              "id": "jinty"
+            },
+            {
+              "id": "neurodivergent"
+            }
+          ]
+        },
+        {
+          "id": 244362,
+          "user_id": 648990,
+          "cloneof_id": null,
+          "string_id": "jinty_centre",
+          "title": "Jinty Centre",
+          "description": "A centre for Jinties",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-06-22T11:40:19.000Z",
+          "updated_at": "2024-06-22T11:40:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 648990,
+            "username": "lowkeybear10",
+            "description": "\nŁ̶Ø̶Ş̶Ŧ̶\n[ѕσυℓ]\nDELT∆\n[SC]\n𓆩⟡𓆪\n[§†]\n[SPO]\n",
+            "about": "[ѕσυℓowkeybear10",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-10-28T10:35:23.000Z",
+            "date_last_played": "2025-01-16T17:33:59.000Z",
+            "kill_count": 11922,
+            "play_count": 4454,
+            "highest_score": 11047055,
+            "picture": "648990.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 479,
+            "tier": 9,
+            "xp": 933300,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:47:35.361Z"
+}

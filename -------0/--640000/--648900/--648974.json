@@ -1,0 +1,127 @@
+{
+  "id": 648974,
+  "username": "KANKAN✡",
+  "description": "Instagram: sippinonzombie",
+  "about": "Die Lit",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-28T09:19:44.000Z",
+  "date_last_played": "2025-04-22T10:50:00.000Z",
+  "profile_views": 933,
+  "kill_count": 25741,
+  "play_count": 11350,
+  "highest_score": 13328637,
+  "picture": "648974-d93ddb437108e891aa2c717791ade310a4-dba37836-0834-4cda-aa30-83f7a50d2d8b.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4234,
+  "tier": 10,
+  "xp": 2554350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 96895,
+      "user_id": 648974,
+      "platform_id": "ig",
+      "platform_user_id": "sippinonzombie",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-28T04:06:30.000Z",
+      "updated_at": "2024-07-28T04:06:30.000Z"
+    },
+    {
+      "id": 102230,
+      "user_id": 648974,
+      "platform_id": "tc",
+      "platform_user_id": "realestsippinonzombie",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-01-26T15:20:02.000Z",
+      "updated_at": "2025-01-26T15:20:02.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 648974,
+    "rank_kc": 640,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-25T00:16:52.000Z",
+    "rank_pc": 308,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-25T00:16:54.000Z",
+    "rank_hs": 5047,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-25T00:16:56.000Z",
+    "created_at": "2025-04-22T10:50:00.000Z",
+    "updated_at": "2025-04-22T10:50:00.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244527,
+          "user_id": 648974,
+          "cloneof_id": null,
+          "string_id": "00wokstarz_ffa",
+          "title": "KANKAN",
+          "description": "Map made by KANKAN?!! i love this game and wanna contribute so I decided to make a map as we need one soon",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-08-13T03:50:15.000Z",
+          "updated_at": "2024-08-13T04:23:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 648974,
+            "username": "KANKAN✡",
+            "description": "Instagram: sippinonzombie",
+            "about": "Die Lit",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-10-28T09:19:44.000Z",
+            "date_last_played": "2025-04-22T10:50:00.000Z",
+            "kill_count": 25741,
+            "play_count": 11350,
+            "highest_score": 13328637,
+            "picture": "648974-d93ddb437108e891aa2c717791ade310a4-dba37836-0834-4cda-aa30-83f7a50d2d8b.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 4234,
+            "tier": 10,
+            "xp": 2554350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "AS"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "NA"
+            },
+            {
+              "id": "OCE"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:47:32.746Z"
+}
