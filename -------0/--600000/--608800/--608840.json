@@ -1,0 +1,108 @@
+{
+  "id": 608840,
+  "username": "Hilo",
+  "description": "e",
+  "about": "bean",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-18T01:48:58.000Z",
+  "date_last_played": "2024-01-31T07:17:03.000Z",
+  "profile_views": 2,
+  "kill_count": 340,
+  "play_count": 245,
+  "highest_score": 904739,
+  "picture": "608840.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 309,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 11010,
+      "user_id": 608840,
+      "platform_id": "yt",
+      "platform_user_id": "L1ghtn1ngDra90n",
+      "platform_user_url": "https://www.youtube.com/channel/UCtd9D1Z7Zc4Jau2r6FnO4Tw",
+      "verified": false,
+      "created_at": "2022-12-09T04:22:56.000Z",
+      "updated_at": "2022-12-09T04:23:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 608840,
+    "rank_kc": 48824,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-09T04:23:39.000Z",
+    "rank_pc": 33361,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-09T04:23:40.000Z",
+    "rank_hs": 85265,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-12-09T04:23:41.000Z",
+    "created_at": "2024-01-31T07:17:03.000Z",
+    "updated_at": "2024-01-31T07:17:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2902,
+          "user_id": 608840,
+          "cloneof_id": null,
+          "string_id": "l1ghtn1ngrespecthilo_map_v1",
+          "title": "Free For All",
+          "description": "ugig",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 124,
+          "created_at": "2020-05-08T05:06:12.000Z",
+          "updated_at": "2020-05-11T22:04:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 608840,
+            "username": "Hilo",
+            "description": "e",
+            "about": "bean",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-18T01:48:58.000Z",
+            "date_last_played": "2024-01-31T07:17:03.000Z",
+            "kill_count": 340,
+            "play_count": 245,
+            "highest_score": 904739,
+            "picture": "608840.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 309,
+            "tier": 1,
+            "xp": 1800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:48:12.682Z"
+}
