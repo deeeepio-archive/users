@@ -1,0 +1,209 @@
+{
+  "id": 692311,
+  "username": "6930033_127",
+  "description": "GG for you... life...",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-08T09:13:30.000Z",
+  "date_last_played": "2021-06-24T18:31:51.000Z",
+  "profile_views": 0,
+  "kill_count": 831,
+  "play_count": 234,
+  "highest_score": 2336760,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 43,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 692311,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T20:25:32.473Z",
+    "updated_at": "2025-04-24T20:25:32.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4657,
+          "user_id": 692311,
+          "cloneof_id": null,
+          "string_id": "my_map_bird_fly_v1",
+          "title": "Bird_Land",
+          "description": "The bird zone .",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 44,
+          "created_at": "2020-10-24T18:10:23.000Z",
+          "updated_at": "2020-10-24T18:10:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 692311,
+            "username": "6930033_127",
+            "description": "GG for you... life...",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-08T09:13:30.000Z",
+            "date_last_played": "2021-06-24T18:31:51.000Z",
+            "kill_count": 831,
+            "play_count": 234,
+            "highest_score": 2336760,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 43,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "bird water "
+            }
+          ]
+        },
+        {
+          "id": 3134,
+          "user_id": 692311,
+          "cloneof_id": null,
+          "string_id": "ffa_ffa",
+          "title": "Ffa map",
+          "description": "its a ffa map to pvp by fish",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 9,
+          "created_at": "2020-05-25T18:59:43.000Z",
+          "updated_at": "2020-05-25T19:09:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 692311,
+            "username": "6930033_127",
+            "description": "GG for you... life...",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-08T09:13:30.000Z",
+            "date_last_played": "2021-06-24T18:31:51.000Z",
+            "kill_count": 831,
+            "play_count": 234,
+            "highest_score": 2336760,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 43,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "az"
+            },
+            {
+              "id": "ef"
+            },
+            {
+              "id": "f"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "fg"
+            },
+            {
+              "id": "fish"
+            },
+            {
+              "id": "ghrt"
+            },
+            {
+              "id": "good"
+            },
+            {
+              "id": "h"
+            },
+            {
+              "id": "hgrt"
+            },
+            {
+              "id": "hgth"
+            },
+            {
+              "id": "pvp"
+            },
+            {
+              "id": "r"
+            },
+            {
+              "id": "rf"
+            },
+            {
+              "id": "rfg"
+            },
+            {
+              "id": "rt"
+            },
+            {
+              "id": "rth"
+            },
+            {
+              "id": "s"
+            },
+            {
+              "id": "sea"
+            },
+            {
+              "id": "t"
+            },
+            {
+              "id": "tg"
+            },
+            {
+              "id": "tgj"
+            },
+            {
+              "id": "yh"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T20:25:32.568Z"
+}
