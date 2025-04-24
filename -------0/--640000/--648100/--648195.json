@@ -1,0 +1,100 @@
+{
+  "id": 648195,
+  "username": "chogachu",
+  "description": "I have 14 kids in my basement",
+  "about": "i lik to boogie",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-26T02:36:14.000Z",
+  "date_last_played": "2022-03-31T18:55:00.000Z",
+  "profile_views": 2,
+  "kill_count": 1310,
+  "play_count": 1151,
+  "highest_score": 1398551,
+  "picture": "648195.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 603,
+  "tier": 1,
+  "xp": 18300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 648195,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T15:42:47.978Z",
+    "updated_at": "2025-04-24T15:42:48.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5414,
+          "user_id": 648195,
+          "cloneof_id": null,
+          "string_id": "fishh_vs_machine",
+          "title": "fishh vs machine",
+          "description": "in the far future a company made super aggressive hyper-realistic hyper-aggressive robotic fish to take over the world!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 206,
+          "created_at": "2020-12-30T03:37:36.000Z",
+          "updated_at": "2021-01-03T18:24:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 648195,
+            "username": "chogachu",
+            "description": "I have 14 kids in my basement",
+            "about": "i lik to boogie",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-10-26T02:36:14.000Z",
+            "date_last_played": "2022-03-31T18:55:00.000Z",
+            "kill_count": 1310,
+            "play_count": 1151,
+            "highest_score": 1398551,
+            "picture": "648195.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 603,
+            "tier": 1,
+            "xp": 18300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "future"
+            },
+            {
+              "id": "npc"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:42:48.038Z"
+}
