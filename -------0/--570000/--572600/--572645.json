@@ -1,0 +1,121 @@
+{
+  "id": 572645,
+  "username": "虾壳Shock",
+  "description": "我爱你",
+  "about": "要氪个游戏，跟老妈说是花园战争2，我妈以为是农业机械化及其自动化游戏，给我转了39.5块。事后我坦白了，是一款第三人称射击游戏游戏，老妈没听说过，一查知道是植物和僵尸在一起抢空气，一气之下把今天早饭泼到床上，告诉我别玩了去搬砖😭😭",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-04-04T13:02:07.000Z",
+  "date_last_played": "2025-02-24T06:01:45.000Z",
+  "profile_views": 950,
+  "kill_count": 14060,
+  "play_count": 3626,
+  "highest_score": 9330993,
+  "picture": "572645-862b44fd982c43b7517210a39edaad0f1.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 350,
+  "tier": 9,
+  "xp": 945750,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 6,
+      "user_id": 572645,
+      "platform_id": "dc",
+      "platform_user_id": "Shock233",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-17T05:59:41.000Z",
+      "updated_at": "2023-06-23T17:34:00.000Z"
+    },
+    {
+      "id": 8,
+      "user_id": 572645,
+      "platform_id": "qq",
+      "platform_user_id": "群:158087995",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-17T06:00:46.000Z",
+      "updated_at": "2022-06-09T13:50:02.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 572645,
+    "rank_kc": 1585,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-15T12:35:34.000Z",
+    "rank_pc": 2544,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-15T12:35:36.000Z",
+    "rank_hs": 2923,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-15T12:35:39.000Z",
+    "created_at": "2025-02-24T06:01:44.000Z",
+    "updated_at": "2025-02-24T06:01:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 697,
+          "user_id": 572645,
+          "cloneof_id": null,
+          "string_id": "233",
+          "title": "233",
+          "description": "233",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 21,
+          "created_at": "2019-10-01T10:33:29.000Z",
+          "updated_at": "2019-10-01T11:06:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 572645,
+            "username": "虾壳Shock",
+            "description": "我爱你",
+            "about": "要氪个游戏，跟老妈说是花园战争2，我妈以为是农业机械化及其自动化游戏，给我转了39.5块。事后我坦白了，是一款第三人称射击游戏游戏，老妈没听说过，一查知道是植物和僵尸在一起抢空气，一气之下把今天早饭泼到床上，告诉我别玩了去搬砖😭😭",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-04T13:02:07.000Z",
+            "date_last_played": "2025-02-24T06:01:45.000Z",
+            "kill_count": 14060,
+            "play_count": 3626,
+            "highest_score": 9330993,
+            "picture": "572645-862b44fd982c43b7517210a39edaad0f1.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 350,
+            "tier": 9,
+            "xp": 945750,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "233"
+            },
+            {
+              "id": "傻逼"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T08:08:14.254Z"
+}
