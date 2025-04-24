@@ -1,0 +1,61 @@
+{
+  "id": 669236,
+  "username": "SharkTheFish",
+  "description": "GG ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-12-09T00:15:30.000Z",
+  "date_last_played": "2024-07-07T20:23:58.000Z",
+  "profile_views": 41,
+  "kill_count": 191,
+  "play_count": 168,
+  "highest_score": 1065286,
+  "picture": "669236.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 123,
+  "tier": 1,
+  "xp": 22650,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9839,
+      "user_id": 669236,
+      "platform_id": "tc",
+      "platform_user_id": "https://www.twitch.tv/sharkthefishy",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-19T01:22:50.000Z",
+      "updated_at": "2022-11-19T01:22:50.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 669236,
+    "rank_kc": 75549,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-19T16:26:09.000Z",
+    "rank_pc": 44354,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-19T16:26:11.000Z",
+    "rank_hs": 72672,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-19T01:23:09.000Z",
+    "created_at": "2024-07-07T20:23:57.000Z",
+    "updated_at": "2024-07-07T20:23:58.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T17:53:25.131Z"
+}
