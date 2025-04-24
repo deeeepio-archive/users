@@ -1,0 +1,158 @@
+{
+  "id": 571804,
+  "username": "Hot_dog_man",
+  "description": "????Sorry you lost your life!????\r\n \r\n????????\r\n#StayAtHome\r\nCovid-19!\r\nps: Im french.",
+  "about": "Name : Hot dog man\nMission : being nice.\nOthers : Play narrow.one",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-04-02T12:40:50.000Z",
+  "date_last_played": "2025-01-12T17:00:49.000Z",
+  "profile_views": 51,
+  "kill_count": 17424,
+  "play_count": 1991,
+  "highest_score": 95120064,
+  "picture": "571804.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11176,
+  "tier": 2,
+  "xp": 72600,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 571804,
+    "rank_kc": 617,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-05T16:45:59.000Z",
+    "rank_pc": 4136,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-05T16:45:59.000Z",
+    "rank_hs": 578,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-05T16:45:59.000Z",
+    "created_at": "2025-01-12T17:00:48.000Z",
+    "updated_at": "2025-01-12T17:00:49.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1674,
+          "user_id": 571804,
+          "cloneof_id": null,
+          "string_id": "perle_defense_2020",
+          "title": "Perle défense",
+          "description": "a cool map for PD",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 233,
+          "created_at": "2020-02-11T15:45:22.000Z",
+          "updated_at": "2020-02-13T18:31:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 571804,
+            "username": "Hot_dog_man",
+            "description": "????Sorry you lost your life!????\r\n \r\n????????\r\n#StayAtHome\r\nCovid-19!\r\nps: Im french.",
+            "about": "Name : Hot dog man\nMission : being nice.\nOthers : Play narrow.one",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-02T12:40:50.000Z",
+            "date_last_played": "2025-01-12T17:00:49.000Z",
+            "kill_count": 17424,
+            "play_count": 1991,
+            "highest_score": 95120064,
+            "picture": "571804.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11176,
+            "tier": 2,
+            "xp": 72600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "2020"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "PD"
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "user_id": 571804,
+          "cloneof_id": null,
+          "string_id": "fabulous_ocean",
+          "title": "fabulous ocean",
+          "description": "beta",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 285,
+          "created_at": "2019-08-27T14:25:18.000Z",
+          "updated_at": "2019-10-15T14:11:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 571804,
+            "username": "Hot_dog_man",
+            "description": "????Sorry you lost your life!????\r\n \r\n????????\r\n#StayAtHome\r\nCovid-19!\r\nps: Im french.",
+            "about": "Name : Hot dog man\nMission : being nice.\nOthers : Play narrow.one",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-02T12:40:50.000Z",
+            "date_last_played": "2025-01-12T17:00:49.000Z",
+            "kill_count": 17424,
+            "play_count": 1991,
+            "highest_score": 95120064,
+            "picture": "571804.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11176,
+            "tier": 2,
+            "xp": 72600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "beta"
+            },
+            {
+              "id": "ffa19"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T08:03:14.652Z"
+}
