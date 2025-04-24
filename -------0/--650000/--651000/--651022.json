@@ -1,0 +1,97 @@
+{
+  "id": 651022,
+  "username": "6970562_933",
+  "description": "Slyvester doesn't have a lisp",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-02T00:35:13.000Z",
+  "date_last_played": "2024-07-09T00:23:59.000Z",
+  "profile_views": 5,
+  "kill_count": 97,
+  "play_count": 74,
+  "highest_score": 480282,
+  "picture": "651022.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 70,
+  "tier": 1,
+  "xp": 4050,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 651022,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T16:01:37.688Z",
+    "updated_at": "2025-04-24T16:01:38.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12886,
+          "user_id": 651022,
+          "cloneof_id": null,
+          "string_id": "the_overworlds_and_underworld",
+          "title": "Dive Deeper",
+          "description": "thought of it in my head and slightly inspired by \"We Need To Go Deeper\"",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 199,
+          "created_at": "2023-09-29T00:38:23.000Z",
+          "updated_at": "2023-09-29T01:29:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 651022,
+            "username": "6970562_933",
+            "description": "Slyvester doesn't have a lisp",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-02T00:35:13.000Z",
+            "date_last_played": "2024-07-09T00:23:59.000Z",
+            "kill_count": 97,
+            "play_count": 74,
+            "highest_score": 480282,
+            "picture": "651022.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 70,
+            "tier": 1,
+            "xp": 4050,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#newmap"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T16:01:37.749Z"
+}

@@ -1,0 +1,139 @@
+{
+  "id": 651009,
+  "username": "MrAcre",
+  "description": "You are strong. Stand proud.",
+  "about": "Enjoying this game",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-01T23:27:41.000Z",
+  "date_last_played": "2025-01-15T17:53:34.000Z",
+  "profile_views": 359,
+  "kill_count": 763,
+  "play_count": 301,
+  "highest_score": 3288481,
+  "picture": "651009-c951c1eba9e1614553f4b204bffdb1045-f1cd7ef0-e150-4ef6-a085-57afc8ce18fb.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 285,
+  "tier": 4,
+  "xp": 203100,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 1,
+      "slug": "artistry-member",
+      "title": "Artistry Member"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    },
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 95658,
+      "user_id": 651009,
+      "platform_id": "dc",
+      "platform_user_id": "sr.acre",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-20T18:18:11.000Z",
+      "updated_at": "2024-06-20T18:18:11.000Z"
+    },
+    {
+      "id": 8202,
+      "user_id": 651009,
+      "platform_id": "tw",
+      "platform_user_id": "@SrAcre",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-18T01:29:39.000Z",
+      "updated_at": "2022-10-18T01:29:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 651009,
+    "rank_kc": 36484,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-01T21:10:33.000Z",
+    "rank_pc": 43115,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-01T21:10:36.000Z",
+    "rank_hs": 35966,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-01T21:10:38.000Z",
+    "created_at": "2025-01-15T17:53:34.000Z",
+    "updated_at": "2025-01-15T17:53:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": [
+      {
+        "id": 25004,
+        "version": 2,
+        "asset": "25004-2-1a5fa78e-0e96-412e-be90-ba00a59cf541.png",
+        "created_at": "2024-08-01T22:59:50.000Z",
+        "updated_at": "2024-08-19T02:10:50.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 73,
+        "name": "Narrow Sawfish",
+        "description": "Anoxypristis cuspidata, is a species of sawfish in the family Pristidae, part of the Batoidea, a superorder of cartilaginous fish that include the rays and skates. Compared to Pristis, Anoxypristis has a narrower rostral saw with numerous teeth on the distal part and no teeth on the basal one-quarter. It reaches a length of up to 3.5 m.",
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/s/ngOJoShzm4",
+        "category": "real",
+        "season": null,
+        "on_sale": true,
+        "price": 150,
+        "sales": 132,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 651009,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 651009,
+          "username": "MrAcre",
+          "description": "You are strong. Stand proud.",
+          "about": "Enjoying this game",
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2019-11-01T23:27:41.000Z",
+          "date_last_played": "2025-01-15T17:53:34.000Z",
+          "kill_count": 763,
+          "play_count": 301,
+          "highest_score": 3288481,
+          "picture": "651009-c951c1eba9e1614553f4b204bffdb1045-f1cd7ef0-e150-4ef6-a085-57afc8ce18fb.png",
+          "displayPicture": false,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 285,
+          "tier": 4,
+          "xp": 203100,
+          "migrated": true,
+          "verified": false,
+          "beta": false
+        }
+      }
+    ]
+  },
+  "archived_at": "2025-04-24T16:01:35.226Z"
+}
