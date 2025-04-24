@@ -1,0 +1,97 @@
+{
+  "id": 722816,
+  "username": "DaviIanSouza",
+  "description": "You died worthy ;)\r\ndont rage, its just a game, and I die too\r\nYeah, you alomost got there!\r\nYou are a good player! better than me!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-09T18:33:54.000Z",
+  "date_last_played": "2020-04-15T17:19:01.000Z",
+  "profile_views": 0,
+  "kill_count": 1,
+  "play_count": 3,
+  "highest_score": 12005,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 722816,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T23:56:17.311Z",
+    "updated_at": "2025-04-24T23:56:17.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2551,
+          "user_id": 722816,
+          "cloneof_id": null,
+          "string_id": "deep_ocean",
+          "title": "marine deep sea",
+          "description": "Really Really Really deep sea",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 36,
+          "created_at": "2020-04-10T18:52:05.000Z",
+          "updated_at": "2020-04-10T18:58:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 722816,
+            "username": "DaviIanSouza",
+            "description": "You died worthy ;)\r\ndont rage, its just a game, and I die too\r\nYeah, you alomost got there!\r\nYou are a good player! better than me!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-09T18:33:54.000Z",
+            "date_last_played": "2020-04-15T17:19:01.000Z",
+            "kill_count": 1,
+            "play_count": 3,
+            "highest_score": 12005,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#deep"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:56:17.359Z"
+}
