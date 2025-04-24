@@ -1,0 +1,61 @@
+{
+  "id": 608102,
+  "username": "Mustache",
+  "description": "Thanks for the meal GG",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-15T06:11:34.000Z",
+  "date_last_played": "2025-04-13T18:39:53.000Z",
+  "profile_views": 16,
+  "kill_count": 6665,
+  "play_count": 924,
+  "highest_score": 5186448,
+  "picture": "608102.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 367,
+  "tier": 3,
+  "xp": 102750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12494,
+      "user_id": 608102,
+      "platform_id": "dc",
+      "platform_user_id": "Moustache#9763",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-03T07:43:20.000Z",
+      "updated_at": "2023-01-03T07:43:20.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 608102,
+    "rank_kc": 3933,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-22T07:54:21.000Z",
+    "rank_pc": 13801,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-22T07:54:22.000Z",
+    "rank_hs": 7758,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-21T20:08:27.000Z",
+    "created_at": "2025-04-13T18:39:52.000Z",
+    "updated_at": "2025-04-13T18:39:53.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:43:03.726Z"
+}
