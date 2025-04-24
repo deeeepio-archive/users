@@ -1,0 +1,97 @@
+{
+  "id": 716011,
+  "username": "mudkipgast",
+  "description": "An eye for an eye is my motto. Sorry if I kill you. I was probably running away from death. Although, if I'm piranhas, I killed you on purpose.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-24T05:28:02.000Z",
+  "date_last_played": "2021-01-18T22:37:50.000Z",
+  "profile_views": 1,
+  "kill_count": 160,
+  "play_count": 158,
+  "highest_score": 1028092,
+  "picture": "716011.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 85,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 716011,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-05-03T00:16:47.000Z",
+    "updated_at": "2024-05-03T00:16:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2418,
+          "user_id": 716011,
+          "cloneof_id": null,
+          "string_id": "the_map_of_the_sea",
+          "title": "The map of the sea",
+          "description": "its the sea",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 25,
+          "created_at": "2020-04-02T11:32:01.000Z",
+          "updated_at": "2020-04-02T11:32:02.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 716011,
+            "username": "mudkipgast",
+            "description": "An eye for an eye is my motto. Sorry if I kill you. I was probably running away from death. Although, if I'm piranhas, I killed you on purpose.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-24T05:28:02.000Z",
+            "date_last_played": "2021-01-18T22:37:50.000Z",
+            "kill_count": 160,
+            "play_count": 158,
+            "highest_score": 1028092,
+            "picture": "716011.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "its a map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:15:44.041Z"
+}
