@@ -1,0 +1,313 @@
+{
+  "id": 612060,
+  "username": "1NF35T10N",
+  "description": "Hello there! I hope you have a nice day. Please take your time to appreciate this death screen.\r\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-01T08:11:01.000Z",
+  "date_last_played": "2020-10-12T07:39:16.000Z",
+  "profile_views": 3,
+  "kill_count": 447,
+  "play_count": 387,
+  "highest_score": 1875583,
+  "picture": "612060.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 48,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 612060,
+    "rank_kc": 43296,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-28T05:30:43.000Z",
+    "rank_pc": 25717,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-28T05:30:44.000Z",
+    "rank_hs": 39469,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-28T05:30:44.000Z",
+    "created_at": "2024-01-06T16:13:36.000Z",
+    "updated_at": "2023-03-28T05:30:44.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5001,
+          "user_id": 612060,
+          "cloneof_id": null,
+          "string_id": "pd_basin",
+          "title": "Untitled",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2020-11-26T10:03:34.000Z",
+          "updated_at": "2020-11-26T10:03:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 612060,
+            "username": "1NF35T10N",
+            "description": "Hello there! I hope you have a nice day. Please take your time to appreciate this death screen.\r\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-01T08:11:01.000Z",
+            "date_last_played": "2020-10-12T07:39:16.000Z",
+            "kill_count": 447,
+            "play_count": 387,
+            "highest_score": 1875583,
+            "picture": "612060.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 48,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 2231,
+          "user_id": 612060,
+          "cloneof_id": null,
+          "string_id": "reefcanyon_1v1",
+          "title": "Reef Canyon 1v1",
+          "description": "Theme: Ocean",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 46,
+          "created_at": "2020-03-21T14:23:48.000Z",
+          "updated_at": "2020-03-22T05:31:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 612060,
+            "username": "1NF35T10N",
+            "description": "Hello there! I hope you have a nice day. Please take your time to appreciate this death screen.\r\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-01T08:11:01.000Z",
+            "date_last_played": "2020-10-12T07:39:16.000Z",
+            "kill_count": 447,
+            "play_count": 387,
+            "highest_score": 1875583,
+            "picture": "612060.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 48,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "canyon"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "reef"
+            }
+          ]
+        },
+        {
+          "id": 2228,
+          "user_id": 612060,
+          "cloneof_id": null,
+          "string_id": "boreal_canyon_1v1",
+          "title": "Boreal Canyon 1v1",
+          "description": "Theme: Arctic/Arctic+Ocean",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 26,
+          "created_at": "2020-03-21T09:33:12.000Z",
+          "updated_at": "2020-03-22T05:35:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 612060,
+            "username": "1NF35T10N",
+            "description": "Hello there! I hope you have a nice day. Please take your time to appreciate this death screen.\r\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-01T08:11:01.000Z",
+            "date_last_played": "2020-10-12T07:39:16.000Z",
+            "kill_count": 447,
+            "play_count": 387,
+            "highest_score": 1875583,
+            "picture": "612060.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 48,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "arctic"
+            },
+            {
+              "id": "canyon"
+            },
+            {
+              "id": "ocean"
+            }
+          ]
+        },
+        {
+          "id": 1774,
+          "user_id": 612060,
+          "cloneof_id": null,
+          "string_id": "pd_estuary_battle",
+          "title": "[PD] Estuary Battle",
+          "description": "A battle between reef and swamp.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 256,
+          "created_at": "2020-02-20T10:22:07.000Z",
+          "updated_at": "2020-03-24T09:17:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 612060,
+            "username": "1NF35T10N",
+            "description": "Hello there! I hope you have a nice day. Please take your time to appreciate this death screen.\r\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-01T08:11:01.000Z",
+            "date_last_played": "2020-10-12T07:39:16.000Z",
+            "kill_count": 447,
+            "play_count": 387,
+            "highest_score": 1875583,
+            "picture": "612060.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 48,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "estuary"
+            },
+            {
+              "id": "pd"
+            },
+            {
+              "id": "reef"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 995,
+          "user_id": 612060,
+          "cloneof_id": null,
+          "string_id": "eldoris",
+          "title": "Eldoris",
+          "description": "A peaceful sea with many biomes and sub-biomes.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1181,
+          "created_at": "2019-11-02T05:28:21.000Z",
+          "updated_at": "2020-05-01T04:10:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 612060,
+            "username": "1NF35T10N",
+            "description": "Hello there! I hope you have a nice day. Please take your time to appreciate this death screen.\r\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-01T08:11:01.000Z",
+            "date_last_played": "2020-10-12T07:39:16.000Z",
+            "kill_count": 447,
+            "play_count": 387,
+            "highest_score": 1875583,
+            "picture": "612060.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 48,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "ffa19"
+            },
+            {
+              "id": "glacier"
+            },
+            {
+              "id": "volcano"
+            }
+          ]
+        }
+      ],
+      "count": 5
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:07:14.709Z"
+}
