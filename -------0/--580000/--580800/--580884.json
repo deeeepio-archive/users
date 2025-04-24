@@ -1,0 +1,97 @@
+{
+  "id": 580884,
+  "username": "Emperor_Penguino",
+  "description": "That's just like, your opinion, man.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-04-23T02:02:07.000Z",
+  "date_last_played": "2025-02-24T18:54:34.000Z",
+  "profile_views": 23,
+  "kill_count": 6569,
+  "play_count": 2533,
+  "highest_score": 2112671,
+  "picture": "580884.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 67,
+  "tier": 2,
+  "xp": 39300,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 580884,
+    "rank_kc": 3919,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-16T15:28:54.000Z",
+    "rank_pc": 3663,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-16T15:28:57.000Z",
+    "rank_hs": 38175,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-16T15:28:58.000Z",
+    "created_at": "2025-02-24T18:54:33.000Z",
+    "updated_at": "2025-02-24T18:54:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5694,
+          "user_id": 580884,
+          "cloneof_id": null,
+          "string_id": "penguino_ffa_v1",
+          "title": "Penguino FFA",
+          "description": "Penguino's FFA",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 73,
+          "created_at": "2021-01-24T17:05:28.000Z",
+          "updated_at": "2021-04-17T15:07:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 580884,
+            "username": "Emperor_Penguino",
+            "description": "That's just like, your opinion, man.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-23T02:02:07.000Z",
+            "date_last_played": "2025-02-24T18:54:34.000Z",
+            "kill_count": 6569,
+            "play_count": 2533,
+            "highest_score": 2112671,
+            "picture": "580884.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 67,
+            "tier": 2,
+            "xp": 39300,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:00:02.862Z"
+}
