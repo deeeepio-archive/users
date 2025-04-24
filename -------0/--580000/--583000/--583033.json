@@ -1,0 +1,143 @@
+{
+  "id": 583033,
+  "username": "969940_110",
+  "description": "glug",
+  "about": "glug",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-04-30T12:01:49.000Z",
+  "date_last_played": "2025-01-13T18:18:50.000Z",
+  "profile_views": 6,
+  "kill_count": 2449,
+  "play_count": 1601,
+  "highest_score": 1121293,
+  "picture": "583033-1026806a1610a9fe153965a989e10b7b5a.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18,
+  "tier": 1,
+  "xp": 4800,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 583033,
+    "rank_kc": 10457,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-27T10:52:25.000Z",
+    "rank_pc": 5831,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-27T10:52:26.000Z",
+    "rank_hs": 69304,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-27T10:52:28.000Z",
+    "created_at": "2025-01-13T18:18:50.000Z",
+    "updated_at": "2025-01-13T18:18:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6486,
+          "user_id": 583033,
+          "cloneof_id": null,
+          "string_id": "22556",
+          "title": "Untitled",
+          "description": "yxsad",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 40,
+          "created_at": "2021-04-09T14:30:07.000Z",
+          "updated_at": "2021-04-09T14:30:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 583033,
+            "username": "969940_110",
+            "description": "glug",
+            "about": "glug",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-30T12:01:49.000Z",
+            "date_last_played": "2025-01-13T18:18:50.000Z",
+            "kill_count": 2449,
+            "play_count": 1601,
+            "highest_score": 1121293,
+            "picture": "583033-1026806a1610a9fe153965a989e10b7b5a.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18,
+            "tier": 1,
+            "xp": 4800,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "dsad"
+            }
+          ]
+        },
+        {
+          "id": 3452,
+          "user_id": 583033,
+          "cloneof_id": null,
+          "string_id": "12315646",
+          "title": "fwf",
+          "description": "wer",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 21,
+          "created_at": "2020-06-19T17:39:07.000Z",
+          "updated_at": "2020-06-19T17:39:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 583033,
+            "username": "969940_110",
+            "description": "glug",
+            "about": "glug",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-30T12:01:49.000Z",
+            "date_last_played": "2025-01-13T18:18:50.000Z",
+            "kill_count": 2449,
+            "play_count": 1601,
+            "highest_score": 1121293,
+            "picture": "583033-1026806a1610a9fe153965a989e10b7b5a.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18,
+            "tier": 1,
+            "xp": 4800,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ewrwer"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:12:50.862Z"
+}
