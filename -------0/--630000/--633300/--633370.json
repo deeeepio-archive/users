@@ -1,0 +1,305 @@
+{
+  "id": 633370,
+  "username": "988948_754",
+  "description": "i am still hungry pls let me eat you again",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-09-18T01:49:43.000Z",
+  "date_last_played": "2020-03-30T16:15:28.000Z",
+  "profile_views": 0,
+  "kill_count": 694,
+  "play_count": 121,
+  "highest_score": 1321234,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 135,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 633370,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T14:13:14.375Z",
+    "updated_at": "2025-04-24T14:13:14.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 816,
+          "user_id": 633370,
+          "cloneof_id": null,
+          "string_id": "map31415926",
+          "title": "AnotherFFAmap",
+          "description": "simalar to the existing map, but with new areas, the reef, river, mountian, iceberg, kelp forest, volcanic island, and stormy ocean. This map also contains some changes such as the swamp mangroves no longer blocking acces to air.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 820,
+          "created_at": "2019-10-12T17:35:50.000Z",
+          "updated_at": "2019-10-24T22:12:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 633370,
+            "username": "988948_754",
+            "description": "i am still hungry pls let me eat you again",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-18T01:49:43.000Z",
+            "date_last_played": "2020-03-30T16:15:28.000Z",
+            "kill_count": 694,
+            "play_count": 121,
+            "highest_score": 1321234,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 135,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            },
+            {
+              "id": "iceberg"
+            },
+            {
+              "id": "kelp forest"
+            },
+            {
+              "id": "mountians"
+            },
+            {
+              "id": "reef"
+            },
+            {
+              "id": "stormy ocean"
+            }
+          ]
+        },
+        {
+          "id": 649,
+          "user_id": 633370,
+          "cloneof_id": null,
+          "string_id": "pingu",
+          "title": "PINGUIN'S REVENGE",
+          "description": "after being made fun of by other birds the pinguins start to fly and murder all the birds ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 12,
+          "created_at": "2019-09-27T02:57:30.000Z",
+          "updated_at": "2019-09-27T02:57:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 633370,
+            "username": "988948_754",
+            "description": "i am still hungry pls let me eat you again",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-18T01:49:43.000Z",
+            "date_last_played": "2020-03-30T16:15:28.000Z",
+            "kill_count": 694,
+            "play_count": 121,
+            "highest_score": 1321234,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 135,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Pinguin gauntlet"
+            }
+          ]
+        },
+        {
+          "id": 589,
+          "user_id": 633370,
+          "cloneof_id": null,
+          "string_id": "deep_map",
+          "title": "A Very Deeeep sea",
+          "description": "One deeeep (with 4 e's) sea",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 105,
+          "created_at": "2019-09-20T02:42:14.000Z",
+          "updated_at": "2019-10-10T22:37:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 633370,
+            "username": "988948_754",
+            "description": "i am still hungry pls let me eat you again",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-18T01:49:43.000Z",
+            "date_last_played": "2020-03-30T16:15:28.000Z",
+            "kill_count": 694,
+            "play_count": 121,
+            "highest_score": 1321234,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 135,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deep"
+            },
+            {
+              "id": "vertical"
+            }
+          ]
+        },
+        {
+          "id": 574,
+          "user_id": 633370,
+          "cloneof_id": null,
+          "string_id": "ateriod_belt",
+          "title": "Asteriod Belt",
+          "description": "a map with no gravity that thakes place in the asteriod belt",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 75,
+          "created_at": "2019-09-18T23:28:00.000Z",
+          "updated_at": "2019-10-03T02:27:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 633370,
+            "username": "988948_754",
+            "description": "i am still hungry pls let me eat you again",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-18T01:49:43.000Z",
+            "date_last_played": "2020-03-30T16:15:28.000Z",
+            "kill_count": 694,
+            "play_count": 121,
+            "highest_score": 1321234,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 135,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "space"
+            },
+            {
+              "id": "zero gravity"
+            }
+          ]
+        },
+        {
+          "id": 568,
+          "user_id": 633370,
+          "cloneof_id": null,
+          "string_id": "tall_tree",
+          "title": "Tall Tree of Height ",
+          "description": "a map that is sky based and vertical and has one big tree.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 55,
+          "created_at": "2019-09-18T03:27:25.000Z",
+          "updated_at": "2019-09-18T03:27:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 633370,
+            "username": "988948_754",
+            "description": "i am still hungry pls let me eat you again",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-18T01:49:43.000Z",
+            "date_last_played": "2020-03-30T16:15:28.000Z",
+            "kill_count": 694,
+            "play_count": 121,
+            "highest_score": 1321234,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 135,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "air based"
+            },
+            {
+              "id": "vertical"
+            }
+          ]
+        }
+      ],
+      "count": 5
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T14:13:14.577Z"
+}
