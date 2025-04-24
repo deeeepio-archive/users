@@ -1,0 +1,97 @@
+{
+  "id": 659431,
+  "username": "your-local-crab-patron",
+  "description": "Your local crab friend",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-17T12:22:14.000Z",
+  "date_last_played": "2024-03-16T09:15:07.000Z",
+  "profile_views": 7,
+  "kill_count": 831,
+  "play_count": 1158,
+  "highest_score": 2404698,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 49,
+  "tier": 1,
+  "xp": 4050,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 659431,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-03-16T09:15:06.000Z",
+    "updated_at": "2024-03-16T09:15:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6451,
+          "user_id": 659431,
+          "cloneof_id": null,
+          "string_id": "map_1st_test",
+          "title": "Bestest map",
+          "description": "My first attempt (second actualy)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 45,
+          "created_at": "2021-04-04T20:24:45.000Z",
+          "updated_at": "2021-04-06T17:43:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 659431,
+            "username": "your-local-crab-patron",
+            "description": "Your local crab friend",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-17T12:22:14.000Z",
+            "date_last_played": "2024-03-16T09:15:07.000Z",
+            "kill_count": 831,
+            "play_count": 1158,
+            "highest_score": 2404698,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 49,
+            "tier": 1,
+            "xp": 4050,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "None"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T16:52:23.086Z"
+}
