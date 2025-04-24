@@ -1,0 +1,319 @@
+{
+  "id": 605632,
+  "username": "Giantbluefish",
+  "description": "sry, I kill everyone, not just you",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-06T22:28:04.000Z",
+  "date_last_played": "2025-02-20T04:39:02.000Z",
+  "profile_views": 1535,
+  "kill_count": 48281,
+  "play_count": 6705,
+  "highest_score": 16755450,
+  "picture": "605632-39310ffda1a510cdc5e56810555983108764.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 16070,
+  "tier": 10,
+  "xp": 2694750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 605632,
+    "rank_kc": 91,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-08T21:37:04.000Z",
+    "rank_pc": 564,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-08T21:37:08.000Z",
+    "rank_hs": 1522,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-08T21:37:13.000Z",
+    "created_at": "2025-02-20T04:39:01.000Z",
+    "updated_at": "2025-02-20T04:39:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12905,
+          "user_id": 605632,
+          "cloneof_id": null,
+          "string_id": "gbf_ffa_new",
+          "title": "Giantbluefish FFA new",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-10-04T16:09:28.000Z",
+          "updated_at": "2023-10-04T16:09:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 605632,
+            "username": "Giantbluefish",
+            "description": "sry, I kill everyone, not just you",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-06T22:28:04.000Z",
+            "date_last_played": "2025-02-20T04:39:02.000Z",
+            "kill_count": 48281,
+            "play_count": 6705,
+            "highest_score": 16755450,
+            "picture": "605632-39310ffda1a510cdc5e56810555983108764.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16070,
+            "tier": 10,
+            "xp": 2694750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 8487,
+          "user_id": 605632,
+          "cloneof_id": null,
+          "string_id": "gbf_deeeep1v1",
+          "title": "Giantbluefish",
+          "description": "deeeep/night 1v1 map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 20,
+          "created_at": "2021-11-07T18:23:13.000Z",
+          "updated_at": "2021-11-07T18:38:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 605632,
+            "username": "Giantbluefish",
+            "description": "sry, I kill everyone, not just you",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-06T22:28:04.000Z",
+            "date_last_played": "2025-02-20T04:39:02.000Z",
+            "kill_count": 48281,
+            "play_count": 6705,
+            "highest_score": 16755450,
+            "picture": "605632-39310ffda1a510cdc5e56810555983108764.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16070,
+            "tier": 10,
+            "xp": 2694750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        },
+        {
+          "id": 8480,
+          "user_id": 605632,
+          "cloneof_id": null,
+          "string_id": "gbf_pd1",
+          "title": "Giantbluefish PD v1",
+          "description": "my first PD map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 15,
+          "created_at": "2021-11-07T01:32:38.000Z",
+          "updated_at": "2021-11-07T01:55:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 605632,
+            "username": "Giantbluefish",
+            "description": "sry, I kill everyone, not just you",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-06T22:28:04.000Z",
+            "date_last_played": "2025-02-20T04:39:02.000Z",
+            "kill_count": 48281,
+            "play_count": 6705,
+            "highest_score": 16755450,
+            "picture": "605632-39310ffda1a510cdc5e56810555983108764.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16070,
+            "tier": 10,
+            "xp": 2694750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "PD"
+            }
+          ]
+        },
+        {
+          "id": 7079,
+          "user_id": 605632,
+          "cloneof_id": null,
+          "string_id": "gbf_swamp1v1",
+          "title": "Giantbluefish's Swamp 1v1 map",
+          "description": "A swamp 1v1 map cause no one ever does that",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 34,
+          "created_at": "2021-06-06T18:08:27.000Z",
+          "updated_at": "2021-11-07T18:22:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 605632,
+            "username": "Giantbluefish",
+            "description": "sry, I kill everyone, not just you",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-06T22:28:04.000Z",
+            "date_last_played": "2025-02-20T04:39:02.000Z",
+            "kill_count": 48281,
+            "play_count": 6705,
+            "highest_score": 16755450,
+            "picture": "605632-39310ffda1a510cdc5e56810555983108764.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16070,
+            "tier": 10,
+            "xp": 2694750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "a"
+            },
+            {
+              "id": "amount"
+            },
+            {
+              "id": "do"
+            },
+            {
+              "id": "large"
+            },
+            {
+              "id": "of"
+            },
+            {
+              "id": "trolling"
+            },
+            {
+              "id": "we"
+            }
+          ]
+        },
+        {
+          "id": 6507,
+          "user_id": 605632,
+          "cloneof_id": null,
+          "string_id": "GBF_ffa",
+          "title": "Giantbluefish's ffa map v1",
+          "description": "950x110 map, contains new minibiomes: Overgrown reef, Mini reef, Intertidal pool, PvP swamp cave",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 1730,
+          "created_at": "2021-04-12T13:19:11.000Z",
+          "updated_at": "2021-11-07T01:31:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 605632,
+            "username": "Giantbluefish",
+            "description": "sry, I kill everyone, not just you",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-06T22:28:04.000Z",
+            "date_last_played": "2025-02-20T04:39:02.000Z",
+            "kill_count": 48281,
+            "play_count": 6705,
+            "highest_score": 16755450,
+            "picture": "605632-39310ffda1a510cdc5e56810555983108764.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16070,
+            "tier": 10,
+            "xp": 2694750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "a"
+            },
+            {
+              "id": "amount"
+            },
+            {
+              "id": "do"
+            },
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "large"
+            },
+            {
+              "id": "of"
+            },
+            {
+              "id": "trolling"
+            },
+            {
+              "id": "we"
+            }
+          ]
+        }
+      ],
+      "count": 5
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:28:28.792Z"
+}
