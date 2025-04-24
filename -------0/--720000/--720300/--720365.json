@@ -1,0 +1,97 @@
+{
+  "id": 720365,
+  "username": "last_HorizoN1",
+  "description": "I wanna watch the world burn \\(*-*)/",
+  "about": "the veteran has came back",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-03T16:27:32.000Z",
+  "date_last_played": "2023-10-01T10:34:05.000Z",
+  "profile_views": 58,
+  "kill_count": 1276,
+  "play_count": 1038,
+  "highest_score": 3137468,
+  "picture": "720365-9345b4fe6cb7e83a883c95723550f962.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 211,
+  "tier": 2,
+  "xp": 44400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 720365,
+    "rank_kc": 22199,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-01T10:34:18.000Z",
+    "rank_pc": 12053,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-01T10:34:19.000Z",
+    "rank_hs": 19308,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-01T10:34:20.000Z",
+    "created_at": "2023-12-20T11:47:24.000Z",
+    "updated_at": "2023-10-01T10:34:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3585,
+          "user_id": 720365,
+          "cloneof_id": null,
+          "string_id": "lava_biome_v1",
+          "title": "lava biome",
+          "description": "lava biome width:200 height:90 .i need bos to this biome or something ak leviatan/kraken",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 100,
+          "created_at": "2020-07-02T15:59:44.000Z",
+          "updated_at": "2020-07-03T11:51:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 720365,
+            "username": "last_HorizoN1",
+            "description": "I wanna watch the world burn \\(*-*)/",
+            "about": "the veteran has came back",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-03T16:27:32.000Z",
+            "date_last_played": "2023-10-01T10:34:05.000Z",
+            "kill_count": 1276,
+            "play_count": 1038,
+            "highest_score": 3137468,
+            "picture": "720365-9345b4fe6cb7e83a883c95723550f962.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 211,
+            "tier": 2,
+            "xp": 44400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#lava #biome"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:41:56.523Z"
+}
