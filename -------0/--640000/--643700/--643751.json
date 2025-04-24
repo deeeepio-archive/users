@@ -1,0 +1,72 @@
+{
+  "id": 643751,
+  "username": "H5",
+  "description": "I didn't make the goose skin",
+  "about": "I'm the reason the game doesn't load objects nobody sees. This makes servers lag less👍",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-14T21:45:56.000Z",
+  "date_last_played": "2024-12-14T05:08:56.000Z",
+  "profile_views": 180,
+  "kill_count": 5294,
+  "play_count": 599,
+  "highest_score": 7158180,
+  "picture": "643751-1d5f288612b9de892e3542f610a2d7f38.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2655,
+  "tier": 2,
+  "xp": 73350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    },
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 2101,
+      "user_id": 643751,
+      "platform_id": "dc",
+      "platform_user_id": "hhhhh#4350",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-11T17:47:47.000Z",
+      "updated_at": "2022-06-11T17:47:47.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 643751,
+    "rank_kc": 5378,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-29T12:26:10.000Z",
+    "rank_pc": 21094,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-29T12:26:15.000Z",
+    "rank_hs": 4146,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-29T12:26:18.000Z",
+    "created_at": "2024-12-14T05:08:55.000Z",
+    "updated_at": "2024-12-14T05:08:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:16:59.496Z"
+}
