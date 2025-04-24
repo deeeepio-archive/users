@@ -1,0 +1,97 @@
+{
+  "id": 643049,
+  "username": "FckYou",
+  "description": "I totally just play to get eaten hehe",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-12T23:04:42.000Z",
+  "date_last_played": "2023-07-30T08:50:48.000Z",
+  "profile_views": 1,
+  "kill_count": 1055,
+  "play_count": 220,
+  "highest_score": 3932392,
+  "picture": "643049.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 196,
+  "tier": 1,
+  "xp": 900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 643049,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T15:12:43.726Z",
+    "updated_at": "2025-04-24T15:12:44.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7472,
+          "user_id": 643049,
+          "cloneof_id": null,
+          "string_id": "l_o_l",
+          "title": "L-O-L",
+          "description": "i dont even know",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 303,
+          "created_at": "2021-08-01T14:03:35.000Z",
+          "updated_at": "2021-08-01T14:05:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 643049,
+            "username": "FckYou",
+            "description": "I totally just play to get eaten hehe",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-10-12T23:04:42.000Z",
+            "date_last_played": "2023-07-30T08:50:48.000Z",
+            "kill_count": 1055,
+            "play_count": 220,
+            "highest_score": 3932392,
+            "picture": "643049.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 196,
+            "tier": 1,
+            "xp": 900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "dont bother"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:12:43.812Z"
+}
