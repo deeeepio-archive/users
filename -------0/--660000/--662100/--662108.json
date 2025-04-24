@@ -1,0 +1,61 @@
+{
+  "id": 662108,
+  "username": "zmarz",
+  "description": "bye",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-23T15:28:42.000Z",
+  "date_last_played": "2023-08-10T22:15:31.000Z",
+  "profile_views": 9,
+  "kill_count": 8128,
+  "play_count": 1496,
+  "highest_score": 18231547,
+  "picture": "662108-dda2c2b2facc1fafc46edbe4119610cdc.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 29,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 24294,
+      "user_id": 662108,
+      "platform_id": "ig",
+      "platform_user_id": "zmrzz0",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-10T19:25:59.000Z",
+      "updated_at": "2023-08-10T19:25:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 662108,
+    "rank_kc": 3004,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-10T19:26:20.000Z",
+    "rank_pc": 7626,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-10T19:26:22.000Z",
+    "rank_hs": 1423,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-10T19:26:24.000Z",
+    "created_at": "2023-09-03T08:16:00.000Z",
+    "updated_at": "2023-08-10T22:15:31.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T17:08:42.214Z"
+}
