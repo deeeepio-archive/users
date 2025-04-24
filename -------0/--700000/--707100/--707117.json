@@ -1,0 +1,115 @@
+{
+  "id": 707117,
+  "username": "Shiuki",
+  "description": "Henlo",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-04T06:35:38.000Z",
+  "date_last_played": "2020-03-13T06:11:28.000Z",
+  "profile_views": 0,
+  "kill_count": 205,
+  "play_count": 74,
+  "highest_score": 804910,
+  "picture": "707117.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 103,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 707117,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T22:23:32.093Z",
+    "updated_at": "2025-04-24T22:23:32.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2016,
+          "user_id": 707117,
+          "cloneof_id": null,
+          "string_id": "my_pro_map_v2",
+          "title": "hardcore survival craft",
+          "description": "cool map by me",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2020-03-05T10:20:48.000Z",
+          "updated_at": "2020-03-05T10:20:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 707117,
+            "username": "Shiuki",
+            "description": "Henlo",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-04T06:35:38.000Z",
+            "date_last_played": "2020-03-13T06:11:28.000Z",
+            "kill_count": 205,
+            "play_count": 74,
+            "highest_score": 804910,
+            "picture": "707117.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 103,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ahck"
+            },
+            {
+              "id": "cool"
+            },
+            {
+              "id": "fish"
+            },
+            {
+              "id": "hardcore"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "op"
+            },
+            {
+              "id": "survival"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T22:23:32.141Z"
+}
