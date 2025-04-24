@@ -1,0 +1,61 @@
+{
+  "id": 641170,
+  "username": "LadyHUN",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-08T17:30:06.000Z",
+  "date_last_played": "2023-12-23T11:18:36.000Z",
+  "profile_views": 7,
+  "kill_count": 317,
+  "play_count": 175,
+  "highest_score": 1585276,
+  "picture": "641170-1e910e4fb452e83c51842c9ca7ffbbf5f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 63,
+  "tier": 1,
+  "xp": 22950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 19087,
+      "user_id": 641170,
+      "platform_id": "ig",
+      "platform_user_id": "_m.lilii_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-12T10:55:40.000Z",
+      "updated_at": "2023-05-12T10:55:40.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 641170,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T15:00:28.417Z",
+    "updated_at": "2025-04-24T15:00:28.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:00:28.460Z"
+}
