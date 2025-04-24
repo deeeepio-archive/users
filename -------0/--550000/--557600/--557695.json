@@ -1,0 +1,103 @@
+{
+  "id": 557695,
+  "username": "Toadbanana2",
+  "description": "PLEASE DO SOMETHING THIS MADE ME THINK THE GAME IS ***\nI KEEP DYING TO THE ****ING ''TOAD'' I TY TO HAVE A CHAT WITH SOMEONE AND HE KILLS ME LIKE A *****, DO SOMETHING PLEASE\n(btw im toad)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-02-08T09:28:58.000Z",
+  "date_last_played": "2022-01-30T15:41:12.000Z",
+  "profile_views": 1,
+  "kill_count": 14955,
+  "play_count": 3285,
+  "highest_score": 5329835,
+  "picture": "557695-39afe9244a93f58c17ea5107e41f18dd8.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 50,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 557695,
+    "rank_kc": 805,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-20T15:39:26.000Z",
+    "rank_pc": 1698,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-20T15:39:26.000Z",
+    "rank_hs": 5223,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2022-07-08T06:44:18.000Z",
+    "updated_at": "2022-06-20T15:39:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8258,
+          "user_id": 557695,
+          "cloneof_id": null,
+          "string_id": "toad_1v1",
+          "title": "SwampWaterfall_1v1",
+          "description": "First map, i think i did really well",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 39,
+          "created_at": "2021-10-19T14:09:13.000Z",
+          "updated_at": "2022-01-25T16:43:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 557695,
+            "username": "Toadbanana2",
+            "description": "PLEASE DO SOMETHING THIS MADE ME THINK THE GAME IS ***\nI KEEP DYING TO THE ****ING ''TOAD'' I TY TO HAVE A CHAT WITH SOMEONE AND HE KILLS ME LIKE A *****, DO SOMETHING PLEASE\n(btw im toad)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-02-08T09:28:58.000Z",
+            "date_last_played": "2022-01-30T15:41:12.000Z",
+            "kill_count": 14955,
+            "play_count": 3285,
+            "highest_score": 5329835,
+            "picture": "557695-39afe9244a93f58c17ea5107e41f18dd8.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 50,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "swamp"
+            },
+            {
+              "id": "waterfall"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T06:35:07.780Z"
+}
