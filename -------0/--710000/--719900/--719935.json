@@ -1,0 +1,97 @@
+{
+  "id": 719935,
+  "username": "poiuytrewqjk",
+  "description": "my buttttt",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-02T16:16:29.000Z",
+  "date_last_played": "2020-04-08T16:27:10.000Z",
+  "profile_views": 0,
+  "kill_count": 11,
+  "play_count": 18,
+  "highest_score": 100950,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 5,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 719935,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T23:39:02.880Z",
+    "updated_at": "2025-04-24T23:39:03.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2419,
+          "user_id": 719935,
+          "cloneof_id": null,
+          "string_id": "poiuytrewqjk",
+          "title": "poiuytrewqjk",
+          "description": "poiuytrewqjk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 15,
+          "created_at": "2020-04-02T16:17:48.000Z",
+          "updated_at": "2020-04-02T16:17:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 719935,
+            "username": "poiuytrewqjk",
+            "description": "my buttttt",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-02T16:16:29.000Z",
+            "date_last_played": "2020-04-08T16:27:10.000Z",
+            "kill_count": 11,
+            "play_count": 18,
+            "highest_score": 100950,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 5,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "poiuytrewqjk"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:39:02.931Z"
+}
