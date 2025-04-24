@@ -1,0 +1,102 @@
+{
+  "id": 516852,
+  "username": "LooseGoose",
+  "description": "Whalecome, and have a nice day",
+  "about": "From Saudi Arabia 💚\nHe/Him",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2018-04-29T14:07:57.000Z",
+  "date_last_played": "2025-01-15T12:55:05.000Z",
+  "profile_views": 505,
+  "kill_count": 12568,
+  "play_count": 3904,
+  "highest_score": 84502910,
+  "picture": "516852.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 77,
+  "tier": 3,
+  "xp": 128400,
+  "migrated": true,
+  "verified": true,
+  "beta": true,
+  "badges": [
+    {
+      "id": 3,
+      "slug": "harmony-member",
+      "title": "Harmony Member"
+    },
+    {
+      "id": 4,
+      "slug": "harmony-manager",
+      "title": "Harmony Manager"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    },
+    {
+      "id": 8,
+      "slug": "crabinet-manager",
+      "title": "Crabinet Manager"
+    },
+    {
+      "id": 9,
+      "slug": "event-manager",
+      "title": "Event Manager"
+    },
+    {
+      "id": 11,
+      "slug": "alpha-tester",
+      "title": "Alpha Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 269,
+      "user_id": 516852,
+      "platform_id": "dc",
+      "platform_user_id": "l0ose_goose",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-19T09:15:28.000Z",
+      "updated_at": "2023-08-15T21:19:32.000Z"
+    },
+    {
+      "id": 272,
+      "user_id": 516852,
+      "platform_id": "rd",
+      "platform_user_id": "A_Friendly_Goose",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-19T09:16:09.000Z",
+      "updated_at": "2022-05-19T09:16:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 516852,
+    "rank_kc": 1708,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T04:36:26.000Z",
+    "rank_pc": 1997,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T04:36:27.000Z",
+    "rank_hs": 606,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-01-15T12:55:04.000Z",
+    "updated_at": "2025-01-15T12:55:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T02:19:20.352Z"
+}
