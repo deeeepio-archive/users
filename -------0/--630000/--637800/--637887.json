@@ -1,0 +1,106 @@
+{
+  "id": 637887,
+  "username": "AdSense",
+  "description": "This account is run by a bot in order to determine whether the site qualifies for advertising. If you have been eaten by this user, we at Google say, 'git gud.'",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-09-30T01:33:15.000Z",
+  "date_last_played": "2024-06-08T03:03:10.000Z",
+  "profile_views": 2,
+  "kill_count": 1377,
+  "play_count": 493,
+  "highest_score": 2850789,
+  "picture": "637887.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 304,
+  "tier": 1,
+  "xp": 21300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 637887,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T14:40:26.551Z",
+    "updated_at": "2025-04-24T14:40:27.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 687,
+          "user_id": 637887,
+          "cloneof_id": null,
+          "string_id": "awful",
+          "title": "In the Land of Utter Nonsense",
+          "description": "(My first attempt) Featuring a flying ocean of blood among other things",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 48,
+          "created_at": "2019-09-30T01:41:06.000Z",
+          "updated_at": "2019-09-30T01:41:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 637887,
+            "username": "AdSense",
+            "description": "This account is run by a bot in order to determine whether the site qualifies for advertising. If you have been eaten by this user, we at Google say, 'git gud.'",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-30T01:33:15.000Z",
+            "date_last_played": "2024-06-08T03:03:10.000Z",
+            "kill_count": 1377,
+            "play_count": 493,
+            "highest_score": 2850789,
+            "picture": "637887.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 304,
+            "tier": 1,
+            "xp": 21300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "bad"
+            },
+            {
+              "id": "blood"
+            },
+            {
+              "id": "chaos"
+            },
+            {
+              "id": "first"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T14:40:26.613Z"
+}
