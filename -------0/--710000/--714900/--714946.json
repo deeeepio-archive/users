@@ -1,0 +1,158 @@
+{
+  "id": 714946,
+  "username": "SAK26",
+  "description": "I hate cach players\nPD GPO main",
+  "about": "SAK26",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-21T16:05:59.000Z",
+  "date_last_played": "2025-04-24T22:39:39.000Z",
+  "profile_views": 3817,
+  "kill_count": 16004,
+  "play_count": 3645,
+  "highest_score": 7905281,
+  "picture": "714946-4670c32bee5f3ab4d55d7f660f8fd749-cb0c8c65-f9c8-42aa-9641-c3583486099b.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1756,
+  "tier": 10,
+  "xp": 2641950,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 98161,
+      "user_id": 714946,
+      "platform_id": "dc",
+      "platform_user_id": "SAK26",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-31T01:41:50.000Z",
+      "updated_at": "2024-08-31T01:41:50.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 714946,
+    "rank_kc": 2976,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T05:07:30.000Z",
+    "rank_pc": 4747,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T05:07:32.000Z",
+    "rank_hs": 4219,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-21T05:07:33.000Z",
+    "created_at": "2025-04-24T22:39:38.000Z",
+    "updated_at": "2025-04-24T22:39:39.000Z",
+    "pd": {
+      "played": 23,
+      "won": 18,
+      "ratio": 78
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244756,
+          "user_id": 714946,
+          "cloneof_id": 12310,
+          "string_id": "abyss_pd",
+          "title": "Abyss PD",
+          "description": "Swampy Shores PD map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 199,
+          "created_at": "2024-10-10T02:02:33.000Z",
+          "updated_at": "2024-10-19T03:08:02.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 714946,
+            "username": "SAK26",
+            "description": "I hate cach players\nPD GPO main",
+            "about": "SAK26",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-21T16:05:59.000Z",
+            "date_last_played": "2025-04-24T22:39:39.000Z",
+            "kill_count": 16004,
+            "play_count": 3645,
+            "highest_score": 7905281,
+            "picture": "714946-4670c32bee5f3ab4d55d7f660f8fd749-cb0c8c65-f9c8-42aa-9641-c3583486099b.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1756,
+            "tier": 10,
+            "xp": 2641950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "PD"
+            }
+          ]
+        },
+        {
+          "id": 244682,
+          "user_id": 714946,
+          "cloneof_id": 12983,
+          "string_id": "twilight_pd_v1",
+          "title": "TwilightPD",
+          "description": "Swampy Shores PD map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 271,
+          "created_at": "2024-09-29T12:26:08.000Z",
+          "updated_at": "2024-10-19T03:10:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 714946,
+            "username": "SAK26",
+            "description": "I hate cach players\nPD GPO main",
+            "about": "SAK26",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-21T16:05:59.000Z",
+            "date_last_played": "2025-04-24T22:39:39.000Z",
+            "kill_count": 16004,
+            "play_count": 3645,
+            "highest_score": 7905281,
+            "picture": "714946-4670c32bee5f3ab4d55d7f660f8fd749-cb0c8c65-f9c8-42aa-9641-c3583486099b.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1756,
+            "tier": 10,
+            "xp": 2641950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "PD"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:09:31.962Z"
+}
