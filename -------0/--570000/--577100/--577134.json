@@ -1,0 +1,61 @@
+{
+  "id": 577134,
+  "username": "NoobSlayer69",
+  "description": "Eh ok",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-04-14T02:57:29.000Z",
+  "date_last_played": "2025-01-25T02:15:20.000Z",
+  "profile_views": 3291,
+  "kill_count": 26200,
+  "play_count": 3855,
+  "highest_score": 12600041,
+  "picture": "577134-4f2ca6b9b4bb7ebe157eb5815b5011c5.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 26856,
+  "tier": 10,
+  "xp": 2253300,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 32229,
+      "user_id": 577134,
+      "platform_id": "dc",
+      "platform_user_id": "notgood.2",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-21T04:56:25.000Z",
+      "updated_at": "2024-01-21T04:56:25.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 577134,
+    "rank_kc": 421,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-18T08:08:36.000Z",
+    "rank_pc": 2089,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-18T08:08:37.000Z",
+    "rank_hs": 1958,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-18T08:08:40.000Z",
+    "created_at": "2025-01-25T02:15:19.000Z",
+    "updated_at": "2025-01-25T02:15:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T08:36:38.165Z"
+}
