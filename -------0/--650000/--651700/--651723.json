@@ -1,0 +1,97 @@
+{
+  "id": 651723,
+  "username": "barbablanca",
+  "description": "la nueva era ya esta aquy amigos!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-03T22:26:39.000Z",
+  "date_last_played": "2021-02-18T01:47:54.000Z",
+  "profile_views": 1,
+  "kill_count": 12810,
+  "play_count": 2396,
+  "highest_score": 9704735,
+  "picture": "651723.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 23,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 651723,
+    "rank_kc": 1160,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-05T21:30:50.000Z",
+    "rank_pc": 3154,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-05T21:30:51.000Z",
+    "rank_hs": 2422,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-05T21:30:51.000Z",
+    "created_at": "2022-10-30T12:21:23.000Z",
+    "updated_at": "2022-10-05T21:30:51.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1983,
+          "user_id": 651723,
+          "cloneof_id": null,
+          "string_id": "santiago",
+          "title": "Untitled",
+          "description": "quiero aser un mapa",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-03-02T20:16:50.000Z",
+          "updated_at": "2020-03-02T20:17:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 651723,
+            "username": "barbablanca",
+            "description": "la nueva era ya esta aquy amigos!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-03T22:26:39.000Z",
+            "date_last_played": "2021-02-18T01:47:54.000Z",
+            "kill_count": 12810,
+            "play_count": 2396,
+            "highest_score": 9704735,
+            "picture": "651723.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 23,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "no quiero nada"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T16:05:52.991Z"
+}
