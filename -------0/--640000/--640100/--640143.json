@@ -1,0 +1,97 @@
+{
+  "id": 640143,
+  "username": "9470547_664",
+  "description": "ok, so you died. big deal. you still get points. so just go on with your life.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-05T17:10:39.000Z",
+  "date_last_played": "2019-12-20T09:47:06.000Z",
+  "profile_views": 0,
+  "kill_count": 30,
+  "play_count": 0,
+  "highest_score": 312215,
+  "picture": "640143.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 640143,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T14:53:57.170Z",
+    "updated_at": "2025-04-24T14:53:57.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1189,
+          "user_id": 640143,
+          "cloneof_id": null,
+          "string_id": "mountins",
+          "title": "Untitled",
+          "description": "hcgjw",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 44,
+          "created_at": "2019-11-24T23:40:57.000Z",
+          "updated_at": "2019-11-25T00:05:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 640143,
+            "username": "9470547_664",
+            "description": "ok, so you died. big deal. you still get points. so just go on with your life.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-10-05T17:10:39.000Z",
+            "date_last_played": "2019-12-20T09:47:06.000Z",
+            "kill_count": 30,
+            "play_count": 0,
+            "highest_score": 312215,
+            "picture": "640143.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#itsamoutin"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T14:53:57.241Z"
+}
