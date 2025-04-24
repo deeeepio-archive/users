@@ -1,0 +1,609 @@
+{
+  "id": 616049,
+  "username": "4229591_243",
+  "description": "Mmmm! The tastiest creature in the sea! ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-21T14:24:16.000Z",
+  "date_last_played": "2022-02-23T16:21:38.000Z",
+  "profile_views": 0,
+  "kill_count": 393,
+  "play_count": 233,
+  "highest_score": 948279,
+  "picture": "616049.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 22,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 616049,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T12:31:33.640Z",
+    "updated_at": "2025-04-24T12:31:34.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9300,
+          "user_id": 616049,
+          "cloneof_id": null,
+          "string_id": "submersibles_alien_planet",
+          "title": "Alien Planet 1v1",
+          "description": "Battle it out on planet Deltrox-35B, where alien life abounds and meteors burn through the skies! ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 107,
+          "created_at": "2022-02-18T02:43:56.000Z",
+          "updated_at": "2022-02-21T23:49:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 616049,
+            "username": "4229591_243",
+            "description": "Mmmm! The tastiest creature in the sea! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-21T14:24:16.000Z",
+            "date_last_played": "2022-02-23T16:21:38.000Z",
+            "kill_count": 393,
+            "play_count": 233,
+            "highest_score": 948279,
+            "picture": "616049.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "alien"
+            },
+            {
+              "id": "meteor"
+            }
+          ]
+        },
+        {
+          "id": 4171,
+          "user_id": 616049,
+          "cloneof_id": null,
+          "string_id": "senote",
+          "title": "J's Senote (Unfinished)",
+          "description": "A deep, cavy senote",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 182,
+          "created_at": "2020-08-30T17:38:06.000Z",
+          "updated_at": "2020-09-01T13:39:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 616049,
+            "username": "4229591_243",
+            "description": "Mmmm! The tastiest creature in the sea! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-21T14:24:16.000Z",
+            "date_last_played": "2022-02-23T16:21:38.000Z",
+            "kill_count": 393,
+            "play_count": 233,
+            "highest_score": 948279,
+            "picture": "616049.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "jungle"
+            },
+            {
+              "id": "reef"
+            },
+            {
+              "id": "senote"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 1599,
+          "user_id": 616049,
+          "cloneof_id": null,
+          "string_id": "journey_to_the_hadal_zone",
+          "title": "Trench (Unfinished",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 98,
+          "created_at": "2020-02-03T23:39:21.000Z",
+          "updated_at": "2022-02-21T23:50:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 616049,
+            "username": "4229591_243",
+            "description": "Mmmm! The tastiest creature in the sea! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-21T14:24:16.000Z",
+            "date_last_played": "2022-02-23T16:21:38.000Z",
+            "kill_count": 393,
+            "play_count": 233,
+            "highest_score": 948279,
+            "picture": "616049.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Deep Sea"
+            },
+            {
+              "id": "Island"
+            },
+            {
+              "id": "Open Ocean"
+            },
+            {
+              "id": "Reef"
+            },
+            {
+              "id": "Trench"
+            },
+            {
+              "id": "Volcanoes"
+            }
+          ]
+        },
+        {
+          "id": 1594,
+          "user_id": 616049,
+          "cloneof_id": null,
+          "string_id": "seamount",
+          "title": "Seamount (Unfinished)",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 53,
+          "created_at": "2020-02-03T02:20:25.000Z",
+          "updated_at": "2020-05-03T17:39:38.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 616049,
+            "username": "4229591_243",
+            "description": "Mmmm! The tastiest creature in the sea! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-21T14:24:16.000Z",
+            "date_last_played": "2022-02-23T16:21:38.000Z",
+            "kill_count": 393,
+            "play_count": 233,
+            "highest_score": 948279,
+            "picture": "616049.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 1591,
+          "user_id": 616049,
+          "cloneof_id": null,
+          "string_id": "Coral_Cove",
+          "title": "Coral Cove",
+          "description": "Take a dive in this beautiful, tropical area of the Deeeepian Ocean",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 96,
+          "created_at": "2020-02-02T17:00:09.000Z",
+          "updated_at": "2022-02-18T17:36:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 616049,
+            "username": "4229591_243",
+            "description": "Mmmm! The tastiest creature in the sea! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-21T14:24:16.000Z",
+            "date_last_played": "2022-02-23T16:21:38.000Z",
+            "kill_count": 393,
+            "play_count": 233,
+            "highest_score": 948279,
+            "picture": "616049.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Deeeepian Ocean"
+            },
+            {
+              "id": "Reef"
+            }
+          ]
+        },
+        {
+          "id": 1582,
+          "user_id": 616049,
+          "cloneof_id": null,
+          "string_id": "haunted_ship_graveyard",
+          "title": "Haunted Ship Graveyard",
+          "description": "Spooky! This \"ship graveyard\" is the most haunted place in the Deeeepian Ocean. Look out for soul rock. ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 76,
+          "created_at": "2020-02-02T04:07:26.000Z",
+          "updated_at": "2020-05-03T17:40:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 616049,
+            "username": "4229591_243",
+            "description": "Mmmm! The tastiest creature in the sea! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-21T14:24:16.000Z",
+            "date_last_played": "2022-02-23T16:21:38.000Z",
+            "kill_count": 393,
+            "play_count": 233,
+            "highest_score": 948279,
+            "picture": "616049.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Deeeepian Ocean"
+            },
+            {
+              "id": "Haunted"
+            },
+            {
+              "id": "Scary"
+            },
+            {
+              "id": "Shipwreck"
+            },
+            {
+              "id": "Spooky"
+            }
+          ]
+        },
+        {
+          "id": 1580,
+          "user_id": 616049,
+          "cloneof_id": null,
+          "string_id": "haunted_shipyard_unfinished",
+          "title": "Haunted Shipyard (Abandoned, see the redo)",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 8,
+          "created_at": "2020-02-02T00:34:53.000Z",
+          "updated_at": "2020-02-02T00:38:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 616049,
+            "username": "4229591_243",
+            "description": "Mmmm! The tastiest creature in the sea! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-21T14:24:16.000Z",
+            "date_last_played": "2022-02-23T16:21:38.000Z",
+            "kill_count": 393,
+            "play_count": 233,
+            "highest_score": 948279,
+            "picture": "616049.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Creepy"
+            },
+            {
+              "id": "Ships"
+            },
+            {
+              "id": "Spooky"
+            }
+          ]
+        },
+        {
+          "id": 262,
+          "user_id": 616049,
+          "cloneof_id": null,
+          "string_id": "a_family_map",
+          "title": "Family Map [IN PROGRESS]",
+          "description": "A map my family and I are working on (they tell me what to add, I add it). It is still in progress. ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 58,
+          "created_at": "2019-08-31T11:57:10.000Z",
+          "updated_at": "2019-10-03T17:18:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 616049,
+            "username": "4229591_243",
+            "description": "Mmmm! The tastiest creature in the sea! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-21T14:24:16.000Z",
+            "date_last_played": "2022-02-23T16:21:38.000Z",
+            "kill_count": 393,
+            "play_count": 233,
+            "highest_score": 948279,
+            "picture": "616049.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "beach"
+            },
+            {
+              "id": "cave system"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "in progress"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "project"
+            },
+            {
+              "id": "seamount"
+            },
+            {
+              "id": "swamp"
+            },
+            {
+              "id": "waterfall"
+            }
+          ]
+        },
+        {
+          "id": 217,
+          "user_id": 616049,
+          "cloneof_id": null,
+          "string_id": "my_adventure_map",
+          "title": "Deeeep.io Adventure Map",
+          "description": "A Deeeep map with some cool characteristics",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 90,
+          "created_at": "2019-08-29T22:15:28.000Z",
+          "updated_at": "2020-08-30T16:08:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 616049,
+            "username": "4229591_243",
+            "description": "Mmmm! The tastiest creature in the sea! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-21T14:24:16.000Z",
+            "date_last_played": "2022-02-23T16:21:38.000Z",
+            "kill_count": 393,
+            "play_count": 233,
+            "highest_score": 948279,
+            "picture": "616049.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "arctic"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "iceberg/glacier"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 213,
+          "user_id": 616049,
+          "cloneof_id": null,
+          "string_id": "my_simple_biome_map",
+          "title": "Journey to the Deeeep",
+          "description": "Venture down, down, down! ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 32,
+          "created_at": "2019-08-29T21:18:49.000Z",
+          "updated_at": "2019-09-04T13:46:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 616049,
+            "username": "4229591_243",
+            "description": "Mmmm! The tastiest creature in the sea! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-21T14:24:16.000Z",
+            "date_last_played": "2022-02-23T16:21:38.000Z",
+            "kill_count": 393,
+            "play_count": 233,
+            "highest_score": 948279,
+            "picture": "616049.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "beach"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "islands"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "swamp"
+            },
+            {
+              "id": "tidal pool"
+            }
+          ]
+        }
+      ],
+      "count": 10
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:31:33.730Z"
+}
