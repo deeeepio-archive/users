@@ -1,0 +1,97 @@
+{
+  "id": 701607,
+  "username": "Bolito_Letal",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-22T21:05:43.000Z",
+  "date_last_played": "2023-08-20T01:17:01.000Z",
+  "profile_views": 4,
+  "kill_count": 0,
+  "play_count": 4,
+  "highest_score": 52225,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 701607,
+    "rank_kc": 433802,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-20T01:05:00.000Z",
+    "rank_pc": 320591,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-20T01:05:00.000Z",
+    "rank_hs": 388445,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-20T01:05:01.000Z",
+    "created_at": "2023-08-20T01:19:22.000Z",
+    "updated_at": "2023-08-20T01:19:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1808,
+          "user_id": 701607,
+          "cloneof_id": null,
+          "string_id": "gg_salu2_jaja",
+          "title": "space",
+          "description": "lalalallala",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-02-22T21:08:14.000Z",
+          "updated_at": "2020-02-22T21:08:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 701607,
+            "username": "Bolito_Letal",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-22T21:05:43.000Z",
+            "date_last_played": "2023-08-20T01:17:01.000Z",
+            "kill_count": 0,
+            "play_count": 4,
+            "highest_score": 52225,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "idk "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T21:33:46.627Z"
+}

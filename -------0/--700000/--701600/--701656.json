@@ -1,0 +1,109 @@
+{
+  "id": 701656,
+  "username": "Ronno7",
+  "description": "Roncrov",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-22T23:29:36.000Z",
+  "date_last_played": "2024-11-02T00:32:17.000Z",
+  "profile_views": 3,
+  "kill_count": 2,
+  "play_count": 21,
+  "highest_score": 226640,
+  "picture": "701656.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 1,
+  "xp": 1200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 701656,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-11-02T00:32:16.000Z",
+    "updated_at": "2024-11-02T00:32:17.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244852,
+          "user_id": 701656,
+          "cloneof_id": null,
+          "string_id": "696969_stuff",
+          "title": "Horizon Edge",
+          "description": "From ice to flames. My first map!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 86,
+          "created_at": "2024-11-01T21:15:41.000Z",
+          "updated_at": "2024-11-01T21:15:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 701656,
+            "username": "Ronno7",
+            "description": "Roncrov",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-22T23:29:36.000Z",
+            "date_last_played": "2024-11-02T00:32:17.000Z",
+            "kill_count": 2,
+            "play_count": 21,
+            "highest_score": 226640,
+            "picture": "701656.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 8,
+            "tier": 1,
+            "xp": 1200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Biomes"
+            },
+            {
+              "id": "First"
+            },
+            {
+              "id": "First map"
+            },
+            {
+              "id": "Flames"
+            },
+            {
+              "id": "Ice"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T21:33:52.572Z"
+}
