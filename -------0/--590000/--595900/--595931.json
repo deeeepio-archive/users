@@ -1,0 +1,61 @@
+{
+  "id": 595931,
+  "username": "Alper1",
+  "description": "I miss him \n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-20T19:05:55.000Z",
+  "date_last_played": "2025-02-04T15:11:56.000Z",
+  "profile_views": 11,
+  "kill_count": 4878,
+  "play_count": 673,
+  "highest_score": 1984866,
+  "picture": "595931.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 47,
+  "tier": 2,
+  "xp": 35100,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17048,
+      "user_id": 595931,
+      "platform_id": "ig",
+      "platform_user_id": "alper_bas_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-03T18:37:17.000Z",
+      "updated_at": "2023-04-03T18:37:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 595931,
+    "rank_kc": 5566,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-26T23:03:19.000Z",
+    "rank_pc": 18459,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-26T23:03:21.000Z",
+    "rank_hs": 37849,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-26T23:03:22.000Z",
+    "created_at": "2025-02-04T15:11:56.000Z",
+    "updated_at": "2025-02-04T15:11:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T10:30:27.872Z"
+}
