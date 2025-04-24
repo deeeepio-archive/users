@@ -1,0 +1,71 @@
+{
+  "id": 526589,
+  "username": "張軒睿",
+  "description": "002",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2018-06-05T08:50:56.000Z",
+  "date_last_played": "2023-08-16T01:48:06.000Z",
+  "profile_views": 38,
+  "kill_count": 264,
+  "play_count": 157,
+  "highest_score": 1919540,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 275,
+  "tier": 2,
+  "xp": 31050,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2329,
+      "user_id": 526589,
+      "platform_id": "dc",
+      "platform_user_id": "Ray002#5912",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-15T08:19:18.000Z",
+      "updated_at": "2022-06-15T08:19:18.000Z"
+    },
+    {
+      "id": 2330,
+      "user_id": 526589,
+      "platform_id": "fb",
+      "platform_user_id": "Ray chang",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=100069050692285",
+      "verified": false,
+      "created_at": "2022-06-15T08:22:24.000Z",
+      "updated_at": "2022-06-15T08:22:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 526589,
+    "rank_kc": 53254,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-09T05:49:56.000Z",
+    "rank_pc": 45894,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-09T05:49:56.000Z",
+    "rank_hs": 33494,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-09T05:49:56.000Z",
+    "created_at": "2023-08-16T01:48:05.000Z",
+    "updated_at": "2023-08-16T01:48:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T03:21:46.026Z"
+}

@@ -1,0 +1,143 @@
+{
+  "id": 526540,
+  "username": "3911595_749",
+  "description": "u dead boy... or girl i'm not discriminating.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2018-06-04T23:35:27.000Z",
+  "date_last_played": "2020-03-08T08:54:40.000Z",
+  "profile_views": 0,
+  "kill_count": 308,
+  "play_count": 24,
+  "highest_score": 1438509,
+  "picture": "526540.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 34,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 526540,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T03:21:39.793Z",
+    "updated_at": "2025-04-24T03:21:40.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 645,
+          "user_id": 526540,
+          "cloneof_id": null,
+          "string_id": "hpv",
+          "title": "hpv",
+          "description": "hpv",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 13,
+          "created_at": "2019-09-26T12:55:09.000Z",
+          "updated_at": "2019-09-26T12:55:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 526540,
+            "username": "3911595_749",
+            "description": "u dead boy... or girl i'm not discriminating.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2018-06-04T23:35:27.000Z",
+            "date_last_played": "2020-03-08T08:54:40.000Z",
+            "kill_count": 308,
+            "play_count": 24,
+            "highest_score": 1438509,
+            "picture": "526540.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 34,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hpv"
+            }
+          ]
+        },
+        {
+          "id": 632,
+          "user_id": 526540,
+          "cloneof_id": null,
+          "string_id": "bruh",
+          "title": "Untitled",
+          "description": "bruh",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 148,
+          "created_at": "2019-09-25T09:50:25.000Z",
+          "updated_at": "2020-03-08T10:18:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 526540,
+            "username": "3911595_749",
+            "description": "u dead boy... or girl i'm not discriminating.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2018-06-04T23:35:27.000Z",
+            "date_last_played": "2020-03-08T08:54:40.000Z",
+            "kill_count": 308,
+            "play_count": 24,
+            "highest_score": 1438509,
+            "picture": "526540.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 34,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "bruh"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T03:21:39.849Z"
+}
