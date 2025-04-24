@@ -1,0 +1,146 @@
+{
+  "id": 580942,
+  "username": "9953274_612",
+  "description": "no one likes japanese",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-04-23T08:04:39.000Z",
+  "date_last_played": "2021-07-25T16:05:24.000Z",
+  "profile_views": 0,
+  "kill_count": 1691,
+  "play_count": 376,
+  "highest_score": 2764031,
+  "picture": "580942.gif",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 162,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 580942,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T09:00:25.917Z",
+    "updated_at": "2025-04-24T09:00:26.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3020,
+          "user_id": 580942,
+          "cloneof_id": null,
+          "string_id": "777777777777",
+          "title": "Untitled",
+          "description": "hell",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 101,
+          "created_at": "2020-05-15T23:04:44.000Z",
+          "updated_at": "2020-05-15T23:04:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 580942,
+            "username": "9953274_612",
+            "description": "no one likes japanese",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-23T08:04:39.000Z",
+            "date_last_played": "2021-07-25T16:05:24.000Z",
+            "kill_count": 1691,
+            "play_count": 376,
+            "highest_score": 2764031,
+            "picture": "580942.gif",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 162,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hell"
+            },
+            {
+              "id": "welkom"
+            }
+          ]
+        },
+        {
+          "id": 2886,
+          "user_id": 580942,
+          "cloneof_id": null,
+          "string_id": "rererere",
+          "title": "Untitled",
+          "description": "hell",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 58,
+          "created_at": "2020-05-06T12:42:31.000Z",
+          "updated_at": "2020-05-06T12:42:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 580942,
+            "username": "9953274_612",
+            "description": "no one likes japanese",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-23T08:04:39.000Z",
+            "date_last_played": "2021-07-25T16:05:24.000Z",
+            "kill_count": 1691,
+            "play_count": 376,
+            "highest_score": 2764031,
+            "picture": "580942.gif",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 162,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "welcome to hell"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:00:25.972Z"
+}
