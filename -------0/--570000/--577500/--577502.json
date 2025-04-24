@@ -1,0 +1,97 @@
+{
+  "id": 577502,
+  "username": "Goredeus",
+  "description": "Walnut squid my beloved",
+  "about": "Walnut squid my beloved",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-04-14T23:08:13.000Z",
+  "date_last_played": "2023-12-13T05:30:59.000Z",
+  "profile_views": 7,
+  "kill_count": 15262,
+  "play_count": 1044,
+  "highest_score": 9504683,
+  "picture": "577502.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 80,
+  "tier": 3,
+  "xp": 139800,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 577502,
+    "rank_kc": 1175,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-14T23:19:19.000Z",
+    "rank_pc": 12577,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-14T23:19:21.000Z",
+    "rank_hs": 2885,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-14T23:19:24.000Z",
+    "created_at": "2024-01-06T03:09:24.000Z",
+    "updated_at": "2023-12-14T23:19:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1644,
+          "user_id": 577502,
+          "cloneof_id": null,
+          "string_id": "titans_grave_v6",
+          "title": "Titans Grave v6.5",
+          "description": "v6 - new background for center area",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 203,
+          "created_at": "2020-02-09T02:39:39.000Z",
+          "updated_at": "2020-08-04T21:57:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 577502,
+            "username": "Goredeus",
+            "description": "Walnut squid my beloved",
+            "about": "Walnut squid my beloved",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-14T23:08:13.000Z",
+            "date_last_played": "2023-12-13T05:30:59.000Z",
+            "kill_count": 15262,
+            "play_count": 1044,
+            "highest_score": 9504683,
+            "picture": "577502.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 80,
+            "tier": 3,
+            "xp": 139800,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "pd"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T08:38:14.165Z"
+}
