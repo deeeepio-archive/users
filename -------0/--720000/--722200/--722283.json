@@ -1,0 +1,244 @@
+{
+  "id": 722283,
+  "username": "Mintuli",
+  "description": "If you were a fruit you'd be a fineapple",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-08T15:04:53.000Z",
+  "date_last_played": "2020-08-09T15:54:48.000Z",
+  "profile_views": 0,
+  "kill_count": 1743,
+  "play_count": 1177,
+  "highest_score": 2371146,
+  "picture": "722283.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 293,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 722283,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T23:52:44.028Z",
+    "updated_at": "2025-04-24T23:52:44.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3934,
+          "user_id": 722283,
+          "cloneof_id": null,
+          "string_id": "my_map_1st_map",
+          "title": "My 1st map (The Underway World)",
+          "description": "My 1st Map but a little mistakes",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 30,
+          "created_at": "2020-08-06T13:01:34.000Z",
+          "updated_at": "2020-08-06T13:01:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 722283,
+            "username": "Mintuli",
+            "description": "If you were a fruit you'd be a fineapple",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-08T15:04:53.000Z",
+            "date_last_played": "2020-08-09T15:54:48.000Z",
+            "kill_count": 1743,
+            "play_count": 1177,
+            "highest_score": 2371146,
+            "picture": "722283.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 293,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1st Map"
+            }
+          ]
+        },
+        {
+          "id": 3183,
+          "user_id": 722283,
+          "cloneof_id": null,
+          "string_id": "111111",
+          "title": "1vs1 New Map",
+          "description": "The closed room is the player spawn and boost fill room. The room door will be disappered after the 2 player fill all the boosts. Then the boost room down Terrian will disapper. After, they will fight!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 19,
+          "created_at": "2020-05-28T15:09:57.000Z",
+          "updated_at": "2020-05-28T15:09:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 722283,
+            "username": "Mintuli",
+            "description": "If you were a fruit you'd be a fineapple",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-08T15:04:53.000Z",
+            "date_last_played": "2020-08-09T15:54:48.000Z",
+            "kill_count": 1743,
+            "play_count": 1177,
+            "highest_score": 2371146,
+            "picture": "722283.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 293,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1vs1"
+            },
+            {
+              "id": "Deeeep.io Map"
+            }
+          ]
+        },
+        {
+          "id": 3182,
+          "user_id": 722283,
+          "cloneof_id": null,
+          "string_id": "9999",
+          "title": "Artic Map for the new game mode, \"Tag\"",
+          "description": "It is for the new update \"Tag\" New Game Mode for Deeeep.io see whether the map is good for the game mode!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 80,
+          "created_at": "2020-05-28T14:29:33.000Z",
+          "updated_at": "2020-05-28T14:50:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 722283,
+            "username": "Mintuli",
+            "description": "If you were a fruit you'd be a fineapple",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-08T15:04:53.000Z",
+            "date_last_played": "2020-08-09T15:54:48.000Z",
+            "kill_count": 1743,
+            "play_count": 1177,
+            "highest_score": 2371146,
+            "picture": "722283.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 293,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "10 player"
+            },
+            {
+              "id": "Fun"
+            },
+            {
+              "id": "Tag"
+            }
+          ]
+        },
+        {
+          "id": 2536,
+          "user_id": 722283,
+          "cloneof_id": null,
+          "string_id": "mintuli",
+          "title": "The first map!",
+          "description": "Is the the first Map I made!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 46,
+          "created_at": "2020-04-09T15:22:40.000Z",
+          "updated_at": "2020-04-09T15:22:40.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 722283,
+            "username": "Mintuli",
+            "description": "If you were a fruit you'd be a fineapple",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-08T15:04:53.000Z",
+            "date_last_played": "2020-08-09T15:54:48.000Z",
+            "kill_count": 1743,
+            "play_count": 1177,
+            "highest_score": 2371146,
+            "picture": "722283.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 293,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Hi"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:52:44.086Z"
+}
