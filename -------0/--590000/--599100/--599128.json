@@ -1,0 +1,152 @@
+{
+  "id": 599128,
+  "username": "waytoobiased",
+  "description": "Thanks! I'm u/SelixReddit on Reddit if you'd like to find me there.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-25T19:52:33.000Z",
+  "date_last_played": "2025-03-22T08:52:49.000Z",
+  "profile_views": 8,
+  "kill_count": 983,
+  "play_count": 261,
+  "highest_score": 2370056,
+  "picture": "599128-cd2d0a5846b96339b5cfc8a2fb371a1f.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 257,
+  "tier": 2,
+  "xp": 38550,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 599128,
+    "rank_kc": 25239,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-20T03:27:27.000Z",
+    "rank_pc": 40640,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-20T03:27:27.000Z",
+    "rank_hs": 45150,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-20T03:27:28.000Z",
+    "created_at": "2025-03-22T08:52:49.000Z",
+    "updated_at": "2025-03-22T08:52:49.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1902,
+          "user_id": 599128,
+          "cloneof_id": 64,
+          "string_id": "newffa",
+          "title": "Selix's FFA Rework",
+          "description": "Feedback is always welcome.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": -1,
+          "objects": 1255,
+          "created_at": "2020-02-28T00:02:01.000Z",
+          "updated_at": "2020-03-01T17:53:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 599128,
+            "username": "waytoobiased",
+            "description": "Thanks! I'm u/SelixReddit on Reddit if you'd like to find me there.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-25T19:52:33.000Z",
+            "date_last_played": "2025-03-22T08:52:49.000Z",
+            "kill_count": 983,
+            "play_count": 261,
+            "highest_score": 2370056,
+            "picture": "599128-cd2d0a5846b96339b5cfc8a2fb371a1f.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 257,
+            "tier": 2,
+            "xp": 38550,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "revamp"
+            },
+            {
+              "id": "rework"
+            },
+            {
+              "id": "river"
+            }
+          ]
+        },
+        {
+          "id": 166,
+          "user_id": 599128,
+          "cloneof_id": null,
+          "string_id": "selixmap2",
+          "title": "My 1st actual attempt at a map",
+          "description": "Pathos, here I come. WIP",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 124,
+          "created_at": "2019-08-28T23:12:09.000Z",
+          "updated_at": "2019-10-01T23:59:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 599128,
+            "username": "waytoobiased",
+            "description": "Thanks! I'm u/SelixReddit on Reddit if you'd like to find me there.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-25T19:52:33.000Z",
+            "date_last_played": "2025-03-22T08:52:49.000Z",
+            "kill_count": 983,
+            "play_count": 261,
+            "highest_score": 2370056,
+            "picture": "599128-cd2d0a5846b96339b5cfc8a2fb371a1f.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 257,
+            "tier": 2,
+            "xp": 38550,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T10:49:27.852Z"
+}
