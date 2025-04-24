@@ -1,0 +1,397 @@
+{
+  "id": 585217,
+  "username": "TheLetterB",
+  "description": "i dont play this game and you also shouldnt ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-03T12:29:29.000Z",
+  "date_last_played": "2022-01-28T01:36:44.000Z",
+  "profile_views": 538,
+  "kill_count": 7702,
+  "play_count": 3174,
+  "highest_score": 3438947,
+  "picture": "585217-ce429f4f48e99cc9a1fd36db10a43c814.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 341,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 585217,
+    "rank_kc": 3566,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-17T00:41:53.000Z",
+    "rank_pc": 2906,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2024-01-17T00:41:57.000Z",
+    "rank_hs": 17088,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-17T00:41:59.000Z",
+    "created_at": "2024-01-19T12:30:39.000Z",
+    "updated_at": "2024-01-17T00:41:59.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6367,
+          "user_id": 585217,
+          "cloneof_id": null,
+          "string_id": "dumb_arcticpd",
+          "title": "Arctic PD",
+          "description": "it looks at least ok thanks to a whole ton of help from not a cat the mapmaker chad",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 123,
+          "created_at": "2021-03-26T17:06:36.000Z",
+          "updated_at": "2024-06-22T15:32:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 585217,
+            "username": "TheLetterB",
+            "description": "i dont play this game and you also shouldnt ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-03T12:29:29.000Z",
+            "date_last_played": "2022-01-28T01:36:44.000Z",
+            "kill_count": 7702,
+            "play_count": 3174,
+            "highest_score": 3438947,
+            "picture": "585217-ce429f4f48e99cc9a1fd36db10a43c814.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 341,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "crap"
+            },
+            {
+              "id": "garbage"
+            },
+            {
+              "id": "pd"
+            },
+            {
+              "id": "remove"
+            },
+            {
+              "id": "sucks"
+            },
+            {
+              "id": "trash"
+            },
+            {
+              "id": "worst"
+            }
+          ]
+        },
+        {
+          "id": 5965,
+          "user_id": 585217,
+          "cloneof_id": null,
+          "string_id": "dumb_space1v1",
+          "title": "1v1 in Space",
+          "description": "Idk, it's a low gravity map. <a:SwagcudaNitro:800433582346731567>",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 18,
+          "created_at": "2021-02-17T21:53:52.000Z",
+          "updated_at": "2024-06-22T15:32:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 585217,
+            "username": "TheLetterB",
+            "description": "i dont play this game and you also shouldnt ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-03T12:29:29.000Z",
+            "date_last_played": "2022-01-28T01:36:44.000Z",
+            "kill_count": 7702,
+            "play_count": 3174,
+            "highest_score": 3438947,
+            "picture": "585217-ce429f4f48e99cc9a1fd36db10a43c814.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 341,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "crap"
+            },
+            {
+              "id": "garbage"
+            },
+            {
+              "id": "remove"
+            },
+            {
+              "id": "space"
+            },
+            {
+              "id": "sucks"
+            },
+            {
+              "id": "trash"
+            },
+            {
+              "id": "worst"
+            }
+          ]
+        },
+        {
+          "id": 5246,
+          "user_id": 585217,
+          "cloneof_id": 3008,
+          "string_id": "dumb_ffatest",
+          "title": "FFA Test",
+          "description": "kinda bad ngl, arctic done only. also please shut about it being cloned from nac ffa, I only needed it for the habitats. <:Sporecuda:805523469483245629><a:SwagcudaNitro:800433582346731567>",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 363,
+          "created_at": "2020-12-12T16:58:18.000Z",
+          "updated_at": "2024-06-22T15:32:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 585217,
+            "username": "TheLetterB",
+            "description": "i dont play this game and you also shouldnt ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-03T12:29:29.000Z",
+            "date_last_played": "2022-01-28T01:36:44.000Z",
+            "kill_count": 7702,
+            "play_count": 3174,
+            "highest_score": 3438947,
+            "picture": "585217-ce429f4f48e99cc9a1fd36db10a43c814.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 341,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "crap"
+            },
+            {
+              "id": "garbage"
+            },
+            {
+              "id": "remove"
+            },
+            {
+              "id": "sucks"
+            },
+            {
+              "id": "trash"
+            },
+            {
+              "id": "worst"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": [
+      {
+        "id": 3747,
+        "version": 2,
+        "asset": "3747-2.png",
+        "created_at": "2023-12-17T21:52:51.000Z",
+        "updated_at": "2023-12-27T00:10:04.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 11,
+        "name": "Acro",
+        "description": "Acro is orca backwards, which is why the colour scheme is inverted. This was a remake of a ms paint submission to the creators center. The price was kept the same as the original.\nThis amazing skin idea came from deeeep.io user \"oldboy520\".\nAlso why did this get added to the game.",
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/comments/ljacto/killer_whale_acro_69c/",
+        "category": "unrealistic",
+        "season": null,
+        "on_sale": true,
+        "price": 69,
+        "sales": 113,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 585217,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 585217,
+          "username": "TheLetterB",
+          "description": "i dont play this game and you also shouldnt ",
+          "about": null,
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2019-05-03T12:29:29.000Z",
+          "date_last_played": "2022-01-28T01:36:44.000Z",
+          "kill_count": 7702,
+          "play_count": 3174,
+          "highest_score": 3438947,
+          "picture": "585217-ce429f4f48e99cc9a1fd36db10a43c814.png",
+          "displayPicture": true,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 341,
+          "tier": 1,
+          "xp": 0,
+          "migrated": true,
+          "verified": false,
+          "beta": false
+        }
+      },
+      {
+        "id": 3801,
+        "version": 1,
+        "asset": "3801-1.png",
+        "created_at": "2021-02-16T04:05:00.000Z",
+        "updated_at": "2022-08-08T05:01:28.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 86,
+        "name": "Garlin",
+        "description": "It's fast. It's strong. But best of all, it's uhh, err uhh...\nA mixture of Marlin and Gar. Made because I had a rant about marlin being unable to kill gar and my small brain decided to mix em together.",
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/comments/lkvb95/alligator_gar_garlin_gar_and_marlin_mix_300c/",
+        "category": "unrealistic",
+        "season": null,
+        "on_sale": true,
+        "price": 300,
+        "sales": 36,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 585217,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 585217,
+          "username": "TheLetterB",
+          "description": "i dont play this game and you also shouldnt ",
+          "about": null,
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2019-05-03T12:29:29.000Z",
+          "date_last_played": "2022-01-28T01:36:44.000Z",
+          "kill_count": 7702,
+          "play_count": 3174,
+          "highest_score": 3438947,
+          "picture": "585217-ce429f4f48e99cc9a1fd36db10a43c814.png",
+          "displayPicture": true,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 341,
+          "tier": 1,
+          "xp": 0,
+          "migrated": true,
+          "verified": false,
+          "beta": false
+        }
+      },
+      {
+        "id": 4745,
+        "version": 1,
+        "asset": "4745-1.png",
+        "created_at": "2021-03-21T20:37:39.000Z",
+        "updated_at": "2022-08-08T05:01:28.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 101,
+        "name": "Fox Shark",
+        "description": "Thresher sharks are also known as fox sharks. This was going to happen at one point or another.",
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/comments/ma5i8h/thresher_shark_fox_shark_150c/",
+        "category": "unrealistic",
+        "season": null,
+        "on_sale": true,
+        "price": 150,
+        "sales": 65,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 585217,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 585217,
+          "username": "TheLetterB",
+          "description": "i dont play this game and you also shouldnt ",
+          "about": null,
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2019-05-03T12:29:29.000Z",
+          "date_last_played": "2022-01-28T01:36:44.000Z",
+          "kill_count": 7702,
+          "play_count": 3174,
+          "highest_score": 3438947,
+          "picture": "585217-ce429f4f48e99cc9a1fd36db10a43c814.png",
+          "displayPicture": true,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 341,
+          "tier": 1,
+          "xp": 0,
+          "migrated": true,
+          "verified": false,
+          "beta": false
+        }
+      }
+    ]
+  },
+  "archived_at": "2025-04-24T09:26:44.461Z"
+}
