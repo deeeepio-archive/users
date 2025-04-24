@@ -1,0 +1,97 @@
+{
+  "id": 611811,
+  "username": "dragoncat350",
+  "description": "Nice...",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-30T05:47:54.000Z",
+  "date_last_played": "2024-12-05T12:14:50.000Z",
+  "profile_views": 2,
+  "kill_count": 2796,
+  "play_count": 769,
+  "highest_score": 4087472,
+  "picture": "611811.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 252,
+  "tier": 1,
+  "xp": 24750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 611811,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-12-05T12:14:50.000Z",
+    "updated_at": "2024-12-05T12:14:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1302,
+          "user_id": 611811,
+          "cloneof_id": null,
+          "string_id": "ez_map",
+          "title": "Ez_map",
+          "description": "Ez_map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 4,
+          "created_at": "2019-12-15T22:33:35.000Z",
+          "updated_at": "2019-12-15T22:33:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 611811,
+            "username": "dragoncat350",
+            "description": "Nice...",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-30T05:47:54.000Z",
+            "date_last_played": "2024-12-05T12:14:50.000Z",
+            "kill_count": 2796,
+            "play_count": 769,
+            "highest_score": 4087472,
+            "picture": "611811.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 252,
+            "tier": 1,
+            "xp": 24750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Ez_map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:06:04.108Z"
+}
