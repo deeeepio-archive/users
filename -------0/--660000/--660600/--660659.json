@@ -1,0 +1,71 @@
+{
+  "id": 660659,
+  "username": "Shloop",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-20T14:09:34.000Z",
+  "date_last_played": "2023-06-08T12:45:43.000Z",
+  "profile_views": 53,
+  "kill_count": 6122,
+  "play_count": 2032,
+  "highest_score": 4102561,
+  "picture": "660659-7f0b10d6a8efc2ac29686c9194261043610.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1007,
+  "tier": 6,
+  "xp": 400500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17642,
+      "user_id": 660659,
+      "platform_id": "dc",
+      "platform_user_id": "Shloop#2270",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-17T14:04:22.000Z",
+      "updated_at": "2023-04-17T14:04:22.000Z"
+    },
+    {
+      "id": 17643,
+      "user_id": 660659,
+      "platform_id": "tw",
+      "platform_user_id": "@HuiSt",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-17T14:04:35.000Z",
+      "updated_at": "2023-04-17T14:04:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 660659,
+    "rank_kc": 4119,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-07T13:54:41.000Z",
+    "rank_pc": 4854,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-07T13:54:42.000Z",
+    "rank_hs": 10745,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-07T13:54:43.000Z",
+    "created_at": "2023-08-18T09:42:13.000Z",
+    "updated_at": "2023-06-08T12:45:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T16:58:42.442Z"
+}
