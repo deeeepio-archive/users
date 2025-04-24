@@ -1,0 +1,97 @@
+{
+  "id": 658985,
+  "username": "Viera",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-16T13:45:00.000Z",
+  "date_last_played": "2019-11-16T13:45:00.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 658985,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T16:49:19.842Z",
+    "updated_at": "2025-04-24T16:49:20.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1131,
+          "user_id": 658985,
+          "cloneof_id": null,
+          "string_id": "world_1",
+          "title": "World 1",
+          "description": "World 1",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2019-11-16T14:24:51.000Z",
+          "updated_at": "2019-11-16T14:29:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 658985,
+            "username": "Viera",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-16T13:45:00.000Z",
+            "date_last_played": "2019-11-16T13:45:00.000Z",
+            "kill_count": 0,
+            "play_count": 0,
+            "highest_score": 0,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#First world"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T16:49:19.900Z"
+}
