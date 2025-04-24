@@ -1,0 +1,71 @@
+{
+  "id": 588499,
+  "username": "Arrow_1937",
+  "description": "Idk man.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-08T17:15:39.000Z",
+  "date_last_played": "2020-08-22T21:05:26.000Z",
+  "profile_views": 12,
+  "kill_count": 359,
+  "play_count": 37,
+  "highest_score": 1382214,
+  "picture": "588499-d729c75a77f66052e165b77104c4dccee.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5573,
+      "user_id": 588499,
+      "platform_id": "dc",
+      "platform_user_id": "Arrow_1937#5963",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-25T01:35:20.000Z",
+      "updated_at": "2022-08-25T01:35:20.000Z"
+    },
+    {
+      "id": 5572,
+      "user_id": 588499,
+      "platform_id": "rd",
+      "platform_user_id": "Arrow_1937",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-25T01:34:51.000Z",
+      "updated_at": "2022-08-25T01:34:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 588499,
+    "rank_kc": 44629,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-25T00:23:33.000Z",
+    "rank_pc": 88798,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-25T00:23:33.000Z",
+    "rank_hs": 51978,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-25T00:23:34.000Z",
+    "created_at": "2023-09-25T03:12:09.000Z",
+    "updated_at": "2022-08-25T00:23:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:45:49.150Z"
+}
