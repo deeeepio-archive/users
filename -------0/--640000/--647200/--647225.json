@@ -1,0 +1,65 @@
+{
+  "id": 647225,
+  "username": "Luccas_TKS",
+  "description": "Ixi",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-23T21:20:36.000Z",
+  "date_last_played": "2025-04-03T21:53:06.000Z",
+  "profile_views": 37,
+  "kill_count": 1047,
+  "play_count": 583,
+  "highest_score": 2625821,
+  "picture": "647225-82e1036f93399e5817ae3c464d451bdf8.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 336,
+  "tier": 4,
+  "xp": 233250,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 13274,
+      "user_id": 647225,
+      "platform_id": "ig",
+      "platform_user_id": "luccasspv",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-15T14:31:51.000Z",
+      "updated_at": "2023-01-15T14:31:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 647225,
+    "rank_kc": 27489,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-15T14:33:36.000Z",
+    "rank_pc": 22137,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-15T14:33:43.000Z",
+    "rank_hs": 22648,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-15T14:33:52.000Z",
+    "created_at": "2025-04-03T21:53:05.000Z",
+    "updated_at": "2025-04-03T21:53:06.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:37:12.977Z"
+}
