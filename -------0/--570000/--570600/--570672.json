@@ -1,0 +1,61 @@
+{
+  "id": 570672,
+  "username": "8436013_628",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-03-30T09:45:02.000Z",
+  "date_last_played": "2023-04-28T06:07:49.000Z",
+  "profile_views": 9,
+  "kill_count": 584,
+  "play_count": 48,
+  "highest_score": 2005260,
+  "picture": "570672.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 538,
+  "tier": 1,
+  "xp": 150,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26460,
+      "user_id": 570672,
+      "platform_id": "dc",
+      "platform_user_id": "i.messyk",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-14T13:16:19.000Z",
+      "updated_at": "2023-09-14T13:16:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 570672,
+    "rank_kc": 39288,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-14T13:16:39.000Z",
+    "rank_pc": 107444,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-14T13:16:41.000Z",
+    "rank_hs": 39456,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-14T13:16:43.000Z",
+    "created_at": "2023-10-25T02:24:46.000Z",
+    "updated_at": "2023-09-14T16:00:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T07:54:39.675Z"
+}
