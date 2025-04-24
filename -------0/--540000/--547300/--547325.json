@@ -1,0 +1,71 @@
+{
+  "id": 547325,
+  "username": "Daft",
+  "description": "o7",
+  "about": "Artist and game dev",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2018-12-24T23:40:44.000Z",
+  "date_last_played": "2023-09-06T23:27:37.000Z",
+  "profile_views": 18,
+  "kill_count": 21856,
+  "play_count": 2726,
+  "highest_score": 5319051,
+  "picture": "547325-10e1f40201a5e45afbe510ff3541c48fc9.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1323,
+  "tier": 2,
+  "xp": 43650,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8040,
+      "user_id": 547325,
+      "platform_id": "dc",
+      "platform_user_id": "zelyko",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-13T15:01:20.000Z",
+      "updated_at": "2023-07-20T03:59:07.000Z"
+    },
+    {
+      "id": 8041,
+      "user_id": 547325,
+      "platform_id": "tw",
+      "platform_user_id": "@zelyko",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-13T15:01:59.000Z",
+      "updated_at": "2023-07-20T03:59:14.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 547325,
+    "rank_kc": 543,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-05T23:40:47.000Z",
+    "rank_pc": 3384,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-05T23:40:48.000Z",
+    "rank_hs": 6960,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-05T23:40:49.000Z",
+    "created_at": "2023-09-24T03:26:51.000Z",
+    "updated_at": "2023-09-06T23:27:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T05:29:55.693Z"
+}
