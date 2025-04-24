@@ -1,0 +1,106 @@
+{
+  "id": 606178,
+  "username": "Marsarus",
+  "description": "While you are dead, I recommend checking out Breaking Bad.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-08T16:01:05.000Z",
+  "date_last_played": "2023-02-24T06:58:44.000Z",
+  "profile_views": 7,
+  "kill_count": 523,
+  "play_count": 185,
+  "highest_score": 886428,
+  "picture": "606178-65ac0b29cecb88d2ac1e822b645109819.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 21,
+  "tier": 1,
+  "xp": 6600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 606178,
+    "rank_kc": 36232,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-05T14:58:21.000Z",
+    "rank_pc": 38978,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-05T14:58:24.000Z",
+    "rank_hs": 83643,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-05T14:58:26.000Z",
+    "created_at": "2023-08-29T08:05:10.000Z",
+    "updated_at": "2023-02-24T06:58:44.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2331,
+          "user_id": 606178,
+          "cloneof_id": null,
+          "string_id": "shipwreck_reef",
+          "title": "Deeeep Reef of Wrecks",
+          "description": "a nice deeeep cove filled with a beautiful reef and destroyed shipwrecks",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 55,
+          "created_at": "2020-03-28T19:46:55.000Z",
+          "updated_at": "2020-03-28T19:46:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 606178,
+            "username": "Marsarus",
+            "description": "While you are dead, I recommend checking out Breaking Bad.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-08T16:01:05.000Z",
+            "date_last_played": "2023-02-24T06:58:44.000Z",
+            "kill_count": 523,
+            "play_count": 185,
+            "highest_score": 886428,
+            "picture": "606178-65ac0b29cecb88d2ac1e822b645109819.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 21,
+            "tier": 1,
+            "xp": 6600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "cove"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "shipwreck"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:31:51.047Z"
+}
