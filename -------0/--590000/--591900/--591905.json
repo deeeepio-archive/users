@@ -1,0 +1,161 @@
+{
+  "id": 591905,
+  "username": "Terry_the_Terror",
+  "description": "\"The action or fact of dying or being killed; the end of the life of a person or organism.\"",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-14T01:31:12.000Z",
+  "date_last_played": "2024-12-20T03:24:24.000Z",
+  "profile_views": 8,
+  "kill_count": 2242,
+  "play_count": 757,
+  "highest_score": 1274448,
+  "picture": "591905.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 78,
+  "tier": 1,
+  "xp": 9000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 591905,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-12-20T03:24:23.000Z",
+    "updated_at": "2024-12-20T03:24:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1698,
+          "user_id": 591905,
+          "cloneof_id": null,
+          "string_id": "laaaand_io_v1",
+          "title": "laaaand.io",
+          "description": "A land theme map for an ocean themed game",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1403,
+          "created_at": "2020-02-13T23:23:34.000Z",
+          "updated_at": "2020-02-15T00:27:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 591905,
+            "username": "Terry_the_Terror",
+            "description": "\"The action or fact of dying or being killed; the end of the life of a person or organism.\"",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-14T01:31:12.000Z",
+            "date_last_played": "2024-12-20T03:24:24.000Z",
+            "kill_count": 2242,
+            "play_count": 757,
+            "highest_score": 1274448,
+            "picture": "591905.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 78,
+            "tier": 1,
+            "xp": 9000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "laaaand.io"
+            },
+            {
+              "id": "land"
+            },
+            {
+              "id": "no ocean"
+            }
+          ]
+        },
+        {
+          "id": 1680,
+          "user_id": 591905,
+          "cloneof_id": null,
+          "string_id": "nope_nope_nope",
+          "title": "Reach for the stars",
+          "description": "But beware of the ropes of nope",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 428,
+          "created_at": "2020-02-12T01:04:18.000Z",
+          "updated_at": "2020-02-14T20:12:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 591905,
+            "username": "Terry_the_Terror",
+            "description": "\"The action or fact of dying or being killed; the end of the life of a person or organism.\"",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-14T01:31:12.000Z",
+            "date_last_played": "2024-12-20T03:24:24.000Z",
+            "kill_count": 2242,
+            "play_count": 757,
+            "highest_score": 1274448,
+            "picture": "591905.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 78,
+            "tier": 1,
+            "xp": 9000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "bobbit worm"
+            },
+            {
+              "id": "floating island"
+            },
+            {
+              "id": "levitating water"
+            },
+            {
+              "id": "regular island"
+            },
+            {
+              "id": "volcano"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T10:05:39.668Z"
+}
