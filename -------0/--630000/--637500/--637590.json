@@ -1,0 +1,188 @@
+{
+  "id": 637590,
+  "username": "5252293_712",
+  "description": "g note",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-09-29T04:37:00.000Z",
+  "date_last_played": "2020-05-16T16:24:23.000Z",
+  "profile_views": 0,
+  "kill_count": 212,
+  "play_count": 4,
+  "highest_score": 524028,
+  "picture": "637590.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 36,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 637590,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T14:38:46.956Z",
+    "updated_at": "2025-04-24T14:38:47.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 679,
+          "user_id": 637590,
+          "cloneof_id": null,
+          "string_id": "meet_the_babadook_",
+          "title": "Meet The Babadook :)",
+          "description": "You can never escape the Babadook :)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2019-09-29T04:52:49.000Z",
+          "updated_at": "2019-09-29T04:52:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 637590,
+            "username": "5252293_712",
+            "description": "g note",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-29T04:37:00.000Z",
+            "date_last_played": "2020-05-16T16:24:23.000Z",
+            "kill_count": 212,
+            "play_count": 4,
+            "highest_score": 524028,
+            "picture": "637590.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 36,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "area 51"
+            },
+            {
+              "id": "babadook"
+            },
+            {
+              "id": "funny"
+            },
+            {
+              "id": "lock"
+            },
+            {
+              "id": "memes"
+            },
+            {
+              "id": "oof"
+            },
+            {
+              "id": "wren"
+            }
+          ]
+        },
+        {
+          "id": 678,
+          "user_id": 637590,
+          "cloneof_id": null,
+          "string_id": "the_world_of_the_babadook",
+          "title": "Meet The Babadook :)",
+          "description": "You can never escape the Babadook :)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2019-09-29T04:49:52.000Z",
+          "updated_at": "2019-09-29T04:49:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 637590,
+            "username": "5252293_712",
+            "description": "g note",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-29T04:37:00.000Z",
+            "date_last_played": "2020-05-16T16:24:23.000Z",
+            "kill_count": 212,
+            "play_count": 4,
+            "highest_score": 524028,
+            "picture": "637590.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 36,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "area 51 "
+            },
+            {
+              "id": "babadook"
+            },
+            {
+              "id": "dead"
+            },
+            {
+              "id": "fuck"
+            },
+            {
+              "id": "happy"
+            },
+            {
+              "id": "memes"
+            },
+            {
+              "id": "oof "
+            },
+            {
+              "id": "raid"
+            },
+            {
+              "id": "scary"
+            },
+            {
+              "id": "thanos"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T14:38:47.027Z"
+}
