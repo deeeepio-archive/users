@@ -1,0 +1,108 @@
+{
+  "id": 666272,
+  "username": "voltgojjj",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-12-01T01:40:00.000Z",
+  "date_last_played": "2025-04-01T00:54:47.000Z",
+  "profile_views": 23,
+  "kill_count": 4490,
+  "play_count": 1468,
+  "highest_score": 3243137,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 77,
+  "tier": 1,
+  "xp": 10800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5397,
+      "user_id": 666272,
+      "platform_id": "dc",
+      "platform_user_id": "Wonjun D.K#7681",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-22T00:44:50.000Z",
+      "updated_at": "2022-08-22T00:44:50.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 666272,
+    "rank_kc": 6208,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-07T03:04:05.000Z",
+    "rank_pc": 7460,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-07T03:04:07.000Z",
+    "rank_hs": 17045,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-07T03:04:09.000Z",
+    "created_at": "2025-04-01T00:54:47.000Z",
+    "updated_at": "2025-04-01T00:54:47.000Z",
+    "pd": {
+      "played": 4,
+      "won": 2,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2184,
+          "user_id": 666272,
+          "cloneof_id": null,
+          "string_id": "ahaahahahahhahah",
+          "title": "Untitled",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 14,
+          "created_at": "2020-03-17T20:08:46.000Z",
+          "updated_at": "2020-03-17T20:30:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 666272,
+            "username": "voltgojjj",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-12-01T01:40:00.000Z",
+            "date_last_played": "2025-04-01T00:54:47.000Z",
+            "kill_count": 4490,
+            "play_count": 1468,
+            "highest_score": 3243137,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 77,
+            "tier": 1,
+            "xp": 10800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T17:36:51.909Z"
+}
