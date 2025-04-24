@@ -1,0 +1,97 @@
+{
+  "id": 673323,
+  "username": "Arcski",
+  "description": "Holler if ya hear me!",
+  "about": "I prefer to play this game casually. Whatever main. 2017 player who has been inactive for the longest of time.\n\n2Pacalypse Now",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-12-19T01:01:48.000Z",
+  "date_last_played": "2025-02-11T00:59:55.000Z",
+  "profile_views": 92,
+  "kill_count": 115,
+  "play_count": 87,
+  "highest_score": 3622555,
+  "picture": "673323-a29abf4a4b2e8ef1016ba44578186d9105-65a518ee-546b-407c-b4cd-937e452bb704.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 301,
+  "tier": 2,
+  "xp": 65700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 14741,
+      "user_id": 673323,
+      "platform_id": "dc",
+      "platform_user_id": "arcski#0",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-08T22:01:58.000Z",
+      "updated_at": "2023-08-12T22:05:54.000Z"
+    },
+    {
+      "id": 14743,
+      "user_id": 673323,
+      "platform_id": "tc",
+      "platform_user_id": "Arcski71",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-08T22:02:59.000Z",
+      "updated_at": "2024-06-15T22:55:20.000Z"
+    },
+    {
+      "id": 14742,
+      "user_id": 673323,
+      "platform_id": "tw",
+      "platform_user_id": "arcski64",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-08T22:02:09.000Z",
+      "updated_at": "2023-08-12T22:06:07.000Z"
+    },
+    {
+      "id": 24432,
+      "user_id": 673323,
+      "platform_id": "yt",
+      "platform_user_id": "ArcskiWii",
+      "platform_user_url": "https://www.youtube.com/@ArcskiWSS",
+      "verified": false,
+      "created_at": "2023-08-12T22:06:33.000Z",
+      "updated_at": "2023-08-12T22:06:33.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 673323,
+    "rank_kc": 145378,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-27T01:42:56.000Z",
+    "rank_pc": 98536,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-27T01:42:57.000Z",
+    "rank_hs": 35603,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-27T01:42:58.000Z",
+    "created_at": "2025-02-11T00:59:55.000Z",
+    "updated_at": "2025-02-11T00:59:55.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T18:18:19.803Z"
+}
