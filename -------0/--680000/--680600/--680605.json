@@ -1,0 +1,97 @@
+{
+  "id": 680605,
+  "username": "TheDinosaur",
+  "description": "Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying! ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-01-12T18:50:55.000Z",
+  "date_last_played": "2025-02-13T02:55:14.000Z",
+  "profile_views": 44,
+  "kill_count": 601,
+  "play_count": 761,
+  "highest_score": 1851654,
+  "picture": "680605-c294b965f4193ca6032f4145c3810f815-a16457ad-ed1c-44bc-9cf8-1b3d2e089158.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 63,
+  "tier": 3,
+  "xp": 137100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 680605,
+    "rank_kc": 42734,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-29T16:55:07.000Z",
+    "rank_pc": 18437,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-29T16:55:08.000Z",
+    "rank_hs": 42345,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-29T16:55:09.000Z",
+    "created_at": "2025-02-13T02:55:13.000Z",
+    "updated_at": "2025-02-13T02:55:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11735,
+          "user_id": 680605,
+          "cloneof_id": null,
+          "string_id": "handy",
+          "title": "Teir Ten Island",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 33,
+          "created_at": "2023-02-09T03:44:49.000Z",
+          "updated_at": "2023-04-07T00:15:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 680605,
+            "username": "TheDinosaur",
+            "description": "Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying Stop Bullying! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-01-12T18:50:55.000Z",
+            "date_last_played": "2025-02-13T02:55:14.000Z",
+            "kill_count": 601,
+            "play_count": 761,
+            "highest_score": 1851654,
+            "picture": "680605-c294b965f4193ca6032f4145c3810f815-a16457ad-ed1c-44bc-9cf8-1b3d2e089158.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 63,
+            "tier": 3,
+            "xp": 137100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Teir Ten"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T19:07:29.855Z"
+}
