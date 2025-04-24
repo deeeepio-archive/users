@@ -1,0 +1,852 @@
+{
+  "id": 650971,
+  "username": "Hintz_seasons",
+  "description": "Wenomechainsama",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-01T21:42:18.000Z",
+  "date_last_played": "2022-10-21T01:47:39.000Z",
+  "profile_views": 10,
+  "kill_count": 1876,
+  "play_count": 1072,
+  "highest_score": 1941135,
+  "picture": "650971.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 54,
+  "tier": 1,
+  "xp": 14700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 650971,
+    "rank_kc": 12136,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-05-26T23:33:51.000Z",
+    "rank_pc": 8094,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-05-26T23:33:51.000Z",
+    "rank_hs": 31096,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-05-26T22:02:53.000Z",
+    "created_at": "2022-11-11T17:09:22.000Z",
+    "updated_at": "2022-10-21T01:47:39.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7040,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "hintz_map_2",
+          "title": "Hintz FFA v2 (WIP)",
+          "description": "Just for fun. I probably will prioritize the first one still.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 19,
+          "created_at": "2021-06-02T21:20:02.000Z",
+          "updated_at": "2021-06-02T22:04:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "Hintz"
+            }
+          ]
+        },
+        {
+          "id": 5394,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "swamp_hintz_map_",
+          "title": "(1v1) Swamp Sanctuary ",
+          "description": "lots'a platforms ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 51,
+          "created_at": "2020-12-26T23:21:13.000Z",
+          "updated_at": "2021-01-01T23:32:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Hintz"
+            },
+            {
+              "id": "platforms"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 5360,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "whalesong_arctic_map_2",
+          "title": "Whalesong story map (WIP)",
+          "description": "Another attempt on my story map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 31,
+          "created_at": "2020-12-20T21:56:22.000Z",
+          "updated_at": "2020-12-20T21:56:23.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Story"
+            }
+          ]
+        },
+        {
+          "id": 4755,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "idk_random_ffa_hintz_",
+          "title": "Hintz FFA (or TFFA)",
+          "description": "It is now complete (for the most part).",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 2299,
+          "created_at": "2020-11-04T19:32:33.000Z",
+          "updated_at": "2021-10-07T17:46:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "Hintz"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 3973,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "Whalesong_arctic_map_story",
+          "title": "Whalesong story map (WIP)",
+          "description": "A map for the stories I'm working on in deeeep.io Legends",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 136,
+          "created_at": "2020-08-11T00:59:00.000Z",
+          "updated_at": "2020-08-14T00:16:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Arctic"
+            },
+            {
+              "id": "hintz"
+            },
+            {
+              "id": "Whalesong"
+            }
+          ]
+        },
+        {
+          "id": 3629,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "1v1_kelp_forest_cave_hintz",
+          "title": "(1v1) Kelp cave",
+          "description": "eh",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 37,
+          "created_at": "2020-07-07T02:43:28.000Z",
+          "updated_at": "2020-07-07T02:43:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cave"
+            },
+            {
+              "id": "gloomy"
+            },
+            {
+              "id": "Hintz"
+            },
+            {
+              "id": "kelp"
+            }
+          ]
+        },
+        {
+          "id": 2552,
+          "user_id": 650971,
+          "cloneof_id": 2541,
+          "string_id": "elecrtro_arena_v2",
+          "title": "(Campaign) Electro's Arena V2",
+          "description": "it's exactly what the title says",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 65,
+          "created_at": "2020-04-10T19:10:39.000Z",
+          "updated_at": "2020-04-10T23:11:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Campaign"
+            },
+            {
+              "id": "intz"
+            }
+          ]
+        },
+        {
+          "id": 2545,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "campaign_boss_area_",
+          "title": "(campaign) Boss area (WIP)",
+          "description": "campaign map for u/whoatherebuddycoolit",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 59,
+          "created_at": "2020-04-10T00:05:41.000Z",
+          "updated_at": "2020-04-10T00:05:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Hintz campaign"
+            }
+          ]
+        },
+        {
+          "id": 2541,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "hintz_campaign_electro_arena_v1",
+          "title": "(Campaign) Electro's Arena",
+          "description": "campaign map for u/whoatherebuddycoolit",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 63,
+          "created_at": "2020-04-09T22:43:21.000Z",
+          "updated_at": "2020-04-09T22:43:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "arena"
+            },
+            {
+              "id": "campaign"
+            },
+            {
+              "id": "electro"
+            },
+            {
+              "id": "hintz"
+            }
+          ]
+        },
+        {
+          "id": 2528,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "1v1_hintz_cave_stalactites_idk",
+          "title": "(1v1) Twisted cave",
+          "description": "inspired by some other maps I've seen (don't remember who made them :p)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 37,
+          "created_at": "2020-04-08T23:34:15.000Z",
+          "updated_at": "2021-03-01T16:27:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cave"
+            },
+            {
+              "id": "cavern"
+            },
+            {
+              "id": "chaos"
+            },
+            {
+              "id": "hintz"
+            },
+            {
+              "id": "stalactite"
+            },
+            {
+              "id": "stalagmite"
+            }
+          ]
+        },
+        {
+          "id": 2157,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "1v1_blank_gecko_",
+          "title": "(1v1) solitude",
+          "description": "yep...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 6,
+          "created_at": "2020-03-15T19:19:59.000Z",
+          "updated_at": "2020-03-15T19:20:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "blank"
+            },
+            {
+              "id": "hintz"
+            },
+            {
+              "id": "white"
+            }
+          ]
+        },
+        {
+          "id": 2156,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "1v1_deep_dark_gecko",
+          "title": "(1v1) the deeeep dark abyss",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 26,
+          "created_at": "2020-03-15T19:12:10.000Z",
+          "updated_at": "2021-01-01T23:44:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "dark"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "hintz"
+            }
+          ]
+        },
+        {
+          "id": 2132,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "havoc_1v1_gecko_",
+          "title": "(1v1) H a v o c   ",
+          "description": "uhhh... yeah...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 45,
+          "created_at": "2020-03-14T03:35:53.000Z",
+          "updated_at": "2020-03-14T16:09:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "crazy"
+            },
+            {
+              "id": "havoc"
+            },
+            {
+              "id": "hintz"
+            }
+          ]
+        },
+        {
+          "id": 2129,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "1v1_volcano_magma_gecko_idk_",
+          "title": "(1v1) volcanic cavern v2",
+          "description": "It's like a hot tub, maybe a bit hotter...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 34,
+          "created_at": "2020-03-14T02:43:45.000Z",
+          "updated_at": "2021-01-01T23:40:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "cavern"
+            },
+            {
+              "id": "hintz"
+            },
+            {
+              "id": "volano"
+            }
+          ]
+        },
+        {
+          "id": 1901,
+          "user_id": 650971,
+          "cloneof_id": null,
+          "string_id": "1v1_upside_down_gecko",
+          "title": "(1v1) Upside-down arena",
+          "description": "I guess I just like upside-down things...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 31,
+          "created_at": "2020-02-27T23:49:52.000Z",
+          "updated_at": "2020-02-27T23:49:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650971,
+            "username": "Hintz_seasons",
+            "description": "Wenomechainsama",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T21:42:18.000Z",
+            "date_last_played": "2022-10-21T01:47:39.000Z",
+            "kill_count": 1876,
+            "play_count": 1072,
+            "highest_score": 1941135,
+            "picture": "650971.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Hintz"
+            },
+            {
+              "id": "Upside-down"
+            }
+          ]
+        }
+      ],
+      "count": 24
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T16:01:14.284Z"
+}
