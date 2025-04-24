@@ -1,0 +1,100 @@
+{
+  "id": 606381,
+  "username": "rlp596371",
+  "description": "good luck",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-09T06:56:44.000Z",
+  "date_last_played": "2025-01-03T15:28:56.000Z",
+  "profile_views": 11,
+  "kill_count": 1417,
+  "play_count": 1019,
+  "highest_score": 2125063,
+  "picture": "606381.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 140,
+  "tier": 2,
+  "xp": 50700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 606381,
+    "rank_kc": 16680,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-10T11:09:08.000Z",
+    "rank_pc": 11128,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-10T11:09:09.000Z",
+    "rank_hs": 27519,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-10T11:09:09.000Z",
+    "created_at": "2025-01-03T15:28:56.000Z",
+    "updated_at": "2025-01-03T15:28:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 909,
+          "user_id": 606381,
+          "cloneof_id": null,
+          "string_id": "ghjgijgjhygjyjygjgyjy",
+          "title": "dud",
+          "description": "no description",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 23,
+          "created_at": "2019-10-25T14:10:37.000Z",
+          "updated_at": "2019-10-25T14:10:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 606381,
+            "username": "rlp596371",
+            "description": "good luck",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-09T06:56:44.000Z",
+            "date_last_played": "2025-01-03T15:28:56.000Z",
+            "kill_count": 1417,
+            "play_count": 1019,
+            "highest_score": 2125063,
+            "picture": "606381.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 140,
+            "tier": 2,
+            "xp": 50700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "57656"
+            },
+            {
+              "id": "hju"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:33:11.785Z"
+}
