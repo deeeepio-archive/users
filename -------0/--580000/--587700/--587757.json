@@ -1,0 +1,810 @@
+{
+  "id": 587757,
+  "username": "ya_boi_ta",
+  "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+  "about": "E",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-07T17:19:45.000Z",
+  "date_last_played": "2022-11-23T20:46:32.000Z",
+  "profile_views": 8,
+  "kill_count": 9493,
+  "play_count": 2942,
+  "highest_score": 2615297,
+  "picture": "587757.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1299,
+  "tier": 1,
+  "xp": 2250,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 587757,
+    "rank_kc": 1969,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-23T20:46:39.000Z",
+    "rank_pc": 2390,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-23T20:46:40.000Z",
+    "rank_hs": 22076,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-23T20:31:49.000Z",
+    "created_at": "2022-12-02T01:32:24.000Z",
+    "updated_at": "2022-11-23T20:46:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7451,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "to_scale_boiz",
+          "title": "Mariana trench 2 (to scale)",
+          "description": "this map is very large.....",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 258,
+          "created_at": "2021-07-29T01:14:13.000Z",
+          "updated_at": "2021-07-29T01:18:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "amongus"
+            },
+            {
+              "id": "big"
+            },
+            {
+              "id": "cool"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "huge"
+            },
+            {
+              "id": "humongus"
+            },
+            {
+              "id": "large"
+            },
+            {
+              "id": "massive"
+            },
+            {
+              "id": "sus"
+            }
+          ]
+        },
+        {
+          "id": 5879,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "arctic_project",
+          "title": "arctic map WIP",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 16,
+          "created_at": "2021-02-11T06:10:44.000Z",
+          "updated_at": "2021-02-11T06:10:45.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 5204,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "cool_vol_map",
+          "title": "Average volcano map (unfinished)",
+          "description": "this map is an attempt to create an actually good ffa map, hope you enjoy",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 152,
+          "created_at": "2020-12-09T19:52:29.000Z",
+          "updated_at": "2021-07-01T00:14:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cool"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "free for all"
+            },
+            {
+              "id": "good"
+            },
+            {
+              "id": "volcano"
+            }
+          ]
+        },
+        {
+          "id": 3218,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "paradise_falls",
+          "title": "nice ffa map (unfinished)",
+          "description": "there is a gross part and a good part",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 85,
+          "created_at": "2020-05-31T02:33:42.000Z",
+          "updated_at": "2020-06-17T00:29:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "clean"
+            },
+            {
+              "id": "dirty"
+            },
+            {
+              "id": "falling"
+            },
+            {
+              "id": "good"
+            },
+            {
+              "id": "gross"
+            },
+            {
+              "id": "paradise"
+            },
+            {
+              "id": "transformation"
+            },
+            {
+              "id": "ya boi (TAD)"
+            }
+          ]
+        },
+        {
+          "id": 3200,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "stormy",
+          "title": "Stormy Seas",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 442,
+          "created_at": "2020-05-29T05:02:15.000Z",
+          "updated_at": "2021-05-05T00:18:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 3161,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "ya_boi_tad_3868",
+          "title": "Small ffa map (hanging lakes)",
+          "description": "a small experimental ffa map featuring a bunch of floating lakes",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 237,
+          "created_at": "2020-05-27T21:49:04.000Z",
+          "updated_at": "2021-05-05T00:15:37.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cool"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "free for all"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "hanging lakes"
+            }
+          ]
+        },
+        {
+          "id": 2723,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "pearl_defence_1",
+          "title": "cool pearl defense map",
+          "description": "You will love it so much",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 181,
+          "created_at": "2020-04-24T01:39:34.000Z",
+          "updated_at": "2020-04-30T01:25:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "good "
+            }
+          ]
+        },
+        {
+          "id": 1619,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "you_spin_me_right_round_baby",
+          "title": "THE 1ST DEEEEP.IO ROLLER COASTER",
+          "description": "a fully finctoinal roller coaster that gives you food on the way",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 39,
+          "created_at": "2020-02-07T03:30:38.000Z",
+          "updated_at": "2020-02-07T03:30:40.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "awesome"
+            },
+            {
+              "id": "best"
+            },
+            {
+              "id": "cool"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "good"
+            },
+            {
+              "id": "roller coaster"
+            }
+          ]
+        },
+        {
+          "id": 993,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "it_got_bugg",
+          "title": "toadss",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 16,
+          "created_at": "2019-11-02T02:53:19.000Z",
+          "updated_at": "2019-11-30T23:13:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "a j jh h "
+            }
+          ]
+        },
+        {
+          "id": 551,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "ya_boi_tad_8",
+          "title": "good luck",
+          "description": "that is all i have to say",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 29,
+          "created_at": "2019-09-16T05:30:10.000Z",
+          "updated_at": "2019-10-01T01:40:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#cool"
+            },
+            {
+              "id": "#hard"
+            },
+            {
+              "id": "#multiworld"
+            },
+            {
+              "id": "#survival"
+            }
+          ]
+        },
+        {
+          "id": 507,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "ya_boi_tad_7",
+          "title": "Fun Map!!!",
+          "description": "You will love it so much",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 7,
+          "created_at": "2019-09-14T02:25:00.000Z",
+          "updated_at": "2020-05-27T20:40:23.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#hehehe"
+            }
+          ]
+        },
+        {
+          "id": 280,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "my_brothers_map",
+          "title": "island mc island",
+          "description": "it needs work",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 9,
+          "created_at": "2019-09-01T02:55:47.000Z",
+          "updated_at": "2019-09-01T02:55:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 228,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "ya_boi_tad_5",
+          "title": "weird map",
+          "description": "the deep is in the sky",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 9,
+          "created_at": "2019-08-30T02:11:59.000Z",
+          "updated_at": "2019-08-30T02:12:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 210,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "ya_boi_tad_4",
+          "title": "the smallest map",
+          "description": "world dimensions are 1x1",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 6,
+          "created_at": "2019-08-29T20:28:13.000Z",
+          "updated_at": "2020-05-29T05:14:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 209,
+          "user_id": 587757,
+          "cloneof_id": null,
+          "string_id": "ya_boi_tad_3",
+          "title": "lava",
+          "description": "just found out you can change the water color",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 7,
+          "created_at": "2019-08-29T20:17:25.000Z",
+          "updated_at": "2019-08-29T20:17:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 587757,
+            "username": "ya_boi_ta",
+            "description": "i write music y'alls\n\ncheck out my soundcloud\nhttps://soundcloud.com/eddrikdub",
+            "about": "E",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-07T17:19:45.000Z",
+            "date_last_played": "2022-11-23T20:46:32.000Z",
+            "kill_count": 9493,
+            "play_count": 2942,
+            "highest_score": 2615297,
+            "picture": "587757.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1299,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 17
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:41:27.513Z"
+}
