@@ -1,0 +1,54 @@
+{
+  "id": 702611,
+  "username": "DemoFlight",
+  "description": "Get back up and try again.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-24T17:26:03.000Z",
+  "date_last_played": "2025-04-22T13:09:25.000Z",
+  "profile_views": 56,
+  "kill_count": 1341,
+  "play_count": 1806,
+  "highest_score": 1590468,
+  "picture": "702611.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 243,
+  "tier": 3,
+  "xp": 113400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 702611,
+    "rank_kc": 36467,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-17T16:37:22.000Z",
+    "rank_pc": 8945,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-17T16:37:26.000Z",
+    "rank_hs": 55282,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-17T16:37:30.000Z",
+    "created_at": "2025-04-22T13:09:24.000Z",
+    "updated_at": "2025-04-22T13:09:25.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T21:46:24.815Z"
+}
