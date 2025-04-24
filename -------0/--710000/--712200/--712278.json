@@ -1,0 +1,97 @@
+{
+  "id": 712278,
+  "username": "nicoplayz",
+  "description": "i am sorry but thank you for your coins.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-14T20:30:39.000Z",
+  "date_last_played": "2020-08-23T22:35:43.000Z",
+  "profile_views": 0,
+  "kill_count": 257,
+  "play_count": 312,
+  "highest_score": 450346,
+  "picture": "712278.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 129,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 712278,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T22:53:59.553Z",
+    "updated_at": "2025-04-24T22:54:00.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2300,
+          "user_id": 712278,
+          "cloneof_id": null,
+          "string_id": "nicoplayz",
+          "title": "dezzert",
+          "description": "hot",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 4,
+          "created_at": "2020-03-26T22:56:22.000Z",
+          "updated_at": "2020-03-26T22:56:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 712278,
+            "username": "nicoplayz",
+            "description": "i am sorry but thank you for your coins.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-14T20:30:39.000Z",
+            "date_last_played": "2020-08-23T22:35:43.000Z",
+            "kill_count": 257,
+            "play_count": 312,
+            "highest_score": 450346,
+            "picture": "712278.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 129,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cool not"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T22:53:59.615Z"
+}
