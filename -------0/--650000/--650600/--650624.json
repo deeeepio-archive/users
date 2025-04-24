@@ -1,0 +1,97 @@
+{
+  "id": 650624,
+  "username": "2505510_214",
+  "description": "https://docs.google.com/presentation/d/1oaxt43zPmAXaBMSeJ0kbrxV1k2ARUcxVAaEldKQPsX0/edit",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-01T09:24:53.000Z",
+  "date_last_played": "2022-03-06T01:48:21.000Z",
+  "profile_views": 11,
+  "kill_count": 129,
+  "play_count": 24,
+  "highest_score": 1720661,
+  "picture": "650624.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 115,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 650624,
+    "rank_kc": 77030,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-07-06T11:02:45.000Z",
+    "rank_pc": 97813,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": 38041,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-06T11:02:45.000Z",
+    "created_at": "2023-02-01T00:50:57.000Z",
+    "updated_at": "2022-07-06T11:02:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9062,
+          "user_id": 650624,
+          "cloneof_id": null,
+          "string_id": "skulldrinker_tffa",
+          "title": "SkullDrinker Tffa",
+          "description": "deez nuts",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 874,
+          "created_at": "2022-01-20T03:38:29.000Z",
+          "updated_at": "2022-01-23T09:16:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 650624,
+            "username": "2505510_214",
+            "description": "https://docs.google.com/presentation/d/1oaxt43zPmAXaBMSeJ0kbrxV1k2ARUcxVAaEldKQPsX0/edit",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-01T09:24:53.000Z",
+            "date_last_played": "2022-03-06T01:48:21.000Z",
+            "kill_count": 129,
+            "play_count": 24,
+            "highest_score": 1720661,
+            "picture": "650624.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 115,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "tffa "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:58:47.548Z"
+}
