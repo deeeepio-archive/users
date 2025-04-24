@@ -1,0 +1,152 @@
+{
+  "id": 720800,
+  "username": "Raczek_FR",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-04T18:03:59.000Z",
+  "date_last_played": "2020-04-04T18:03:59.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 720800,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T23:44:13.671Z",
+    "updated_at": "2025-04-24T23:44:14.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2486,
+          "user_id": 720800,
+          "cloneof_id": null,
+          "string_id": "1raczek1",
+          "title": "The Islands!",
+          "description": "This map has lots of islands",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 217,
+          "created_at": "2020-04-05T20:02:37.000Z",
+          "updated_at": "2020-04-05T20:12:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 720800,
+            "username": "Raczek_FR",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-04T18:03:59.000Z",
+            "date_last_played": "2020-04-04T18:03:59.000Z",
+            "kill_count": 0,
+            "play_count": 0,
+            "highest_score": 0,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "FR"
+            },
+            {
+              "id": "PVP"
+            }
+          ]
+        },
+        {
+          "id": 2474,
+          "user_id": 720800,
+          "cloneof_id": null,
+          "string_id": "raczek_fr",
+          "title": "Lets battle FFA",
+          "description": "This ia a map to FFA mode inhope you like it",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 117,
+          "created_at": "2020-04-04T22:11:56.000Z",
+          "updated_at": "2020-04-04T23:03:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 720800,
+            "username": "Raczek_FR",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-04T18:03:59.000Z",
+            "date_last_played": "2020-04-04T18:03:59.000Z",
+            "kill_count": 0,
+            "play_count": 0,
+            "highest_score": 0,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "FR"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:44:13.763Z"
+}
