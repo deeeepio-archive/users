@@ -1,0 +1,101 @@
+{
+  "id": 697269,
+  "username": "戀拉",
+  "description": "zzz",
+  "about": "zzz",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-16T05:15:45.000Z",
+  "date_last_played": "2024-12-26T10:00:02.000Z",
+  "profile_views": 225,
+  "kill_count": 14611,
+  "play_count": 6111,
+  "highest_score": 8577085,
+  "picture": "697269.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1703,
+  "tier": 5,
+  "xp": 250350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 548,
+      "user_id": 697269,
+      "platform_id": "dc",
+      "platform_user_id": "戀..#5807",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-23T12:28:11.000Z",
+      "updated_at": "2022-10-27T16:11:22.000Z"
+    },
+    {
+      "id": 553,
+      "user_id": 697269,
+      "platform_id": "ig",
+      "platform_user_id": "Eric._.1314",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-23T12:30:01.000Z",
+      "updated_at": "2022-05-23T12:30:01.000Z"
+    },
+    {
+      "id": 554,
+      "user_id": 697269,
+      "platform_id": "tc",
+      "platform_user_id": "koi596",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-23T12:30:26.000Z",
+      "updated_at": "2022-05-23T12:30:26.000Z"
+    },
+    {
+      "id": 550,
+      "user_id": 697269,
+      "platform_id": "tw",
+      "platform_user_id": "Koi_ove",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-23T12:29:33.000Z",
+      "updated_at": "2022-05-23T12:29:33.000Z"
+    },
+    {
+      "id": 549,
+      "user_id": 697269,
+      "platform_id": "yt",
+      "platform_user_id": "戀",
+      "platform_user_url": "https://www.youtube.com/watch?v=XkLzqCpkykI",
+      "verified": false,
+      "created_at": "2022-05-23T12:28:38.000Z",
+      "updated_at": "2022-05-23T12:28:38.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 697269,
+    "rank_kc": 1249,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-24T09:34:35.000Z",
+    "rank_pc": 674,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-24T09:34:36.000Z",
+    "rank_hs": 3207,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-24T09:34:37.000Z",
+    "created_at": "2025-02-27T06:43:33.000Z",
+    "updated_at": "2025-02-27T06:43:33.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T21:00:29.972Z"
+}
