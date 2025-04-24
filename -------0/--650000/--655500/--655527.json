@@ -1,0 +1,97 @@
+{
+  "id": 655527,
+  "username": "水果鼠尾草",
+  "description": "嗨ʕ•ᴥ•ʔ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-11-09T23:01:02.000Z",
+  "date_last_played": "2022-11-18T12:36:26.000Z",
+  "profile_views": 9,
+  "kill_count": 4699,
+  "play_count": 1077,
+  "highest_score": 3088295,
+  "picture": "655527-974d21318865d263310f84b5f6892b677.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 657,
+  "tier": 1,
+  "xp": 10800,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 655527,
+    "rank_kc": 5078,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-18T12:01:26.000Z",
+    "rank_pc": 9151,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-18T12:01:27.000Z",
+    "rank_hs": 16620,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-18T12:01:27.000Z",
+    "created_at": "2023-01-01T05:56:26.000Z",
+    "updated_at": "2022-11-18T12:36:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1247,
+          "user_id": 655527,
+          "cloneof_id": null,
+          "string_id": "5237535353",
+          "title": "Untitled",
+          "description": "12596",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2019-12-07T00:19:00.000Z",
+          "updated_at": "2019-12-07T00:19:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 655527,
+            "username": "水果鼠尾草",
+            "description": "嗨ʕ•ᴥ•ʔ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-11-09T23:01:02.000Z",
+            "date_last_played": "2022-11-18T12:36:26.000Z",
+            "kill_count": 4699,
+            "play_count": 1077,
+            "highest_score": 3088295,
+            "picture": "655527-974d21318865d263310f84b5f6892b677.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 657,
+            "tier": 1,
+            "xp": 10800,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "36125"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T16:29:26.432Z"
+}
