@@ -1,0 +1,818 @@
+{
+  "id": 589683,
+  "username": "Pangolin",
+  "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+  "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-10T14:00:07.000Z",
+  "date_last_played": "2025-04-23T14:21:12.000Z",
+  "profile_views": 1174,
+  "kill_count": 17878,
+  "play_count": 6009,
+  "highest_score": 10867282,
+  "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 123,
+  "tier": 9,
+  "xp": 1002000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 5,
+      "slug": "cartography-member",
+      "title": "Cartography Member"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    },
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 478,
+      "user_id": 589683,
+      "platform_id": "dc",
+      "platform_user_id": "Pangolin#3700",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-22T02:53:06.000Z",
+      "updated_at": "2022-05-22T02:53:06.000Z"
+    },
+    {
+      "id": 179,
+      "user_id": 589683,
+      "platform_id": "rd",
+      "platform_user_id": "deepseapangolin",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-18T11:05:32.000Z",
+      "updated_at": "2022-05-18T11:05:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 589683,
+    "rank_kc": 1015,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-12T00:04:58.000Z",
+    "rank_pc": 956,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-12T00:05:09.000Z",
+    "rank_hs": 2326,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-12T00:05:17.000Z",
+    "created_at": "2025-04-23T14:21:12.000Z",
+    "updated_at": "2025-04-23T14:21:12.000Z",
+    "pd": {
+      "played": 8,
+      "won": 4,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244805,
+          "user_id": 589683,
+          "cloneof_id": 244784,
+          "string_id": "coast_1v1",
+          "title": "Coast 1v1",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 180,
+          "created_at": "2024-10-19T01:55:04.000Z",
+          "updated_at": "2024-12-29T06:52:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Pangolin"
+            }
+          ]
+        },
+        {
+          "id": 244787,
+          "user_id": 589683,
+          "cloneof_id": 244786,
+          "string_id": "72_1v1",
+          "title": "Lit Up Night 1v1",
+          "description": "Hope the clock tower doesn't fall...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 69,
+          "created_at": "2024-10-14T19:11:58.000Z",
+          "updated_at": "2024-12-13T16:25:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Pangolin"
+            }
+          ]
+        },
+        {
+          "id": 244786,
+          "user_id": 589683,
+          "cloneof_id": 12221,
+          "string_id": "oasis20x20",
+          "title": "Oasis Pool 1v1 (20x20)",
+          "description": "now in 20x20",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 39,
+          "created_at": "2024-10-14T18:33:34.000Z",
+          "updated_at": "2024-10-14T19:28:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "20x20"
+            },
+            {
+              "id": "Pangolin"
+            }
+          ]
+        },
+        {
+          "id": 244784,
+          "user_id": 589683,
+          "cloneof_id": null,
+          "string_id": "Between_the_Lands_PD",
+          "title": "Between the Lands PD",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 7,
+          "objects": 543,
+          "created_at": "2024-10-14T14:40:36.000Z",
+          "updated_at": "2024-12-19T13:27:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Pangolin"
+            },
+            {
+              "id": "PD"
+            }
+          ]
+        },
+        {
+          "id": 244767,
+          "user_id": 589683,
+          "cloneof_id": null,
+          "string_id": "2Cities_PD",
+          "title": "2Cities_PD",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 611,
+          "created_at": "2024-10-13T04:02:13.000Z",
+          "updated_at": "2024-10-14T02:55:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Pangolin"
+            },
+            {
+              "id": "PD"
+            }
+          ]
+        },
+        {
+          "id": 244631,
+          "user_id": 589683,
+          "cloneof_id": 11944,
+          "string_id": "testformap",
+          "title": "testformap",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1012,
+          "created_at": "2024-09-15T04:10:21.000Z",
+          "updated_at": "2024-09-15T04:16:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 244258,
+          "user_id": 589683,
+          "cloneof_id": 11944,
+          "string_id": "updatetest",
+          "title": "test",
+          "description": "testing update for map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 1618,
+          "created_at": "2024-05-15T00:05:43.000Z",
+          "updated_at": "2024-06-22T14:59:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 12807,
+          "user_id": 589683,
+          "cloneof_id": 11944,
+          "string_id": "pangolin_tffa_v1_2",
+          "title": "Pangolin_TFFA_V1.2",
+          "description": "I had to clone the map cuz the original was locked",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 1949,
+          "created_at": "2023-09-10T03:33:40.000Z",
+          "updated_at": "2023-12-03T19:28:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Pangolin"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 12478,
+          "user_id": 589683,
+          "cloneof_id": null,
+          "string_id": "pangolin_1v1_v2",
+          "title": "Pangolin_1v1_v2",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 26,
+          "created_at": "2023-06-24T19:03:14.000Z",
+          "updated_at": "2023-06-24T19:15:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 11944,
+          "user_id": 589683,
+          "cloneof_id": null,
+          "string_id": "pangolin_tffa_v1",
+          "title": "Pangolin_TFFA",
+          "description": "Revamped Reef and Estuary",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 6,
+          "objects": 2280,
+          "created_at": "2023-03-27T20:46:40.000Z",
+          "updated_at": "2024-12-15T18:40:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Pangolin"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 10270,
+          "user_id": 589683,
+          "cloneof_id": null,
+          "string_id": "BioSphere",
+          "title": "Pangolin Biosphere",
+          "description": "A floating space station containing a balance of ecosystems",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 395,
+          "created_at": "2022-07-07T19:31:10.000Z",
+          "updated_at": "2022-07-16T13:36:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "Pangolin"
+            },
+            {
+              "id": "space"
+            }
+          ]
+        },
+        {
+          "id": 9541,
+          "user_id": 589683,
+          "cloneof_id": null,
+          "string_id": "pangolin_ta_v1",
+          "title": "Impact",
+          "description": "It's the end of the world as we know it",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 5,
+          "objects": 802,
+          "created_at": "2022-03-26T22:15:45.000Z",
+          "updated_at": "2022-10-05T01:31:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Pangolin"
+            },
+            {
+              "id": "TA"
+            }
+          ]
+        },
+        {
+          "id": 9457,
+          "user_id": 589683,
+          "cloneof_id": null,
+          "string_id": "pangolin_1v1_v1",
+          "title": "Pangolin 1v1 V1",
+          "description": "Misty Subterranean Cave",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 68,
+          "created_at": "2022-03-12T21:17:40.000Z",
+          "updated_at": "2023-06-01T11:20:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Pangolin"
+            }
+          ]
+        },
+        {
+          "id": 9441,
+          "user_id": 589683,
+          "cloneof_id": null,
+          "string_id": "oasis_pool_1v1",
+          "title": "Oasis Pool 1v1",
+          "description": "Clear oasis pool deep within the desert",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 4,
+          "objects": 31,
+          "created_at": "2022-03-11T00:55:34.000Z",
+          "updated_at": "2023-05-08T23:16:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Oasis"
+            },
+            {
+              "id": "Pangolin"
+            }
+          ]
+        },
+        {
+          "id": 9410,
+          "user_id": 589683,
+          "cloneof_id": null,
+          "string_id": "pangolin_pd_v2",
+          "title": "Pangolin PD V2",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 174,
+          "created_at": "2022-03-03T03:47:13.000Z",
+          "updated_at": "2022-07-14T19:53:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 589683,
+            "username": "Pangolin",
+            "description": "If you have any feedback for my pd or 1v1 maps (currently in game), please let me know on discord.\n\nThe current ffa/tffa maps are shit.",
+            "about": "Stonefish main, Mapmaker, Contributor,  4 Terrains in game, Cartography Guild.\nHave contributed 5+ maps:\nTFFA, PD, and 1v1!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-05-10T14:00:07.000Z",
+            "date_last_played": "2025-04-23T14:21:12.000Z",
+            "kill_count": 17878,
+            "play_count": 6009,
+            "highest_score": 10867282,
+            "picture": "589683-a1c935a0342955e6d41074ffd6c7a8126-3dbee90c-257c-4d4b-b1fd-d5867cd50dd7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 123,
+            "tier": 9,
+            "xp": 1002000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Kelp Forest"
+            },
+            {
+              "id": "Pangolin"
+            },
+            {
+              "id": "PD"
+            }
+          ]
+        }
+      ],
+      "count": 20
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:53:00.332Z"
+}
