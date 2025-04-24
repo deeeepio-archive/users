@@ -1,0 +1,203 @@
+{
+  "id": 688506,
+  "username": "Divine_Terror",
+  "description": "Ŷ̵̩̺̕o̴͇͐͋u̸̾͛ͅ ̵̥̼͐c̸̻̯̓̆̈́a̷̫̼̻̓ṉ̷̇ṅ̶̗̌̎ȏ̵̫͔́t̸͍̟̀ ̴̡̖̌̆ͅë̷͎̤͈́̚͝s̸͍̙̐̅c̴͎̣̍́a̵͓̱͌̀̂p̴̖̩͌ë̸͇͍̫ ̸͖͖̀t̷̤̙̻͌h̶͊̓̚͜e̴̹͔͔̅͘ ̵̹͛̇͝i̷̢̨͕͂n̵̝͇̎̊e̶͎̎v̷͈͓͈̓̒í̵͍̔͋ͅͅt̶̡̗̓̽͝a̸̞͆̂͠ḅ̴͈͔̌l̶̤̫̂͆͠e̵̜̖͚̓̀",
+  "about": "They used to call me Death...\nBtw, I fucking love the Giant Squid and Halibut",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-01-31T22:25:46.000Z",
+  "date_last_played": "2022-08-04T21:28:30.000Z",
+  "profile_views": 232,
+  "kill_count": 5470,
+  "play_count": 1733,
+  "highest_score": 2754393,
+  "picture": "688506.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 839,
+  "tier": 5,
+  "xp": 291450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 785,
+      "user_id": 688506,
+      "platform_id": "dc",
+      "platform_user_id": "DivineTerror1605",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-26T00:51:23.000Z",
+      "updated_at": "2022-05-26T00:51:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 688506,
+    "rank_kc": 3940,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-29T22:22:12.000Z",
+    "rank_pc": 4781,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-29T22:22:12.000Z",
+    "rank_hs": 18912,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-29T22:22:12.000Z",
+    "created_at": "2022-08-06T14:11:11.000Z",
+    "updated_at": "2022-08-04T21:28:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10377,
+          "user_id": 688506,
+          "cloneof_id": null,
+          "string_id": "divine_pd_map",
+          "title": "Pearl Defense Map",
+          "description": "Read the title",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 3,
+          "created_at": "2022-07-20T03:27:39.000Z",
+          "updated_at": "2022-07-20T03:45:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688506,
+            "username": "Divine_Terror",
+            "description": "Ŷ̵̩̺̕o̴͇͐͋u̸̾͛ͅ ̵̥̼͐c̸̻̯̓̆̈́a̷̫̼̻̓ṉ̷̇ṅ̶̗̌̎ȏ̵̫͔́t̸͍̟̀ ̴̡̖̌̆ͅë̷͎̤͈́̚͝s̸͍̙̐̅c̴͎̣̍́a̵͓̱͌̀̂p̴̖̩͌ë̸͇͍̫ ̸͖͖̀t̷̤̙̻͌h̶͊̓̚͜e̴̹͔͔̅͘ ̵̹͛̇͝i̷̢̨͕͂n̵̝͇̎̊e̶͎̎v̷͈͓͈̓̒í̵͍̔͋ͅͅt̶̡̗̓̽͝a̸̞͆̂͠ḅ̴͈͔̌l̶̤̫̂͆͠e̵̜̖͚̓̀",
+            "about": "They used to call me Death...\nBtw, I fucking love the Giant Squid and Halibut",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-01-31T22:25:46.000Z",
+            "date_last_played": "2022-08-04T21:28:30.000Z",
+            "kill_count": 5470,
+            "play_count": 1733,
+            "highest_score": 2754393,
+            "picture": "688506.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 839,
+            "tier": 5,
+            "xp": 291450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "pd"
+            },
+            {
+              "id": "pearl defense"
+            }
+          ]
+        },
+        {
+          "id": 2463,
+          "user_id": 688506,
+          "cloneof_id": null,
+          "string_id": "death_1v1",
+          "title": "death_1v1",
+          "description": "A 1v1 map that I hope will be used",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 59,
+          "created_at": "2020-04-04T08:57:01.000Z",
+          "updated_at": "2020-04-05T20:50:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688506,
+            "username": "Divine_Terror",
+            "description": "Ŷ̵̩̺̕o̴͇͐͋u̸̾͛ͅ ̵̥̼͐c̸̻̯̓̆̈́a̷̫̼̻̓ṉ̷̇ṅ̶̗̌̎ȏ̵̫͔́t̸͍̟̀ ̴̡̖̌̆ͅë̷͎̤͈́̚͝s̸͍̙̐̅c̴͎̣̍́a̵͓̱͌̀̂p̴̖̩͌ë̸͇͍̫ ̸͖͖̀t̷̤̙̻͌h̶͊̓̚͜e̴̹͔͔̅͘ ̵̹͛̇͝i̷̢̨͕͂n̵̝͇̎̊e̶͎̎v̷͈͓͈̓̒í̵͍̔͋ͅͅt̶̡̗̓̽͝a̸̞͆̂͠ḅ̴͈͔̌l̶̤̫̂͆͠e̵̜̖͚̓̀",
+            "about": "They used to call me Death...\nBtw, I fucking love the Giant Squid and Halibut",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-01-31T22:25:46.000Z",
+            "date_last_played": "2022-08-04T21:28:30.000Z",
+            "kill_count": 5470,
+            "play_count": 1733,
+            "highest_score": 2754393,
+            "picture": "688506.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 839,
+            "tier": 5,
+            "xp": 291450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        },
+        {
+          "id": 2308,
+          "user_id": 688506,
+          "cloneof_id": null,
+          "string_id": "death_ffa",
+          "title": "death_ffa",
+          "description": "Hoping for it to become an official map on deeeep.io (Current Status: finished)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 982,
+          "created_at": "2020-03-27T08:50:22.000Z",
+          "updated_at": "2020-04-04T07:16:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688506,
+            "username": "Divine_Terror",
+            "description": "Ŷ̵̩̺̕o̴͇͐͋u̸̾͛ͅ ̵̥̼͐c̸̻̯̓̆̈́a̷̫̼̻̓ṉ̷̇ṅ̶̗̌̎ȏ̵̫͔́t̸͍̟̀ ̴̡̖̌̆ͅë̷͎̤͈́̚͝s̸͍̙̐̅c̴͎̣̍́a̵͓̱͌̀̂p̴̖̩͌ë̸͇͍̫ ̸͖͖̀t̷̤̙̻͌h̶͊̓̚͜e̴̹͔͔̅͘ ̵̹͛̇͝i̷̢̨͕͂n̵̝͇̎̊e̶͎̎v̷͈͓͈̓̒í̵͍̔͋ͅͅt̶̡̗̓̽͝a̸̞͆̂͠ḅ̴͈͔̌l̶̤̫̂͆͠e̵̜̖͚̓̀",
+            "about": "They used to call me Death...\nBtw, I fucking love the Giant Squid and Halibut",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-01-31T22:25:46.000Z",
+            "date_last_played": "2022-08-04T21:28:30.000Z",
+            "kill_count": 5470,
+            "play_count": 1733,
+            "highest_score": 2754393,
+            "picture": "688506.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 839,
+            "tier": 5,
+            "xp": 291450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T19:55:43.595Z"
+}
