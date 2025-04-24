@@ -1,0 +1,71 @@
+{
+  "id": 594331,
+  "username": "TheJReal",
+  "description": "J",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-17T17:50:05.000Z",
+  "date_last_played": "2025-04-13T17:10:33.000Z",
+  "profile_views": 3702,
+  "kill_count": 16215,
+  "play_count": 2935,
+  "highest_score": 14421604,
+  "picture": "594331-d86d83dd6bc66fa9c01f8f792395b473-70f57167-9232-49b2-9a58-a628921eca05.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": "ㅤ",
+  "ban_at": "2025-04-18T21:19:40.000Z",
+  "coins": 2314,
+  "tier": 10,
+  "xp": 1251600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 98317,
+      "user_id": 594331,
+      "platform_id": "dc",
+      "platform_user_id": "https://blockyfish.vercel.app",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-09-05T04:29:10.000Z",
+      "updated_at": "2024-09-05T04:29:10.000Z"
+    },
+    {
+      "id": 96477,
+      "user_id": 594331,
+      "platform_id": "dc",
+      "platform_user_id": "noam01",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-16T03:11:13.000Z",
+      "updated_at": "2024-07-16T03:11:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 594331,
+    "rank_kc": 9677,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-30T02:34:17.000Z",
+    "rank_pc": 4391,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-30T02:34:17.000Z",
+    "rank_hs": 12219,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-30T02:34:18.000Z",
+    "created_at": "2025-04-14T14:00:07.000Z",
+    "updated_at": "2025-04-14T14:00:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T10:20:37.137Z"
+}
