@@ -1,0 +1,97 @@
+{
+  "id": 722062,
+  "username": "7828767_591",
+  "description": "I'm sorry. Is this not your speed?",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-07T23:43:56.000Z",
+  "date_last_played": "2020-06-08T21:10:42.000Z",
+  "profile_views": 0,
+  "kill_count": 6,
+  "play_count": 37,
+  "highest_score": 48185,
+  "picture": "722062.gif",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 722062,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T23:51:40.204Z",
+    "updated_at": "2025-04-24T23:51:40.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3033,
+          "user_id": 722062,
+          "cloneof_id": null,
+          "string_id": "islandffa111",
+          "title": "Island FFA",
+          "description": "Survive at all costs !",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 19,
+          "created_at": "2020-05-17T18:11:40.000Z",
+          "updated_at": "2020-05-17T18:15:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 722062,
+            "username": "7828767_591",
+            "description": "I'm sorry. Is this not your speed?",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-07T23:43:56.000Z",
+            "date_last_played": "2020-06-08T21:10:42.000Z",
+            "kill_count": 6,
+            "play_count": 37,
+            "highest_score": 48185,
+            "picture": "722062.gif",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Island FFa"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:51:40.286Z"
+}
