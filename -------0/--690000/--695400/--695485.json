@@ -1,0 +1,500 @@
+{
+  "id": 695485,
+  "username": "DesertCrab",
+  "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-12T21:19:26.000Z",
+  "date_last_played": "2021-12-28T19:51:34.000Z",
+  "profile_views": 67,
+  "kill_count": 2777,
+  "play_count": 511,
+  "highest_score": 5809809,
+  "picture": "695485.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 129,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 695485,
+    "rank_kc": 9455,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-12T13:54:54.000Z",
+    "rank_pc": 19533,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-12T13:55:10.000Z",
+    "rank_hs": 5213,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-12T13:55:27.000Z",
+    "created_at": "2023-02-22T22:41:52.000Z",
+    "updated_at": "2023-01-12T13:55:27.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3811,
+          "user_id": 695485,
+          "cloneof_id": 3785,
+          "string_id": "desertcrab_competitive_ffa",
+          "title": "DesertCrab's Competitive FFA",
+          "description": "A Simple, Small FFA map. It's designed not to be nice to look at, but be fun and balanced to play on.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 523,
+          "created_at": "2020-07-27T23:17:15.000Z",
+          "updated_at": "2020-09-29T20:50:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 695485,
+            "username": "DesertCrab",
+            "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-12T21:19:26.000Z",
+            "date_last_played": "2021-12-28T19:51:34.000Z",
+            "kill_count": 2777,
+            "play_count": 511,
+            "highest_score": 5809809,
+            "picture": "695485.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 129,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA "
+            },
+            {
+              "id": "Gameplay"
+            },
+            {
+              "id": "Small"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 2239,
+          "user_id": 695485,
+          "cloneof_id": null,
+          "string_id": "desertcrab_ffa_v1",
+          "title": "DesertCrab's FFA_v1",
+          "description": "This is my attempt at a FFA map (WIP), Upnext is to finish the kelp forest",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 465,
+          "created_at": "2020-03-22T15:59:27.000Z",
+          "updated_at": "2020-04-06T15:18:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 695485,
+            "username": "DesertCrab",
+            "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-12T21:19:26.000Z",
+            "date_last_played": "2021-12-28T19:51:34.000Z",
+            "kill_count": 2777,
+            "play_count": 511,
+            "highest_score": 5809809,
+            "picture": "695485.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 129,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 2201,
+          "user_id": 695485,
+          "cloneof_id": null,
+          "string_id": "arctic_strait_1v1",
+          "title": "Arctic Strait 1v1",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 25,
+          "created_at": "2020-03-18T16:01:32.000Z",
+          "updated_at": "2020-03-19T22:47:23.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 695485,
+            "username": "DesertCrab",
+            "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-12T21:19:26.000Z",
+            "date_last_played": "2021-12-28T19:51:34.000Z",
+            "kill_count": 2777,
+            "play_count": 511,
+            "highest_score": 5809809,
+            "picture": "695485.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 129,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "arctic"
+            }
+          ]
+        },
+        {
+          "id": 2181,
+          "user_id": 695485,
+          "cloneof_id": null,
+          "string_id": "lazy_river",
+          "title": "Lazy River",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 93,
+          "created_at": "2020-03-17T15:50:08.000Z",
+          "updated_at": "2020-03-18T15:35:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 695485,
+            "username": "DesertCrab",
+            "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-12T21:19:26.000Z",
+            "date_last_played": "2021-12-28T19:51:34.000Z",
+            "kill_count": 2777,
+            "play_count": 511,
+            "highest_score": 5809809,
+            "picture": "695485.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 129,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Casual"
+            },
+            {
+              "id": "Concept"
+            }
+          ]
+        },
+        {
+          "id": 2123,
+          "user_id": 695485,
+          "cloneof_id": null,
+          "string_id": "brine_pool_concept",
+          "title": "Brine Pool Concept",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 94,
+          "created_at": "2020-03-13T17:05:20.000Z",
+          "updated_at": "2020-03-13T17:05:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 695485,
+            "username": "DesertCrab",
+            "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-12T21:19:26.000Z",
+            "date_last_played": "2021-12-28T19:51:34.000Z",
+            "kill_count": 2777,
+            "play_count": 511,
+            "highest_score": 5809809,
+            "picture": "695485.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 129,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "brine pool"
+            },
+            {
+              "id": "deep"
+            }
+          ]
+        },
+        {
+          "id": 2112,
+          "user_id": 695485,
+          "cloneof_id": null,
+          "string_id": "deep_reef_concept",
+          "title": "Deep Sea Reef Concept",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 125,
+          "created_at": "2020-03-11T22:20:42.000Z",
+          "updated_at": "2020-03-14T23:39:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 695485,
+            "username": "DesertCrab",
+            "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-12T21:19:26.000Z",
+            "date_last_played": "2021-12-28T19:51:34.000Z",
+            "kill_count": 2777,
+            "play_count": 511,
+            "highest_score": 5809809,
+            "picture": "695485.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 129,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deep"
+            },
+            {
+              "id": "reef"
+            }
+          ]
+        },
+        {
+          "id": 2090,
+          "user_id": 695485,
+          "cloneof_id": null,
+          "string_id": "desertcrab_river_idea",
+          "title": "DesertCrab's Coldwater Biome",
+          "description": "My idea for a cold water river biome",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 255,
+          "created_at": "2020-03-09T21:50:13.000Z",
+          "updated_at": "2020-03-09T23:45:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 695485,
+            "username": "DesertCrab",
+            "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-12T21:19:26.000Z",
+            "date_last_played": "2021-12-28T19:51:34.000Z",
+            "kill_count": 2777,
+            "play_count": 511,
+            "highest_score": 5809809,
+            "picture": "695485.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 129,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "biome"
+            },
+            {
+              "id": "idea"
+            },
+            {
+              "id": "model"
+            },
+            {
+              "id": "river"
+            }
+          ]
+        },
+        {
+          "id": 1899,
+          "user_id": 695485,
+          "cloneof_id": null,
+          "string_id": "new_deep_or_deep_cave_idea",
+          "title": "New Deep/Deep Cave Idea",
+          "description": "An idea to improve the deep biome. Here the caves are all along the bottom allowing for some creatures to be able to hunt more effectively.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 60,
+          "created_at": "2020-02-27T23:10:18.000Z",
+          "updated_at": "2020-02-27T23:13:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 695485,
+            "username": "DesertCrab",
+            "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-12T21:19:26.000Z",
+            "date_last_played": "2021-12-28T19:51:34.000Z",
+            "kill_count": 2777,
+            "play_count": 511,
+            "highest_score": 5809809,
+            "picture": "695485.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 129,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 8
+    },
+    "skins": [
+      {
+        "id": 1643,
+        "version": 4,
+        "asset": "1643-4.png",
+        "created_at": "2021-12-25T21:44:56.000Z",
+        "updated_at": "2022-01-30T05:19:59.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 40,
+        "name": "Jingle Bells Piranha ",
+        "description": "Maybe the real reward was the friends we made along the way! (Christmas Skin) ",
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/comments/kc25l1/piranha_jingle_bell_piranha/",
+        "category": "season",
+        "season": "christmas",
+        "on_sale": true,
+        "price": 0,
+        "sales": 7286,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 695485,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 695485,
+          "username": "DesertCrab",
+          "description": "Petition to get death messages removed.\n\nReason? They are hella toxic.\n\nFor example I could have said:\n 'LOL NOOB UR TRASH AND SHOULD DIE!' \nbut that't not helping anyone.",
+          "about": null,
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2020-02-12T21:19:26.000Z",
+          "date_last_played": "2021-12-28T19:51:34.000Z",
+          "kill_count": 2777,
+          "play_count": 511,
+          "highest_score": 5809809,
+          "picture": "695485.jpg",
+          "displayPicture": true,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 129,
+          "tier": 1,
+          "xp": 0,
+          "migrated": false,
+          "verified": false,
+          "beta": false
+        }
+      }
+    ]
+  },
+  "archived_at": "2025-04-24T20:49:55.680Z"
+}
