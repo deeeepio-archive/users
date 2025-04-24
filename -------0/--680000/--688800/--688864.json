@@ -1,0 +1,143 @@
+{
+  "id": 688864,
+  "username": "Kerb",
+  "description": "Go yump yourself",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-01T21:17:41.000Z",
+  "date_last_played": "2020-02-04T01:16:51.000Z",
+  "profile_views": 0,
+  "kill_count": 3,
+  "play_count": 0,
+  "highest_score": 49582,
+  "picture": "688864.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 688864,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T19:57:40.949Z",
+    "updated_at": "2025-04-24T19:57:41.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1586,
+          "user_id": 688864,
+          "cloneof_id": null,
+          "string_id": "chonk_map_v3",
+          "title": "Big Map",
+          "description": "A huge 1200 by 850 map. ludicrously large. WIP",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 179,
+          "created_at": "2020-02-02T13:43:54.000Z",
+          "updated_at": "2020-02-02T21:18:02.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688864,
+            "username": "Kerb",
+            "description": "Go yump yourself",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-01T21:17:41.000Z",
+            "date_last_played": "2020-02-04T01:16:51.000Z",
+            "kill_count": 3,
+            "play_count": 0,
+            "highest_score": 49582,
+            "picture": "688864.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 1585,
+          "user_id": 688864,
+          "cloneof_id": null,
+          "string_id": "chonk_map_v2",
+          "title": "Big Map",
+          "description": "Super big",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-02-02T13:37:46.000Z",
+          "updated_at": "2020-02-02T13:37:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 688864,
+            "username": "Kerb",
+            "description": "Go yump yourself",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-01T21:17:41.000Z",
+            "date_last_played": "2020-02-04T01:16:51.000Z",
+            "kill_count": 3,
+            "play_count": 0,
+            "highest_score": 49582,
+            "picture": "688864.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "WIP"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T19:57:41.010Z"
+}
