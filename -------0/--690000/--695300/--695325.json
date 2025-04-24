@@ -1,0 +1,71 @@
+{
+  "id": 695325,
+  "username": "Al-haddad",
+  "description": "yummy 🤤",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-12T16:48:39.000Z",
+  "date_last_played": "2024-08-20T10:05:15.000Z",
+  "profile_views": 120,
+  "kill_count": 1601,
+  "play_count": 690,
+  "highest_score": 4533436,
+  "picture": "695325-9ce75360321b3057966e6b2476d59a01-4e804561-10ce-4e55-9f05-ac0d199af128.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 52,
+  "tier": 4,
+  "xp": 242400,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5580,
+      "user_id": 695325,
+      "platform_id": "dc",
+      "platform_user_id": "Al.haddad",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-25T05:55:48.000Z",
+      "updated_at": "2023-08-27T03:02:19.000Z"
+    },
+    {
+      "id": 5581,
+      "user_id": 695325,
+      "platform_id": "ig",
+      "platform_user_id": "j2.z_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-25T05:56:21.000Z",
+      "updated_at": "2022-08-25T05:56:21.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 695325,
+    "rank_kc": 18260,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-27T03:01:50.000Z",
+    "rank_pc": 18582,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-27T03:01:50.000Z",
+    "rank_hs": 9437,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-27T03:01:51.000Z",
+    "created_at": "2024-08-20T10:05:14.000Z",
+    "updated_at": "2024-08-20T10:05:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T20:49:04.304Z"
+}
