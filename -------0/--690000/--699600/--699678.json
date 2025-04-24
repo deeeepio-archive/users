@@ -1,0 +1,97 @@
+{
+  "id": 699678,
+  "username": "Altus",
+  "description": "HI!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-20T00:16:35.000Z",
+  "date_last_played": "2025-03-11T02:05:50.000Z",
+  "profile_views": 55,
+  "kill_count": 8234,
+  "play_count": 3191,
+  "highest_score": 3540046,
+  "picture": "699678.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 169,
+  "tier": 2,
+  "xp": 26700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 699678,
+    "rank_kc": 2534,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-16T00:14:53.000Z",
+    "rank_pc": 2163,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-16T00:14:56.000Z",
+    "rank_hs": 13359,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-16T00:14:57.000Z",
+    "created_at": "2025-03-11T02:05:50.000Z",
+    "updated_at": "2025-03-11T02:05:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2587,
+          "user_id": 699678,
+          "cloneof_id": null,
+          "string_id": "adda",
+          "title": "1v1 Map #3",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 35,
+          "created_at": "2020-04-13T21:16:58.000Z",
+          "updated_at": "2020-05-03T01:00:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 699678,
+            "username": "Altus",
+            "description": "HI!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-20T00:16:35.000Z",
+            "date_last_played": "2025-03-11T02:05:50.000Z",
+            "kill_count": 8234,
+            "play_count": 3191,
+            "highest_score": 3540046,
+            "picture": "699678.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 2,
+            "xp": 26700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T21:21:29.240Z"
+}
