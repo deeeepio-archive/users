@@ -1,0 +1,97 @@
+{
+  "id": 692054,
+  "username": "godLol88",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-08T04:46:52.000Z",
+  "date_last_played": "2020-02-08T04:46:52.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 692054,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T20:23:51.201Z",
+    "updated_at": "2025-04-24T20:23:51.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1626,
+          "user_id": 692054,
+          "cloneof_id": null,
+          "string_id": "the_hell",
+          "title": "Hell",
+          "description": "Its Very hard",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 2,
+          "created_at": "2020-02-08T04:48:32.000Z",
+          "updated_at": "2020-02-08T04:48:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 692054,
+            "username": "godLol88",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-08T04:46:52.000Z",
+            "date_last_played": "2020-02-08T04:46:52.000Z",
+            "kill_count": 0,
+            "play_count": 0,
+            "highest_score": 0,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "None"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T20:23:51.284Z"
+}
