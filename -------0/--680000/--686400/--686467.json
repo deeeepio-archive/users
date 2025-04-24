@@ -1,0 +1,97 @@
+{
+  "id": 686467,
+  "username": "REAL_PRO",
+  "description": "DON'T FEEL BAD NOOB, THERE'S NO OTHER PLAYER BETTER THAN ME, NO PLAYER! ALL NOOBS! NO PROS!",
+  "about": "NAME? MAX..\n\nPASS-TIME? KILLING NOOBIES AND TORTURING THEM, SENDING THEIR SOUL IN THE DEEPEST LAYER OF HELL 👍\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-01-27T14:56:22.000Z",
+  "date_last_played": "2023-07-29T14:32:52.000Z",
+  "profile_views": 61,
+  "kill_count": 308,
+  "play_count": 120,
+  "highest_score": 3420946,
+  "picture": "686467-1bf3c6984c67ddbe8edde661559188ea.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 61,
+  "tier": 1,
+  "xp": 19650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 686467,
+    "rank_kc": 57374,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-29T14:31:59.000Z",
+    "rank_pc": 63040,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-29T14:32:00.000Z",
+    "rank_hs": 15903,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-29T14:32:01.000Z",
+    "created_at": "2023-10-23T07:18:49.000Z",
+    "updated_at": "2023-07-29T14:32:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1696,
+          "user_id": 686467,
+          "cloneof_id": null,
+          "string_id": "orca_hell",
+          "title": "ORCA HELL",
+          "description": "WHY NOT SPICE IT UP",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 43,
+          "created_at": "2020-02-13T21:10:51.000Z",
+          "updated_at": "2020-02-13T21:10:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 686467,
+            "username": "REAL_PRO",
+            "description": "DON'T FEEL BAD NOOB, THERE'S NO OTHER PLAYER BETTER THAN ME, NO PLAYER! ALL NOOBS! NO PROS!",
+            "about": "NAME? MAX..\n\nPASS-TIME? KILLING NOOBIES AND TORTURING THEM, SENDING THEIR SOUL IN THE DEEPEST LAYER OF HELL 👍\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-01-27T14:56:22.000Z",
+            "date_last_played": "2023-07-29T14:32:52.000Z",
+            "kill_count": 308,
+            "play_count": 120,
+            "highest_score": 3420946,
+            "picture": "686467-1bf3c6984c67ddbe8edde661559188ea.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 61,
+            "tier": 1,
+            "xp": 19650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ORCA"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T19:42:52.678Z"
+}
