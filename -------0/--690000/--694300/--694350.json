@@ -1,0 +1,884 @@
+{
+  "id": 694350,
+  "username": "Whale_Shark2",
+  "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+  "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-10T21:33:29.000Z",
+  "date_last_played": "2025-04-24T05:25:12.000Z",
+  "profile_views": 22509,
+  "kill_count": 35459,
+  "play_count": 8804,
+  "highest_score": 40198385,
+  "picture": "694350.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18073,
+  "tier": 10,
+  "xp": 4166250,
+  "migrated": true,
+  "verified": true,
+  "beta": true,
+  "badges": [
+    {
+      "id": 3,
+      "slug": "harmony-member",
+      "title": "Harmony Member"
+    },
+    {
+      "id": 4,
+      "slug": "harmony-manager",
+      "title": "Harmony Manager"
+    },
+    {
+      "id": 5,
+      "slug": "cartography-member",
+      "title": "Cartography Member"
+    },
+    {
+      "id": 6,
+      "slug": "cartography-manager",
+      "title": "Cartography Manager"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    },
+    {
+      "id": 8,
+      "slug": "crabinet-manager",
+      "title": "Crabinet Manager"
+    },
+    {
+      "id": 9,
+      "slug": "event-manager",
+      "title": "Event Manager"
+    },
+    {
+      "id": 10,
+      "slug": "tournament-winner",
+      "title": "Tournament Winner"
+    },
+    {
+      "id": 11,
+      "slug": "alpha-tester",
+      "title": "Alpha Tester"
+    },
+    {
+      "id": 13,
+      "slug": "forum-moderator",
+      "title": "Forum Moderator"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 163,
+      "user_id": 694350,
+      "platform_id": "dc",
+      "platform_user_id": "Whale Shark#0004",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-18T04:34:59.000Z",
+      "updated_at": "2022-05-18T04:34:59.000Z"
+    },
+    {
+      "id": 27866,
+      "user_id": 694350,
+      "platform_id": "dc",
+      "platform_user_id": "whaleshark",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-10T18:40:57.000Z",
+      "updated_at": "2023-10-10T18:41:14.000Z"
+    },
+    {
+      "id": 1897,
+      "user_id": 694350,
+      "platform_id": "rd",
+      "platform_user_id": "Whale_Shark97",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-09T06:32:29.000Z",
+      "updated_at": "2022-06-09T06:39:32.000Z"
+    },
+    {
+      "id": 1927,
+      "user_id": 694350,
+      "platform_id": "yt",
+      "platform_user_id": "Whale Shark",
+      "platform_user_url": "https://www.youtube.com/channel/UCtKvx3WL9k2TyqTbCZrQpqw",
+      "verified": false,
+      "created_at": "2022-06-09T15:00:39.000Z",
+      "updated_at": "2022-06-09T15:00:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 694350,
+    "rank_kc": 252,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T06:38:04.000Z",
+    "rank_pc": 394,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T06:38:06.000Z",
+    "rank_hs": 902,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T08:04:06.000Z",
+    "created_at": "2025-04-24T05:25:11.000Z",
+    "updated_at": "2025-04-24T05:25:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244908,
+          "user_id": 694350,
+          "cloneof_id": null,
+          "string_id": "looks_to_the_moon",
+          "title": "LTTM 1v1",
+          "description": "I think the rain is approaching. You better go, little creature! I will be fine. It's not pleasant, but I have been through it before.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 77,
+          "created_at": "2024-11-21T22:16:11.000Z",
+          "updated_at": "2025-03-19T07:24:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Rain world"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        },
+        {
+          "id": 244662,
+          "user_id": 694350,
+          "cloneof_id": 5194,
+          "string_id": "v2v2",
+          "title": "2nd Map Remade",
+          "description": "Remaking my 2nd ever map since I always thought it had potential",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 43,
+          "created_at": "2024-09-22T21:14:48.000Z",
+          "updated_at": "2024-09-22T21:34:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        },
+        {
+          "id": 12107,
+          "user_id": 694350,
+          "cloneof_id": 11813,
+          "string_id": "mountain_1v1_map_v2",
+          "title": "Mountain Arena",
+          "description": "What a great view, too bad you will be too busy fighting for your life",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 42,
+          "created_at": "2023-04-25T05:10:21.000Z",
+          "updated_at": "2025-01-10T05:08:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        },
+        {
+          "id": 11813,
+          "user_id": 694350,
+          "cloneof_id": null,
+          "string_id": "mountain_1v1_map",
+          "title": "Mountain Lake 1v1",
+          "description": "How's the view?",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 43,
+          "created_at": "2023-02-25T08:46:25.000Z",
+          "updated_at": "2023-03-04T07:39:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        },
+        {
+          "id": 11532,
+          "user_id": 694350,
+          "cloneof_id": null,
+          "string_id": "winter_1v1_map",
+          "title": "Sunset Winter 1v1",
+          "description": "For event",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 49,
+          "created_at": "2022-12-31T23:18:23.000Z",
+          "updated_at": "2023-05-06T04:49:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        },
+        {
+          "id": 11260,
+          "user_id": 694350,
+          "cloneof_id": 5669,
+          "string_id": "reef_1v1_map_two",
+          "title": "Sunset Reef 1v1",
+          "description": "The Second.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 75,
+          "created_at": "2022-11-11T02:48:49.000Z",
+          "updated_at": "2024-10-18T01:35:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "reef"
+            },
+            {
+              "id": "whale shark"
+            }
+          ]
+        },
+        {
+          "id": 10904,
+          "user_id": 694350,
+          "cloneof_id": null,
+          "string_id": "airpinfix_test1",
+          "title": "Sleeping Giant",
+          "description": "Just a test map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 4,
+          "objects": 26,
+          "created_at": "2022-09-14T05:09:30.000Z",
+          "updated_at": "2023-04-24T05:37:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        },
+        {
+          "id": 9998,
+          "user_id": 694350,
+          "cloneof_id": null,
+          "string_id": "test45",
+          "title": "987",
+          "description": "complicated",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 18,
+          "created_at": "2022-06-18T05:19:07.000Z",
+          "updated_at": "2022-06-20T07:58:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "wip"
+            }
+          ]
+        },
+        {
+          "id": 9345,
+          "user_id": 694350,
+          "cloneof_id": null,
+          "string_id": "the",
+          "title": "the",
+          "description": "the",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": -1,
+          "objects": 0,
+          "created_at": "2022-02-23T00:27:20.000Z",
+          "updated_at": "2022-02-23T00:27:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "the"
+            }
+          ]
+        },
+        {
+          "id": 8494,
+          "user_id": 694350,
+          "cloneof_id": null,
+          "string_id": "swamp_1v1_map_",
+          "title": "Swamp 1v1",
+          "description": "so far it looks bad, don't dislike it yet, it will be better soon I promise",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": -1,
+          "objects": 16,
+          "created_at": "2021-11-08T20:17:04.000Z",
+          "updated_at": "2023-04-26T17:54:37.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        },
+        {
+          "id": 8120,
+          "user_id": 694350,
+          "cloneof_id": null,
+          "string_id": "rock_1v1",
+          "title": "Rock",
+          "description": "I added rrock",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": -1,
+          "objects": 27,
+          "created_at": "2021-10-08T16:36:57.000Z",
+          "updated_at": "2021-11-08T19:38:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        },
+        {
+          "id": 6742,
+          "user_id": 694350,
+          "cloneof_id": 6694,
+          "string_id": "all_biome_1v1_map",
+          "title": "Multi-biome 1v1",
+          "description": "this is a nerf to airpin and a nerf to TA stall ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 79,
+          "created_at": "2021-05-04T19:39:11.000Z",
+          "updated_at": "2024-10-31T03:52:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "no airpin"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        },
+        {
+          "id": 5757,
+          "user_id": 694350,
+          "cloneof_id": null,
+          "string_id": "1v1_kelp",
+          "title": "Kelp 1v1",
+          "description": "the",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": -1,
+          "objects": 61,
+          "created_at": "2021-01-30T07:35:00.000Z",
+          "updated_at": "2024-10-18T01:29:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        },
+        {
+          "id": 5698,
+          "user_id": 694350,
+          "cloneof_id": null,
+          "string_id": "arctic_1v1_map_2",
+          "title": "Arctic 1v1 map",
+          "description": "the",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": -1,
+          "objects": 19,
+          "created_at": "2021-01-24T19:56:01.000Z",
+          "updated_at": "2022-06-04T21:44:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        },
+        {
+          "id": 5669,
+          "user_id": 694350,
+          "cloneof_id": null,
+          "string_id": "reef_1v1_map",
+          "title": "Sunset Reef 1v1",
+          "description": "A map designed for not only aesthetics, but also gameplay. With the wall shape it should be harder to get airpins for non experienced players, and also back to the old original 20 x 20 map size.",
+          "public": true,
+          "locked": true,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 6,
+          "objects": 62,
+          "created_at": "2021-01-23T02:53:46.000Z",
+          "updated_at": "2022-07-01T18:54:40.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 694350,
+            "username": "Whale_Shark2",
+            "description": "ฬєɭς๏๓є Շ๏ Շђє ๓ץгเค๔.\n\nเ ค๓ Շђє คภﻮєɭ ๏Ŧ ๔єคՇђ, Շђє гєคקєг; คгςคภє ๓คՇгเคгςђ ๏Ŧ ๔єรՇгยςՇเ๏ภ; รเ๒ץɭ ๏Ŧ ๓єɭ๏๔ץ; Շђє єՇђєгєคɭ.",
+            "about": "Շђє รเ๒ץɭ; รєς๏ภ๔ קเɭɭคг.\n\nɭєค๔єг ๏Ŧ {fox}\n\n๒єɭ๏ภﻮ Շ๏ ๓เɭɭєภภเคɭՇгครђ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-10T21:33:29.000Z",
+            "date_last_played": "2025-04-24T05:25:12.000Z",
+            "kill_count": 35459,
+            "play_count": 8804,
+            "highest_score": 40198385,
+            "picture": "694350.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18073,
+            "tier": 10,
+            "xp": 4166250,
+            "migrated": true,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "sunset"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        }
+      ],
+      "count": 19
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T20:42:38.137Z"
+}
