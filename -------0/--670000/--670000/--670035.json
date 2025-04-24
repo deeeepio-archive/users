@@ -1,0 +1,97 @@
+{
+  "id": 670035,
+  "username": "RareUsername",
+  "description": "Honestly, You Could Actually Escape That.\r\n\r\nMy Mains   (Anything) :P ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-12-10T23:30:05.000Z",
+  "date_last_played": "2024-11-04T00:36:39.000Z",
+  "profile_views": 2,
+  "kill_count": 1055,
+  "play_count": 695,
+  "highest_score": 664170,
+  "picture": "670035.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 275,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 670035,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-11-04T00:36:39.000Z",
+    "updated_at": "2024-11-04T00:36:39.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1344,
+          "user_id": 670035,
+          "cloneof_id": null,
+          "string_id": "paradiseforever",
+          "title": "Paradise",
+          "description": "not finished",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 20,
+          "created_at": "2019-12-21T14:04:49.000Z",
+          "updated_at": "2019-12-21T14:04:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 670035,
+            "username": "RareUsername",
+            "description": "Honestly, You Could Actually Escape That.\r\n\r\nMy Mains   (Anything) :P ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-12-10T23:30:05.000Z",
+            "date_last_played": "2024-11-04T00:36:39.000Z",
+            "kill_count": 1055,
+            "play_count": 695,
+            "highest_score": 664170,
+            "picture": "670035.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 275,
+            "tier": 1,
+            "xp": 750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fun yeah"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T17:58:34.214Z"
+}
