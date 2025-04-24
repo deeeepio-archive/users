@@ -1,0 +1,97 @@
+{
+  "id": 699975,
+  "username": "3391920_931",
+  "description": "r e e l i k e y o u m e a n i t ????????",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-20T13:53:34.000Z",
+  "date_last_played": "2020-05-15T16:32:57.000Z",
+  "profile_views": 0,
+  "kill_count": 591,
+  "play_count": 487,
+  "highest_score": 1132319,
+  "picture": "699975.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 89,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 699975,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T21:23:06.816Z",
+    "updated_at": "2025-04-24T21:23:07.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2168,
+          "user_id": 699975,
+          "cloneof_id": null,
+          "string_id": "test_map_01",
+          "title": "Untitled",
+          "description": "dunno if this'll work but yea",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 13,
+          "created_at": "2020-03-16T17:54:57.000Z",
+          "updated_at": "2020-03-16T17:54:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 699975,
+            "username": "3391920_931",
+            "description": "r e e l i k e y o u m e a n i t ????????",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-20T13:53:34.000Z",
+            "date_last_played": "2020-05-15T16:32:57.000Z",
+            "kill_count": 591,
+            "play_count": 487,
+            "highest_score": 1132319,
+            "picture": "699975.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 89,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "3121"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T21:23:06.875Z"
+}
