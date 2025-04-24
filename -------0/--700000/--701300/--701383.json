@@ -1,0 +1,97 @@
+{
+  "id": 701383,
+  "username": "tuuy",
+  "description": "im sorry if i killde you you can find me and kill me",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-02-22T13:21:43.000Z",
+  "date_last_played": "2020-12-03T16:34:03.000Z",
+  "profile_views": 0,
+  "kill_count": 39,
+  "play_count": 168,
+  "highest_score": 331393,
+  "picture": "701383.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 701383,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T21:32:18.857Z",
+    "updated_at": "2025-04-24T21:32:19.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5055,
+          "user_id": 701383,
+          "cloneof_id": null,
+          "string_id": "kill_zone1",
+          "title": "Untitled",
+          "description": "hi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 52,
+          "created_at": "2020-11-30T15:06:29.000Z",
+          "updated_at": "2020-11-30T15:06:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 701383,
+            "username": "tuuy",
+            "description": "im sorry if i killde you you can find me and kill me",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-02-22T13:21:43.000Z",
+            "date_last_played": "2020-12-03T16:34:03.000Z",
+            "kill_count": 39,
+            "play_count": 168,
+            "highest_score": 331393,
+            "picture": "701383.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 28,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T21:32:18.946Z"
+}
