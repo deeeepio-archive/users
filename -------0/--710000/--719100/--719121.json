@@ -1,0 +1,143 @@
+{
+  "id": 719121,
+  "username": "Thehartkiller",
+  "description": "HEHEHEHEHE sorry",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-31T18:21:11.000Z",
+  "date_last_played": "2020-04-28T19:25:02.000Z",
+  "profile_views": 0,
+  "kill_count": 51,
+  "play_count": 237,
+  "highest_score": 424055,
+  "picture": "719121.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 719121,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T23:35:06.325Z",
+    "updated_at": "2025-04-24T23:35:06.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2485,
+          "user_id": 719121,
+          "cloneof_id": null,
+          "string_id": "rodsfa_v4",
+          "title": "Untitled",
+          "description": "nice for pros",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 481,
+          "created_at": "2020-04-05T19:02:20.000Z",
+          "updated_at": "2020-04-05T19:02:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 719121,
+            "username": "Thehartkiller",
+            "description": "HEHEHEHEHE sorry",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-31T18:21:11.000Z",
+            "date_last_played": "2020-04-28T19:25:02.000Z",
+            "kill_count": 51,
+            "play_count": 237,
+            "highest_score": 424055,
+            "picture": "719121.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 8,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "qwe"
+            }
+          ]
+        },
+        {
+          "id": 2459,
+          "user_id": 719121,
+          "cloneof_id": null,
+          "string_id": "12ty58",
+          "title": "1234",
+          "description": "GOOOD",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 134,
+          "created_at": "2020-04-03T21:15:30.000Z",
+          "updated_at": "2020-04-03T21:15:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 719121,
+            "username": "Thehartkiller",
+            "description": "HEHEHEHEHE sorry",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-31T18:21:11.000Z",
+            "date_last_played": "2020-04-28T19:25:02.000Z",
+            "kill_count": 51,
+            "play_count": 237,
+            "highest_score": 424055,
+            "picture": "719121.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 8,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "89"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T23:35:06.383Z"
+}
