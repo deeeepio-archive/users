@@ -1,0 +1,400 @@
+{
+  "id": 630886,
+  "username": "9427194_970",
+  "description": "bye bye, if you are mad than I am sorry",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-09-10T23:15:49.000Z",
+  "date_last_played": "2023-07-23T22:48:01.000Z",
+  "profile_views": 16,
+  "kill_count": 52,
+  "play_count": 33,
+  "highest_score": 458377,
+  "picture": "630886-9b9a2454b19aac3443c666d8bce17c10d.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 630886,
+    "rank_kc": 138060,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-07-20T19:10:45.000Z",
+    "rank_pc": 141576,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-20T19:10:46.000Z",
+    "rank_hs": 155830,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-20T19:10:46.000Z",
+    "created_at": "2023-07-23T22:48:00.000Z",
+    "updated_at": "2023-07-23T22:48:01.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 826,
+          "user_id": 630886,
+          "cloneof_id": null,
+          "string_id": "kippeeee",
+          "title": "kippeeeee",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 54,
+          "created_at": "2019-10-13T15:40:55.000Z",
+          "updated_at": "2019-10-13T15:49:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 630886,
+            "username": "9427194_970",
+            "description": "bye bye, if you are mad than I am sorry",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-10T23:15:49.000Z",
+            "date_last_played": "2023-07-23T22:48:01.000Z",
+            "kill_count": 52,
+            "play_count": 33,
+            "highest_score": 458377,
+            "picture": "630886-9b9a2454b19aac3443c666d8bce17c10d.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 612,
+          "user_id": 630886,
+          "cloneof_id": null,
+          "string_id": "hihihihi",
+          "title": "my awsome world",
+          "description": "a cool world",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 251,
+          "created_at": "2019-09-21T19:58:18.000Z",
+          "updated_at": "2019-10-15T21:44:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 630886,
+            "username": "9427194_970",
+            "description": "bye bye, if you are mad than I am sorry",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-10T23:15:49.000Z",
+            "date_last_played": "2023-07-23T22:48:01.000Z",
+            "kill_count": 52,
+            "play_count": 33,
+            "highest_score": 458377,
+            "picture": "630886-9b9a2454b19aac3443c666d8bce17c10d.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "arctic"
+            },
+            {
+              "id": "atoll"
+            },
+            {
+              "id": "brakish deep"
+            },
+            {
+              "id": "caves"
+            },
+            {
+              "id": "coral reef"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "deeeep swamp"
+            },
+            {
+              "id": "human island"
+            },
+            {
+              "id": "mangroves"
+            },
+            {
+              "id": "open arctic"
+            },
+            {
+              "id": "open deeeep"
+            },
+            {
+              "id": "open ocean"
+            },
+            {
+              "id": "open swamp"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 497,
+          "user_id": 630886,
+          "cloneof_id": null,
+          "string_id": "ieeiei",
+          "title": "a fun normal world",
+          "description": "hi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 36,
+          "created_at": "2019-09-13T20:35:22.000Z",
+          "updated_at": "2019-09-13T20:35:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 630886,
+            "username": "9427194_970",
+            "description": "bye bye, if you are mad than I am sorry",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-10T23:15:49.000Z",
+            "date_last_played": "2023-07-23T22:48:01.000Z",
+            "kill_count": 52,
+            "play_count": 33,
+            "highest_score": 458377,
+            "picture": "630886-9b9a2454b19aac3443c666d8bce17c10d.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#19"
+            }
+          ]
+        },
+        {
+          "id": 484,
+          "user_id": 630886,
+          "cloneof_id": null,
+          "string_id": "lakelake",
+          "title": "land of lakes",
+          "description": "lakes",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 45,
+          "created_at": "2019-09-12T23:49:09.000Z",
+          "updated_at": "2020-04-09T23:53:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 630886,
+            "username": "9427194_970",
+            "description": "bye bye, if you are mad than I am sorry",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-10T23:15:49.000Z",
+            "date_last_played": "2023-07-23T22:48:01.000Z",
+            "kill_count": 52,
+            "play_count": 33,
+            "highest_score": 458377,
+            "picture": "630886-9b9a2454b19aac3443c666d8bce17c10d.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#19"
+            }
+          ]
+        },
+        {
+          "id": 482,
+          "user_id": 630886,
+          "cloneof_id": null,
+          "string_id": "ie_my_map_v4",
+          "title": "cool world",
+          "description": "a fun pvp map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 30,
+          "created_at": "2019-09-12T23:08:56.000Z",
+          "updated_at": "2019-09-13T20:06:40.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 630886,
+            "username": "9427194_970",
+            "description": "bye bye, if you are mad than I am sorry",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-10T23:15:49.000Z",
+            "date_last_played": "2023-07-23T22:48:01.000Z",
+            "kill_count": 52,
+            "play_count": 33,
+            "highest_score": 458377,
+            "picture": "630886-9b9a2454b19aac3443c666d8bce17c10d.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 472,
+          "user_id": 630886,
+          "cloneof_id": null,
+          "string_id": "mmm",
+          "title": "deeeep.io army",
+          "description": "can you fight the deeeep.io army???",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 23,
+          "created_at": "2019-09-12T00:04:58.000Z",
+          "updated_at": "2019-09-12T23:15:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 630886,
+            "username": "9427194_970",
+            "description": "bye bye, if you are mad than I am sorry",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-10T23:15:49.000Z",
+            "date_last_played": "2023-07-23T22:48:01.000Z",
+            "kill_count": 52,
+            "play_count": 33,
+            "highest_score": 458377,
+            "picture": "630886-9b9a2454b19aac3443c666d8bce17c10d.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 462,
+          "user_id": 630886,
+          "cloneof_id": null,
+          "string_id": "giantsquidheaven",
+          "title": "giant squid heaven",
+          "description": "giant squid heaven",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 97,
+          "created_at": "2019-09-10T23:38:36.000Z",
+          "updated_at": "2019-10-09T22:46:37.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 630886,
+            "username": "9427194_970",
+            "description": "bye bye, if you are mad than I am sorry",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-09-10T23:15:49.000Z",
+            "date_last_played": "2023-07-23T22:48:01.000Z",
+            "kill_count": 52,
+            "play_count": 33,
+            "highest_score": 458377,
+            "picture": "630886-9b9a2454b19aac3443c666d8bce17c10d.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#19"
+            }
+          ]
+        }
+      ],
+      "count": 7
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T13:58:26.860Z"
+}
