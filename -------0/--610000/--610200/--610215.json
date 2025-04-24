@@ -1,0 +1,261 @@
+{
+  "id": 610215,
+  "username": "SaltonPizza",
+  "description": "Nice game, community, not so much... But did you ever hear the tragedy of Darth Plagueis the Wise ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-23T05:50:16.000Z",
+  "date_last_played": "2020-05-04T09:12:25.000Z",
+  "profile_views": 0,
+  "kill_count": 78,
+  "play_count": 82,
+  "highest_score": 611023,
+  "picture": "610215.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 200,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 610215,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T11:55:58.755Z",
+    "updated_at": "2025-04-24T11:55:59.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2465,
+          "user_id": 610215,
+          "cloneof_id": null,
+          "string_id": "whyareyouhere",
+          "title": "Aquarium_Exhibit_1",
+          "description": "Oh look, it's Planet Zoo all over again. ᴵ ᵈᵒⁿ'ᵗ ᵏⁿᵒʷ ʷʰʸ ᴵ ᵐᵃᵈᵉ this.  ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 112,
+          "created_at": "2020-04-04T09:52:17.000Z",
+          "updated_at": "2020-04-06T10:58:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 610215,
+            "username": "SaltonPizza",
+            "description": "Nice game, community, not so much... But did you ever hear the tragedy of Darth Plagueis the Wise ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-23T05:50:16.000Z",
+            "date_last_played": "2020-05-04T09:12:25.000Z",
+            "kill_count": 78,
+            "play_count": 82,
+            "highest_score": 611023,
+            "picture": "610215.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 200,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Aquarium"
+            },
+            {
+              "id": "Art?"
+            }
+          ]
+        },
+        {
+          "id": 772,
+          "user_id": 610215,
+          "cloneof_id": null,
+          "string_id": "the_deeeeper_seas",
+          "title": "The Deeeep(er) Seas [W.I.P.]",
+          "description": "Something I did just for laughs, a chart of the oceans and deeeep.io in a nutshell. 1 like = 1 blobfish",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 493,
+          "created_at": "2019-10-08T08:39:55.000Z",
+          "updated_at": "2019-11-28T16:39:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 610215,
+            "username": "SaltonPizza",
+            "description": "Nice game, community, not so much... But did you ever hear the tragedy of Darth Plagueis the Wise ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-23T05:50:16.000Z",
+            "date_last_played": "2020-05-04T09:12:25.000Z",
+            "kill_count": 78,
+            "play_count": 82,
+            "highest_score": 611023,
+            "picture": "610215.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 200,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "Realistic"
+            },
+            {
+              "id": "W.I.P."
+            }
+          ]
+        },
+        {
+          "id": 377,
+          "user_id": 610215,
+          "cloneof_id": null,
+          "string_id": "deeeep_space_v19",
+          "title": "Deeeep Space (Work In Progess, [Version 1.9])",
+          "description": "[V1.9: Constructing the Arctic Planet, may need ideas] (Made space water instead of sky so a larger variety of animals can live) a fun \"little\" idea I had, space is water, and there will be swamp planets, ocean planets, arctic planets, and many more. ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 192,
+          "created_at": "2019-09-06T12:47:49.000Z",
+          "updated_at": "2019-10-31T08:47:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 610215,
+            "username": "SaltonPizza",
+            "description": "Nice game, community, not so much... But did you ever hear the tragedy of Darth Plagueis the Wise ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-23T05:50:16.000Z",
+            "date_last_played": "2020-05-04T09:12:25.000Z",
+            "kill_count": 78,
+            "play_count": 82,
+            "highest_score": 611023,
+            "picture": "610215.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 200,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Arctic"
+            },
+            {
+              "id": "detailed"
+            },
+            {
+              "id": "idea"
+            },
+            {
+              "id": "Ocean"
+            },
+            {
+              "id": "Space   "
+            },
+            {
+              "id": "Swamp"
+            },
+            {
+              "id": "W.I.P."
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "user_id": 610215,
+          "cloneof_id": null,
+          "string_id": "sandy_isle",
+          "title": "Sandy Island",
+          "description": "It's quite sandy",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 26,
+          "created_at": "2019-08-27T08:53:55.000Z",
+          "updated_at": "2019-09-02T15:40:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 610215,
+            "username": "SaltonPizza",
+            "description": "Nice game, community, not so much... But did you ever hear the tragedy of Darth Plagueis the Wise ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-23T05:50:16.000Z",
+            "date_last_played": "2020-05-04T09:12:25.000Z",
+            "kill_count": 78,
+            "play_count": 82,
+            "highest_score": 611023,
+            "picture": "610215.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 200,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:55:58.845Z"
+}
