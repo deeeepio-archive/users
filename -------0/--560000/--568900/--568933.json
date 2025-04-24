@@ -1,0 +1,81 @@
+{
+  "id": 568933,
+  "username": "SleepingGiant",
+  "description": "I'm toxic, don't expect anything different",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-03-26T17:16:04.000Z",
+  "date_last_played": "2025-04-23T02:13:49.000Z",
+  "profile_views": 3936,
+  "kill_count": 27879,
+  "play_count": 3987,
+  "highest_score": 11266270,
+  "picture": "568933-d85f86879dceb17107968f16409a57b72.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2877,
+  "tier": 10,
+  "xp": 1617000,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5434,
+      "user_id": 568933,
+      "platform_id": "dc",
+      "platform_user_id": "Esgee#5938",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-22T15:41:27.000Z",
+      "updated_at": "2022-11-03T22:08:49.000Z"
+    },
+    {
+      "id": 4439,
+      "user_id": 568933,
+      "platform_id": "tc",
+      "platform_user_id": "Esgee61",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-31T21:51:01.000Z",
+      "updated_at": "2022-07-31T21:51:01.000Z"
+    },
+    {
+      "id": 8994,
+      "user_id": 568933,
+      "platform_id": "yt",
+      "platform_user_id": "Esgee ",
+      "platform_user_url": "https://www.youtube.com/channel/UC4GNQtvJp6JWNsxsRME8YVg/featured",
+      "verified": false,
+      "created_at": "2022-11-03T20:59:10.000Z",
+      "updated_at": "2024-07-06T12:42:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 568933,
+    "rank_kc": 365,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-04T02:13:29.000Z",
+    "rank_pc": 2276,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-04T02:13:31.000Z",
+    "rank_hs": 2672,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-04T04:31:20.000Z",
+    "created_at": "2025-04-23T02:13:48.000Z",
+    "updated_at": "2025-04-23T02:13:49.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T07:45:28.798Z"
+}
