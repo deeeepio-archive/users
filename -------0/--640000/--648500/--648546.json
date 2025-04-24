@@ -1,0 +1,149 @@
+{
+  "id": 648546,
+  "username": "DaGudBoi",
+  "description": "According to all known laws of marine biology, the coco crab should not be able to swim. Its legs are to small to propel itself forward. The coco crab, of course, swims anyway. Coco crabs do not care.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-10-27T02:04:49.000Z",
+  "date_last_played": "2022-06-14T18:17:05.000Z",
+  "profile_views": 0,
+  "kill_count": 7040,
+  "play_count": 2162,
+  "highest_score": 2049332,
+  "picture": "648546.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 293,
+  "tier": 1,
+  "xp": 2700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 648546,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T15:45:06.453Z",
+    "updated_at": "2025-04-24T15:45:06.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2371,
+          "user_id": 648546,
+          "cloneof_id": null,
+          "string_id": "up_side_down721",
+          "title": "The Upside-Down Ocean",
+          "description": "(insert australia joke here)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 800,
+          "created_at": "2020-03-30T22:15:22.000Z",
+          "updated_at": "2020-05-17T19:10:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 648546,
+            "username": "DaGudBoi",
+            "description": "According to all known laws of marine biology, the coco crab should not be able to swim. Its legs are to small to propel itself forward. The coco crab, of course, swims anyway. Coco crabs do not care.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-10-27T02:04:49.000Z",
+            "date_last_played": "2022-06-14T18:17:05.000Z",
+            "kill_count": 7040,
+            "play_count": 2162,
+            "highest_score": 2049332,
+            "picture": "648546.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 293,
+            "tier": 1,
+            "xp": 2700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "All habitats"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "Finished"
+            }
+          ]
+        },
+        {
+          "id": 1212,
+          "user_id": 648546,
+          "cloneof_id": null,
+          "string_id": "minecraft_ocean",
+          "title": "Minecraft themed map",
+          "description": "This map based on minecraft, there's a mineshaft, ocean monument, and some magma blocks.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1404,
+          "created_at": "2019-11-29T00:30:45.000Z",
+          "updated_at": "2020-03-30T21:10:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 648546,
+            "username": "DaGudBoi",
+            "description": "According to all known laws of marine biology, the coco crab should not be able to swim. Its legs are to small to propel itself forward. The coco crab, of course, swims anyway. Coco crabs do not care.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-10-27T02:04:49.000Z",
+            "date_last_played": "2022-06-14T18:17:05.000Z",
+            "kill_count": 7040,
+            "play_count": 2162,
+            "highest_score": 2049332,
+            "picture": "648546.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 293,
+            "tier": 1,
+            "xp": 2700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "All_biomes"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T15:45:06.544Z"
+}
