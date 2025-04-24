@@ -1,0 +1,61 @@
+{
+  "id": 712362,
+  "username": "SergioChica",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-15T00:38:33.000Z",
+  "date_last_played": "2024-02-17T00:05:47.000Z",
+  "profile_views": 58,
+  "kill_count": 2803,
+  "play_count": 868,
+  "highest_score": 4780751,
+  "picture": "712362.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 485,
+  "tier": 2,
+  "xp": 39900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12137,
+      "user_id": 712362,
+      "platform_id": "yt",
+      "platform_user_id": "RandomsMemesCompilation",
+      "platform_user_url": "https://www.youtube.com/channel/UCdsJ1eb34rtLfiRjZvPe89Q",
+      "verified": false,
+      "created_at": "2022-12-29T20:49:24.000Z",
+      "updated_at": "2023-07-05T00:20:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 712362,
+    "rank_kc": 10745,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-17T19:17:08.000Z",
+    "rank_pc": 14376,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-17T19:17:09.000Z",
+    "rank_hs": 8362,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-17T19:17:10.000Z",
+    "created_at": "2024-02-17T00:05:47.000Z",
+    "updated_at": "2024-02-17T00:05:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T22:54:21.767Z"
+}
