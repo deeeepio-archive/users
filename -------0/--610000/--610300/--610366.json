@@ -1,0 +1,71 @@
+{
+  "id": 610366,
+  "username": "warquis1",
+  "description": "I like train !!!!",
+  "about": "I like train",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-23T19:13:42.000Z",
+  "date_last_played": "2024-10-18T12:28:05.000Z",
+  "profile_views": 23,
+  "kill_count": 1563,
+  "play_count": 444,
+  "highest_score": 2108062,
+  "picture": "610366.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 65,
+  "tier": 2,
+  "xp": 26400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 95243,
+      "user_id": 610366,
+      "platform_id": "dc",
+      "platform_user_id": "warkis",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-07T19:05:40.000Z",
+      "updated_at": "2024-06-07T19:05:40.000Z"
+    },
+    {
+      "id": 2182,
+      "user_id": 610366,
+      "platform_id": "dc",
+      "platform_user_id": "Warkis#9984",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-13T01:41:12.000Z",
+      "updated_at": "2022-06-13T01:41:12.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 610366,
+    "rank_kc": 16102,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-11T16:53:06.000Z",
+    "rank_pc": 22711,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-11T16:53:13.000Z",
+    "rank_hs": 30907,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-11T16:53:22.000Z",
+    "created_at": "2024-10-18T12:28:04.000Z",
+    "updated_at": "2024-10-18T12:28:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T11:57:33.441Z"
+}
