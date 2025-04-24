@@ -1,0 +1,101 @@
+{
+  "id": 584258,
+  "username": "kolepsd",
+  "description": "womp womp 😔",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-05-01T21:57:01.000Z",
+  "date_last_played": "2023-09-04T00:18:06.000Z",
+  "profile_views": 0,
+  "kill_count": 11,
+  "play_count": 12,
+  "highest_score": 297345,
+  "picture": "584258-89c483b5cf2daf162bdfc1dc87c6c4be.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 16,
+  "tier": 1,
+  "xp": 900,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 25916,
+      "user_id": 584258,
+      "platform_id": "dc",
+      "platform_user_id": "kole.psd",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-03T23:20:35.000Z",
+      "updated_at": "2023-09-03T23:20:35.000Z"
+    },
+    {
+      "id": 25918,
+      "user_id": 584258,
+      "platform_id": "ig",
+      "platform_user_id": "kole.psd",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-03T23:20:58.000Z",
+      "updated_at": "2023-09-03T23:20:58.000Z"
+    },
+    {
+      "id": 25919,
+      "user_id": 584258,
+      "platform_id": "tc",
+      "platform_user_id": "kolelive",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-03T23:21:06.000Z",
+      "updated_at": "2023-09-03T23:21:06.000Z"
+    },
+    {
+      "id": 25917,
+      "user_id": 584258,
+      "platform_id": "tw",
+      "platform_user_id": "kolepsd",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-03T23:20:42.000Z",
+      "updated_at": "2023-09-03T23:20:42.000Z"
+    },
+    {
+      "id": 25920,
+      "user_id": 584258,
+      "platform_id": "yt",
+      "platform_user_id": "kolepsd",
+      "platform_user_url": "https://www.youtube.com/@kolepsd",
+      "verified": false,
+      "created_at": "2023-09-03T23:22:19.000Z",
+      "updated_at": "2023-09-03T23:22:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 584258,
+    "rank_kc": 254059,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-03T23:20:01.000Z",
+    "rank_pc": 352468,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-03T23:20:03.000Z",
+    "rank_hs": 245784,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-03T23:20:04.000Z",
+    "created_at": "2023-09-04T00:18:05.000Z",
+    "updated_at": "2023-09-04T00:18:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T09:20:58.746Z"
+}
