@@ -1,0 +1,97 @@
+{
+  "id": 617508,
+  "username": "Trever",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-26T18:35:22.000Z",
+  "date_last_played": "2019-07-27T03:39:23.000Z",
+  "profile_views": 0,
+  "kill_count": 3,
+  "play_count": 0,
+  "highest_score": 148869,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 617508,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T12:39:29.774Z",
+    "updated_at": "2025-04-24T12:39:30.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2264,
+          "user_id": 617508,
+          "cloneof_id": null,
+          "string_id": "rkdudufju",
+          "title": "Untitled",
+          "description": "fjdjfj",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 40,
+          "created_at": "2020-03-24T02:50:15.000Z",
+          "updated_at": "2020-03-24T02:50:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 617508,
+            "username": "Trever",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-26T18:35:22.000Z",
+            "date_last_played": "2019-07-27T03:39:23.000Z",
+            "kill_count": 3,
+            "play_count": 0,
+            "highest_score": 148869,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "djdjdjfjfh"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:39:29.827Z"
+}

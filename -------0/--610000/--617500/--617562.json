@@ -1,0 +1,97 @@
+{
+  "id": 617562,
+  "username": "Atlas4586b",
+  "description": "woh u got die be careful next time切爾諾夫茨克",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-26T22:39:45.000Z",
+  "date_last_played": "2023-10-30T02:15:04.000Z",
+  "profile_views": 1,
+  "kill_count": 5796,
+  "play_count": 2194,
+  "highest_score": 28976818,
+  "picture": "617562.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 258,
+  "tier": 1,
+  "xp": 5550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 617562,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T12:39:36.763Z",
+    "updated_at": "2025-04-24T12:39:37.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4677,
+          "user_id": 617562,
+          "cloneof_id": null,
+          "string_id": "iemap1",
+          "title": "Untitled",
+          "description": "h",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 412,
+          "created_at": "2020-10-27T05:40:08.000Z",
+          "updated_at": "2020-10-27T05:40:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 617562,
+            "username": "Atlas4586b",
+            "description": "woh u got die be careful next time切爾諾夫茨克",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-26T22:39:45.000Z",
+            "date_last_played": "2023-10-30T02:15:04.000Z",
+            "kill_count": 5796,
+            "play_count": 2194,
+            "highest_score": 28976818,
+            "picture": "617562.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 258,
+            "tier": 1,
+            "xp": 5550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "h"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:39:36.815Z"
+}
