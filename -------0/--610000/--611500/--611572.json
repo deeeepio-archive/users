@@ -1,0 +1,146 @@
+{
+  "id": 611572,
+  "username": "ElAzaXD",
+  "description": "Recuerda,usa la cabeza antes de actuar ;)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-06-28T23:21:48.000Z",
+  "date_last_played": "2019-08-05T17:58:56.000Z",
+  "profile_views": 1,
+  "kill_count": 4,
+  "play_count": 0,
+  "highest_score": 190600,
+  "picture": "611572.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 611572,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-10-16T21:06:40.000Z",
+    "updated_at": "2024-10-16T21:06:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 1828,
+          "user_id": 611572,
+          "cloneof_id": null,
+          "string_id": "iemi",
+          "title": "ElMApachido",
+          "description": "ta vieeen chido se acerka y ya no puedes escapar nunca jamas de aki",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 160,
+          "created_at": "2020-02-24T03:45:18.000Z",
+          "updated_at": "2020-02-24T03:45:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 611572,
+            "username": "ElAzaXD",
+            "description": "Recuerda,usa la cabeza antes de actuar ;)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-28T23:21:48.000Z",
+            "date_last_played": "2019-08-05T17:58:56.000Z",
+            "kill_count": 4,
+            "play_count": 0,
+            "highest_score": 190600,
+            "picture": "611572.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 13,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "shido pedo xd"
+            }
+          ]
+        },
+        {
+          "id": 1806,
+          "user_id": 611572,
+          "cloneof_id": null,
+          "string_id": "pedo",
+          "title": "shido",
+          "description": "hola",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 13,
+          "created_at": "2020-02-22T19:29:38.000Z",
+          "updated_at": "2020-02-22T20:30:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 611572,
+            "username": "ElAzaXD",
+            "description": "Recuerda,usa la cabeza antes de actuar ;)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-06-28T23:21:48.000Z",
+            "date_last_played": "2019-08-05T17:58:56.000Z",
+            "kill_count": 4,
+            "play_count": 0,
+            "highest_score": 190600,
+            "picture": "611572.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 13,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#Shark"
+            },
+            {
+              "id": "Sardine"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:04:27.901Z"
+}
