@@ -1,0 +1,682 @@
+{
+  "id": 614139,
+  "username": "Gatito_Max",
+  "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2019-07-12T19:09:11.000Z",
+  "date_last_played": "2025-04-12T20:20:15.000Z",
+  "profile_views": 18,
+  "kill_count": 6329,
+  "play_count": 1504,
+  "highest_score": 3661460,
+  "picture": "614139.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 169,
+  "tier": 1,
+  "xp": 23400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 614139,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-12T20:20:14.000Z",
+    "updated_at": "2025-04-12T20:20:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3150,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "BrackterFfa",
+          "title": "Brackter-Ffa",
+          "description": "This map is under construction! Please wait!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 3477,
+          "created_at": "2020-05-27T02:12:54.000Z",
+          "updated_at": "2025-03-18T20:11:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "caves"
+            },
+            {
+              "id": "eastereggs"
+            },
+            {
+              "id": "ffa19"
+            },
+            {
+              "id": "nuke"
+            }
+          ]
+        },
+        {
+          "id": 2719,
+          "user_id": 614139,
+          "cloneof_id": 2194,
+          "string_id": "DESTROY",
+          "title": "DESTROY",
+          "description": "Map In RUin´s",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 949,
+          "created_at": "2020-04-23T17:48:43.000Z",
+          "updated_at": "2020-06-06T22:04:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            }
+          ]
+        },
+        {
+          "id": 2718,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "defendthepearl",
+          "title": "Defend The Pearl",
+          "description": "EXPLORE MY MAP!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 215,
+          "created_at": "2020-04-23T16:24:56.000Z",
+          "updated_at": "2020-04-23T16:39:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            }
+          ]
+        },
+        {
+          "id": 2194,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "Cat_Max",
+          "title": "My Super Ffa (Remake)",
+          "description": "¡Try This Map!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1869,
+          "created_at": "2020-03-18T02:55:19.000Z",
+          "updated_at": "2021-03-30T13:36:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Ffa19"
+            }
+          ]
+        },
+        {
+          "id": 1981,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "Defend_Pearl",
+          "title": "Defend Pearl (one)",
+          "description": "¡Probe Defend Pearl!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 177,
+          "created_at": "2020-03-02T18:51:13.000Z",
+          "updated_at": "2020-05-01T20:02:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            }
+          ]
+        },
+        {
+          "id": 1980,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "1_v_1",
+          "title": "1v1 (Cat-Max)",
+          "description": "probe 1v1!!!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 23,
+          "created_at": "2020-03-02T17:58:23.000Z",
+          "updated_at": "2020-03-02T18:41:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            }
+          ]
+        },
+        {
+          "id": 1661,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "1v1",
+          "title": "1v1",
+          "description": "In Construction | En Construccion",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2020-02-09T20:34:43.000Z",
+          "updated_at": "2020-02-10T19:10:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            }
+          ]
+        },
+        {
+          "id": 1659,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "4_v_4_Server",
+          "title": "4v4 (0.1)",
+          "description": "¡Probe  4v4 v0.1!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 64,
+          "created_at": "2020-02-09T19:11:26.000Z",
+          "updated_at": "2020-05-01T20:27:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            }
+          ]
+        },
+        {
+          "id": 1517,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "deeeepio_fullvertion",
+          "title": "Deeeep.io FullVertion",
+          "description": "Super Deeeep.io Full Vertion!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 192,
+          "created_at": "2020-01-24T02:23:09.000Z",
+          "updated_at": "2020-01-30T02:11:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            }
+          ]
+        },
+        {
+          "id": 1506,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "sandbox",
+          "title": "Deeeep.io Mode SandBox",
+          "description": "Mode SandBox V1!!!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 50,
+          "created_at": "2020-01-20T22:57:12.000Z",
+          "updated_at": "2020-02-01T17:02:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            }
+          ]
+        },
+        {
+          "id": 754,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "Deeeepio",
+          "title": "Deeeep.io (v1.2.6)",
+          "description": "¡¡¡Like Plz!!!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 319,
+          "created_at": "2019-10-06T23:31:55.000Z",
+          "updated_at": "2020-08-13T02:00:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            }
+          ]
+        },
+        {
+          "id": 566,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "My_ffa",
+          "title": "My ffa (v 0.0.3)",
+          "description": "¡Explore My ffa!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1639,
+          "created_at": "2019-09-17T23:50:26.000Z",
+          "updated_at": "2021-03-25T20:09:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa19"
+            },
+            {
+              "id": "TITAN_V1."
+            },
+            {
+              "id": "TYTAN_V2"
+            }
+          ]
+        },
+        {
+          "id": 368,
+          "user_id": 614139,
+          "cloneof_id": null,
+          "string_id": "Gatlto_Max",
+          "title": "My ffa (v 0.0.2)",
+          "description": "¡My ffa actualitation!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 860,
+          "created_at": "2019-09-04T21:29:36.000Z",
+          "updated_at": "2021-03-30T13:41:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 614139,
+            "username": "Gatito_Max",
+            "description": "If you attack me, I will kill you. So you must have made a mistake when attacking me. And if you did not attack me, it is that I wanted to kill someone: D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-07-12T19:09:11.000Z",
+            "date_last_played": "2025-04-12T20:20:15.000Z",
+            "kill_count": 6329,
+            "play_count": 1504,
+            "highest_score": 3661460,
+            "picture": "614139.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 169,
+            "tier": 1,
+            "xp": 23400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Dinosaur"
+            },
+            {
+              "id": "Everest"
+            },
+            {
+              "id": "Nuke"
+            },
+            {
+              "id": "SHIP"
+            },
+            {
+              "id": "SUBMARINE"
+            },
+            {
+              "id": "Titanic"
+            },
+            {
+              "id": "Volcano"
+            }
+          ]
+        }
+      ],
+      "count": 13
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T12:19:46.224Z"
+}
