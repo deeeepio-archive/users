@@ -1,0 +1,97 @@
+{
+  "id": 707832,
+  "username": "4358265_797",
+  "description": "EA STORTS",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-03-05T14:29:14.000Z",
+  "date_last_played": "2020-03-13T13:25:28.000Z",
+  "profile_views": 0,
+  "kill_count": 3,
+  "play_count": 27,
+  "highest_score": 46550,
+  "picture": "707832.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 707832,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-24T22:27:32.302Z",
+    "updated_at": "2025-04-24T22:27:32.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2081,
+          "user_id": 707832,
+          "cloneof_id": null,
+          "string_id": "amazon_boxes_be_kewl",
+          "title": "Map E",
+          "description": "EEEEE",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 22,
+          "created_at": "2020-03-09T13:35:15.000Z",
+          "updated_at": "2020-03-09T13:35:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 707832,
+            "username": "4358265_797",
+            "description": "EA STORTS",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-03-05T14:29:14.000Z",
+            "date_last_played": "2020-03-13T13:25:28.000Z",
+            "kill_count": 3,
+            "play_count": 27,
+            "highest_score": 46550,
+            "picture": "707832.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "EEEEEEEEEE"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-24T22:27:32.334Z"
+}
