@@ -1,0 +1,149 @@
+{
+  "id": 785200,
+  "username": "Graigbones",
+  "description": "join the BLOOD AND IRON DISCORD today!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-24T15:03:32.000Z",
+  "date_last_played": "2024-12-19T16:32:36.000Z",
+  "profile_views": 53,
+  "kill_count": 163,
+  "play_count": 459,
+  "highest_score": 501999,
+  "picture": "785200-87b00ebb8b4d673b4a95fe48b727d2010.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 110,
+  "tier": 2,
+  "xp": 38700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 785200,
+    "rank_kc": 102618,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-14T16:41:53.000Z",
+    "rank_pc": 31967,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-14T16:42:03.000Z",
+    "rank_hs": 129779,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-11-14T16:42:17.000Z",
+    "created_at": "2024-12-19T16:32:35.000Z",
+    "updated_at": "2024-12-19T16:32:36.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11206,
+          "user_id": 785200,
+          "cloneof_id": null,
+          "string_id": "crab_kid",
+          "title": "THE OPEN OCEAN",
+          "description": "The harsh, unforgiving waters of the pacific ocean has come to Deeeep.io! (please don't choose a fresh water fish.)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 72,
+          "created_at": "2022-11-03T18:03:38.000Z",
+          "updated_at": "2024-03-26T14:53:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785200,
+            "username": "Graigbones",
+            "description": "join the BLOOD AND IRON DISCORD today!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-24T15:03:32.000Z",
+            "date_last_played": "2024-12-19T16:32:36.000Z",
+            "kill_count": 163,
+            "play_count": 459,
+            "highest_score": 501999,
+            "picture": "785200-87b00ebb8b4d673b4a95fe48b727d2010.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 110,
+            "tier": 2,
+            "xp": 38700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#Deeeep.io"
+            },
+            {
+              "id": "#Ocean"
+            },
+            {
+              "id": "#Open Ocean"
+            }
+          ]
+        },
+        {
+          "id": 4655,
+          "user_id": 785200,
+          "cloneof_id": null,
+          "string_id": "spin0s_firstmap",
+          "title": "Great MAP",
+          "description": "...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 13,
+          "created_at": "2020-10-24T15:10:02.000Z",
+          "updated_at": "2022-11-03T19:50:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785200,
+            "username": "Graigbones",
+            "description": "join the BLOOD AND IRON DISCORD today!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-24T15:03:32.000Z",
+            "date_last_played": "2024-12-19T16:32:36.000Z",
+            "kill_count": 163,
+            "play_count": 459,
+            "highest_score": 501999,
+            "picture": "785200-87b00ebb8b4d673b4a95fe48b727d2010.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 110,
+            "tier": 2,
+            "xp": 38700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#Deeeep.io"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T06:31:32.101Z"
+}
