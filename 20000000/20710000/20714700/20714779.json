@@ -1,0 +1,290 @@
+{
+  "id": 20714779,
+  "username": "8900780_534",
+  "description": "You're just a scarely cat, pussy!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-10T20:43:53.000Z",
+  "date_last_played": "2021-04-12T16:00:41.000Z",
+  "profile_views": 0,
+  "kill_count": 2,
+  "play_count": 27,
+  "highest_score": 24245,
+  "picture": "20714779.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20714779,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T12:26:32.928Z",
+    "updated_at": "2025-04-25T12:26:33.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6750,
+          "user_id": 20714779,
+          "cloneof_id": 5433,
+          "string_id": "alidsu",
+          "title": "Featured map",
+          "description": "Featured map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1689,
+          "created_at": "2021-05-05T22:56:08.000Z",
+          "updated_at": "2021-05-05T22:56:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20714779,
+            "username": "8900780_534",
+            "description": "You're just a scarely cat, pussy!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-10T20:43:53.000Z",
+            "date_last_played": "2021-04-12T16:00:41.000Z",
+            "kill_count": 2,
+            "play_count": 27,
+            "highest_score": 24245,
+            "picture": "20714779.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Featured map"
+            }
+          ]
+        },
+        {
+          "id": 6515,
+          "user_id": 20714779,
+          "cloneof_id": 6509,
+          "string_id": "1765e2",
+          "title": "SandBox",
+          "description": "working of somebody project",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 19,
+          "created_at": "2021-04-12T15:45:37.000Z",
+          "updated_at": "2021-04-12T15:47:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20714779,
+            "username": "8900780_534",
+            "description": "You're just a scarely cat, pussy!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-10T20:43:53.000Z",
+            "date_last_played": "2021-04-12T16:00:41.000Z",
+            "kill_count": 2,
+            "play_count": 27,
+            "highest_score": 24245,
+            "picture": "20714779.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "SandBox"
+            }
+          ]
+        },
+        {
+          "id": 6501,
+          "user_id": 20714779,
+          "cloneof_id": null,
+          "string_id": "veget02",
+          "title": "Miami Parradies",
+          "description": "A level who took me my life!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 365,
+          "created_at": "2021-04-11T13:09:04.000Z",
+          "updated_at": "2021-05-05T22:57:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20714779,
+            "username": "8900780_534",
+            "description": "You're just a scarely cat, pussy!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-10T20:43:53.000Z",
+            "date_last_played": "2021-04-12T16:00:41.000Z",
+            "kill_count": 2,
+            "play_count": 27,
+            "highest_score": 24245,
+            "picture": "20714779.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " Miami Parradies"
+            },
+            {
+              "id": " VegetOWL"
+            },
+            {
+              "id": "life"
+            }
+          ]
+        },
+        {
+          "id": 6497,
+          "user_id": 20714779,
+          "cloneof_id": 6465,
+          "string_id": "arien",
+          "title": "OMG",
+          "description": "hahaha",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 122,
+          "created_at": "2021-04-10T23:54:35.000Z",
+          "updated_at": "2021-04-10T23:54:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20714779,
+            "username": "8900780_534",
+            "description": "You're just a scarely cat, pussy!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-10T20:43:53.000Z",
+            "date_last_played": "2021-04-12T16:00:41.000Z",
+            "kill_count": 2,
+            "play_count": 27,
+            "highest_score": 24245,
+            "picture": "20714779.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "12345678"
+            }
+          ]
+        },
+        {
+          "id": 6496,
+          "user_id": 20714779,
+          "cloneof_id": null,
+          "string_id": "veget01",
+          "title": "First map",
+          "description": "hahaha",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 25,
+          "created_at": "2021-04-10T23:41:06.000Z",
+          "updated_at": "2021-04-11T00:17:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20714779,
+            "username": "8900780_534",
+            "description": "You're just a scarely cat, pussy!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-10T20:43:53.000Z",
+            "date_last_played": "2021-04-12T16:00:41.000Z",
+            "kill_count": 2,
+            "play_count": 27,
+            "highest_score": 24245,
+            "picture": "20714779.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "underworld"
+            },
+            {
+              "id": "VegetOWL"
+            }
+          ]
+        }
+      ],
+      "count": 5
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:26:33.014Z"
+}
