@@ -1,0 +1,61 @@
+{
+  "id": 20757902,
+  "username": "womenenjoyer",
+  "description": "mogged",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-11T10:46:05.000Z",
+  "date_last_played": "2024-12-19T11:40:44.000Z",
+  "profile_views": 45,
+  "kill_count": 752,
+  "play_count": 602,
+  "highest_score": 2330700,
+  "picture": "20757902-c36c7e28c2ac588c71f1448b133cd210c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 73,
+  "tier": 2,
+  "xp": 51900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 512,
+      "user_id": 20757902,
+      "platform_id": "dc",
+      "platform_user_id": "Empty1189",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-22T18:25:58.000Z",
+      "updated_at": "2024-08-13T19:24:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20757902,
+    "rank_kc": 29739,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-29T13:15:45.000Z",
+    "rank_pc": 18099,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-29T13:15:46.000Z",
+    "rank_hs": 26200,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-28T15:23:10.000Z",
+    "created_at": "2024-12-19T11:40:43.000Z",
+    "updated_at": "2024-12-19T11:40:44.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:52:38.740Z"
+}
