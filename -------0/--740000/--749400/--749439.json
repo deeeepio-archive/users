@@ -1,0 +1,81 @@
+{
+  "id": 749439,
+  "username": "SBBepis",
+  "description": "Bonjour",
+  "about": "Me game so mopeio lol xd gg",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-06-12T04:00:51.000Z",
+  "date_last_played": "2025-03-14T04:34:01.000Z",
+  "profile_views": 101,
+  "kill_count": 2853,
+  "play_count": 1147,
+  "highest_score": 5544159,
+  "picture": "749439-f1910211095b5f9a61077d3623db322d737-dbec9942-009b-4b90-886c-b1479bfb3f7a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 208,
+  "tier": 4,
+  "xp": 170850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 24628,
+      "user_id": 749439,
+      "platform_id": "dc",
+      "platform_user_id": "sbbepis",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-14T21:43:52.000Z",
+      "updated_at": "2024-08-11T03:51:04.000Z"
+    },
+    {
+      "id": 24630,
+      "user_id": 749439,
+      "platform_id": "rd",
+      "platform_user_id": "SBBepis",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-14T21:44:48.000Z",
+      "updated_at": "2023-08-14T21:44:48.000Z"
+    },
+    {
+      "id": 24629,
+      "user_id": 749439,
+      "platform_id": "yt",
+      "platform_user_id": "SBBepis",
+      "platform_user_url": "https://www.youtube.com/@SBBepis",
+      "verified": false,
+      "created_at": "2023-08-14T21:44:32.000Z",
+      "updated_at": "2024-08-12T04:00:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 749439,
+    "rank_kc": 11834,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-14T21:39:45.000Z",
+    "rank_pc": 12502,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-14T21:39:47.000Z",
+    "rank_hs": 11115,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-14T21:39:49.000Z",
+    "created_at": "2025-03-14T04:34:00.000Z",
+    "updated_at": "2025-03-14T04:34:01.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T02:47:10.099Z"
+}
