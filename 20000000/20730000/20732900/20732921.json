@@ -1,0 +1,97 @@
+{
+  "id": 20732921,
+  "username": "OGJackswagman",
+  "description": "Better luck next time, and be sure to join team COLD.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-30T20:31:47.000Z",
+  "date_last_played": "2024-12-03T14:44:42.000Z",
+  "profile_views": 118,
+  "kill_count": 632,
+  "play_count": 982,
+  "highest_score": 1103872,
+  "picture": "20732921.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 102,
+  "tier": 2,
+  "xp": 73950,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20732921,
+    "rank_kc": 37195,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-11T13:34:54.000Z",
+    "rank_pc": 12583,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-11T13:39:56.000Z",
+    "rank_hs": 79134,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-11T13:34:56.000Z",
+    "created_at": "2024-12-03T14:44:41.000Z",
+    "updated_at": "2024-12-03T14:44:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8180,
+          "user_id": 20732921,
+          "cloneof_id": null,
+          "string_id": "big_a_mega_map",
+          "title": "Untitled",
+          "description": "horray",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 103,
+          "created_at": "2021-10-13T19:02:05.000Z",
+          "updated_at": "2022-09-15T11:56:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20732921,
+            "username": "OGJackswagman",
+            "description": "Better luck next time, and be sure to join team COLD.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-05-30T20:31:47.000Z",
+            "date_last_played": "2024-12-03T14:44:42.000Z",
+            "kill_count": 632,
+            "play_count": 982,
+            "highest_score": 1103872,
+            "picture": "20732921.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 102,
+            "tier": 2,
+            "xp": 73950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "op"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T14:19:11.585Z"
+}
