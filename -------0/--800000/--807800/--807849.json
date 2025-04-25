@@ -1,0 +1,122 @@
+{
+  "id": 807849,
+  "username": "trinhbaoan",
+  "description": "hihi",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-30T08:50:36.000Z",
+  "date_last_played": "2025-04-19T13:43:27.000Z",
+  "profile_views": 222,
+  "kill_count": 2229,
+  "play_count": 3305,
+  "highest_score": 2026276,
+  "picture": "807849-329f1111a5a110d79e3a7b860f26eb9ba-269c3a84-2524-48a5-890c-8ad25a9bb20f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 410,
+  "tier": 4,
+  "xp": 205650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4091,
+      "user_id": 807849,
+      "platform_id": "dc",
+      "platform_user_id": "trinhbaoan#0015",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-24T13:55:27.000Z",
+      "updated_at": "2022-07-24T13:55:27.000Z"
+    },
+    {
+      "id": 4092,
+      "user_id": 807849,
+      "platform_id": "yt",
+      "platform_user_id": "anaconda",
+      "platform_user_url": "https://www.youtube.com/channel/UCMzA_mfuYbnVn3JC9xVoiNQ",
+      "verified": false,
+      "created_at": "2022-07-24T13:56:14.000Z",
+      "updated_at": "2022-07-24T13:56:14.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 807849,
+    "rank_kc": 20274,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-15T04:20:49.000Z",
+    "rank_pc": 2348,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-15T04:20:50.000Z",
+    "rank_hs": 36338,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-15T04:20:51.000Z",
+    "created_at": "2025-04-19T13:43:26.000Z",
+    "updated_at": "2025-04-19T13:43:27.000Z",
+    "pd": {
+      "played": 10,
+      "won": 9,
+      "ratio": 90
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8186,
+          "user_id": 807849,
+          "cloneof_id": null,
+          "string_id": "12121211",
+          "title": "Untitled",
+          "description": "eww",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 32,
+          "created_at": "2021-10-14T11:02:45.000Z",
+          "updated_at": "2021-10-14T11:16:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 807849,
+            "username": "trinhbaoan",
+            "description": "hihi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-30T08:50:36.000Z",
+            "date_last_played": "2025-04-19T13:43:27.000Z",
+            "kill_count": 2229,
+            "play_count": 3305,
+            "highest_score": 2026276,
+            "picture": "807849-329f1111a5a110d79e3a7b860f26eb9ba-269c3a84-2524-48a5-890c-8ad25a9bb20f.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 410,
+            "tier": 4,
+            "xp": 205650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hi"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:13:57.592Z"
+}
