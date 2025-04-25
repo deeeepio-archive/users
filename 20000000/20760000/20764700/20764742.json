@@ -1,0 +1,97 @@
+{
+  "id": 20764742,
+  "username": "7134994_512",
+  "description": "Naughty Boy. Naughty Boy. It's past your bedtime. Nighty-Night~",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-06T21:07:30.000Z",
+  "date_last_played": "2022-02-15T01:48:16.000Z",
+  "profile_views": 0,
+  "kill_count": 83,
+  "play_count": 146,
+  "highest_score": 448366,
+  "picture": "20764742.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 500,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20764742,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T17:42:42.980Z",
+    "updated_at": "2025-04-25T17:42:43.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8379,
+          "user_id": 20764742,
+          "cloneof_id": null,
+          "string_id": "my_deep_io_map",
+          "title": "Deeeep.IO Map",
+          "description": "Hi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 60,
+          "created_at": "2021-10-29T00:00:11.000Z",
+          "updated_at": "2021-10-29T00:00:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20764742,
+            "username": "7134994_512",
+            "description": "Naughty Boy. Naughty Boy. It's past your bedtime. Nighty-Night~",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-06T21:07:30.000Z",
+            "date_last_played": "2022-02-15T01:48:16.000Z",
+            "kill_count": 83,
+            "play_count": 146,
+            "highest_score": 448366,
+            "picture": "20764742.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 500,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "yes"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:42:43.053Z"
+}
