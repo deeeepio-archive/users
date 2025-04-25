@@ -1,0 +1,61 @@
+{
+  "id": 20725623,
+  "username": "Duncle",
+  "description": "Diffed",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-09T16:23:49.000Z",
+  "date_last_played": "2025-03-24T19:28:21.000Z",
+  "profile_views": 121,
+  "kill_count": 2040,
+  "play_count": 379,
+  "highest_score": 6292606,
+  "picture": "20725623-8401503c610cfe9d61861ad29b6810cb7-6dae2741-5b94-4ffe-b659-c778f75feddb.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 231,
+  "tier": 4,
+  "xp": 167700,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103230,
+      "user_id": 20725623,
+      "platform_id": "dc",
+      "platform_user_id": "duncle0",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-03-18T21:55:39.000Z",
+      "updated_at": "2025-03-18T21:55:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20725623,
+    "rank_kc": 19135,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-20T04:47:55.000Z",
+    "rank_pc": 45402,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-20T05:04:57.000Z",
+    "rank_hs": 6253,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-20T05:33:02.000Z",
+    "created_at": "2025-03-24T19:28:21.000Z",
+    "updated_at": "2025-03-24T19:28:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T13:34:18.242Z"
+}
