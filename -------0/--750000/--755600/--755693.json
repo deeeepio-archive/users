@@ -1,0 +1,143 @@
+{
+  "id": 755693,
+  "username": "otey890",
+  "description": "and in that moment he know he fucked up thanks for your lovely soul",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-07-03T17:42:13.000Z",
+  "date_last_played": "2022-03-01T14:34:10.000Z",
+  "profile_views": 0,
+  "kill_count": 6533,
+  "play_count": 3337,
+  "highest_score": 134392569,
+  "picture": "755693.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 38,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 755693,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T03:24:23.669Z",
+    "updated_at": "2025-04-25T03:24:24.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3906,
+          "user_id": 755693,
+          "cloneof_id": null,
+          "string_id": "earth2",
+          "title": "Deeeeep.io",
+          "description": "fish home",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 686,
+          "created_at": "2020-08-03T00:18:11.000Z",
+          "updated_at": "2021-03-15T17:34:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 755693,
+            "username": "otey890",
+            "description": "and in that moment he know he fucked up thanks for your lovely soul",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-07-03T17:42:13.000Z",
+            "date_last_played": "2022-03-01T14:34:10.000Z",
+            "kill_count": 6533,
+            "play_count": 3337,
+            "highest_score": 134392569,
+            "picture": "755693.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 38,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "i love fish"
+            }
+          ]
+        },
+        {
+          "id": 3593,
+          "user_id": 755693,
+          "cloneof_id": null,
+          "string_id": "feesh",
+          "title": "Untitled",
+          "description": "island",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 538,
+          "created_at": "2020-07-03T18:18:28.000Z",
+          "updated_at": "2021-03-15T17:33:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 755693,
+            "username": "otey890",
+            "description": "and in that moment he know he fucked up thanks for your lovely soul",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-07-03T17:42:13.000Z",
+            "date_last_played": "2022-03-01T14:34:10.000Z",
+            "kill_count": 6533,
+            "play_count": 3337,
+            "highest_score": 134392569,
+            "picture": "755693.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 38,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "12kjkjis"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T03:24:23.739Z"
+}
