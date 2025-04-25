@@ -1,0 +1,61 @@
+{
+  "id": 729628,
+  "username": "Saladin",
+  "description": "صلاح الدين\n\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-26T16:32:24.000Z",
+  "date_last_played": "2024-01-06T17:46:28.000Z",
+  "profile_views": 156,
+  "kill_count": 9207,
+  "play_count": 5153,
+  "highest_score": 4331030,
+  "picture": "729628-710a84f9dfa07f2c3865a11cdd178e59d.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 679,
+  "tier": 5,
+  "xp": 374700,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7747,
+      "user_id": 729628,
+      "platform_id": "dc",
+      "platform_user_id": "pcyuu",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-07T15:25:14.000Z",
+      "updated_at": "2023-12-23T15:02:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 729628,
+    "rank_kc": 2729,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-06T17:37:38.000Z",
+    "rank_pc": 1079,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-06T17:37:41.000Z",
+    "rank_hs": 10956,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-06T17:37:42.000Z",
+    "created_at": "2024-01-12T16:53:40.000Z",
+    "updated_at": "2024-01-06T17:46:28.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T00:36:39.244Z"
+}
