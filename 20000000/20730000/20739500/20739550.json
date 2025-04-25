@@ -1,0 +1,61 @@
+{
+  "id": 20739550,
+  "username": "Green_lightning",
+  "description": "Noice",
+  "about": "Noice Noice",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-06-23T12:02:22.000Z",
+  "date_last_played": "2023-03-12T16:30:25.000Z",
+  "profile_views": 3,
+  "kill_count": 126,
+  "play_count": 501,
+  "highest_score": 561919,
+  "picture": "20739550-513ea5b310192573fac36c1c1025dfe5e8.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 561,
+  "tier": 1,
+  "xp": 2700,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16176,
+      "user_id": 20739550,
+      "platform_id": "yt",
+      "platform_user_id": "L3mon dev",
+      "platform_user_url": "https://www.youtube.com/channel/UC_mA7IagZ0eQqGcbXw-K6hg",
+      "verified": false,
+      "created_at": "2023-03-12T15:55:08.000Z",
+      "updated_at": "2023-03-12T15:55:08.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20739550,
+    "rank_kc": 87828,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-12T15:55:16.000Z",
+    "rank_pc": 20947,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-12T15:55:16.000Z",
+    "rank_hs": 127898,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-12T15:55:18.000Z",
+    "created_at": "2023-03-12T16:30:24.000Z",
+    "updated_at": "2023-03-12T16:30:25.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T14:59:49.851Z"
+}
