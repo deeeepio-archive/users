@@ -1,0 +1,97 @@
+{
+  "id": 788934,
+  "username": "Sidij",
+  "description": "죽었네 ㅋ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-05T14:44:31.000Z",
+  "date_last_played": "2023-09-13T14:01:11.000Z",
+  "profile_views": 3,
+  "kill_count": 3339,
+  "play_count": 1337,
+  "highest_score": 2110532,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 189,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 788934,
+    "rank_kc": 7040,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-10T02:50:10.000Z",
+    "rank_pc": 6581,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-10T02:50:12.000Z",
+    "rank_hs": 29142,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-10T02:50:12.000Z",
+    "created_at": "2023-09-13T14:01:11.000Z",
+    "updated_at": "2023-09-13T14:01:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5493,
+          "user_id": 788934,
+          "cloneof_id": null,
+          "string_id": "damap",
+          "title": "da map",
+          "description": "It's stupid.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2021-01-06T07:13:04.000Z",
+          "updated_at": "2021-01-06T07:56:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 788934,
+            "username": "Sidij",
+            "description": "죽었네 ㅋ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-05T14:44:31.000Z",
+            "date_last_played": "2023-09-13T14:01:11.000Z",
+            "kill_count": 3339,
+            "play_count": 1337,
+            "highest_score": 2110532,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 189,
+            "tier": 1,
+            "xp": 750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "yeet"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:06:23.409Z"
+}
