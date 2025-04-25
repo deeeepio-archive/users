@@ -1,0 +1,208 @@
+{
+  "id": 20711629,
+  "username": "jamboss",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-01T18:02:08.000Z",
+  "date_last_played": "2022-09-11T03:28:34.000Z",
+  "profile_views": 0,
+  "kill_count": 12,
+  "play_count": 39,
+  "highest_score": 187735,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20711629,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T12:07:07.158Z",
+    "updated_at": "2025-04-25T12:07:07.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10885,
+          "user_id": 20711629,
+          "cloneof_id": null,
+          "string_id": "coolffamap",
+          "title": "FFA Map (WIP)",
+          "description": "Working FFA map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 339,
+          "created_at": "2022-09-11T03:29:24.000Z",
+          "updated_at": "2022-09-11T21:37:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20711629,
+            "username": "jamboss",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-01T18:02:08.000Z",
+            "date_last_played": "2022-09-11T03:28:34.000Z",
+            "kill_count": 12,
+            "play_count": 39,
+            "highest_score": 187735,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 1,
+            "xp": 450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 6435,
+          "user_id": 20711629,
+          "cloneof_id": null,
+          "string_id": "my_map_113",
+          "title": "idk",
+          "description": "its not done yet",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 535,
+          "created_at": "2021-04-02T18:02:46.000Z",
+          "updated_at": "2021-04-10T20:30:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20711629,
+            "username": "jamboss",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-01T18:02:08.000Z",
+            "date_last_played": "2022-09-11T03:28:34.000Z",
+            "kill_count": 12,
+            "play_count": 39,
+            "highest_score": 187735,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 1,
+            "xp": 450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "amazing"
+            },
+            {
+              "id": "awesome"
+            },
+            {
+              "id": "cold_swamp"
+            },
+            {
+              "id": "cool"
+            },
+            {
+              "id": "epic"
+            },
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "ice cavern"
+            },
+            {
+              "id": "reef"
+            },
+            {
+              "id": "trench"
+            },
+            {
+              "id": "volcano"
+            }
+          ]
+        },
+        {
+          "id": 6427,
+          "user_id": 20711629,
+          "cloneof_id": null,
+          "string_id": "my_first_map112",
+          "title": "Untitled",
+          "description": "my first map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 332,
+          "created_at": "2021-04-01T19:57:37.000Z",
+          "updated_at": "2021-04-01T19:57:38.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20711629,
+            "username": "jamboss",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-01T18:02:08.000Z",
+            "date_last_played": "2022-09-11T03:28:34.000Z",
+            "kill_count": 12,
+            "play_count": 39,
+            "highest_score": 187735,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 1,
+            "xp": 450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:07:07.225Z"
+}
