@@ -1,0 +1,111 @@
+{
+  "id": 20724163,
+  "username": "lionfeeshy",
+  "description": "I cooka da pizza, so unless you want to be the toppings of my signature pizza you should stay away next time.",
+  "about": "mozzarella",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-05T02:38:00.000Z",
+  "date_last_played": "2024-09-27T22:05:09.000Z",
+  "profile_views": 239,
+  "kill_count": 1297,
+  "play_count": 774,
+  "highest_score": 3627937,
+  "picture": "20724163-7132c3bc74899fa4107eebf9eb5f4cd93.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 101,
+  "tier": 5,
+  "xp": 262950,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4147,
+      "user_id": 20724163,
+      "platform_id": "rd",
+      "platform_user_id": "lionfeeshy",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-26T00:40:08.000Z",
+      "updated_at": "2022-07-26T00:40:08.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20724163,
+    "rank_kc": 22230,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-18T01:43:38.000Z",
+    "rank_pc": 15756,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-18T01:43:41.000Z",
+    "rank_hs": 12802,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-18T01:43:45.000Z",
+    "created_at": "2024-09-27T22:05:13.000Z",
+    "updated_at": "2024-09-27T22:05:09.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10894,
+          "user_id": 20724163,
+          "cloneof_id": null,
+          "string_id": "deprssion",
+          "title": "Grayscale",
+          "description": "A mostly grayscale map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 61,
+          "created_at": "2022-09-12T02:41:45.000Z",
+          "updated_at": "2022-10-23T01:26:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20724163,
+            "username": "lionfeeshy",
+            "description": "I cooka da pizza, so unless you want to be the toppings of my signature pizza you should stay away next time.",
+            "about": "mozzarella",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-05-05T02:38:00.000Z",
+            "date_last_played": "2024-09-27T22:05:09.000Z",
+            "kill_count": 1297,
+            "play_count": 774,
+            "highest_score": 3627937,
+            "picture": "20724163-7132c3bc74899fa4107eebf9eb5f4cd93.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 101,
+            "tier": 5,
+            "xp": 262950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Grayscale"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T13:24:25.321Z"
+}
