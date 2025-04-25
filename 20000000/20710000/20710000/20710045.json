@@ -1,0 +1,106 @@
+{
+  "id": 20710045,
+  "username": "Nerf_Orca",
+  "description": "Die if your gay challenge\n\n( ͡ʘ ͜ʖ ͡ʘ)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-28T13:48:35.000Z",
+  "date_last_played": "2022-11-01T19:13:08.000Z",
+  "profile_views": 9,
+  "kill_count": 1008,
+  "play_count": 669,
+  "highest_score": 1125911,
+  "picture": "20710045-ac5292b54dfa77573ed01d613b4d61f7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 143,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20710045,
+    "rank_kc": 22557,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-05T00:59:49.000Z",
+    "rank_pc": 14552,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-05T00:59:53.000Z",
+    "rank_hs": 68109,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-11-05T00:59:56.000Z",
+    "created_at": "2022-12-24T11:57:28.000Z",
+    "updated_at": "2022-11-05T00:59:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6428,
+          "user_id": 20710045,
+          "cloneof_id": null,
+          "string_id": "kool_map_22",
+          "title": "THE COOL MAP",
+          "description": "NOICE",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 47,
+          "created_at": "2021-04-01T21:34:30.000Z",
+          "updated_at": "2021-04-01T22:15:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20710045,
+            "username": "Nerf_Orca",
+            "description": "Die if your gay challenge\n\n( ͡ʘ ͜ʖ ͡ʘ)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-28T13:48:35.000Z",
+            "date_last_played": "2022-11-01T19:13:08.000Z",
+            "kill_count": 1008,
+            "play_count": 669,
+            "highest_score": 1125911,
+            "picture": "20710045-ac5292b54dfa77573ed01d613b4d61f7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 143,
+            "tier": 1,
+            "xp": 1500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "awesome"
+            },
+            {
+              "id": "Best Map"
+            },
+            {
+              "id": "cool"
+            },
+            {
+              "id": "Fun"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T11:57:06.652Z"
+}
