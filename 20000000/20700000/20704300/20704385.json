@@ -1,0 +1,143 @@
+{
+  "id": 20704385,
+  "username": "glooko",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-14T13:54:58.000Z",
+  "date_last_played": "2021-03-16T21:23:18.000Z",
+  "profile_views": 0,
+  "kill_count": 5,
+  "play_count": 28,
+  "highest_score": 34035,
+  "picture": "20704385.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20704385,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T11:23:07.559Z",
+    "updated_at": "2025-04-25T11:23:08.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6208,
+          "user_id": 20704385,
+          "cloneof_id": null,
+          "string_id": "123cool123",
+          "title": "the swamp",
+          "description": "its may second map!!!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 26,
+          "created_at": "2021-03-14T14:59:47.000Z",
+          "updated_at": "2021-03-14T17:36:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20704385,
+            "username": "glooko",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-14T13:54:58.000Z",
+            "date_last_played": "2021-03-16T21:23:18.000Z",
+            "kill_count": 5,
+            "play_count": 28,
+            "highest_score": 34035,
+            "picture": "20704385.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 4,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "im cool"
+            }
+          ]
+        },
+        {
+          "id": 6207,
+          "user_id": 20704385,
+          "cloneof_id": null,
+          "string_id": "__11",
+          "title": "Untitled",
+          "description": "its my first map lol",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 24,
+          "created_at": "2021-03-14T13:57:04.000Z",
+          "updated_at": "2021-03-14T13:57:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20704385,
+            "username": "glooko",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-14T13:54:58.000Z",
+            "date_last_played": "2021-03-16T21:23:18.000Z",
+            "kill_count": 5,
+            "play_count": 28,
+            "highest_score": 34035,
+            "picture": "20704385.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 4,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "do you like it??"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T11:23:07.613Z"
+}
