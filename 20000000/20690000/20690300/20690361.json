@@ -1,0 +1,75 @@
+{
+  "id": 20690361,
+  "username": "cheem",
+  "description": "cheemsburbger",
+  "about": "worried if im locked up? make sure that your rent payed. \n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-02-07T17:30:41.000Z",
+  "date_last_played": "2025-04-25T02:52:28.000Z",
+  "profile_views": 734,
+  "kill_count": 39251,
+  "play_count": 11021,
+  "highest_score": 10008196,
+  "picture": "20690361.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1463,
+  "tier": 8,
+  "xp": 890700,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 157,
+      "user_id": 20690361,
+      "platform_id": "dc",
+      "platform_user_id": "cheems#1889",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-18T03:39:26.000Z",
+      "updated_at": "2022-05-18T03:39:26.000Z"
+    },
+    {
+      "id": 158,
+      "user_id": 20690361,
+      "platform_id": "yt",
+      "platform_user_id": "yt",
+      "platform_user_url": "https://youtube.com/c/YungeenAce",
+      "verified": false,
+      "created_at": "2022-05-18T03:47:45.000Z",
+      "updated_at": "2022-07-24T03:48:04.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20690361,
+    "rank_kc": 150,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-15T03:19:44.000Z",
+    "rank_pc": 127,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-15T03:19:47.000Z",
+    "rank_hs": 2763,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-15T03:19:49.000Z",
+    "created_at": "2025-04-25T02:52:27.000Z",
+    "updated_at": "2025-04-25T02:52:28.000Z",
+    "pd": {
+      "played": 6,
+      "won": 5,
+      "ratio": 83
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:58:14.874Z"
+}
