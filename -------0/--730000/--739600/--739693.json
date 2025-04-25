@@ -1,0 +1,101 @@
+{
+  "id": 739693,
+  "username": "smushedtomato",
+  "description": "You just got smushed",
+  "about": "I'm a dipshit who doodles frogs a bit too much.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-15T20:59:28.000Z",
+  "date_last_played": "2023-05-01T09:22:31.000Z",
+  "profile_views": 15,
+  "kill_count": 746,
+  "play_count": 354,
+  "highest_score": 1396644,
+  "picture": "739693-708caf308109a5454d5601e9e19c8f843.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 62,
+  "tier": 1,
+  "xp": 9300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18172,
+      "user_id": 739693,
+      "platform_id": "dc",
+      "platform_user_id": "smushedtomato#4308",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-28T22:28:16.000Z",
+      "updated_at": "2023-04-28T22:28:16.000Z"
+    },
+    {
+      "id": 18175,
+      "user_id": 739693,
+      "platform_id": "rd",
+      "platform_user_id": "smushedtomato",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-28T22:28:38.000Z",
+      "updated_at": "2023-04-28T22:28:38.000Z"
+    },
+    {
+      "id": 18173,
+      "user_id": 739693,
+      "platform_id": "tc",
+      "platform_user_id": "smushedtomato",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-28T22:28:23.000Z",
+      "updated_at": "2023-04-28T22:28:23.000Z"
+    },
+    {
+      "id": 18174,
+      "user_id": 739693,
+      "platform_id": "tw",
+      "platform_user_id": "smushdtomato",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-28T22:28:30.000Z",
+      "updated_at": "2023-04-28T22:28:30.000Z"
+    },
+    {
+      "id": 18176,
+      "user_id": 739693,
+      "platform_id": "yt",
+      "platform_user_id": "smushedtomato",
+      "platform_user_url": "https://www.youtube.com/channel/UCBPCALy7GX_UHDDNiUZB-yw",
+      "verified": false,
+      "created_at": "2023-04-28T22:29:14.000Z",
+      "updated_at": "2023-04-28T22:29:14.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 739693,
+    "rank_kc": 31059,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-01T09:22:45.000Z",
+    "rank_pc": 28206,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-01T09:22:46.000Z",
+    "rank_hs": 58765,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-01T09:22:47.000Z",
+    "created_at": "2023-12-11T08:20:19.000Z",
+    "updated_at": "2023-05-01T09:22:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:36:28.962Z"
+}
