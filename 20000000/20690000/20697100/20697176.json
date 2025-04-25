@@ -1,0 +1,97 @@
+{
+  "id": 20697176,
+  "username": "sadra_sf",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-02-24T10:21:31.000Z",
+  "date_last_played": "2021-03-05T12:24:36.000Z",
+  "profile_views": 0,
+  "kill_count": 13,
+  "play_count": 1,
+  "highest_score": 311103,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20697176,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T10:39:59.961Z",
+    "updated_at": "2025-04-25T10:40:00.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6046,
+          "user_id": 20697176,
+          "cloneof_id": null,
+          "string_id": "sadrafathi88",
+          "title": "death of kinds!!!!",
+          "description": "die or die",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 14,
+          "created_at": "2021-02-24T11:36:02.000Z",
+          "updated_at": "2021-02-24T11:39:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20697176,
+            "username": "sadra_sf",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-02-24T10:21:31.000Z",
+            "date_last_played": "2021-03-05T12:24:36.000Z",
+            "kill_count": 13,
+            "play_count": 1,
+            "highest_score": 311103,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "free mode"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T10:40:00.042Z"
+}
