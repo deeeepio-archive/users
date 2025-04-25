@@ -1,0 +1,61 @@
+{
+  "id": 20688665,
+  "username": "Bugraak",
+  "description": "BRUH",
+  "about": "Hello\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-02-03T16:27:53.000Z",
+  "date_last_played": "2024-06-04T21:21:08.000Z",
+  "profile_views": 44,
+  "kill_count": 1104,
+  "play_count": 428,
+  "highest_score": 3458261,
+  "picture": "20688665-a29bb2fdb69c101e3dbb109577df1831105.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 163,
+  "tier": 4,
+  "xp": 188550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23941,
+      "user_id": 20688665,
+      "platform_id": "ig",
+      "platform_user_id": "bugrasgr",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-05T07:56:45.000Z",
+      "updated_at": "2023-08-05T07:56:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20688665,
+    "rank_kc": 28000,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-14T19:34:50.000Z",
+    "rank_pc": 28268,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-14T19:34:52.000Z",
+    "rank_hs": 62724,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-14T19:34:54.000Z",
+    "created_at": "2024-06-04T21:21:07.000Z",
+    "updated_at": "2024-06-04T21:21:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:47:19.088Z"
+}
