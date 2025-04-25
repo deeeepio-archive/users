@@ -1,0 +1,97 @@
+{
+  "id": 20806303,
+  "username": "ayden-",
+  "description": "\nI have nothing to tell you....\n\n",
+  "about": "Он хочет, чтобы вы понесли цену за свой грех",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-10T11:34:13.000Z",
+  "date_last_played": "2025-04-13T18:18:46.000Z",
+  "profile_views": 3176,
+  "kill_count": 5134,
+  "play_count": 2502,
+  "highest_score": 2595055,
+  "picture": "20806303-f61011d10487617336e43ade14b71601b-b44ad221-9363-418d-8193-4ebdcc137848.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1471,
+  "tier": 9,
+  "xp": 1030350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20806303,
+    "rank_kc": 6199,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-29T12:47:44.000Z",
+    "rank_pc": 4532,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-29T12:47:48.000Z",
+    "rank_hs": 27587,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-29T12:47:51.000Z",
+    "created_at": "2025-04-13T18:18:46.000Z",
+    "updated_at": "2025-04-13T18:18:46.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11425,
+          "user_id": 20806303,
+          "cloneof_id": null,
+          "string_id": "eren112",
+          "title": "Untitled",
+          "description": "run121",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 113,
+          "created_at": "2022-12-09T15:58:09.000Z",
+          "updated_at": "2022-12-09T16:03:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20806303,
+            "username": "ayden-",
+            "description": "\nI have nothing to tell you....\n\n",
+            "about": "Он хочет, чтобы вы понесли цену за свой грех",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-10T11:34:13.000Z",
+            "date_last_played": "2025-04-13T18:18:46.000Z",
+            "kill_count": 5134,
+            "play_count": 2502,
+            "highest_score": 2595055,
+            "picture": "20806303-f61011d10487617336e43ade14b71601b-b44ad221-9363-418d-8193-4ebdcc137848.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1471,
+            "tier": 9,
+            "xp": 1030350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "75"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:02:24.852Z"
+}
