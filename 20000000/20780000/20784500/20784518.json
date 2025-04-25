@@ -1,0 +1,124 @@
+{
+  "id": 20784518,
+  "username": "nuggetmisa",
+  "description": "good game",
+  "about": "gar and polar main\ntrying out torp & tiger",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-12-09T12:57:50.000Z",
+  "date_last_played": "2024-10-06T11:50:19.000Z",
+  "profile_views": 516,
+  "kill_count": 2966,
+  "play_count": 680,
+  "highest_score": 5511590,
+  "picture": "20784518-349a42893d662b93b44eb1e96bf2110ce-7c028b2e-6732-41d9-8c05-c3b0138fb41a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 74,
+  "tier": 10,
+  "xp": 1259400,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 32234,
+      "user_id": 20784518,
+      "platform_id": "dc",
+      "platform_user_id": "nuggetmisa",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-21T10:24:17.000Z",
+      "updated_at": "2024-09-18T15:58:37.000Z"
+    },
+    {
+      "id": 98710,
+      "user_id": 20784518,
+      "platform_id": "rd",
+      "platform_user_id": "nuggetmisa",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-09-21T09:47:52.000Z",
+      "updated_at": "2024-09-21T09:47:52.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20784518,
+    "rank_kc": 15125,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T10:01:32.000Z",
+    "rank_pc": 22228,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T10:01:33.000Z",
+    "rank_hs": 6995,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T10:01:34.000Z",
+    "created_at": "2024-10-06T11:50:18.000Z",
+    "updated_at": "2024-10-06T11:50:19.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8931,
+          "user_id": 20784518,
+          "cloneof_id": null,
+          "string_id": "amogus69",
+          "title": "AMONG US IMPOSTER",
+          "description": "SUS",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 2,
+          "created_at": "2022-01-03T08:38:20.000Z",
+          "updated_at": "2022-01-03T08:41:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20784518,
+            "username": "nuggetmisa",
+            "description": "good game",
+            "about": "gar and polar main\ntrying out torp & tiger",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-12-09T12:57:50.000Z",
+            "date_last_played": "2024-10-06T11:50:19.000Z",
+            "kill_count": 2966,
+            "play_count": 680,
+            "highest_score": 5511590,
+            "picture": "20784518-349a42893d662b93b44eb1e96bf2110ce-7c028b2e-6732-41d9-8c05-c3b0138fb41a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 74,
+            "tier": 10,
+            "xp": 1259400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "amogus"
+            },
+            {
+              "id": "among us"
+            },
+            {
+              "id": "sus"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T19:45:21.616Z"
+}
