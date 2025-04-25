@@ -1,0 +1,206 @@
+{
+  "id": 20769841,
+  "username": "FalseAndOnlyFalser",
+  "description": "I LOVE DRINKING PETROLEUM",
+  "about": "i eat stuff",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-23T23:50:33.000Z",
+  "date_last_played": "2025-01-11T19:23:21.000Z",
+  "profile_views": 88,
+  "kill_count": 424,
+  "play_count": 574,
+  "highest_score": 1265030,
+  "picture": "20769841-43a6e4589e3b4d3096b1e6cb385411e5-bf0e90e0-ae03-465e-a681-bb9110d297d5.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 68,
+  "tier": 2,
+  "xp": 71700,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 27962,
+      "user_id": 20769841,
+      "platform_id": "dc",
+      "platform_user_id": "falseandonlyfalser",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-12T23:53:56.000Z",
+      "updated_at": "2023-10-12T23:53:56.000Z"
+    },
+    {
+      "id": 11119,
+      "user_id": 20769841,
+      "platform_id": "rd",
+      "platform_user_id": "Malwarite",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-11T04:38:41.000Z",
+      "updated_at": "2022-12-11T04:39:18.000Z"
+    },
+    {
+      "id": 11118,
+      "user_id": 20769841,
+      "platform_id": "tc",
+      "platform_user_id": "falseandonlyfalser",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-11T04:37:04.000Z",
+      "updated_at": "2022-12-11T04:37:04.000Z"
+    },
+    {
+      "id": 11120,
+      "user_id": 20769841,
+      "platform_id": "tw",
+      "platform_user_id": "@doodlygameralt",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-11T04:40:58.000Z",
+      "updated_at": "2022-12-11T04:40:58.000Z"
+    },
+    {
+      "id": 11117,
+      "user_id": 20769841,
+      "platform_id": "yt",
+      "platform_user_id": "FalseAndOnlyFalser ",
+      "platform_user_url": "https://www.youtube.com/channel/UCpoy5fmGlfcuCkob-mGP6oQ",
+      "verified": false,
+      "created_at": "2022-12-11T04:36:32.000Z",
+      "updated_at": "2023-10-16T00:13:48.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20769841,
+    "rank_kc": 54971,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-15T18:36:27.000Z",
+    "rank_pc": 25617,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-15T18:36:34.000Z",
+    "rank_hs": 74033,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-15T18:36:40.000Z",
+    "created_at": "2025-01-11T19:23:21.000Z",
+    "updated_at": "2025-01-11T19:23:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13176,
+          "user_id": 20769841,
+          "cloneof_id": null,
+          "string_id": "big_triangles",
+          "title": "Big Triangles",
+          "description": "a badly made map of triangles",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 65,
+          "created_at": "2023-12-04T01:23:19.000Z",
+          "updated_at": "2023-12-04T01:23:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20769841,
+            "username": "FalseAndOnlyFalser",
+            "description": "I LOVE DRINKING PETROLEUM",
+            "about": "i eat stuff",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-23T23:50:33.000Z",
+            "date_last_played": "2025-01-11T19:23:21.000Z",
+            "kill_count": 424,
+            "play_count": 574,
+            "highest_score": 1265030,
+            "picture": "20769841-43a6e4589e3b4d3096b1e6cb385411e5-bf0e90e0-ae03-465e-a681-bb9110d297d5.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 68,
+            "tier": 2,
+            "xp": 71700,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "randomshitgo"
+            },
+            {
+              "id": "triangles"
+            }
+          ]
+        },
+        {
+          "id": 8674,
+          "user_id": 20769841,
+          "cloneof_id": null,
+          "string_id": "cold_deep_v1",
+          "title": "Cold Deep",
+          "description": "Fun world i made in mapmaker.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 42,
+          "created_at": "2021-12-03T12:04:19.000Z",
+          "updated_at": "2021-12-03T12:04:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20769841,
+            "username": "FalseAndOnlyFalser",
+            "description": "I LOVE DRINKING PETROLEUM",
+            "about": "i eat stuff",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-23T23:50:33.000Z",
+            "date_last_played": "2025-01-11T19:23:21.000Z",
+            "kill_count": 424,
+            "play_count": 574,
+            "highest_score": 1265030,
+            "picture": "20769841-43a6e4589e3b4d3096b1e6cb385411e5-bf0e90e0-ae03-465e-a681-bb9110d297d5.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 68,
+            "tier": 2,
+            "xp": 71700,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cold"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "experiment"
+            },
+            {
+              "id": "new"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T18:14:05.372Z"
+}
