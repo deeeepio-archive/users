@@ -1,0 +1,989 @@
+{
+  "id": 20776105,
+  "username": "7492654_799",
+  "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+  "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-05T05:15:19.000Z",
+  "date_last_played": "2024-08-18T13:00:15.000Z",
+  "profile_views": 559,
+  "kill_count": 1235,
+  "play_count": 578,
+  "highest_score": 3505778,
+  "picture": "20776105.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 285,
+  "tier": 3,
+  "xp": 134400,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3844,
+      "user_id": 20776105,
+      "platform_id": "rd",
+      "platform_user_id": "https://www.reddit.com/user/Electronic-Bid6472",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-17T09:34:02.000Z",
+      "updated_at": "2022-07-17T09:34:02.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20776105,
+    "rank_kc": 23561,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-12-19T23:43:50.000Z",
+    "rank_pc": 22679,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-19T23:43:52.000Z",
+    "rank_hs": 16288,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-19T23:43:55.000Z",
+    "created_at": "2024-08-18T13:00:14.000Z",
+    "updated_at": "2024-08-18T13:00:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13148,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "ffa_test_ventzone",
+          "title": "Deep Sea Vent",
+          "description": "A test map. Who cares about how big it is... It's literally just a vent.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 38,
+          "created_at": "2023-11-28T06:12:29.000Z",
+          "updated_at": "2023-11-29T07:51:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "test"
+            },
+            {
+              "id": "vent"
+            }
+          ]
+        },
+        {
+          "id": 11029,
+          "user_id": 20776105,
+          "cloneof_id": 10230,
+          "string_id": "ks_mutaffa_saturn",
+          "title": "Saturn Dreams (CLONE)",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 2509,
+          "created_at": "2022-10-04T01:24:21.000Z",
+          "updated_at": "2022-10-09T01:35:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 10658,
+          "user_id": 20776105,
+          "cloneof_id": 10107,
+          "string_id": "ks_ffa_galaxybig",
+          "title": "Super Deeeep.io Galaxy 4: Galaxy's Edge",
+          "description": "Boldly go where no fish has gone before! Fly through the vast reaches of space, explore dozens of unique planets and discover the deepest, darkest secrets of the galaxy! After a year-long wait, Super Deeeep.io Galaxy 3 is BACK, now bigger and better!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 16,
+          "objects": 3349,
+          "created_at": "2022-08-15T23:54:03.000Z",
+          "updated_at": "2024-12-15T23:55:28.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "celestial"
+            },
+            {
+              "id": "cosmos"
+            },
+            {
+              "id": "custom"
+            },
+            {
+              "id": "galaxy"
+            },
+            {
+              "id": "space"
+            },
+            {
+              "id": "tffa"
+            }
+          ]
+        },
+        {
+          "id": 10545,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "ks_miniworld_cave",
+          "title": "Mini Cave",
+          "description": "A tiny cave complete with flora and fauna. Watch your step and don't get mauled by a turtle!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 47,
+          "created_at": "2022-08-07T02:21:30.000Z",
+          "updated_at": "2022-08-28T13:04:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cave"
+            },
+            {
+              "id": "mini"
+            },
+            {
+              "id": "minimap"
+            },
+            {
+              "id": "softshell"
+            },
+            {
+              "id": "softshell turtle"
+            },
+            {
+              "id": "swamp"
+            },
+            {
+              "id": "turtle"
+            }
+          ]
+        },
+        {
+          "id": 10486,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "sunfish_armageddon",
+          "title": "Judgement",
+          "description": "𝗕̴̰̻͎̟̜̦̮͙̓̿͆̅͘ ̸̦͉͉̠̤͇̽̌͋͘𝗘̴̢̡̛̠̻͖̇͆̓̀̎̕ ̵͉̫̭̬̯̭̈́̎͐͗͘͠ͅ𝗡̷̦̣̝̓̀͜ ̸̧̖̺̝͔́͌̈́́𝗢̸̦́̊́͗̐ ̵̧̝͇͇̭̫́̚͜𝗧̷̧̧̢̑̑͗̅̏ ̷͔̻̪͈̽𝗔̴̡͖̹̥͎̼̻̹̂̍̓̉ ̸̜̌͛̇͛́̎𝗙̵̯͈̺͎̀̄̌̂͒͘͠ ̵̭̘̐̈́̋͒̍̚̚𝗥̵͕͎̞̗̖̫̘͚̈́̐̕͝ ̴̢̲͖̻̉̍̅͌𝗔̷͎̠̞̙̈́ ̶̖̍̄͌𝗜̶̡̖̰̝͋ͅͅ ̸͚̣͓̞̩͉̳̓̅̃̎͝𝗗̵͉̮͓̮͑̌̏͆̓́̊̅",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 6,
+          "objects": 155,
+          "created_at": "2022-07-31T12:30:42.000Z",
+          "updated_at": "2022-08-03T01:12:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "apocalypse"
+            },
+            {
+              "id": "armageddon"
+            },
+            {
+              "id": "god"
+            },
+            {
+              "id": "orcas"
+            },
+            {
+              "id": "sunfish"
+            }
+          ]
+        },
+        {
+          "id": 10408,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "ks_spacewhaletemplate",
+          "title": "Spacewhale Template",
+          "description": "Template for the Spacewhale, the whale-shaped spaceship in Super Deeeep.io Galaxy 4. Although it's technically just a part of a much larger map, the Spacewhale is certainly big enough to serve as a map on its own.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 5,
+          "objects": 395,
+          "created_at": "2022-07-23T03:08:02.000Z",
+          "updated_at": "2023-10-15T12:29:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "spacewhale"
+            }
+          ]
+        },
+        {
+          "id": 10362,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "ks_tinymap",
+          "title": "Cursed Tiny Map",
+          "description": "This map is nearly unplayable. Don't add it. Just don't.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 4,
+          "objects": 48,
+          "created_at": "2022-07-19T00:21:06.000Z",
+          "updated_at": "2022-07-19T00:22:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cursed"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "tiny"
+            }
+          ]
+        },
+        {
+          "id": 10107,
+          "user_id": 20776105,
+          "cloneof_id": 9985,
+          "string_id": "ks_ffa_galaxy",
+          "title": "Super Deeeep.io Galaxy 3: Intergalactic Voyage",
+          "description": "Boldly go where no fish has gone before and venture into the cosmos! An update to Fede's planet map.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 10,
+          "objects": 983,
+          "created_at": "2022-06-22T01:11:31.000Z",
+          "updated_at": "2022-07-20T00:29:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "celestial"
+            },
+            {
+              "id": "cosmos"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "galaxy"
+            },
+            {
+              "id": "planets"
+            },
+            {
+              "id": "space"
+            }
+          ]
+        },
+        {
+          "id": 10025,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "ks_ffa_iforonewelcomeournewfunfishoverlord",
+          "title": "Giant Cosmic Sunfish",
+          "description": "I, for one welcome our new omnipotent sunfish overlord.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 6,
+          "objects": 245,
+          "created_at": "2022-06-19T04:59:15.000Z",
+          "updated_at": "2022-07-17T08:05:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "god"
+            },
+            {
+              "id": "sunfish"
+            }
+          ]
+        },
+        {
+          "id": 9944,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "ks_1v1_swamp_forest",
+          "title": "Brawlbush Boughs 1v1",
+          "description": "Leap out of the water to eat dragonflies as you pursue your opponent in the river!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 32,
+          "created_at": "2022-06-13T13:05:14.000Z",
+          "updated_at": "2022-06-13T22:50:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "rainforest"
+            },
+            {
+              "id": "river"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 9941,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "ks_1v1_arctic_tundra",
+          "title": "Frigid Isle 1v1",
+          "description": "Duel with an opponent to see who claims the arctic seas!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 28,
+          "created_at": "2022-06-12T22:19:55.000Z",
+          "updated_at": "2022-06-12T23:32:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "arctic"
+            },
+            {
+              "id": "ice"
+            },
+            {
+              "id": "island"
+            },
+            {
+              "id": "snow"
+            },
+            {
+              "id": "tundra"
+            }
+          ]
+        },
+        {
+          "id": 9320,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "ks_pd_ocean",
+          "title": "Tropical Seas PD",
+          "description": "A great battle between the denizens of the tropical reefs is about to begin. Charge forth and battle rivals to secure the pearl!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 232,
+          "created_at": "2022-02-19T10:37:30.000Z",
+          "updated_at": "2022-03-16T11:56:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "pd"
+            },
+            {
+              "id": "reef"
+            }
+          ]
+        },
+        {
+          "id": 9103,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "ks_1v1_deeeep_cave",
+          "title": "Lair Of The Kraken 1V1",
+          "description": "The lair of a slumbering kraken, this cave is home to many smaller creatures. Dare you challenge the denizens of the deep!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 23,
+          "created_at": "2022-01-24T13:17:26.000Z",
+          "updated_at": "2022-02-20T10:03:28.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "cave"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "lair"
+            }
+          ]
+        },
+        {
+          "id": 9099,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "ks_1v1_deeeep_abyss",
+          "title": "Abyssal Depths 1V1",
+          "description": "A battle ensues in the deep dark depths. Pull your opponent into the lava for deadly damage!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 24,
+          "created_at": "2022-01-24T03:05:45.000Z",
+          "updated_at": "2022-02-20T10:02:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "lava"
+            }
+          ]
+        },
+        {
+          "id": 9098,
+          "user_id": 20776105,
+          "cloneof_id": null,
+          "string_id": "ks_1v1_arctic_cave",
+          "title": "Glacial Cavern 1V1",
+          "description": "Battle in this dark, icy cave to claim your reign!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 25,
+          "created_at": "2022-01-24T02:25:00.000Z",
+          "updated_at": "2022-02-20T10:02:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776105,
+            "username": "7492654_799",
+            "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+            "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-05T05:15:19.000Z",
+            "date_last_played": "2024-08-18T13:00:15.000Z",
+            "kill_count": 1235,
+            "play_count": 578,
+            "highest_score": 3505778,
+            "picture": "20776105.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 285,
+            "tier": 3,
+            "xp": 134400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "arctic"
+            },
+            {
+              "id": "cave"
+            },
+            {
+              "id": "ice"
+            },
+            {
+              "id": "snow"
+            }
+          ]
+        }
+      ],
+      "count": 22
+    },
+    "skins": [
+      {
+        "id": 20957,
+        "version": 5,
+        "asset": "20957-5.png",
+        "created_at": "2023-03-08T12:50:23.000Z",
+        "updated_at": "2023-12-17T16:10:05.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 28,
+        "name": "Whale Remora",
+        "description": "The Whale Remora is exactly what you would think it is - a whale-sized remora. Tiny whale sharks circle it and defend it from predators.",
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/comments/u0bb0b/whale_shark_cursed_whale_shark_0/",
+        "category": "unrealistic",
+        "season": null,
+        "on_sale": true,
+        "price": 0,
+        "sales": 1594,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 20776105,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 20776105,
+          "username": "7492654_799",
+          "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+          "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2021-11-05T05:15:19.000Z",
+          "date_last_played": "2024-08-18T13:00:15.000Z",
+          "kill_count": 1235,
+          "play_count": 578,
+          "highest_score": 3505778,
+          "picture": "20776105.png",
+          "displayPicture": false,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 285,
+          "tier": 3,
+          "xp": 134400,
+          "migrated": true,
+          "verified": false,
+          "beta": false
+        }
+      },
+      {
+        "id": 20960,
+        "version": 4,
+        "asset": "20960-4.png",
+        "created_at": "2023-02-24T01:41:19.000Z",
+        "updated_at": "2023-12-17T16:10:05.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 23,
+        "name": "Narlin",
+        "description": "This marlin fattened up to become a narwhal. Deep down, it's still a marlin though. Just don't tell it that or it'll stab you with its rostrum... uhhhh... I mean horn.",
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/comments/vykzop/marlin_marwhal_20_and_narwhal_narlin_15/",
+        "category": "unrealistic",
+        "season": null,
+        "on_sale": true,
+        "price": 15,
+        "sales": 237,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 20776105,
+        "attributes": "HA=-7",
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 20776105,
+          "username": "7492654_799",
+          "description": "Usually I only kill AFK and/or toxic players. However, if you kill me, I will find you AND I WILL KILL YOU. If you didn't do anything to harm me, I'm sorry to have bothered you.",
+          "about": "Name: Kraken Slayer\n\nMain: Sunfish\n\nLikes: Farming jellyfish, spreading peace, airboosting across the entire map, annihilating those who anger me\n\nDislikes: Hunting down other players for no reason, sunfish haters, toxic teabers and sweaty tryhards",
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2021-11-05T05:15:19.000Z",
+          "date_last_played": "2024-08-18T13:00:15.000Z",
+          "kill_count": 1235,
+          "play_count": 578,
+          "highest_score": 3505778,
+          "picture": "20776105.png",
+          "displayPicture": false,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 285,
+          "tier": 3,
+          "xp": 134400,
+          "migrated": true,
+          "verified": false,
+          "beta": false
+        }
+      }
+    ]
+  },
+  "archived_at": "2025-04-25T18:53:33.691Z"
+}
