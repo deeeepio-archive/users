@@ -1,0 +1,61 @@
+{
+  "id": 20746995,
+  "username": "vandra",
+  "description": "Happy Game，\nBad player.",
+  "about": "Gan9's alternate",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-07-28T08:05:39.000Z",
+  "date_last_played": "2022-05-12T08:20:49.000Z",
+  "profile_views": 10,
+  "kill_count": 439,
+  "play_count": 538,
+  "highest_score": 1223991,
+  "picture": "20746995.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 20,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2055,
+      "user_id": 20746995,
+      "platform_id": "dc",
+      "platform_user_id": "Gan9#0919",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-11T10:01:10.000Z",
+      "updated_at": "2022-06-11T10:01:10.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20746995,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T15:44:30.519Z",
+    "updated_at": "2025-04-25T15:44:31.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T15:44:30.569Z"
+}
