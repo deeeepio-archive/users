@@ -1,0 +1,138 @@
+{
+  "id": 781555,
+  "username": "1v",
+  "description": "'Why should I fear death?\nIf I am, death is not.\nIf death is, I am not.\nWhy should I fear that which can only exist when I do not?'\n-Epicurus",
+  "about": "Why do I waste my time.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-13T14:06:27.000Z",
+  "date_last_played": "2025-02-25T22:00:03.000Z",
+  "profile_views": 1129,
+  "kill_count": 6795,
+  "play_count": 2237,
+  "highest_score": 3019628,
+  "picture": "781555-e88b7fc34fd51f98104c572b11035109b2-8980612f-34d6-46d2-a497-11c00875d618.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 428,
+  "tier": 7,
+  "xp": 556950,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 97832,
+      "user_id": 781555,
+      "platform_id": "dc",
+      "platform_user_id": ".myguy23",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-22T11:25:52.000Z",
+      "updated_at": "2024-08-22T11:25:52.000Z"
+    },
+    {
+      "id": 97909,
+      "user_id": 781555,
+      "platform_id": "yt",
+      "platform_user_id": "How to get gif pfp tutorial",
+      "platform_user_url": "https://www.youtube.com/watch?v=mm0HBlY-8Pc",
+      "verified": false,
+      "created_at": "2024-08-24T17:08:40.000Z",
+      "updated_at": "2024-08-24T17:08:40.000Z"
+    },
+    {
+      "id": 97968,
+      "user_id": 781555,
+      "platform_id": "yt",
+      "platform_user_id": "How to use Colossal Squid",
+      "platform_user_url": "https://www.youtube.com/watch?v=f_8INaMKymw",
+      "verified": false,
+      "created_at": "2024-08-26T05:05:10.000Z",
+      "updated_at": "2024-08-26T05:05:10.000Z"
+    },
+    {
+      "id": 97833,
+      "user_id": 781555,
+      "platform_id": "yt",
+      "platform_user_id": "Matthew Hicks",
+      "platform_user_url": "https://www.youtube.com/@Krumbols",
+      "verified": false,
+      "created_at": "2024-08-22T11:26:57.000Z",
+      "updated_at": "2024-08-22T11:29:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 781555,
+    "rank_kc": 6450,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-20T21:21:26.000Z",
+    "rank_pc": 6842,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-20T21:21:28.000Z",
+    "rank_hs": 21487,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-20T21:21:30.000Z",
+    "created_at": "2025-03-03T20:40:01.000Z",
+    "updated_at": "2025-03-03T20:40:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4673,
+          "user_id": 781555,
+          "cloneof_id": null,
+          "string_id": "dunno",
+          "title": "Island",
+          "description": "??",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 16,
+          "created_at": "2020-10-27T00:06:57.000Z",
+          "updated_at": "2020-10-27T00:16:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 781555,
+            "username": "1v",
+            "description": "'Why should I fear death?\nIf I am, death is not.\nIf death is, I am not.\nWhy should I fear that which can only exist when I do not?'\n-Epicurus",
+            "about": "Why do I waste my time.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-13T14:06:27.000Z",
+            "date_last_played": "2025-02-25T22:00:03.000Z",
+            "kill_count": 6795,
+            "play_count": 2237,
+            "highest_score": 3019628,
+            "picture": "781555-e88b7fc34fd51f98104c572b11035109b2-8980612f-34d6-46d2-a497-11c00875d618.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 428,
+            "tier": 7,
+            "xp": 556950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "what"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T06:03:03.070Z"
+}
