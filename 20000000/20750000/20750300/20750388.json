@@ -1,0 +1,111 @@
+{
+  "id": 20750388,
+  "username": "I-Am-Sparta",
+  "description": "I've pierced through your armor and into your heart, now let your soul be carried deep down into the depths of the forgotten sea, and frozen in ice untill time itself fades...",
+  "about": "Bring back the PD features where you could softlock the peal with bowhead, kill your own teammates with thresher, etc.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-08-13T01:54:09.000Z",
+  "date_last_played": "2025-01-10T16:33:19.000Z",
+  "profile_views": 3361,
+  "kill_count": 25134,
+  "play_count": 8234,
+  "highest_score": 15336197,
+  "picture": "20750388-a6d9f8049eec9fc9b41a7fc3de8cdfab-5110471f-a6f2-4119-b851-5e002df0554e.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 10,
+  "xp": 4057650,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 13651,
+      "user_id": 20750388,
+      "platform_id": "dc",
+      "platform_user_id": "I Am Sparta#2817",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-21T16:02:48.000Z",
+      "updated_at": "2023-01-21T16:02:48.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20750388,
+    "rank_kc": 434,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-18T16:49:47.000Z",
+    "rank_pc": 352,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-18T16:49:52.000Z",
+    "rank_hs": 1622,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-18T00:50:58.000Z",
+    "created_at": "2025-01-10T16:33:19.000Z",
+    "updated_at": "2025-01-10T16:33:19.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8982,
+          "user_id": 20750388,
+          "cloneof_id": null,
+          "string_id": "sparta_ffa_v1",
+          "title": "I Am Sparta - FFA",
+          "description": "My first map.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 13,
+          "objects": 1911,
+          "created_at": "2022-01-11T02:15:25.000Z",
+          "updated_at": "2024-08-13T13:11:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20750388,
+            "username": "I-Am-Sparta",
+            "description": "I've pierced through your armor and into your heart, now let your soul be carried deep down into the depths of the forgotten sea, and frozen in ice untill time itself fades...",
+            "about": "Bring back the PD features where you could softlock the peal with bowhead, kill your own teammates with thresher, etc.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-08-13T01:54:09.000Z",
+            "date_last_played": "2025-01-10T16:33:19.000Z",
+            "kill_count": 25134,
+            "play_count": 8234,
+            "highest_score": 15336197,
+            "picture": "20750388-a6d9f8049eec9fc9b41a7fc3de8cdfab-5110471f-a6f2-4119-b851-5e002df0554e.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 19,
+            "tier": 10,
+            "xp": 4057650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "Unfinished"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:07:50.128Z"
+}
