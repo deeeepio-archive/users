@@ -1,0 +1,97 @@
+{
+  "id": 762113,
+  "username": "Amy74185296663",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-07-29T08:14:12.000Z",
+  "date_last_played": "2020-07-29T08:36:50.000Z",
+  "profile_views": 0,
+  "kill_count": 1,
+  "play_count": 16,
+  "highest_score": 22875,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 762113,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T04:03:38.919Z",
+    "updated_at": "2025-04-25T04:03:39.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3877,
+          "user_id": 762113,
+          "cloneof_id": null,
+          "string_id": "vadddddd",
+          "title": "Untitledasc",
+          "description": "asc",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-07-29T08:16:18.000Z",
+          "updated_at": "2020-07-29T08:16:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 762113,
+            "username": "Amy74185296663",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-07-29T08:14:12.000Z",
+            "date_last_played": "2020-07-29T08:36:50.000Z",
+            "kill_count": 1,
+            "play_count": 16,
+            "highest_score": 22875,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cas"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:03:38.995Z"
+}
