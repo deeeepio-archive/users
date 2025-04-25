@@ -1,0 +1,149 @@
+{
+  "id": 772790,
+  "username": "Bloodynomnom",
+  "description": "Men are props on the stage of life, and no matter how tender, how exquisite...\nA lie will remain a lie!",
+  "about": "My birthday is actually December 3rd",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-12T07:04:26.000Z",
+  "date_last_played": "2024-12-31T09:34:10.000Z",
+  "profile_views": 8,
+  "kill_count": 3763,
+  "play_count": 3260,
+  "highest_score": 2510366,
+  "picture": "772790.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 88,
+  "tier": 3,
+  "xp": 105900,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 772790,
+    "rank_kc": 6115,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": 1805,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": 20685,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-12-31T09:34:10.000Z",
+    "updated_at": "2024-12-31T09:34:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6330,
+          "user_id": 772790,
+          "cloneof_id": null,
+          "string_id": "deeepio_33",
+          "title": "layers of deeeep",
+          "description": "the world of deep can be dark ecspecialy when the four layers of hell come into play",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 58,
+          "created_at": "2021-03-23T21:20:22.000Z",
+          "updated_at": "2021-04-09T19:52:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 772790,
+            "username": "Bloodynomnom",
+            "description": "Men are props on the stage of life, and no matter how tender, how exquisite...\nA lie will remain a lie!",
+            "about": "My birthday is actually December 3rd",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-12T07:04:26.000Z",
+            "date_last_played": "2024-12-31T09:34:10.000Z",
+            "kill_count": 3763,
+            "play_count": 3260,
+            "highest_score": 2510366,
+            "picture": "772790.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 88,
+            "tier": 3,
+            "xp": 105900,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hard"
+            }
+          ]
+        },
+        {
+          "id": 6262,
+          "user_id": 772790,
+          "cloneof_id": null,
+          "string_id": "the_layers_dark_times",
+          "title": "The four layers to the sea",
+          "description": "whats under the regular part of the sea come see",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 15,
+          "created_at": "2021-03-19T07:06:32.000Z",
+          "updated_at": "2021-03-19T07:39:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 772790,
+            "username": "Bloodynomnom",
+            "description": "Men are props on the stage of life, and no matter how tender, how exquisite...\nA lie will remain a lie!",
+            "about": "My birthday is actually December 3rd",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-12T07:04:26.000Z",
+            "date_last_played": "2024-12-31T09:34:10.000Z",
+            "kill_count": 3763,
+            "play_count": 3260,
+            "highest_score": 2510366,
+            "picture": "772790.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 88,
+            "tier": 3,
+            "xp": 105900,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cool"
+            },
+            {
+              "id": "dark"
+            },
+            {
+              "id": "new"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T05:08:40.036Z"
+}
