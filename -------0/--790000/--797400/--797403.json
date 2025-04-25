@@ -1,0 +1,97 @@
+{
+  "id": 797403,
+  "username": "141526_554",
+  "description": "sorry if I killed you I'm in school just passing time.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-01T13:58:44.000Z",
+  "date_last_played": "2021-08-18T16:15:41.000Z",
+  "profile_views": 0,
+  "kill_count": 172,
+  "play_count": 235,
+  "highest_score": 262178,
+  "picture": "797403.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 60,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 797403,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T07:56:10.363Z",
+    "updated_at": "2025-04-25T07:56:10.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5098,
+          "user_id": 797403,
+          "cloneof_id": null,
+          "string_id": "error309",
+          "title": "Untitledttt",
+          "description": "ttt",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 100,
+          "created_at": "2020-12-03T17:32:01.000Z",
+          "updated_at": "2020-12-03T17:32:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 797403,
+            "username": "141526_554",
+            "description": "sorry if I killed you I'm in school just passing time.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-01T13:58:44.000Z",
+            "date_last_played": "2021-08-18T16:15:41.000Z",
+            "kill_count": 172,
+            "play_count": 235,
+            "highest_score": 262178,
+            "picture": "797403.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 60,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ttt"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:56:10.422Z"
+}
