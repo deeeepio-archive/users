@@ -1,0 +1,108 @@
+{
+  "id": 20752519,
+  "username": "AestheticCup",
+  "description": "[༺♡༻]",
+  "about": "════ ʚ 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 ɞ ════\n╭────────────────╯\n │• ↬ [༺♡༻] ♡⸝⸝\n │• ↬ 𝟮𝟬𝟬𝟴 ♡⸝⸝\n │• ↬ 𝗡𝗮𝗺𝗲𝘀: Thorn | Cup ♡⸝⸝\n │• ↬ 𝗦𝗵𝗲/𝗛𝗲𝗿 ♀ ♡⸝⸝\n │• ↬ 𝗠𝗮𝗶𝗻: 𝗢𝗿𝗰𝗮 ♡⸝⸝\n │• ↬ 𝗜 𝗽𝗹𝗮𝘆 𝗼𝗻 𝘁𝗿𝗮𝗰𝗸𝗽𝗮𝗱 ♡⸝⸝\n╰─────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿・✦ ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-08-21T08:06:39.000Z",
+  "date_last_played": "2023-09-09T08:36:56.000Z",
+  "profile_views": 297,
+  "kill_count": 418,
+  "play_count": 315,
+  "highest_score": 2683980,
+  "picture": "20752519-3aa036875df5310ad5e38738bf3e0e7dc.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 351,
+  "tier": 1,
+  "xp": 19950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94309,
+      "user_id": 20752519,
+      "platform_id": "dc",
+      "platform_user_id": "imcup_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-04-30T23:47:25.000Z",
+      "updated_at": "2024-04-30T23:47:25.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20752519,
+    "rank_kc": 50562,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-19T09:45:11.000Z",
+    "rank_pc": 36011,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-12-19T09:45:12.000Z",
+    "rank_hs": 26044,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-19T09:45:13.000Z",
+    "created_at": "2023-12-30T13:18:24.000Z",
+    "updated_at": "2023-12-19T09:45:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7757,
+          "user_id": 20752519,
+          "cloneof_id": null,
+          "string_id": "snow_and_below_1v1",
+          "title": "Snow & Below 1v1",
+          "description": "circle :0",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 23,
+          "created_at": "2021-09-04T00:52:09.000Z",
+          "updated_at": "2021-09-04T00:55:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20752519,
+            "username": "AestheticCup",
+            "description": "[༺♡༻]",
+            "about": "════ ʚ 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 ɞ ════\n╭────────────────╯\n │• ↬ [༺♡༻] ♡⸝⸝\n │• ↬ 𝟮𝟬𝟬𝟴 ♡⸝⸝\n │• ↬ 𝗡𝗮𝗺𝗲𝘀: Thorn | Cup ♡⸝⸝\n │• ↬ 𝗦𝗵𝗲/𝗛𝗲𝗿 ♀ ♡⸝⸝\n │• ↬ 𝗠𝗮𝗶𝗻: 𝗢𝗿𝗰𝗮 ♡⸝⸝\n │• ↬ 𝗜 𝗽𝗹𝗮𝘆 𝗼𝗻 𝘁𝗿𝗮𝗰𝗸𝗽𝗮𝗱 ♡⸝⸝\n╰─────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿・✦ ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-08-21T08:06:39.000Z",
+            "date_last_played": "2023-09-09T08:36:56.000Z",
+            "kill_count": 418,
+            "play_count": 315,
+            "highest_score": 2683980,
+            "picture": "20752519-3aa036875df5310ad5e38738bf3e0e7dc.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 351,
+            "tier": 1,
+            "xp": 19950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:20:12.682Z"
+}
