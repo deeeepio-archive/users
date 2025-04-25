@@ -1,0 +1,97 @@
+{
+  "id": 20756719,
+  "username": "ash_",
+  "description": ":D",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-06T10:02:27.000Z",
+  "date_last_played": "2025-01-23T08:55:57.000Z",
+  "profile_views": 62,
+  "kill_count": 3639,
+  "play_count": 3133,
+  "highest_score": 3910403,
+  "picture": "20756719.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 150,
+  "tier": 5,
+  "xp": 367050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20756719,
+    "rank_kc": 9872,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-03T07:44:31.000Z",
+    "rank_pc": 4360,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-03T07:44:32.000Z",
+    "rank_hs": 12288,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-03T07:44:32.000Z",
+    "created_at": "2025-01-23T08:55:57.000Z",
+    "updated_at": "2025-01-23T08:55:57.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7802,
+          "user_id": 20756719,
+          "cloneof_id": null,
+          "string_id": "my_map_ntmd",
+          "title": "Untitled",
+          "description": "wtm",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-09-10T11:36:20.000Z",
+          "updated_at": "2021-09-10T11:36:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20756719,
+            "username": "ash_",
+            "description": ":D",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-06T10:02:27.000Z",
+            "date_last_played": "2025-01-23T08:55:57.000Z",
+            "kill_count": 3639,
+            "play_count": 3133,
+            "highest_score": 3910403,
+            "picture": "20756719.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 150,
+            "tier": 5,
+            "xp": 367050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "无"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:45:16.658Z"
+}
