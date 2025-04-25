@@ -1,0 +1,344 @@
+{
+  "id": 803418,
+  "username": "Cat_",
+  "description": "Golden\n\nSubscribe to me on Youtube:\nhttps://youtube.com/c/Cat_WasTaken",
+  "about": "𓆩⟡𓆪\nDeeptuber\nMap contributor",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-17T01:11:22.000Z",
+  "date_last_played": "2025-04-24T07:13:30.000Z",
+  "profile_views": 23253,
+  "kill_count": 63820,
+  "play_count": 27011,
+  "highest_score": 11788516,
+  "picture": "803418-378210fb227e513e99010b64f82af6b7a2.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 16623,
+  "tier": 10,
+  "xp": 4305600,
+  "migrated": false,
+  "verified": true,
+  "beta": true,
+  "badges": [
+    {
+      "id": 3,
+      "slug": "harmony-member",
+      "title": "Harmony Member"
+    },
+    {
+      "id": 4,
+      "slug": "harmony-manager",
+      "title": "Harmony Manager"
+    },
+    {
+      "id": 5,
+      "slug": "cartography-member",
+      "title": "Cartography Member"
+    },
+    {
+      "id": 6,
+      "slug": "cartography-manager",
+      "title": "Cartography Manager"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    },
+    {
+      "id": 8,
+      "slug": "crabinet-manager",
+      "title": "Crabinet Manager"
+    },
+    {
+      "id": 9,
+      "slug": "event-manager",
+      "title": "Event Manager"
+    },
+    {
+      "id": 11,
+      "slug": "alpha-tester",
+      "title": "Alpha Tester"
+    },
+    {
+      "id": 14,
+      "slug": "content-creator",
+      "title": "Content Creator"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 31789,
+      "user_id": 803418,
+      "platform_id": "dc",
+      "platform_user_id": "wildgoose__",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-09T09:39:50.000Z",
+      "updated_at": "2024-01-09T09:39:50.000Z"
+    },
+    {
+      "id": 94249,
+      "user_id": 803418,
+      "platform_id": "rd",
+      "platform_user_id": "Cat_Was-Taken",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-04-29T01:16:24.000Z",
+      "updated_at": "2024-04-29T01:16:33.000Z"
+    },
+    {
+      "id": 94250,
+      "user_id": 803418,
+      "platform_id": "tc",
+      "platform_user_id": "Cat_WasTaken",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-04-29T01:18:54.000Z",
+      "updated_at": "2024-04-29T01:18:54.000Z"
+    },
+    {
+      "id": 302,
+      "user_id": 803418,
+      "platform_id": "yt",
+      "platform_user_id": "Cat_",
+      "platform_user_url": "https://youtube.com/c/Cat_WasTaken",
+      "verified": false,
+      "created_at": "2022-05-19T20:58:30.000Z",
+      "updated_at": "2022-05-19T20:58:30.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 803418,
+    "rank_kc": 56,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T21:53:00.000Z",
+    "rank_pc": 4,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T22:06:53.000Z",
+    "rank_hs": 2111,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T22:07:16.000Z",
+    "created_at": "2025-04-24T07:13:30.000Z",
+    "updated_at": "2025-04-24T07:13:30.000Z",
+    "pd": {
+      "played": 10,
+      "won": 7,
+      "ratio": 70
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12958,
+          "user_id": 803418,
+          "cloneof_id": null,
+          "string_id": "tiny_ffa",
+          "title": "Tiny FFA",
+          "description": "so little, so small :DDDD",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 9,
+          "objects": 545,
+          "created_at": "2023-10-13T17:56:41.000Z",
+          "updated_at": "2025-01-11T23:33:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 803418,
+            "username": "Cat_",
+            "description": "Golden\n\nSubscribe to me on Youtube:\nhttps://youtube.com/c/Cat_WasTaken",
+            "about": "𓆩⟡𓆪\nDeeptuber\nMap contributor",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-17T01:11:22.000Z",
+            "date_last_played": "2025-04-24T07:13:30.000Z",
+            "kill_count": 63820,
+            "play_count": 27011,
+            "highest_score": 11788516,
+            "picture": "803418-378210fb227e513e99010b64f82af6b7a2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16623,
+            "tier": 10,
+            "xp": 4305600,
+            "migrated": false,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "little"
+            },
+            {
+              "id": "small"
+            },
+            {
+              "id": "tiny"
+            }
+          ]
+        },
+        {
+          "id": 12758,
+          "user_id": 803418,
+          "cloneof_id": null,
+          "string_id": "peaceful_lake",
+          "title": "Peaceful Lake 1v1",
+          "description": "It's too cold to swim, you should get out now",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 7,
+          "objects": 121,
+          "created_at": "2023-08-28T01:24:45.000Z",
+          "updated_at": "2025-01-12T01:02:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 803418,
+            "username": "Cat_",
+            "description": "Golden\n\nSubscribe to me on Youtube:\nhttps://youtube.com/c/Cat_WasTaken",
+            "about": "𓆩⟡𓆪\nDeeptuber\nMap contributor",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-17T01:11:22.000Z",
+            "date_last_played": "2025-04-24T07:13:30.000Z",
+            "kill_count": 63820,
+            "play_count": 27011,
+            "highest_score": 11788516,
+            "picture": "803418-378210fb227e513e99010b64f82af6b7a2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16623,
+            "tier": 10,
+            "xp": 4305600,
+            "migrated": false,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "lake"
+            }
+          ]
+        },
+        {
+          "id": 12099,
+          "user_id": 803418,
+          "cloneof_id": null,
+          "string_id": "submarine",
+          "title": "Submarine World",
+          "description": "what is lurking in the depths..?",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 9,
+          "objects": 630,
+          "created_at": "2023-04-24T17:12:08.000Z",
+          "updated_at": "2024-10-22T06:19:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 803418,
+            "username": "Cat_",
+            "description": "Golden\n\nSubscribe to me on Youtube:\nhttps://youtube.com/c/Cat_WasTaken",
+            "about": "𓆩⟡𓆪\nDeeptuber\nMap contributor",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-17T01:11:22.000Z",
+            "date_last_played": "2025-04-24T07:13:30.000Z",
+            "kill_count": 63820,
+            "play_count": 27011,
+            "highest_score": 11788516,
+            "picture": "803418-378210fb227e513e99010b64f82af6b7a2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16623,
+            "tier": 10,
+            "xp": 4305600,
+            "migrated": false,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "custom"
+            },
+            {
+              "id": "submarine"
+            }
+          ]
+        },
+        {
+          "id": 9823,
+          "user_id": 803418,
+          "cloneof_id": 7758,
+          "string_id": "cool_waters1v1",
+          "title": "Cool Waters 1v1",
+          "description": "Why is it so coldddd",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 10,
+          "objects": 107,
+          "created_at": "2022-06-04T22:24:03.000Z",
+          "updated_at": "2024-11-23T23:28:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 803418,
+            "username": "Cat_",
+            "description": "Golden\n\nSubscribe to me on Youtube:\nhttps://youtube.com/c/Cat_WasTaken",
+            "about": "𓆩⟡𓆪\nDeeptuber\nMap contributor",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-17T01:11:22.000Z",
+            "date_last_played": "2025-04-24T07:13:30.000Z",
+            "kill_count": 63820,
+            "play_count": 27011,
+            "highest_score": 11788516,
+            "picture": "803418-378210fb227e513e99010b64f82af6b7a2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16623,
+            "tier": 10,
+            "xp": 4305600,
+            "migrated": false,
+            "verified": true,
+            "beta": true
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "official"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:45:25.487Z"
+}
