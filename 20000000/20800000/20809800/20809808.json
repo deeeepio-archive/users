@@ -1,0 +1,91 @@
+{
+  "id": 20809808,
+  "username": "iamlucky2354",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-25T06:35:49.000Z",
+  "date_last_played": "2022-06-28T10:06:18.000Z",
+  "profile_views": 13,
+  "kill_count": 5,
+  "play_count": 43,
+  "highest_score": 51426,
+  "picture": "20809808-22371048d22657323b3ef88b42c721132.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2687,
+      "user_id": 20809808,
+      "platform_id": "dc",
+      "platform_user_id": "L U C K Y#1599",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-21T10:22:14.000Z",
+      "updated_at": "2022-06-21T10:22:14.000Z"
+    },
+    {
+      "id": 2690,
+      "user_id": 20809808,
+      "platform_id": "tc",
+      "platform_user_id": "helloiamlucky",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-21T10:23:16.000Z",
+      "updated_at": "2022-06-21T10:23:16.000Z"
+    },
+    {
+      "id": 2688,
+      "user_id": 20809808,
+      "platform_id": "tw",
+      "platform_user_id": "iamlucky2354",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-21T10:22:25.000Z",
+      "updated_at": "2022-06-21T10:22:25.000Z"
+    },
+    {
+      "id": 2689,
+      "user_id": 20809808,
+      "platform_id": "yt",
+      "platform_user_id": "L U C K Y",
+      "platform_user_url": "https://www.youtube.com/channel/UCzJgVzr4fiqXtZ8U1SVgm4g",
+      "verified": false,
+      "created_at": "2022-06-21T10:22:54.000Z",
+      "updated_at": "2022-06-21T10:22:54.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20809808,
+    "rank_kc": 265694,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-28T09:34:47.000Z",
+    "rank_pc": 106947,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-28T09:34:47.000Z",
+    "rank_hs": 318719,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-28T09:34:47.000Z",
+    "created_at": "2022-06-28T10:06:18.000Z",
+    "updated_at": "2022-06-28T10:06:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:23:08.684Z"
+}
