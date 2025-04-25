@@ -1,0 +1,97 @@
+{
+  "id": 799427,
+  "username": "6323276_261",
+  "description": "당신은 광합성으로 죽었습니다...",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-07T00:53:19.000Z",
+  "date_last_played": "2023-12-21T10:44:04.000Z",
+  "profile_views": 1,
+  "kill_count": 2945,
+  "play_count": 1124,
+  "highest_score": 1847478,
+  "picture": "799427.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 254,
+  "tier": 1,
+  "xp": 14700,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 799427,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T08:15:12.390Z",
+    "updated_at": "2025-04-25T08:15:12.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5158,
+          "user_id": 799427,
+          "cloneof_id": null,
+          "string_id": "parkour1253",
+          "title": "Untitled",
+          "description": "no",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 10,
+          "created_at": "2020-12-07T01:01:02.000Z",
+          "updated_at": "2020-12-07T01:01:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 799427,
+            "username": "6323276_261",
+            "description": "당신은 광합성으로 죽었습니다...",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-07T00:53:19.000Z",
+            "date_last_played": "2023-12-21T10:44:04.000Z",
+            "kill_count": 2945,
+            "play_count": 1124,
+            "highest_score": 1847478,
+            "picture": "799427.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 254,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "no"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:15:12.448Z"
+}
