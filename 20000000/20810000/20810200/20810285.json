@@ -1,0 +1,97 @@
+{
+  "id": 20810285,
+  "username": "불행한참치unhappytuna",
+  "description": "???:무슨 축제가 열리고 있는건가요?\nA:축제가 아니라 장례식입니다",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-27T05:40:48.000Z",
+  "date_last_played": "2025-04-23T10:02:50.000Z",
+  "profile_views": 1141,
+  "kill_count": 7148,
+  "play_count": 2679,
+  "highest_score": 2867290,
+  "picture": "20810285-b10c1161889623cb66a43e99fbeeeab71.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 187,
+  "tier": 8,
+  "xp": 894150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20810285,
+    "rank_kc": 3976,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-07T15:00:32.000Z",
+    "rank_pc": 3888,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-07T15:00:43.000Z",
+    "rank_hs": 23621,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-07T15:00:47.000Z",
+    "created_at": "2025-04-23T10:08:47.000Z",
+    "updated_at": "2025-04-23T10:08:48.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10157,
+          "user_id": 20810285,
+          "cloneof_id": null,
+          "string_id": "dangerous_planet",
+          "title": "dangerous_planet",
+          "description": "nothing",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-06-24T15:26:43.000Z",
+          "updated_at": "2022-06-24T15:26:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20810285,
+            "username": "불행한참치unhappytuna",
+            "description": "???:무슨 축제가 열리고 있는건가요?\nA:축제가 아니라 장례식입니다",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-27T05:40:48.000Z",
+            "date_last_played": "2025-04-23T10:02:50.000Z",
+            "kill_count": 7148,
+            "play_count": 2679,
+            "highest_score": 2867290,
+            "picture": "20810285-b10c1161889623cb66a43e99fbeeeab71.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 187,
+            "tier": 8,
+            "xp": 894150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "costum"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:25:52.291Z"
+}
