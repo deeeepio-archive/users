@@ -1,0 +1,470 @@
+{
+  "id": 20824490,
+  "username": "Krubs",
+  "description": "DEEEZ NUTZ , ok maybe team next time my highest score is 1.5mil spooder creb I am a crab main\nam sorry for killing you am sometimes forgiving ",
+  "about": "highest score is 1.5 mil spooder creb\nI am a crab main\noh and pls sub to JANEG HAGYIAM\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-14T05:55:02.000Z",
+  "date_last_played": "2025-03-23T18:54:29.000Z",
+  "profile_views": 433,
+  "kill_count": 1018,
+  "play_count": 1230,
+  "highest_score": 1758468,
+  "picture": "20824490-888db227adeb960107e1769ff8310f892b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 85,
+  "tier": 5,
+  "xp": 252150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8299,
+      "user_id": 20824490,
+      "platform_id": "dc",
+      "platform_user_id": "shrek#8070",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-20T08:03:38.000Z",
+      "updated_at": "2022-10-20T08:03:38.000Z"
+    },
+    {
+      "id": 8300,
+      "user_id": 20824490,
+      "platform_id": "yt",
+      "platform_user_id": "janeg hagyiam",
+      "platform_user_url": "https://www.youtube.com/channel/UCxn7da-x-ihhXi5boEkvddg?cbrd=1&themeRefresh=1",
+      "verified": false,
+      "created_at": "2022-10-20T08:04:12.000Z",
+      "updated_at": "2022-10-20T08:04:12.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20824490,
+    "rank_kc": 29293,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-03T05:21:16.000Z",
+    "rank_pc": 11520,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-03T05:21:17.000Z",
+    "rank_hs": 48754,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-03T05:21:18.000Z",
+    "created_at": "2025-03-23T20:00:08.000Z",
+    "updated_at": "2025-03-23T20:00:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11384,
+          "user_id": 20824490,
+          "cloneof_id": null,
+          "string_id": "boat_map1",
+          "title": "krubs_BOAT",
+          "description": "this is krub fan's pirate ship where he does his shananagains like attacking other ships enjoy!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 149,
+          "created_at": "2022-12-02T12:55:37.000Z",
+          "updated_at": "2022-12-02T12:57:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20824490,
+            "username": "Krubs",
+            "description": "DEEEZ NUTZ , ok maybe team next time my highest score is 1.5mil spooder creb I am a crab main\nam sorry for killing you am sometimes forgiving ",
+            "about": "highest score is 1.5 mil spooder creb\nI am a crab main\noh and pls sub to JANEG HAGYIAM\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-14T05:55:02.000Z",
+            "date_last_played": "2025-03-23T18:54:29.000Z",
+            "kill_count": 1018,
+            "play_count": 1230,
+            "highest_score": 1758468,
+            "picture": "20824490-888db227adeb960107e1769ff8310f892b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 5,
+            "xp": 252150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "boat"
+            },
+            {
+              "id": "deeeep.io"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "vibe"
+            }
+          ]
+        },
+        {
+          "id": 11383,
+          "user_id": 20824490,
+          "cloneof_id": null,
+          "string_id": "survive_raid",
+          "title": "survive",
+          "description": "survive for as long as you can",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 76,
+          "created_at": "2022-12-02T09:59:58.000Z",
+          "updated_at": "2022-12-02T10:00:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20824490,
+            "username": "Krubs",
+            "description": "DEEEZ NUTZ , ok maybe team next time my highest score is 1.5mil spooder creb I am a crab main\nam sorry for killing you am sometimes forgiving ",
+            "about": "highest score is 1.5 mil spooder creb\nI am a crab main\noh and pls sub to JANEG HAGYIAM\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-14T05:55:02.000Z",
+            "date_last_played": "2025-03-23T18:54:29.000Z",
+            "kill_count": 1018,
+            "play_count": 1230,
+            "highest_score": 1758468,
+            "picture": "20824490-888db227adeb960107e1769ff8310f892b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 5,
+            "xp": 252150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "yum"
+            }
+          ]
+        },
+        {
+          "id": 11382,
+          "user_id": 20824490,
+          "cloneof_id": null,
+          "string_id": "mini_world",
+          "title": "MiniWorld",
+          "description": "a smoll world for smoll bois",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 141,
+          "created_at": "2022-12-02T07:40:59.000Z",
+          "updated_at": "2022-12-02T07:54:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20824490,
+            "username": "Krubs",
+            "description": "DEEEZ NUTZ , ok maybe team next time my highest score is 1.5mil spooder creb I am a crab main\nam sorry for killing you am sometimes forgiving ",
+            "about": "highest score is 1.5 mil spooder creb\nI am a crab main\noh and pls sub to JANEG HAGYIAM\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-14T05:55:02.000Z",
+            "date_last_played": "2025-03-23T18:54:29.000Z",
+            "kill_count": 1018,
+            "play_count": 1230,
+            "highest_score": 1758468,
+            "picture": "20824490-888db227adeb960107e1769ff8310f892b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 5,
+            "xp": 252150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "crab"
+            },
+            {
+              "id": "deeeep.io"
+            },
+            {
+              "id": "small"
+            },
+            {
+              "id": "vibe"
+            }
+          ]
+        },
+        {
+          "id": 11369,
+          "user_id": 20824490,
+          "cloneof_id": null,
+          "string_id": "space_ispods",
+          "title": "mini_mini_planets",
+          "description": "they are mini mini planets to be mini",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 44,
+          "created_at": "2022-11-30T12:44:38.000Z",
+          "updated_at": "2022-11-30T12:44:38.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20824490,
+            "username": "Krubs",
+            "description": "DEEEZ NUTZ , ok maybe team next time my highest score is 1.5mil spooder creb I am a crab main\nam sorry for killing you am sometimes forgiving ",
+            "about": "highest score is 1.5 mil spooder creb\nI am a crab main\noh and pls sub to JANEG HAGYIAM\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-14T05:55:02.000Z",
+            "date_last_played": "2025-03-23T18:54:29.000Z",
+            "kill_count": 1018,
+            "play_count": 1230,
+            "highest_score": 1758468,
+            "picture": "20824490-888db227adeb960107e1769ff8310f892b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 5,
+            "xp": 252150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deeeep.io"
+            },
+            {
+              "id": "mini"
+            },
+            {
+              "id": "small"
+            },
+            {
+              "id": "smol"
+            }
+          ]
+        },
+        {
+          "id": 11368,
+          "user_id": 20824490,
+          "cloneof_id": null,
+          "string_id": "ror_rorrity_roror",
+          "title": "rormap2",
+          "description": "ror , ror ror ror hissy hiss hisss ror ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 134,
+          "created_at": "2022-11-30T11:13:40.000Z",
+          "updated_at": "2022-11-30T11:30:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20824490,
+            "username": "Krubs",
+            "description": "DEEEZ NUTZ , ok maybe team next time my highest score is 1.5mil spooder creb I am a crab main\nam sorry for killing you am sometimes forgiving ",
+            "about": "highest score is 1.5 mil spooder creb\nI am a crab main\noh and pls sub to JANEG HAGYIAM\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-14T05:55:02.000Z",
+            "date_last_played": "2025-03-23T18:54:29.000Z",
+            "kill_count": 1018,
+            "play_count": 1230,
+            "highest_score": 1758468,
+            "picture": "20824490-888db227adeb960107e1769ff8310f892b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 5,
+            "xp": 252150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ror"
+            }
+          ]
+        },
+        {
+          "id": 11357,
+          "user_id": 20824490,
+          "cloneof_id": null,
+          "string_id": "sus_worldkrab",
+          "title": "pine valley",
+          "description": "i love crabs this is fresh water only map due to it being in a valey so enjoyHOST THIS PLEASEEEEE",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 142,
+          "created_at": "2022-11-28T16:30:22.000Z",
+          "updated_at": "2022-11-28T17:33:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20824490,
+            "username": "Krubs",
+            "description": "DEEEZ NUTZ , ok maybe team next time my highest score is 1.5mil spooder creb I am a crab main\nam sorry for killing you am sometimes forgiving ",
+            "about": "highest score is 1.5 mil spooder creb\nI am a crab main\noh and pls sub to JANEG HAGYIAM\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-14T05:55:02.000Z",
+            "date_last_played": "2025-03-23T18:54:29.000Z",
+            "kill_count": 1018,
+            "play_count": 1230,
+            "highest_score": 1758468,
+            "picture": "20824490-888db227adeb960107e1769ff8310f892b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 5,
+            "xp": 252150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "crab chill vibe"
+            }
+          ]
+        },
+        {
+          "id": 11355,
+          "user_id": 20824490,
+          "cloneof_id": null,
+          "string_id": "krubmap3",
+          "title": "krub.map",
+          "description": "krubs to vibe",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 128,
+          "created_at": "2022-11-28T07:34:35.000Z",
+          "updated_at": "2022-11-28T08:00:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20824490,
+            "username": "Krubs",
+            "description": "DEEEZ NUTZ , ok maybe team next time my highest score is 1.5mil spooder creb I am a crab main\nam sorry for killing you am sometimes forgiving ",
+            "about": "highest score is 1.5 mil spooder creb\nI am a crab main\noh and pls sub to JANEG HAGYIAM\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-14T05:55:02.000Z",
+            "date_last_played": "2025-03-23T18:54:29.000Z",
+            "kill_count": 1018,
+            "play_count": 1230,
+            "highest_score": 1758468,
+            "picture": "20824490-888db227adeb960107e1769ff8310f892b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 5,
+            "xp": 252150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "crab"
+            }
+          ]
+        },
+        {
+          "id": 11353,
+          "user_id": 20824490,
+          "cloneof_id": null,
+          "string_id": "krabmapv1",
+          "title": "krab map",
+          "description": "for crabs to vibe",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 110,
+          "created_at": "2022-11-27T11:21:32.000Z",
+          "updated_at": "2022-11-27T11:39:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20824490,
+            "username": "Krubs",
+            "description": "DEEEZ NUTZ , ok maybe team next time my highest score is 1.5mil spooder creb I am a crab main\nam sorry for killing you am sometimes forgiving ",
+            "about": "highest score is 1.5 mil spooder creb\nI am a crab main\noh and pls sub to JANEG HAGYIAM\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-14T05:55:02.000Z",
+            "date_last_played": "2025-03-23T18:54:29.000Z",
+            "kill_count": 1018,
+            "play_count": 1230,
+            "highest_score": 1758468,
+            "picture": "20824490-888db227adeb960107e1769ff8310f892b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 5,
+            "xp": 252150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "crab"
+            },
+            {
+              "id": "fun"
+            }
+          ]
+        }
+      ],
+      "count": 8
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:52:24.611Z"
+}
