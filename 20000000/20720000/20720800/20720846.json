@@ -1,0 +1,103 @@
+{
+  "id": 20720846,
+  "username": "Bugleman",
+  "description": "\"And the Bugle Plays\"",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-26T22:06:21.000Z",
+  "date_last_played": "2024-08-18T00:00:51.000Z",
+  "profile_views": 3,
+  "kill_count": 802,
+  "play_count": 369,
+  "highest_score": 1745610,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 174,
+  "tier": 1,
+  "xp": 14700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20720846,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-08-18T00:00:51.000Z",
+    "updated_at": "2024-08-18T00:00:51.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6645,
+          "user_id": 20720846,
+          "cloneof_id": null,
+          "string_id": "bugle_swamp",
+          "title": "Bugleman's swamp",
+          "description": "Yeet",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 49,
+          "created_at": "2021-04-27T17:59:47.000Z",
+          "updated_at": "2021-04-27T17:59:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20720846,
+            "username": "Bugleman",
+            "description": "\"And the Bugle Plays\"",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-26T22:06:21.000Z",
+            "date_last_played": "2024-08-18T00:00:51.000Z",
+            "kill_count": 802,
+            "play_count": 369,
+            "highest_score": 1745610,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 174,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "Swamp"
+            },
+            {
+              "id": "Tree"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T13:03:05.799Z"
+}
