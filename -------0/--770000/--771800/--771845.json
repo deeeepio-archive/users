@@ -1,0 +1,61 @@
+{
+  "id": 771845,
+  "username": "breadAZ",
+  "description": "i am bread",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-09T07:54:34.000Z",
+  "date_last_played": "2025-02-20T11:57:05.000Z",
+  "profile_views": 155,
+  "kill_count": 21547,
+  "play_count": 9406,
+  "highest_score": 6347102,
+  "picture": "771845-aeee2ced58193ca70141b7ba10e33321d.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 30,
+  "tier": 7,
+  "xp": 626250,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18441,
+      "user_id": 771845,
+      "platform_id": "dc",
+      "platform_user_id": "bread#1414",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-02T08:51:21.000Z",
+      "updated_at": "2023-05-02T08:51:21.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 771845,
+    "rank_kc": 584,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-30T09:36:29.000Z",
+    "rank_pc": 216,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-30T09:36:30.000Z",
+    "rank_hs": 5133,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-30T09:36:31.000Z",
+    "created_at": "2025-02-20T11:57:04.000Z",
+    "updated_at": "2025-02-20T11:57:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T05:03:17.567Z"
+}
