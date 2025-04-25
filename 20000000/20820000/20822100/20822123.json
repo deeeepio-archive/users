@@ -1,0 +1,71 @@
+{
+  "id": 20822123,
+  "username": "HoneyMeelk",
+  "description": "quandale",
+  "about": "scrumbus",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-06T03:23:15.000Z",
+  "date_last_played": "2022-05-27T10:50:54.000Z",
+  "profile_views": 2,
+  "kill_count": 3,
+  "play_count": 9,
+  "highest_score": 823855,
+  "picture": "20822123-da106661092261f2310d9fecf52a17559e.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 37,
+  "tier": 1,
+  "xp": 450,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 614,
+      "user_id": 20822123,
+      "platform_id": "dc",
+      "platform_user_id": "·<◄CloudCandy►>·#3796",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-24T04:22:35.000Z",
+      "updated_at": "2022-05-24T04:22:35.000Z"
+    },
+    {
+      "id": 615,
+      "user_id": 20822123,
+      "platform_id": "ig",
+      "platform_user_id": "lem0nlover_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-24T04:22:59.000Z",
+      "updated_at": "2022-05-24T04:22:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20822123,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T23:36:13.194Z",
+    "updated_at": "2025-04-25T23:36:13.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:36:13.263Z"
+}
