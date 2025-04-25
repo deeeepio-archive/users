@@ -1,0 +1,81 @@
+{
+  "id": 788777,
+  "username": "deeeepfuny",
+  "description": "twitch.tv/deeeepfuny",
+  "about": "orca main\nsolo player",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-04T23:55:17.000Z",
+  "date_last_played": "2023-11-25T02:04:38.000Z",
+  "profile_views": 204,
+  "kill_count": 16521,
+  "play_count": 4466,
+  "highest_score": 10054117,
+  "picture": "788777.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 7269,
+  "tier": 4,
+  "xp": 236550,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20162,
+      "user_id": 788777,
+      "platform_id": "dc",
+      "platform_user_id": "deeeepfuny#0000",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-31T14:39:12.000Z",
+      "updated_at": "2023-07-24T03:10:32.000Z"
+    },
+    {
+      "id": 5237,
+      "user_id": 788777,
+      "platform_id": "rd",
+      "platform_user_id": "FunyDeeeep",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-18T02:41:06.000Z",
+      "updated_at": "2022-08-18T02:41:06.000Z"
+    },
+    {
+      "id": 5241,
+      "user_id": 788777,
+      "platform_id": "yt",
+      "platform_user_id": "Funy YT",
+      "platform_user_url": "https://www.youtube.com/channel/UCsh_7TWwM2rYzkEEQnIfSyQ/featured",
+      "verified": false,
+      "created_at": "2022-08-18T02:43:16.000Z",
+      "updated_at": "2022-08-18T02:43:16.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 788777,
+    "rank_kc": 936,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-31T07:52:52.000Z",
+    "rank_pc": 1350,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-31T07:52:54.000Z",
+    "rank_hs": 2584,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-31T07:52:56.000Z",
+    "created_at": "2023-11-25T02:04:37.000Z",
+    "updated_at": "2023-11-25T02:04:38.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:05:17.607Z"
+}
