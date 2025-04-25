@@ -1,0 +1,97 @@
+{
+  "id": 20705213,
+  "username": "kirbymin",
+  "description": "hi\nbye\nsad you died\neither you were AFK or a wimp\nso sorry to hear it\nanyways uhh continue playing ig",
+  "about": "hi\nhere's something about myself:\ni am a human being\nthere\nbet you cant say chocolate -1 times",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-16T18:26:48.000Z",
+  "date_last_played": "2023-09-21T16:03:38.000Z",
+  "profile_views": 68,
+  "kill_count": 345,
+  "play_count": 816,
+  "highest_score": 449040,
+  "picture": "20705213-10be0d1e823f0e9dae24e3fec6792dfb8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 275,
+  "tier": 1,
+  "xp": 3000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20705213,
+    "rank_kc": 54773,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-21T15:49:38.000Z",
+    "rank_pc": 15363,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-21T15:49:40.000Z",
+    "rank_hs": 161982,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-21T15:49:42.000Z",
+    "created_at": "2024-01-19T03:00:07.000Z",
+    "updated_at": "2023-09-21T16:03:38.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6260,
+          "user_id": 20705213,
+          "cloneof_id": null,
+          "string_id": "098765",
+          "title": "Not much stuff-",
+          "description": "basic beach water, with half island of the world meaning one island is half the lentgh of the water",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 18,
+          "created_at": "2021-03-18T22:41:44.000Z",
+          "updated_at": "2021-03-18T22:47:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20705213,
+            "username": "kirbymin",
+            "description": "hi\nbye\nsad you died\neither you were AFK or a wimp\nso sorry to hear it\nanyways uhh continue playing ig",
+            "about": "hi\nhere's something about myself:\ni am a human being\nthere\nbet you cant say chocolate -1 times",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-16T18:26:48.000Z",
+            "date_last_played": "2023-09-21T16:03:38.000Z",
+            "kill_count": 345,
+            "play_count": 816,
+            "highest_score": 449040,
+            "picture": "20705213-10be0d1e823f0e9dae24e3fec6792dfb8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 275,
+            "tier": 1,
+            "xp": 3000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#beachdayuwu"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T11:27:15.251Z"
+}
