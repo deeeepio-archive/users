@@ -1,0 +1,109 @@
+{
+  "id": 754441,
+  "username": "isaacw_811",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-06-29T04:22:41.000Z",
+  "date_last_played": "2020-07-11T23:19:02.000Z",
+  "profile_views": 0,
+  "kill_count": 4,
+  "play_count": 18,
+  "highest_score": 168251,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 754441,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T03:17:20.955Z",
+    "updated_at": "2025-04-25T03:17:21.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3667,
+          "user_id": 754441,
+          "cloneof_id": null,
+          "string_id": "rapid_spawn_1",
+          "title": "Rapid Spawn Map",
+          "description": "All NPC's can spawn anywhere on the map! A good idea for poeple who want to grow fast! But there are deadly ones..",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 56,
+          "created_at": "2020-07-11T04:29:25.000Z",
+          "updated_at": "2020-07-11T04:29:28.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 754441,
+            "username": "isaacw_811",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-06-29T04:22:41.000Z",
+            "date_last_played": "2020-07-11T23:19:02.000Z",
+            "kill_count": 4,
+            "play_count": 18,
+            "highest_score": 168251,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 14,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " cool"
+            },
+            {
+              "id": "All zones"
+            },
+            {
+              "id": "cool"
+            },
+            {
+              "id": "NPC"
+            },
+            {
+              "id": "Rapid Spawn"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T03:17:21.014Z"
+}
