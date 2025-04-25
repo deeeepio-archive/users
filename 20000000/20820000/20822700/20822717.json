@@ -1,0 +1,108 @@
+{
+  "id": 20822717,
+  "username": "MewBricks",
+  "description": "GG Sorry i need food",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-08T01:43:41.000Z",
+  "date_last_played": "2022-10-07T07:15:23.000Z",
+  "profile_views": 56,
+  "kill_count": 496,
+  "play_count": 646,
+  "highest_score": 1616524,
+  "picture": "20822717-3926dbd1fa479c58c658efd062589b33.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 218,
+  "tier": 3,
+  "xp": 117600,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2049,
+      "user_id": 20822717,
+      "platform_id": "yt",
+      "platform_user_id": "Mew Bricks",
+      "platform_user_url": "https://www.youtube.com/channel/UC0emDKcRjE9EZQdjquQoKWg",
+      "verified": false,
+      "created_at": "2022-06-11T08:00:15.000Z",
+      "updated_at": "2022-06-11T08:00:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20822717,
+    "rank_kc": 36395,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-31T08:09:04.000Z",
+    "rank_pc": 14162,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-31T08:09:04.000Z",
+    "rank_hs": 42118,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-31T06:47:08.000Z",
+    "created_at": "2023-02-09T06:15:17.000Z",
+    "updated_at": "2022-10-07T07:15:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9802,
+          "user_id": 20822717,
+          "cloneof_id": null,
+          "string_id": "e45g",
+          "title": "Idk",
+          "description": "Idk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 2,
+          "created_at": "2022-05-12T05:08:26.000Z",
+          "updated_at": "2022-05-12T05:22:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20822717,
+            "username": "MewBricks",
+            "description": "GG Sorry i need food",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-08T01:43:41.000Z",
+            "date_last_played": "2022-10-07T07:15:23.000Z",
+            "kill_count": 496,
+            "play_count": 646,
+            "highest_score": 1616524,
+            "picture": "20822717-3926dbd1fa479c58c658efd062589b33.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 218,
+            "tier": 3,
+            "xp": 117600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "MAP"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:41:03.811Z"
+}
