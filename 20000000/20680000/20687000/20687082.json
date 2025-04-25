@@ -1,0 +1,61 @@
+{
+  "id": 20687082,
+  "username": "platon_bob_TPOT",
+  "description": "no...\n",
+  "about": "ей я русский!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-30T06:52:32.000Z",
+  "date_last_played": "2024-09-07T07:35:13.000Z",
+  "profile_views": 44,
+  "kill_count": 202,
+  "play_count": 172,
+  "highest_score": 926150,
+  "picture": "20687082-f0a9a30955042e1b539b7f5a54ef2be9.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 44,
+  "tier": 2,
+  "xp": 37650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31549,
+      "user_id": 20687082,
+      "platform_id": "dc",
+      "platform_user_id": "dyno_platon",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-01T13:40:44.000Z",
+      "updated_at": "2024-01-01T13:40:44.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20687082,
+    "rank_kc": 186016,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-08T12:57:47.000Z",
+    "rank_pc": 121682,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-08T12:57:47.000Z",
+    "rank_hs": 171336,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-08T06:37:37.000Z",
+    "created_at": "2024-09-07T07:35:12.000Z",
+    "updated_at": "2024-09-07T07:35:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:37:30.536Z"
+}

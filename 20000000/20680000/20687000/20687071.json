@@ -1,0 +1,71 @@
+{
+  "id": 20687071,
+  "username": "Batem",
+  "description": "",
+  "about": "KOREA NO.1",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-30T05:58:48.000Z",
+  "date_last_played": "2024-05-25T10:56:47.000Z",
+  "profile_views": 34,
+  "kill_count": 9550,
+  "play_count": 7277,
+  "highest_score": 7489804,
+  "picture": "20687071.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 166,
+  "tier": 1,
+  "xp": 14850,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1063,
+      "user_id": 20687071,
+      "platform_id": "dc",
+      "platform_user_id": "장애인#5354",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-29T11:54:25.000Z",
+      "updated_at": "2022-05-29T11:54:25.000Z"
+    },
+    {
+      "id": 1064,
+      "user_id": 20687071,
+      "platform_id": "yt",
+      "platform_user_id": "Batem",
+      "platform_user_url": "https://www.youtube.com/channel/UC8zKUGmzPHc5BTyoXg4mnMg",
+      "verified": false,
+      "created_at": "2022-05-29T11:55:58.000Z",
+      "updated_at": "2022-05-29T11:55:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20687071,
+    "rank_kc": 2278,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-26T05:45:53.000Z",
+    "rank_pc": 380,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-26T05:45:54.000Z",
+    "rank_hs": 3667,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-26T05:45:55.000Z",
+    "created_at": "2024-05-25T10:56:46.000Z",
+    "updated_at": "2024-05-25T10:56:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:37:29.010Z"
+}
