@@ -1,0 +1,65 @@
+{
+  "id": 20771604,
+  "username": "Animaly",
+  "description": "it’s raining it’s pouring the old man is snoring",
+  "about": "Yawn",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-27T19:19:59.000Z",
+  "date_last_played": "2025-04-03T16:14:14.000Z",
+  "profile_views": 570,
+  "kill_count": 9489,
+  "play_count": 4546,
+  "highest_score": 5039014,
+  "picture": "20771604-5714ded10d975108b6103b9ce48b58e7e52.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 64,
+  "tier": 10,
+  "xp": 1462200,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7393,
+      "user_id": 20771604,
+      "platform_id": "dc",
+      "platform_user_id": "Kokushibo #2796",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-27T21:28:41.000Z",
+      "updated_at": "2022-09-27T21:28:41.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20771604,
+    "rank_kc": 2582,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-02T15:27:05.000Z",
+    "rank_pc": 1414,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-02T15:27:10.000Z",
+    "rank_hs": 8155,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-02T15:27:15.000Z",
+    "created_at": "2025-04-03T16:14:13.000Z",
+    "updated_at": "2025-04-03T16:14:14.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T18:27:08.600Z"
+}
