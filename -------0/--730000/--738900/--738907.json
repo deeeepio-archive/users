@@ -1,0 +1,61 @@
+{
+  "id": 738907,
+  "username": "ZiggyZaggy",
+  "description": "GG",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-14T00:23:18.000Z",
+  "date_last_played": "2022-08-13T22:30:43.000Z",
+  "profile_views": 70,
+  "kill_count": 1940,
+  "play_count": 539,
+  "highest_score": 4778912,
+  "picture": "738907.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 147,
+  "tier": 1,
+  "xp": 19800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4847,
+      "user_id": 738907,
+      "platform_id": "dc",
+      "platform_user_id": "Autumn 🍁#3853",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-11T03:11:07.000Z",
+      "updated_at": "2022-08-11T03:11:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 738907,
+    "rank_kc": 12170,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-13T22:31:08.000Z",
+    "rank_pc": 16375,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-13T22:31:08.000Z",
+    "rank_hs": 6883,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-13T04:58:24.000Z",
+    "created_at": "2022-09-18T20:57:13.000Z",
+    "updated_at": "2022-08-13T22:31:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:31:56.992Z"
+}
