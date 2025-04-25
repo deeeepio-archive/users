@@ -1,0 +1,65 @@
+{
+  "id": 799136,
+  "username": "teamocean",
+  "description": "teamocean",
+  "about": "hello\nteam ocean\ntffa AS",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-06T00:57:51.000Z",
+  "date_last_played": "2025-04-23T15:16:01.000Z",
+  "profile_views": 263,
+  "kill_count": 9118,
+  "play_count": 2650,
+  "highest_score": 4200016,
+  "picture": "799136.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 275,
+  "tier": 5,
+  "xp": 326400,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103958,
+      "user_id": 799136,
+      "platform_id": "dc",
+      "platform_user_id": "n1t40h1d40",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-23T15:23:03.000Z",
+      "updated_at": "2025-04-23T15:23:03.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 799136,
+    "rank_kc": 2835,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-12T04:52:55.000Z",
+    "rank_pc": 4215,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-12T04:52:56.000Z",
+    "rank_hs": 15029,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-12T04:52:57.000Z",
+    "created_at": "2025-04-23T15:16:01.000Z",
+    "updated_at": "2025-04-23T15:16:01.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:13:07.322Z"
+}
