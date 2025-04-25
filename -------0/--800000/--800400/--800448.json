@@ -1,0 +1,155 @@
+{
+  "id": 800448,
+  "username": "LuffyEmily",
+  "description": "I'm the best player of deeeep.io,\r\nyou have no chances against me\r\nI wish you luck\r\nYou're delicouuuuuuuuuuuuuuus\r\nyou can't kill me anymore,\r\nHow long do you think I'm going to stay here ????",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-09T15:07:16.000Z",
+  "date_last_played": "2024-04-19T17:06:14.000Z",
+  "profile_views": 9,
+  "kill_count": 79,
+  "play_count": 40,
+  "highest_score": 439145,
+  "picture": "800448.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 49,
+  "tier": 1,
+  "xp": 1650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 800448,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T08:21:46.175Z",
+    "updated_at": "2025-04-25T08:21:46.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5292,
+          "user_id": 800448,
+          "cloneof_id": null,
+          "string_id": "213",
+          "title": "Pscifactoría",
+          "description": "h",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 20,
+          "created_at": "2020-12-15T19:14:03.000Z",
+          "updated_at": "2020-12-15T19:14:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 800448,
+            "username": "LuffyEmily",
+            "description": "I'm the best player of deeeep.io,\r\nyou have no chances against me\r\nI wish you luck\r\nYou're delicouuuuuuuuuuuuuuus\r\nyou can't kill me anymore,\r\nHow long do you think I'm going to stay here ????",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-09T15:07:16.000Z",
+            "date_last_played": "2024-04-19T17:06:14.000Z",
+            "kill_count": 79,
+            "play_count": 40,
+            "highest_score": 439145,
+            "picture": "800448.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 49,
+            "tier": 1,
+            "xp": 1650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "big fish farm"
+            },
+            {
+              "id": "Fish farm"
+            },
+            {
+              "id": "Map for eagles"
+            }
+          ]
+        },
+        {
+          "id": 5261,
+          "user_id": 800448,
+          "cloneof_id": null,
+          "string_id": "peces",
+          "title": "Piscifactoria",
+          "description": "Mapa especializado en criar peces.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 18,
+          "created_at": "2020-12-13T15:00:53.000Z",
+          "updated_at": "2020-12-13T15:03:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 800448,
+            "username": "LuffyEmily",
+            "description": "I'm the best player of deeeep.io,\r\nyou have no chances against me\r\nI wish you luck\r\nYou're delicouuuuuuuuuuuuuuus\r\nyou can't kill me anymore,\r\nHow long do you think I'm going to stay here ????",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-09T15:07:16.000Z",
+            "date_last_played": "2024-04-19T17:06:14.000Z",
+            "kill_count": 79,
+            "play_count": 40,
+            "highest_score": 439145,
+            "picture": "800448.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 49,
+            "tier": 1,
+            "xp": 1650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1 HABITAT"
+            },
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "PRINCIPAL ISLAND"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:21:46.223Z"
+}
