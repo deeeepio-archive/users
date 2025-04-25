@@ -1,0 +1,101 @@
+{
+  "id": 756805,
+  "username": "cersew",
+  "description": "Another victim of assasination, nor is it the first one and nor will it be the last.",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-07-08T07:22:30.000Z",
+  "date_last_played": "2025-04-24T21:50:10.000Z",
+  "profile_views": 136,
+  "kill_count": 30931,
+  "play_count": 7094,
+  "highest_score": 31309175,
+  "picture": "756805.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 343,
+  "tier": 10,
+  "xp": 1459950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 756805,
+    "rank_kc": 301,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-16T10:11:08.000Z",
+    "rank_pc": 759,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-16T10:11:08.000Z",
+    "rank_hs": 1010,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-16T10:11:09.000Z",
+    "created_at": "2025-04-24T21:50:10.000Z",
+    "updated_at": "2025-04-24T21:50:10.000Z",
+    "pd": {
+      "played": 11,
+      "won": 7,
+      "ratio": 64
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3694,
+          "user_id": 756805,
+          "cloneof_id": 3641,
+          "string_id": "262626",
+          "title": "Great swamp",
+          "description": "For those who like swamp",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 3802,
+          "created_at": "2020-07-14T08:34:14.000Z",
+          "updated_at": "2020-11-13T08:09:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 756805,
+            "username": "cersew",
+            "description": "Another victim of assasination, nor is it the first one and nor will it be the last.",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-07-08T07:22:30.000Z",
+            "date_last_played": "2025-04-24T21:50:10.000Z",
+            "kill_count": 30931,
+            "play_count": 7094,
+            "highest_score": 31309175,
+            "picture": "756805.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 343,
+            "tier": 10,
+            "xp": 1459950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "swamp"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T03:32:50.435Z"
+}
