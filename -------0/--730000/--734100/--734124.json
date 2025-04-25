@@ -1,0 +1,71 @@
+{
+  "id": 734124,
+  "username": "Caymazson",
+  "description": "i was lucky",
+  "about": "love this shit",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-02T23:17:30.000Z",
+  "date_last_played": "2025-04-23T13:54:16.000Z",
+  "profile_views": 65,
+  "kill_count": 2951,
+  "play_count": 1855,
+  "highest_score": 2451455,
+  "picture": "734124-66a962211bb891e2fd663dce3d92de89.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 625,
+  "tier": 3,
+  "xp": 122100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29796,
+      "user_id": 734124,
+      "platform_id": "dc",
+      "platform_user_id": "Kraken#3942",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-22T15:18:08.000Z",
+      "updated_at": "2023-11-22T15:18:08.000Z"
+    },
+    {
+      "id": 29797,
+      "user_id": 734124,
+      "platform_id": "ig",
+      "platform_user_id": "1reli4",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-22T15:18:31.000Z",
+      "updated_at": "2023-11-22T15:18:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 734124,
+    "rank_kc": 11741,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-22T15:38:52.000Z",
+    "rank_pc": 8461,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-22T15:38:56.000Z",
+    "rank_hs": 29769,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-22T15:38:57.000Z",
+    "created_at": "2025-04-23T13:54:16.000Z",
+    "updated_at": "2025-04-23T13:54:16.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:03:38.077Z"
+}
