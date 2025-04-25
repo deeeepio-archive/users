@@ -1,0 +1,65 @@
+{
+  "id": 729989,
+  "username": "BY_KADIR",
+  "description": "$\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-27T15:26:34.000Z",
+  "date_last_played": "2025-04-16T11:57:52.000Z",
+  "profile_views": 310,
+  "kill_count": 24824,
+  "play_count": 7361,
+  "highest_score": 19135731,
+  "picture": "729989.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6451,
+  "tier": 7,
+  "xp": 548850,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15636,
+      "user_id": 729989,
+      "platform_id": "dc",
+      "platform_user_id": "unknown.#1089",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-27T16:44:04.000Z",
+      "updated_at": "2023-02-27T16:44:04.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 729989,
+    "rank_kc": 507,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-06T19:40:10.000Z",
+    "rank_pc": 513,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-06T19:40:19.000Z",
+    "rank_hs": 1411,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-06T19:40:22.000Z",
+    "created_at": "2025-04-16T11:57:51.000Z",
+    "updated_at": "2025-04-16T11:57:52.000Z",
+    "pd": {
+      "played": 10,
+      "won": 5,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T00:38:24.628Z"
+}
