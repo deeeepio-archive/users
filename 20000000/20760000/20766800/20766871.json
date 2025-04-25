@@ -1,0 +1,71 @@
+{
+  "id": 20766871,
+  "username": "acreativename",
+  "description": "its nothin personal, trust me\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-13T23:14:31.000Z",
+  "date_last_played": "2024-05-28T10:50:55.000Z",
+  "profile_views": 35,
+  "kill_count": 1228,
+  "play_count": 592,
+  "highest_score": 3079662,
+  "picture": "20766871-cae7837b894101a3864785f752d7e9d8d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 202,
+  "tier": 3,
+  "xp": 89700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1416,
+      "user_id": 20766871,
+      "platform_id": "dc",
+      "platform_user_id": "acreativename#8245",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-03T03:02:09.000Z",
+      "updated_at": "2022-06-03T03:02:09.000Z"
+    },
+    {
+      "id": 1417,
+      "user_id": 20766871,
+      "platform_id": "rd",
+      "platform_user_id": "Ianisbacktoreddit",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-03T03:03:02.000Z",
+      "updated_at": "2022-06-03T03:03:02.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20766871,
+    "rank_kc": 20020,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-13T02:17:17.000Z",
+    "rank_pc": 18527,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-13T02:17:23.000Z",
+    "rank_hs": 16967,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-13T02:17:28.000Z",
+    "created_at": "2024-05-28T10:50:55.000Z",
+    "updated_at": "2024-05-28T10:50:55.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:56:13.627Z"
+}
