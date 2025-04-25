@@ -1,0 +1,97 @@
+{
+  "id": 20745309,
+  "username": "Fishbutcher",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-07-20T06:25:32.000Z",
+  "date_last_played": "2025-01-16T02:43:50.000Z",
+  "profile_views": 1298,
+  "kill_count": 19879,
+  "play_count": 4864,
+  "highest_score": 8261001,
+  "picture": "20745309-932ddf88198102110b11f2431288949c86.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4436,
+  "tier": 10,
+  "xp": 1698900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20745309,
+    "rank_kc": 676,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-28T06:49:26.000Z",
+    "rank_pc": 1130,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-28T06:49:28.000Z",
+    "rank_hs": 3309,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-28T06:49:29.000Z",
+    "created_at": "2025-01-16T02:43:50.000Z",
+    "updated_at": "2025-01-16T02:43:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8208,
+          "user_id": 20745309,
+          "cloneof_id": null,
+          "string_id": "map0",
+          "title": "Untitled",
+          "description": "h",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-10-15T11:02:56.000Z",
+          "updated_at": "2021-10-15T11:02:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20745309,
+            "username": "Fishbutcher",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-20T06:25:32.000Z",
+            "date_last_played": "2025-01-16T02:43:50.000Z",
+            "kill_count": 19879,
+            "play_count": 4864,
+            "highest_score": 8261001,
+            "picture": "20745309-932ddf88198102110b11f2431288949c86.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 4436,
+            "tier": 10,
+            "xp": 1698900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "h"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T15:34:43.796Z"
+}
