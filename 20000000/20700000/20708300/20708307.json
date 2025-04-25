@@ -1,0 +1,435 @@
+{
+  "id": 20708307,
+  "username": "BlackyDAFish",
+  "description": "You were killed by a Ghost Cat (:",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-24T14:25:13.000Z",
+  "date_last_played": "2022-02-02T18:32:44.000Z",
+  "profile_views": 0,
+  "kill_count": 115,
+  "play_count": 323,
+  "highest_score": 205675,
+  "picture": "20708307.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 90,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20708307,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T11:47:05.384Z",
+    "updated_at": "2025-04-25T11:47:05.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8772,
+          "user_id": 20708307,
+          "cloneof_id": null,
+          "string_id": "blackythefesh",
+          "title": "Kat's Lair",
+          "description": "A Flooded castle like building",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 9,
+          "created_at": "2021-12-16T17:53:34.000Z",
+          "updated_at": "2021-12-16T17:53:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20708307,
+            "username": "BlackyDAFish",
+            "description": "You were killed by a Ghost Cat (:",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-24T14:25:13.000Z",
+            "date_last_played": "2022-02-02T18:32:44.000Z",
+            "kill_count": 115,
+            "play_count": 323,
+            "highest_score": 205675,
+            "picture": "20708307.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 90,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 8771,
+          "user_id": 20708307,
+          "cloneof_id": null,
+          "string_id": "blackydafesh",
+          "title": "Kat's Lair",
+          "description": "a place for kats, but it was flooded!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-12-16T17:41:24.000Z",
+          "updated_at": "2021-12-16T17:41:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20708307,
+            "username": "BlackyDAFish",
+            "description": "You were killed by a Ghost Cat (:",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-24T14:25:13.000Z",
+            "date_last_played": "2022-02-02T18:32:44.000Z",
+            "kill_count": 115,
+            "play_count": 323,
+            "highest_score": 205675,
+            "picture": "20708307.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 90,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Blacky"
+            },
+            {
+              "id": "BlackyDAFish"
+            },
+            {
+              "id": "Kat's Lair"
+            },
+            {
+              "id": "KittyCatBlacky"
+            }
+          ]
+        },
+        {
+          "id": 6400,
+          "user_id": 20708307,
+          "cloneof_id": null,
+          "string_id": "austinpizza",
+          "title": "Lost City Of Atlantis",
+          "description": "ATLANTIS RETURNS!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 92,
+          "created_at": "2021-03-29T16:58:48.000Z",
+          "updated_at": "2021-03-29T16:59:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20708307,
+            "username": "BlackyDAFish",
+            "description": "You were killed by a Ghost Cat (:",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-24T14:25:13.000Z",
+            "date_last_played": "2022-02-02T18:32:44.000Z",
+            "kill_count": 115,
+            "play_count": 323,
+            "highest_score": 205675,
+            "picture": "20708307.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 90,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " Cats"
+            },
+            {
+              "id": "Alantis"
+            },
+            {
+              "id": "Blacky"
+            },
+            {
+              "id": "BlackyDAFish"
+            },
+            {
+              "id": "KRACKEN"
+            },
+            {
+              "id": "Nitny"
+            }
+          ]
+        },
+        {
+          "id": 6368,
+          "user_id": 20708307,
+          "cloneof_id": null,
+          "string_id": "nitny",
+          "title": "Blacky's Super World",
+          "description": "Blacky is my Cat",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 65,
+          "created_at": "2021-03-26T18:00:46.000Z",
+          "updated_at": "2021-03-26T18:00:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20708307,
+            "username": "BlackyDAFish",
+            "description": "You were killed by a Ghost Cat (:",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-24T14:25:13.000Z",
+            "date_last_played": "2022-02-02T18:32:44.000Z",
+            "kill_count": 115,
+            "play_count": 323,
+            "highest_score": 205675,
+            "picture": "20708307.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 90,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Blacky"
+            },
+            {
+              "id": "DEEEEP"
+            },
+            {
+              "id": "DEEEEP.IO"
+            },
+            {
+              "id": "Lava"
+            },
+            {
+              "id": "Nitny"
+            },
+            {
+              "id": "Super World"
+            },
+            {
+              "id": "Swamp"
+            }
+          ]
+        },
+        {
+          "id": 6354,
+          "user_id": 20708307,
+          "cloneof_id": null,
+          "string_id": "nitnydafish",
+          "title": "Blacky's Mini Ocean",
+          "description": "Blacky's Verson of The Ocean",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 12,
+          "created_at": "2021-03-25T17:01:07.000Z",
+          "updated_at": "2021-03-25T17:01:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20708307,
+            "username": "BlackyDAFish",
+            "description": "You were killed by a Ghost Cat (:",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-24T14:25:13.000Z",
+            "date_last_played": "2022-02-02T18:32:44.000Z",
+            "kill_count": 115,
+            "play_count": 323,
+            "highest_score": 205675,
+            "picture": "20708307.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 90,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Blacky"
+            },
+            {
+              "id": "Fish"
+            },
+            {
+              "id": "Nitny"
+            },
+            {
+              "id": "Ocean"
+            },
+            {
+              "id": "Tuna"
+            },
+            {
+              "id": "Water"
+            }
+          ]
+        },
+        {
+          "id": 6353,
+          "user_id": 20708307,
+          "cloneof_id": null,
+          "string_id": "blacky",
+          "title": "World Of Alantis",
+          "description": "Ze Fish Found Alantis",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 92,
+          "created_at": "2021-03-25T15:26:09.000Z",
+          "updated_at": "2021-03-25T15:46:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20708307,
+            "username": "BlackyDAFish",
+            "description": "You were killed by a Ghost Cat (:",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-24T14:25:13.000Z",
+            "date_last_played": "2022-02-02T18:32:44.000Z",
+            "kill_count": 115,
+            "play_count": 323,
+            "highest_score": 205675,
+            "picture": "20708307.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 90,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Alantis"
+            },
+            {
+              "id": "BlackyDAFish"
+            },
+            {
+              "id": "Cat"
+            },
+            {
+              "id": "Made By a Cat"
+            }
+          ]
+        },
+        {
+          "id": 6335,
+          "user_id": 20708307,
+          "cloneof_id": null,
+          "string_id": "blackydafish",
+          "title": "Blacky's Underwater World",
+          "description": "Blacky is my Cat",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 36,
+          "created_at": "2021-03-24T14:27:10.000Z",
+          "updated_at": "2021-03-25T15:33:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20708307,
+            "username": "BlackyDAFish",
+            "description": "You were killed by a Ghost Cat (:",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-24T14:25:13.000Z",
+            "date_last_played": "2022-02-02T18:32:44.000Z",
+            "kill_count": 115,
+            "play_count": 323,
+            "highest_score": 205675,
+            "picture": "20708307.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 90,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "CatZ"
+            }
+          ]
+        }
+      ],
+      "count": 7
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T11:47:05.471Z"
+}
