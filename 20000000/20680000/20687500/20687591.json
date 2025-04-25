@@ -1,0 +1,108 @@
+{
+  "id": 20687591,
+  "username": "Sky-Whale",
+  "description": "Charybdis :>",
+  "about": "Used to play, recently returned. I'm a bit rusty.\nLocal Greek Mythology nerd.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-31T22:26:43.000Z",
+  "date_last_played": "2024-08-25T09:08:06.000Z",
+  "profile_views": 67,
+  "kill_count": 204,
+  "play_count": 231,
+  "highest_score": 976880,
+  "picture": "20687591-e3c283f10ee112210406e10106a14589d64.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 178,
+  "tier": 1,
+  "xp": 17850,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 97938,
+      "user_id": 20687591,
+      "platform_id": "dc",
+      "platform_user_id": "Kaden103",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-25T07:35:46.000Z",
+      "updated_at": "2024-08-25T07:35:46.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20687591,
+    "rank_kc": 82079,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-17T00:19:58.000Z",
+    "rank_pc": 50127,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-17T00:20:00.000Z",
+    "rank_hs": 95835,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-17T00:20:01.000Z",
+    "created_at": "2024-08-25T09:08:06.000Z",
+    "updated_at": "2024-08-25T09:08:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5781,
+          "user_id": 20687591,
+          "cloneof_id": null,
+          "string_id": "upside_down",
+          "title": "upsidedown",
+          "description": "there's rift in reality ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 248,
+          "created_at": "2021-02-01T21:47:11.000Z",
+          "updated_at": "2022-10-23T04:40:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20687591,
+            "username": "Sky-Whale",
+            "description": "Charybdis :>",
+            "about": "Used to play, recently returned. I'm a bit rusty.\nLocal Greek Mythology nerd.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-31T22:26:43.000Z",
+            "date_last_played": "2024-08-25T09:08:06.000Z",
+            "kill_count": 204,
+            "play_count": 231,
+            "highest_score": 976880,
+            "picture": "20687591-e3c283f10ee112210406e10106a14589d64.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 178,
+            "tier": 1,
+            "xp": 17850,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "upside down"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:40:57.389Z"
+}
