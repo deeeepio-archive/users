@@ -1,0 +1,97 @@
+{
+  "id": 20759283,
+  "username": "2584315_719",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-16T15:13:47.000Z",
+  "date_last_played": "2022-05-26T16:14:08.000Z",
+  "profile_views": 1,
+  "kill_count": 110,
+  "play_count": 272,
+  "highest_score": 160638,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 5,
+  "tier": 1,
+  "xp": 300,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20759283,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T17:04:12.578Z",
+    "updated_at": "2025-04-25T17:04:13.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8389,
+          "user_id": 20759283,
+          "cloneof_id": null,
+          "string_id": "94238420932",
+          "title": "Untitled",
+          "description": "nojwg",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2021-10-29T16:08:46.000Z",
+          "updated_at": "2021-10-29T16:09:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20759283,
+            "username": "2584315_719",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-16T15:13:47.000Z",
+            "date_last_played": "2022-05-26T16:14:08.000Z",
+            "kill_count": 110,
+            "play_count": 272,
+            "highest_score": 160638,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 5,
+            "tier": 1,
+            "xp": 300,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "nwoejofwje"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:04:12.664Z"
+}
