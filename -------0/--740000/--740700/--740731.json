@@ -1,0 +1,97 @@
+{
+  "id": 740731,
+  "username": "baleia",
+  "description": "hmmm year nice desbloke squid skin 350\r\n coins] super baleia azul meio noob meio PRO azul toy animatronics are five night at freddy 2 cool like 30000 ehh you play five night at Freddy",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-18T19:44:10.000Z",
+  "date_last_played": "2024-02-07T17:03:14.000Z",
+  "profile_views": 3,
+  "kill_count": 4058,
+  "play_count": 1312,
+  "highest_score": 3442813,
+  "picture": "740731.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 1950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 740731,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-02-07T17:03:14.000Z",
+    "updated_at": "2024-02-07T17:03:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3076,
+          "user_id": 740731,
+          "cloneof_id": null,
+          "string_id": "mundo",
+          "title": "Untitled",
+          "description": "eu n sei editar mapas",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 9,
+          "created_at": "2020-05-20T19:08:43.000Z",
+          "updated_at": "2020-05-20T19:08:45.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 740731,
+            "username": "baleia",
+            "description": "hmmm year nice desbloke squid skin 350\r\n coins] super baleia azul meio noob meio PRO azul toy animatronics are five night at freddy 2 cool like 30000 ehh you play five night at Freddy",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-05-18T19:44:10.000Z",
+            "date_last_played": "2024-02-07T17:03:14.000Z",
+            "kill_count": 4058,
+            "play_count": 1312,
+            "highest_score": 3442813,
+            "picture": "740731.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 12,
+            "tier": 1,
+            "xp": 1950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "oceano"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:48:19.956Z"
+}
