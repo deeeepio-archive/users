@@ -1,0 +1,97 @@
+{
+  "id": 20694341,
+  "username": "thealtiero",
+  "description": "good luck\n\nLOVE ANIMALS:\nalligator\nwhale",
+  "about": "italy",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-02-18T18:34:02.000Z",
+  "date_last_played": "2022-10-22T17:41:14.000Z",
+  "profile_views": 13,
+  "kill_count": 1714,
+  "play_count": 470,
+  "highest_score": 2642963,
+  "picture": "20694341.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 598,
+  "tier": 3,
+  "xp": 82350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20694341,
+    "rank_kc": 14602,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-16T20:27:28.000Z",
+    "rank_pc": 19925,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-16T20:27:28.000Z",
+    "rank_hs": 21269,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-16T20:27:29.000Z",
+    "created_at": "2022-11-08T23:34:08.000Z",
+    "updated_at": "2022-10-22T17:41:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244223,
+          "user_id": 20694341,
+          "cloneof_id": 11953,
+          "string_id": "sadsdsadasfda",
+          "title": "asfzxc15125d",
+          "description": "asdaasdazxcsd",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 1978,
+          "created_at": "2024-04-26T13:54:48.000Z",
+          "updated_at": "2024-04-26T13:54:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20694341,
+            "username": "thealtiero",
+            "description": "good luck\n\nLOVE ANIMALS:\nalligator\nwhale",
+            "about": "italy",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-02-18T18:34:02.000Z",
+            "date_last_played": "2022-10-22T17:41:14.000Z",
+            "kill_count": 1714,
+            "play_count": 470,
+            "highest_score": 2642963,
+            "picture": "20694341.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 598,
+            "tier": 3,
+            "xp": 82350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "lol"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T10:23:38.387Z"
+}
