@@ -1,0 +1,108 @@
+{
+  "id": 20789977,
+  "username": "🤍いきゆ𝘍𝘳𝘢𝘯𝘶",
+  "description": "x",
+  "about": "\" Once i got top 1 \"...",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-04T19:43:46.000Z",
+  "date_last_played": "2025-01-22T17:46:44.000Z",
+  "profile_views": 279,
+  "kill_count": 882,
+  "play_count": 705,
+  "highest_score": 2238376,
+  "picture": "20789977-5b35afe802417ae4107851d588ca6fd7f-2ef38d25-51e5-4afe-9d88-bc67a6cd35f7.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 58,
+  "tier": 3,
+  "xp": 88350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102144,
+      "user_id": 20789977,
+      "platform_id": "dc",
+      "platform_user_id": "blazingpack123",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-01-22T17:43:13.000Z",
+      "updated_at": "2025-01-22T17:43:13.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20789977,
+    "rank_kc": 50392,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T01:45:51.000Z",
+    "rank_pc": 29692,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T02:17:05.000Z",
+    "rank_hs": 51998,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-21T02:29:19.000Z",
+    "created_at": "2025-04-14T13:02:30.000Z",
+    "updated_at": "2025-04-14T13:02:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244430,
+          "user_id": 20789977,
+          "cloneof_id": null,
+          "string_id": "uhhh_what",
+          "title": "Untitled",
+          "description": "asasd",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 449,
+          "created_at": "2024-07-15T08:51:58.000Z",
+          "updated_at": "2024-07-15T09:05:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20789977,
+            "username": "🤍いきゆ𝘍𝘳𝘢𝘯𝘶",
+            "description": "x",
+            "about": "\" Once i got top 1 \"...",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-04T19:43:46.000Z",
+            "date_last_played": "2025-01-22T17:46:44.000Z",
+            "kill_count": 882,
+            "play_count": 705,
+            "highest_score": 2238376,
+            "picture": "20789977-5b35afe802417ae4107851d588ca6fd7f-2ef38d25-51e5-4afe-9d88-bc67a6cd35f7.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 58,
+            "tier": 3,
+            "xp": 88350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Your_Mom!"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:18:25.512Z"
+}
