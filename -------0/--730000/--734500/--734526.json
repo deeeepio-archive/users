@@ -1,0 +1,103 @@
+{
+  "id": 734526,
+  "username": "M00nB0y09",
+  "description": "I'm very sorry for eating you. If it makes you feel any better, you were very tasty.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-04T00:04:30.000Z",
+  "date_last_played": "2023-08-07T22:29:09.000Z",
+  "profile_views": 0,
+  "kill_count": 4,
+  "play_count": 9,
+  "highest_score": 157056,
+  "picture": "734526.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4,
+  "tier": 1,
+  "xp": 450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 734526,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T01:06:32.742Z",
+    "updated_at": "2025-04-25T01:06:33.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2851,
+          "user_id": 734526,
+          "cloneof_id": null,
+          "string_id": "underwater_with_caves_and_stuff",
+          "title": "Dare To Play Fair",
+          "description": "swim, fly, eat and... swim to victory. Remember to play fair!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 65,
+          "created_at": "2020-05-04T00:20:18.000Z",
+          "updated_at": "2020-09-08T00:41:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 734526,
+            "username": "M00nB0y09",
+            "description": "I'm very sorry for eating you. If it makes you feel any better, you were very tasty.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-05-04T00:04:30.000Z",
+            "date_last_played": "2023-08-07T22:29:09.000Z",
+            "kill_count": 4,
+            "play_count": 9,
+            "highest_score": 157056,
+            "picture": "734526.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 4,
+            "tier": 1,
+            "xp": 450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Fair"
+            },
+            {
+              "id": "First"
+            },
+            {
+              "id": "M00nB0y09"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:06:32.804Z"
+}
