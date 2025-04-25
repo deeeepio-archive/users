@@ -1,0 +1,155 @@
+{
+  "id": 20715640,
+  "username": "Josiax",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-13T16:37:21.000Z",
+  "date_last_played": "2021-04-16T13:31:05.000Z",
+  "profile_views": 0,
+  "kill_count": 1,
+  "play_count": 9,
+  "highest_score": 82952,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 9,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20715640,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T12:31:46.253Z",
+    "updated_at": "2025-04-25T12:31:46.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6540,
+          "user_id": 20715640,
+          "cloneof_id": 6523,
+          "string_id": "6868456",
+          "title": "OCEANs",
+          "description": "map design",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 205,
+          "created_at": "2021-04-16T13:56:48.000Z",
+          "updated_at": "2021-04-16T14:17:45.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20715640,
+            "username": "Josiax",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-13T16:37:21.000Z",
+            "date_last_played": "2021-04-16T13:31:05.000Z",
+            "kill_count": 1,
+            "play_count": 9,
+            "highest_score": 82952,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 9,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "design "
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "medium+"
+            }
+          ]
+        },
+        {
+          "id": 6523,
+          "user_id": 20715640,
+          "cloneof_id": 6519,
+          "string_id": "6164467",
+          "title": "seas hurt",
+          "description": "a large map that is still in progress",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 190,
+          "created_at": "2021-04-13T23:30:22.000Z",
+          "updated_at": "2021-04-16T13:41:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20715640,
+            "username": "Josiax",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-13T16:37:21.000Z",
+            "date_last_played": "2021-04-16T13:31:05.000Z",
+            "kill_count": 1,
+            "play_count": 9,
+            "highest_score": 82952,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 9,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "in progress"
+            },
+            {
+              "id": "large"
+            },
+            {
+              "id": "map"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:31:46.313Z"
+}
