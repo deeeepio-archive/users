@@ -1,0 +1,100 @@
+{
+  "id": 20817681,
+  "username": "8271940_517",
+  "description": "Frosty The Snowman was a flesh eating soul with a corn cob pipe and a button nose and 2 eyes made out of coal. Frosty the snowman had to eat you on his way but he waved goodbye saying enjoy your add ill be back to eat you some day.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-21T04:13:41.000Z",
+  "date_last_played": "2023-02-08T02:13:37.000Z",
+  "profile_views": 9,
+  "kill_count": 23,
+  "play_count": 121,
+  "highest_score": 217323,
+  "picture": "20817681-2f1022db510c4d1b93c5e4b7b7ef2d1f97.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 50,
+  "tier": 1,
+  "xp": 4200,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20817681,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T23:09:22.689Z",
+    "updated_at": "2025-04-25T23:09:23.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9697,
+          "user_id": 20817681,
+          "cloneof_id": null,
+          "string_id": "fair5788765",
+          "title": "fairly large map",
+          "description": "this map is very large!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 116,
+          "created_at": "2022-04-21T04:50:06.000Z",
+          "updated_at": "2022-04-21T04:50:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20817681,
+            "username": "8271940_517",
+            "description": "Frosty The Snowman was a flesh eating soul with a corn cob pipe and a button nose and 2 eyes made out of coal. Frosty the snowman had to eat you on his way but he waved goodbye saying enjoy your add ill be back to eat you some day.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-04-21T04:13:41.000Z",
+            "date_last_played": "2023-02-08T02:13:37.000Z",
+            "kill_count": 23,
+            "play_count": 121,
+            "highest_score": 217323,
+            "picture": "20817681-2f1022db510c4d1b93c5e4b7b7ef2d1f97.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 50,
+            "tier": 1,
+            "xp": 4200,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "big"
+            },
+            {
+              "id": "large"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:09:22.775Z"
+}
