@@ -1,0 +1,130 @@
+{
+  "id": 20819157,
+  "username": "KittyCatBlacky",
+  "description": "Subscribe to KittyCatBlacky on YouTube\n",
+  "about": "I'm Da Real KittyCatBlacky",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-26T13:58:59.000Z",
+  "date_last_played": "2022-06-02T13:32:54.000Z",
+  "profile_views": 3,
+  "kill_count": 44,
+  "play_count": 88,
+  "highest_score": 357905,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 47,
+  "tier": 1,
+  "xp": 1950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1222,
+      "user_id": 20819157,
+      "platform_id": "dc",
+      "platform_user_id": "KittyCatBlacky#2815",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-31T15:47:33.000Z",
+      "updated_at": "2022-05-31T15:47:33.000Z"
+    },
+    {
+      "id": 1221,
+      "user_id": 20819157,
+      "platform_id": "yt",
+      "platform_user_id": "KittyCatBlacky",
+      "platform_user_url": "https://www.youtube.com/channel/UClq_NHTGH1A-F9ccRbf1rQQ",
+      "verified": false,
+      "created_at": "2022-05-31T15:46:06.000Z",
+      "updated_at": "2022-05-31T15:46:06.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20819157,
+    "rank_kc": 142199,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-05-31T15:40:53.000Z",
+    "rank_pc": 69460,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-05-31T15:40:53.000Z",
+    "rank_hs": 142324,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-05-31T15:40:54.000Z",
+    "created_at": "2024-01-17T07:29:06.000Z",
+    "updated_at": "2022-06-02T13:32:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9723,
+          "user_id": 20819157,
+          "cloneof_id": null,
+          "string_id": "the_landia_studios",
+          "title": "Ice Landia's Ocean",
+          "description": "Join the Group!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 17,
+          "created_at": "2022-04-27T14:01:57.000Z",
+          "updated_at": "2022-04-27T14:01:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20819157,
+            "username": "KittyCatBlacky",
+            "description": "Subscribe to KittyCatBlacky on YouTube\n",
+            "about": "I'm Da Real KittyCatBlacky",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-04-26T13:58:59.000Z",
+            "date_last_played": "2022-06-02T13:32:54.000Z",
+            "kill_count": 44,
+            "play_count": 88,
+            "highest_score": 357905,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 47,
+            "tier": 1,
+            "xp": 1950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Cold"
+            },
+            {
+              "id": "Ice"
+            },
+            {
+              "id": "Ice Landia"
+            },
+            {
+              "id": "Landia"
+            },
+            {
+              "id": "Ocean"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:19:01.487Z"
+}
