@@ -1,0 +1,97 @@
+{
+  "id": 751143,
+  "username": "matiasman",
+  "description": "matiasman tik tok",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-06-17T18:20:25.000Z",
+  "date_last_played": "2022-02-04T18:19:42.000Z",
+  "profile_views": 0,
+  "kill_count": 936,
+  "play_count": 612,
+  "highest_score": 19093482,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 124,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 751143,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T02:57:46.462Z",
+    "updated_at": "2025-04-25T02:57:46.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3984,
+          "user_id": 751143,
+          "cloneof_id": null,
+          "string_id": "er3",
+          "title": "TRY",
+          "description": "s",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 141,
+          "created_at": "2020-08-13T10:06:44.000Z",
+          "updated_at": "2020-08-14T21:33:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 751143,
+            "username": "matiasman",
+            "description": "matiasman tik tok",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-06-17T18:20:25.000Z",
+            "date_last_played": "2022-02-04T18:19:42.000Z",
+            "kill_count": 936,
+            "play_count": 612,
+            "highest_score": 19093482,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 124,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "d"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T02:57:46.519Z"
+}

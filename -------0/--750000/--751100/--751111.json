@@ -1,0 +1,61 @@
+{
+  "id": 751111,
+  "username": "temp_est",
+  "description": "A hatred as pure and potent as sunshine",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-06-17T17:04:13.000Z",
+  "date_last_played": "2025-01-11T05:37:06.000Z",
+  "profile_views": 107,
+  "kill_count": 5087,
+  "play_count": 3962,
+  "highest_score": 6095811,
+  "picture": "751111-55d19cbe933f21c1a8f3d148ba2211c10.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 217,
+  "tier": 4,
+  "xp": 203550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1678,
+      "user_id": 751111,
+      "platform_id": "dc",
+      "platform_user_id": "ivory.13",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-06T12:25:05.000Z",
+      "updated_at": "2023-11-29T16:48:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 751111,
+    "rank_kc": 5579,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-24T19:06:30.000Z",
+    "rank_pc": 1674,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-24T19:06:31.000Z",
+    "rank_hs": 5297,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-24T19:06:31.000Z",
+    "created_at": "2025-01-11T05:37:05.000Z",
+    "updated_at": "2025-01-11T05:37:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T02:57:40.640Z"
+}
