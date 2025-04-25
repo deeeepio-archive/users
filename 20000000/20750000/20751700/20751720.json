@@ -1,0 +1,61 @@
+{
+  "id": 20751720,
+  "username": "Samurai_",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-08-18T08:23:09.000Z",
+  "date_last_played": "2024-03-31T12:09:46.000Z",
+  "profile_views": 288,
+  "kill_count": 6720,
+  "play_count": 4565,
+  "highest_score": 3258733,
+  "picture": "20751720.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 236,
+  "tier": 8,
+  "xp": 838200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16177,
+      "user_id": 20751720,
+      "platform_id": "dc",
+      "platform_user_id": "Kalleu#4318",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-12T16:05:35.000Z",
+      "updated_at": "2023-03-12T16:05:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20751720,
+    "rank_kc": 4272,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-02T19:52:11.000Z",
+    "rank_pc": 1483,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-02T19:52:14.000Z",
+    "rank_hs": 18756,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-02T19:52:16.000Z",
+    "created_at": "2024-03-31T12:09:45.000Z",
+    "updated_at": "2024-03-31T12:09:46.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:15:26.515Z"
+}
