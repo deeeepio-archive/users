@@ -1,0 +1,100 @@
+{
+  "id": 20697837,
+  "username": "7130885_507",
+  "description": "You can do it.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-02-26T16:15:46.000Z",
+  "date_last_played": "2024-04-22T15:44:57.000Z",
+  "profile_views": 10,
+  "kill_count": 248,
+  "play_count": 479,
+  "highest_score": 527967,
+  "picture": "20697837-1bf4f77ecf8c8eb610e6d39c2996d0eb.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 92,
+  "tier": 1,
+  "xp": 8400,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20697837,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T10:43:25.385Z",
+    "updated_at": "2025-04-25T10:43:25.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6469,
+          "user_id": 20697837,
+          "cloneof_id": null,
+          "string_id": "135",
+          "title": "world",
+          "description": "my world",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-04-06T15:19:01.000Z",
+          "updated_at": "2021-04-06T15:19:02.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20697837,
+            "username": "7130885_507",
+            "description": "You can do it.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-02-26T16:15:46.000Z",
+            "date_last_played": "2024-04-22T15:44:57.000Z",
+            "kill_count": 248,
+            "play_count": 479,
+            "highest_score": 527967,
+            "picture": "20697837-1bf4f77ecf8c8eb610e6d39c2996d0eb.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 92,
+            "tier": 1,
+            "xp": 8400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "123"
+            },
+            {
+              "id": "456"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T10:43:25.437Z"
+}
