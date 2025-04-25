@@ -1,0 +1,61 @@
+{
+  "id": 766084,
+  "username": "M0lim",
+  "description": "want some cookies?",
+  "about": "i play pd and i hate it",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-16T11:24:31.000Z",
+  "date_last_played": "2024-10-11T05:10:17.000Z",
+  "profile_views": 1344,
+  "kill_count": 7767,
+  "play_count": 2404,
+  "highest_score": 3716549,
+  "picture": "766084.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 124,
+  "tier": 6,
+  "xp": 393450,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16110,
+      "user_id": 766084,
+      "platform_id": "dc",
+      "platform_user_id": "Zozozo#4264",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-11T10:49:19.000Z",
+      "updated_at": "2023-03-11T10:49:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 766084,
+    "rank_kc": 3500,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-06T09:57:28.000Z",
+    "rank_pc": 4439,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-06T09:57:31.000Z",
+    "rank_hs": 14781,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-06T09:57:33.000Z",
+    "created_at": "2024-10-11T05:10:16.000Z",
+    "updated_at": "2024-10-11T05:10:17.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:28:22.971Z"
+}
