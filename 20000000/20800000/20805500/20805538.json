@@ -1,0 +1,61 @@
+{
+  "id": 20805538,
+  "username": "SKY_JP",
+  "description": "아뇽",
+  "about": "FUTURE",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-07T04:25:49.000Z",
+  "date_last_played": "2024-05-20T12:39:32.000Z",
+  "profile_views": 207,
+  "kill_count": 3710,
+  "play_count": 1931,
+  "highest_score": 2613286,
+  "picture": "20805538-9ae92a53cdcdd8dd2939103482843d465.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 327,
+  "tier": 6,
+  "xp": 456750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4896,
+      "user_id": 20805538,
+      "platform_id": "dc",
+      "platform_user_id": "적폐충",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-12T01:47:53.000Z",
+      "updated_at": "2022-08-12T01:47:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20805538,
+    "rank_kc": 6520,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-19T10:21:56.000Z",
+    "rank_pc": 4354,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-19T10:21:56.000Z",
+    "rank_hs": 21668,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-19T10:21:57.000Z",
+    "created_at": "2024-05-20T12:39:31.000Z",
+    "updated_at": "2024-05-20T12:39:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:57:02.838Z"
+}
