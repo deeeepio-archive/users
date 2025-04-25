@@ -1,0 +1,97 @@
+{
+  "id": 777289,
+  "username": "PigeonManEpic2",
+  "description": "Secondary",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-28T11:33:01.000Z",
+  "date_last_played": "2022-01-30T20:04:02.000Z",
+  "profile_views": 3,
+  "kill_count": 2003,
+  "play_count": 1787,
+  "highest_score": 1793330,
+  "picture": "777289.gif",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 777289,
+    "rank_kc": 15662,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-12-22T12:37:05.000Z",
+    "rank_pc": 6641,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-22T12:37:08.000Z",
+    "rank_hs": 47874,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-22T12:37:10.000Z",
+    "created_at": "2024-01-01T22:59:47.000Z",
+    "updated_at": "2023-12-22T12:37:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5813,
+          "user_id": 777289,
+          "cloneof_id": null,
+          "string_id": "epic_gamer_map",
+          "title": "gamer",
+          "description": "epic",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 31,
+          "created_at": "2021-02-04T14:10:28.000Z",
+          "updated_at": "2021-02-04T14:21:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 777289,
+            "username": "PigeonManEpic2",
+            "description": "Secondary",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-28T11:33:01.000Z",
+            "date_last_played": "2022-01-30T20:04:02.000Z",
+            "kill_count": 2003,
+            "play_count": 1787,
+            "highest_score": 1793330,
+            "picture": "777289.gif",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 15,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "very cool"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T05:36:45.978Z"
+}
