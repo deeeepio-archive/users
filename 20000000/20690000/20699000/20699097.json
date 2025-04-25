@@ -1,0 +1,154 @@
+{
+  "id": 20699097,
+  "username": "θzan",
+  "description": "spoon🔛🔝\n\nYine birbirimize baktık, fakat bir şey anlamadan değil, lüzumundan fazla şeyler anlayarak..\n\n\n",
+  "about": "19/01/2024\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-01T08:49:02.000Z",
+  "date_last_played": "2025-01-26T08:07:11.000Z",
+  "profile_views": 4479,
+  "kill_count": 12991,
+  "play_count": 7149,
+  "highest_score": 22221819,
+  "picture": "20699097-f94655df4adaf7cb63c32d6a6fba88cd-30ee0235-7148-4504-841d-0b2b125a1104.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2507,
+  "tier": 10,
+  "xp": 3310200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 97152,
+      "user_id": 20699097,
+      "platform_id": "dc",
+      "platform_user_id": "ozan_rf1",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-05T13:53:54.000Z",
+      "updated_at": "2024-08-05T13:53:54.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20699097,
+    "rank_kc": 5773,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T19:28:51.000Z",
+    "rank_pc": 2139,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T19:29:15.000Z",
+    "rank_hs": 2562,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-19T19:29:35.000Z",
+    "created_at": "2025-01-26T08:07:11.000Z",
+    "updated_at": "2025-01-26T08:07:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244370,
+          "user_id": 20699097,
+          "cloneof_id": 12807,
+          "string_id": "tffa_ffa_v1",
+          "title": "idk",
+          "description": "idk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 1949,
+          "created_at": "2024-06-24T00:40:53.000Z",
+          "updated_at": "2024-06-24T00:40:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20699097,
+            "username": "θzan",
+            "description": "spoon🔛🔝\n\nYine birbirimize baktık, fakat bir şey anlamadan değil, lüzumundan fazla şeyler anlayarak..\n\n\n",
+            "about": "19/01/2024\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-01T08:49:02.000Z",
+            "date_last_played": "2025-01-26T08:07:11.000Z",
+            "kill_count": 12991,
+            "play_count": 7149,
+            "highest_score": 22221819,
+            "picture": "20699097-f94655df4adaf7cb63c32d6a6fba88cd-30ee0235-7148-4504-841d-0b2b125a1104.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2507,
+            "tier": 10,
+            "xp": 3310200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            }
+          ]
+        },
+        {
+          "id": 244369,
+          "user_id": 20699097,
+          "cloneof_id": 6370,
+          "string_id": "cave_map_v3",
+          "title": "harita",
+          "description": "idk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 1950,
+          "created_at": "2024-06-24T00:29:49.000Z",
+          "updated_at": "2024-06-24T00:29:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20699097,
+            "username": "θzan",
+            "description": "spoon🔛🔝\n\nYine birbirimize baktık, fakat bir şey anlamadan değil, lüzumundan fazla şeyler anlayarak..\n\n\n",
+            "about": "19/01/2024\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-01T08:49:02.000Z",
+            "date_last_played": "2025-01-26T08:07:11.000Z",
+            "kill_count": 12991,
+            "play_count": 7149,
+            "highest_score": 22221819,
+            "picture": "20699097-f94655df4adaf7cb63c32d6a6fba88cd-30ee0235-7148-4504-841d-0b2b125a1104.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2507,
+            "tier": 10,
+            "xp": 3310200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cave"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T10:51:14.683Z"
+}

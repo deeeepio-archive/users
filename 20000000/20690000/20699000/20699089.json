@@ -1,0 +1,71 @@
+{
+  "id": 20699089,
+  "username": "JasonTodd",
+  "description": "Good game, but next time try not to make it so easy for me",
+  "about": "main name is WHY JUST WHY",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-01T08:13:21.000Z",
+  "date_last_played": "2025-03-19T09:15:07.000Z",
+  "profile_views": 235,
+  "kill_count": 4561,
+  "play_count": 2153,
+  "highest_score": 6160898,
+  "picture": "20699089-198288b4f1c3c92f7d3c20e8411088c8b-8d025758-068b-40c5-ae1b-82aee710f816.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 539,
+  "tier": 8,
+  "xp": 820800,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 96132,
+      "user_id": 20699089,
+      "platform_id": "dc",
+      "platform_user_id": ".jason.todd",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-04T09:06:21.000Z",
+      "updated_at": "2024-07-04T09:06:21.000Z"
+    },
+    {
+      "id": 96131,
+      "user_id": 20699089,
+      "platform_id": "ig",
+      "platform_user_id": "noel_ydder",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-04T09:05:22.000Z",
+      "updated_at": "2024-07-06T03:51:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20699089,
+    "rank_kc": 10194,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-21T04:21:30.000Z",
+    "rank_pc": 13341,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-21T04:21:31.000Z",
+    "rank_hs": 13151,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-21T04:21:32.000Z",
+    "created_at": "2025-03-19T09:15:06.000Z",
+    "updated_at": "2025-03-19T09:15:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T10:51:12.484Z"
+}
