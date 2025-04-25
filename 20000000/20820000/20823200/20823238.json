@@ -1,0 +1,71 @@
+{
+  "id": 20823238,
+  "username": "kirbyisthebest",
+  "description": "kirby is love kirby is life- kirbyisthebest",
+  "about": "i am kirby fan \ni love kirby\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-10T06:20:34.000Z",
+  "date_last_played": "2025-04-25T11:02:18.000Z",
+  "profile_views": 1940,
+  "kill_count": 9769,
+  "play_count": 4039,
+  "highest_score": 4588025,
+  "picture": "20823238-9c6fdc5da7fc3d222e12b829a93b5b41.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2865,
+  "tier": 10,
+  "xp": 1995000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 11224,
+      "user_id": 20823238,
+      "platform_id": "dc",
+      "platform_user_id": "kirb_da_birb",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-12T13:01:15.000Z",
+      "updated_at": "2023-09-08T06:06:57.000Z"
+    },
+    {
+      "id": 18029,
+      "user_id": 20823238,
+      "platform_id": "yt",
+      "platform_user_id": "kirb best",
+      "platform_user_url": "https://www.youtube.com/@kirbbest/featured",
+      "verified": false,
+      "created_at": "2023-04-25T13:55:36.000Z",
+      "updated_at": "2023-04-25T13:55:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20823238,
+    "rank_kc": 2700,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-26T17:27:56.000Z",
+    "rank_pc": 2020,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-26T17:27:57.000Z",
+    "rank_hs": 9810,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-26T17:28:00.000Z",
+    "created_at": "2025-04-25T11:02:17.000Z",
+    "updated_at": "2025-04-25T11:02:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:44:26.165Z"
+}
