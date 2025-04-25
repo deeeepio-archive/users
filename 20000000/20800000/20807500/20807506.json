@@ -1,0 +1,806 @@
+{
+  "id": 20807506,
+  "username": "MyWiFiPoo",
+  "description": "Best Flying fish in NA",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-15T03:33:44.000Z",
+  "date_last_played": "2025-04-23T00:41:01.000Z",
+  "profile_views": 746,
+  "kill_count": 6877,
+  "play_count": 2764,
+  "highest_score": 10478404,
+  "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 714,
+  "tier": 9,
+  "xp": 1108950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5363,
+      "user_id": 20807506,
+      "platform_id": "dc",
+      "platform_user_id": "Nuggetmuncher69420#7392",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-21T00:52:38.000Z",
+      "updated_at": "2022-08-21T02:25:25.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20807506,
+    "rank_kc": 3963,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-07T03:30:18.000Z",
+    "rank_pc": 3523,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-07T03:30:19.000Z",
+    "rank_hs": 2365,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-07T03:30:20.000Z",
+    "created_at": "2025-04-23T00:41:01.000Z",
+    "updated_at": "2025-04-23T00:41:01.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12314,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_negative",
+          "title": "Negative width/height test",
+          "description": "hi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 57,
+          "created_at": "2023-05-26T03:23:59.000Z",
+          "updated_at": "2023-05-26T03:45:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "wifi"
+            }
+          ]
+        },
+        {
+          "id": 12069,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_1v1_mangrove",
+          "title": "Mangrove 1v1",
+          "description": "Mangrove tree themed 1v1 map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 274,
+          "created_at": "2023-04-22T07:51:39.000Z",
+          "updated_at": "2023-05-21T22:17:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        },
+        {
+          "id": 11958,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "WiFi_PD_1",
+          "title": "Arctic Pearl Defense",
+          "description": "Pearl defense with an arctic theme",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 5,
+          "objects": 333,
+          "created_at": "2023-04-01T01:58:47.000Z",
+          "updated_at": "2024-05-22T00:24:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Arctic"
+            },
+            {
+              "id": "PD"
+            }
+          ]
+        },
+        {
+          "id": 11946,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_1v1_ice",
+          "title": "Icey Caves 1v1",
+          "description": "1v1 map that is ice/arctic themed",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 39,
+          "created_at": "2023-03-30T07:11:26.000Z",
+          "updated_at": "2023-05-09T05:02:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        },
+        {
+          "id": 11480,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_ffa_3",
+          "title": "Epic ffa so pro",
+          "description": "hi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 5,
+          "objects": 2611,
+          "created_at": "2022-12-19T00:25:48.000Z",
+          "updated_at": "2023-05-16T03:23:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "tffa"
+            },
+            {
+              "id": "wifi"
+            }
+          ]
+        },
+        {
+          "id": 11012,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_ffa2",
+          "title": "Second ffa map",
+          "description": "Small transition biomes",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 1706,
+          "created_at": "2022-10-01T23:29:34.000Z",
+          "updated_at": "2023-01-08T06:17:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "wifi"
+            }
+          ]
+        },
+        {
+          "id": 10910,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_normalffa",
+          "title": "WiFis FFA Map",
+          "description": "it is ffa",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 5,
+          "objects": 1949,
+          "created_at": "2022-09-15T02:38:37.000Z",
+          "updated_at": "2022-10-01T01:56:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "WiFi"
+            }
+          ]
+        },
+        {
+          "id": 10873,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_tidepools",
+          "title": "Tide Pools",
+          "description": "Biome ideas",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 46,
+          "created_at": "2022-09-10T03:14:16.000Z",
+          "updated_at": "2022-09-11T05:06:02.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Custom"
+            },
+            {
+              "id": "WiFi"
+            }
+          ]
+        },
+        {
+          "id": 10767,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_sky",
+          "title": "Sky Island",
+          "description": "Biome ideas",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 62,
+          "created_at": "2022-08-26T07:08:16.000Z",
+          "updated_at": "2022-09-10T03:17:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Sky"
+            },
+            {
+              "id": "WiFi"
+            }
+          ]
+        },
+        {
+          "id": 10648,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_racing",
+          "title": "Race Track",
+          "description": "Racing Gamemode for deepio",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 120,
+          "created_at": "2022-08-15T07:05:44.000Z",
+          "updated_at": "2022-09-10T03:31:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Custom"
+            },
+            {
+              "id": "WiFi"
+            }
+          ]
+        },
+        {
+          "id": 10584,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_verticalffa",
+          "title": "Vertical ffa",
+          "description": "ffa map but it is vertical",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 14,
+          "objects": 2237,
+          "created_at": "2022-08-09T21:20:24.000Z",
+          "updated_at": "2022-09-19T02:48:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Custom"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "tffa"
+            },
+            {
+              "id": "Vertical"
+            },
+            {
+              "id": "WiFi"
+            }
+          ]
+        },
+        {
+          "id": 10443,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_miniffa",
+          "title": "1/5 sized ffa map",
+          "description": "First ever downsized ffa map :)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 5,
+          "objects": 500,
+          "created_at": "2022-07-26T00:02:09.000Z",
+          "updated_at": "2022-09-11T05:18:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "small"
+            },
+            {
+              "id": "tffa"
+            },
+            {
+              "id": "WiFi"
+            }
+          ]
+        },
+        {
+          "id": 10335,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "WiFi_coralcrash",
+          "title": "Coral Crash Volcanic",
+          "description": "Coral Crash map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 5,
+          "objects": 158,
+          "created_at": "2022-07-17T04:25:29.000Z",
+          "updated_at": "2022-09-05T23:48:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Coral Crash"
+            },
+            {
+              "id": "wifi"
+            }
+          ]
+        },
+        {
+          "id": 10278,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "WiFi_sillymap",
+          "title": "Map of a bathroom?!",
+          "description": "Playable map of a bathroom. Includes a shower, toilet, bathtub & sink",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 20,
+          "objects": 596,
+          "created_at": "2022-07-08T09:00:06.000Z",
+          "updated_at": "2022-10-23T17:19:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Custom"
+            },
+            {
+              "id": "WiFi"
+            }
+          ]
+        },
+        {
+          "id": 10275,
+          "user_id": 20807506,
+          "cloneof_id": null,
+          "string_id": "wifi_5v5",
+          "title": "5v5",
+          "description": "A 5v5 map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 81,
+          "created_at": "2022-07-08T02:50:24.000Z",
+          "updated_at": "2022-09-10T03:45:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807506,
+            "username": "MyWiFiPoo",
+            "description": "Best Flying fish in NA",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-15T03:33:44.000Z",
+            "date_last_played": "2025-04-23T00:41:01.000Z",
+            "kill_count": 6877,
+            "play_count": 2764,
+            "highest_score": 10478404,
+            "picture": "20807506-67f89b63b92f07ec1010cf6746a939369a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 714,
+            "tier": 9,
+            "xp": 1108950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "5v5"
+            },
+            {
+              "id": "WIFi"
+            }
+          ]
+        }
+      ],
+      "count": 19
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:09:28.415Z"
+}

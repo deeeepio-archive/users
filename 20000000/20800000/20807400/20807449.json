@@ -1,0 +1,149 @@
+{
+  "id": 20807449,
+  "username": "0rson",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-14T22:01:43.000Z",
+  "date_last_played": "2023-07-17T23:18:05.000Z",
+  "profile_views": 12,
+  "kill_count": 38,
+  "play_count": 107,
+  "highest_score": 196403,
+  "picture": "20807449.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 8100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20807449,
+    "rank_kc": 157161,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-07-20T11:17:34.000Z",
+    "rank_pc": 66778,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-20T11:17:34.000Z",
+    "rank_hs": 241936,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-20T11:17:35.000Z",
+    "created_at": "2023-09-11T04:30:15.000Z",
+    "updated_at": "2023-07-20T11:17:35.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9665,
+          "user_id": 20807449,
+          "cloneof_id": null,
+          "string_id": "my_map_222",
+          "title": "my map",
+          "description": "its a map im not gonna explan it",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 64,
+          "created_at": "2022-04-12T20:30:40.000Z",
+          "updated_at": "2022-04-12T20:45:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807449,
+            "username": "0rson",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-14T22:01:43.000Z",
+            "date_last_played": "2023-07-17T23:18:05.000Z",
+            "kill_count": 38,
+            "play_count": 107,
+            "highest_score": 196403,
+            "picture": "20807449.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 10,
+            "tier": 1,
+            "xp": 8100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "so"
+            },
+            {
+              "id": "yeah  "
+            }
+          ]
+        },
+        {
+          "id": 9503,
+          "user_id": 20807449,
+          "cloneof_id": null,
+          "string_id": "thefishman",
+          "title": "Untitled",
+          "description": "hi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 77,
+          "created_at": "2022-03-19T00:55:37.000Z",
+          "updated_at": "2022-03-19T00:55:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20807449,
+            "username": "0rson",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-14T22:01:43.000Z",
+            "date_last_played": "2023-07-17T23:18:05.000Z",
+            "kill_count": 38,
+            "play_count": 107,
+            "highest_score": 196403,
+            "picture": "20807449.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 10,
+            "tier": 1,
+            "xp": 8100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "eeeee"
+            },
+            {
+              "id": "hi"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:09:21.131Z"
+}
