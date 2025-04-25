@@ -1,0 +1,97 @@
+{
+  "id": 753683,
+  "username": "1736205_141",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-06-26T10:22:51.000Z",
+  "date_last_played": "2020-06-26T11:12:05.000Z",
+  "profile_views": 0,
+  "kill_count": 74,
+  "play_count": 33,
+  "highest_score": 454238,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 46,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 753683,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T03:12:44.301Z",
+    "updated_at": "2025-04-25T03:12:44.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2403,
+          "user_id": 753683,
+          "cloneof_id": 2161,
+          "string_id": "s1monovs_map",
+          "title": "S1monovs_map",
+          "description": "S1monovs_map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1615,
+          "created_at": "2020-04-01T10:43:54.000Z",
+          "updated_at": "2020-04-01T10:43:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 753683,
+            "username": "1736205_141",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-06-26T10:22:51.000Z",
+            "date_last_played": "2020-06-26T11:12:05.000Z",
+            "kill_count": 74,
+            "play_count": 33,
+            "highest_score": 454238,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 46,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "S1monovs_map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T03:12:44.372Z"
+}
