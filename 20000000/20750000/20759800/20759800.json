@@ -1,0 +1,61 @@
+{
+  "id": 20759800,
+  "username": "uwu100k",
+  "description": "ez",
+  "about": "Youtuber and streamer.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-18T08:04:34.000Z",
+  "date_last_played": "2024-07-05T12:31:40.000Z",
+  "profile_views": 8,
+  "kill_count": 102,
+  "play_count": 54,
+  "highest_score": 1144607,
+  "picture": "20759800-c16bf4a25dfee86732ed2f4ee1016cddb.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 27,
+  "tier": 1,
+  "xp": 16650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2222,
+      "user_id": 20759800,
+      "platform_id": "yt",
+      "platform_user_id": "uwu.",
+      "platform_user_url": "https://www.youtube.com/channel/UCMCP2r0o3fPEIrh7TZIBTTA",
+      "verified": false,
+      "created_at": "2022-06-13T18:24:42.000Z",
+      "updated_at": "2022-06-13T18:24:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20759800,
+    "rank_kc": 114498,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T17:18:15.000Z",
+    "rank_pc": 112005,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T17:20:42.000Z",
+    "rank_hs": 82643,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T17:23:02.000Z",
+    "created_at": "2024-07-05T12:31:40.000Z",
+    "updated_at": "2024-07-05T12:31:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:07:03.573Z"
+}
