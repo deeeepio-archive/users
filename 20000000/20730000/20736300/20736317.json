@@ -1,0 +1,71 @@
+{
+  "id": 20736317,
+  "username": "aguacate_uwu",
+  "description": "te comí >:3",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-06-11T14:47:27.000Z",
+  "date_last_played": "2025-01-22T21:29:27.000Z",
+  "profile_views": 8,
+  "kill_count": 22,
+  "play_count": 73,
+  "highest_score": 1660731,
+  "picture": "20736317-633c0c7c9cb310adba0630b2d394d9b4b.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 40,
+  "tier": 1,
+  "xp": 1350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12275,
+      "user_id": 20736317,
+      "platform_id": "dc",
+      "platform_user_id": "aguacate.tonto",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-31T16:02:31.000Z",
+      "updated_at": "2025-01-22T21:30:06.000Z"
+    },
+    {
+      "id": 12276,
+      "user_id": 20736317,
+      "platform_id": "ig",
+      "platform_user_id": " @soy.un.aguacate_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-31T16:02:56.000Z",
+      "updated_at": "2022-12-31T16:02:56.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20736317,
+    "rank_kc": 185698,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-31T17:41:46.000Z",
+    "rank_pc": 77336,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-31T17:41:52.000Z",
+    "rank_hs": 44583,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-31T16:01:31.000Z",
+    "created_at": "2025-01-22T21:29:27.000Z",
+    "updated_at": "2025-01-22T21:29:27.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T14:40:42.633Z"
+}
