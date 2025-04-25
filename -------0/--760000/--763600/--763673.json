@@ -1,0 +1,157 @@
+{
+  "id": 763673,
+  "username": "Asleeped",
+  "description": "proud owner of all 7 giant squid skins\n\nyour bad though\n",
+  "about": "retarded individual\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-05T12:07:00.000Z",
+  "date_last_played": "2025-02-27T10:00:04.000Z",
+  "profile_views": 332,
+  "kill_count": 11500,
+  "play_count": 3402,
+  "highest_score": 10249242,
+  "picture": "763673.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4800,
+  "tier": 4,
+  "xp": 220500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3341,
+      "user_id": 763673,
+      "platform_id": "yt",
+      "platform_user_id": "asleeped",
+      "platform_user_url": "https://www.youtube.com/channel/UCTlKvpeqnSqNeicAvGsEufQ",
+      "verified": false,
+      "created_at": "2022-07-05T02:40:39.000Z",
+      "updated_at": "2022-07-05T02:40:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 763673,
+    "rank_kc": 1940,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-18T01:08:03.000Z",
+    "rank_pc": 2643,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-18T01:08:04.000Z",
+    "rank_hs": 2510,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-18T01:08:05.000Z",
+    "created_at": "2025-02-27T10:00:03.000Z",
+    "updated_at": "2025-02-27T10:00:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8127,
+          "user_id": 763673,
+          "cloneof_id": null,
+          "string_id": "hlh",
+          "title": "Untitled",
+          "description": " ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 10,
+          "created_at": "2021-10-08T22:05:24.000Z",
+          "updated_at": "2021-10-08T22:05:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 763673,
+            "username": "Asleeped",
+            "description": "proud owner of all 7 giant squid skins\n\nyour bad though\n",
+            "about": "retarded individual\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-05T12:07:00.000Z",
+            "date_last_played": "2025-02-27T10:00:04.000Z",
+            "kill_count": 11500,
+            "play_count": 3402,
+            "highest_score": 10249242,
+            "picture": "763673.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 4800,
+            "tier": 4,
+            "xp": 220500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "n"
+            }
+          ]
+        },
+        {
+          "id": 7741,
+          "user_id": 763673,
+          "cloneof_id": null,
+          "string_id": "sleepy_ffa",
+          "title": "sleepy_ffa",
+          "description": "epicer than any other map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 3,
+          "created_at": "2021-09-02T03:46:31.000Z",
+          "updated_at": "2021-09-18T05:25:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 763673,
+            "username": "Asleeped",
+            "description": "proud owner of all 7 giant squid skins\n\nyour bad though\n",
+            "about": "retarded individual\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-05T12:07:00.000Z",
+            "date_last_played": "2025-02-27T10:00:04.000Z",
+            "kill_count": 11500,
+            "play_count": 3402,
+            "highest_score": 10249242,
+            "picture": "763673.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 4800,
+            "tier": 4,
+            "xp": 220500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "tffa"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:13:51.848Z"
+}
