@@ -1,0 +1,108 @@
+{
+  "id": 803185,
+  "username": "I_AM_ALEX69",
+  "description": "me personally, i wouldnt let that slide",
+  "about": "too real\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-16T14:41:19.000Z",
+  "date_last_played": "2023-03-19T11:17:44.000Z",
+  "profile_views": 77,
+  "kill_count": 1267,
+  "play_count": 1379,
+  "highest_score": 5570208,
+  "picture": "803185-e6679af5a665e3e655d9dce54958bd6e.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 90,
+  "tier": 3,
+  "xp": 92550,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16223,
+      "user_id": 803185,
+      "platform_id": "ig",
+      "platform_user_id": "they_knowalex",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-14T13:28:46.000Z",
+      "updated_at": "2023-03-14T13:28:46.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 803185,
+    "rank_kc": 20695,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-05T22:56:31.000Z",
+    "rank_pc": 7772,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-05T22:56:32.000Z",
+    "rank_hs": 5953,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-05T22:56:34.000Z",
+    "created_at": "2023-05-27T06:25:19.000Z",
+    "updated_at": "2023-05-05T22:56:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6040,
+          "user_id": 803185,
+          "cloneof_id": null,
+          "string_id": "my_map_12",
+          "title": "My first map",
+          "description": "i dont know man",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-02-23T19:18:34.000Z",
+          "updated_at": "2021-02-23T19:18:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 803185,
+            "username": "I_AM_ALEX69",
+            "description": "me personally, i wouldnt let that slide",
+            "about": "too real\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-16T14:41:19.000Z",
+            "date_last_played": "2023-03-19T11:17:44.000Z",
+            "kill_count": 1267,
+            "play_count": 1379,
+            "highest_score": 5570208,
+            "picture": "803185-e6679af5a665e3e655d9dce54958bd6e.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 90,
+            "tier": 3,
+            "xp": 92550,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#cool"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:43:52.397Z"
+}
