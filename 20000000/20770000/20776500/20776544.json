@@ -1,0 +1,143 @@
+{
+  "id": 20776544,
+  "username": "8128265_166",
+  "description": "i love Numberblocks,My singing monsters and pokemon",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-06T16:06:06.000Z",
+  "date_last_played": "2022-01-26T17:01:36.000Z",
+  "profile_views": 0,
+  "kill_count": 5,
+  "play_count": 186,
+  "highest_score": 104611,
+  "picture": "20776544.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 512,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20776544,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T18:57:04.781Z",
+    "updated_at": "2025-04-25T18:57:05.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8472,
+          "user_id": 20776544,
+          "cloneof_id": null,
+          "string_id": "95499995965",
+          "title": "My island",
+          "description": "lol",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 42,
+          "created_at": "2021-11-06T16:26:55.000Z",
+          "updated_at": "2021-11-07T14:06:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776544,
+            "username": "8128265_166",
+            "description": "i love Numberblocks,My singing monsters and pokemon",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-06T16:06:06.000Z",
+            "date_last_played": "2022-01-26T17:01:36.000Z",
+            "kill_count": 5,
+            "play_count": 186,
+            "highest_score": 104611,
+            "picture": "20776544.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 512,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ummm"
+            }
+          ]
+        },
+        {
+          "id": 6749,
+          "user_id": 20776544,
+          "cloneof_id": null,
+          "string_id": "112233455",
+          "title": "Pokemon backgrond",
+          "description": "by abbey witch is me",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 18,
+          "created_at": "2021-05-05T21:39:28.000Z",
+          "updated_at": "2021-11-07T14:05:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20776544,
+            "username": "8128265_166",
+            "description": "i love Numberblocks,My singing monsters and pokemon",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-06T16:06:06.000Z",
+            "date_last_played": "2022-01-26T17:01:36.000Z",
+            "kill_count": 5,
+            "play_count": 186,
+            "highest_score": 104611,
+            "picture": "20776544.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 512,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hi"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T18:57:04.877Z"
+}
