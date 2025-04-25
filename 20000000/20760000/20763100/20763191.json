@@ -1,0 +1,61 @@
+{
+  "id": 20763191,
+  "username": "Abigail886",
+  "description": "Blep",
+  "about": "Sucks at games but tries anyways.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-01T02:39:25.000Z",
+  "date_last_played": "2025-02-03T01:19:55.000Z",
+  "profile_views": 25,
+  "kill_count": 222,
+  "play_count": 110,
+  "highest_score": 2394748,
+  "picture": "20763191-23491010c10a3214add7510754a10333d596a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 44,
+  "tier": 2,
+  "xp": 44850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2023,
+      "user_id": 20763191,
+      "platform_id": "dc",
+      "platform_user_id": "Abigail886#0886",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-10T21:49:34.000Z",
+      "updated_at": "2022-06-10T21:49:34.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20763191,
+    "rank_kc": 77570,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-05T21:52:29.000Z",
+    "rank_pc": 56333,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-05T21:52:32.000Z",
+    "rank_hs": 42664,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-05T21:52:37.000Z",
+    "created_at": "2025-02-03T01:19:55.000Z",
+    "updated_at": "2025-02-03T01:19:55.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:31:10.601Z"
+}
