@@ -1,0 +1,61 @@
+{
+  "id": 20791348,
+  "username": "Hysteriatic",
+  "description": "killed or be killed",
+  "about": "i'm just a normal player",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-12T06:42:41.000Z",
+  "date_last_played": "2024-02-13T03:06:24.000Z",
+  "profile_views": 85,
+  "kill_count": 531,
+  "play_count": 529,
+  "highest_score": 1080724,
+  "picture": "20791348-e1dae7b816157e4523371623b2c9c29f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 106,
+  "tier": 2,
+  "xp": 38850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 436,
+      "user_id": 20791348,
+      "platform_id": "dc",
+      "platform_user_id": "Rinz.#6009",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-21T15:32:58.000Z",
+      "updated_at": "2022-05-21T15:32:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20791348,
+    "rank_kc": 37365,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-09T14:02:34.000Z",
+    "rank_pc": 17786,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-09T14:02:35.000Z",
+    "rank_hs": 68762,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-09T14:02:35.000Z",
+    "created_at": "2024-02-13T03:06:23.000Z",
+    "updated_at": "2024-02-13T03:06:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:26:21.190Z"
+}
