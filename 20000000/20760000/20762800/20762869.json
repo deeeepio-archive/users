@@ -1,0 +1,97 @@
+{
+  "id": 20762869,
+  "username": "crazybeans",
+  "description": "hello",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-29T23:49:39.000Z",
+  "date_last_played": "2021-09-30T00:37:55.000Z",
+  "profile_views": 0,
+  "kill_count": 7,
+  "play_count": 9,
+  "highest_score": 74706,
+  "picture": "20762869.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 7,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20762869,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T17:29:21.386Z",
+    "updated_at": "2025-04-25T17:29:21.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8225,
+          "user_id": 20762869,
+          "cloneof_id": null,
+          "string_id": "devcoop09",
+          "title": "Untitled",
+          "description": "coool",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-10-16T18:42:52.000Z",
+          "updated_at": "2021-10-16T18:42:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20762869,
+            "username": "crazybeans",
+            "description": "hello",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-29T23:49:39.000Z",
+            "date_last_played": "2021-09-30T00:37:55.000Z",
+            "kill_count": 7,
+            "play_count": 9,
+            "highest_score": 74706,
+            "picture": "20762869.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 7,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deeeep.io"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:29:21.436Z"
+}
