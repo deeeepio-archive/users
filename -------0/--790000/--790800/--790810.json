@@ -1,0 +1,97 @@
+{
+  "id": 790810,
+  "username": "dinitooo",
+  "description": "hablo español",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-10T23:09:28.000Z",
+  "date_last_played": "2021-01-19T18:30:15.000Z",
+  "profile_views": 3,
+  "kill_count": 286,
+  "play_count": 280,
+  "highest_score": 1014377,
+  "picture": "790810.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 790810,
+    "rank_kc": 50358,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-27T21:01:04.000Z",
+    "rank_pc": 26564,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-27T21:01:05.000Z",
+    "rank_hs": 71322,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-27T21:01:05.000Z",
+    "created_at": "2023-06-03T06:10:50.000Z",
+    "updated_at": "2022-07-27T21:01:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4844,
+          "user_id": 790810,
+          "cloneof_id": null,
+          "string_id": "hijop123456",
+          "title": "Untitled",
+          "description": "jgcjcgh",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-11-11T18:02:10.000Z",
+          "updated_at": "2020-11-11T18:02:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 790810,
+            "username": "dinitooo",
+            "description": "hablo español",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-10T23:09:28.000Z",
+            "date_last_played": "2021-01-19T18:30:15.000Z",
+            "kill_count": 286,
+            "play_count": 280,
+            "highest_score": 1014377,
+            "picture": "790810.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 25,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "666666"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:16:48.028Z"
+}
