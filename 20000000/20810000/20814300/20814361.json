@@ -1,0 +1,61 @@
+{
+  "id": 20814361,
+  "username": "lauhaozhe",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-13T07:04:39.000Z",
+  "date_last_played": "2024-02-13T04:19:06.000Z",
+  "profile_views": 27,
+  "kill_count": 4,
+  "play_count": 47,
+  "highest_score": 122897,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 21,
+  "tier": 1,
+  "xp": 3150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2050,
+      "user_id": 20814361,
+      "platform_id": "dc",
+      "platform_user_id": "lalala",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-11T08:03:45.000Z",
+      "updated_at": "2022-06-11T08:03:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20814361,
+    "rank_kc": 277675,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-11T08:04:50.000Z",
+    "rank_pc": 82358,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-11T08:04:50.000Z",
+    "rank_hs": 232603,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-06-11T08:04:50.000Z",
+    "created_at": "2024-02-13T04:19:05.000Z",
+    "updated_at": "2024-02-13T04:19:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:49:38.426Z"
+}
