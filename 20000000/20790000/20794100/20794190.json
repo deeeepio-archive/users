@@ -1,0 +1,146 @@
+{
+  "id": 20794190,
+  "username": "MEEE9",
+  "description": "have fun............................DIED",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-24T18:07:01.000Z",
+  "date_last_played": "2025-04-10T13:25:31.000Z",
+  "profile_views": 33,
+  "kill_count": 339,
+  "play_count": 745,
+  "highest_score": 939526,
+  "picture": "20794190.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 59,
+  "tier": 2,
+  "xp": 43350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20794190,
+    "rank_kc": 70835,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-20T14:17:22.000Z",
+    "rank_pc": 24030,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-20T14:17:29.000Z",
+    "rank_hs": 139705,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-20T14:17:38.000Z",
+    "created_at": "2025-04-10T13:25:31.000Z",
+    "updated_at": "2025-04-10T13:25:31.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9479,
+          "user_id": 20794190,
+          "cloneof_id": null,
+          "string_id": "385rr",
+          "title": "best map i made",
+          "description": "DADA",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 48,
+          "created_at": "2022-03-15T19:53:49.000Z",
+          "updated_at": "2022-03-16T14:12:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20794190,
+            "username": "MEEE9",
+            "description": "have fun............................DIED",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-24T18:07:01.000Z",
+            "date_last_played": "2025-04-10T13:25:31.000Z",
+            "kill_count": 339,
+            "play_count": 745,
+            "highest_score": 939526,
+            "picture": "20794190.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 59,
+            "tier": 2,
+            "xp": 43350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "7459368e5"
+            },
+            {
+              "id": "775935"
+            }
+          ]
+        },
+        {
+          "id": 9143,
+          "user_id": 20794190,
+          "cloneof_id": null,
+          "string_id": "6584a24",
+          "title": "titlee",
+          "description": "idk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 11,
+          "created_at": "2022-01-27T13:57:28.000Z",
+          "updated_at": "2022-01-27T13:57:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20794190,
+            "username": "MEEE9",
+            "description": "have fun............................DIED",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-24T18:07:01.000Z",
+            "date_last_played": "2025-04-10T13:25:31.000Z",
+            "kill_count": 339,
+            "play_count": 745,
+            "highest_score": 939526,
+            "picture": "20794190.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 59,
+            "tier": 2,
+            "xp": 43350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "idk"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:43:16.170Z"
+}
