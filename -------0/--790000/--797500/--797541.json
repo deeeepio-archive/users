@@ -1,0 +1,146 @@
+{
+  "id": 797541,
+  "username": "No00b",
+  "description": "get BetTer",
+  "about": "How u loose to me",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-01T20:04:19.000Z",
+  "date_last_played": "2025-04-24T15:25:32.000Z",
+  "profile_views": 166,
+  "kill_count": 1985,
+  "play_count": 2450,
+  "highest_score": 1088895,
+  "picture": "797541-0932bd44ef36396bbb38a810fc4f77e79.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 62,
+  "tier": 3,
+  "xp": 106200,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 797541,
+    "rank_kc": 16040,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-05T14:42:49.000Z",
+    "rank_pc": 4365,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-05T14:42:57.000Z",
+    "rank_hs": 90447,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-05T14:34:47.000Z",
+    "created_at": "2025-04-24T15:25:32.000Z",
+    "updated_at": "2025-04-24T15:25:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11079,
+          "user_id": 797541,
+          "cloneof_id": 6855,
+          "string_id": "current_of_doom",
+          "title": "Untitled",
+          "description": "Deeeep please publish this",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 65,
+          "created_at": "2022-10-09T16:02:04.000Z",
+          "updated_at": "2022-10-09T16:02:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 797541,
+            "username": "No00b",
+            "description": "get BetTer",
+            "about": "How u loose to me",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-01T20:04:19.000Z",
+            "date_last_played": "2025-04-24T15:25:32.000Z",
+            "kill_count": 1985,
+            "play_count": 2450,
+            "highest_score": 1088895,
+            "picture": "797541-0932bd44ef36396bbb38a810fc4f77e79.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 62,
+            "tier": 3,
+            "xp": 106200,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Currents"
+            }
+          ]
+        },
+        {
+          "id": 6855,
+          "user_id": 797541,
+          "cloneof_id": null,
+          "string_id": "coo",
+          "title": "Untitled",
+          "description": "PLS SLECT IT",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 65,
+          "created_at": "2021-05-17T13:13:08.000Z",
+          "updated_at": "2021-05-17T13:15:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 797541,
+            "username": "No00b",
+            "description": "get BetTer",
+            "about": "How u loose to me",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-01T20:04:19.000Z",
+            "date_last_played": "2025-04-24T15:25:32.000Z",
+            "kill_count": 1985,
+            "play_count": 2450,
+            "highest_score": 1088895,
+            "picture": "797541-0932bd44ef36396bbb38a810fc4f77e79.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 62,
+            "tier": 3,
+            "xp": 106200,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "DON'T PLAY"
+            },
+            {
+              "id": "G"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:03:34.767Z"
+}
