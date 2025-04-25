@@ -1,0 +1,61 @@
+{
+  "id": 795072,
+  "username": "Numbat",
+  "description": "You've been hit by \nYou've been stuck by \nA smooth marsupial",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-24T02:49:59.000Z",
+  "date_last_played": "2025-03-03T03:32:31.000Z",
+  "profile_views": 589,
+  "kill_count": 12855,
+  "play_count": 3011,
+  "highest_score": 6417794,
+  "picture": "795072.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10907,
+  "tier": 9,
+  "xp": 930000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 683,
+      "user_id": 795072,
+      "platform_id": "dc",
+      "platform_user_id": "Numbat#8594",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-25T03:11:38.000Z",
+      "updated_at": "2022-05-25T03:11:38.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 795072,
+    "rank_kc": 1841,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-16T00:37:06.000Z",
+    "rank_pc": 3696,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-16T00:37:07.000Z",
+    "rank_hs": 8797,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-16T00:37:08.000Z",
+    "created_at": "2025-03-03T03:32:31.000Z",
+    "updated_at": "2025-03-03T03:32:31.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:43:16.455Z"
+}
