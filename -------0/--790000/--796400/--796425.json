@@ -1,0 +1,61 @@
+{
+  "id": 796425,
+  "username": "LingnanFox",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-28T07:58:56.000Z",
+  "date_last_played": "2023-05-01T05:50:10.000Z",
+  "profile_views": 14,
+  "kill_count": 1,
+  "play_count": 39,
+  "highest_score": 138193,
+  "picture": "796425-d8c335e538ad6b6b633448026ddb0b9c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17862,
+      "user_id": 796425,
+      "platform_id": "qq",
+      "platform_user_id": "513720024",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-22T11:29:04.000Z",
+      "updated_at": "2023-04-22T11:29:04.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 796425,
+    "rank_kc": 370549,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-04-29T04:48:10.000Z",
+    "rank_pc": 137799,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-29T04:48:11.000Z",
+    "rank_hs": 267634,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-04-29T04:48:11.000Z",
+    "created_at": "2023-05-01T05:50:10.000Z",
+    "updated_at": "2023-05-01T05:50:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:51:32.517Z"
+}
