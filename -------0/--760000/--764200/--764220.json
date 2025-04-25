@@ -1,0 +1,97 @@
+{
+  "id": 764220,
+  "username": "Loggerhead",
+  "description": "Caretta caretta\r\nfriends with Rafiturtle",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-07T20:29:39.000Z",
+  "date_last_played": "2020-10-18T23:59:17.000Z",
+  "profile_views": 0,
+  "kill_count": 100,
+  "play_count": 111,
+  "highest_score": 1162116,
+  "picture": "764220.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 107,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 764220,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T04:17:13.590Z",
+    "updated_at": "2025-04-25T04:17:14.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4491,
+          "user_id": 764220,
+          "cloneof_id": null,
+          "string_id": "caretta_1v1",
+          "title": "My first map!",
+          "description": "my first map its 1v1. The ceiling is to make airpins harder, the flappies also help. Should I get rid of coral for whalepools?",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 43,
+          "created_at": "2020-10-05T17:41:44.000Z",
+          "updated_at": "2021-05-25T18:49:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 764220,
+            "username": "Loggerhead",
+            "description": "Caretta caretta\r\nfriends with Rafiturtle",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-07T20:29:39.000Z",
+            "date_last_played": "2020-10-18T23:59:17.000Z",
+            "kill_count": 100,
+            "play_count": 111,
+            "highest_score": 1162116,
+            "picture": "764220.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 107,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:17:13.682Z"
+}
