@@ -1,0 +1,97 @@
+{
+  "id": 20755710,
+  "username": "I_have_1_braincell",
+  "description": "Sorry for killing you, I dont mean anything bad, have a great week!",
+  "about": "Ima bigender (male and female) and omnisexual. I use both she/her and he/him pronouns, and I love playing call of duty vangaurd with my father. I rarely ever kill people on here ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-01T21:35:42.000Z",
+  "date_last_played": "2023-01-28T21:31:30.000Z",
+  "profile_views": 3,
+  "kill_count": 4,
+  "play_count": 50,
+  "highest_score": 160546,
+  "picture": "20755710-bc6310c6ba763446bd6ea176b8b2c5c50.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20755710,
+    "rank_kc": 357788,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-28T18:51:18.000Z",
+    "rank_pc": 100585,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-28T18:51:29.000Z",
+    "rank_hs": 273112,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-28T18:51:38.000Z",
+    "created_at": "2023-01-28T21:31:29.000Z",
+    "updated_at": "2023-01-28T21:31:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7750,
+          "user_id": 20755710,
+          "cloneof_id": null,
+          "string_id": "test348",
+          "title": "Water land",
+          "description": "this is a map for pure fun and is being worked on.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 31,
+          "created_at": "2021-09-03T02:08:37.000Z",
+          "updated_at": "2021-09-03T22:20:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20755710,
+            "username": "I_have_1_braincell",
+            "description": "Sorry for killing you, I dont mean anything bad, have a great week!",
+            "about": "Ima bigender (male and female) and omnisexual. I use both she/her and he/him pronouns, and I love playing call of duty vangaurd with my father. I rarely ever kill people on here ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-01T21:35:42.000Z",
+            "date_last_played": "2023-01-28T21:31:30.000Z",
+            "kill_count": 4,
+            "play_count": 50,
+            "highest_score": 160546,
+            "picture": "20755710-bc6310c6ba763446bd6ea176b8b2c5c50.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6,
+            "tier": 1,
+            "xp": 300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "chaos"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:39:33.442Z"
+}
