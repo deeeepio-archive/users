@@ -1,0 +1,97 @@
+{
+  "id": 799574,
+  "username": "Ziemniaczek",
+  "description": "nie moja wina że nie umiesz grać\r\nmy friends:\r\nsumik\r\nkubsobeQ122\r\nlolxd\r\nlukashinn [PL]\r\nSianek039_PL\r\nkubasek\r\nMat 8po777777\r\nZłoty karp[pl]\r\nmomek_PL\r\nTheMRozU\r\n404 NOT FOUND",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-07T13:46:04.000Z",
+  "date_last_played": "2022-02-14T20:51:30.000Z",
+  "profile_views": 0,
+  "kill_count": 5167,
+  "play_count": 2455,
+  "highest_score": 2647452,
+  "picture": "799574.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 30,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 799574,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T08:16:00.336Z",
+    "updated_at": "2025-04-25T08:16:00.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9022,
+          "user_id": 799574,
+          "cloneof_id": null,
+          "string_id": "45232353",
+          "title": "a noob map",
+          "description": "ded",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 9,
+          "created_at": "2022-01-15T08:16:08.000Z",
+          "updated_at": "2022-01-15T08:16:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 799574,
+            "username": "Ziemniaczek",
+            "description": "nie moja wina że nie umiesz grać\r\nmy friends:\r\nsumik\r\nkubsobeQ122\r\nlolxd\r\nlukashinn [PL]\r\nSianek039_PL\r\nkubasek\r\nMat 8po777777\r\nZłoty karp[pl]\r\nmomek_PL\r\nTheMRozU\r\n404 NOT FOUND",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-07T13:46:04.000Z",
+            "date_last_played": "2022-02-14T20:51:30.000Z",
+            "kill_count": 5167,
+            "play_count": 2455,
+            "highest_score": 2647452,
+            "picture": "799574.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 30,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#lol"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:16:00.427Z"
+}
