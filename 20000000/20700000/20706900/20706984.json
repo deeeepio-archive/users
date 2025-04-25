@@ -1,0 +1,61 @@
+{
+  "id": 20706984,
+  "username": "autopick",
+  "description": "im just playing the game\n",
+  "about": "i WILL kill you",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-21T05:22:11.000Z",
+  "date_last_played": "2023-04-04T08:10:44.000Z",
+  "profile_views": 8,
+  "kill_count": 178,
+  "play_count": 249,
+  "highest_score": 465538,
+  "picture": "20706984-e9383d2dca8578fc9d4e8eeea6101f51.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 250,
+  "tier": 1,
+  "xp": 6450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16297,
+      "user_id": 20706984,
+      "platform_id": "dc",
+      "platform_user_id": "autopick#6964",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-17T09:19:26.000Z",
+      "updated_at": "2023-03-17T09:19:26.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20706984,
+    "rank_kc": 82079,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-12-31T11:12:17.000Z",
+    "rank_pc": 42958,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-12-31T11:12:19.000Z",
+    "rank_hs": 165184,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-31T11:12:22.000Z",
+    "created_at": "2023-12-31T11:12:21.000Z",
+    "updated_at": "2023-12-31T11:12:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T11:38:31.750Z"
+}
