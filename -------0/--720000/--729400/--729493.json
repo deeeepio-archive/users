@@ -1,0 +1,81 @@
+{
+  "id": 729493,
+  "username": "Moe",
+  "description": "Get moed down ;)\n\n\nFly high [Turts]\n\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-26T05:16:59.000Z",
+  "date_last_played": "2023-09-30T06:29:35.000Z",
+  "profile_views": 257,
+  "kill_count": 55874,
+  "play_count": 11341,
+  "highest_score": 14702146,
+  "picture": "729493-720e910275048826b4c655b387427ea05.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 46,
+  "tier": 3,
+  "xp": 107100,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23829,
+      "user_id": 729493,
+      "platform_id": "dc",
+      "platform_user_id": "moepro_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-03T15:03:01.000Z",
+      "updated_at": "2023-08-03T15:03:01.000Z"
+    },
+    {
+      "id": 6829,
+      "user_id": 729493,
+      "platform_id": "tc",
+      "platform_user_id": "moepro_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-15T03:01:59.000Z",
+      "updated_at": "2022-09-15T03:01:59.000Z"
+    },
+    {
+      "id": 6830,
+      "user_id": 729493,
+      "platform_id": "yt",
+      "platform_user_id": "Moe Lester",
+      "platform_user_url": "https://www.youtube.com/channel/UC7EQztqTYRo8Ael_CJhP7og",
+      "verified": false,
+      "created_at": "2022-09-15T03:02:32.000Z",
+      "updated_at": "2022-09-15T03:02:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 729493,
+    "rank_kc": 66,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-17T02:04:40.000Z",
+    "rank_pc": 113,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2024-01-17T02:04:41.000Z",
+    "rank_hs": 1724,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-17T02:04:43.000Z",
+    "created_at": "2024-01-17T06:00:54.000Z",
+    "updated_at": "2024-01-17T02:04:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T00:35:48.958Z"
+}
