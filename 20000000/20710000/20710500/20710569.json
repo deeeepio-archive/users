@@ -1,0 +1,103 @@
+{
+  "id": 20710569,
+  "username": "BryanTheWikiEditor",
+  "description": "Good game. Let's get better together. \nGG，一起加油吧！",
+  "about": "Content Creator Wanabe\nAverage PD Player\nTypical Nami Enjoyer",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-30T03:29:08.000Z",
+  "date_last_played": "2024-12-17T01:59:35.000Z",
+  "profile_views": 226,
+  "kill_count": 1382,
+  "play_count": 1479,
+  "highest_score": 2037353,
+  "picture": "20710569-2a5dc37249b2e96ad52ed17a204aa7d9-eab090f8-0cd9-4e08-8cf6-3176fe71a926.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 126,
+  "tier": 3,
+  "xp": 103350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20710569,
+    "rank_kc": 20239,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-20T08:37:43.000Z",
+    "rank_pc": 7539,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-20T08:37:43.000Z",
+    "rank_hs": 36879,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-20T08:37:44.000Z",
+    "created_at": "2024-12-17T01:59:34.000Z",
+    "updated_at": "2024-12-17T01:59:35.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8810,
+          "user_id": 20710569,
+          "cloneof_id": null,
+          "string_id": "swamp_1v1_bforbryan",
+          "title": "Swamp 1v1",
+          "description": "As the strongest animals of all, the Tier 10 Animals meet up in swamp 1v1 for a final duel. Let's see how it goes...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 43,
+          "created_at": "2021-12-22T04:12:23.000Z",
+          "updated_at": "2021-12-22T13:21:02.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20710569,
+            "username": "BryanTheWikiEditor",
+            "description": "Good game. Let's get better together. \nGG，一起加油吧！",
+            "about": "Content Creator Wanabe\nAverage PD Player\nTypical Nami Enjoyer",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-30T03:29:08.000Z",
+            "date_last_played": "2024-12-17T01:59:35.000Z",
+            "kill_count": 1382,
+            "play_count": 1479,
+            "highest_score": 2037353,
+            "picture": "20710569-2a5dc37249b2e96ad52ed17a204aa7d9-eab090f8-0cd9-4e08-8cf6-3176fe71a926.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 126,
+            "tier": 3,
+            "xp": 103350,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "new"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:00:21.900Z"
+}
