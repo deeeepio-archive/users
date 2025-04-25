@@ -1,0 +1,197 @@
+{
+  "id": 20752254,
+  "username": "I-boy",
+  "description": "If you were slain by me, you probably just got killed by someone using their mobile phone or a laptop without a mouse...",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-08-20T09:56:44.000Z",
+  "date_last_played": "2025-04-20T13:22:32.000Z",
+  "profile_views": 183,
+  "kill_count": 2700,
+  "play_count": 1392,
+  "highest_score": 6490481,
+  "picture": "20752254-e8ecb87b48345fd2b9fbf12481647bcd.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1649,
+  "tier": 6,
+  "xp": 470250,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20752254,
+    "rank_kc": 11881,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-17T13:12:37.000Z",
+    "rank_pc": 12226,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-17T13:12:39.000Z",
+    "rank_hs": 42196,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-17T13:12:40.000Z",
+    "created_at": "2025-04-20T13:22:32.000Z",
+    "updated_at": "2025-04-20T13:22:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11236,
+          "user_id": 20752254,
+          "cloneof_id": null,
+          "string_id": "jelly_swarm_of_doom09876542",
+          "title": "Jelly Swarm",
+          "description": "This whole map is inside a swarm of sea jellys.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 9,
+          "created_at": "2022-11-07T13:32:48.000Z",
+          "updated_at": "2022-11-07T13:39:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20752254,
+            "username": "I-boy",
+            "description": "If you were slain by me, you probably just got killed by someone using their mobile phone or a laptop without a mouse...",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-08-20T09:56:44.000Z",
+            "date_last_played": "2025-04-20T13:22:32.000Z",
+            "kill_count": 2700,
+            "play_count": 1392,
+            "highest_score": 6490481,
+            "picture": "20752254-e8ecb87b48345fd2b9fbf12481647bcd.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1649,
+            "tier": 6,
+            "xp": 470250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Jelly"
+            },
+            {
+              "id": "Jelly fish"
+            },
+            {
+              "id": "Swarm"
+            }
+          ]
+        },
+        {
+          "id": 11234,
+          "user_id": 20752254,
+          "cloneof_id": null,
+          "string_id": "jelly_swarm",
+          "title": "Jelly Swarm",
+          "description": "This whole map is inside a swarm of sea jellys.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2022-11-07T13:31:42.000Z",
+          "updated_at": "2022-11-07T13:31:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20752254,
+            "username": "I-boy",
+            "description": "If you were slain by me, you probably just got killed by someone using their mobile phone or a laptop without a mouse...",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-08-20T09:56:44.000Z",
+            "date_last_played": "2025-04-20T13:22:32.000Z",
+            "kill_count": 2700,
+            "play_count": 1392,
+            "highest_score": 6490481,
+            "picture": "20752254-e8ecb87b48345fd2b9fbf12481647bcd.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1649,
+            "tier": 6,
+            "xp": 470250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 10553,
+          "user_id": 20752254,
+          "cloneof_id": null,
+          "string_id": "level1",
+          "title": "Small map",
+          "description": "Its a small map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 59,
+          "created_at": "2022-08-07T12:18:42.000Z",
+          "updated_at": "2022-08-09T14:39:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20752254,
+            "username": "I-boy",
+            "description": "If you were slain by me, you probably just got killed by someone using their mobile phone or a laptop without a mouse...",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-08-20T09:56:44.000Z",
+            "date_last_played": "2025-04-20T13:22:32.000Z",
+            "kill_count": 2700,
+            "play_count": 1392,
+            "highest_score": 6490481,
+            "picture": "20752254-e8ecb87b48345fd2b9fbf12481647bcd.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1649,
+            "tier": 6,
+            "xp": 470250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "bad"
+            },
+            {
+              "id": "Small"
+            },
+            {
+              "id": "stink"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:18:54.146Z"
+}
