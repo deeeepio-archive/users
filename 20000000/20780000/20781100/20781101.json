@@ -1,0 +1,61 @@
+{
+  "id": 20781101,
+  "username": "I_amageek",
+  "description": "If I am the one that initiated the conflict, my bad, sorry. If you initiated the fight or use a client, screw you.",
+  "about": "I am a geek",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-22T18:10:38.000Z",
+  "date_last_played": "2024-01-06T18:41:44.000Z",
+  "profile_views": 84,
+  "kill_count": 417,
+  "play_count": 354,
+  "highest_score": 2239019,
+  "picture": "20781101.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 144,
+  "tier": 3,
+  "xp": 95850,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17785,
+      "user_id": 20781101,
+      "platform_id": "yt",
+      "platform_user_id": "I_amageek",
+      "platform_user_url": "https://youtube.com/@i_amageek",
+      "verified": false,
+      "created_at": "2023-04-20T20:49:08.000Z",
+      "updated_at": "2023-04-20T20:49:08.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20781101,
+    "rank_kc": 51462,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-20T19:03:31.000Z",
+    "rank_pc": 33011,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-20T19:03:32.000Z",
+    "rank_hs": 34247,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-20T19:03:33.000Z",
+    "created_at": "2024-01-06T18:41:44.000Z",
+    "updated_at": "2024-01-06T18:41:44.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T19:24:13.434Z"
+}
