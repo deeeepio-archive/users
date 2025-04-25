@@ -1,0 +1,61 @@
+{
+  "id": 20812519,
+  "username": "3916684_915",
+  "description": null,
+  "about": "地表最強",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-06T09:57:47.000Z",
+  "date_last_played": "2023-05-15T10:08:12.000Z",
+  "profile_views": 3,
+  "kill_count": 3,
+  "play_count": 57,
+  "highest_score": 515805,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9639,
+      "user_id": 20812519,
+      "platform_id": "fb",
+      "platform_user_id": "高建凱",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=100055718348776",
+      "verified": false,
+      "created_at": "2022-11-15T09:30:54.000Z",
+      "updated_at": "2022-11-15T09:30:54.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20812519,
+    "rank_kc": 297333,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-02T10:25:53.000Z",
+    "rank_pc": 103620,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-02T10:25:54.000Z",
+    "rank_hs": 230141,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-02T10:25:55.000Z",
+    "created_at": "2023-05-15T10:08:12.000Z",
+    "updated_at": "2023-05-15T10:08:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:39:18.644Z"
+}
