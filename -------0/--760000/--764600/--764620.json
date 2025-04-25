@@ -1,0 +1,143 @@
+{
+  "id": 764620,
+  "username": "MRCRAB",
+  "description": "GG I probably needed boosts.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-10T01:11:13.000Z",
+  "date_last_played": "2023-09-11T18:50:06.000Z",
+  "profile_views": 36,
+  "kill_count": 6567,
+  "play_count": 4889,
+  "highest_score": 5526386,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 473,
+  "tier": 4,
+  "xp": 192300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 764620,
+    "rank_kc": 3764,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-26T21:07:48.000Z",
+    "rank_pc": 1002,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-26T21:07:50.000Z",
+    "rank_hs": 6007,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-26T21:07:53.000Z",
+    "created_at": "2023-09-11T18:50:05.000Z",
+    "updated_at": "2023-09-11T18:50:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6154,
+          "user_id": 764620,
+          "cloneof_id": null,
+          "string_id": "new_tffa",
+          "title": "Kopter FFA",
+          "description": "New TFFA map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 23,
+          "created_at": "2021-03-08T03:00:07.000Z",
+          "updated_at": "2021-03-08T03:00:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 764620,
+            "username": "MRCRAB",
+            "description": "GG I probably needed boosts.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-10T01:11:13.000Z",
+            "date_last_played": "2023-09-11T18:50:06.000Z",
+            "kill_count": 6567,
+            "play_count": 4889,
+            "highest_score": 5526386,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 473,
+            "tier": 4,
+            "xp": 192300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 4533,
+          "user_id": 764620,
+          "cloneof_id": null,
+          "string_id": "big_sky_project",
+          "title": "Big sky project",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 29,
+          "created_at": "2020-10-11T04:13:28.000Z",
+          "updated_at": "2020-10-11T20:43:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 764620,
+            "username": "MRCRAB",
+            "description": "GG I probably needed boosts.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-10T01:11:13.000Z",
+            "date_last_played": "2023-09-11T18:50:06.000Z",
+            "kill_count": 6567,
+            "play_count": 4889,
+            "highest_score": 5526386,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 473,
+            "tier": 4,
+            "xp": 192300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "wip"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:19:27.532Z"
+}

@@ -1,0 +1,213 @@
+{
+  "id": 764627,
+  "username": "8320775_409",
+  "description": "지루행",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-10T02:10:52.000Z",
+  "date_last_played": "2024-12-24T08:59:53.000Z",
+  "profile_views": 19,
+  "kill_count": 4908,
+  "play_count": 2154,
+  "highest_score": 2791196,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 75,
+  "tier": 1,
+  "xp": 11250,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 764627,
+    "rank_kc": 6225,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-13T12:33:43.000Z",
+    "rank_pc": 5171,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-13T12:33:45.000Z",
+    "rank_hs": 24410,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-13T07:28:07.000Z",
+    "created_at": "2024-12-24T08:59:52.000Z",
+    "updated_at": "2024-12-24T08:59:53.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5796,
+          "user_id": 764627,
+          "cloneof_id": null,
+          "string_id": "krsalmon_1v1map_v2",
+          "title": "Cold ruin",
+          "description": "just a 1v1 map with background mountains and lots of seewead and kelp. +the islands are not islands, they are made out of platforms. ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 61,
+          "created_at": "2021-02-02T23:54:31.000Z",
+          "updated_at": "2021-02-02T23:55:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 764627,
+            "username": "8320775_409",
+            "description": "지루행",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-10T02:10:52.000Z",
+            "date_last_played": "2024-12-24T08:59:53.000Z",
+            "kill_count": 4908,
+            "play_count": 2154,
+            "highest_score": 2791196,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 75,
+            "tier": 1,
+            "xp": 11250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "cold"
+            },
+            {
+              "id": "mountain"
+            },
+            {
+              "id": "ruin"
+            }
+          ]
+        },
+        {
+          "id": 5769,
+          "user_id": 764627,
+          "cloneof_id": 5717,
+          "string_id": "krsalmon_cenote_angelita",
+          "title": "Cenote Angelita",
+          "description": "I don't expect this to go in game, but I just made it for fun. This is a place called cenote Angelita which exists in real life.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 201,
+          "created_at": "2021-01-31T07:11:24.000Z",
+          "updated_at": "2021-01-31T09:11:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 764627,
+            "username": "8320775_409",
+            "description": "지루행",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-10T02:10:52.000Z",
+            "date_last_played": "2024-12-24T08:59:53.000Z",
+            "kill_count": 4908,
+            "play_count": 2154,
+            "highest_score": 2791196,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 75,
+            "tier": 1,
+            "xp": 11250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Angelita"
+            },
+            {
+              "id": "Cenote"
+            },
+            {
+              "id": "Real life place"
+            }
+          ]
+        },
+        {
+          "id": 5738,
+          "user_id": 764627,
+          "cloneof_id": null,
+          "string_id": "krsalmon_1v1_map_v1",
+          "title": "The Arena of flame",
+          "description": "just a 1v1 map with red background ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 38,
+          "created_at": "2021-01-27T17:22:17.000Z",
+          "updated_at": "2021-01-31T05:58:28.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 764627,
+            "username": "8320775_409",
+            "description": "지루행",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-10T02:10:52.000Z",
+            "date_last_played": "2024-12-24T08:59:53.000Z",
+            "kill_count": 4908,
+            "play_count": 2154,
+            "highest_score": 2791196,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 75,
+            "tier": 1,
+            "xp": 11250,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "disaster"
+            },
+            {
+              "id": "lava"
+            },
+            {
+              "id": "volcano"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:19:28.398Z"
+}
