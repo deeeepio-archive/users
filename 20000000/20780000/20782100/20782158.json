@@ -1,0 +1,108 @@
+{
+  "id": 20782158,
+  "username": "swawsington",
+  "description": "i chew jolly ranchers",
+  "about": "jimmy",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-27T22:21:10.000Z",
+  "date_last_played": "2024-10-15T03:34:10.000Z",
+  "profile_views": 16,
+  "kill_count": 826,
+  "play_count": 902,
+  "highest_score": 1191925,
+  "picture": "20782158-777a86f5fa2ac0fdbed19761041068a3fd-d5b78657-cae2-42ee-b2c0-400b46a8201b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 32,
+  "tier": 2,
+  "xp": 33450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 11054,
+      "user_id": 20782158,
+      "platform_id": "dc",
+      "platform_user_id": "jimmy. #8418",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-10T04:16:52.000Z",
+      "updated_at": "2023-08-30T06:25:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20782158,
+    "rank_kc": 27310,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-04T17:31:25.000Z",
+    "rank_pc": 11789,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-04T17:31:26.000Z",
+    "rank_hs": 65220,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-12-04T17:31:27.000Z",
+    "created_at": "2024-10-15T03:34:10.000Z",
+    "updated_at": "2024-10-15T03:34:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8797,
+          "user_id": 20782158,
+          "cloneof_id": null,
+          "string_id": "weird_sea_map",
+          "title": "all animals in all areas",
+          "description": "i dunno",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 3,
+          "created_at": "2021-12-20T01:42:52.000Z",
+          "updated_at": "2021-12-20T01:45:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20782158,
+            "username": "swawsington",
+            "description": "i chew jolly ranchers",
+            "about": "jimmy",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-27T22:21:10.000Z",
+            "date_last_played": "2024-10-15T03:34:10.000Z",
+            "kill_count": 826,
+            "play_count": 902,
+            "highest_score": 1191925,
+            "picture": "20782158-777a86f5fa2ac0fdbed19761041068a3fd-d5b78657-cae2-42ee-b2c0-400b46a8201b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 32,
+            "tier": 2,
+            "xp": 33450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ae"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T19:30:51.488Z"
+}
