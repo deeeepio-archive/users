@@ -1,0 +1,81 @@
+{
+  "id": 724632,
+  "username": "886377_430",
+  "description": "hola",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-14T16:04:26.000Z",
+  "date_last_played": "2024-08-25T16:22:47.000Z",
+  "profile_views": 12,
+  "kill_count": 21,
+  "play_count": 100,
+  "highest_score": 358907,
+  "picture": "724632.gif",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 7,
+  "tier": 1,
+  "xp": 450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17131,
+      "user_id": 724632,
+      "platform_id": "dc",
+      "platform_user_id": "|Edgar#2276",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-06T00:33:19.000Z",
+      "updated_at": "2023-04-06T00:33:19.000Z"
+    },
+    {
+      "id": 17133,
+      "user_id": 724632,
+      "platform_id": "ig",
+      "platform_user_id": "eriveroalcoreza",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-06T00:33:35.000Z",
+      "updated_at": "2023-04-06T00:33:35.000Z"
+    },
+    {
+      "id": 17134,
+      "user_id": 724632,
+      "platform_id": "tw",
+      "platform_user_id": "eriveroalcoreza",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-06T00:33:47.000Z",
+      "updated_at": "2023-04-06T00:33:47.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 724632,
+    "rank_kc": 201205,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-09-21T21:28:22.000Z",
+    "rank_pc": 75456,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-21T21:28:26.000Z",
+    "rank_hs": 184279,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-21T21:28:29.000Z",
+    "created_at": "2024-08-25T16:22:47.000Z",
+    "updated_at": "2024-08-25T16:22:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T00:07:12.898Z"
+}
