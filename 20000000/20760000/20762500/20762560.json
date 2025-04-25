@@ -1,0 +1,97 @@
+{
+  "id": 20762560,
+  "username": "7134795_156",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-28T22:45:04.000Z",
+  "date_last_played": "2021-09-30T22:22:40.000Z",
+  "profile_views": 0,
+  "kill_count": 17,
+  "play_count": 66,
+  "highest_score": 91592,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20762560,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T17:28:00.860Z",
+    "updated_at": "2025-04-25T17:28:01.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8002,
+          "user_id": 20762560,
+          "cloneof_id": null,
+          "string_id": "dirtwater",
+          "title": "dirty ocean",
+          "description": ";-;",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 7,
+          "created_at": "2021-09-30T18:29:17.000Z",
+          "updated_at": "2021-09-30T18:29:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20762560,
+            "username": "7134795_156",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-28T22:45:04.000Z",
+            "date_last_played": "2021-09-30T22:22:40.000Z",
+            "kill_count": 17,
+            "play_count": 66,
+            "highest_score": 91592,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 12,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "poop"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:28:00.940Z"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 20762580,
+  "username": "BeybladeVR",
+  "description": "ISOSQUAD FOR LIFE!!!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-29T00:13:34.000Z",
+  "date_last_played": "2023-10-09T12:35:01.000Z",
+  "profile_views": 7,
+  "kill_count": 1403,
+  "play_count": 1253,
+  "highest_score": 1764481,
+  "picture": "20762580.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1524,
+  "tier": 1,
+  "xp": 15150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20762580,
+    "rank_kc": 19347,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-20T11:40:39.000Z",
+    "rank_pc": 9006,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-20T11:40:48.000Z",
+    "rank_hs": 44177,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-20T11:40:56.000Z",
+    "created_at": "2023-10-09T12:35:01.000Z",
+    "updated_at": "2023-10-09T12:35:01.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8630,
+          "user_id": 20762580,
+          "cloneof_id": null,
+          "string_id": "i_love_pd_v1",
+          "title": "5 Pearl PD",
+          "description": "pd map with 5 pearls",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 15,
+          "created_at": "2021-11-27T23:32:06.000Z",
+          "updated_at": "2021-11-28T00:36:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20762580,
+            "username": "BeybladeVR",
+            "description": "ISOSQUAD FOR LIFE!!!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-29T00:13:34.000Z",
+            "date_last_played": "2023-10-09T12:35:01.000Z",
+            "kill_count": 1403,
+            "play_count": 1253,
+            "highest_score": 1764481,
+            "picture": "20762580.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1524,
+            "tier": 1,
+            "xp": 15150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "PD"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:28:03.555Z"
+}
