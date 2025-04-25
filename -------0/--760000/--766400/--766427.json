@@ -1,0 +1,155 @@
+{
+  "id": 766427,
+  "username": "G6ND3R",
+  "description": "piss",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-18T02:09:56.000Z",
+  "date_last_played": "2020-08-21T02:47:40.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 13,
+  "highest_score": 66780,
+  "picture": "766427.PNG",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 766427,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T04:30:37.757Z",
+    "updated_at": "2025-04-25T04:30:38.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4064,
+          "user_id": 766427,
+          "cloneof_id": null,
+          "string_id": "lavaland_v1",
+          "title": "lavaland",
+          "description": "a land of lava",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 43,
+          "created_at": "2020-08-21T02:26:41.000Z",
+          "updated_at": "2020-08-21T02:39:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 766427,
+            "username": "G6ND3R",
+            "description": "piss",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-18T02:09:56.000Z",
+            "date_last_played": "2020-08-21T02:47:40.000Z",
+            "kill_count": 0,
+            "play_count": 13,
+            "highest_score": 66780,
+            "picture": "766427.PNG",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "lava"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "volcano"
+            }
+          ]
+        },
+        {
+          "id": 4051,
+          "user_id": 766427,
+          "cloneof_id": null,
+          "string_id": "kelpland_v1",
+          "title": "kelpland",
+          "description": "a map thats in deveopment",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 260,
+          "created_at": "2020-08-19T23:34:54.000Z",
+          "updated_at": "2020-08-21T02:24:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 766427,
+            "username": "G6ND3R",
+            "description": "piss",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-18T02:09:56.000Z",
+            "date_last_played": "2020-08-21T02:47:40.000Z",
+            "kill_count": 0,
+            "play_count": 13,
+            "highest_score": 66780,
+            "picture": "766427.PNG",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "cave"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "volcano"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:30:37.819Z"
+}
