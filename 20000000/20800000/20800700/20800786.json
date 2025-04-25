@@ -1,0 +1,148 @@
+{
+  "id": 20800786,
+  "username": "8233299_339",
+  "description": "Good Try. Hope you do better next time.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-02-16T16:00:50.000Z",
+  "date_last_played": "2022-04-21T18:02:45.000Z",
+  "profile_views": 2,
+  "kill_count": 57,
+  "play_count": 91,
+  "highest_score": 658586,
+  "picture": "20800786.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 81,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20800786,
+    "rank_kc": 117335,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-27T17:43:57.000Z",
+    "rank_pc": 57599,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-27T17:43:59.000Z",
+    "rank_hs": 104934,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-09-27T17:44:03.000Z",
+    "created_at": "2023-07-30T12:44:37.000Z",
+    "updated_at": "2022-09-27T17:44:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9773,
+          "user_id": 20800786,
+          "cloneof_id": null,
+          "string_id": "my_map_0318",
+          "title": "Map",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 69,
+          "created_at": "2022-05-05T18:42:18.000Z",
+          "updated_at": "2023-01-11T16:32:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20800786,
+            "username": "8233299_339",
+            "description": "Good Try. Hope you do better next time.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-02-16T16:00:50.000Z",
+            "date_last_played": "2022-04-21T18:02:45.000Z",
+            "kill_count": 57,
+            "play_count": 91,
+            "highest_score": 658586,
+            "picture": "20800786.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 81,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 9385,
+          "user_id": 20800786,
+          "cloneof_id": null,
+          "string_id": "pearl_defense_design",
+          "title": " Pearl defense ",
+          "description": "Pearl defense map I made for possible use",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 68,
+          "created_at": "2022-03-01T14:45:08.000Z",
+          "updated_at": "2023-01-05T17:28:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20800786,
+            "username": "8233299_339",
+            "description": "Good Try. Hope you do better next time.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-02-16T16:00:50.000Z",
+            "date_last_played": "2022-04-21T18:02:45.000Z",
+            "kill_count": 57,
+            "play_count": 91,
+            "highest_score": 658586,
+            "picture": "20800786.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 81,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "beach"
+            },
+            {
+              "id": "For use in game"
+            },
+            {
+              "id": "Pearld Defense"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:29:09.035Z"
+}
