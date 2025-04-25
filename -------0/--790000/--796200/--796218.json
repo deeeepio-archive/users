@@ -1,0 +1,71 @@
+{
+  "id": 796218,
+  "username": "Sift",
+  "description": "Pedro of war\n\nDiscord:Sift#8670",
+  "about": "Pedro of war",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-27T14:41:19.000Z",
+  "date_last_played": "2025-04-23T04:24:06.000Z",
+  "profile_views": 9674,
+  "kill_count": 70327,
+  "play_count": 20746,
+  "highest_score": 10173369,
+  "picture": "796218-41e110beb42f54d96a23427df565be52.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 48777,
+  "tier": 10,
+  "xp": 11052300,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 32031,
+      "user_id": 796218,
+      "platform_id": "dc",
+      "platform_user_id": "sift8670",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-16T00:05:50.000Z",
+      "updated_at": "2024-01-16T00:05:50.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 796218,
+    "rank_kc": 72,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T03:48:51.000Z",
+    "rank_pc": 21,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T03:48:52.000Z",
+    "rank_hs": 2603,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T01:16:06.000Z",
+    "created_at": "2025-04-23T04:24:06.000Z",
+    "updated_at": "2025-04-23T04:24:06.000Z",
+    "pd": {
+      "played": 46,
+      "won": 34,
+      "ratio": 74
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:50:38.352Z"
+}
