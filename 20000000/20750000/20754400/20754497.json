@@ -1,0 +1,108 @@
+{
+  "id": 20754497,
+  "username": "OxyToxyNT",
+  "description": "it was for xp/coins",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-08-28T05:54:12.000Z",
+  "date_last_played": "2024-05-29T01:50:45.000Z",
+  "profile_views": 35,
+  "kill_count": 46,
+  "play_count": 270,
+  "highest_score": 924202,
+  "picture": "20754497-86486463c32ee1a263a1010c590103d99fb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 81,
+  "tier": 1,
+  "xp": 20400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20417,
+      "user_id": 20754497,
+      "platform_id": "yt",
+      "platform_user_id": "OxyToxyNT",
+      "platform_user_url": "https://www.youtube.com/channel/UCoeINwHQUkm4ZebT0KXOtqw",
+      "verified": false,
+      "created_at": "2023-06-05T18:39:41.000Z",
+      "updated_at": "2023-06-05T18:39:41.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20754497,
+    "rank_kc": 151720,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-29T00:57:26.000Z",
+    "rank_pc": 39205,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-29T00:57:27.000Z",
+    "rank_hs": 97810,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-29T00:57:28.000Z",
+    "created_at": "2024-05-29T01:50:44.000Z",
+    "updated_at": "2024-05-29T01:50:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7710,
+          "user_id": 20754497,
+          "cloneof_id": null,
+          "string_id": "jurassicraft",
+          "title": "jurassicraft's strange map",
+          "description": "um... so yes this is strange map...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 256,
+          "created_at": "2021-08-29T19:57:11.000Z",
+          "updated_at": "2021-08-29T19:57:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20754497,
+            "username": "OxyToxyNT",
+            "description": "it was for xp/coins",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-08-28T05:54:12.000Z",
+            "date_last_played": "2024-05-29T01:50:45.000Z",
+            "kill_count": 46,
+            "play_count": 270,
+            "highest_score": 924202,
+            "picture": "20754497-86486463c32ee1a263a1010c590103d99fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 81,
+            "tier": 1,
+            "xp": 20400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "strange"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:32:25.167Z"
+}
