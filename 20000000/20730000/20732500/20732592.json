@@ -1,0 +1,100 @@
+{
+  "id": 20732592,
+  "username": "SplashSplash",
+  "description": "He is died, in case you missed that fact! This ain't the killing house anymore, this is real life.\n\nMy old nicknames are SleeperCreeper and SplashSplash.",
+  "about": "coder\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-29T13:31:45.000Z",
+  "date_last_played": "2025-03-27T20:54:35.000Z",
+  "profile_views": 79,
+  "kill_count": 7940,
+  "play_count": 3682,
+  "highest_score": 4557696,
+  "picture": "20732592.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 201,
+  "tier": 5,
+  "xp": 344400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20732592,
+    "rank_kc": 3188,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-22T10:59:48.000Z",
+    "rank_pc": 2090,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-22T10:59:50.000Z",
+    "rank_hs": 8990,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-22T10:59:52.000Z",
+    "created_at": "2025-03-27T23:00:03.000Z",
+    "updated_at": "2025-03-27T23:00:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7383,
+          "user_id": 20732592,
+          "cloneof_id": null,
+          "string_id": "spectral_ffa_v1",
+          "title": "why",
+          "description": "ray",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 14,
+          "created_at": "2021-07-16T10:53:34.000Z",
+          "updated_at": "2021-07-18T11:44:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20732592,
+            "username": "SplashSplash",
+            "description": "He is died, in case you missed that fact! This ain't the killing house anymore, this is real life.\n\nMy old nicknames are SleeperCreeper and SplashSplash.",
+            "about": "coder\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-05-29T13:31:45.000Z",
+            "date_last_played": "2025-03-27T20:54:35.000Z",
+            "kill_count": 7940,
+            "play_count": 3682,
+            "highest_score": 4557696,
+            "picture": "20732592.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 201,
+            "tier": 5,
+            "xp": 344400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T14:17:12.389Z"
+}
