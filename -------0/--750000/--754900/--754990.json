@@ -1,0 +1,61 @@
+{
+  "id": 754990,
+  "username": "부탄",
+  "description": "ㅂㅌ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-07-01T02:46:31.000Z",
+  "date_last_played": "2024-02-06T09:49:53.000Z",
+  "profile_views": 134,
+  "kill_count": 6258,
+  "play_count": 2186,
+  "highest_score": 162951814,
+  "picture": "754990.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1023,
+  "tier": 3,
+  "xp": 88500,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12937,
+      "user_id": 754990,
+      "platform_id": "yt",
+      "platform_user_id": "딥딥",
+      "platform_user_url": "https://www.youtube.com/channel/UC05Ec8XyD5VNdM7uI6fLZlg",
+      "verified": false,
+      "created_at": "2023-01-10T02:48:37.000Z",
+      "updated_at": "2023-01-10T02:48:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 754990,
+    "rank_kc": 3930,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-31T23:27:15.000Z",
+    "rank_pc": 4154,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-31T23:27:21.000Z",
+    "rank_hs": 470,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-31T23:27:28.000Z",
+    "created_at": "2024-02-06T09:49:52.000Z",
+    "updated_at": "2024-02-06T09:49:53.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T03:19:50.624Z"
+}
