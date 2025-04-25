@@ -1,0 +1,311 @@
+{
+  "id": 20763263,
+  "username": "Chaos1",
+  "description": "Did you see me?",
+  "about": "I go by Chaos/Tiger Shark\nI make skins for fun\nI don't use disc anymore\nMost of what I say is to joke around\nI Made a sheet on every animal a manta can use",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-01T11:36:04.000Z",
+  "date_last_played": "2024-11-13T13:06:24.000Z",
+  "profile_views": 780,
+  "kill_count": 6899,
+  "play_count": 4054,
+  "highest_score": 5374619,
+  "picture": "20763263-cb17e93c5c2a8acc4e929ef10fb2c101a8.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 665,
+  "tier": 10,
+  "xp": 1870650,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 769,
+      "user_id": 20763263,
+      "platform_id": "dc",
+      "platform_user_id": "chaos#0082",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-25T20:04:32.000Z",
+      "updated_at": "2022-05-25T20:04:32.000Z"
+    },
+    {
+      "id": 2853,
+      "user_id": 20763263,
+      "platform_id": "rd",
+      "platform_user_id": "chaotic_boi1",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-25T00:43:01.000Z",
+      "updated_at": "2022-06-25T00:43:12.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20763263,
+    "rank_kc": 4591,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-21T14:10:14.000Z",
+    "rank_pc": 2247,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-21T14:10:18.000Z",
+    "rank_hs": 7191,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-21T14:10:20.000Z",
+    "created_at": "2024-11-13T13:06:23.000Z",
+    "updated_at": "2024-11-13T13:06:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244436,
+          "user_id": 20763263,
+          "cloneof_id": null,
+          "string_id": "reef_set_v1",
+          "title": "Reef Set",
+          "description": "just for smth",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 7,
+          "created_at": "2024-07-16T20:58:17.000Z",
+          "updated_at": "2024-07-16T21:11:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20763263,
+            "username": "Chaos1",
+            "description": "Did you see me?",
+            "about": "I go by Chaos/Tiger Shark\nI make skins for fun\nI don't use disc anymore\nMost of what I say is to joke around\nI Made a sheet on every animal a manta can use",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-01T11:36:04.000Z",
+            "date_last_played": "2024-11-13T13:06:24.000Z",
+            "kill_count": 6899,
+            "play_count": 4054,
+            "highest_score": 5374619,
+            "picture": "20763263-cb17e93c5c2a8acc4e929ef10fb2c101a8.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 665,
+            "tier": 10,
+            "xp": 1870650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "its unfinished"
+            }
+          ]
+        },
+        {
+          "id": 10716,
+          "user_id": 20763263,
+          "cloneof_id": null,
+          "string_id": "123_122v2",
+          "title": "idk",
+          "description": "just something",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 5,
+          "created_at": "2022-08-22T00:15:03.000Z",
+          "updated_at": "2022-08-22T00:15:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20763263,
+            "username": "Chaos1",
+            "description": "Did you see me?",
+            "about": "I go by Chaos/Tiger Shark\nI make skins for fun\nI don't use disc anymore\nMost of what I say is to joke around\nI Made a sheet on every animal a manta can use",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-01T11:36:04.000Z",
+            "date_last_played": "2024-11-13T13:06:24.000Z",
+            "kill_count": 6899,
+            "play_count": 4054,
+            "highest_score": 5374619,
+            "picture": "20763263-cb17e93c5c2a8acc4e929ef10fb2c101a8.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 665,
+            "tier": 10,
+            "xp": 1870650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "idk"
+            }
+          ]
+        },
+        {
+          "id": 10274,
+          "user_id": 20763263,
+          "cloneof_id": null,
+          "string_id": "surviv_da_fli_",
+          "title": "survive the flying fishies",
+          "description": "kill them",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 9,
+          "created_at": "2022-07-07T23:41:32.000Z",
+          "updated_at": "2022-07-07T23:41:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20763263,
+            "username": "Chaos1",
+            "description": "Did you see me?",
+            "about": "I go by Chaos/Tiger Shark\nI make skins for fun\nI don't use disc anymore\nMost of what I say is to joke around\nI Made a sheet on every animal a manta can use",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-01T11:36:04.000Z",
+            "date_last_played": "2024-11-13T13:06:24.000Z",
+            "kill_count": 6899,
+            "play_count": 4054,
+            "highest_score": 5374619,
+            "picture": "20763263-cb17e93c5c2a8acc4e929ef10fb2c101a8.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 665,
+            "tier": 10,
+            "xp": 1870650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ez dub"
+            },
+            {
+              "id": "killin"
+            },
+            {
+              "id": "not cringe"
+            },
+            {
+              "id": "pog"
+            }
+          ]
+        },
+        {
+          "id": 10203,
+          "user_id": 20763263,
+          "cloneof_id": null,
+          "string_id": "open_ocean122222",
+          "title": "open ocean",
+          "description": "e",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 34,
+          "created_at": "2022-06-28T18:26:38.000Z",
+          "updated_at": "2022-06-28T18:26:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20763263,
+            "username": "Chaos1",
+            "description": "Did you see me?",
+            "about": "I go by Chaos/Tiger Shark\nI make skins for fun\nI don't use disc anymore\nMost of what I say is to joke around\nI Made a sheet on every animal a manta can use",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-01T11:36:04.000Z",
+            "date_last_played": "2024-11-13T13:06:24.000Z",
+            "kill_count": 6899,
+            "play_count": 4054,
+            "highest_score": 5374619,
+            "picture": "20763263-cb17e93c5c2a8acc4e929ef10fb2c101a8.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 665,
+            "tier": 10,
+            "xp": 1870650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "open"
+            }
+          ]
+        },
+        {
+          "id": 10197,
+          "user_id": 20763263,
+          "cloneof_id": null,
+          "string_id": "horseshoe_madness",
+          "title": "horseshoe madness",
+          "description": "fight horseshoes lol",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 25,
+          "created_at": "2022-06-27T23:42:28.000Z",
+          "updated_at": "2022-06-27T23:42:28.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20763263,
+            "username": "Chaos1",
+            "description": "Did you see me?",
+            "about": "I go by Chaos/Tiger Shark\nI make skins for fun\nI don't use disc anymore\nMost of what I say is to joke around\nI Made a sheet on every animal a manta can use",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-01T11:36:04.000Z",
+            "date_last_played": "2024-11-13T13:06:24.000Z",
+            "kill_count": 6899,
+            "play_count": 4054,
+            "highest_score": 5374619,
+            "picture": "20763263-cb17e93c5c2a8acc4e929ef10fb2c101a8.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 665,
+            "tier": 10,
+            "xp": 1870650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "survival"
+            }
+          ]
+        }
+      ],
+      "count": 5
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:34:17.492Z"
+}

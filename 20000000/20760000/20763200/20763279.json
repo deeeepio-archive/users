@@ -1,0 +1,97 @@
+{
+  "id": 20763279,
+  "username": "MomoyPanget",
+  "description": "your so pro im glad:)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-01T12:52:05.000Z",
+  "date_last_played": "2021-11-05T17:21:03.000Z",
+  "profile_views": 0,
+  "kill_count": 397,
+  "play_count": 237,
+  "highest_score": 1767818,
+  "picture": "20763279.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 244,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20763279,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T17:34:19.639Z",
+    "updated_at": "2025-04-25T17:34:20.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8334,
+          "user_id": 20763279,
+          "cloneof_id": null,
+          "string_id": "ugly",
+          "title": "Uugly",
+          "description": "brih",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-10-24T14:48:30.000Z",
+          "updated_at": "2021-10-24T14:48:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20763279,
+            "username": "MomoyPanget",
+            "description": "your so pro im glad:)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-01T12:52:05.000Z",
+            "date_last_played": "2021-11-05T17:21:03.000Z",
+            "kill_count": 397,
+            "play_count": 237,
+            "highest_score": 1767818,
+            "picture": "20763279.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 244,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "geh"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:34:19.691Z"
+}
