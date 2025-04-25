@@ -1,0 +1,97 @@
+{
+  "id": 759593,
+  "username": "bobz",
+  "description": "If you killled me: im trying to farm coins\r\nIf I killed you: your sacrifice helps me.\r\n\r\nThe basking is gonna kill you (or not)",
+  "about": "...\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-07-18T20:55:00.000Z",
+  "date_last_played": "2022-11-29T00:25:15.000Z",
+  "profile_views": 12,
+  "kill_count": 104,
+  "play_count": 559,
+  "highest_score": 549118,
+  "picture": "759593-194e9674af363928153c31b2e10720cf3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 512,
+  "tier": 1,
+  "xp": 3450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 759593,
+    "rank_kc": 104170,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-10-14T17:41:45.000Z",
+    "rank_pc": 22088,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-14T17:41:46.000Z",
+    "rank_hs": 143720,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-14T17:41:47.000Z",
+    "created_at": "2023-11-26T02:24:10.000Z",
+    "updated_at": "2023-10-14T17:41:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8723,
+          "user_id": 759593,
+          "cloneof_id": null,
+          "string_id": "what_a_weird_map_lol_rofl",
+          "title": "coool",
+          "description": "cooooool",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 14,
+          "created_at": "2021-12-09T05:49:33.000Z",
+          "updated_at": "2021-12-09T05:49:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 759593,
+            "username": "bobz",
+            "description": "If you killled me: im trying to farm coins\r\nIf I killed you: your sacrifice helps me.\r\n\r\nThe basking is gonna kill you (or not)",
+            "about": "...\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-07-18T20:55:00.000Z",
+            "date_last_played": "2022-11-29T00:25:15.000Z",
+            "kill_count": 104,
+            "play_count": 559,
+            "highest_score": 549118,
+            "picture": "759593-194e9674af363928153c31b2e10720cf3.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 512,
+            "tier": 1,
+            "xp": 3450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1235754324565432"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T03:48:20.983Z"
+}
