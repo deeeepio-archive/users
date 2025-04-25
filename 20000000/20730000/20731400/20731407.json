@@ -1,0 +1,195 @@
+{
+  "id": 20731407,
+  "username": "deepies",
+  "description": "sorry for killing you, I need the coins, and, anyway, this's an opportunity to learn from the mistake you just made",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-26T00:17:43.000Z",
+  "date_last_played": "2022-09-30T22:15:21.000Z",
+  "profile_views": 66,
+  "kill_count": 589,
+  "play_count": 925,
+  "highest_score": 1153724,
+  "picture": "20731407.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 2,
+  "xp": 59700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20731407,
+    "rank_kc": 34076,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-21T20:04:25.000Z",
+    "rank_pc": 10628,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-21T20:04:29.000Z",
+    "rank_hs": 64737,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-21T20:04:33.000Z",
+    "created_at": "2022-12-23T12:42:17.000Z",
+    "updated_at": "2022-09-30T22:15:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7625,
+          "user_id": 20731407,
+          "cloneof_id": null,
+          "string_id": "deepies_1v1",
+          "title": "deepies_1v1",
+          "description": "Just a more decorated 1v1 map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 33,
+          "created_at": "2021-08-23T16:21:46.000Z",
+          "updated_at": "2021-08-26T17:46:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20731407,
+            "username": "deepies",
+            "description": "sorry for killing you, I need the coins, and, anyway, this's an opportunity to learn from the mistake you just made",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-05-26T00:17:43.000Z",
+            "date_last_played": "2022-09-30T22:15:21.000Z",
+            "kill_count": 589,
+            "play_count": 925,
+            "highest_score": 1153724,
+            "picture": "20731407.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 19,
+            "tier": 2,
+            "xp": 59700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "deepies"
+            }
+          ]
+        },
+        {
+          "id": 7248,
+          "user_id": 20731407,
+          "cloneof_id": null,
+          "string_id": "1v1_new",
+          "title": "1v1 new map",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 23,
+          "created_at": "2021-06-27T20:36:43.000Z",
+          "updated_at": "2021-06-27T20:36:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20731407,
+            "username": "deepies",
+            "description": "sorry for killing you, I need the coins, and, anyway, this's an opportunity to learn from the mistake you just made",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-05-26T00:17:43.000Z",
+            "date_last_played": "2022-09-30T22:15:21.000Z",
+            "kill_count": 589,
+            "play_count": 925,
+            "highest_score": 1153724,
+            "picture": "20731407.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 19,
+            "tier": 2,
+            "xp": 59700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "old_styl_maps"
+            }
+          ]
+        },
+        {
+          "id": 7245,
+          "user_id": 20731407,
+          "cloneof_id": null,
+          "string_id": "cove_simple",
+          "title": "simple cove 1v1",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 7,
+          "created_at": "2021-06-27T03:42:33.000Z",
+          "updated_at": "2021-06-27T03:42:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20731407,
+            "username": "deepies",
+            "description": "sorry for killing you, I need the coins, and, anyway, this's an opportunity to learn from the mistake you just made",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-05-26T00:17:43.000Z",
+            "date_last_played": "2022-09-30T22:15:21.000Z",
+            "kill_count": 589,
+            "play_count": 925,
+            "highest_score": 1153724,
+            "picture": "20731407.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 19,
+            "tier": 2,
+            "xp": 59700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T14:10:35.577Z"
+}
