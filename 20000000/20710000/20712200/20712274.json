@@ -1,0 +1,109 @@
+{
+  "id": 20712274,
+  "username": "2948507_291",
+  "description": "I am sorry :V",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-03T20:04:11.000Z",
+  "date_last_played": "2021-04-21T00:13:17.000Z",
+  "profile_views": 0,
+  "kill_count": 1,
+  "play_count": 18,
+  "highest_score": 42970,
+  "picture": "20712274.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20712274,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T12:11:34.016Z",
+    "updated_at": "2025-04-25T12:11:34.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6442,
+          "user_id": 20712274,
+          "cloneof_id": null,
+          "string_id": "igorxgmap123",
+          "title": "HIGH map",
+          "description": "just a test",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2021-04-03T20:08:58.000Z",
+          "updated_at": "2021-04-03T20:08:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20712274,
+            "username": "2948507_291",
+            "description": "I am sorry :V",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-03T20:04:11.000Z",
+            "date_last_played": "2021-04-21T00:13:17.000Z",
+            "kill_count": 1,
+            "play_count": 18,
+            "highest_score": 42970,
+            "picture": "20712274.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "high"
+            },
+            {
+              "id": "joke"
+            },
+            {
+              "id": "new player"
+            },
+            {
+              "id": "not good"
+            },
+            {
+              "id": "test"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:11:34.098Z"
+}

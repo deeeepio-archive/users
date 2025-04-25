@@ -1,0 +1,71 @@
+{
+  "id": 20712263,
+  "username": "CATCHARK",
+  "description": "die",
+  "about": "yessir",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-03T19:34:56.000Z",
+  "date_last_played": "2025-04-16T02:29:21.000Z",
+  "profile_views": 589,
+  "kill_count": 3173,
+  "play_count": 1304,
+  "highest_score": 1661151,
+  "picture": "20712263-acd4b9b93b8f08e21410f661288057e6e.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 6,
+  "xp": 401100,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15823,
+      "user_id": 20712263,
+      "platform_id": "dc",
+      "platform_user_id": "ORCA316",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-04T22:03:27.000Z",
+      "updated_at": "2023-03-04T22:03:27.000Z"
+    },
+    {
+      "id": 936,
+      "user_id": 20712263,
+      "platform_id": "rd",
+      "platform_user_id": "audifonosxd",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-27T18:30:36.000Z",
+      "updated_at": "2022-05-27T18:30:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20712263,
+    "rank_kc": 9657,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-18T22:31:04.000Z",
+    "rank_pc": 9723,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-18T22:31:06.000Z",
+    "rank_hs": 50845,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-18T22:31:08.000Z",
+    "created_at": "2025-04-16T02:29:21.000Z",
+    "updated_at": "2025-04-16T02:29:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:11:31.820Z"
+}
