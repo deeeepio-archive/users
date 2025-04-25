@@ -1,0 +1,97 @@
+{
+  "id": 745295,
+  "username": "onion_water",
+  "description": "IF U SEE A MF NAMED ONION HE IS NOT ONION IM ONION DONT BELIEVE HIM IM THE REALEST ONION NO ONION IS REALER THEN ME",
+  "about": "extremely violent both in-game and irl\nam stupid",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-30T21:55:51.000Z",
+  "date_last_played": "2022-06-20T17:21:36.000Z",
+  "profile_views": 11,
+  "kill_count": 4134,
+  "play_count": 2511,
+  "highest_score": 9253952,
+  "picture": "745295.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 205,
+  "tier": 1,
+  "xp": 3900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 745295,
+    "rank_kc": 5366,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-14T12:29:10.000Z",
+    "rank_pc": 2753,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-14T12:29:10.000Z",
+    "rank_hs": 2409,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-14T12:29:10.000Z",
+    "created_at": "2022-06-26T07:33:39.000Z",
+    "updated_at": "2022-06-20T17:21:36.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5198,
+          "user_id": 745295,
+          "cloneof_id": null,
+          "string_id": "hb2rsqa",
+          "title": "death spire",
+          "description": "its a spire it will kill ya ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 7,
+          "created_at": "2020-12-09T03:13:09.000Z",
+          "updated_at": "2020-12-21T18:52:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 745295,
+            "username": "onion_water",
+            "description": "IF U SEE A MF NAMED ONION HE IS NOT ONION IM ONION DONT BELIEVE HIM IM THE REALEST ONION NO ONION IS REALER THEN ME",
+            "about": "extremely violent both in-game and irl\nam stupid",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-05-30T21:55:51.000Z",
+            "date_last_played": "2022-06-20T17:21:36.000Z",
+            "kill_count": 4134,
+            "play_count": 2511,
+            "highest_score": 9253952,
+            "picture": "745295.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 205,
+            "tier": 1,
+            "xp": 3900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#death"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T02:20:46.061Z"
+}
