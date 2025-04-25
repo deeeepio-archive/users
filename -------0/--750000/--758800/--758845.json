@@ -1,0 +1,71 @@
+{
+  "id": 758845,
+  "username": "Guacamole1",
+  "description": "Holy Canoly Guacamole😱",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-07-15T20:23:02.000Z",
+  "date_last_played": "2024-05-16T05:20:26.000Z",
+  "profile_views": 22,
+  "kill_count": 1413,
+  "play_count": 1211,
+  "highest_score": 2008374,
+  "picture": "758845-1b64073ae103261075e047e51a1299b1062.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 262,
+  "tier": 2,
+  "xp": 48150,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26209,
+      "user_id": 758845,
+      "platform_id": "dc",
+      "platform_user_id": "wexsy_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-10T05:18:54.000Z",
+      "updated_at": "2023-09-10T05:18:54.000Z"
+    },
+    {
+      "id": 26208,
+      "user_id": 758845,
+      "platform_id": "ig",
+      "platform_user_id": "zoinks_bonkers",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-10T05:18:44.000Z",
+      "updated_at": "2023-09-10T05:18:44.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 758845,
+    "rank_kc": 20930,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-10T21:46:25.000Z",
+    "rank_pc": 11826,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-10T21:46:26.000Z",
+    "rank_hs": 39838,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-10T21:46:26.000Z",
+    "created_at": "2024-05-16T05:20:25.000Z",
+    "updated_at": "2024-05-16T05:20:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T03:44:25.623Z"
+}
