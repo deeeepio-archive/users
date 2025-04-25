@@ -1,0 +1,97 @@
+{
+  "id": 779402,
+  "username": "Wormy_",
+  "description": "Hi I am Hexa, I am a BOY and sorry that I killed you. Its just a part of the game!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-05T19:29:19.000Z",
+  "date_last_played": "2023-08-17T14:36:41.000Z",
+  "profile_views": 0,
+  "kill_count": 96,
+  "play_count": 170,
+  "highest_score": 140777,
+  "picture": "779402.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 779402,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T05:49:56.379Z",
+    "updated_at": "2025-04-25T05:49:56.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4495,
+          "user_id": 779402,
+          "cloneof_id": null,
+          "string_id": "worm",
+          "title": "worm area",
+          "description": "only worms aloud",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 26,
+          "created_at": "2020-10-05T20:38:09.000Z",
+          "updated_at": "2020-10-05T20:49:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 779402,
+            "username": "Wormy_",
+            "description": "Hi I am Hexa, I am a BOY and sorry that I killed you. Its just a part of the game!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-05T19:29:19.000Z",
+            "date_last_played": "2023-08-17T14:36:41.000Z",
+            "kill_count": 96,
+            "play_count": 170,
+            "highest_score": 140777,
+            "picture": "779402.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 25,
+            "tier": 1,
+            "xp": 150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Worm"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T05:49:56.451Z"
+}
