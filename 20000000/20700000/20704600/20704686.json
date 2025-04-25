@@ -1,0 +1,103 @@
+{
+  "id": 20704686,
+  "username": "E2imagine",
+  "description": "Sorry if a killed u but... I think u rolled the die too hard.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-15T13:49:43.000Z",
+  "date_last_played": "2021-06-07T14:25:10.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 97,
+  "highest_score": 30875,
+  "picture": "20704686.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20704686,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T11:24:39.437Z",
+    "updated_at": "2025-04-25T11:24:39.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6218,
+          "user_id": 20704686,
+          "cloneof_id": null,
+          "string_id": "iem_map_v2",
+          "title": "Map.io",
+          "description": "SUPER COOL!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 15,
+          "created_at": "2021-03-15T15:59:07.000Z",
+          "updated_at": "2021-03-15T16:02:02.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20704686,
+            "username": "E2imagine",
+            "description": "Sorry if a killed u but... I think u rolled the die too hard.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-15T13:49:43.000Z",
+            "date_last_played": "2021-06-07T14:25:10.000Z",
+            "kill_count": 0,
+            "play_count": 97,
+            "highest_score": 30875,
+            "picture": "20704686.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Deeeeep.io"
+            },
+            {
+              "id": "hi"
+            },
+            {
+              "id": "water"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T11:24:39.529Z"
+}
