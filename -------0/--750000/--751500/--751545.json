@@ -1,0 +1,97 @@
+{
+  "id": 751545,
+  "username": "CHEESE9090",
+  "description": "dont worry about him he points at people who play deeeep.io",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-06-19T01:21:35.000Z",
+  "date_last_played": "2020-06-19T20:31:51.000Z",
+  "profile_views": 0,
+  "kill_count": 1,
+  "play_count": 7,
+  "highest_score": 10010,
+  "picture": "751545.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 751545,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T02:59:48.756Z",
+    "updated_at": "2025-04-25T02:59:49.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3442,
+          "user_id": 751545,
+          "cloneof_id": null,
+          "string_id": "doggos_dumbmap_v1",
+          "title": "new",
+          "description": "IM DUMB AT THIS",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 20,
+          "created_at": "2020-06-19T02:02:35.000Z",
+          "updated_at": "2020-06-19T02:02:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 751545,
+            "username": "CHEESE9090",
+            "description": "dont worry about him he points at people who play deeeep.io",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-06-19T01:21:35.000Z",
+            "date_last_played": "2020-06-19T20:31:51.000Z",
+            "kill_count": 1,
+            "play_count": 7,
+            "highest_score": 10010,
+            "picture": "751545.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "BAD"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T02:59:48.837Z"
+}
