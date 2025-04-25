@@ -1,0 +1,75 @@
+{
+  "id": 20748231,
+  "username": "c93_Bear",
+  "description": "臭甲\n",
+  "about": "海熊\n\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-08-03T03:09:32.000Z",
+  "date_last_played": "2025-04-21T12:27:10.000Z",
+  "profile_views": 3340,
+  "kill_count": 14280,
+  "play_count": 2705,
+  "highest_score": 7151042,
+  "picture": "20748231-adb598cff5610f100107f10abd9ef553f88e-96b305ae-7a6f-4336-8084-627bd561eed6.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 162,
+  "tier": 10,
+  "xp": 1773000,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17321,
+      "user_id": 20748231,
+      "platform_id": "dc",
+      "platform_user_id": ": )",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-10T12:13:45.000Z",
+      "updated_at": "2023-04-10T12:13:45.000Z"
+    },
+    {
+      "id": 22034,
+      "user_id": 20748231,
+      "platform_id": "dc",
+      "platform_user_id": "c93bear",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-03T12:30:53.000Z",
+      "updated_at": "2023-07-03T12:31:06.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20748231,
+    "rank_kc": 1412,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T09:43:51.000Z",
+    "rank_pc": 3872,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T09:43:55.000Z",
+    "rank_hs": 4368,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T09:43:58.000Z",
+    "created_at": "2025-04-23T14:00:02.000Z",
+    "updated_at": "2025-04-23T14:00:02.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T15:51:46.649Z"
+}
