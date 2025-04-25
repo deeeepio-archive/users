@@ -1,0 +1,118 @@
+{
+  "id": 799404,
+  "username": "Shaeffen",
+  "description": "All Atlantic TorPEDO players share a brain cell and should quit the game and step on every lego.",
+  "about": "#1 GrAnD_GuArDiAn fan",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-06T23:30:40.000Z",
+  "date_last_played": "2022-08-05T00:54:20.000Z",
+  "profile_views": 93,
+  "kill_count": 4989,
+  "play_count": 2029,
+  "highest_score": 4065143,
+  "picture": "799404.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 95,
+  "tier": 2,
+  "xp": 41550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3234,
+      "user_id": 799404,
+      "platform_id": "dc",
+      "platform_user_id": "Shaeffen#3890 ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-02T13:36:46.000Z",
+      "updated_at": "2022-07-02T13:36:46.000Z"
+    },
+    {
+      "id": 3235,
+      "user_id": 799404,
+      "platform_id": "tw",
+      "platform_user_id": "Shaeffen_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-02T13:37:14.000Z",
+      "updated_at": "2022-07-02T13:37:14.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 799404,
+    "rank_kc": 4410,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-05T00:43:07.000Z",
+    "rank_pc": 3824,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-05T00:43:07.000Z",
+    "rank_hs": 9314,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-05T00:43:08.000Z",
+    "created_at": "2022-10-23T13:56:41.000Z",
+    "updated_at": "2022-08-05T00:54:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5367,
+          "user_id": 799404,
+          "cloneof_id": null,
+          "string_id": "1v1_v1",
+          "title": "The Pit",
+          "description": "It's like 1v1 mode, but you can play with your friends.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 14,
+          "created_at": "2020-12-21T15:46:41.000Z",
+          "updated_at": "2020-12-21T15:46:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 799404,
+            "username": "Shaeffen",
+            "description": "All Atlantic TorPEDO players share a brain cell and should quit the game and step on every lego.",
+            "about": "#1 GrAnD_GuArDiAn fan",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-06T23:30:40.000Z",
+            "date_last_played": "2022-08-05T00:54:20.000Z",
+            "kill_count": 4989,
+            "play_count": 2029,
+            "highest_score": 4065143,
+            "picture": "799404.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 95,
+            "tier": 2,
+            "xp": 41550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:14:55.791Z"
+}
