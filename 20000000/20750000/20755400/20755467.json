@@ -1,0 +1,97 @@
+{
+  "id": 20755467,
+  "username": "7395763_810",
+  "description": "LOL not bad",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-01T01:22:54.000Z",
+  "date_last_played": "2024-06-06T07:00:52.000Z",
+  "profile_views": 5,
+  "kill_count": 6,
+  "play_count": 56,
+  "highest_score": 245260,
+  "picture": "20755467.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 510,
+  "tier": 1,
+  "xp": 1650,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20755467,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T16:38:31.864Z",
+    "updated_at": "2025-04-25T16:38:32.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9065,
+          "user_id": 20755467,
+          "cloneof_id": null,
+          "string_id": "sdafdsf",
+          "title": "Untitled",
+          "description": "dfdfdfd",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 4,
+          "created_at": "2022-01-20T06:06:38.000Z",
+          "updated_at": "2022-01-20T06:06:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20755467,
+            "username": "7395763_810",
+            "description": "LOL not bad",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-01T01:22:54.000Z",
+            "date_last_played": "2024-06-06T07:00:52.000Z",
+            "kill_count": 6,
+            "play_count": 56,
+            "highest_score": 245260,
+            "picture": "20755467.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 510,
+            "tier": 1,
+            "xp": 1650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "dffdff"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:38:31.921Z"
+}
