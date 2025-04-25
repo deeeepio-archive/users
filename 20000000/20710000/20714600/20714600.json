@@ -1,0 +1,61 @@
+{
+  "id": 20714600,
+  "username": "Mooncreato",
+  "description": "Bruh moment",
+  "about": "\"Something about yourself\"",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-10T04:04:10.000Z",
+  "date_last_played": "2023-05-10T07:10:21.000Z",
+  "profile_views": 654,
+  "kill_count": 1493,
+  "play_count": 365,
+  "highest_score": 4449642,
+  "picture": "20714600-7638c48462102bba8f292ba6f334eeea8.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 186,
+  "tier": 5,
+  "xp": 320550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15881,
+      "user_id": 20714600,
+      "platform_id": "ig",
+      "platform_user_id": "Lucid_.Wrld",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-06T08:31:35.000Z",
+      "updated_at": "2023-03-06T08:31:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20714600,
+    "rank_kc": 19692,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-10-25T23:17:36.000Z",
+    "rank_pc": 31234,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-25T23:17:37.000Z",
+    "rank_hs": 10078,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-25T23:17:37.000Z",
+    "created_at": "2023-12-22T13:26:46.000Z",
+    "updated_at": "2023-10-25T23:17:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:25:32.066Z"
+}
