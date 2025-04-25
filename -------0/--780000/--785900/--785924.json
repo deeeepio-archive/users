@@ -1,0 +1,506 @@
+{
+  "id": 785924,
+  "username": "Bylife",
+  "description": "Everyone Dies Someday",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-27T06:38:33.000Z",
+  "date_last_played": "2022-06-12T15:12:52.000Z",
+  "profile_views": 0,
+  "kill_count": 4616,
+  "play_count": 1619,
+  "highest_score": 2068918,
+  "picture": "785924.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 65,
+  "tier": 1,
+  "xp": 7200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 785924,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T06:39:11.967Z",
+    "updated_at": "2025-04-25T06:39:12.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5469,
+          "user_id": 785924,
+          "cloneof_id": null,
+          "string_id": "bylifestuff_1v1_rp",
+          "title": "Reef Place",
+          "description": "Reef place cuz idk what name is better",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 41,
+          "created_at": "2021-01-03T14:33:28.000Z",
+          "updated_at": "2021-01-03T14:33:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785924,
+            "username": "Bylife",
+            "description": "Everyone Dies Someday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-27T06:38:33.000Z",
+            "date_last_played": "2022-06-12T15:12:52.000Z",
+            "kill_count": 4616,
+            "play_count": 1619,
+            "highest_score": 2068918,
+            "picture": "785924.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 65,
+            "tier": 1,
+            "xp": 7200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Bylife"
+            }
+          ]
+        },
+        {
+          "id": 5038,
+          "user_id": 785924,
+          "cloneof_id": null,
+          "string_id": "bylife_stuff_ga_earlyaccess",
+          "title": "Giant Arctic",
+          "description": "Giant Arctic If Ya Like Arctic(Maybe Grenland Too)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 131,
+          "created_at": "2020-11-28T15:36:21.000Z",
+          "updated_at": "2021-01-18T12:52:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785924,
+            "username": "Bylife",
+            "description": "Everyone Dies Someday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-27T06:38:33.000Z",
+            "date_last_played": "2022-06-12T15:12:52.000Z",
+            "kill_count": 4616,
+            "play_count": 1619,
+            "highest_score": 2068918,
+            "picture": "785924.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 65,
+            "tier": 1,
+            "xp": 7200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Arctic"
+            },
+            {
+              "id": "Bylife"
+            },
+            {
+              "id": "Grenland"
+            }
+          ]
+        },
+        {
+          "id": 5036,
+          "user_id": 785924,
+          "cloneof_id": null,
+          "string_id": "bylife_stuff_wdd",
+          "title": "Way Deeeeper Down.",
+          "description": "Early access(Special Thanks To:Abdo,Hello.Kitty and Crewshie pie)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 292,
+          "created_at": "2020-11-28T11:53:53.000Z",
+          "updated_at": "2020-12-03T14:50:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785924,
+            "username": "Bylife",
+            "description": "Everyone Dies Someday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-27T06:38:33.000Z",
+            "date_last_played": "2022-06-12T15:12:52.000Z",
+            "kill_count": 4616,
+            "play_count": 1619,
+            "highest_score": 2068918,
+            "picture": "785924.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 65,
+            "tier": 1,
+            "xp": 7200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Bylife"
+            },
+            {
+              "id": "First Release"
+            },
+            {
+              "id": "Normal"
+            }
+          ]
+        },
+        {
+          "id": 5003,
+          "user_id": 785924,
+          "cloneof_id": null,
+          "string_id": "bylifeFFA",
+          "title": "Special map for teamers early access",
+          "description": "Great tffa with cool bases",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 59,
+          "created_at": "2020-11-26T11:45:52.000Z",
+          "updated_at": "2020-11-26T12:23:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785924,
+            "username": "Bylife",
+            "description": "Everyone Dies Someday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-27T06:38:33.000Z",
+            "date_last_played": "2022-06-12T15:12:52.000Z",
+            "kill_count": 4616,
+            "play_count": 1619,
+            "highest_score": 2068918,
+            "picture": "785924.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 65,
+            "tier": 1,
+            "xp": 7200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Base"
+            },
+            {
+              "id": "Bylife"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 5002,
+          "user_id": 785924,
+          "cloneof_id": 4730,
+          "string_id": "bylifeupdated",
+          "title": "Shipwreck",
+          "description": "Shipwreck Came back with Update!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 111,
+          "created_at": "2020-11-26T11:12:31.000Z",
+          "updated_at": "2020-11-26T11:12:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785924,
+            "username": "Bylife",
+            "description": "Everyone Dies Someday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-27T06:38:33.000Z",
+            "date_last_played": "2022-06-12T15:12:52.000Z",
+            "kill_count": 4616,
+            "play_count": 1619,
+            "highest_score": 2068918,
+            "picture": "785924.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 65,
+            "tier": 1,
+            "xp": 7200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 4751,
+          "user_id": 785924,
+          "cloneof_id": 4749,
+          "string_id": "bylife1v1d",
+          "title": "Ancient Arena",
+          "description": "Ahhh...Cool Waterfall.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 40,
+          "created_at": "2020-11-03T20:51:35.000Z",
+          "updated_at": "2020-11-04T08:35:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785924,
+            "username": "Bylife",
+            "description": "Everyone Dies Someday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-27T06:38:33.000Z",
+            "date_last_played": "2022-06-12T15:12:52.000Z",
+            "kill_count": 4616,
+            "play_count": 1619,
+            "highest_score": 2068918,
+            "picture": "785924.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 65,
+            "tier": 1,
+            "xp": 7200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Ancient"
+            },
+            {
+              "id": "Bylife"
+            }
+          ]
+        },
+        {
+          "id": 4750,
+          "user_id": 785924,
+          "cloneof_id": null,
+          "string_id": "bylife1v1c",
+          "title": "Computer Arena",
+          "description": "Beep Boop! F-u-t-u-r-i-s-t-i-c Ar-e-na",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 22,
+          "created_at": "2020-11-03T20:47:07.000Z",
+          "updated_at": "2020-11-04T08:37:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785924,
+            "username": "Bylife",
+            "description": "Everyone Dies Someday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-27T06:38:33.000Z",
+            "date_last_played": "2022-06-12T15:12:52.000Z",
+            "kill_count": 4616,
+            "play_count": 1619,
+            "highest_score": 2068918,
+            "picture": "785924.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 65,
+            "tier": 1,
+            "xp": 7200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Bylife"
+            },
+            {
+              "id": "Future"
+            }
+          ]
+        },
+        {
+          "id": 4745,
+          "user_id": 785924,
+          "cloneof_id": null,
+          "string_id": "bylife1v1a",
+          "title": "Deeeep Arena",
+          "description": "We Need To go Deeeeper",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 18,
+          "created_at": "2020-11-03T14:13:58.000Z",
+          "updated_at": "2020-11-03T14:16:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785924,
+            "username": "Bylife",
+            "description": "Everyone Dies Someday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-27T06:38:33.000Z",
+            "date_last_played": "2022-06-12T15:12:52.000Z",
+            "kill_count": 4616,
+            "play_count": 1619,
+            "highest_score": 2068918,
+            "picture": "785924.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 65,
+            "tier": 1,
+            "xp": 7200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Deeeep"
+            },
+            {
+              "id": "Deep"
+            }
+          ]
+        },
+        {
+          "id": 4726,
+          "user_id": 785924,
+          "cloneof_id": null,
+          "string_id": "bylife1v1",
+          "title": "Death Arena",
+          "description": "One Of My Coolest 1v1!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 27,
+          "created_at": "2020-11-01T14:02:30.000Z",
+          "updated_at": "2020-11-03T19:55:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785924,
+            "username": "Bylife",
+            "description": "Everyone Dies Someday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-27T06:38:33.000Z",
+            "date_last_played": "2022-06-12T15:12:52.000Z",
+            "kill_count": 4616,
+            "play_count": 1619,
+            "highest_score": 2068918,
+            "picture": "785924.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 65,
+            "tier": 1,
+            "xp": 7200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Bylife"
+            },
+            {
+              "id": "Cool"
+            }
+          ]
+        }
+      ],
+      "count": 9
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T06:39:12.019Z"
+}
