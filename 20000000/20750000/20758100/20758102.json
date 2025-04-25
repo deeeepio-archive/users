@@ -1,0 +1,109 @@
+{
+  "id": 20758102,
+  "username": "FantahIsCute",
+  "description": "egg rekt",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-12T06:32:10.000Z",
+  "date_last_played": "2021-09-25T05:11:25.000Z",
+  "profile_views": 0,
+  "kill_count": 13,
+  "play_count": 7,
+  "highest_score": 340987,
+  "picture": "20758102.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20758102,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T16:53:53.760Z",
+    "updated_at": "2025-04-25T16:53:54.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7819,
+          "user_id": 20758102,
+          "cloneof_id": null,
+          "string_id": "asleepxfred_ffa",
+          "title": "asleeped x fred free for all",
+          "description": "sex",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 685,
+          "created_at": "2021-09-12T06:55:46.000Z",
+          "updated_at": "2021-09-12T07:02:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20758102,
+            "username": "FantahIsCute",
+            "description": "egg rekt",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-12T06:32:10.000Z",
+            "date_last_played": "2021-09-25T05:11:25.000Z",
+            "kill_count": 13,
+            "play_count": 7,
+            "highest_score": 340987,
+            "picture": "20758102.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 8,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "pd"
+            },
+            {
+              "id": "sex"
+            },
+            {
+              "id": "tffa"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:53:53.856Z"
+}
