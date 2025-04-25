@@ -1,0 +1,143 @@
+{
+  "id": 20745665,
+  "username": "7442964_598",
+  "description": "What goes around comes around",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-07-21T19:16:24.000Z",
+  "date_last_played": "2021-10-15T22:13:40.000Z",
+  "profile_views": 0,
+  "kill_count": 315,
+  "play_count": 643,
+  "highest_score": 693299,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 16,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20745665,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T15:37:11.692Z",
+    "updated_at": "2025-04-25T15:37:12.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7483,
+          "user_id": 20745665,
+          "cloneof_id": null,
+          "string_id": "map_0002",
+          "title": "The Sea Hotel",
+          "description": "Hotel",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 173,
+          "created_at": "2021-08-02T23:18:43.000Z",
+          "updated_at": "2021-08-02T23:24:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20745665,
+            "username": "7442964_598",
+            "description": "What goes around comes around",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-21T19:16:24.000Z",
+            "date_last_played": "2021-10-15T22:13:40.000Z",
+            "kill_count": 315,
+            "play_count": 643,
+            "highest_score": 693299,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#0002"
+            }
+          ]
+        },
+        {
+          "id": 7414,
+          "user_id": 20745665,
+          "cloneof_id": null,
+          "string_id": "map_0001",
+          "title": "Map 0001",
+          "description": "#0001",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 274,
+          "created_at": "2021-07-22T17:06:32.000Z",
+          "updated_at": "2021-07-22T17:06:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20745665,
+            "username": "7442964_598",
+            "description": "What goes around comes around",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-21T19:16:24.000Z",
+            "date_last_played": "2021-10-15T22:13:40.000Z",
+            "kill_count": 315,
+            "play_count": 643,
+            "highest_score": 693299,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "first map"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T15:37:11.741Z"
+}
