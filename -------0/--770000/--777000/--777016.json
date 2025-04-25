@@ -1,0 +1,54 @@
+{
+  "id": 777016,
+  "username": "Viviana",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-27T03:38:25.000Z",
+  "date_last_played": "2025-04-16T00:03:59.000Z",
+  "profile_views": 11,
+  "kill_count": 1427,
+  "play_count": 767,
+  "highest_score": 1178436,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 129,
+  "tier": 2,
+  "xp": 46800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 777016,
+    "rank_kc": 18262,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-28T00:34:59.000Z",
+    "rank_pc": 14578,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-28T00:35:00.000Z",
+    "rank_hs": 77139,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-28T00:35:01.000Z",
+    "created_at": "2025-04-16T00:03:58.000Z",
+    "updated_at": "2025-04-16T00:03:59.000Z",
+    "pd": {
+      "played": 11,
+      "won": 6,
+      "ratio": 55
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T05:35:40.589Z"
+}
