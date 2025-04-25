@@ -1,0 +1,71 @@
+{
+  "id": 20775712,
+  "username": "existingfish",
+  "description": "the fish",
+  "about": "Played, then went inactive for like 5 months. Now inactive\n\nGames slowly losing its fun.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-03T23:30:16.000Z",
+  "date_last_played": "2023-11-11T05:35:47.000Z",
+  "profile_views": 40,
+  "kill_count": 1741,
+  "play_count": 540,
+  "highest_score": 3956288,
+  "picture": "20775712-4e5bff69e4dca4510ece1424201e0589a-cf874229-baed-4bc1-a1a3-232624d9c1ba.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 202,
+  "tier": 4,
+  "xp": 211350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8425,
+      "user_id": 20775712,
+      "platform_id": "dc",
+      "platform_user_id": "f.shy",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-23T03:06:49.000Z",
+      "updated_at": "2024-04-01T04:28:37.000Z"
+    },
+    {
+      "id": 8424,
+      "user_id": 20775712,
+      "platform_id": "rd",
+      "platform_user_id": "Existing-Fish-0-0",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-23T03:05:44.000Z",
+      "updated_at": "2022-10-23T03:05:44.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20775712,
+    "rank_kc": 16315,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-23T21:57:14.000Z",
+    "rank_pc": 21248,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-23T21:57:15.000Z",
+    "rank_hs": 11986,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-23T21:57:15.000Z",
+    "created_at": "2023-11-11T05:35:47.000Z",
+    "updated_at": "2023-11-11T05:35:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T18:51:23.746Z"
+}
