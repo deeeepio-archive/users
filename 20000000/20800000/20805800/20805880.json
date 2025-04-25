@@ -1,0 +1,146 @@
+{
+  "id": 20805880,
+  "username": "pikminboi7",
+  "description": "i was #1 once \ni know funny story tho\ni was #1 as axolotl on ffa\ni reached 1.3 million score until a player named snek ate me\ni did this all for my late golden albino axolotl thor",
+  "about": "am fren :) \ni don't attack unless threatened provoked or attacked\nI like playing creb\ni also MAY or MAY NOT have started a mafia on more than one ocasion",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-08T17:38:32.000Z",
+  "date_last_played": "2024-09-20T11:59:32.000Z",
+  "profile_views": 68,
+  "kill_count": 1365,
+  "play_count": 1165,
+  "highest_score": 2191397,
+  "picture": "20805880-fce8710defa6634b0bb6621bd0db9d426.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 139,
+  "tier": 5,
+  "xp": 322050,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20805880,
+    "rank_kc": 21217,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-25T11:50:18.000Z",
+    "rank_pc": 10844,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-25T11:50:19.000Z",
+    "rank_hs": 32369,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-25T11:50:20.000Z",
+    "created_at": "2024-09-20T11:59:32.000Z",
+    "updated_at": "2024-09-20T11:59:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11131,
+          "user_id": 20805880,
+          "cloneof_id": null,
+          "string_id": "e_e_3",
+          "title": "crab",
+          "description": "crab",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 17,
+          "created_at": "2022-10-19T14:16:12.000Z",
+          "updated_at": "2022-10-19T14:16:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20805880,
+            "username": "pikminboi7",
+            "description": "i was #1 once \ni know funny story tho\ni was #1 as axolotl on ffa\ni reached 1.3 million score until a player named snek ate me\ni did this all for my late golden albino axolotl thor",
+            "about": "am fren :) \ni don't attack unless threatened provoked or attacked\nI like playing creb\ni also MAY or MAY NOT have started a mafia on more than one ocasion",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-08T17:38:32.000Z",
+            "date_last_played": "2024-09-20T11:59:32.000Z",
+            "kill_count": 1365,
+            "play_count": 1165,
+            "highest_score": 2191397,
+            "picture": "20805880-fce8710defa6634b0bb6621bd0db9d426.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 139,
+            "tier": 5,
+            "xp": 322050,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "crab"
+            }
+          ]
+        },
+        {
+          "id": 11109,
+          "user_id": 20805880,
+          "cloneof_id": null,
+          "string_id": "map_e",
+          "title": "ocean of E",
+          "description": "what i think the map should be like",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 457,
+          "created_at": "2022-10-14T13:45:15.000Z",
+          "updated_at": "2023-05-04T12:27:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20805880,
+            "username": "pikminboi7",
+            "description": "i was #1 once \ni know funny story tho\ni was #1 as axolotl on ffa\ni reached 1.3 million score until a player named snek ate me\ni did this all for my late golden albino axolotl thor",
+            "about": "am fren :) \ni don't attack unless threatened provoked or attacked\nI like playing creb\ni also MAY or MAY NOT have started a mafia on more than one ocasion",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-08T17:38:32.000Z",
+            "date_last_played": "2024-09-20T11:59:32.000Z",
+            "kill_count": 1365,
+            "play_count": 1165,
+            "highest_score": 2191397,
+            "picture": "20805880-fce8710defa6634b0bb6621bd0db9d426.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 139,
+            "tier": 5,
+            "xp": 322050,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Fun"
+            },
+            {
+              "id": "realistic"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:59:32.193Z"
+}
