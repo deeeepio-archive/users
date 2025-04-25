@@ -1,0 +1,234 @@
+{
+  "id": 20734295,
+  "username": "GGogy",
+  "description": "1년차 뉴비 입니다\n저한테 먹히다니\n정말\n감사합니다",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-06-04T11:39:43.000Z",
+  "date_last_played": "2024-03-22T14:02:26.000Z",
+  "profile_views": 10,
+  "kill_count": 353,
+  "play_count": 413,
+  "highest_score": 1296469,
+  "picture": "20734295-3e910afe1811410fd9e4ad1380633eda8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 262,
+  "tier": 1,
+  "xp": 20400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20734295,
+    "rank_kc": 64488,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-27T02:24:40.000Z",
+    "rank_pc": 28282,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-27T02:24:42.000Z",
+    "rank_hs": 133363,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-27T02:24:44.000Z",
+    "created_at": "2024-03-22T14:02:25.000Z",
+    "updated_at": "2024-03-22T14:02:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10459,
+          "user_id": 20734295,
+          "cloneof_id": null,
+          "string_id": "upsidedown",
+          "title": "Up'n Down",
+          "description": "Reversed.that's all",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 4,
+          "created_at": "2022-07-28T02:02:07.000Z",
+          "updated_at": "2022-07-28T02:02:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20734295,
+            "username": "GGogy",
+            "description": "1년차 뉴비 입니다\n저한테 먹히다니\n정말\n감사합니다",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-06-04T11:39:43.000Z",
+            "date_last_played": "2024-03-22T14:02:26.000Z",
+            "kill_count": 353,
+            "play_count": 413,
+            "highest_score": 1296469,
+            "picture": "20734295-3e910afe1811410fd9e4ad1380633eda8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 262,
+            "tier": 1,
+            "xp": 20400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Test"
+            },
+            {
+              "id": "undone"
+            },
+            {
+              "id": "Upside Down"
+            }
+          ]
+        },
+        {
+          "id": 10455,
+          "user_id": 20734295,
+          "cloneof_id": null,
+          "string_id": "part_earth",
+          "title": "S.L.O.D.",
+          "description": "Sky-Land-Ocean-Deep",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 94,
+          "created_at": "2022-07-27T07:18:36.000Z",
+          "updated_at": "2022-12-31T02:59:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20734295,
+            "username": "GGogy",
+            "description": "1년차 뉴비 입니다\n저한테 먹히다니\n정말\n감사합니다",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-06-04T11:39:43.000Z",
+            "date_last_played": "2024-03-22T14:02:26.000Z",
+            "kill_count": 353,
+            "play_count": 413,
+            "highest_score": 1296469,
+            "picture": "20734295-3e910afe1811410fd9e4ad1380633eda8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 262,
+            "tier": 1,
+            "xp": 20400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "4parts"
+            },
+            {
+              "id": "BIG"
+            },
+            {
+              "id": "comming soon"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "land"
+            },
+            {
+              "id": "not finished"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "pole"
+            },
+            {
+              "id": "sky"
+            },
+            {
+              "id": "Third"
+            },
+            {
+              "id": "traps"
+            }
+          ]
+        },
+        {
+          "id": 7444,
+          "user_id": 20734295,
+          "cloneof_id": null,
+          "string_id": "strange_maps",
+          "title": "Good Luck!",
+          "description": "good place=heven&bad place<HELL",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 242,
+          "created_at": "2021-07-28T09:06:12.000Z",
+          "updated_at": "2021-09-01T01:18:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20734295,
+            "username": "GGogy",
+            "description": "1년차 뉴비 입니다\n저한테 먹히다니\n정말\n감사합니다",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-06-04T11:39:43.000Z",
+            "date_last_played": "2024-03-22T14:02:26.000Z",
+            "kill_count": 353,
+            "play_count": 413,
+            "highest_score": 1296469,
+            "picture": "20734295-3e910afe1811410fd9e4ad1380633eda8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 262,
+            "tier": 1,
+            "xp": 20400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "don't_go_left"
+            },
+            {
+              "id": "go_to_right"
+            },
+            {
+              "id": "Small_Maze"
+            },
+            {
+              "id": "watch_out"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T14:28:20.064Z"
+}
