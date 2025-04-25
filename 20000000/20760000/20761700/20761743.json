@@ -1,0 +1,61 @@
+{
+  "id": 20761743,
+  "username": "layzhao huangm_497",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-25T16:05:31.000Z",
+  "date_last_played": "2023-06-24T15:49:44.000Z",
+  "profile_views": 10,
+  "kill_count": 4,
+  "play_count": 68,
+  "highest_score": 393125,
+  "picture": "20761743-be9cd6103989885770c65b4c238fb2f4.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 7,
+  "tier": 1,
+  "xp": 1350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1376,
+      "user_id": 20761743,
+      "platform_id": "dc",
+      "platform_user_id": "0._.0",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-02T16:05:05.000Z",
+      "updated_at": "2022-06-02T16:05:05.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20761743,
+    "rank_kc": 294298,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-02T16:05:20.000Z",
+    "rank_pc": 97641,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-02T16:05:21.000Z",
+    "rank_hs": 135457,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-02T14:53:09.000Z",
+    "created_at": "2023-11-28T21:27:01.000Z",
+    "updated_at": "2023-06-24T15:49:44.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:20:22.349Z"
+}
