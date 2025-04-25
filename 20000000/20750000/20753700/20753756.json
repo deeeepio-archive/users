@@ -1,0 +1,100 @@
+{
+  "id": 20753756,
+  "username": "BobLikesPeoples",
+  "description": "How you died?\nMy skill is bad and my ping is high",
+  "about": "If you don`t know who is bob, bob is character from Slap Battles in Roblox",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-08-25T18:02:40.000Z",
+  "date_last_played": "2023-07-25T08:17:25.000Z",
+  "profile_views": 23,
+  "kill_count": 1081,
+  "play_count": 743,
+  "highest_score": 1185446,
+  "picture": "20753756-8c14d00a6b51982810727581f9d9e2e7f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 58,
+  "tier": 3,
+  "xp": 102900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20753756,
+    "rank_kc": 20897,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-30T09:38:51.000Z",
+    "rank_pc": 13537,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-30T09:38:52.000Z",
+    "rank_hs": 62061,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-08-30T09:38:52.000Z",
+    "created_at": "2023-07-25T08:17:24.000Z",
+    "updated_at": "2023-07-25T08:17:25.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10794,
+          "user_id": 20753756,
+          "cloneof_id": null,
+          "string_id": "deeeepio_space",
+          "title": "Solar System",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 116,
+          "created_at": "2022-08-30T19:04:39.000Z",
+          "updated_at": "2022-08-30T19:12:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20753756,
+            "username": "BobLikesPeoples",
+            "description": "How you died?\nMy skill is bad and my ping is high",
+            "about": "If you don`t know who is bob, bob is character from Slap Battles in Roblox",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-08-25T18:02:40.000Z",
+            "date_last_played": "2023-07-25T08:17:25.000Z",
+            "kill_count": 1081,
+            "play_count": 743,
+            "highest_score": 1185446,
+            "picture": "20753756-8c14d00a6b51982810727581f9d9e2e7f.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 58,
+            "tier": 3,
+            "xp": 102900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "planets"
+            },
+            {
+              "id": "space"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:28:10.591Z"
+}
