@@ -1,0 +1,97 @@
+{
+  "id": 20797737,
+  "username": "LaggyBoi",
+  "description": "New High Score: 956K as Alligator Gar.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-02-05T19:18:50.000Z",
+  "date_last_played": "2022-03-17T21:53:28.000Z",
+  "profile_views": 0,
+  "kill_count": 1056,
+  "play_count": 812,
+  "highest_score": 965125,
+  "picture": "20797737.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 77,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20797737,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T21:10:12.726Z",
+    "updated_at": "2025-04-25T21:10:13.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9214,
+          "user_id": 20797737,
+          "cloneof_id": null,
+          "string_id": "beep_io",
+          "title": "DeEeEp.Io",
+          "description": "thing im making",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 15,
+          "created_at": "2022-02-06T18:15:20.000Z",
+          "updated_at": "2022-02-06T18:15:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20797737,
+            "username": "LaggyBoi",
+            "description": "New High Score: 956K as Alligator Gar.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-02-05T19:18:50.000Z",
+            "date_last_played": "2022-03-17T21:53:28.000Z",
+            "kill_count": 1056,
+            "play_count": 812,
+            "highest_score": 965125,
+            "picture": "20797737.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 77,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "unfinished"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:10:12.781Z"
+}
