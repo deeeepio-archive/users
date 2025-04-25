@@ -1,0 +1,65 @@
+{
+  "id": 20755645,
+  "username": "Emilcamps",
+  "description": "hola quieres ser mi amigo  \n\nHello, do you want to be my friend",
+  "about": "busco amigos ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-01T15:59:35.000Z",
+  "date_last_played": "2025-03-30T22:38:09.000Z",
+  "profile_views": 21,
+  "kill_count": 122,
+  "play_count": 357,
+  "highest_score": 830265,
+  "picture": "20755645-79106b6c8b384ea5fdd71249402bef11a.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 42,
+  "tier": 2,
+  "xp": 44850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3997,
+      "user_id": 20755645,
+      "platform_id": "fb",
+      "platform_user_id": "Emil camp",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=100080080820150",
+      "verified": false,
+      "created_at": "2022-07-22T01:46:24.000Z",
+      "updated_at": "2022-07-22T01:46:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20755645,
+    "rank_kc": 100181,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T13:22:24.000Z",
+    "rank_pc": 33451,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T13:57:50.000Z",
+    "rank_hs": 110555,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T15:17:06.000Z",
+    "created_at": "2025-03-30T22:38:09.000Z",
+    "updated_at": "2025-03-30T22:38:09.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:39:09.501Z"
+}

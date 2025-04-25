@@ -1,0 +1,71 @@
+{
+  "id": 20755603,
+  "username": "JaradHiggings",
+  "description": "02/12/1998 -13/12/2019",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-01T14:11:45.000Z",
+  "date_last_played": "2024-08-08T15:52:38.000Z",
+  "profile_views": 2155,
+  "kill_count": 43114,
+  "play_count": 13067,
+  "highest_score": 11100440,
+  "picture": "20755603-776b4850858ed5c31e780f94a4d658e3.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 27231,
+  "tier": 10,
+  "xp": 6068550,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12659,
+      "user_id": 20755603,
+      "platform_id": "dc",
+      "platform_user_id": "Keeqo#1656",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-06T21:13:37.000Z",
+      "updated_at": "2023-01-06T21:13:37.000Z"
+    },
+    {
+      "id": 19428,
+      "user_id": 20755603,
+      "platform_id": "yt",
+      "platform_user_id": "Juice WRLD",
+      "platform_user_url": "https://www.youtube.com/channel/UC0BletW9phE4xHFM44q4qKA",
+      "verified": false,
+      "created_at": "2023-05-17T13:22:13.000Z",
+      "updated_at": "2023-05-17T13:22:13.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20755603,
+    "rank_kc": 126,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T07:06:04.000Z",
+    "rank_pc": 73,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T07:06:05.000Z",
+    "rank_hs": 2283,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T07:06:05.000Z",
+    "created_at": "2024-08-08T15:52:38.000Z",
+    "updated_at": "2024-08-08T15:52:38.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:39:04.031Z"
+}
