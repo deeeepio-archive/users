@@ -1,0 +1,471 @@
+{
+  "id": 20699462,
+  "username": "im_not_tasty",
+  "description": "xd get rekt by a retired player kid xd\n",
+  "about": "an og player\nthe one and only im not tasty\n7.4m penguin\n6.9 gs\n60m orca pd\nRetired founder of the BoaDestructor Yt channel",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-02T01:19:18.000Z",
+  "date_last_played": "2025-01-24T22:28:29.000Z",
+  "profile_views": 294,
+  "kill_count": 12302,
+  "play_count": 4423,
+  "highest_score": 6920476,
+  "picture": "20699462-523e109dbe0e9ea3fd0f1c297bcc4c904-f68d6bdc-c7d3-41e3-88d8-2fdb1bc5e3e7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 375,
+  "tier": 4,
+  "xp": 238500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 111,
+      "user_id": 20699462,
+      "platform_id": "yt",
+      "platform_user_id": "Boa Destructor",
+      "platform_user_url": "https://www.youtube.com/c/BoaDestructorYT_",
+      "verified": false,
+      "created_at": "2022-05-17T20:58:30.000Z",
+      "updated_at": "2022-05-17T20:58:30.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20699462,
+    "rank_kc": 1483,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-21T22:51:21.000Z",
+    "rank_pc": 1290,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-21T22:51:22.000Z",
+    "rank_hs": 4131,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-21T22:51:23.000Z",
+    "created_at": "2025-01-24T22:28:29.000Z",
+    "updated_at": "2025-01-24T22:28:29.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9531,
+          "user_id": 20699462,
+          "cloneof_id": null,
+          "string_id": "hidden_cove",
+          "title": "Hidden Cove 1v1",
+          "description": "A Cove 1v1 map!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 16,
+          "created_at": "2022-03-24T23:54:26.000Z",
+          "updated_at": "2022-03-24T23:54:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20699462,
+            "username": "im_not_tasty",
+            "description": "xd get rekt by a retired player kid xd\n",
+            "about": "an og player\nthe one and only im not tasty\n7.4m penguin\n6.9 gs\n60m orca pd\nRetired founder of the BoaDestructor Yt channel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-02T01:19:18.000Z",
+            "date_last_played": "2025-01-24T22:28:29.000Z",
+            "kill_count": 12302,
+            "play_count": 4423,
+            "highest_score": 6920476,
+            "picture": "20699462-523e109dbe0e9ea3fd0f1c297bcc4c904-f68d6bdc-c7d3-41e3-88d8-2fdb1bc5e3e7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 375,
+            "tier": 4,
+            "xp": 238500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        },
+        {
+          "id": 9483,
+          "user_id": 20699462,
+          "cloneof_id": null,
+          "string_id": "ocean_1v1_2_0",
+          "title": "The Calm Before The Storm",
+          "description": "A ocean 1v1 map that looks better and is the right size",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 16,
+          "created_at": "2022-03-15T23:44:31.000Z",
+          "updated_at": "2022-04-02T02:11:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20699462,
+            "username": "im_not_tasty",
+            "description": "xd get rekt by a retired player kid xd\n",
+            "about": "an og player\nthe one and only im not tasty\n7.4m penguin\n6.9 gs\n60m orca pd\nRetired founder of the BoaDestructor Yt channel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-02T01:19:18.000Z",
+            "date_last_played": "2025-01-24T22:28:29.000Z",
+            "kill_count": 12302,
+            "play_count": 4423,
+            "highest_score": 6920476,
+            "picture": "20699462-523e109dbe0e9ea3fd0f1c297bcc4c904-f68d6bdc-c7d3-41e3-88d8-2fdb1bc5e3e7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 375,
+            "tier": 4,
+            "xp": 238500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "i'm not tasty"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "real"
+            }
+          ]
+        },
+        {
+          "id": 9480,
+          "user_id": 20699462,
+          "cloneof_id": 1898,
+          "string_id": "birdee__",
+          "title": "MAP",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1672,
+          "created_at": "2022-03-15T20:25:56.000Z",
+          "updated_at": "2022-03-15T20:25:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20699462,
+            "username": "im_not_tasty",
+            "description": "xd get rekt by a retired player kid xd\n",
+            "about": "an og player\nthe one and only im not tasty\n7.4m penguin\n6.9 gs\n60m orca pd\nRetired founder of the BoaDestructor Yt channel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-02T01:19:18.000Z",
+            "date_last_played": "2025-01-24T22:28:29.000Z",
+            "kill_count": 12302,
+            "play_count": 4423,
+            "highest_score": 6920476,
+            "picture": "20699462-523e109dbe0e9ea3fd0f1c297bcc4c904-f68d6bdc-c7d3-41e3-88d8-2fdb1bc5e3e7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 375,
+            "tier": 4,
+            "xp": 238500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 9471,
+          "user_id": 20699462,
+          "cloneof_id": null,
+          "string_id": "deeeep_1v1_v2",
+          "title": "Deeeep 1v1 map",
+          "description": "another deep 1v1 map that has is the right size.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 25,
+          "created_at": "2022-03-14T22:57:07.000Z",
+          "updated_at": "2022-03-16T00:37:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20699462,
+            "username": "im_not_tasty",
+            "description": "xd get rekt by a retired player kid xd\n",
+            "about": "an og player\nthe one and only im not tasty\n7.4m penguin\n6.9 gs\n60m orca pd\nRetired founder of the BoaDestructor Yt channel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-02T01:19:18.000Z",
+            "date_last_played": "2025-01-24T22:28:29.000Z",
+            "kill_count": 12302,
+            "play_count": 4423,
+            "highest_score": 6920476,
+            "picture": "20699462-523e109dbe0e9ea3fd0f1c297bcc4c904-f68d6bdc-c7d3-41e3-88d8-2fdb1bc5e3e7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 375,
+            "tier": 4,
+            "xp": 238500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "i'm not tasty"
+            }
+          ]
+        },
+        {
+          "id": 9294,
+          "user_id": 20699462,
+          "cloneof_id": null,
+          "string_id": "ta_v1",
+          "title": "TA no.1",
+          "description": "my first attempt at a TA map.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 12,
+          "created_at": "2022-02-17T05:58:57.000Z",
+          "updated_at": "2022-02-21T22:00:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20699462,
+            "username": "im_not_tasty",
+            "description": "xd get rekt by a retired player kid xd\n",
+            "about": "an og player\nthe one and only im not tasty\n7.4m penguin\n6.9 gs\n60m orca pd\nRetired founder of the BoaDestructor Yt channel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-02T01:19:18.000Z",
+            "date_last_played": "2025-01-24T22:28:29.000Z",
+            "kill_count": 12302,
+            "play_count": 4423,
+            "highest_score": 6920476,
+            "picture": "20699462-523e109dbe0e9ea3fd0f1c297bcc4c904-f68d6bdc-c7d3-41e3-88d8-2fdb1bc5e3e7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 375,
+            "tier": 4,
+            "xp": 238500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "realistic"
+            },
+            {
+              "id": "TA"
+            },
+            {
+              "id": "Toxic Algae "
+            },
+            {
+              "id": "workinprogress"
+            }
+          ]
+        },
+        {
+          "id": 8753,
+          "user_id": 20699462,
+          "cloneof_id": null,
+          "string_id": "swamp_1v1_1v1",
+          "title": "swamp 1v1 map",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 19,
+          "created_at": "2021-12-13T18:54:44.000Z",
+          "updated_at": "2022-02-25T03:46:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20699462,
+            "username": "im_not_tasty",
+            "description": "xd get rekt by a retired player kid xd\n",
+            "about": "an og player\nthe one and only im not tasty\n7.4m penguin\n6.9 gs\n60m orca pd\nRetired founder of the BoaDestructor Yt channel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-02T01:19:18.000Z",
+            "date_last_played": "2025-01-24T22:28:29.000Z",
+            "kill_count": 12302,
+            "play_count": 4423,
+            "highest_score": 6920476,
+            "picture": "20699462-523e109dbe0e9ea3fd0f1c297bcc4c904-f68d6bdc-c7d3-41e3-88d8-2fdb1bc5e3e7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 375,
+            "tier": 4,
+            "xp": 238500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "realistic"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 8733,
+          "user_id": 20699462,
+          "cloneof_id": null,
+          "string_id": "deeeep_1v1",
+          "title": "i'm not tasty's deeeep.1v1 map",
+          "description": "Please like:)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 33,
+          "created_at": "2021-12-11T01:09:14.000Z",
+          "updated_at": "2022-02-17T01:53:40.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20699462,
+            "username": "im_not_tasty",
+            "description": "xd get rekt by a retired player kid xd\n",
+            "about": "an og player\nthe one and only im not tasty\n7.4m penguin\n6.9 gs\n60m orca pd\nRetired founder of the BoaDestructor Yt channel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-02T01:19:18.000Z",
+            "date_last_played": "2025-01-24T22:28:29.000Z",
+            "kill_count": 12302,
+            "play_count": 4423,
+            "highest_score": 6920476,
+            "picture": "20699462-523e109dbe0e9ea3fd0f1c297bcc4c904-f68d6bdc-c7d3-41e3-88d8-2fdb1bc5e3e7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 375,
+            "tier": 4,
+            "xp": 238500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "realistic"
+            }
+          ]
+        },
+        {
+          "id": 8725,
+          "user_id": 20699462,
+          "cloneof_id": null,
+          "string_id": "1v1_v1byim_not_tasty",
+          "title": "1v1 map for ppl",
+          "description": "Please like:)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 23,
+          "created_at": "2021-12-09T20:41:48.000Z",
+          "updated_at": "2022-03-15T23:35:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20699462,
+            "username": "im_not_tasty",
+            "description": "xd get rekt by a retired player kid xd\n",
+            "about": "an og player\nthe one and only im not tasty\n7.4m penguin\n6.9 gs\n60m orca pd\nRetired founder of the BoaDestructor Yt channel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-02T01:19:18.000Z",
+            "date_last_played": "2025-01-24T22:28:29.000Z",
+            "kill_count": 12302,
+            "play_count": 4423,
+            "highest_score": 6920476,
+            "picture": "20699462-523e109dbe0e9ea3fd0f1c297bcc4c904-f68d6bdc-c7d3-41e3-88d8-2fdb1bc5e3e7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 375,
+            "tier": 4,
+            "xp": 238500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "realistic"
+            },
+            {
+              "id": "reef"
+            }
+          ]
+        }
+      ],
+      "count": 8
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T10:53:53.130Z"
+}

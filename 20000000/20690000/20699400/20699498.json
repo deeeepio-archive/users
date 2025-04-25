@@ -1,0 +1,61 @@
+{
+  "id": 20699498,
+  "username": "ko_",
+  "description": "",
+  "about": "A no skill player",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-02T05:17:01.000Z",
+  "date_last_played": "2025-04-14T01:59:27.000Z",
+  "profile_views": 582,
+  "kill_count": 6711,
+  "play_count": 5136,
+  "highest_score": 3999902,
+  "picture": "20699498-777164c2d1b8a3b701b17cbc4376b107a.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 504,
+  "tier": 4,
+  "xp": 237300,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3691,
+      "user_id": 20699498,
+      "platform_id": "dc",
+      "platform_user_id": "ko#7052",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-13T12:55:49.000Z",
+      "updated_at": "2022-07-13T12:55:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20699498,
+    "rank_kc": 3234,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-28T10:43:27.000Z",
+    "rank_pc": 767,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-28T10:43:27.000Z",
+    "rank_hs": 15556,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-28T08:55:44.000Z",
+    "created_at": "2025-04-14T04:00:02.000Z",
+    "updated_at": "2025-04-14T04:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T10:54:02.590Z"
+}
