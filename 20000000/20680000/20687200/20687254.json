@@ -1,0 +1,97 @@
+{
+  "id": 20687254,
+  "username": "jkgotyouboy",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-30T21:48:30.000Z",
+  "date_last_played": "2021-01-30T21:48:30.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20687254,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T09:39:01.457Z",
+    "updated_at": "2025-04-25T09:39:01.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5763,
+          "user_id": 20687254,
+          "cloneof_id": null,
+          "string_id": "155_77",
+          "title": "ocean",
+          "description": "your in the ocean secret room",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 24,
+          "created_at": "2021-01-30T21:51:00.000Z",
+          "updated_at": "2021-01-30T21:51:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20687254,
+            "username": "jkgotyouboy",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-30T21:48:30.000Z",
+            "date_last_played": "2021-01-30T21:48:30.000Z",
+            "kill_count": 0,
+            "play_count": 0,
+            "highest_score": 0,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#secret"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:39:01.541Z"
+}
