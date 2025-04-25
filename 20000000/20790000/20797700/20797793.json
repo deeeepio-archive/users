@@ -1,0 +1,97 @@
+{
+  "id": 20797793,
+  "username": "병신상어",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-02-06T00:12:48.000Z",
+  "date_last_played": "2024-09-22T07:20:06.000Z",
+  "profile_views": 451,
+  "kill_count": 6607,
+  "play_count": 4229,
+  "highest_score": 4185042,
+  "picture": "20797793-49121f3b64682efd5dd2e427d1668fc3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 190,
+  "tier": 9,
+  "xp": 1080150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20797793,
+    "rank_kc": 4572,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-17T00:53:14.000Z",
+    "rank_pc": 1895,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-17T00:53:17.000Z",
+    "rank_hs": 12103,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-17T00:53:19.000Z",
+    "created_at": "2024-09-22T07:20:06.000Z",
+    "updated_at": "2024-09-22T07:20:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9563,
+          "user_id": 20797793,
+          "cloneof_id": null,
+          "string_id": "woojiwon",
+          "title": "Untitled",
+          "description": "우지원",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2022-03-30T10:42:58.000Z",
+          "updated_at": "2022-03-30T10:42:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20797793,
+            "username": "병신상어",
+            "description": "",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-02-06T00:12:48.000Z",
+            "date_last_played": "2024-09-22T07:20:06.000Z",
+            "kill_count": 6607,
+            "play_count": 4229,
+            "highest_score": 4185042,
+            "picture": "20797793-49121f3b64682efd5dd2e427d1668fc3.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 190,
+            "tier": 9,
+            "xp": 1080150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "dhjsajsk"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:10:35.929Z"
+}
