@@ -1,0 +1,61 @@
+{
+  "id": 20800366,
+  "username": "Cyberhand",
+  "description": "doing my best",
+  "about": "kinfe",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-02-15T03:05:39.000Z",
+  "date_last_played": "2022-06-01T09:29:17.000Z",
+  "profile_views": 11,
+  "kill_count": 4,
+  "play_count": 20,
+  "highest_score": 115920,
+  "picture": "20800366.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6,
+  "tier": 1,
+  "xp": 900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1204,
+      "user_id": 20800366,
+      "platform_id": "dc",
+      "platform_user_id": "xyryll#1937",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-31T09:18:49.000Z",
+      "updated_at": "2022-05-31T09:18:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20800366,
+    "rank_kc": 294019,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-01T08:47:28.000Z",
+    "rank_pc": 121763,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-01T08:47:28.000Z",
+    "rank_hs": 302295,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-01T08:47:29.000Z",
+    "created_at": "2022-06-01T09:29:17.000Z",
+    "updated_at": "2022-06-01T09:29:17.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:26:58.585Z"
+}
