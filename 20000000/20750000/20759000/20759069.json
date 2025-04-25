@@ -1,0 +1,97 @@
+{
+  "id": 20759069,
+  "username": "9924260_982",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-15T18:20:23.000Z",
+  "date_last_played": "2024-12-05T17:23:31.000Z",
+  "profile_views": 4,
+  "kill_count": 4,
+  "play_count": 120,
+  "highest_score": 42880,
+  "picture": "20759069-2cad110a229a4ff53d557fcd8c61fd126.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 150,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20759069,
+    "rank_kc": 330933,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2024-01-21T13:23:58.000Z",
+    "rank_pc": 69919,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T14:01:05.000Z",
+    "rank_hs": 429815,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T15:20:27.000Z",
+    "created_at": "2024-12-05T17:23:30.000Z",
+    "updated_at": "2024-12-05T17:23:31.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8217,
+          "user_id": 20759069,
+          "cloneof_id": null,
+          "string_id": "9924260_982",
+          "title": "Untitled",
+          "description": "paychek",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-10-16T03:14:14.000Z",
+          "updated_at": "2021-10-16T03:14:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20759069,
+            "username": "9924260_982",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-15T18:20:23.000Z",
+            "date_last_played": "2024-12-05T17:23:31.000Z",
+            "kill_count": 4,
+            "play_count": 120,
+            "highest_score": 42880,
+            "picture": "20759069-2cad110a229a4ff53d557fcd8c61fd126.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 1,
+            "xp": 150,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "v"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:02:18.177Z"
+}
