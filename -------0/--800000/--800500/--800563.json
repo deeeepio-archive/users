@@ -1,0 +1,97 @@
+{
+  "id": 800563,
+  "username": "6791444_720",
+  "description": "this is a fun game if I kill you your a noob if y'all kill me your not a noob",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-09T19:21:26.000Z",
+  "date_last_played": "2022-02-23T21:15:53.000Z",
+  "profile_views": 0,
+  "kill_count": 29,
+  "play_count": 184,
+  "highest_score": 180443,
+  "picture": "800563.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 524,
+  "tier": 1,
+  "xp": 300,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 800563,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T08:22:19.183Z",
+    "updated_at": "2025-04-25T08:22:19.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5300,
+          "user_id": 800563,
+          "cloneof_id": null,
+          "string_id": "xhojkl37",
+          "title": "Untitled",
+          "description": "ss",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-12-16T17:07:43.000Z",
+          "updated_at": "2020-12-16T17:07:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 800563,
+            "username": "6791444_720",
+            "description": "this is a fun game if I kill you your a noob if y'all kill me your not a noob",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-09T19:21:26.000Z",
+            "date_last_played": "2022-02-23T21:15:53.000Z",
+            "kill_count": 29,
+            "play_count": 184,
+            "highest_score": 180443,
+            "picture": "800563.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 524,
+            "tier": 1,
+            "xp": 300,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "dd"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:22:19.234Z"
+}
