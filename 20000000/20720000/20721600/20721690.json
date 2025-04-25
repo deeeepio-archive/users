@@ -1,0 +1,149 @@
+{
+  "id": 20721690,
+  "username": "2491439_407",
+  "description": "i win you",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-28T19:11:15.000Z",
+  "date_last_played": "2021-05-29T13:25:58.000Z",
+  "profile_views": 0,
+  "kill_count": 4,
+  "play_count": 32,
+  "highest_score": 53690,
+  "picture": "20721690.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20721690,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-01-22T15:08:46.000Z",
+    "updated_at": "2024-01-22T15:08:46.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6672,
+          "user_id": 20721690,
+          "cloneof_id": null,
+          "string_id": "es_un_mundo_de_locos",
+          "title": "un mundo de locos",
+          "description": "este es un mundo heco por mi donde todo es pelgroso y hay animales por doquier",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 21,
+          "created_at": "2021-04-29T19:24:46.000Z",
+          "updated_at": "2021-04-29T19:24:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20721690,
+            "username": "2491439_407",
+            "description": "i win you",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-28T19:11:15.000Z",
+            "date_last_played": "2021-05-29T13:25:58.000Z",
+            "kill_count": 4,
+            "play_count": 32,
+            "highest_score": 53690,
+            "picture": "20721690.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "crazy"
+            },
+            {
+              "id": "funny"
+            },
+            {
+              "id": "hard"
+            }
+          ]
+        },
+        {
+          "id": 6668,
+          "user_id": 20721690,
+          "cloneof_id": null,
+          "string_id": "nkwjsokwlkswwlwkslwksw",
+          "title": "MARioneitor",
+          "description": "ni idea rjdjldksdklññdkñ klddkdlfklfk kdlkdcldkcl ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1,
+          "created_at": "2021-04-29T18:54:32.000Z",
+          "updated_at": "2021-04-29T18:54:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20721690,
+            "username": "2491439_407",
+            "description": "i win you",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-28T19:11:15.000Z",
+            "date_last_played": "2021-05-29T13:25:58.000Z",
+            "kill_count": 4,
+            "play_count": 32,
+            "highest_score": 53690,
+            "picture": "20721690.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ni idea"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T13:08:45.465Z"
+}
