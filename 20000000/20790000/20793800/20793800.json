@@ -1,0 +1,146 @@
+{
+  "id": 20793800,
+  "username": "riskofrainfan",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-22T21:41:35.000Z",
+  "date_last_played": "2022-01-22T22:05:01.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 1,
+  "highest_score": 1285,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20793800,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T20:41:00.203Z",
+    "updated_at": "2025-04-25T20:41:00.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9087,
+          "user_id": 20793800,
+          "cloneof_id": null,
+          "string_id": "7t88rt64t6f68r",
+          "title": "trpp",
+          "description": "hgo386f08yb4g",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 13,
+          "created_at": "2022-01-22T22:09:59.000Z",
+          "updated_at": "2022-01-22T22:09:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20793800,
+            "username": "riskofrainfan",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-22T21:41:35.000Z",
+            "date_last_played": "2022-01-22T22:05:01.000Z",
+            "kill_count": 0,
+            "play_count": 1,
+            "highest_score": 1285,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "8g88"
+            },
+            {
+              "id": "nappy"
+            }
+          ]
+        },
+        {
+          "id": 9086,
+          "user_id": 20793800,
+          "cloneof_id": null,
+          "string_id": "gvvyvgypvqyvyvvv",
+          "title": "fishy",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 22,
+          "created_at": "2022-01-22T21:56:04.000Z",
+          "updated_at": "2022-01-22T22:00:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20793800,
+            "username": "riskofrainfan",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-22T21:41:35.000Z",
+            "date_last_played": "2022-01-22T22:05:01.000Z",
+            "kill_count": 0,
+            "play_count": 1,
+            "highest_score": 1285,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "created on own"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:41:00.281Z"
+}
