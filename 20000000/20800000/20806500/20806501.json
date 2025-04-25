@@ -1,0 +1,97 @@
+{
+  "id": 20806501,
+  "username": "meeeep000",
+  "description": "kills!!!!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-11T02:12:59.000Z",
+  "date_last_played": "2022-03-17T18:45:46.000Z",
+  "profile_views": 0,
+  "kill_count": 7,
+  "play_count": 14,
+  "highest_score": 281080,
+  "picture": "20806501.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20806501,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T22:03:23.894Z",
+    "updated_at": "2025-04-25T22:03:24.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9442,
+          "user_id": 20806501,
+          "cloneof_id": null,
+          "string_id": "123456789qwerty",
+          "title": "Untitled",
+          "description": "mmm",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 50,
+          "created_at": "2022-03-11T02:19:27.000Z",
+          "updated_at": "2022-03-11T02:19:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20806501,
+            "username": "meeeep000",
+            "description": "kills!!!!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-11T02:12:59.000Z",
+            "date_last_played": "2022-03-17T18:45:46.000Z",
+            "kill_count": 7,
+            "play_count": 14,
+            "highest_score": 281080,
+            "picture": "20806501.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 15,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "nnn"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:03:23.952Z"
+}
