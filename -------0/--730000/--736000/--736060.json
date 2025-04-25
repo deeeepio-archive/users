@@ -1,0 +1,162 @@
+{
+  "id": 736060,
+  "username": "RingtailWillow",
+  "description": "*rubs my big chungus belly and burps* i'm bad at this game",
+  "about": "I like playing toys and drawing",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-07T08:59:00.000Z",
+  "date_last_played": "2025-02-16T11:02:53.000Z",
+  "profile_views": 270,
+  "kill_count": 643,
+  "play_count": 972,
+  "highest_score": 1296605,
+  "picture": "736060-7deac10893810c6f3f01fcffa6b9d7a7d4-1e521a71-99b7-4812-9033-f2e478841126.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 140,
+  "tier": 2,
+  "xp": 30000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 1,
+      "slug": "artistry-member",
+      "title": "Artistry Member"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    },
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 1227,
+      "user_id": 736060,
+      "platform_id": "dc",
+      "platform_user_id": "Willtheraccoon",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-31T18:26:30.000Z",
+      "updated_at": "2024-08-10T14:53:22.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 736060,
+    "rank_kc": 36591,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-18T17:22:37.000Z",
+    "rank_pc": 12747,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-18T17:22:38.000Z",
+    "rank_hs": 98231,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-18T17:22:39.000Z",
+    "created_at": "2025-02-16T11:02:53.000Z",
+    "updated_at": "2025-02-16T11:02:53.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8338,
+          "user_id": 736060,
+          "cloneof_id": null,
+          "string_id": "prehistoric_sea_wip",
+          "title": "ancient swamp",
+          "description": "a pretty deep swamp, roamed by ancient beast (WIP)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 72,
+          "created_at": "2021-10-24T19:20:22.000Z",
+          "updated_at": "2021-10-24T19:20:23.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 736060,
+            "username": "RingtailWillow",
+            "description": "*rubs my big chungus belly and burps* i'm bad at this game",
+            "about": "I like playing toys and drawing",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-05-07T08:59:00.000Z",
+            "date_last_played": "2025-02-16T11:02:53.000Z",
+            "kill_count": 643,
+            "play_count": 972,
+            "highest_score": 1296605,
+            "picture": "736060-7deac10893810c6f3f01fcffa6b9d7a7d4-1e521a71-99b7-4812-9033-f2e478841126.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 140,
+            "tier": 2,
+            "xp": 30000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 6246,
+          "user_id": 736060,
+          "cloneof_id": null,
+          "string_id": "paradise_02",
+          "title": "The Paradise",
+          "description": "All animals can live in this havenly ocean",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 57,
+          "created_at": "2021-03-16T22:17:24.000Z",
+          "updated_at": "2021-05-04T17:31:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 736060,
+            "username": "RingtailWillow",
+            "description": "*rubs my big chungus belly and burps* i'm bad at this game",
+            "about": "I like playing toys and drawing",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-05-07T08:59:00.000Z",
+            "date_last_played": "2025-02-16T11:02:53.000Z",
+            "kill_count": 643,
+            "play_count": 972,
+            "highest_score": 1296605,
+            "picture": "736060-7deac10893810c6f3f01fcffa6b9d7a7d4-1e521a71-99b7-4812-9033-f2e478841126.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 140,
+            "tier": 2,
+            "xp": 30000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:15:31.326Z"
+}
