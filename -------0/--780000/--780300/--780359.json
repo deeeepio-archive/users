@@ -1,0 +1,97 @@
+{
+  "id": 780359,
+  "username": "7004086_286",
+  "description": "Ya Died. Oof.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-08T22:23:51.000Z",
+  "date_last_played": "2020-11-14T21:02:56.000Z",
+  "profile_views": 0,
+  "kill_count": 79,
+  "play_count": 213,
+  "highest_score": 472252,
+  "picture": "780359.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 124,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 780359,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T05:56:22.004Z",
+    "updated_at": "2025-04-25T05:56:22.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9669,
+          "user_id": 780359,
+          "cloneof_id": null,
+          "string_id": "dragons_den",
+          "title": "Dragon's Den",
+          "description": "For those who like many hiding spots and secrets.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 36,
+          "created_at": "2022-04-13T18:46:15.000Z",
+          "updated_at": "2022-04-13T19:47:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 780359,
+            "username": "7004086_286",
+            "description": "Ya Died. Oof.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-08T22:23:51.000Z",
+            "date_last_played": "2020-11-14T21:02:56.000Z",
+            "kill_count": 79,
+            "play_count": 213,
+            "highest_score": 472252,
+            "picture": "780359.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 124,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#caves"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T05:56:22.083Z"
+}
