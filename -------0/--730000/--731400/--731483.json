@@ -1,0 +1,61 @@
+{
+  "id": 731483,
+  "username": "qnameed",
+  "description": "ligma",
+  "about": "its nameed not \"Nameed\"",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-30T03:50:38.000Z",
+  "date_last_played": "2025-03-21T23:11:06.000Z",
+  "profile_views": 181,
+  "kill_count": 23678,
+  "play_count": 8584,
+  "highest_score": 6961181,
+  "picture": "731483.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3743,
+  "tier": 10,
+  "xp": 1414050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5187,
+      "user_id": 731483,
+      "platform_id": "dc",
+      "platform_user_id": "nameed#0017",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-17T02:09:37.000Z",
+      "updated_at": "2022-08-17T02:09:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 731483,
+    "rank_kc": 598,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-30T19:13:53.000Z",
+    "rank_pc": 453,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-30T19:13:58.000Z",
+    "rank_hs": 6562,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-30T19:14:04.000Z",
+    "created_at": "2025-03-21T23:11:05.000Z",
+    "updated_at": "2025-03-21T23:11:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T00:47:56.646Z"
+}
