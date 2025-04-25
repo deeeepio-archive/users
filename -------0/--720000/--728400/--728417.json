@@ -1,0 +1,143 @@
+{
+  "id": 728417,
+  "username": "katrin",
+  "description": "sorry i thought you was a sushi",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-23T16:06:09.000Z",
+  "date_last_played": "2020-04-23T16:06:09.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 2,
+  "highest_score": 52675,
+  "picture": "728417.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 501,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 728417,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T00:30:12.052Z",
+    "updated_at": "2025-04-25T00:30:12.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2728,
+          "user_id": 728417,
+          "cloneof_id": null,
+          "string_id": "love",
+          "title": "swamp",
+          "description": "nats evry were",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-04-24T12:33:05.000Z",
+          "updated_at": "2020-04-24T12:33:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 728417,
+            "username": "katrin",
+            "description": "sorry i thought you was a sushi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-23T16:06:09.000Z",
+            "date_last_played": "2020-04-23T16:06:09.000Z",
+            "kill_count": 0,
+            "play_count": 2,
+            "highest_score": 52675,
+            "picture": "728417.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 501,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "yup boi"
+            }
+          ]
+        },
+        {
+          "id": 2717,
+          "user_id": 728417,
+          "cloneof_id": null,
+          "string_id": "kat",
+          "title": "super cat",
+          "description": "a cat",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 2,
+          "created_at": "2020-04-23T16:08:43.000Z",
+          "updated_at": "2020-04-23T16:08:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 728417,
+            "username": "katrin",
+            "description": "sorry i thought you was a sushi",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-23T16:06:09.000Z",
+            "date_last_played": "2020-04-23T16:06:09.000Z",
+            "kill_count": 0,
+            "play_count": 2,
+            "highest_score": 52675,
+            "picture": "728417.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 501,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "???"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T00:30:12.285Z"
+}
