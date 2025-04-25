@@ -1,0 +1,61 @@
+{
+  "id": 801566,
+  "username": "slumt",
+  "description": "Im a BadMan",
+  "about": "4’5 500lbs",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-12T02:23:52.000Z",
+  "date_last_played": "2023-02-28T22:41:33.000Z",
+  "profile_views": 130,
+  "kill_count": 10630,
+  "play_count": 2613,
+  "highest_score": 5228099,
+  "picture": "801566-daf6ed09c1d6de2883995b090ba72edf.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 418,
+  "tier": 5,
+  "xp": 301350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 6802,
+      "user_id": 801566,
+      "platform_id": "dc",
+      "platform_user_id": "slumt#0077",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-14T08:37:37.000Z",
+      "updated_at": "2022-09-14T08:37:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 801566,
+    "rank_kc": 1915,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-20T01:35:10.000Z",
+    "rank_pc": 3362,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-20T01:35:10.000Z",
+    "rank_hs": 6873,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-20T01:35:11.000Z",
+    "created_at": "2023-07-10T12:04:47.000Z",
+    "updated_at": "2023-06-20T01:35:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:28:26.493Z"
+}
