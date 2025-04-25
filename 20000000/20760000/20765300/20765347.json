@@ -1,0 +1,108 @@
+{
+  "id": 20765347,
+  "username": "oiu_",
+  "description": "Scrumpy dumpy doodoo",
+  "about": "I play for fun.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-08T18:59:14.000Z",
+  "date_last_played": "2024-08-13T18:25:45.000Z",
+  "profile_views": 40,
+  "kill_count": 246,
+  "play_count": 246,
+  "highest_score": 914228,
+  "picture": "20765347-8998fb40cdedf6eea6ea2ea7cc1746e7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 254,
+  "tier": 2,
+  "xp": 34200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5497,
+      "user_id": 20765347,
+      "platform_id": "dc",
+      "platform_user_id": "spotet",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-23T16:13:26.000Z",
+      "updated_at": "2023-03-13T13:13:18.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20765347,
+    "rank_kc": 71654,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-29T08:30:48.000Z",
+    "rank_pc": 44385,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-29T08:30:49.000Z",
+    "rank_hs": 96186,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-29T08:30:50.000Z",
+    "created_at": "2024-08-13T18:25:44.000Z",
+    "updated_at": "2024-08-13T18:25:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8577,
+          "user_id": 20765347,
+          "cloneof_id": null,
+          "string_id": "o_i_n_k",
+          "title": "first",
+          "description": "crazyness",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 69,
+          "created_at": "2021-11-20T13:46:10.000Z",
+          "updated_at": "2022-08-30T11:32:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20765347,
+            "username": "oiu_",
+            "description": "Scrumpy dumpy doodoo",
+            "about": "I play for fun.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-08T18:59:14.000Z",
+            "date_last_played": "2024-08-13T18:25:45.000Z",
+            "kill_count": 246,
+            "play_count": 246,
+            "highest_score": 914228,
+            "picture": "20765347-8998fb40cdedf6eea6ea2ea7cc1746e7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 254,
+            "tier": 2,
+            "xp": 34200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "crazy"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:46:10.959Z"
+}
