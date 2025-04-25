@@ -1,0 +1,81 @@
+{
+  "id": 789802,
+  "username": "Banacra",
+  "description": "My ping is higher than my coin count lol.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-07T21:20:55.000Z",
+  "date_last_played": "2024-06-05T05:19:40.000Z",
+  "profile_views": 38,
+  "kill_count": 1241,
+  "play_count": 1353,
+  "highest_score": 1574175,
+  "picture": "789802-9c437bcac45f58edff06cd1cc79d23a10.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 98,
+  "tier": 4,
+  "xp": 191700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 22603,
+      "user_id": 789802,
+      "platform_id": "dc",
+      "platform_user_id": "Banacra#2511",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-11T23:58:52.000Z",
+      "updated_at": "2023-07-11T23:58:52.000Z"
+    },
+    {
+      "id": 22605,
+      "user_id": 789802,
+      "platform_id": "ig",
+      "platform_user_id": "3anacra",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-12T00:04:16.000Z",
+      "updated_at": "2023-07-12T00:04:16.000Z"
+    },
+    {
+      "id": 22604,
+      "user_id": 789802,
+      "platform_id": "yt",
+      "platform_user_id": "Banacra",
+      "platform_user_url": "https://www.youtube.com/channel/UCRLz5wvyfvio4v__84y76cg",
+      "verified": false,
+      "created_at": "2023-07-12T00:01:58.000Z",
+      "updated_at": "2023-07-12T00:01:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 789802,
+    "rank_kc": 22987,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-21T02:02:03.000Z",
+    "rank_pc": 9267,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-21T02:02:04.000Z",
+    "rank_hs": 53866,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-21T02:02:05.000Z",
+    "created_at": "2024-06-05T05:19:40.000Z",
+    "updated_at": "2024-06-05T05:19:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:11:23.204Z"
+}
