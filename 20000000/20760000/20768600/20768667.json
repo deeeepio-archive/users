@@ -1,0 +1,61 @@
+{
+  "id": 20768667,
+  "username": "大鹅一号",
+  "description": "你好小鱼，哇这是那个英勇帅气，文武双全的人把你干了？",
+  "about": "我是大鹅一号",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-20T12:32:49.000Z",
+  "date_last_played": "2025-04-19T09:09:10.000Z",
+  "profile_views": 42,
+  "kill_count": 585,
+  "play_count": 751,
+  "highest_score": 1819675,
+  "picture": "20768667-c861f1026237e30ee4c1cb1b1056a9afd7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 97,
+  "tier": 3,
+  "xp": 88500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4222,
+      "user_id": 20768667,
+      "platform_id": "wx",
+      "platform_user_id": "大鹅一号",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-27T08:49:28.000Z",
+      "updated_at": "2022-07-27T08:49:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20768667,
+    "rank_kc": 34559,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-15T09:06:51.000Z",
+    "rank_pc": 14291,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-15T09:06:51.000Z",
+    "rank_hs": 36221,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-15T09:06:51.000Z",
+    "created_at": "2025-04-19T09:09:10.000Z",
+    "updated_at": "2025-04-19T09:09:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T18:07:23.674Z"
+}
