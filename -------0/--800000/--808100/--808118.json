@@ -1,0 +1,146 @@
+{
+  "id": 808118,
+  "username": "VileVilliann",
+  "description": "you have lost more than you can imagine, but now is no time to mourn",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-31T05:51:22.000Z",
+  "date_last_played": "2021-01-01T11:24:08.000Z",
+  "profile_views": 0,
+  "kill_count": 65,
+  "play_count": 33,
+  "highest_score": 372862,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 34,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 808118,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T09:15:11.827Z",
+    "updated_at": "2025-04-25T09:15:12.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5434,
+          "user_id": 808118,
+          "cloneof_id": null,
+          "string_id": "the_deeeep",
+          "title": "Untitled",
+          "description": "this is a large map which is mainly focused on the creatures of the deep, there are however places for the other creatures to live such as the arctic, swamp and oceans",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 11,
+          "created_at": "2021-01-01T04:40:04.000Z",
+          "updated_at": "2021-01-01T04:40:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 808118,
+            "username": "VileVilliann",
+            "description": "you have lost more than you can imagine, but now is no time to mourn",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-31T05:51:22.000Z",
+            "date_last_played": "2021-01-01T11:24:08.000Z",
+            "kill_count": 65,
+            "play_count": 33,
+            "highest_score": 372862,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 34,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deeeep.io"
+            },
+            {
+              "id": "VileVilliann"
+            }
+          ]
+        },
+        {
+          "id": 5425,
+          "user_id": 808118,
+          "cloneof_id": null,
+          "string_id": "villainns_lair_01",
+          "title": "Untitled",
+          "description": "a place to grow easily to become your fishy dreams",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 12,
+          "created_at": "2020-12-31T12:06:35.000Z",
+          "updated_at": "2020-12-31T12:21:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 808118,
+            "username": "VileVilliann",
+            "description": "you have lost more than you can imagine, but now is no time to mourn",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-31T05:51:22.000Z",
+            "date_last_played": "2021-01-01T11:24:08.000Z",
+            "kill_count": 65,
+            "play_count": 33,
+            "highest_score": 372862,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 34,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Large"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:15:11.875Z"
+}
