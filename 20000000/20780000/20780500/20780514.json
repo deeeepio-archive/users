@@ -1,0 +1,259 @@
+{
+  "id": 20780514,
+  "username": "Tannan-mable",
+  "description": "sorry if i killed you. lets be friend or team :)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-20T07:49:46.000Z",
+  "date_last_played": "2022-11-06T17:30:45.000Z",
+  "profile_views": 4,
+  "kill_count": 18,
+  "play_count": 76,
+  "highest_score": 434110,
+  "picture": "20780514-10bf7bcebcd582fa84a257ba7e75cc93f.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 49,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20780514,
+    "rank_kc": 187580,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-11-04T08:38:24.000Z",
+    "rank_pc": 67665,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-04T08:38:25.000Z",
+    "rank_hs": 141131,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-11-04T08:38:26.000Z",
+    "created_at": "2022-11-06T17:30:44.000Z",
+    "updated_at": "2022-11-06T17:30:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8599,
+          "user_id": 20780514,
+          "cloneof_id": null,
+          "string_id": "map_4_mable",
+          "title": "really for teams",
+          "description": "for teams ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 153,
+          "created_at": "2021-11-23T07:55:51.000Z",
+          "updated_at": "2022-11-04T06:44:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20780514,
+            "username": "Tannan-mable",
+            "description": "sorry if i killed you. lets be friend or team :)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-20T07:49:46.000Z",
+            "date_last_played": "2022-11-06T17:30:45.000Z",
+            "kill_count": 18,
+            "play_count": 76,
+            "highest_score": 434110,
+            "picture": "20780514-10bf7bcebcd582fa84a257ba7e75cc93f.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 49,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "="
+            },
+            {
+              "id": "mable"
+            },
+            {
+              "id": "Tannan.io"
+            }
+          ]
+        },
+        {
+          "id": 8595,
+          "user_id": 20780514,
+          "cloneof_id": null,
+          "string_id": "map_3_mable",
+          "title": "just fun!",
+          "description": "for just gaming",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 91,
+          "created_at": "2021-11-22T09:53:48.000Z",
+          "updated_at": "2021-12-07T10:38:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20780514,
+            "username": "Tannan-mable",
+            "description": "sorry if i killed you. lets be friend or team :)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-20T07:49:46.000Z",
+            "date_last_played": "2022-11-06T17:30:45.000Z",
+            "kill_count": 18,
+            "play_count": 76,
+            "highest_score": 434110,
+            "picture": "20780514-10bf7bcebcd582fa84a257ba7e75cc93f.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 49,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "="
+            },
+            {
+              "id": "mable"
+            },
+            {
+              "id": "Tannan.io"
+            }
+          ]
+        },
+        {
+          "id": 8593,
+          "user_id": 20780514,
+          "cloneof_id": null,
+          "string_id": "map_1_mable",
+          "title": "like maze but for teaming",
+          "description": "for teams and a maze",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 63,
+          "created_at": "2021-11-22T05:51:22.000Z",
+          "updated_at": "2022-11-04T06:37:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20780514,
+            "username": "Tannan-mable",
+            "description": "sorry if i killed you. lets be friend or team :)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-20T07:49:46.000Z",
+            "date_last_played": "2022-11-06T17:30:45.000Z",
+            "kill_count": 18,
+            "play_count": 76,
+            "highest_score": 434110,
+            "picture": "20780514-10bf7bcebcd582fa84a257ba7e75cc93f.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 49,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "="
+            },
+            {
+              "id": "mable"
+            },
+            {
+              "id": "Tannan.io"
+            }
+          ]
+        },
+        {
+          "id": 8591,
+          "user_id": 20780514,
+          "cloneof_id": null,
+          "string_id": "map_2_mable",
+          "title": "Map2",
+          "description": "for teams",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 162,
+          "created_at": "2021-11-21T09:39:03.000Z",
+          "updated_at": "2023-04-08T06:36:23.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20780514,
+            "username": "Tannan-mable",
+            "description": "sorry if i killed you. lets be friend or team :)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-20T07:49:46.000Z",
+            "date_last_played": "2022-11-06T17:30:45.000Z",
+            "kill_count": 18,
+            "play_count": 76,
+            "highest_score": 434110,
+            "picture": "20780514-10bf7bcebcd582fa84a257ba7e75cc93f.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 49,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "="
+            },
+            {
+              "id": "mable"
+            },
+            {
+              "id": "Tannan.io"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T19:20:52.482Z"
+}
