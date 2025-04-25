@@ -1,0 +1,97 @@
+{
+  "id": 20770591,
+  "username": "blob200",
+  "description": "I wish you peace and comfort as you grieve. also, I love you and I’m here for you.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-25T16:52:10.000Z",
+  "date_last_played": "2024-01-15T16:59:30.000Z",
+  "profile_views": 36,
+  "kill_count": 256,
+  "play_count": 452,
+  "highest_score": 876567,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 35,
+  "tier": 2,
+  "xp": 40350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20770591,
+    "rank_kc": 63939,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-29T12:12:15.000Z",
+    "rank_pc": 25280,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-29T12:12:16.000Z",
+    "rank_hs": 84136,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-29T12:12:17.000Z",
+    "created_at": "2024-01-15T16:59:29.000Z",
+    "updated_at": "2024-01-15T16:59:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8939,
+          "user_id": 20770591,
+          "cloneof_id": null,
+          "string_id": "happymap",
+          "title": "happy",
+          "description": "there is one swarm that is seaking revenge but there is a tresher",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 110,
+          "created_at": "2022-01-04T15:56:16.000Z",
+          "updated_at": "2022-01-04T15:56:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20770591,
+            "username": "blob200",
+            "description": "I wish you peace and comfort as you grieve. also, I love you and I’m here for you.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-25T16:52:10.000Z",
+            "date_last_played": "2024-01-15T16:59:30.000Z",
+            "kill_count": 256,
+            "play_count": 452,
+            "highest_score": 876567,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 35,
+            "tier": 2,
+            "xp": 40350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": ":)"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T18:20:25.494Z"
+}
