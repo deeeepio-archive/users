@@ -1,0 +1,1031 @@
+{
+  "id": 809369,
+  "username": "green_lamp",
+  "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+  "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-04T23:14:35.000Z",
+  "date_last_played": "2025-03-29T05:00:02.000Z",
+  "profile_views": 888,
+  "kill_count": 8716,
+  "play_count": 4455,
+  "highest_score": 7298091,
+  "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1895,
+  "tier": 5,
+  "xp": 307950,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16422,
+      "user_id": 809369,
+      "platform_id": "dc",
+      "platform_user_id": "　　˜”*°•.˜”*°• My Mains: •°*”˜.•°*”˜",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-19T21:38:37.000Z",
+      "updated_at": "2023-03-19T21:49:04.000Z"
+    },
+    {
+      "id": 16424,
+      "user_id": 809369,
+      "platform_id": "ig",
+      "platform_user_id": "Giant Squid (forever and always)",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-19T21:38:46.000Z",
+      "updated_at": "2023-07-30T02:20:41.000Z"
+    },
+    {
+      "id": 16426,
+      "user_id": 809369,
+      "platform_id": "ig",
+      "platform_user_id": "Goblin Shark (pre beta)",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-19T21:39:46.000Z",
+      "updated_at": "2023-07-30T02:21:27.000Z"
+    },
+    {
+      "id": 16428,
+      "user_id": 809369,
+      "platform_id": "ig",
+      "platform_user_id": "Marlin (pre beta)",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-19T21:41:18.000Z",
+      "updated_at": "2023-07-30T02:21:35.000Z"
+    },
+    {
+      "id": 16427,
+      "user_id": 809369,
+      "platform_id": "ig",
+      "platform_user_id": "Orca (usually for teambusting)",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-19T21:40:53.000Z",
+      "updated_at": "2023-07-30T02:20:59.000Z"
+    },
+    {
+      "id": 16430,
+      "user_id": 809369,
+      "platform_id": "ig",
+      "platform_user_id": "Worm (my strongest main)",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-19T21:41:37.000Z",
+      "updated_at": "2023-07-30T02:21:08.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 809369,
+    "rank_kc": 3018,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-14T21:51:15.000Z",
+    "rank_pc": 1525,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-14T21:51:17.000Z",
+    "rank_hs": 4198,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-14T21:51:20.000Z",
+    "created_at": "2025-03-29T05:00:01.000Z",
+    "updated_at": "2025-03-29T05:00:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10023,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "nazuna",
+          "title": "nazuna hiwatashi",
+          "description": "by unblue aka a contricted waterfowl#1010",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 3816,
+          "created_at": "2022-06-19T03:03:45.000Z",
+          "updated_at": "2022-06-19T03:06:37.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "animal"
+            },
+            {
+              "id": "art"
+            },
+            {
+              "id": "bna"
+            },
+            {
+              "id": "nazuna"
+            }
+          ]
+        },
+        {
+          "id": 9363,
+          "user_id": 809369,
+          "cloneof_id": 9282,
+          "string_id": "waterfall_unblue_v2",
+          "title": "Double Waterfall 1v1",
+          "description": "fixed the water a bit, added habitats, and more water",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 34,
+          "created_at": "2022-02-25T22:02:37.000Z",
+          "updated_at": "2022-02-25T22:02:38.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "unblue"
+            },
+            {
+              "id": "waterfall"
+            }
+          ]
+        },
+        {
+          "id": 9303,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "unblue_tree_island",
+          "title": "not meant to be playable",
+          "description": "not meant to be playable. just some concept i thought of since i made floating islands previously (was my 2nd map)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 54,
+          "created_at": "2022-02-18T04:48:57.000Z",
+          "updated_at": "2022-02-18T05:33:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "tree"
+            },
+            {
+              "id": "unblue"
+            }
+          ]
+        },
+        {
+          "id": 9292,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "unblue_pro_ffa",
+          "title": "3 Minute Speedrun FFA",
+          "description": "i was asked to send my ffa map but it didn't really exist so i just made one right now ezezez",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 30,
+          "created_at": "2022-02-17T03:45:21.000Z",
+          "updated_at": "2022-02-18T04:13:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "pro"
+            },
+            {
+              "id": "speedrun"
+            },
+            {
+              "id": "unblue"
+            }
+          ]
+        },
+        {
+          "id": 9290,
+          "user_id": 809369,
+          "cloneof_id": 9282,
+          "string_id": "unblue_lava_1v1",
+          "title": "Lava Cave 1v1",
+          "description": "this isn't made for playing, just aesthetics. its pretty much a recolor of the original waterfall map i made.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 25,
+          "created_at": "2022-02-17T03:34:34.000Z",
+          "updated_at": "2022-02-17T03:34:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "lava"
+            },
+            {
+              "id": "unblue"
+            }
+          ]
+        },
+        {
+          "id": 9288,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "unblue_swamp_cave_1v1",
+          "title": "Swamp Cave 1v1",
+          "description": "Odd hole.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 38,
+          "created_at": "2022-02-17T02:51:14.000Z",
+          "updated_at": "2022-02-17T02:51:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "cave"
+            },
+            {
+              "id": "swamp"
+            },
+            {
+              "id": "unblue"
+            }
+          ]
+        },
+        {
+          "id": 9282,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "unblue_waterfall_1v1",
+          "title": "Double Waterfall 1v1",
+          "description": "The ground on the waterfall is a platform, so you go through it.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 29,
+          "created_at": "2022-02-16T23:54:10.000Z",
+          "updated_at": "2022-02-17T02:02:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "unblue"
+            },
+            {
+              "id": "water"
+            },
+            {
+              "id": "waterfall"
+            }
+          ]
+        },
+        {
+          "id": 9046,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "peacefulgirl",
+          "title": "Its a Peaceful Girl",
+          "description": "I bought 3 new mouses",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 4971,
+          "created_at": "2022-01-18T06:04:13.000Z",
+          "updated_at": "2022-01-18T06:05:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "animals"
+            },
+            {
+              "id": "clicking"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "girl"
+            },
+            {
+              "id": "preview"
+            },
+            {
+              "id": "spam"
+            },
+            {
+              "id": "unblue"
+            }
+          ]
+        },
+        {
+          "id": 8935,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "unblue_1v1_volcano",
+          "title": "Volcano 1v1",
+          "description": "Hot Mess.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 72,
+          "created_at": "2022-01-04T01:30:23.000Z",
+          "updated_at": "2022-02-16T23:32:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "beach"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "superidol"
+            },
+            {
+              "id": "unblue"
+            },
+            {
+              "id": "volcano"
+            }
+          ]
+        },
+        {
+          "id": 8847,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "imposter_deep_unblue_1v1",
+          "title": "There is an Imposter Watching You 1v1",
+          "description": "there is a amogus",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 39,
+          "created_at": "2021-12-26T00:28:44.000Z",
+          "updated_at": "2021-12-26T00:41:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "amogus"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "superidol"
+            },
+            {
+              "id": "sus"
+            },
+            {
+              "id": "unblue"
+            }
+          ]
+        },
+        {
+          "id": 8844,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "1v1_cold_unblue",
+          "title": "Frosty Morning 1v1",
+          "description": "its cold... brrrrr",
+          "public": true,
+          "locked": true,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 4,
+          "objects": 45,
+          "created_at": "2021-12-25T22:49:11.000Z",
+          "updated_at": "2022-06-29T06:58:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "cold"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "morning"
+            },
+            {
+              "id": "sunrise"
+            },
+            {
+              "id": "superidol"
+            },
+            {
+              "id": "unblue"
+            }
+          ]
+        },
+        {
+          "id": 8831,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "eagle1v1_unblue",
+          "title": "Eagle 1v1 Map",
+          "description": "by unblue#1020; place for eagles to 1v1",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 36,
+          "created_at": "2021-12-24T05:16:24.000Z",
+          "updated_at": "2021-12-25T23:46:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "eagle"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "sunset"
+            },
+            {
+              "id": "super idol"
+            },
+            {
+              "id": "unblue"
+            }
+          ]
+        },
+        {
+          "id": 8639,
+          "user_id": 809369,
+          "cloneof_id": 8638,
+          "string_id": "unblue_1v1_ocean",
+          "title": "Creative Name 1v1",
+          "description": "Basically unblue_1v1 except no longer swamp themed. Made by unblue#1020",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 71,
+          "created_at": "2021-11-29T08:07:02.000Z",
+          "updated_at": "2021-12-25T23:48:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "super idol"
+            },
+            {
+              "id": "unblue"
+            }
+          ]
+        },
+        {
+          "id": 8638,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "unblue_1v1",
+          "title": "Radiant Swamp 1v1",
+          "description": "A Swamp 1v1 Map by unblue#1020. Takes place during high noon, when you sing super idol.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 48,
+          "created_at": "2021-11-29T06:48:05.000Z",
+          "updated_at": "2021-12-25T22:54:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "super idol"
+            },
+            {
+              "id": "swamp"
+            },
+            {
+              "id": "unblue"
+            }
+          ]
+        },
+        {
+          "id": 8528,
+          "user_id": 809369,
+          "cloneof_id": null,
+          "string_id": "waterfall_island_unblue",
+          "title": "Island",
+          "description": "thing",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 523,
+          "created_at": "2021-11-12T18:33:31.000Z",
+          "updated_at": "2021-11-13T02:51:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 809369,
+            "username": "green_lamp",
+            "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+            "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-04T23:14:35.000Z",
+            "date_last_played": "2025-03-29T05:00:02.000Z",
+            "kill_count": 8716,
+            "play_count": 4455,
+            "highest_score": 7298091,
+            "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1895,
+            "tier": 5,
+            "xp": 307950,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "gravity"
+            },
+            {
+              "id": "island"
+            },
+            {
+              "id": "nonrealistic"
+            },
+            {
+              "id": "waterfall"
+            }
+          ]
+        }
+      ],
+      "count": 16
+    },
+    "skins": [
+      {
+        "id": 10319,
+        "version": 1,
+        "asset": "10319-1.png",
+        "created_at": "2022-01-31T14:08:12.000Z",
+        "updated_at": "2022-02-13T22:59:06.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 89,
+        "name": "Roseshoe Crab",
+        "description": "A gift from me to you. Will you be my Valentine?",
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/comments/sh1u01/horseshoe_crab_roseshoe_crab_0c_valentines_day/",
+        "category": "season",
+        "season": "valentines",
+        "on_sale": true,
+        "price": 0,
+        "sales": 4187,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 809369,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 809369,
+          "username": "green_lamp",
+          "description": "The Noob Herself\n\nDiscord: unblue_\n\nFly high",
+          "about": "╭─────────༺♡༻─────────╮\n\n⠀  ╰┈➤⠀started 2016, pretty inactive\n  ╰┈➤ rarely plays if not asked to\n\n",
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2021-01-04T23:14:35.000Z",
+          "date_last_played": "2025-03-29T05:00:02.000Z",
+          "kill_count": 8716,
+          "play_count": 4455,
+          "highest_score": 7298091,
+          "picture": "809369-31065672be10a01866cb1c391ee5645fb.png",
+          "displayPicture": true,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 1895,
+          "tier": 5,
+          "xp": 307950,
+          "migrated": true,
+          "verified": false,
+          "beta": false
+        }
+      }
+    ]
+  },
+  "archived_at": "2025-04-25T09:23:25.394Z"
+}
