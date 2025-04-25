@@ -1,0 +1,207 @@
+{
+  "id": 761310,
+  "username": "Celebi",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-07-25T15:57:28.000Z",
+  "date_last_played": "2024-09-19T11:17:59.000Z",
+  "profile_views": 3,
+  "kill_count": 536,
+  "play_count": 824,
+  "highest_score": 58878213,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 362,
+  "tier": 1,
+  "xp": 12150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 761310,
+    "rank_kc": 40256,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-19T11:16:33.000Z",
+    "rank_pc": 14295,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-19T11:16:50.000Z",
+    "rank_hs": 719,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-05-19T11:17:17.000Z",
+    "created_at": "2024-09-19T11:17:59.000Z",
+    "updated_at": "2024-09-19T11:17:59.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6134,
+          "user_id": 761310,
+          "cloneof_id": null,
+          "string_id": "tardis_complex_v1",
+          "title": "Tardis complex",
+          "description": "A more traditional map, at least compared with my standards",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 3804,
+          "created_at": "2021-03-05T18:00:39.000Z",
+          "updated_at": "2021-05-08T13:16:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 761310,
+            "username": "Celebi",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-07-25T15:57:28.000Z",
+            "date_last_played": "2024-09-19T11:17:59.000Z",
+            "kill_count": 536,
+            "play_count": 824,
+            "highest_score": 58878213,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 362,
+            "tier": 1,
+            "xp": 12150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "tardis"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 4218,
+          "user_id": 761310,
+          "cloneof_id": null,
+          "string_id": "tardis_map_v1",
+          "title": "Eras of Earth",
+          "description": "Imagine you could travel back in time, to a time far before Humanity.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 8687,
+          "created_at": "2020-09-07T20:35:19.000Z",
+          "updated_at": "2024-07-08T22:37:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 761310,
+            "username": "Celebi",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-07-25T15:57:28.000Z",
+            "date_last_played": "2024-09-19T11:17:59.000Z",
+            "kill_count": 536,
+            "play_count": 824,
+            "highest_score": 58878213,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 362,
+            "tier": 1,
+            "xp": 12150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "tardis"
+            },
+            {
+              "id": "TFFA"
+            },
+            {
+              "id": "Time Travel"
+            }
+          ]
+        },
+        {
+          "id": 3801,
+          "user_id": 761310,
+          "cloneof_id": null,
+          "string_id": "experimenting_v1",
+          "title": "An experiment",
+          "description": "An idea, started as realistic starting with scales), then I threw that out of the window when I created a lake.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 10816,
+          "created_at": "2020-07-26T00:27:30.000Z",
+          "updated_at": "2024-07-09T08:54:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 761310,
+            "username": "Celebi",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-07-25T15:57:28.000Z",
+            "date_last_played": "2024-09-19T11:17:59.000Z",
+            "kill_count": 536,
+            "play_count": 824,
+            "highest_score": 58878213,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 362,
+            "tier": 1,
+            "xp": 12150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " TFFA"
+            },
+            {
+              "id": "FFA"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T03:59:30.334Z"
+}
