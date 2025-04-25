@@ -1,0 +1,87 @@
+{
+  "id": 20825094,
+  "username": "MoePro",
+  "description": "get moed down ;)",
+  "about": "Owner of Turts \nSuper duper cool!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-12-27T17:08:32.000Z",
+  "date_last_played": "2025-02-21T07:59:50.000Z",
+  "profile_views": 3636,
+  "kill_count": 24493,
+  "play_count": 4319,
+  "highest_score": 10499915,
+  "picture": "20753283-fb6f4f1889ca8fbd7eea1609c4b2998a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 137,
+  "tier": 10,
+  "xp": 5238150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 23828,
+      "user_id": 20825094,
+      "platform_id": "dc",
+      "platform_user_id": "moepro_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-03T14:07:31.000Z",
+      "updated_at": "2023-08-03T14:07:31.000Z"
+    },
+    {
+      "id": 24099,
+      "user_id": 20825094,
+      "platform_id": "tc",
+      "platform_user_id": "moepro_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-08T02:26:07.000Z",
+      "updated_at": "2023-08-08T02:26:07.000Z"
+    },
+    {
+      "id": 24098,
+      "user_id": 20825094,
+      "platform_id": "yt",
+      "platform_user_id": " Moe Lester",
+      "platform_user_url": "https://www.youtube.com/channel/UC7EQztqTYRo8Ael_CJhP7og",
+      "verified": false,
+      "created_at": "2023-08-08T02:24:25.000Z",
+      "updated_at": "2023-08-08T02:24:25.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20825094,
+    "rank_kc": 675,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-17T02:03:19.000Z",
+    "rank_pc": 2571,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-17T02:03:20.000Z",
+    "rank_hs": 2790,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-17T02:03:21.000Z",
+    "created_at": "2025-02-21T07:59:49.000Z",
+    "updated_at": "2025-02-21T07:59:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:55:46.000Z"
+}
