@@ -1,0 +1,100 @@
+{
+  "id": 20707261,
+  "username": "C0FF33",
+  "description": "I'm just some coffee you know that! (Please don't drink me :') ) Also.. I don't mean to hit you if I am not actually trying to hit you if I swerve away it means I am not coming for you! <3",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-22T05:03:26.000Z",
+  "date_last_played": "2021-03-31T20:03:08.000Z",
+  "profile_views": 0,
+  "kill_count": 4,
+  "play_count": 38,
+  "highest_score": 74802,
+  "picture": "20707261.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20707261,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T11:40:46.231Z",
+    "updated_at": "2025-04-25T11:40:46.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6420,
+          "user_id": 20707261,
+          "cloneof_id": null,
+          "string_id": "c0ffees_perfect_map",
+          "title": "The purge map",
+          "description": "If you want food you might have to take from the beaver dams and the island and in the corner, and eat other animals.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 46,
+          "created_at": "2021-03-31T19:58:12.000Z",
+          "updated_at": "2021-03-31T19:58:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20707261,
+            "username": "C0FF33",
+            "description": "I'm just some coffee you know that! (Please don't drink me :') ) Also.. I don't mean to hit you if I am not actually trying to hit you if I swerve away it means I am not coming for you! <3",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-22T05:03:26.000Z",
+            "date_last_played": "2021-03-31T20:03:08.000Z",
+            "kill_count": 4,
+            "play_count": 38,
+            "highest_score": 74802,
+            "picture": "20707261.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "Purge"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T11:40:46.283Z"
+}
