@@ -1,0 +1,97 @@
+{
+  "id": 20691309,
+  "username": "alexblitz96",
+  "description": "ey don't give up and hey we can be friends bruh\n",
+  "about": "i the one who plays\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-02-10T14:49:26.000Z",
+  "date_last_played": "2023-06-21T07:43:34.000Z",
+  "profile_views": 19,
+  "kill_count": 166,
+  "play_count": 405,
+  "highest_score": 582179,
+  "picture": "20691309-fd6e11df4007a1f910f1d04ac860f65b10.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 9,
+  "tier": 1,
+  "xp": 3300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20691309,
+    "rank_kc": 69107,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-14T11:36:09.000Z",
+    "rank_pc": 20724,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-14T11:36:09.000Z",
+    "rank_hs": 111387,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-08-14T11:36:09.000Z",
+    "created_at": "2023-06-21T07:43:33.000Z",
+    "updated_at": "2023-06-21T07:43:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6381,
+          "user_id": 20691309,
+          "cloneof_id": null,
+          "string_id": "u2903",
+          "title": "Untitled",
+          "description": "mystery place",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 20,
+          "created_at": "2021-03-27T19:54:47.000Z",
+          "updated_at": "2021-03-27T19:54:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20691309,
+            "username": "alexblitz96",
+            "description": "ey don't give up and hey we can be friends bruh\n",
+            "about": "i the one who plays\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-02-10T14:49:26.000Z",
+            "date_last_played": "2023-06-21T07:43:34.000Z",
+            "kill_count": 166,
+            "play_count": 405,
+            "highest_score": 582179,
+            "picture": "20691309-fd6e11df4007a1f910f1d04ac860f65b10.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 9,
+            "tier": 1,
+            "xp": 3300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "uhh"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T10:03:36.762Z"
+}
