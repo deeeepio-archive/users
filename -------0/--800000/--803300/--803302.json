@@ -1,0 +1,108 @@
+{
+  "id": 803302,
+  "username": "A_loco",
+  "description": "good game better luck next time!\nGod bless you too",
+  "about": "follow me on Instagram for a cookie ;)\n@A_dumb_loco",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-16T18:56:04.000Z",
+  "date_last_played": "2024-06-26T06:42:24.000Z",
+  "profile_views": 109,
+  "kill_count": 2575,
+  "play_count": 2082,
+  "highest_score": 1997572,
+  "picture": "803302.gif",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 99,
+  "tier": 2,
+  "xp": 49650,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92837,
+      "user_id": 803302,
+      "platform_id": "ig",
+      "platform_user_id": "a_dumb_loco",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-13T15:59:10.000Z",
+      "updated_at": "2024-03-13T15:59:10.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 803302,
+    "rank_kc": 11088,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-05T07:51:31.000Z",
+    "rank_pc": 4555,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-05T07:51:33.000Z",
+    "rank_hs": 35390,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-05T07:51:34.000Z",
+    "created_at": "2024-06-26T06:42:24.000Z",
+    "updated_at": "2024-06-26T06:42:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5739,
+          "user_id": 803302,
+          "cloneof_id": null,
+          "string_id": "terrarian",
+          "title": "Untitled",
+          "description": "is cool",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-01-27T22:05:58.000Z",
+          "updated_at": "2021-01-27T22:05:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 803302,
+            "username": "A_loco",
+            "description": "good game better luck next time!\nGod bless you too",
+            "about": "follow me on Instagram for a cookie ;)\n@A_dumb_loco",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-16T18:56:04.000Z",
+            "date_last_played": "2024-06-26T06:42:24.000Z",
+            "kill_count": 2575,
+            "play_count": 2082,
+            "highest_score": 1997572,
+            "picture": "803302.gif",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 99,
+            "tier": 2,
+            "xp": 49650,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "(NH)"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:44:26.618Z"
+}

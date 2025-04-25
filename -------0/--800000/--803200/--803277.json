@@ -1,0 +1,97 @@
+{
+  "id": 803277,
+  "username": "8789754_842",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-16T18:06:28.000Z",
+  "date_last_played": "2021-03-12T16:33:17.000Z",
+  "profile_views": 0,
+  "kill_count": 20,
+  "play_count": 36,
+  "highest_score": 555695,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 31,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 803277,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T08:44:22.178Z",
+    "updated_at": "2025-04-25T08:44:22.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5861,
+          "user_id": 803277,
+          "cloneof_id": null,
+          "string_id": "bean_bean_bean_bean_",
+          "title": "Deeeep map that is cool",
+          "description": "very cool",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 15,
+          "created_at": "2021-02-09T19:20:38.000Z",
+          "updated_at": "2021-02-17T16:29:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 803277,
+            "username": "8789754_842",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-16T18:06:28.000Z",
+            "date_last_played": "2021-03-12T16:33:17.000Z",
+            "kill_count": 20,
+            "play_count": 36,
+            "highest_score": 555695,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 31,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "very cool"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:44:22.239Z"
+}
