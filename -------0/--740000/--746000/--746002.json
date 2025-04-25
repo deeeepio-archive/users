@@ -1,0 +1,104 @@
+{
+  "id": 746002,
+  "username": "亖卌",
+  "description": "-----------------\n╔══╦╗╔╦══╗\n║══╣║║║══╣\n╠══║╚╝╠══║\n╚══╩══╩══╝\n------------------",
+  "about": "⍰�⍰�⍰�⍰�⍰�⍰�⍰�⍰\nꡄꡦꡟꡂꡟꡠ\nདྲུག་དྲུག་དྲུག\n㖯『﹄鰰鬬鱡鬭﹃』㖰\n〠֎혷〓ᠰᠢᠳᠤᠷᠭᠤ〓혷֍〠",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-06-02T05:00:12.000Z",
+  "date_last_played": "2025-03-27T09:04:45.000Z",
+  "profile_views": 659,
+  "kill_count": 4026,
+  "play_count": 4055,
+  "highest_score": 4988650,
+  "picture": "746002-710fc058405ee8c47ce0fd9f72e3df1e1.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 152,
+  "tier": 4,
+  "xp": 198750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 746002,
+    "rank_kc": 8981,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-16T08:29:22.000Z",
+    "rank_pc": 1703,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-16T08:29:23.000Z",
+    "rank_hs": 7793,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-16T07:04:43.000Z",
+    "created_at": "2025-03-27T09:04:45.000Z",
+    "updated_at": "2025-03-27T09:04:45.000Z",
+    "pd": {
+      "played": 7,
+      "won": 3,
+      "ratio": 43
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3565,
+          "user_id": 746002,
+          "cloneof_id": 3536,
+          "string_id": "water_v3",
+          "title": "water_v3(FFA/TFFA/1V1?)",
+          "description": "First night map of deeeep.io!Find the Beaver house in the map by yourself！I know many skills I need to improve...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1455,
+          "created_at": "2020-07-01T04:36:16.000Z",
+          "updated_at": "2020-07-21T03:20:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 746002,
+            "username": "亖卌",
+            "description": "-----------------\n╔══╦╗╔╦══╗\n║══╣║║║══╣\n╠══║╚╝╠══║\n╚══╩══╩══╝\n------------------",
+            "about": "⍰�⍰�⍰�⍰�⍰�⍰�⍰�⍰\nꡄꡦꡟꡂꡟꡠ\nདྲུག་དྲུག་དྲུག\n㖯『﹄鰰鬬鱡鬭﹃』㖰\n〠֎혷〓ᠰᠢᠳᠤᠷᠭᠤ〓혷֍〠",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-06-02T05:00:12.000Z",
+            "date_last_played": "2025-03-27T09:04:45.000Z",
+            "kill_count": 4026,
+            "play_count": 4055,
+            "highest_score": 4988650,
+            "picture": "746002-710fc058405ee8c47ce0fd9f72e3df1e1.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 152,
+            "tier": 4,
+            "xp": 198750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " Beaver house"
+            },
+            {
+              "id": "Night"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T02:24:50.537Z"
+}
