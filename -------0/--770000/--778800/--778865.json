@@ -1,0 +1,61 @@
+{
+  "id": 778865,
+  "username": "Yzne",
+  "description": "ym stfu",
+  "about": "yo",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-03T13:01:15.000Z",
+  "date_last_played": "2025-04-24T19:44:30.000Z",
+  "profile_views": 102,
+  "kill_count": 7025,
+  "play_count": 1584,
+  "highest_score": 10006409,
+  "picture": "778865-b59810054c8a229da22e779e8c55bb784.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 42,
+  "tier": 5,
+  "xp": 350250,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14982,
+      "user_id": 778865,
+      "platform_id": "dc",
+      "platform_user_id": "Yzne#6224",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-12T16:00:33.000Z",
+      "updated_at": "2023-02-12T16:00:33.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 778865,
+    "rank_kc": 3669,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-07T10:01:47.000Z",
+    "rank_pc": 7444,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-07T10:02:02.000Z",
+    "rank_hs": 2529,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-07T10:02:10.000Z",
+    "created_at": "2025-04-24T19:44:30.000Z",
+    "updated_at": "2025-04-24T19:44:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T05:46:35.039Z"
+}
