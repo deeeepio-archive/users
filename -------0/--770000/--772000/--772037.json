@@ -1,0 +1,97 @@
+{
+  "id": 772037,
+  "username": "lolpuuroa",
+  "description": " \"I like doing stuff\"\nI am a whale racist (I support whale genocide)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-09T20:41:31.000Z",
+  "date_last_played": "2023-03-12T18:40:56.000Z",
+  "profile_views": 2,
+  "kill_count": 7423,
+  "play_count": 3342,
+  "highest_score": 3207021,
+  "picture": "772037-09807cba65b6454064636edb856bf7a1.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2268,
+  "tier": 1,
+  "xp": 1200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 772037,
+    "rank_kc": 3079,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-12T18:30:49.000Z",
+    "rank_pc": 2018,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-12T18:30:50.000Z",
+    "rank_hs": 16545,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-12T18:30:51.000Z",
+    "created_at": "2023-03-22T00:53:10.000Z",
+    "updated_at": "2023-03-12T18:40:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8910,
+          "user_id": 772037,
+          "cloneof_id": null,
+          "string_id": "bloody_hell_thisisa_nicemap",
+          "title": "chad",
+          "description": " gf",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 8,
+          "created_at": "2022-01-01T17:37:21.000Z",
+          "updated_at": "2022-01-01T17:37:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 772037,
+            "username": "lolpuuroa",
+            "description": " \"I like doing stuff\"\nI am a whale racist (I support whale genocide)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-09T20:41:31.000Z",
+            "date_last_played": "2023-03-12T18:40:56.000Z",
+            "kill_count": 7423,
+            "play_count": 3342,
+            "highest_score": 3207021,
+            "picture": "772037-09807cba65b6454064636edb856bf7a1.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2268,
+            "tier": 1,
+            "xp": 1200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "none"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T05:04:18.442Z"
+}
