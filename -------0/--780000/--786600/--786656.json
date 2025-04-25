@@ -1,0 +1,97 @@
+{
+  "id": 786656,
+  "username": "7354837_250",
+  "description": "I killed you because I was hungry, but who knows, maybe you will kill me in future",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-29T13:35:15.000Z",
+  "date_last_played": "2025-02-04T16:48:58.000Z",
+  "profile_views": 26,
+  "kill_count": 8625,
+  "play_count": 2984,
+  "highest_score": 2756284,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 32,
+  "tier": 7,
+  "xp": 588450,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 786656,
+    "rank_kc": 3292,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-29T17:35:18.000Z",
+    "rank_pc": 3710,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-29T17:35:22.000Z",
+    "rank_hs": 25095,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-29T17:35:34.000Z",
+    "created_at": "2025-02-04T16:48:57.000Z",
+    "updated_at": "2025-02-04T16:48:58.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7530,
+          "user_id": 786656,
+          "cloneof_id": null,
+          "string_id": "2ewrere",
+          "title": "Untitled",
+          "description": "errtryrt",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-08-11T08:18:17.000Z",
+          "updated_at": "2021-08-11T08:18:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 786656,
+            "username": "7354837_250",
+            "description": "I killed you because I was hungry, but who knows, maybe you will kill me in future",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-29T13:35:15.000Z",
+            "date_last_played": "2025-02-04T16:48:58.000Z",
+            "kill_count": 8625,
+            "play_count": 2984,
+            "highest_score": 2756284,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 32,
+            "tier": 7,
+            "xp": 588450,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "rerertrter"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T06:42:54.930Z"
+}
