@@ -1,0 +1,85 @@
+{
+  "id": 744244,
+  "username": "Skittlq",
+  "description": "Imma grope you\n",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-27T20:27:47.000Z",
+  "date_last_played": "2025-03-28T17:05:18.000Z",
+  "profile_views": 1061,
+  "kill_count": 18685,
+  "play_count": 8232,
+  "highest_score": 8490589,
+  "picture": "744244-662cfca7c68f924624f76d8abb7b10f79.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12397,
+  "tier": 10,
+  "xp": 2891700,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 27344,
+      "user_id": 744244,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.gg/mNkQ22zJ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-30T19:14:43.000Z",
+      "updated_at": "2023-09-30T19:14:55.000Z"
+    },
+    {
+      "id": 29867,
+      "user_id": 744244,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.gg/uSwwfEFnZ9",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-23T22:40:52.000Z",
+      "updated_at": "2023-11-23T22:40:52.000Z"
+    },
+    {
+      "id": 27343,
+      "user_id": 744244,
+      "platform_id": "dc",
+      "platform_user_id": "Skittlqs",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-30T19:14:21.000Z",
+      "updated_at": "2023-09-30T19:14:21.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 744244,
+    "rank_kc": 1279,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-15T09:47:05.000Z",
+    "rank_pc": 676,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-15T09:47:07.000Z",
+    "rank_hs": 3851,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-15T02:16:32.000Z",
+    "created_at": "2025-03-28T17:05:17.000Z",
+    "updated_at": "2025-03-28T17:05:18.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T02:09:06.967Z"
+}
