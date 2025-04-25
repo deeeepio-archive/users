@@ -1,0 +1,97 @@
+{
+  "id": 795244,
+  "username": "1758752_127",
+  "description": "tu eres un buen jugador solo fue una mal pero pronto abran mas y pues me gusaria soi amigo y el no lo sabe de un kanal kronos time si pudieras apoyar a mi amigo",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-24T17:15:00.000Z",
+  "date_last_played": "2024-03-27T19:17:14.000Z",
+  "profile_views": 1,
+  "kill_count": 33,
+  "play_count": 66,
+  "highest_score": 280667,
+  "picture": "795244.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 795244,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T07:44:19.972Z",
+    "updated_at": "2025-04-25T07:44:20.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5172,
+          "user_id": 795244,
+          "cloneof_id": null,
+          "string_id": "0200308",
+          "title": "kronos ",
+          "description": "es para sub de mi canal krnos time 9 sub YT",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 55,
+          "created_at": "2020-12-07T16:39:29.000Z",
+          "updated_at": "2020-12-07T16:50:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 795244,
+            "username": "1758752_127",
+            "description": "tu eres un buen jugador solo fue una mal pero pronto abran mas y pues me gusaria soi amigo y el no lo sabe de un kanal kronos time si pudieras apoyar a mi amigo",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-24T17:15:00.000Z",
+            "date_last_played": "2024-03-27T19:17:14.000Z",
+            "kill_count": 33,
+            "play_count": 66,
+            "highest_score": 280667,
+            "picture": "795244.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 28,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "youtube"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:44:20.024Z"
+}
