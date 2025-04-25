@@ -1,0 +1,97 @@
+{
+  "id": 760803,
+  "username": "4019496_188",
+  "description": "Hawk",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-07-23T13:29:46.000Z",
+  "date_last_played": "2021-04-29T15:10:25.000Z",
+  "profile_views": 0,
+  "kill_count": 10,
+  "play_count": 57,
+  "highest_score": 195499,
+  "picture": "760803.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 760803,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T03:56:02.418Z",
+    "updated_at": "2025-04-25T03:56:02.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3799,
+          "user_id": 760803,
+          "cloneof_id": null,
+          "string_id": "sij",
+          "title": "Untitled",
+          "description": "DYJJJ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-07-25T10:56:50.000Z",
+          "updated_at": "2020-07-25T10:59:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 760803,
+            "username": "4019496_188",
+            "description": "Hawk",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-07-23T13:29:46.000Z",
+            "date_last_played": "2021-04-29T15:10:25.000Z",
+            "kill_count": 10,
+            "play_count": 57,
+            "highest_score": 195499,
+            "picture": "760803.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 12,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "HHGFD"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T03:56:02.471Z"
+}
