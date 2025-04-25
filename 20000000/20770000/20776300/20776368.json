@@ -1,0 +1,81 @@
+{
+  "id": 20776368,
+  "username": "Zimatude",
+  "description": "Nuclear and Interstellar",
+  "about": "I'm built different.  ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-05T22:54:52.000Z",
+  "date_last_played": "2024-03-19T14:17:24.000Z",
+  "profile_views": 19,
+  "kill_count": 129,
+  "play_count": 414,
+  "highest_score": 544314,
+  "picture": "20776368.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 543,
+  "tier": 2,
+  "xp": 25350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 552,
+      "user_id": 20776368,
+      "platform_id": "dc",
+      "platform_user_id": "[REDACTED]#1003",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-23T12:29:57.000Z",
+      "updated_at": "2022-05-23T12:30:21.000Z"
+    },
+    {
+      "id": 556,
+      "user_id": 20776368,
+      "platform_id": "tw",
+      "platform_user_id": "Zimatude",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-23T12:31:42.000Z",
+      "updated_at": "2022-05-23T12:31:42.000Z"
+    },
+    {
+      "id": 555,
+      "user_id": 20776368,
+      "platform_id": "yt",
+      "platform_user_id": "Zimatude",
+      "platform_user_url": "https://www.youtube.com/Zimatude",
+      "verified": false,
+      "created_at": "2022-05-23T12:31:28.000Z",
+      "updated_at": "2022-05-23T12:31:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20776368,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-03-19T14:17:23.000Z",
+    "updated_at": "2024-03-19T14:17:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T18:56:00.474Z"
+}
