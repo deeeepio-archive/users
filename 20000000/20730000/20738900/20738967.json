@@ -1,0 +1,71 @@
+{
+  "id": 20738967,
+  "username": "Kzubi",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-06-21T03:51:57.000Z",
+  "date_last_played": "2025-04-14T20:32:30.000Z",
+  "profile_views": 888,
+  "kill_count": 8246,
+  "play_count": 3751,
+  "highest_score": 6279775,
+  "picture": "20738967-d1b621fd56d9ee9427d24c09a4613ea4-d2742585-4d39-4147-a6fa-a511df03d2df.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 43,
+  "tier": 10,
+  "xp": 1251150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 93363,
+      "user_id": 20738967,
+      "platform_id": "ig",
+      "platform_user_id": "yofavgremlin",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-30T23:35:32.000Z",
+      "updated_at": "2024-04-15T06:06:17.000Z"
+    },
+    {
+      "id": 96342,
+      "user_id": 20738967,
+      "platform_id": "yt",
+      "platform_user_id": "PREY",
+      "platform_user_url": "https://www.youtube.com/@IMPREY",
+      "verified": false,
+      "created_at": "2024-07-11T04:19:23.000Z",
+      "updated_at": "2024-07-11T04:19:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20738967,
+    "rank_kc": 6925,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-06T14:04:35.000Z",
+    "rank_pc": 5815,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-06T14:04:36.000Z",
+    "rank_hs": 13593,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-06T14:04:36.000Z",
+    "created_at": "2025-04-14T20:32:30.000Z",
+    "updated_at": "2025-04-14T20:32:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T14:56:34.814Z"
+}
