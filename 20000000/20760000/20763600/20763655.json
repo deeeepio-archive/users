@@ -1,0 +1,61 @@
+{
+  "id": 20763655,
+  "username": "_MintyHoney_",
+  "description": "Sorry about that",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-02T16:20:52.000Z",
+  "date_last_played": "2023-12-07T16:09:13.000Z",
+  "profile_views": 10,
+  "kill_count": 786,
+  "play_count": 1180,
+  "highest_score": 504976,
+  "picture": "20763655.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 1,
+  "xp": 5100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7554,
+      "user_id": 20763655,
+      "platform_id": "rd",
+      "platform_user_id": "_Minty-Honey_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-02T13:58:27.000Z",
+      "updated_at": "2022-10-02T13:58:27.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20763655,
+    "rank_kc": 31134,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-17T13:55:04.000Z",
+    "rank_pc": 10105,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-17T13:55:05.000Z",
+    "rank_hs": 146298,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-17T13:55:06.000Z",
+    "created_at": "2023-12-07T16:09:12.000Z",
+    "updated_at": "2023-12-07T16:09:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:36:49.563Z"
+}
