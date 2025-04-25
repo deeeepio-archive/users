@@ -1,0 +1,61 @@
+{
+  "id": 20724887,
+  "username": "Diegomate",
+  "description": "Yummy!",
+  "about": "Dark souls fan\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-07T02:52:57.000Z",
+  "date_last_played": "2023-08-01T01:35:14.000Z",
+  "profile_views": 13,
+  "kill_count": 100,
+  "play_count": 182,
+  "highest_score": 679830,
+  "picture": "20724887-da295988f768844ebce51eed5fb45cd10.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 71,
+  "tier": 1,
+  "xp": 7800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7035,
+      "user_id": 20724887,
+      "platform_id": "dc",
+      "platform_user_id": "diegomate",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-19T17:39:09.000Z",
+      "updated_at": "2023-07-27T01:25:16.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20724887,
+    "rank_kc": 104195,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-27T16:38:06.000Z",
+    "rank_pc": 48560,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-27T16:38:06.000Z",
+    "rank_hs": 119772,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-27T16:38:07.000Z",
+    "created_at": "2023-08-01T01:35:13.000Z",
+    "updated_at": "2023-08-01T01:35:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T13:28:32.526Z"
+}
