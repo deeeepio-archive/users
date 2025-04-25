@@ -1,0 +1,61 @@
+{
+  "id": 20714892,
+  "username": "freshparsley",
+  "description": "ACELEYE GEREK YOK!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-11T09:40:55.000Z",
+  "date_last_played": "2024-12-10T17:17:51.000Z",
+  "profile_views": 31,
+  "kill_count": 955,
+  "play_count": 307,
+  "highest_score": 2576362,
+  "picture": "20714892.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 245,
+  "tier": 2,
+  "xp": 67650,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92390,
+      "user_id": 20714892,
+      "platform_id": "dc",
+      "platform_user_id": "freshparsley",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-01T15:42:57.000Z",
+      "updated_at": "2024-03-01T15:42:57.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20714892,
+    "rank_kc": 35410,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-07T11:47:18.000Z",
+    "rank_pc": 51939,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-07T11:47:20.000Z",
+    "rank_hs": 26910,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-07T11:47:22.000Z",
+    "created_at": "2024-12-10T17:17:50.000Z",
+    "updated_at": "2024-12-10T17:17:51.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:27:20.712Z"
+}

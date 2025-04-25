@@ -1,0 +1,71 @@
+{
+  "id": 20714868,
+  "username": "Hokuspokus",
+  "description": "i like turtles",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-11T05:33:01.000Z",
+  "date_last_played": "2023-05-05T12:44:04.000Z",
+  "profile_views": 23,
+  "kill_count": 381,
+  "play_count": 228,
+  "highest_score": 1782998,
+  "picture": "20714868-6a7e08ab678b6101ab44f4c84d51d3fe6.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 241,
+  "tier": 2,
+  "xp": 59700,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9276,
+      "user_id": 20714868,
+      "platform_id": "dc",
+      "platform_user_id": "hokuspokus#0927",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-08T15:43:57.000Z",
+      "updated_at": "2022-11-08T15:43:57.000Z"
+    },
+    {
+      "id": 9277,
+      "user_id": 20714868,
+      "platform_id": "yt",
+      "platform_user_id": "HokusPokus",
+      "platform_user_url": "https://www.youtube.com/channel/UCw_Rqb-OFJqlfdQwATuHWvg",
+      "verified": false,
+      "created_at": "2022-11-08T15:45:10.000Z",
+      "updated_at": "2022-11-08T15:45:10.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20714868,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T12:27:15.041Z",
+    "updated_at": "2025-04-25T12:27:15.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:27:15.131Z"
+}
