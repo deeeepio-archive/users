@@ -1,0 +1,161 @@
+{
+  "id": 789662,
+  "username": "SuperChick",
+  "description": "First time dying? Too BAD.????????????????",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-07T10:22:09.000Z",
+  "date_last_played": "2022-11-13T20:41:55.000Z",
+  "profile_views": 3,
+  "kill_count": 152,
+  "play_count": 371,
+  "highest_score": 580727,
+  "picture": "789662.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 34,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 789662,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T07:10:53.209Z",
+    "updated_at": "2025-04-25T07:10:53.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5120,
+          "user_id": 789662,
+          "cloneof_id": 3972,
+          "string_id": "aqv4chlkk2_0",
+          "title": "AquaChick Base 2_0",
+          "description": "This place is heavily guarded... try and get in...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 11175,
+          "created_at": "2020-12-04T17:08:52.000Z",
+          "updated_at": "2020-12-05T14:02:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 789662,
+            "username": "SuperChick",
+            "description": "First time dying? Too BAD.????????????????",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-07T10:22:09.000Z",
+            "date_last_played": "2022-11-13T20:41:55.000Z",
+            "kill_count": 152,
+            "play_count": 371,
+            "highest_score": 580727,
+            "picture": "789662.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 34,
+            "tier": 1,
+            "xp": 150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Adventure"
+            },
+            {
+              "id": "Aquachick"
+            },
+            {
+              "id": "Aquaquaters(AQ)"
+            },
+            {
+              "id": "Deep and shallow"
+            }
+          ]
+        },
+        {
+          "id": 5028,
+          "user_id": 789662,
+          "cloneof_id": null,
+          "string_id": "Aqv4ChlKK",
+          "title": "AquaChick Base",
+          "description": "Just a map I made- Only for fun...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 164,
+          "created_at": "2020-11-27T21:15:22.000Z",
+          "updated_at": "2020-12-04T17:03:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 789662,
+            "username": "SuperChick",
+            "description": "First time dying? Too BAD.????????????????",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-07T10:22:09.000Z",
+            "date_last_played": "2022-11-13T20:41:55.000Z",
+            "kill_count": 152,
+            "play_count": 371,
+            "highest_score": 580727,
+            "picture": "789662.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 34,
+            "tier": 1,
+            "xp": 150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Adventure"
+            },
+            {
+              "id": "Aquachick"
+            },
+            {
+              "id": "Aquaquarters"
+            },
+            {
+              "id": "Sharks"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:10:53.259Z"
+}
