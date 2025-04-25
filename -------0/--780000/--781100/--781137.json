@@ -1,0 +1,97 @@
+{
+  "id": 781137,
+  "username": "6089326_843",
+  "description": "IT iz what it izz",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-11T23:22:18.000Z",
+  "date_last_played": "2020-10-12T23:06:39.000Z",
+  "profile_views": 0,
+  "kill_count": 2,
+  "play_count": 14,
+  "highest_score": 88905,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 781137,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T06:00:49.029Z",
+    "updated_at": "2025-04-25T06:00:49.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4538,
+          "user_id": 781137,
+          "cloneof_id": null,
+          "string_id": "emerymcglone05",
+          "title": "Smoggys First Map!",
+          "description": "Mamama",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 15,
+          "created_at": "2020-10-12T19:05:07.000Z",
+          "updated_at": "2020-10-12T19:05:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 781137,
+            "username": "6089326_843",
+            "description": "IT iz what it izz",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-11T23:22:18.000Z",
+            "date_last_played": "2020-10-12T23:06:39.000Z",
+            "kill_count": 2,
+            "play_count": 14,
+            "highest_score": 88905,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#Lol"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T06:00:49.211Z"
+}
