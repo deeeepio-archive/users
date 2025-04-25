@@ -1,0 +1,97 @@
+{
+  "id": 775993,
+  "username": "ikillmanzz",
+  "description": "fuck u fatass neckbeard",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-23T16:36:37.000Z",
+  "date_last_played": "2023-11-09T19:32:27.000Z",
+  "profile_views": 12,
+  "kill_count": 50,
+  "play_count": 137,
+  "highest_score": 432474,
+  "picture": "775993.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 22,
+  "tier": 1,
+  "xp": 3300,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 775993,
+    "rank_kc": 146148,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-02T14:06:24.000Z",
+    "rank_pc": 57198,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-02T14:06:34.000Z",
+    "rank_hs": 155042,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-05-02T14:06:40.000Z",
+    "created_at": "2023-11-09T19:32:27.000Z",
+    "updated_at": "2023-11-09T19:32:27.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6856,
+          "user_id": 775993,
+          "cloneof_id": null,
+          "string_id": "cuh",
+          "title": "Untitled",
+          "description": "the good goood ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-05-17T13:13:31.000Z",
+          "updated_at": "2021-05-17T13:13:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 775993,
+            "username": "ikillmanzz",
+            "description": "fuck u fatass neckbeard",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-23T16:36:37.000Z",
+            "date_last_played": "2023-11-09T19:32:27.000Z",
+            "kill_count": 50,
+            "play_count": 137,
+            "highest_score": 432474,
+            "picture": "775993.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 3300,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fu"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T05:29:17.087Z"
+}
