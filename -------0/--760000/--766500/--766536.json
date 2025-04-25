@@ -1,0 +1,146 @@
+{
+  "id": 766536,
+  "username": "Flaco",
+  "description": "So, you have chosen death.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-18T14:31:15.000Z",
+  "date_last_played": "2020-10-08T15:29:16.000Z",
+  "profile_views": 0,
+  "kill_count": 821,
+  "play_count": 359,
+  "highest_score": 1527072,
+  "picture": "766536.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 125,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 766536,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T04:31:09.483Z",
+    "updated_at": "2025-04-25T04:31:09.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4362,
+          "user_id": 766536,
+          "cloneof_id": null,
+          "string_id": "1423547689",
+          "title": "Its a small world after all",
+          "description": "FAA",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 99,
+          "created_at": "2020-09-23T18:58:32.000Z",
+          "updated_at": "2020-09-23T19:16:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 766536,
+            "username": "Flaco",
+            "description": "So, you have chosen death.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-18T14:31:15.000Z",
+            "date_last_played": "2020-10-08T15:29:16.000Z",
+            "kill_count": 821,
+            "play_count": 359,
+            "highest_score": 1527072,
+            "picture": "766536.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 125,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        },
+        {
+          "id": 4151,
+          "user_id": 766536,
+          "cloneof_id": null,
+          "string_id": "1038298493",
+          "title": "KILL THE SHARKS! ",
+          "description": "Kill the Sharks",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 25,
+          "created_at": "2020-08-28T01:24:19.000Z",
+          "updated_at": "2020-09-10T14:40:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 766536,
+            "username": "Flaco",
+            "description": "So, you have chosen death.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-18T14:31:15.000Z",
+            "date_last_played": "2020-10-08T15:29:16.000Z",
+            "kill_count": 821,
+            "play_count": 359,
+            "highest_score": 1527072,
+            "picture": "766536.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 125,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Teamwork"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:31:09.535Z"
+}
