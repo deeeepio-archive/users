@@ -1,0 +1,152 @@
+{
+  "id": 20768112,
+  "username": "Roxana",
+  "description": "sad fish? maybe we can be friends:)\n\n",
+  "about": "𝖕𝖆𝖗𝖆𝖓𝖔𝖎𝖉",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-18T13:26:52.000Z",
+  "date_last_played": "2024-03-02T19:11:46.000Z",
+  "profile_views": 62,
+  "kill_count": 162,
+  "play_count": 273,
+  "highest_score": 760075,
+  "picture": "20768112.PNG",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 74,
+  "tier": 1,
+  "xp": 18450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20768112,
+    "rank_kc": 88855,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-16T20:16:35.000Z",
+    "rank_pc": 42026,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-16T20:16:37.000Z",
+    "rank_hs": 112589,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-16T20:16:38.000Z",
+    "created_at": "2024-03-02T19:11:45.000Z",
+    "updated_at": "2024-03-02T19:11:46.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8257,
+          "user_id": 20768112,
+          "cloneof_id": null,
+          "string_id": "12131516",
+          "title": "for all",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 326,
+          "created_at": "2021-10-19T11:49:45.000Z",
+          "updated_at": "2021-10-20T07:04:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20768112,
+            "username": "Roxana",
+            "description": "sad fish? maybe we can be friends:)\n\n",
+            "about": "𝖕𝖆𝖗𝖆𝖓𝖔𝖎𝖉",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-18T13:26:52.000Z",
+            "date_last_played": "2024-03-02T19:11:46.000Z",
+            "kill_count": 162,
+            "play_count": 273,
+            "highest_score": 760075,
+            "picture": "20768112.PNG",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 74,
+            "tier": 1,
+            "xp": 18450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "helo"
+            },
+            {
+              "id": "kill"
+            },
+            {
+              "id": "play deeep io"
+            },
+            {
+              "id": "why"
+            }
+          ]
+        },
+        {
+          "id": 8256,
+          "user_id": 20768112,
+          "cloneof_id": null,
+          "string_id": "666666",
+          "title": "my map",
+          "description": "2021",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 20,
+          "created_at": "2021-10-19T10:30:43.000Z",
+          "updated_at": "2021-10-19T10:30:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20768112,
+            "username": "Roxana",
+            "description": "sad fish? maybe we can be friends:)\n\n",
+            "about": "𝖕𝖆𝖗𝖆𝖓𝖔𝖎𝖉",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-18T13:26:52.000Z",
+            "date_last_played": "2024-03-02T19:11:46.000Z",
+            "kill_count": 162,
+            "play_count": 273,
+            "highest_score": 760075,
+            "picture": "20768112.PNG",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 74,
+            "tier": 1,
+            "xp": 18450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hallo"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T18:04:06.672Z"
+}
