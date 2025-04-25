@@ -1,0 +1,97 @@
+{
+  "id": 20715145,
+  "username": "ConCaCoCu",
+  "description": "(\\_/)\n( •-•)\n(>????\nĂN CỨT ĂN ĐẦU BÙI IK EM\nCan Play: orca,thresher,stone fish :))",
+  "about": "nothing...\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-12T11:37:52.000Z",
+  "date_last_played": "2024-06-18T02:56:36.000Z",
+  "profile_views": 205,
+  "kill_count": 2638,
+  "play_count": 3445,
+  "highest_score": 5059609,
+  "picture": "20715145-8a4b1040e8b10623989da7da109a69a3a63.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 39,
+  "tier": 3,
+  "xp": 110100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20715145,
+    "rank_kc": 11795,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-11T11:35:32.000Z",
+    "rank_pc": 2298,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-11T11:35:33.000Z",
+    "rank_hs": 7888,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-11T11:35:35.000Z",
+    "created_at": "2024-06-18T05:00:03.000Z",
+    "updated_at": "2024-06-18T05:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8853,
+          "user_id": 20715145,
+          "cloneof_id": null,
+          "string_id": "f2212",
+          "title": "Untitled",
+          "description": "moimoi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-12-26T14:11:13.000Z",
+          "updated_at": "2021-12-26T14:11:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20715145,
+            "username": "ConCaCoCu",
+            "description": "(\\_/)\n( •-•)\n(>????\nĂN CỨT ĂN ĐẦU BÙI IK EM\nCan Play: orca,thresher,stone fish :))",
+            "about": "nothing...\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-12T11:37:52.000Z",
+            "date_last_played": "2024-06-18T02:56:36.000Z",
+            "kill_count": 2638,
+            "play_count": 3445,
+            "highest_score": 5059609,
+            "picture": "20715145-8a4b1040e8b10623989da7da109a69a3a63.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 39,
+            "tier": 3,
+            "xp": 110100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "rất moi"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:28:57.643Z"
+}
