@@ -1,0 +1,81 @@
+{
+  "id": 782854,
+  "username": "Fantah",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-17T02:23:29.000Z",
+  "date_last_played": "2025-04-18T05:38:31.000Z",
+  "profile_views": 27354,
+  "kill_count": 108142,
+  "play_count": 15645,
+  "highest_score": 50047944,
+  "picture": "782854-2f597706849bf6f10233c4794e1783e4a-153e9518-beab-4649-b698-f3da109968d9.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": "Client usage, banned until 19/05/25",
+  "ban_at": "2025-04-18T21:18:21.000Z",
+  "coins": 52586,
+  "tier": 10,
+  "xp": 13056450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 96412,
+      "user_id": 782854,
+      "platform_id": "dc",
+      "platform_user_id": "f4ntah",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-13T22:40:27.000Z",
+      "updated_at": "2024-07-15T10:11:35.000Z"
+    },
+    {
+      "id": 99759,
+      "user_id": 782854,
+      "platform_id": "tc",
+      "platform_user_id": "f4ntah",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-10-29T18:08:11.000Z",
+      "updated_at": "2024-10-29T18:08:11.000Z"
+    },
+    {
+      "id": 96457,
+      "user_id": 782854,
+      "platform_id": "yt",
+      "platform_user_id": "Fantah",
+      "platform_user_url": "https://youtu.be/tYRfxSObHlo",
+      "verified": false,
+      "created_at": "2024-07-15T10:12:17.000Z",
+      "updated_at": "2025-01-14T06:33:54.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 782854,
+    "rank_kc": 19,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T11:15:02.000Z",
+    "rank_pc": 72,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T11:15:04.000Z",
+    "rank_hs": 808,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T03:52:38.000Z",
+    "created_at": "2025-04-18T05:38:31.000Z",
+    "updated_at": "2025-04-18T05:38:31.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T06:10:14.851Z"
+}
