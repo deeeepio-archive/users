@@ -1,0 +1,97 @@
+{
+  "id": 764717,
+  "username": "SANSOVP",
+  "description": "BREH U DIED NOOB\r\n TEAMERS ARE OP SOLOS ARE NOOBS AND IF YOU THINK NOT YOU ARE A NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOB",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-10T13:20:12.000Z",
+  "date_last_played": "2020-08-18T12:04:39.000Z",
+  "profile_views": 0,
+  "kill_count": 153,
+  "play_count": 173,
+  "highest_score": 591888,
+  "picture": "764717.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 34,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 764717,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T04:19:57.222Z",
+    "updated_at": "2025-04-25T04:19:57.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3975,
+          "user_id": 764717,
+          "cloneof_id": null,
+          "string_id": "my_map_v100",
+          "title": "TheGlobe World",
+          "description": "A world of everything",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-08-11T16:51:12.000Z",
+          "updated_at": "2020-08-11T17:05:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 764717,
+            "username": "SANSOVP",
+            "description": "BREH U DIED NOOB\r\n TEAMERS ARE OP SOLOS ARE NOOBS AND IF YOU THINK NOT YOU ARE A NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOB",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-10T13:20:12.000Z",
+            "date_last_played": "2020-08-18T12:04:39.000Z",
+            "kill_count": 153,
+            "play_count": 173,
+            "highest_score": 591888,
+            "picture": "764717.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 34,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "DANK MEMES"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:19:57.315Z"
+}
