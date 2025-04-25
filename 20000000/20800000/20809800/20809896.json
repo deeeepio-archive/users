@@ -1,0 +1,819 @@
+{
+  "id": 20809896,
+  "username": "CharaWuzHere",
+  "description": "II shall return to deeep.io and everyone will die to death >:D",
+  "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-25T15:22:35.000Z",
+  "date_last_played": "2024-11-17T20:51:37.000Z",
+  "profile_views": 587,
+  "kill_count": 3552,
+  "play_count": 3150,
+  "highest_score": 4644119,
+  "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 241,
+  "tier": 7,
+  "xp": 667800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 91812,
+      "user_id": 20809896,
+      "platform_id": "yt",
+      "platform_user_id": "Totally not a rickroll xD",
+      "platform_user_url": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+      "verified": false,
+      "created_at": "2024-02-14T21:50:20.000Z",
+      "updated_at": "2024-08-21T23:25:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20809896,
+    "rank_kc": 13551,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-02T00:16:18.000Z",
+    "rank_pc": 6254,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-02T00:16:37.000Z",
+    "rank_hs": 28980,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-02T00:16:56.000Z",
+    "created_at": "2025-03-31T00:48:45.000Z",
+    "updated_at": "2025-03-31T00:48:46.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244552,
+          "user_id": 20809896,
+          "cloneof_id": 10414,
+          "string_id": "small_fix_estuary",
+          "title": "Jungle reef 1v1 (slight improvement)",
+          "description": "Touch-up on my old map :D",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 59,
+          "created_at": "2024-08-19T23:04:58.000Z",
+          "updated_at": "2024-08-19T23:04:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Old"
+            },
+            {
+              "id": "Renewed"
+            }
+          ]
+        },
+        {
+          "id": 244551,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "rando_capricorn_map",
+          "title": "1st map in years (very bad map)",
+          "description": "VERY bad map, but it makes sense because I havent made a map in like 2 years lol",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 23,
+          "created_at": "2024-08-19T22:53:51.000Z",
+          "updated_at": "2024-08-19T22:53:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Bad"
+            }
+          ]
+        },
+        {
+          "id": 10414,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "jungle_reef",
+          "title": "jungle 1v1",
+          "description": "a reef and a jungle combined",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 48,
+          "created_at": "2022-07-23T19:52:49.000Z",
+          "updated_at": "2022-07-23T19:52:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "jungle"
+            },
+            {
+              "id": "reef"
+            }
+          ]
+        },
+        {
+          "id": 10412,
+          "user_id": 20809896,
+          "cloneof_id": 10392,
+          "string_id": "tiny_private_server",
+          "title": "small overdetailed map",
+          "description": "the perfect private server.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 433,
+          "created_at": "2022-07-23T17:58:43.000Z",
+          "updated_at": "2022-07-23T17:58:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "detailed"
+            },
+            {
+              "id": "small"
+            }
+          ]
+        },
+        {
+          "id": 10236,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "grim_1v1",
+          "title": "GrimGaming 1v1 map",
+          "description": "my best map yet!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 58,
+          "created_at": "2022-07-02T16:30:46.000Z",
+          "updated_at": "2022-07-02T16:30:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 10232,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "snow_pearl_defence",
+          "title": "arctic pearl defence",
+          "description": "wip",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 260,
+          "created_at": "2022-07-02T03:17:46.000Z",
+          "updated_at": "2022-07-02T15:24:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 10231,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "heart",
+          "title": "Heart",
+          "description": "you are perfect the way u are",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 2,
+          "created_at": "2022-07-01T22:17:08.000Z",
+          "updated_at": "2022-07-01T22:17:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "heart"
+            }
+          ]
+        },
+        {
+          "id": 10227,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "giant_mountian",
+          "title": "Mountian map unfinished",
+          "description": "this map has many cliffs!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 159,
+          "created_at": "2022-07-01T16:48:31.000Z",
+          "updated_at": "2022-07-01T16:48:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "unfinished"
+            }
+          ]
+        },
+        {
+          "id": 10099,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "gg_map_ffa",
+          "title": "FFA/TFFA map unfinished",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 471,
+          "created_at": "2022-06-21T20:28:56.000Z",
+          "updated_at": "2022-06-22T17:23:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "TFFA"
+            },
+            {
+              "id": "unfinished"
+            }
+          ]
+        },
+        {
+          "id": 9984,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "whirlpool_1v1",
+          "title": "whirlpool 1v1",
+          "description": "batle in a whirlpool!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 26,
+          "created_at": "2022-06-17T16:19:42.000Z",
+          "updated_at": "2022-06-17T16:19:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "pvp"
+            },
+            {
+              "id": "whirlpool"
+            }
+          ]
+        },
+        {
+          "id": 9983,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "ice_cave_1v1",
+          "title": "Ice Cave 1v1",
+          "description": "battle in a anceint icy cave!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 23,
+          "created_at": "2022-06-17T16:08:15.000Z",
+          "updated_at": "2022-06-17T16:08:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "battle royale"
+            },
+            {
+              "id": "cave"
+            },
+            {
+              "id": "Ice"
+            },
+            {
+              "id": "pvp"
+            }
+          ]
+        },
+        {
+          "id": 9981,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "midnight_1v1",
+          "title": "Midnight 1v1",
+          "description": "battle in the night!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 17,
+          "created_at": "2022-06-17T15:54:42.000Z",
+          "updated_at": "2022-06-17T15:54:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "dark"
+            },
+            {
+              "id": "forest"
+            },
+            {
+              "id": "moon"
+            },
+            {
+              "id": "night"
+            }
+          ]
+        },
+        {
+          "id": 9980,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "pond_1v1",
+          "title": "lake 1v1",
+          "description": "fight in a nice lake",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 33,
+          "created_at": "2022-06-17T15:43:06.000Z",
+          "updated_at": "2022-06-17T15:43:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "forest"
+            },
+            {
+              "id": "pvp"
+            },
+            {
+              "id": "seaweed"
+            }
+          ]
+        },
+        {
+          "id": 9979,
+          "user_id": 20809896,
+          "cloneof_id": null,
+          "string_id": "fire_1v1",
+          "title": "Fire 1v1",
+          "description": "battle under a forest fire!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 16,
+          "created_at": "2022-06-17T15:27:47.000Z",
+          "updated_at": "2022-06-17T15:27:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "battle royale"
+            },
+            {
+              "id": "fire"
+            },
+            {
+              "id": "PVP"
+            },
+            {
+              "id": "volcanoes"
+            }
+          ]
+        },
+        {
+          "id": 9950,
+          "user_id": 20809896,
+          "cloneof_id": 9914,
+          "string_id": "tffa_ffa_map_grimgaming",
+          "title": "FFA/TFFA GrimGaming",
+          "description": "A large unfinished map that should be in deeeep.io",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 403,
+          "created_at": "2022-06-14T18:47:02.000Z",
+          "updated_at": "2022-06-22T22:13:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20809896,
+            "username": "CharaWuzHere",
+            "description": "II shall return to deeep.io and everyone will die to death >:D",
+            "about": "6254ᴛʜ \"ᴍᴏsᴛ ᴘʟᴀʏᴇᴅ\" ᴘᴇʀsᴏɴ ᴏɴ ᴅᴇᴇᴇᴇᴘ.ɪᴏ\nBᴇsᴛ sᴄᴏʀᴇ ~ 4.6 ᴍɪʟ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-25T15:22:35.000Z",
+            "date_last_played": "2024-11-17T20:51:37.000Z",
+            "kill_count": 3552,
+            "play_count": 3150,
+            "highest_score": 4644119,
+            "picture": "20809896-ce2de64f61183aa64129034f5fe851b2-6b7274f7-67c8-40a7-b39c-fcf46718e4f8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 7,
+            "xp": 667800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "TFFA"
+            },
+            {
+              "id": "unfinished"
+            }
+          ]
+        }
+      ],
+      "count": 17
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:23:40.624Z"
+}
