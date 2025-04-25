@@ -1,0 +1,97 @@
+{
+  "id": 738567,
+  "username": "pipin",
+  "description": "lord sucks",
+  "about": "stop reading this",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-13T06:31:29.000Z",
+  "date_last_played": "2022-06-27T02:57:12.000Z",
+  "profile_views": 3,
+  "kill_count": 4611,
+  "play_count": 2210,
+  "highest_score": 5234359,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 165,
+  "tier": 1,
+  "xp": 5400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 738567,
+    "rank_kc": 4754,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-27T02:17:52.000Z",
+    "rank_pc": 3333,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-27T02:17:52.000Z",
+    "rank_hs": 5593,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-27T02:17:53.000Z",
+    "created_at": "2022-07-02T04:12:41.000Z",
+    "updated_at": "2022-06-27T02:57:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3539,
+          "user_id": 738567,
+          "cloneof_id": null,
+          "string_id": "uknown_mapv2",
+          "title": "/////////////////////////////////////////////////v.1",
+          "description": "?????????????????????//v.1",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 22,
+          "created_at": "2020-06-28T23:07:41.000Z",
+          "updated_at": "2020-06-28T23:07:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 738567,
+            "username": "pipin",
+            "description": "lord sucks",
+            "about": "stop reading this",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-05-13T06:31:29.000Z",
+            "date_last_played": "2022-06-27T02:57:12.000Z",
+            "kill_count": 4611,
+            "play_count": 2210,
+            "highest_score": 5234359,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 165,
+            "tier": 1,
+            "xp": 5400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hard"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:29:56.111Z"
+}
