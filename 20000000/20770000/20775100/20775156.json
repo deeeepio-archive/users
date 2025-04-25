@@ -1,0 +1,61 @@
+{
+  "id": 20775156,
+  "username": "The_number_1_Idiot",
+  "description": null,
+  "about": "I'm stupid",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-02T12:58:47.000Z",
+  "date_last_played": "2023-02-13T15:37:18.000Z",
+  "profile_views": 14,
+  "kill_count": 195,
+  "play_count": 189,
+  "highest_score": 1208414,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 177,
+  "tier": 1,
+  "xp": 20250,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14327,
+      "user_id": 20775156,
+      "platform_id": "dc",
+      "platform_user_id": "MYNAMEJEFPPLS",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-01T17:55:18.000Z",
+      "updated_at": "2023-02-01T17:55:18.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20775156,
+    "rank_kc": 70712,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-01T18:52:33.000Z",
+    "rank_pc": 46618,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-01T18:52:42.000Z",
+    "rank_hs": 66458,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-01T18:52:47.000Z",
+    "created_at": "2023-12-07T23:28:10.000Z",
+    "updated_at": "2023-02-13T15:37:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T18:48:32.995Z"
+}
