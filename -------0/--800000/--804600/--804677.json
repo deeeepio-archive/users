@@ -1,0 +1,152 @@
+{
+  "id": 804677,
+  "username": "Katzen",
+  "description": "oh no me cheese.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-20T15:40:41.000Z",
+  "date_last_played": "2022-01-01T21:12:07.000Z",
+  "profile_views": 11,
+  "kill_count": 770,
+  "play_count": 235,
+  "highest_score": 1732187,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 184,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 804677,
+    "rank_kc": 32336,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-09T14:38:14.000Z",
+    "rank_pc": 41564,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-09-09T14:38:16.000Z",
+    "rank_hs": 47912,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-09T14:38:18.000Z",
+    "created_at": "2023-10-17T18:09:03.000Z",
+    "updated_at": "2023-09-09T14:38:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6179,
+          "user_id": 804677,
+          "cloneof_id": null,
+          "string_id": "my_first_map_v006_1",
+          "title": "Leviathan's lair",
+          "description": "once a long time ago, Leviathan class creatures roamed these lands, shaping caves in the deep sea, but theyr time is long gone, even so, theyr roars can still be heard, echoing throght the caves they carved.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 366,
+          "created_at": "2021-03-10T21:53:48.000Z",
+          "updated_at": "2021-07-24T17:49:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 804677,
+            "username": "Katzen",
+            "description": "oh no me cheese.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-20T15:40:41.000Z",
+            "date_last_played": "2022-01-01T21:12:07.000Z",
+            "kill_count": 770,
+            "play_count": 235,
+            "highest_score": 1732187,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 184,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Work In Progress"
+            }
+          ]
+        },
+        {
+          "id": 5495,
+          "user_id": 804677,
+          "cloneof_id": null,
+          "string_id": "katzen",
+          "title": "Katzen_map",
+          "description": "A map for all tastes",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 325,
+          "created_at": "2021-01-06T15:24:32.000Z",
+          "updated_at": "2021-03-11T12:56:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 804677,
+            "username": "Katzen",
+            "description": "oh no me cheese.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-20T15:40:41.000Z",
+            "date_last_played": "2022-01-01T21:12:07.000Z",
+            "kill_count": 770,
+            "play_count": 235,
+            "highest_score": 1732187,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 184,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa?"
+            },
+            {
+              "id": "katzen"
+            },
+            {
+              "id": "or tffa?"
+            },
+            {
+              "id": "world paradise"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:54:01.741Z"
+}
