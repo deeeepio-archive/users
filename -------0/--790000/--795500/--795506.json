@@ -1,0 +1,101 @@
+{
+  "id": 795506,
+  "username": "manta3",
+  "description": "",
+  "about": "tarim basin xinjiang province jade gate ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-25T12:04:48.000Z",
+  "date_last_played": "2025-04-21T19:55:44.000Z",
+  "profile_views": 3355,
+  "kill_count": 64237,
+  "play_count": 19439,
+  "highest_score": 19653775,
+  "picture": "795506-e1361099adb879a5dd428c168cd1101085-aa570068-b2fe-440b-9eaa-ce07283f0009.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 31710,
+  "tier": 10,
+  "xp": 3389250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 795506,
+    "rank_kc": 46,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-20T15:12:59.000Z",
+    "rank_pc": 11,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-20T15:13:01.000Z",
+    "rank_hs": 1394,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-20T15:13:03.000Z",
+    "created_at": "2025-04-21T19:55:43.000Z",
+    "updated_at": "2025-04-21T19:55:44.000Z",
+    "pd": {
+      "played": 13,
+      "won": 7,
+      "ratio": 54
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10020,
+          "user_id": 795506,
+          "cloneof_id": null,
+          "string_id": "tortura",
+          "title": "abomination-v2",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 4,
+          "objects": 186,
+          "created_at": "2022-06-18T23:12:40.000Z",
+          "updated_at": "2023-06-24T22:17:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 795506,
+            "username": "manta3",
+            "description": "",
+            "about": "tarim basin xinjiang province jade gate ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-25T12:04:48.000Z",
+            "date_last_played": "2025-04-21T19:55:44.000Z",
+            "kill_count": 64237,
+            "play_count": 19439,
+            "highest_score": 19653775,
+            "picture": "795506-e1361099adb879a5dd428c168cd1101085-aa570068-b2fe-440b-9eaa-ce07283f0009.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 31710,
+            "tier": 10,
+            "xp": 3389250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "vertical"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:45:48.170Z"
+}
