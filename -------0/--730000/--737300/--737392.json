@@ -1,0 +1,61 @@
+{
+  "id": 737392,
+  "username": "Altrup",
+  "description": "Such is life",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-10T15:51:22.000Z",
+  "date_last_played": "2025-04-22T14:58:37.000Z",
+  "profile_views": 64,
+  "kill_count": 188,
+  "play_count": 255,
+  "highest_score": 7177063,
+  "picture": "737392-6349fca02818d717ee6ef9a38e8eb281-10c344f5-c5f7-41b9-b3a5-c984d12a65a2.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 287,
+  "tier": 3,
+  "xp": 104250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103587,
+      "user_id": 737392,
+      "platform_id": "dc",
+      "platform_user_id": "altrup",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-11T12:35:11.000Z",
+      "updated_at": "2025-04-11T12:35:11.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 737392,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-22T14:58:36.000Z",
+    "updated_at": "2025-04-22T14:58:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:23:04.487Z"
+}
