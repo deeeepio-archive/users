@@ -1,0 +1,158 @@
+{
+  "id": 20719840,
+  "username": "8782410_579",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-23T18:38:59.000Z",
+  "date_last_played": "2022-03-25T01:22:47.000Z",
+  "profile_views": 0,
+  "kill_count": 13,
+  "play_count": 72,
+  "highest_score": 165562,
+  "picture": "20719840.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20719840,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T12:56:58.102Z",
+    "updated_at": "2025-04-25T12:56:58.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6647,
+          "user_id": 20719840,
+          "cloneof_id": null,
+          "string_id": "minigamesalmonswim",
+          "title": "Salmon swim minigame",
+          "description": "Salmon must return to their native steam",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 26,
+          "created_at": "2021-04-28T01:45:13.000Z",
+          "updated_at": "2021-04-28T01:45:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20719840,
+            "username": "8782410_579",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-23T18:38:59.000Z",
+            "date_last_played": "2022-03-25T01:22:47.000Z",
+            "kill_count": 13,
+            "play_count": 72,
+            "highest_score": 165562,
+            "picture": "20719840.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 14,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "currents"
+            },
+            {
+              "id": "Minigame"
+            },
+            {
+              "id": "salmon"
+            }
+          ]
+        },
+        {
+          "id": 6616,
+          "user_id": 20719840,
+          "cloneof_id": null,
+          "string_id": "shipwreck_shallows2",
+          "title": "Shipwreck Shallows(in progress)",
+          "description": "Shipwreck Shallows is a swamp with many a wreck.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 232,
+          "created_at": "2021-04-23T21:59:07.000Z",
+          "updated_at": "2021-04-29T15:58:38.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20719840,
+            "username": "8782410_579",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-23T18:38:59.000Z",
+            "date_last_played": "2022-03-25T01:22:47.000Z",
+            "kill_count": 13,
+            "play_count": 72,
+            "highest_score": 165562,
+            "picture": "20719840.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 14,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " wreck"
+            },
+            {
+              "id": "boat"
+            },
+            {
+              "id": "Ship"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:56:58.166Z"
+}
