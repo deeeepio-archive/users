@@ -1,0 +1,71 @@
+{
+  "id": 763206,
+  "username": "MYpoxxy",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-03T11:54:32.000Z",
+  "date_last_played": "2023-02-14T10:45:12.000Z",
+  "profile_views": 97,
+  "kill_count": 302,
+  "play_count": 341,
+  "highest_score": 1716856,
+  "picture": "763206-5f7e261cfd5aea793d952384d98a781d.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 231,
+  "tier": 2,
+  "xp": 26400,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3223,
+      "user_id": 763206,
+      "platform_id": "dc",
+      "platform_user_id": "mypoxxy#1477",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-02T07:07:19.000Z",
+      "updated_at": "2022-07-02T07:07:19.000Z"
+    },
+    {
+      "id": 3221,
+      "user_id": 763206,
+      "platform_id": "yt",
+      "platform_user_id": " My poxxy",
+      "platform_user_url": "https://www.youtube.com/channel/UCkD91j8yNR20npCfGlXEjoQ",
+      "verified": false,
+      "created_at": "2022-07-02T07:04:47.000Z",
+      "updated_at": "2022-07-02T07:08:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 763206,
+    "rank_kc": 53792,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-15T03:26:28.000Z",
+    "rank_pc": 27252,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-15T03:39:12.000Z",
+    "rank_hs": 42969,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-15T03:26:30.000Z",
+    "created_at": "2023-10-31T16:48:29.000Z",
+    "updated_at": "2023-02-14T10:45:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:10:47.908Z"
+}

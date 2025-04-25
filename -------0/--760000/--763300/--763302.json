@@ -1,0 +1,100 @@
+{
+  "id": 763302,
+  "username": "catbuUtS",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-03T21:25:21.000Z",
+  "date_last_played": "2020-08-03T21:25:21.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 763302,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T04:11:13.186Z",
+    "updated_at": "2025-04-25T04:11:13.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3914,
+          "user_id": 763302,
+          "cloneof_id": null,
+          "string_id": "map_half_sea_half_fun_half_sky",
+          "title": "half sky half sea",
+          "description": "ilands in the sky and ilands in the water ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 24,
+          "created_at": "2020-08-03T22:16:30.000Z",
+          "updated_at": "2020-08-03T22:25:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 763302,
+            "username": "catbuUtS",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-03T21:25:21.000Z",
+            "date_last_played": "2020-08-03T21:25:21.000Z",
+            "kill_count": 0,
+            "play_count": 0,
+            "highest_score": 0,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#big"
+            },
+            {
+              "id": "#islands"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:11:13.274Z"
+}
