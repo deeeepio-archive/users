@@ -1,0 +1,460 @@
+{
+  "id": 20768791,
+  "username": "Manahina",
+  "description": "Sorry, it was an accident!\n\n... unless you attacked me first. In that case, you deserve it.",
+  "about": "Just a trans girl playing a game about big fish killing other big fish.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-20T18:42:39.000Z",
+  "date_last_played": "2025-04-25T15:44:48.000Z",
+  "profile_views": 402,
+  "kill_count": 4591,
+  "play_count": 3527,
+  "highest_score": 3000835,
+  "picture": "20768791-a84cad7b1ded9f2f10e7a91034c138b620-12dbdb78-b387-4ada-8ebd-50aed184d1c6.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 94,
+  "tier": 8,
+  "xp": 815850,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101933,
+      "user_id": 20768791,
+      "platform_id": "tw",
+      "platform_user_id": "! This is my bluesky account.",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-01-14T04:25:26.000Z",
+      "updated_at": "2025-01-14T04:28:12.000Z"
+    },
+    {
+      "id": 101750,
+      "user_id": 20768791,
+      "platform_id": "tw",
+      "platform_user_id": "@manahina27.bsky.social",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-01-08T04:47:48.000Z",
+      "updated_at": "2025-01-08T04:47:48.000Z"
+    },
+    {
+      "id": 101934,
+      "user_id": 20768791,
+      "platform_id": "yt",
+      "platform_user_id": "I never really post anything on my yt.",
+      "platform_user_url": "https://youtube.com/@Manahina1?si=RhY6c5vh7G6dzXVt",
+      "verified": false,
+      "created_at": "2025-01-14T04:27:56.000Z",
+      "updated_at": "2025-01-14T04:27:56.000Z"
+    },
+    {
+      "id": 31357,
+      "user_id": 20768791,
+      "platform_id": "yt",
+      "platform_user_id": "Manahina",
+      "platform_user_url": "https://youtube.com/@Manahina1?si=RhY6c5vh7G6dzXVt",
+      "verified": false,
+      "created_at": "2023-12-27T07:36:35.000Z",
+      "updated_at": "2023-12-27T07:36:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20768791,
+    "rank_kc": 7747,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-16T13:58:20.000Z",
+    "rank_pc": 3008,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-16T13:58:25.000Z",
+    "rank_hs": 23717,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-16T13:58:28.000Z",
+    "created_at": "2025-04-25T15:44:47.000Z",
+    "updated_at": "2025-04-25T15:44:48.000Z",
+    "pd": {
+      "played": 28,
+      "won": 21,
+      "ratio": 75
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244915,
+          "user_id": 20768791,
+          "cloneof_id": null,
+          "string_id": "volcanicdescent1v1",
+          "title": "Volcanic Decent 1V1",
+          "description": "Ever wanted to kill your friends? Now you can. it'll make you go to hell- oh wait nevermind. You are already here.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 36,
+          "created_at": "2024-11-23T06:40:50.000Z",
+          "updated_at": "2024-11-23T06:40:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20768791,
+            "username": "Manahina",
+            "description": "Sorry, it was an accident!\n\n... unless you attacked me first. In that case, you deserve it.",
+            "about": "Just a trans girl playing a game about big fish killing other big fish.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-20T18:42:39.000Z",
+            "date_last_played": "2025-04-25T15:44:48.000Z",
+            "kill_count": 4591,
+            "play_count": 3527,
+            "highest_score": 3000835,
+            "picture": "20768791-a84cad7b1ded9f2f10e7a91034c138b620-12dbdb78-b387-4ada-8ebd-50aed184d1c6.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 94,
+            "tier": 8,
+            "xp": 815850,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Volcano"
+            }
+          ]
+        },
+        {
+          "id": 12835,
+          "user_id": 20768791,
+          "cloneof_id": null,
+          "string_id": "saintshoreline1v1",
+          "title": "Frigid Coast",
+          "description": "Saint's version of Shoreline from Rain World.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 59,
+          "created_at": "2023-09-15T02:48:15.000Z",
+          "updated_at": "2023-09-15T02:49:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20768791,
+            "username": "Manahina",
+            "description": "Sorry, it was an accident!\n\n... unless you attacked me first. In that case, you deserve it.",
+            "about": "Just a trans girl playing a game about big fish killing other big fish.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-20T18:42:39.000Z",
+            "date_last_played": "2025-04-25T15:44:48.000Z",
+            "kill_count": 4591,
+            "play_count": 3527,
+            "highest_score": 3000835,
+            "picture": "20768791-a84cad7b1ded9f2f10e7a91034c138b620-12dbdb78-b387-4ada-8ebd-50aed184d1c6.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 94,
+            "tier": 8,
+            "xp": 815850,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Rain World"
+            },
+            {
+              "id": "Saint"
+            },
+            {
+              "id": "Shoreline"
+            }
+          ]
+        },
+        {
+          "id": 12351,
+          "user_id": 20768791,
+          "cloneof_id": null,
+          "string_id": "TheManofMen_Mountain_Pond",
+          "title": "Mountain Pond 1v1",
+          "description": "Some crazy old sailor crashed their ship into the wall of a mountain in a pond high in the sky, and the remaining fish must fight to survive.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 82,
+          "created_at": "2023-05-30T02:59:32.000Z",
+          "updated_at": "2023-09-15T01:49:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20768791,
+            "username": "Manahina",
+            "description": "Sorry, it was an accident!\n\n... unless you attacked me first. In that case, you deserve it.",
+            "about": "Just a trans girl playing a game about big fish killing other big fish.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-20T18:42:39.000Z",
+            "date_last_played": "2025-04-25T15:44:48.000Z",
+            "kill_count": 4591,
+            "play_count": 3527,
+            "highest_score": 3000835,
+            "picture": "20768791-a84cad7b1ded9f2f10e7a91034c138b620-12dbdb78-b387-4ada-8ebd-50aed184d1c6.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 94,
+            "tier": 8,
+            "xp": 815850,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Mountains"
+            }
+          ]
+        },
+        {
+          "id": 10718,
+          "user_id": 20768791,
+          "cloneof_id": null,
+          "string_id": "sulfur_sea",
+          "title": "The Sulfurous Sea WIP",
+          "description": "This is the Sulfurous Sea and the Abyss (WIP) from the Terraria Calamity Mod.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 426,
+          "created_at": "2022-08-22T03:12:05.000Z",
+          "updated_at": "2022-11-16T14:42:23.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20768791,
+            "username": "Manahina",
+            "description": "Sorry, it was an accident!\n\n... unless you attacked me first. In that case, you deserve it.",
+            "about": "Just a trans girl playing a game about big fish killing other big fish.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-20T18:42:39.000Z",
+            "date_last_played": "2025-04-25T15:44:48.000Z",
+            "kill_count": 4591,
+            "play_count": 3527,
+            "highest_score": 3000835,
+            "picture": "20768791-a84cad7b1ded9f2f10e7a91034c138b620-12dbdb78-b387-4ada-8ebd-50aed184d1c6.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 94,
+            "tier": 8,
+            "xp": 815850,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Abyss"
+            },
+            {
+              "id": "Calamity Mod"
+            },
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "Sulfurous Sea"
+            },
+            {
+              "id": "Terraria"
+            }
+          ]
+        },
+        {
+          "id": 9801,
+          "user_id": 20768791,
+          "cloneof_id": null,
+          "string_id": "i_like_trains",
+          "title": "Grand Train Station",
+          "description": "I like trains",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2022-05-12T03:12:21.000Z",
+          "updated_at": "2022-05-12T11:17:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20768791,
+            "username": "Manahina",
+            "description": "Sorry, it was an accident!\n\n... unless you attacked me first. In that case, you deserve it.",
+            "about": "Just a trans girl playing a game about big fish killing other big fish.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-20T18:42:39.000Z",
+            "date_last_played": "2025-04-25T15:44:48.000Z",
+            "kill_count": 4591,
+            "play_count": 3527,
+            "highest_score": 3000835,
+            "picture": "20768791-a84cad7b1ded9f2f10e7a91034c138b620-12dbdb78-b387-4ada-8ebd-50aed184d1c6.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 94,
+            "tier": 8,
+            "xp": 815850,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "♪~ ᕕ(ᐛ)ᕗ"
+            },
+            {
+              "id": "i like trains"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 9407,
+          "user_id": 20768791,
+          "cloneof_id": null,
+          "string_id": "island5",
+          "title": "The Island WIP",
+          "description": "WIP",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 37,
+          "created_at": "2022-03-02T12:59:11.000Z",
+          "updated_at": "2022-03-02T12:59:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20768791,
+            "username": "Manahina",
+            "description": "Sorry, it was an accident!\n\n... unless you attacked me first. In that case, you deserve it.",
+            "about": "Just a trans girl playing a game about big fish killing other big fish.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-20T18:42:39.000Z",
+            "date_last_played": "2025-04-25T15:44:48.000Z",
+            "kill_count": 4591,
+            "play_count": 3527,
+            "highest_score": 3000835,
+            "picture": "20768791-a84cad7b1ded9f2f10e7a91034c138b620-12dbdb78-b387-4ada-8ebd-50aed184d1c6.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 94,
+            "tier": 8,
+            "xp": 815850,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 9208,
+          "user_id": 20768791,
+          "cloneof_id": null,
+          "string_id": "tower",
+          "title": "The Tower (WIP)",
+          "description": "It's like a layered cake.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 247,
+          "created_at": "2022-02-05T22:32:04.000Z",
+          "updated_at": "2022-02-06T17:24:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20768791,
+            "username": "Manahina",
+            "description": "Sorry, it was an accident!\n\n... unless you attacked me first. In that case, you deserve it.",
+            "about": "Just a trans girl playing a game about big fish killing other big fish.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-20T18:42:39.000Z",
+            "date_last_played": "2025-04-25T15:44:48.000Z",
+            "kill_count": 4591,
+            "play_count": 3527,
+            "highest_score": 3000835,
+            "picture": "20768791-a84cad7b1ded9f2f10e7a91034c138b620-12dbdb78-b387-4ada-8ebd-50aed184d1c6.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 94,
+            "tier": 8,
+            "xp": 815850,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Cake"
+            },
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "Team FFA"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        }
+      ],
+      "count": 7
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T18:07:55.443Z"
+}
