@@ -1,0 +1,61 @@
+{
+  "id": 785592,
+  "username": "O_Trilobite",
+  "description": "You had a pretty good run.",
+  "about": "Autistic; my special interest is marine life.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-26T03:16:56.000Z",
+  "date_last_played": "2025-03-11T00:48:30.000Z",
+  "profile_views": 16,
+  "kill_count": 981,
+  "play_count": 1081,
+  "highest_score": 1459980,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 43,
+  "tier": 2,
+  "xp": 74100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 100568,
+      "user_id": 785592,
+      "platform_id": "rd",
+      "platform_user_id": "Vito_Assenjo",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-11-24T22:39:09.000Z",
+      "updated_at": "2024-11-24T22:39:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 785592,
+    "rank_kc": 30141,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-08T19:16:29.000Z",
+    "rank_pc": 16889,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-08T19:16:32.000Z",
+    "rank_hs": 61998,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-08T19:16:38.000Z",
+    "created_at": "2025-03-11T00:48:30.000Z",
+    "updated_at": "2025-03-11T00:48:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T06:33:44.724Z"
+}
