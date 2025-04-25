@@ -1,0 +1,146 @@
+{
+  "id": 797291,
+  "username": "_BOB_",
+  "description": "FFA___Record:32.4 million\r\n1V1____Morray eel streak: 13 :P lol\r\nFFA Tier 1 record: 824.6K (stupid leo seal and lag)\r\n\r\nRip old maps\r\n\r\nalso if you team then make sure you are prepared to die",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-01T04:38:13.000Z",
+  "date_last_played": "2021-12-23T06:41:09.000Z",
+  "profile_views": 0,
+  "kill_count": 3119,
+  "play_count": 1720,
+  "highest_score": 3573699,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 589,
+  "tier": 1,
+  "xp": 1350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 797291,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T07:55:39.426Z",
+    "updated_at": "2025-04-25T07:55:39.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6928,
+          "user_id": 797291,
+          "cloneof_id": 5597,
+          "string_id": "map_1v1",
+          "title": "Map for 1v1 on",
+          "description": "a bad 1v1 map... idk what else add mebbe boat?",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 35,
+          "created_at": "2021-05-23T10:26:14.000Z",
+          "updated_at": "2021-05-23T10:26:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 797291,
+            "username": "_BOB_",
+            "description": "FFA___Record:32.4 million\r\n1V1____Morray eel streak: 13 :P lol\r\nFFA Tier 1 record: 824.6K (stupid leo seal and lag)\r\n\r\nRip old maps\r\n\r\nalso if you team then make sure you are prepared to die",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-01T04:38:13.000Z",
+            "date_last_played": "2021-12-23T06:41:09.000Z",
+            "kill_count": 3119,
+            "play_count": 1720,
+            "highest_score": 3573699,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 589,
+            "tier": 1,
+            "xp": 1350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#1v1"
+            },
+            {
+              "id": "#map"
+            }
+          ]
+        },
+        {
+          "id": 6927,
+          "user_id": 797291,
+          "cloneof_id": null,
+          "string_id": "map_test_mine",
+          "title": "Test",
+          "description": "Test",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 6,
+          "created_at": "2021-05-23T10:01:13.000Z",
+          "updated_at": "2021-05-23T10:01:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 797291,
+            "username": "_BOB_",
+            "description": "FFA___Record:32.4 million\r\n1V1____Morray eel streak: 13 :P lol\r\nFFA Tier 1 record: 824.6K (stupid leo seal and lag)\r\n\r\nRip old maps\r\n\r\nalso if you team then make sure you are prepared to die",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-01T04:38:13.000Z",
+            "date_last_played": "2021-12-23T06:41:09.000Z",
+            "kill_count": 3119,
+            "play_count": 1720,
+            "highest_score": 3573699,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 589,
+            "tier": 1,
+            "xp": 1350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#test"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:55:39.512Z"
+}
