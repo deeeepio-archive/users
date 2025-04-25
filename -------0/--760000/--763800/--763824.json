@@ -1,0 +1,218 @@
+{
+  "id": 763824,
+  "username": "smuli_fas_deeeep",
+  "description": "stay safe out there\n\nDiscord: something4440#4031",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-06T02:47:11.000Z",
+  "date_last_played": "2023-07-16T06:23:56.000Z",
+  "profile_views": 239,
+  "kill_count": 18397,
+  "play_count": 12476,
+  "highest_score": 5325393,
+  "picture": "763824-ae2dd4d22b4b2b310109cf441174eca7ca.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 163,
+  "tier": 6,
+  "xp": 502950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21596,
+      "user_id": 763824,
+      "platform_id": "dc",
+      "platform_user_id": "waterfowl_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-25T10:23:49.000Z",
+      "updated_at": "2023-06-25T10:24:50.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 763824,
+    "rank_kc": 819,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-05T00:30:31.000Z",
+    "rank_pc": 71,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-05T00:30:44.000Z",
+    "rank_hs": 7146,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-05T00:30:52.000Z",
+    "created_at": "2023-11-11T10:39:00.000Z",
+    "updated_at": "2023-11-05T00:30:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9423,
+          "user_id": 763824,
+          "cloneof_id": 9295,
+          "string_id": "funny_1v1",
+          "title": "TotallyOriginal",
+          "description": "basically craze + emi + an atom from smuli",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 34,
+          "created_at": "2022-03-07T03:11:43.000Z",
+          "updated_at": "2022-03-07T03:11:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 763824,
+            "username": "smuli_fas_deeeep",
+            "description": "stay safe out there\n\nDiscord: something4440#4031",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-06T02:47:11.000Z",
+            "date_last_played": "2023-07-16T06:23:56.000Z",
+            "kill_count": 18397,
+            "play_count": 12476,
+            "highest_score": 5325393,
+            "picture": "763824-ae2dd4d22b4b2b310109cf441174eca7ca.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 163,
+            "tier": 6,
+            "xp": 502950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "funny"
+            },
+            {
+              "id": "tomfoolery"
+            },
+            {
+              "id": "trol"
+            }
+          ]
+        },
+        {
+          "id": 9373,
+          "user_id": 763824,
+          "cloneof_id": 8688,
+          "string_id": "The_Oasis_v2",
+          "title": "tacoco_oasis_1v1",
+          "description": "An edit of Tacoco's 1v1 map \"The_Oasis_1v1\", by Smuli",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 38,
+          "created_at": "2022-02-27T03:30:24.000Z",
+          "updated_at": "2022-02-27T09:19:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 763824,
+            "username": "smuli_fas_deeeep",
+            "description": "stay safe out there\n\nDiscord: something4440#4031",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-06T02:47:11.000Z",
+            "date_last_played": "2023-07-16T06:23:56.000Z",
+            "kill_count": 18397,
+            "play_count": 12476,
+            "highest_score": 5325393,
+            "picture": "763824-ae2dd4d22b4b2b310109cf441174eca7ca.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 163,
+            "tier": 6,
+            "xp": 502950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "edit"
+            },
+            {
+              "id": "smuli"
+            },
+            {
+              "id": "tacoco"
+            },
+            {
+              "id": "tomfoolery"
+            }
+          ]
+        },
+        {
+          "id": 5384,
+          "user_id": 763824,
+          "cloneof_id": null,
+          "string_id": "smulifas_map_v1",
+          "title": "The Volcanic Abyss",
+          "description": "My First Map ! ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 22,
+          "created_at": "2020-12-24T12:18:48.000Z",
+          "updated_at": "2021-08-11T07:13:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 763824,
+            "username": "smuli_fas_deeeep",
+            "description": "stay safe out there\n\nDiscord: something4440#4031",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-06T02:47:11.000Z",
+            "date_last_played": "2023-07-16T06:23:56.000Z",
+            "kill_count": 18397,
+            "play_count": 12476,
+            "highest_score": 5325393,
+            "picture": "763824-ae2dd4d22b4b2b310109cf441174eca7ca.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 163,
+            "tier": 6,
+            "xp": 502950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#1v1"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:14:49.836Z"
+}
