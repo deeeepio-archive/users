@@ -1,0 +1,65 @@
+{
+  "id": 20753260,
+  "username": "ik",
+  "description": "mm~oops sorry:<",
+  "about": "...🙃",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-08-24T07:01:58.000Z",
+  "date_last_played": "2025-04-24T12:37:14.000Z",
+  "profile_views": 1429,
+  "kill_count": 6804,
+  "play_count": 3556,
+  "highest_score": 2878136,
+  "picture": "20753260-229d10d0d8e10b2109fd8ad42838e5be274-b7a02b3c-b6d7-4307-8646-ae1ae0fd168f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 554,
+  "tier": 8,
+  "xp": 854250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101781,
+      "user_id": 20753260,
+      "platform_id": "yt",
+      "platform_user_id": ":>",
+      "platform_user_url": "https://www.youtube.com/watch?v=_anCWNtgZdo",
+      "verified": false,
+      "created_at": "2025-01-09T07:02:32.000Z",
+      "updated_at": "2025-01-09T07:02:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20753260,
+    "rank_kc": 11239,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-14T16:13:34.000Z",
+    "rank_pc": 4187,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-14T16:13:36.000Z",
+    "rank_hs": 42439,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-14T16:13:37.000Z",
+    "created_at": "2025-04-24T12:37:14.000Z",
+    "updated_at": "2025-04-24T12:37:14.000Z",
+    "pd": {
+      "played": 8,
+      "won": 5,
+      "ratio": 63
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:24:59.704Z"
+}
