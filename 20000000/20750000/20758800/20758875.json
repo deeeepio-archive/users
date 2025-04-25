@@ -1,0 +1,97 @@
+{
+  "id": 20758875,
+  "username": "7062283_832",
+  "description": "yeeticus feeticus  get footed on",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-15T02:15:12.000Z",
+  "date_last_played": "2022-01-17T03:23:58.000Z",
+  "profile_views": 0,
+  "kill_count": 235,
+  "play_count": 469,
+  "highest_score": 895625,
+  "picture": "20758875.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20758875,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T17:01:24.285Z",
+    "updated_at": "2025-04-25T17:01:24.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7898,
+          "user_id": 20758875,
+          "cloneof_id": null,
+          "string_id": "xbhxdnghcf",
+          "title": "big blue/green",
+          "description": "team ffa unfinished",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 64,
+          "created_at": "2021-09-21T00:07:15.000Z",
+          "updated_at": "2021-10-01T23:16:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20758875,
+            "username": "7062283_832",
+            "description": "yeeticus feeticus  get footed on",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-15T02:15:12.000Z",
+            "date_last_played": "2022-01-17T03:23:58.000Z",
+            "kill_count": 235,
+            "play_count": 469,
+            "highest_score": 895625,
+            "picture": "20758875.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 25,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "dzjndnxtjtdmkdt"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:01:24.337Z"
+}
