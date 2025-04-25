@@ -1,0 +1,143 @@
+{
+  "id": 787126,
+  "username": "Bzysio",
+  "description": "🤨",
+  "about": "hi",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-30T18:08:44.000Z",
+  "date_last_played": "2024-08-22T17:52:27.000Z",
+  "profile_views": 14,
+  "kill_count": 31,
+  "play_count": 48,
+  "highest_score": 145345,
+  "picture": "787126.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 1,
+  "xp": 7950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 787126,
+    "rank_kc": 268806,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-24T17:53:31.000Z",
+    "rank_pc": 99884,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-24T17:53:32.000Z",
+    "rank_hs": 487862,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-24T17:53:32.000Z",
+    "created_at": "2024-08-22T17:52:27.000Z",
+    "updated_at": "2024-08-22T17:52:27.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244562,
+          "user_id": 787126,
+          "cloneof_id": null,
+          "string_id": "what_a_moony",
+          "title": "Moon",
+          "description": "im lazy",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 11,
+          "created_at": "2024-08-22T17:00:03.000Z",
+          "updated_at": "2024-08-22T17:06:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 787126,
+            "username": "Bzysio",
+            "description": "🤨",
+            "about": "hi",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-30T18:08:44.000Z",
+            "date_last_played": "2024-08-22T17:52:27.000Z",
+            "kill_count": 31,
+            "play_count": 48,
+            "highest_score": 145345,
+            "picture": "787126.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 28,
+            "tier": 1,
+            "xp": 7950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "despicable"
+            }
+          ]
+        },
+        {
+          "id": 7219,
+          "user_id": 787126,
+          "cloneof_id": null,
+          "string_id": "122654",
+          "title": "Beach Of Far",
+          "description": "Small Map, But When You Go Far From The Beach, Weird Things Approach",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 12,
+          "created_at": "2021-06-25T08:04:19.000Z",
+          "updated_at": "2021-06-25T08:05:28.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 787126,
+            "username": "Bzysio",
+            "description": "🤨",
+            "about": "hi",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-30T18:08:44.000Z",
+            "date_last_played": "2024-08-22T17:52:27.000Z",
+            "kill_count": 31,
+            "play_count": 48,
+            "highest_score": 145345,
+            "picture": "787126.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 28,
+            "tier": 1,
+            "xp": 7950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T06:48:46.926Z"
+}
