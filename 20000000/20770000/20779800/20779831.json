@@ -1,0 +1,97 @@
+{
+  "id": 20779831,
+  "username": "Alias",
+  "description": "zzzqer",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-18T01:25:07.000Z",
+  "date_last_played": "2025-03-05T04:00:04.000Z",
+  "profile_views": 1506,
+  "kill_count": 7433,
+  "play_count": 2196,
+  "highest_score": 13313472,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8903,
+  "tier": 10,
+  "xp": 1394400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20779831,
+    "rank_kc": 4503,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-18T00:54:20.000Z",
+    "rank_pc": 6363,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-18T00:54:22.000Z",
+    "rank_hs": 1860,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-18T00:54:23.000Z",
+    "created_at": "2025-03-05T04:00:03.000Z",
+    "updated_at": "2025-03-05T04:00:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8851,
+          "user_id": 20779831,
+          "cloneof_id": null,
+          "string_id": "zzzqer",
+          "title": ":-)",
+          "description": ":-)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 9,
+          "created_at": "2021-12-26T09:48:15.000Z",
+          "updated_at": "2022-04-28T06:15:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20779831,
+            "username": "Alias",
+            "description": "zzzqer",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-18T01:25:07.000Z",
+            "date_last_played": "2025-03-05T04:00:04.000Z",
+            "kill_count": 7433,
+            "play_count": 2196,
+            "highest_score": 13313472,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 8903,
+            "tier": 10,
+            "xp": 1394400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "MAP"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T19:16:24.336Z"
+}
