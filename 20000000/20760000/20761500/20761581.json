@@ -1,0 +1,97 @@
+{
+  "id": 20761581,
+  "username": "brunch",
+  "description": "hi\r\nALL LOBSTERS MUST DIE\r\nYou can see me in 1v1 brutally dying or in FFA \r\n\r\nno teamers unless in ffa,\r\nelephant seals are the best!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-24T22:20:22.000Z",
+  "date_last_played": "2021-12-07T00:48:31.000Z",
+  "profile_views": 0,
+  "kill_count": 536,
+  "play_count": 670,
+  "highest_score": 1194240,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 173,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20761581,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T17:19:26.753Z",
+    "updated_at": "2025-04-25T17:19:27.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8017,
+          "user_id": 20761581,
+          "cloneof_id": null,
+          "string_id": "this_sucks",
+          "title": "Untitle",
+          "description": "sont play idk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 17,
+          "created_at": "2021-10-01T17:46:46.000Z",
+          "updated_at": "2021-10-01T17:46:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20761581,
+            "username": "brunch",
+            "description": "hi\r\nALL LOBSTERS MUST DIE\r\nYou can see me in 1v1 brutally dying or in FFA \r\n\r\nno teamers unless in ffa,\r\nelephant seals are the best!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-24T22:20:22.000Z",
+            "date_last_played": "2021-12-07T00:48:31.000Z",
+            "kill_count": 536,
+            "play_count": 670,
+            "highest_score": 1194240,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 173,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#####"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:19:26.824Z"
+}
