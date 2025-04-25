@@ -1,0 +1,61 @@
+{
+  "id": 784722,
+  "username": "Zerum",
+  "description": "hi i like fish",
+  "about": "hi",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-23T05:18:17.000Z",
+  "date_last_played": "2023-07-02T17:41:12.000Z",
+  "profile_views": 31,
+  "kill_count": 69,
+  "play_count": 121,
+  "highest_score": 2096689,
+  "picture": "784722-c43d94e2043267d1bbb77133c9511004a.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 1,
+  "xp": 13500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 19775,
+      "user_id": 784722,
+      "platform_id": "dc",
+      "platform_user_id": "Zerum#2468",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-24T09:07:47.000Z",
+      "updated_at": "2023-05-24T09:07:47.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 784722,
+    "rank_kc": 121900,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-07-14T05:24:16.000Z",
+    "rank_pc": 61853,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-07-14T05:24:17.000Z",
+    "rank_hs": 35717,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-14T05:24:17.000Z",
+    "created_at": "2023-09-22T14:13:26.000Z",
+    "updated_at": "2023-07-14T05:24:17.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T06:27:58.602Z"
+}
