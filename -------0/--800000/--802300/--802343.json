@@ -1,0 +1,97 @@
+{
+  "id": 802343,
+  "username": "9937291_116",
+  "description": "A peaceful cat who likes to make friends and have fun.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-14T14:37:13.000Z",
+  "date_last_played": "2021-02-13T14:59:02.000Z",
+  "profile_views": 0,
+  "kill_count": 257,
+  "play_count": 379,
+  "highest_score": 985161,
+  "picture": "802343.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 162,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 802343,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T08:38:33.005Z",
+    "updated_at": "2025-04-25T08:38:33.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5105,
+          "user_id": 802343,
+          "cloneof_id": null,
+          "string_id": "ie_my_first_map_v2",
+          "title": "op map",
+          "description": "so over powerd",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 11,
+          "created_at": "2020-12-03T21:53:35.000Z",
+          "updated_at": "2020-12-03T21:54:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 802343,
+            "username": "9937291_116",
+            "description": "A peaceful cat who likes to make friends and have fun.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-14T14:37:13.000Z",
+            "date_last_played": "2021-02-13T14:59:02.000Z",
+            "kill_count": 257,
+            "play_count": 379,
+            "highest_score": 985161,
+            "picture": "802343.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 162,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "public"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:38:33.063Z"
+}
