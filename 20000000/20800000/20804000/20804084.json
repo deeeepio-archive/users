@@ -1,0 +1,71 @@
+{
+  "id": 20804084,
+  "username": "Bin_TH",
+  "description": "oops sorry.",
+  "about": "I'm tier 10 but have skill issue.\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-01T04:31:02.000Z",
+  "date_last_played": "2025-01-13T07:51:45.000Z",
+  "profile_views": 2119,
+  "kill_count": 12715,
+  "play_count": 4092,
+  "highest_score": 2728933,
+  "picture": "20804084-210bb3c2cdf6398cc801794b83f89276f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2349,
+  "tier": 10,
+  "xp": 1257150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20380,
+      "user_id": 20804084,
+      "platform_id": "dc",
+      "platform_user_id": "bin1538",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-05T01:13:12.000Z",
+      "updated_at": "2024-06-21T06:37:56.000Z"
+    },
+    {
+      "id": 95670,
+      "user_id": 20804084,
+      "platform_id": "rd",
+      "platform_user_id": "u/Bin_TH",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-21T06:43:07.000Z",
+      "updated_at": "2024-06-21T06:43:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20804084,
+    "rank_kc": 1671,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-05T18:15:36.000Z",
+    "rank_pc": 1796,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-05T18:15:38.000Z",
+    "rank_hs": 25222,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-05T18:15:39.000Z",
+    "created_at": "2025-01-13T07:51:45.000Z",
+    "updated_at": "2025-01-13T07:51:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:49:19.950Z"
+}
