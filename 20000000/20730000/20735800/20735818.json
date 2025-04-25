@@ -1,0 +1,97 @@
+{
+  "id": 20735818,
+  "username": "Topjogos1305",
+  "description": "subscribe on Top jogo gabriel:https://www.youtube.com/channel/UClNxAinFm8gd1m8idANx8RA/videos",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-06-09T19:34:38.000Z",
+  "date_last_played": "2021-08-26T15:49:22.000Z",
+  "profile_views": 0,
+  "kill_count": 30,
+  "play_count": 73,
+  "highest_score": 283576,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 7,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20735818,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T14:37:51.839Z",
+    "updated_at": "2025-04-25T14:37:52.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7543,
+          "user_id": 20735818,
+          "cloneof_id": null,
+          "string_id": "my_frist_map",
+          "title": "Untitled",
+          "description": "no desc",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 21,
+          "created_at": "2021-08-13T18:16:59.000Z",
+          "updated_at": "2021-08-13T18:17:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20735818,
+            "username": "Topjogos1305",
+            "description": "subscribe on Top jogo gabriel:https://www.youtube.com/channel/UClNxAinFm8gd1m8idANx8RA/videos",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-06-09T19:34:38.000Z",
+            "date_last_played": "2021-08-26T15:49:22.000Z",
+            "kill_count": 30,
+            "play_count": 73,
+            "highest_score": 283576,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 7,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "no tags"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T14:37:51.896Z"
+}
