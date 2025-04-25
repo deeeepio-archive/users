@@ -1,0 +1,61 @@
+{
+  "id": 810506,
+  "username": "juan2311",
+  "description": "",
+  "about": "escribo libros ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-08T00:52:43.000Z",
+  "date_last_played": "2023-08-08T16:14:22.000Z",
+  "profile_views": 2,
+  "kill_count": 3,
+  "play_count": 46,
+  "highest_score": 220907,
+  "picture": "810506-ae6698a9c7bcea6d2885d5069f1ce391.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 24124,
+      "user_id": 810506,
+      "platform_id": "ig",
+      "platform_user_id": "juan_2311_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-08T15:40:23.000Z",
+      "updated_at": "2023-08-08T15:40:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 810506,
+    "rank_kc": 432213,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-08T15:43:32.000Z",
+    "rank_pc": 113456,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-08T15:43:34.000Z",
+    "rank_hs": 352275,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-08T15:43:35.000Z",
+    "created_at": "2023-08-08T16:14:22.000Z",
+    "updated_at": "2023-08-08T16:14:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:30:15.244Z"
+}
