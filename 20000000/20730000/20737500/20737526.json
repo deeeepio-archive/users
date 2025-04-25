@@ -1,0 +1,118 @@
+{
+  "id": 20737526,
+  "username": "-Dig_Bick-",
+  "description": "Im not a sweat, but you looked very tasty ;)\nHighest score: 3.240M with Basking Shark\nPls sub to my YT channel: Athershadow",
+  "about": "Canadian dude playing web games.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-06-15T20:30:45.000Z",
+  "date_last_played": "2024-03-05T20:00:06.000Z",
+  "profile_views": 103,
+  "kill_count": 1098,
+  "play_count": 728,
+  "highest_score": 3240188,
+  "picture": "20737526-f6cfafaafa6315acd22ac69e183fb7110.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 42,
+  "tier": 3,
+  "xp": 137400,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92311,
+      "user_id": 20737526,
+      "platform_id": "dc",
+      "platform_user_id": "kooptroop77",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-28T02:13:53.000Z",
+      "updated_at": "2024-02-28T02:13:53.000Z"
+    },
+    {
+      "id": 14869,
+      "user_id": 20737526,
+      "platform_id": "yt",
+      "platform_user_id": "Athershadow",
+      "platform_user_url": "https://www.youtube.com/channel/UC5RpOYOyX1__kDKZGtn5fTQ",
+      "verified": false,
+      "created_at": "2023-02-10T14:45:26.000Z",
+      "updated_at": "2023-02-10T14:45:26.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20737526,
+    "rank_kc": 26880,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-12T21:51:11.000Z",
+    "rank_pc": 19088,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-12T21:51:19.000Z",
+    "rank_hs": 19026,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-12T21:51:26.000Z",
+    "created_at": "2024-03-05T20:00:05.000Z",
+    "updated_at": "2024-03-05T20:00:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11588,
+          "user_id": 20737526,
+          "cloneof_id": null,
+          "string_id": "ccoopers_food_test_map",
+          "title": "Food",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 63,
+          "created_at": "2023-01-12T18:41:54.000Z",
+          "updated_at": "2023-01-12T18:45:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20737526,
+            "username": "-Dig_Bick-",
+            "description": "Im not a sweat, but you looked very tasty ;)\nHighest score: 3.240M with Basking Shark\nPls sub to my YT channel: Athershadow",
+            "about": "Canadian dude playing web games.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-06-15T20:30:45.000Z",
+            "date_last_played": "2024-03-05T20:00:06.000Z",
+            "kill_count": 1098,
+            "play_count": 728,
+            "highest_score": 3240188,
+            "picture": "20737526-f6cfafaafa6315acd22ac69e183fb7110.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 42,
+            "tier": 3,
+            "xp": 137400,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "food"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T14:48:02.290Z"
+}
