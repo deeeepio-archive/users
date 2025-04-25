@@ -1,0 +1,97 @@
+{
+  "id": 790600,
+  "username": "parisitic",
+  "description": "oh you died by a parasite well hope ya dont have worms",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-10T14:41:55.000Z",
+  "date_last_played": "2020-11-30T16:57:43.000Z",
+  "profile_views": 0,
+  "kill_count": 1,
+  "play_count": 28,
+  "highest_score": 55140,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 790600,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T07:15:24.346Z",
+    "updated_at": "2025-04-25T07:15:24.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4823,
+          "user_id": 790600,
+          "cloneof_id": null,
+          "string_id": "map_secret_chamber",
+          "title": "food chamber",
+          "description": "this is where food is found for those who want to find it find it ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 55,
+          "created_at": "2020-11-10T15:23:00.000Z",
+          "updated_at": "2020-11-10T15:23:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 790600,
+            "username": "parisitic",
+            "description": "oh you died by a parasite well hope ya dont have worms",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-10T14:41:55.000Z",
+            "date_last_played": "2020-11-30T16:57:43.000Z",
+            "kill_count": 1,
+            "play_count": 28,
+            "highest_score": 55140,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 4,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "food "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:15:24.425Z"
+}
