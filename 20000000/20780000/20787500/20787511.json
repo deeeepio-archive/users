@@ -1,0 +1,71 @@
+{
+  "id": 20787511,
+  "username": "TheGoob",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-12-21T06:24:43.000Z",
+  "date_last_played": "2023-03-13T21:02:15.000Z",
+  "profile_views": 46,
+  "kill_count": 2821,
+  "play_count": 2122,
+  "highest_score": 4035877,
+  "picture": "20787511.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 143,
+  "tier": 5,
+  "xp": 287100,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8255,
+      "user_id": 20787511,
+      "platform_id": "dc",
+      "platform_user_id": "Goob#9346",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-19T00:14:48.000Z",
+      "updated_at": "2022-10-19T00:14:48.000Z"
+    },
+    {
+      "id": 8256,
+      "user_id": 20787511,
+      "platform_id": "ig",
+      "platform_user_id": "aiden_6935",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-19T00:14:58.000Z",
+      "updated_at": "2022-10-19T00:14:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20787511,
+    "rank_kc": 9603,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-04T09:50:34.000Z",
+    "rank_pc": 4246,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-04T09:50:35.000Z",
+    "rank_hs": 10792,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-04T09:50:36.000Z",
+    "created_at": "2023-03-13T21:02:14.000Z",
+    "updated_at": "2023-03-13T21:02:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:03:28.673Z"
+}
