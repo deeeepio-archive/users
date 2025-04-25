@@ -1,0 +1,61 @@
+{
+  "id": 20747376,
+  "username": "3272503_924",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-07-30T03:45:03.000Z",
+  "date_last_played": "2025-01-19T13:02:35.000Z",
+  "profile_views": 142,
+  "kill_count": 1351,
+  "play_count": 959,
+  "highest_score": 2620350,
+  "picture": "20747376.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 294,
+  "tier": 3,
+  "xp": 105600,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 97751,
+      "user_id": 20747376,
+      "platform_id": "ig",
+      "platform_user_id": "@benny_lai_0302",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-21T01:18:48.000Z",
+      "updated_at": "2024-08-21T01:18:48.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20747376,
+    "rank_kc": 25807,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-23T11:51:01.000Z",
+    "rank_pc": 14301,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-23T11:51:03.000Z",
+    "rank_hs": 83217,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-23T11:51:04.000Z",
+    "created_at": "2025-01-19T13:02:35.000Z",
+    "updated_at": "2025-01-19T13:02:35.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T15:47:01.894Z"
+}

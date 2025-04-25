@@ -1,0 +1,143 @@
+{
+  "id": 20747431,
+  "username": "yasarpro",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-07-30T11:57:47.000Z",
+  "date_last_played": "2022-05-14T10:15:30.000Z",
+  "profile_views": 0,
+  "kill_count": 897,
+  "play_count": 331,
+  "highest_score": 2416884,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 197,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20747431,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T15:47:17.400Z",
+    "updated_at": "2025-04-25T15:47:17.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7835,
+          "user_id": 20747431,
+          "cloneof_id": null,
+          "string_id": "12345678911114",
+          "title": "Untitled",
+          "description": "1266",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 64,
+          "created_at": "2021-09-13T13:15:52.000Z",
+          "updated_at": "2021-09-14T13:26:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20747431,
+            "username": "yasarpro",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-30T11:57:47.000Z",
+            "date_last_played": "2022-05-14T10:15:30.000Z",
+            "kill_count": 897,
+            "play_count": 331,
+            "highest_score": 2416884,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 197,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "9966"
+            }
+          ]
+        },
+        {
+          "id": 7597,
+          "user_id": 20747431,
+          "cloneof_id": null,
+          "string_id": "984680",
+          "title": "Untitled",
+          "description": "Aqunml",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 178,
+          "created_at": "2021-08-20T23:13:09.000Z",
+          "updated_at": "2021-08-30T17:19:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20747431,
+            "username": "yasarpro",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-30T11:57:47.000Z",
+            "date_last_played": "2022-05-14T10:15:30.000Z",
+            "kill_count": 897,
+            "play_count": 331,
+            "highest_score": 2416884,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 197,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Selon"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T15:47:17.491Z"
+}
