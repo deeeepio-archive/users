@@ -1,0 +1,97 @@
+{
+  "id": 20731627,
+  "username": "yaytomun",
+  "description": "sorry if you died",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-26T15:05:57.000Z",
+  "date_last_played": "2024-05-05T00:28:10.000Z",
+  "profile_views": 3,
+  "kill_count": 77,
+  "play_count": 360,
+  "highest_score": 760426,
+  "picture": "20731627.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20731627,
+    "rank_kc": 105602,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-27T08:09:23.000Z",
+    "rank_pc": 26124,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-27T08:09:24.000Z",
+    "rank_hs": 97586,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-27T08:09:25.000Z",
+    "created_at": "2024-05-05T00:28:10.000Z",
+    "updated_at": "2024-05-05T00:28:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7173,
+          "user_id": 20731627,
+          "cloneof_id": null,
+          "string_id": "xavierbeaton",
+          "title": "[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]",
+          "description": "good",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-06-18T23:48:19.000Z",
+          "updated_at": "2021-06-18T23:48:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20731627,
+            "username": "yaytomun",
+            "description": "sorry if you died",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-05-26T15:05:57.000Z",
+            "date_last_played": "2024-05-05T00:28:10.000Z",
+            "kill_count": 77,
+            "play_count": 360,
+            "highest_score": 760426,
+            "picture": "20731627.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 19,
+            "tier": 1,
+            "xp": 1800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "weeeeeeeeeeeee"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T14:11:46.238Z"
+}
