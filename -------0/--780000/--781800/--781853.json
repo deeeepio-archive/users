@@ -1,0 +1,61 @@
+{
+  "id": 781853,
+  "username": "1978220_663",
+  "description": "AHOJ Já JSEM čech",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-14T12:12:42.000Z",
+  "date_last_played": "2022-12-27T13:54:20.000Z",
+  "profile_views": 2,
+  "kill_count": 3,
+  "play_count": 23,
+  "highest_score": 19700,
+  "picture": "781853.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12028,
+      "user_id": 781853,
+      "platform_id": "dc",
+      "platform_user_id": "Ruukasu#0914",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-27T13:55:09.000Z",
+      "updated_at": "2022-12-27T13:55:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 781853,
+    "rank_kc": 305034,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-12-27T13:49:13.000Z",
+    "rank_pc": 125152,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2022-12-27T13:54:51.000Z",
+    "rank_hs": 428688,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-12-27T13:54:55.000Z",
+    "created_at": "2022-12-27T13:54:55.000Z",
+    "updated_at": "2022-12-27T13:54:55.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T06:04:22.081Z"
+}
