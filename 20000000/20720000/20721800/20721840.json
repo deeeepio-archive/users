@@ -1,0 +1,61 @@
+{
+  "id": 20721840,
+  "username": "ㄴㅇㄱ",
+  "description": "XD",
+  "about": "대징",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-29T07:15:57.000Z",
+  "date_last_played": "2025-04-03T12:38:47.000Z",
+  "profile_views": 1375,
+  "kill_count": 13639,
+  "play_count": 3789,
+  "highest_score": 10359605,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15037,
+  "tier": 10,
+  "xp": 3074250,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 95217,
+      "user_id": 20721840,
+      "platform_id": "dc",
+      "platform_user_id": "nug_086",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-06T11:48:44.000Z",
+      "updated_at": "2024-06-06T11:48:44.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20721840,
+    "rank_kc": 2850,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-15T08:45:59.000Z",
+    "rank_pc": 3784,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-15T08:46:07.000Z",
+    "rank_hs": 2498,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-15T08:46:15.000Z",
+    "created_at": "2025-04-03T12:38:47.000Z",
+    "updated_at": "2025-04-03T12:38:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T13:09:35.332Z"
+}
