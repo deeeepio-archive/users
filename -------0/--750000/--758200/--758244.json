@@ -1,0 +1,61 @@
+{
+  "id": 758244,
+  "username": "Natkimizuki",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-07-13T18:49:25.000Z",
+  "date_last_played": "2023-05-01T01:50:41.000Z",
+  "profile_views": 36,
+  "kill_count": 168,
+  "play_count": 298,
+  "highest_score": 794390,
+  "picture": "758244-93e261170d4fb2edf7a823c3a165005d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 59,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5224,
+      "user_id": 758244,
+      "platform_id": "dc",
+      "platform_user_id": "Natkimi#8849",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-17T19:16:05.000Z",
+      "updated_at": "2023-05-01T01:35:20.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 758244,
+    "rank_kc": 77156,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-01T01:35:30.000Z",
+    "rank_pc": 32009,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-01T01:35:31.000Z",
+    "rank_hs": 101880,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-01T01:35:32.000Z",
+    "created_at": "2023-09-13T05:45:02.000Z",
+    "updated_at": "2023-05-01T01:50:41.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T03:40:51.683Z"
+}
