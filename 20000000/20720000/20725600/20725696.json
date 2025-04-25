@@ -1,0 +1,112 @@
+{
+  "id": 20725696,
+  "username": "deluge",
+  "description": "Prepare to face the fury of the deluge\n【﻿♰】[Turts]",
+  "about": "i am fun (certified)",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-09T23:32:06.000Z",
+  "date_last_played": "2025-03-27T20:57:08.000Z",
+  "profile_views": 2282,
+  "kill_count": 18770,
+  "play_count": 8553,
+  "highest_score": 10109560,
+  "picture": "20725696.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 21153,
+  "tier": 10,
+  "xp": 3553500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92034,
+      "user_id": 20725696,
+      "platform_id": "dc",
+      "platform_user_id": "deluge69",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-20T22:11:54.000Z",
+      "updated_at": "2024-02-20T22:11:54.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20725696,
+    "rank_kc": 1221,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T08:03:24.000Z",
+    "rank_pc": 521,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T08:03:24.000Z",
+    "rank_hs": 2658,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T02:41:17.000Z",
+    "created_at": "2025-03-27T20:57:08.000Z",
+    "updated_at": "2025-03-27T20:57:08.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8925,
+          "user_id": 20725696,
+          "cloneof_id": null,
+          "string_id": "deluge_v1",
+          "title": "Deluge's FFA Map",
+          "description": "A map that will amaze all",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 17,
+          "created_at": "2022-01-02T18:15:02.000Z",
+          "updated_at": "2022-01-05T03:06:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20725696,
+            "username": "deluge",
+            "description": "Prepare to face the fury of the deluge\n【﻿♰】[Turts]",
+            "about": "i am fun (certified)",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-05-09T23:32:06.000Z",
+            "date_last_played": "2025-03-27T20:57:08.000Z",
+            "kill_count": 18770,
+            "play_count": 8553,
+            "highest_score": 10109560,
+            "picture": "20725696.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 21153,
+            "tier": 10,
+            "xp": 3553500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "best ffa map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T13:34:42.596Z"
+}

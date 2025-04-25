@@ -1,0 +1,106 @@
+{
+  "id": 20725691,
+  "username": "Venom_Shark",
+  "description": "i am c ool",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-09T23:13:31.000Z",
+  "date_last_played": "2024-01-29T07:00:09.000Z",
+  "profile_views": 96,
+  "kill_count": 201,
+  "play_count": 185,
+  "highest_score": 134046,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 247,
+  "tier": 1,
+  "xp": 8250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20725691,
+    "rank_kc": 89079,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-15T06:02:49.000Z",
+    "rank_pc": 54683,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-15T06:02:52.000Z",
+    "rank_hs": 220884,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-01-29T07:00:08.000Z",
+    "updated_at": "2024-01-29T07:00:09.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6784,
+          "user_id": 20725691,
+          "cloneof_id": 6649,
+          "string_id": "venom_ffa_v2",
+          "title": "Whale Shark is pro!!!",
+          "description": "the",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1009,
+          "created_at": "2021-05-09T23:15:55.000Z",
+          "updated_at": "2021-05-10T23:50:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20725691,
+            "username": "Venom_Shark",
+            "description": "i am c ool",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-05-09T23:13:31.000Z",
+            "date_last_played": "2024-01-29T07:00:09.000Z",
+            "kill_count": 201,
+            "play_count": 185,
+            "highest_score": 134046,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 247,
+            "tier": 1,
+            "xp": 8250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "tffa"
+            },
+            {
+              "id": "Venom"
+            },
+            {
+              "id": "Whale Shark"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T13:34:41.870Z"
+}
