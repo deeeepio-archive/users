@@ -1,0 +1,61 @@
+{
+  "id": 741220,
+  "username": "rry",
+  "description": "shiiiba",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-19T22:21:09.000Z",
+  "date_last_played": "2022-08-13T05:08:09.000Z",
+  "profile_views": 17,
+  "kill_count": 2233,
+  "play_count": 1340,
+  "highest_score": 1732362,
+  "picture": "741220-8128ec81858498694c3c522feeae07cb.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 271,
+  "tier": 1,
+  "xp": 15450,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4900,
+      "user_id": 741220,
+      "platform_id": "dc",
+      "platform_user_id": "rry#5004",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-12T04:35:57.000Z",
+      "updated_at": "2022-08-12T04:35:57.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 741220,
+    "rank_kc": 11043,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-12T04:36:01.000Z",
+    "rank_pc": 6813,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-12T04:36:01.000Z",
+    "rank_hs": 38656,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-12T00:36:19.000Z",
+    "created_at": "2023-01-02T08:18:36.000Z",
+    "updated_at": "2023-01-02T08:18:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:51:53.542Z"
+}
