@@ -1,0 +1,192 @@
+{
+  "id": 728516,
+  "username": "Deeeep_Diver",
+  "description": "theres no meaning to life",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-23T19:12:42.000Z",
+  "date_last_played": "2021-07-22T04:19:05.000Z",
+  "profile_views": 0,
+  "kill_count": 1019,
+  "play_count": 397,
+  "highest_score": 3243428,
+  "picture": "728516.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 22,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 728516,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T00:30:53.122Z",
+    "updated_at": "2025-04-25T00:30:53.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4244,
+          "user_id": 728516,
+          "cloneof_id": null,
+          "string_id": "694202",
+          "title": "Just A Fish Tank",
+          "description": "Literary Just A 2x2 Tank",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 9,
+          "created_at": "2020-09-10T15:34:59.000Z",
+          "updated_at": "2020-09-10T15:35:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 728516,
+            "username": "Deeeep_Diver",
+            "description": "theres no meaning to life",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-23T19:12:42.000Z",
+            "date_last_played": "2021-07-22T04:19:05.000Z",
+            "kill_count": 1019,
+            "play_count": 397,
+            "highest_score": 3243428,
+            "picture": "728516.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "argagagagaagga"
+            }
+          ]
+        },
+        {
+          "id": 4238,
+          "user_id": 728516,
+          "cloneof_id": null,
+          "string_id": "69420",
+          "title": "Amazon Rainforest ",
+          "description": "Has A lot of animals, I guess",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 63,
+          "created_at": "2020-09-09T17:11:24.000Z",
+          "updated_at": "2020-09-09T17:37:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 728516,
+            "username": "Deeeep_Diver",
+            "description": "theres no meaning to life",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-23T19:12:42.000Z",
+            "date_last_played": "2021-07-22T04:19:05.000Z",
+            "kill_count": 1019,
+            "play_count": 397,
+            "highest_score": 3243428,
+            "picture": "728516.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "gnarlygnarly"
+            },
+            {
+              "id": "Teamtrees"
+            }
+          ]
+        },
+        {
+          "id": 2721,
+          "user_id": 728516,
+          "cloneof_id": null,
+          "string_id": "waluigi123",
+          "title": " Deeeep 1v1 ",
+          "description": "It's just a new 1v1 idea",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 20,
+          "created_at": "2020-04-23T19:16:08.000Z",
+          "updated_at": "2020-04-23T19:16:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 728516,
+            "username": "Deeeep_Diver",
+            "description": "theres no meaning to life",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-23T19:12:42.000Z",
+            "date_last_played": "2021-07-22T04:19:05.000Z",
+            "kill_count": 1019,
+            "play_count": 397,
+            "highest_score": 3243428,
+            "picture": "728516.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 22,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "tags"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T00:30:53.173Z"
+}
