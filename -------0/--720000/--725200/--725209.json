@@ -1,0 +1,61 @@
+{
+  "id": 725209,
+  "username": "br0un",
+  "description": "my fault",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-15T19:14:21.000Z",
+  "date_last_played": "2023-04-23T05:40:15.000Z",
+  "profile_views": 6,
+  "kill_count": 1240,
+  "play_count": 448,
+  "highest_score": 1955079,
+  "picture": "725209-3f221858c118917be6c4c1d988c42b8f.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 126,
+  "tier": 1,
+  "xp": 6150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 11262,
+      "user_id": 725209,
+      "platform_id": "ig",
+      "platform_user_id": "chairoacob",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-13T21:45:37.000Z",
+      "updated_at": "2022-12-13T21:45:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 725209,
+    "rank_kc": 19545,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-13T21:41:51.000Z",
+    "rank_pc": 21371,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-13T21:41:52.000Z",
+    "rank_hs": 35292,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-13T21:41:53.000Z",
+    "created_at": "2023-04-23T05:40:14.000Z",
+    "updated_at": "2023-04-23T05:40:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T00:10:31.417Z"
+}
