@@ -1,0 +1,97 @@
+{
+  "id": 807302,
+  "username": "lilicoderr",
+  "description": "                                                                \r\n                                                                \r\n              그 거그럿 걔 하늣 거 아니댸\r\n\r\n\r\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-28T11:09:15.000Z",
+  "date_last_played": "2025-01-16T07:15:19.000Z",
+  "profile_views": 8,
+  "kill_count": 3873,
+  "play_count": 2840,
+  "highest_score": 1879561,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 101,
+  "tier": 2,
+  "xp": 66000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 807302,
+    "rank_kc": 6338,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-26T02:20:45.000Z",
+    "rank_pc": 2539,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-26T02:20:46.000Z",
+    "rank_hs": 34881,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-26T02:20:46.000Z",
+    "created_at": "2025-01-16T07:15:19.000Z",
+    "updated_at": "2025-01-16T07:15:19.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8748,
+          "user_id": 807302,
+          "cloneof_id": null,
+          "string_id": "kktn431",
+          "title": "Untitled",
+          "description": "AAAA",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 4,
+          "created_at": "2021-12-13T07:03:53.000Z",
+          "updated_at": "2021-12-13T07:03:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 807302,
+            "username": "lilicoderr",
+            "description": "                                                                \r\n                                                                \r\n              그 거그럿 걔 하늣 거 아니댸\r\n\r\n\r\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-28T11:09:15.000Z",
+            "date_last_played": "2025-01-16T07:15:19.000Z",
+            "kill_count": 3873,
+            "play_count": 2840,
+            "highest_score": 1879561,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 101,
+            "tier": 2,
+            "xp": 66000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "AAAA"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:09:21.832Z"
+}
