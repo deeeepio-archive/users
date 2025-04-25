@@ -1,0 +1,108 @@
+{
+  "id": 20803147,
+  "username": "Darkmatterowo",
+  "description": "DM",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-02-25T09:19:13.000Z",
+  "date_last_played": "2025-04-13T07:19:49.000Z",
+  "profile_views": 34,
+  "kill_count": 121,
+  "play_count": 121,
+  "highest_score": 612000,
+  "picture": "20803147-7d5a1107ece3f4f85782a938410a21c892.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6,
+  "tier": 1,
+  "xp": 14100,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1273,
+      "user_id": 20803147,
+      "platform_id": "yt",
+      "platform_user_id": "劣等暗物質_Darkmatter⬛",
+      "platform_user_url": "https://www.youtube.com/channel/UCVqk2FDhBtjSWZucfrLPJEA",
+      "verified": false,
+      "created_at": "2022-06-01T07:03:55.000Z",
+      "updated_at": "2025-02-01T05:58:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20803147,
+    "rank_kc": 82981,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-17T09:18:32.000Z",
+    "rank_pc": 50854,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-17T09:18:33.000Z",
+    "rank_hs": 109954,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-17T09:18:34.000Z",
+    "created_at": "2025-04-13T07:19:49.000Z",
+    "updated_at": "2025-04-13T07:19:49.000Z",
+    "pd": {
+      "played": 2,
+      "won": 0,
+      "ratio": 0
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9359,
+          "user_id": 20803147,
+          "cloneof_id": null,
+          "string_id": "oda1",
+          "title": "阿彈1",
+          "description": "阿彈做的!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 399,
+          "created_at": "2022-02-25T09:22:14.000Z",
+          "updated_at": "2022-02-25T09:42:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20803147,
+            "username": "Darkmatterowo",
+            "description": "DM",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-02-25T09:19:13.000Z",
+            "date_last_played": "2025-04-13T07:19:49.000Z",
+            "kill_count": 121,
+            "play_count": 121,
+            "highest_score": 612000,
+            "picture": "20803147-7d5a1107ece3f4f85782a938410a21c892.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6,
+            "tier": 1,
+            "xp": 14100,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:43:37.097Z"
+}
