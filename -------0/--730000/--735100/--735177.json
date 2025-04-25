@@ -1,0 +1,65 @@
+{
+  "id": 735177,
+  "username": "INEWAVEE",
+  "description": "loser",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-05T15:58:15.000Z",
+  "date_last_played": "2025-03-30T14:14:29.000Z",
+  "profile_views": 122,
+  "kill_count": 4239,
+  "play_count": 1861,
+  "highest_score": 3666396,
+  "picture": "735177-1b3102cd7d06521922b3342e86d64e2da-2542bd7b-6f6e-41bf-9663-3e6c0421e13c.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1043,
+  "tier": 8,
+  "xp": 724650,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 100549,
+      "user_id": 735177,
+      "platform_id": "dc",
+      "platform_user_id": "inpewave",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-11-24T15:37:09.000Z",
+      "updated_at": "2024-11-24T15:37:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 735177,
+    "rank_kc": 16066,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-23T15:47:49.000Z",
+    "rank_pc": 19997,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-23T15:47:50.000Z",
+    "rank_hs": 59786,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-23T15:47:51.000Z",
+    "created_at": "2025-03-30T14:14:29.000Z",
+    "updated_at": "2025-03-30T14:14:29.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:09:56.614Z"
+}
