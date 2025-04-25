@@ -1,0 +1,100 @@
+{
+  "id": 793209,
+  "username": "pipipupu",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-18T11:20:47.000Z",
+  "date_last_played": "2024-03-29T11:23:37.000Z",
+  "profile_views": 2,
+  "kill_count": 13,
+  "play_count": 59,
+  "highest_score": 128207,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 793209,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T07:31:48.501Z",
+    "updated_at": "2025-04-25T07:31:49.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4911,
+          "user_id": 793209,
+          "cloneof_id": null,
+          "string_id": "5555674",
+          "title": "Untitled",
+          "description": "to jest mapa która była stwożona pszes twurce pipipupu",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 119,
+          "created_at": "2020-11-18T11:24:30.000Z",
+          "updated_at": "2020-11-18T11:24:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 793209,
+            "username": "pipipupu",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-18T11:20:47.000Z",
+            "date_last_played": "2024-03-29T11:23:37.000Z",
+            "kill_count": 13,
+            "play_count": 59,
+            "highest_score": 128207,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 15,
+            "tier": 1,
+            "xp": 300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "5555674"
+            },
+            {
+              "id": "5555675"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:31:48.553Z"
+}
