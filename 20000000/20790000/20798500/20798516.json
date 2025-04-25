@@ -1,0 +1,50 @@
+{
+  "id": 20798516,
+  "username": "Mike1",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-02-08T17:58:37.000Z",
+  "date_last_played": "2023-12-12T01:07:34.000Z",
+  "profile_views": 29,
+  "kill_count": 170,
+  "play_count": 351,
+  "highest_score": 647347,
+  "picture": "20798516-340e7c2e3917b8ada102cb1f4b1039e6ef.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 33,
+  "tier": 2,
+  "xp": 25200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20798516,
+    "rank_kc": 84138,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-11T12:05:39.000Z",
+    "rank_pc": 33916,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-11T12:05:39.000Z",
+    "rank_hs": 131552,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-11T12:05:40.000Z",
+    "created_at": "2023-12-12T01:07:34.000Z",
+    "updated_at": "2023-12-12T01:07:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:15:20.656Z"
+}
