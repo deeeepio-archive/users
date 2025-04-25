@@ -1,0 +1,61 @@
+{
+  "id": 20817844,
+  "username": "Witness",
+  "description": "Try your luck next time",
+  "about": "I draw, go to boxing, and occasionally read, like this :)",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-21T17:09:47.000Z",
+  "date_last_played": "2025-04-13T21:50:22.000Z",
+  "profile_views": 17,
+  "kill_count": 907,
+  "play_count": 400,
+  "highest_score": 3041705,
+  "picture": "20817844-23aaede6b66aeb4013ae5b211f5d3bdb-734f3402-3609-48f7-a191-798910790038.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 79,
+  "tier": 3,
+  "xp": 143700,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 98623,
+      "user_id": 20817844,
+      "platform_id": "dc",
+      "platform_user_id": "bobr112",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-09-18T20:20:18.000Z",
+      "updated_at": "2024-09-18T20:20:18.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20817844,
+    "rank_kc": 59533,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-23T21:21:23.000Z",
+    "rank_pc": 53225,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-23T21:21:25.000Z",
+    "rank_hs": 58654,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-23T21:21:26.000Z",
+    "created_at": "2025-04-13T21:50:21.000Z",
+    "updated_at": "2025-04-13T21:50:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:10:38.747Z"
+}
