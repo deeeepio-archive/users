@@ -1,0 +1,97 @@
+{
+  "id": 20796087,
+  "username": "wadowmaker",
+  "description": "If your reading this Im sorry your dead but you know i need to live too, right??\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-02-01T00:42:19.000Z",
+  "date_last_played": "2024-07-27T03:33:30.000Z",
+  "profile_views": 30,
+  "kill_count": 320,
+  "play_count": 468,
+  "highest_score": 2020075,
+  "picture": "20796087.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 137,
+  "tier": 1,
+  "xp": 19200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20796087,
+    "rank_kc": 59876,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-03T23:49:17.000Z",
+    "rank_pc": 27437,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-03T23:49:21.000Z",
+    "rank_hs": 40897,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-03T23:49:26.000Z",
+    "created_at": "2024-07-27T03:33:30.000Z",
+    "updated_at": "2024-07-27T03:33:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9784,
+          "user_id": 20796087,
+          "cloneof_id": null,
+          "string_id": "1017",
+          "title": "beacher",
+          "description": "234567469",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2022-05-08T12:04:41.000Z",
+          "updated_at": "2022-05-08T12:04:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20796087,
+            "username": "wadowmaker",
+            "description": "If your reading this Im sorry your dead but you know i need to live too, right??\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-02-01T00:42:19.000Z",
+            "date_last_played": "2024-07-27T03:33:30.000Z",
+            "kill_count": 320,
+            "play_count": 468,
+            "highest_score": 2020075,
+            "picture": "20796087.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 137,
+            "tier": 1,
+            "xp": 19200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "2986"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:55:12.142Z"
+}

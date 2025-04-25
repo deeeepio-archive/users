@@ -1,0 +1,97 @@
+{
+  "id": 20796107,
+  "username": "KING_GHOST",
+  "description": "I will kill you",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-02-01T02:12:15.000Z",
+  "date_last_played": "2025-01-23T16:05:26.000Z",
+  "profile_views": 45,
+  "kill_count": 899,
+  "play_count": 668,
+  "highest_score": 1368815,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 158,
+  "tier": 3,
+  "xp": 99750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20796107,
+    "rank_kc": 36864,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-01T13:43:25.000Z",
+    "rank_pc": 20380,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-01T13:43:26.000Z",
+    "rank_hs": 60545,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-01T13:43:26.000Z",
+    "created_at": "2025-01-23T16:05:25.000Z",
+    "updated_at": "2025-01-23T16:05:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244577,
+          "user_id": 20796107,
+          "cloneof_id": null,
+          "string_id": "0331",
+          "title": "Untitled",
+          "description": "square",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 20,
+          "created_at": "2024-08-27T13:11:21.000Z",
+          "updated_at": "2024-08-27T13:11:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20796107,
+            "username": "KING_GHOST",
+            "description": "I will kill you",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-02-01T02:12:15.000Z",
+            "date_last_played": "2025-01-23T16:05:26.000Z",
+            "kill_count": 899,
+            "play_count": 668,
+            "highest_score": 1368815,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 158,
+            "tier": 3,
+            "xp": 99750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "come"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:55:14.895Z"
+}
