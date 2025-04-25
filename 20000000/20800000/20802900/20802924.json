@@ -1,0 +1,61 @@
+{
+  "id": 20802924,
+  "username": "Bulla",
+  "description": "Git gud scrub",
+  "about": "...\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-02-24T12:49:20.000Z",
+  "date_last_played": "2024-10-27T11:39:36.000Z",
+  "profile_views": 656,
+  "kill_count": 163,
+  "play_count": 183,
+  "highest_score": 1187779,
+  "picture": "20802924.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 103,
+  "tier": 2,
+  "xp": 30750,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 95355,
+      "user_id": 20802924,
+      "platform_id": "dc",
+      "platform_user_id": "BullaTG",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-10T09:01:42.000Z",
+      "updated_at": "2024-06-10T09:01:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20802924,
+    "rank_kc": 89785,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-17T16:06:15.000Z",
+    "rank_pc": 57571,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-17T16:06:26.000Z",
+    "rank_hs": 92176,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-17T16:06:37.000Z",
+    "created_at": "2024-10-27T11:39:35.000Z",
+    "updated_at": "2024-10-27T11:39:36.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:42:26.001Z"
+}
