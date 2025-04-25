@@ -1,0 +1,103 @@
+{
+  "id": 738802,
+  "username": "Brixit",
+  "description": "Eyo boi! Sorry I killed ya (maybe) Maybe you needed to ask for mercy?",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-13T19:19:46.000Z",
+  "date_last_played": "2023-05-07T03:07:45.000Z",
+  "profile_views": 8,
+  "kill_count": 281,
+  "play_count": 276,
+  "highest_score": 716224,
+  "picture": "738802.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 50,
+  "tier": 1,
+  "xp": 1050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 738802,
+    "rank_kc": 58337,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-30T21:25:46.000Z",
+    "rank_pc": 33831,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-30T21:25:47.000Z",
+    "rank_hs": 110263,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-04-30T19:10:55.000Z",
+    "created_at": "2023-05-07T03:07:44.000Z",
+    "updated_at": "2023-05-07T03:07:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12149,
+          "user_id": 738802,
+          "cloneof_id": null,
+          "string_id": "brixits_dry_desert_v1",
+          "title": "Dry, dry desert",
+          "description": "its a desert good luck",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 103,
+          "created_at": "2023-04-30T20:52:45.000Z",
+          "updated_at": "2023-04-30T21:35:02.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 738802,
+            "username": "Brixit",
+            "description": "Eyo boi! Sorry I killed ya (maybe) Maybe you needed to ask for mercy?",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-05-13T19:19:46.000Z",
+            "date_last_played": "2023-05-07T03:07:45.000Z",
+            "kill_count": 281,
+            "play_count": 276,
+            "highest_score": 716224,
+            "picture": "738802.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 50,
+            "tier": 1,
+            "xp": 1050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "challenge"
+            },
+            {
+              "id": "desert"
+            },
+            {
+              "id": "dry"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:31:13.185Z"
+}
