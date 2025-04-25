@@ -1,0 +1,97 @@
+{
+  "id": 778587,
+  "username": "6298977_178",
+  "description": "september 2022\r\n\"the weeping god incident\"",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-02T14:53:00.000Z",
+  "date_last_played": "2022-04-28T17:10:41.000Z",
+  "profile_views": 0,
+  "kill_count": 5590,
+  "play_count": 3433,
+  "highest_score": 2549586,
+  "picture": "778587.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 996,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 778587,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T05:44:27.897Z",
+    "updated_at": "2025-04-25T05:44:28.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4919,
+          "user_id": 778587,
+          "cloneof_id": null,
+          "string_id": "isosquad",
+          "title": "the trench",
+          "description": "why",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 45,
+          "created_at": "2020-11-18T18:49:23.000Z",
+          "updated_at": "2020-11-18T20:26:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 778587,
+            "username": "6298977_178",
+            "description": "september 2022\r\n\"the weeping god incident\"",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-02T14:53:00.000Z",
+            "date_last_played": "2022-04-28T17:10:41.000Z",
+            "kill_count": 5590,
+            "play_count": 3433,
+            "highest_score": 2549586,
+            "picture": "778587.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 996,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "reeeeeeeeee"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T05:44:27.951Z"
+}
