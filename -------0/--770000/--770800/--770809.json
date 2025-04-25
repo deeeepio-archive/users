@@ -1,0 +1,892 @@
+{
+  "id": 770809,
+  "username": "Infinite88",
+  "description": "sup",
+  "about": "hola",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-04T20:36:13.000Z",
+  "date_last_played": "2025-01-15T17:40:01.000Z",
+  "profile_views": 66,
+  "kill_count": 5335,
+  "play_count": 1243,
+  "highest_score": 3050391,
+  "picture": "770809.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 160,
+  "tier": 3,
+  "xp": 88500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 770809,
+    "rank_kc": 5632,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-05T17:06:37.000Z",
+    "rank_pc": 10645,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-05T17:06:43.000Z",
+    "rank_hs": 21223,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-05T17:06:50.000Z",
+    "created_at": "2025-01-15T17:40:00.000Z",
+    "updated_at": "2025-01-15T17:40:01.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7069,
+          "user_id": 770809,
+          "cloneof_id": null,
+          "string_id": "arctic_1v1_i8",
+          "title": "Arctic 1v1",
+          "description": "your mom's house",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2021-06-05T21:48:34.000Z",
+          "updated_at": "2021-10-13T02:47:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 6628,
+          "user_id": 770809,
+          "cloneof_id": null,
+          "string_id": "infinite88_ffa",
+          "title": "Infinite88 FFA",
+          "description": "in progress",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 21,
+          "created_at": "2021-04-25T15:24:20.000Z",
+          "updated_at": "2021-04-27T01:24:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 5804,
+          "user_id": 770809,
+          "cloneof_id": null,
+          "string_id": "cold_lake_biome",
+          "title": "Proposed Cold Lake Biome",
+          "description": "(incomplete) would go left of the Arctic",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 18,
+          "created_at": "2021-02-03T18:34:39.000Z",
+          "updated_at": "2021-02-06T19:06:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 4958,
+          "user_id": 770809,
+          "cloneof_id": null,
+          "string_id": "deeeepio_land_map",
+          "title": "deeeep.io: Land Version",
+          "description": "Promotes the expansion of land animals on deeeep.io",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 192,
+          "created_at": "2020-11-22T22:26:08.000Z",
+          "updated_at": "2020-11-24T17:29:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "concept"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "deeeep.io"
+            },
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "Infinite"
+            },
+            {
+              "id": "Infinite88"
+            },
+            {
+              "id": "island"
+            },
+            {
+              "id": "land"
+            }
+          ]
+        },
+        {
+          "id": 4957,
+          "user_id": 770809,
+          "cloneof_id": null,
+          "string_id": "krakens_lair",
+          "title": "Kraken's Lair",
+          "description": "Beware of the Kraken's lair...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 81,
+          "created_at": "2020-11-22T20:55:42.000Z",
+          "updated_at": "2020-11-22T22:20:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "concept"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "deeeep.io"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "giant squid"
+            },
+            {
+              "id": "Infinite"
+            },
+            {
+              "id": "Infinite88"
+            },
+            {
+              "id": "kraken"
+            },
+            {
+              "id": "small"
+            },
+            {
+              "id": "volcano"
+            }
+          ]
+        },
+        {
+          "id": 4954,
+          "user_id": 770809,
+          "cloneof_id": 4351,
+          "string_id": "ffa_template",
+          "title": "FFA Template",
+          "description": "Template to make your own FFA map! Based off of the current FFA map.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 70,
+          "created_at": "2020-11-22T20:00:11.000Z",
+          "updated_at": "2020-11-22T20:00:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "deeeep.io"
+            },
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "Infinite"
+            },
+            {
+              "id": "Infinite88"
+            },
+            {
+              "id": "template"
+            }
+          ]
+        },
+        {
+          "id": 4924,
+          "user_id": 770809,
+          "cloneof_id": null,
+          "string_id": "night_pearl_defense",
+          "title": "Night Pearl Defense",
+          "description": "Pearl Defense at night, plus some cool new PD concepts!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 146,
+          "created_at": "2020-11-19T01:45:04.000Z",
+          "updated_at": "2020-11-21T23:06:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "arctic"
+            },
+            {
+              "id": "concept"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "Infinite"
+            },
+            {
+              "id": "Infinite88"
+            },
+            {
+              "id": "night"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "pd"
+            },
+            {
+              "id": "pearl defense"
+            },
+            {
+              "id": "small"
+            }
+          ]
+        },
+        {
+          "id": 4350,
+          "user_id": 770809,
+          "cloneof_id": 4339,
+          "string_id": "swamp_1v1_map",
+          "title": "Swamp 1v1 Map",
+          "description": "Twist on the 1v1 map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 29,
+          "created_at": "2020-09-21T22:04:45.000Z",
+          "updated_at": "2021-01-22T00:39:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "design ideas"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "small"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 4340,
+          "user_id": 770809,
+          "cloneof_id": 4339,
+          "string_id": "deep_1v1",
+          "title": "Deep 1v1 Map",
+          "description": "1v1 map idea",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 43,
+          "created_at": "2020-09-20T20:36:21.000Z",
+          "updated_at": "2020-11-21T23:31:45.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "fun"
+            }
+          ]
+        },
+        {
+          "id": 4339,
+          "user_id": 770809,
+          "cloneof_id": null,
+          "string_id": "arctic_1v1_map",
+          "title": "Arctic 1v1 Map",
+          "description": "arctic style 1v1",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 37,
+          "created_at": "2020-09-20T18:41:52.000Z",
+          "updated_at": "2021-01-22T00:36:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "arctic"
+            },
+            {
+              "id": "deeeep.io"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "Infinite"
+            },
+            {
+              "id": "Infinite88"
+            },
+            {
+              "id": "small"
+            }
+          ]
+        },
+        {
+          "id": 4327,
+          "user_id": 770809,
+          "cloneof_id": null,
+          "string_id": "arctic_lake_i8",
+          "title": "Arctic Lake",
+          "description": "just for fun",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 93,
+          "created_at": "2020-09-19T19:53:09.000Z",
+          "updated_at": "2020-11-21T23:30:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "2v2"
+            },
+            {
+              "id": "arctic"
+            },
+            {
+              "id": "small"
+            }
+          ]
+        },
+        {
+          "id": 4206,
+          "user_id": 770809,
+          "cloneof_id": null,
+          "string_id": "infinite_map_1",
+          "title": "Infinite World Map 1",
+          "description": "land is laid out, props not complete",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 623,
+          "created_at": "2020-09-05T00:07:29.000Z",
+          "updated_at": "2020-11-21T23:39:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770809,
+            "username": "Infinite88",
+            "description": "sup",
+            "about": "hola",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T20:36:13.000Z",
+            "date_last_played": "2025-01-15T17:40:01.000Z",
+            "kill_count": 5335,
+            "play_count": 1243,
+            "highest_score": 3050391,
+            "picture": "770809.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 160,
+            "tier": 3,
+            "xp": 88500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#FFA"
+            },
+            {
+              "id": "#worldmap"
+            }
+          ]
+        }
+      ],
+      "count": 12
+    },
+    "skins": [
+      {
+        "id": 1533,
+        "version": 3,
+        "asset": "1533-3.png",
+        "created_at": "2021-03-05T00:41:54.000Z",
+        "updated_at": "2024-11-12T19:10:08.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 70,
+        "name": "Skele-Mahi",
+        "description": "got ripped up by orca teamers but still lives on",
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/comments/lxztj8/mahimahi_skelemahi_40_coins/",
+        "category": "season",
+        "season": "hallooween",
+        "on_sale": true,
+        "price": 40,
+        "sales": 142,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 770809,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 770809,
+          "username": "Infinite88",
+          "description": "sup",
+          "about": "hola",
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2020-09-04T20:36:13.000Z",
+          "date_last_played": "2025-01-15T17:40:01.000Z",
+          "kill_count": 5335,
+          "play_count": 1243,
+          "highest_score": 3050391,
+          "picture": "770809.png",
+          "displayPicture": true,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 160,
+          "tier": 3,
+          "xp": 88500,
+          "migrated": false,
+          "verified": false,
+          "beta": false
+        }
+      },
+      {
+        "id": 2126,
+        "version": 1,
+        "asset": "2126-1.png",
+        "created_at": "2020-12-26T17:07:28.000Z",
+        "updated_at": "2021-02-14T09:00:02.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 63,
+        "name": "Valentine Auk",
+        "description": "I wonder what this may be for...",
+        "reddit_link": null,
+        "category": "season",
+        "season": "valentines",
+        "on_sale": true,
+        "price": 25,
+        "sales": 1897,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 770809,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 770809,
+          "username": "Infinite88",
+          "description": "sup",
+          "about": "hola",
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2020-09-04T20:36:13.000Z",
+          "date_last_played": "2025-01-15T17:40:01.000Z",
+          "kill_count": 5335,
+          "play_count": 1243,
+          "highest_score": 3050391,
+          "picture": "770809.png",
+          "displayPicture": true,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 160,
+          "tier": 3,
+          "xp": 88500,
+          "migrated": false,
+          "verified": false,
+          "beta": false
+        }
+      },
+      {
+        "id": 4718,
+        "version": 1,
+        "asset": "4718-1.png",
+        "created_at": "2021-03-20T22:35:12.000Z",
+        "updated_at": "2022-04-19T22:00:02.000Z",
+        "deleted_at": null,
+        "depends_id": null,
+        "designer_id": null,
+        "fish_level": 1,
+        "name": "Grassy Crab",
+        "description": "I guess grass is associated with spring",
+        "reddit_link": "https://www.reddit.com/r/deeeepioskins/comments/m9hxmp/crab_grassy_crab_10_coins/",
+        "category": "season",
+        "season": "easter",
+        "on_sale": true,
+        "price": 10,
+        "sales": 1252,
+        "usable": true,
+        "reviewed": true,
+        "approved": true,
+        "rejected": false,
+        "user_id": 770809,
+        "attributes": null,
+        "beta": false,
+        "upcoming": false,
+        "user": {
+          "id": 770809,
+          "username": "Infinite88",
+          "description": "sup",
+          "about": "hola",
+          "team_id": null,
+          "team_role": null,
+          "date_created": "2020-09-04T20:36:13.000Z",
+          "date_last_played": "2025-01-15T17:40:01.000Z",
+          "kill_count": 5335,
+          "play_count": 1243,
+          "highest_score": 3050391,
+          "picture": "770809.png",
+          "displayPicture": true,
+          "active": true,
+          "ban_message": null,
+          "ban_at": null,
+          "coins": 160,
+          "tier": 3,
+          "xp": 88500,
+          "migrated": false,
+          "verified": false,
+          "beta": false
+        }
+      }
+    ]
+  },
+  "archived_at": "2025-04-25T04:57:08.304Z"
+}
