@@ -1,0 +1,61 @@
+{
+  "id": 810020,
+  "username": "RenegadePenguin",
+  "description": "Yeehaw",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-06T18:40:11.000Z",
+  "date_last_played": "2025-03-14T21:53:18.000Z",
+  "profile_views": 64,
+  "kill_count": 341,
+  "play_count": 500,
+  "highest_score": 829118,
+  "picture": "810020.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 509,
+  "tier": 2,
+  "xp": 29550,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103155,
+      "user_id": 810020,
+      "platform_id": "dc",
+      "platform_user_id": "renegadepenguin",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-03-13T18:30:14.000Z",
+      "updated_at": "2025-03-13T18:30:14.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 810020,
+    "rank_kc": 53987,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-09T23:33:49.000Z",
+    "rank_pc": 21676,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-09T23:33:51.000Z",
+    "rank_hs": 97324,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-09T23:33:54.000Z",
+    "created_at": "2025-03-14T21:53:17.000Z",
+    "updated_at": "2025-03-14T21:53:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:27:38.305Z"
+}
