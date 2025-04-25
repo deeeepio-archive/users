@@ -1,0 +1,143 @@
+{
+  "id": 20802033,
+  "username": "SupremeCat2",
+  "description": "How did you die to me? I'm like, the worst player in the game! Seriously, that's mind-boggling! Eh, you're still better than me.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-02-20T23:18:04.000Z",
+  "date_last_played": "2023-11-14T22:39:10.000Z",
+  "profile_views": 20,
+  "kill_count": 56,
+  "play_count": 54,
+  "highest_score": 1031815,
+  "picture": "20802033-829bc3bf385d9f9a95d48bbeb92af316.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 55,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20802033,
+    "rank_kc": 139111,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-11-14T22:40:42.000Z",
+    "rank_pc": 105210,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-11-14T22:40:43.000Z",
+    "rank_hs": 89406,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-14T22:40:43.000Z",
+    "created_at": "2023-11-14T22:40:43.000Z",
+    "updated_at": "2023-11-14T22:40:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13093,
+          "user_id": 20802033,
+          "cloneof_id": null,
+          "string_id": "hnkhjb",
+          "title": "Untitled",
+          "description": "bjhbbhb",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 6,
+          "created_at": "2023-11-12T22:23:12.000Z",
+          "updated_at": "2023-11-12T22:23:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20802033,
+            "username": "SupremeCat2",
+            "description": "How did you die to me? I'm like, the worst player in the game! Seriously, that's mind-boggling! Eh, you're still better than me.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-02-20T23:18:04.000Z",
+            "date_last_played": "2023-11-14T22:39:10.000Z",
+            "kill_count": 56,
+            "play_count": 54,
+            "highest_score": 1031815,
+            "picture": "20802033-829bc3bf385d9f9a95d48bbeb92af316.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 55,
+            "tier": 1,
+            "xp": 1800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hjkbgjbg ggjfhgh"
+            }
+          ]
+        },
+        {
+          "id": 13091,
+          "user_id": 20802033,
+          "cloneof_id": null,
+          "string_id": "meat_farm_bruh",
+          "title": "Meat Farm",
+          "description": "idk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 4,
+          "created_at": "2023-11-12T19:22:07.000Z",
+          "updated_at": "2023-11-12T19:22:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20802033,
+            "username": "SupremeCat2",
+            "description": "How did you die to me? I'm like, the worst player in the game! Seriously, that's mind-boggling! Eh, you're still better than me.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-02-20T23:18:04.000Z",
+            "date_last_played": "2023-11-14T22:39:10.000Z",
+            "kill_count": 56,
+            "play_count": 54,
+            "highest_score": 1031815,
+            "picture": "20802033-829bc3bf385d9f9a95d48bbeb92af316.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 55,
+            "tier": 1,
+            "xp": 1800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Farm"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:37:22.369Z"
+}
