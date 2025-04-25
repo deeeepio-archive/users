@@ -1,0 +1,61 @@
+{
+  "id": 20739267,
+  "username": "Ardoş",
+  "description": "siker geçer dosstunu",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-06-22T08:37:33.000Z",
+  "date_last_played": "2023-10-13T23:41:52.000Z",
+  "profile_views": 9,
+  "kill_count": 38,
+  "play_count": 61,
+  "highest_score": 587154,
+  "picture": "20739267-cf23b34a5f6208f7bb1138b97acadb10c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 51,
+  "tier": 1,
+  "xp": 3600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1303,
+      "user_id": 20739267,
+      "platform_id": "dc",
+      "platform_user_id": "@Ardaoffical",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-01T15:34:09.000Z",
+      "updated_at": "2022-06-01T15:34:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20739267,
+    "rank_kc": 165196,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-13T22:23:13.000Z",
+    "rank_pc": 125689,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-13T22:23:14.000Z",
+    "rank_hs": 137330,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-13T22:23:16.000Z",
+    "created_at": "2023-10-13T23:41:51.000Z",
+    "updated_at": "2023-10-13T23:41:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T14:58:03.676Z"
+}
