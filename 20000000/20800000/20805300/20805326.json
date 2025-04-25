@@ -1,0 +1,247 @@
+{
+  "id": 20805326,
+  "username": "someoneissomeone",
+  "description": "DoSomeFINforSharksToday",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-06T03:22:41.000Z",
+  "date_last_played": "2022-03-24T07:48:18.000Z",
+  "profile_views": 0,
+  "kill_count": 5,
+  "play_count": 26,
+  "highest_score": 65630,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 500,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20805326,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T21:56:11.099Z",
+    "updated_at": "2025-04-25T21:56:11.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9425,
+          "user_id": 20805326,
+          "cloneof_id": null,
+          "string_id": "my_map_first_four",
+          "title": "The Swamp",
+          "description": "Map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 47,
+          "created_at": "2022-03-07T12:48:52.000Z",
+          "updated_at": "2022-03-08T11:44:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20805326,
+            "username": "someoneissomeone",
+            "description": "DoSomeFINforSharksToday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-06T03:22:41.000Z",
+            "date_last_played": "2022-03-24T07:48:18.000Z",
+            "kill_count": 5,
+            "play_count": 26,
+            "highest_score": 65630,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 500,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Map"
+            }
+          ]
+        },
+        {
+          "id": 9424,
+          "user_id": 20805326,
+          "cloneof_id": null,
+          "string_id": "my_map_first_three",
+          "title": "Ice cave",
+          "description": "Map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 167,
+          "created_at": "2022-03-07T12:09:55.000Z",
+          "updated_at": "2022-03-07T12:43:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20805326,
+            "username": "someoneissomeone",
+            "description": "DoSomeFINforSharksToday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-06T03:22:41.000Z",
+            "date_last_played": "2022-03-24T07:48:18.000Z",
+            "kill_count": 5,
+            "play_count": 26,
+            "highest_score": 65630,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 500,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Map"
+            }
+          ]
+        },
+        {
+          "id": 9420,
+          "user_id": 20805326,
+          "cloneof_id": null,
+          "string_id": "my_map_first_two",
+          "title": "The beach",
+          "description": "Map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 86,
+          "created_at": "2022-03-06T11:43:10.000Z",
+          "updated_at": "2022-03-07T12:08:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20805326,
+            "username": "someoneissomeone",
+            "description": "DoSomeFINforSharksToday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-06T03:22:41.000Z",
+            "date_last_played": "2022-03-24T07:48:18.000Z",
+            "kill_count": 5,
+            "play_count": 26,
+            "highest_score": 65630,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 500,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Map"
+            }
+          ]
+        },
+        {
+          "id": 9419,
+          "user_id": 20805326,
+          "cloneof_id": null,
+          "string_id": "my_map_first_one_exclamation_mark",
+          "title": "Shipwreck's Flora and Fauna.",
+          "description": "Map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 106,
+          "created_at": "2022-03-06T03:27:14.000Z",
+          "updated_at": "2022-03-06T08:59:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20805326,
+            "username": "someoneissomeone",
+            "description": "DoSomeFINforSharksToday",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-06T03:22:41.000Z",
+            "date_last_played": "2022-03-24T07:48:18.000Z",
+            "kill_count": 5,
+            "play_count": 26,
+            "highest_score": 65630,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 500,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Map"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:56:11.167Z"
+}
