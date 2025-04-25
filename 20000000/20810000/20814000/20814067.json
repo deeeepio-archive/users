@@ -1,0 +1,108 @@
+{
+  "id": 20814067,
+  "username": "Obama_Is_King",
+  "description": "They call me Nate Higgers because I Hate NlGGERS.",
+  "about": "My name is Obama Husein (Last Name Here).\n\nI search through the valleys, hills, and mountains for Obama's last name.\n\nMy favorite show is Neon Genesis Evangelion.\n\nMy favorite Beverage is Lean",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-12T01:40:25.000Z",
+  "date_last_played": "2022-11-17T20:44:49.000Z",
+  "profile_views": 29,
+  "kill_count": 205,
+  "play_count": 404,
+  "highest_score": 1619192,
+  "picture": "20814067-6dd890766277bcc146ac9cf0ea374495.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 331,
+  "tier": 2,
+  "xp": 47550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1715,
+      "user_id": 20814067,
+      "platform_id": "yt",
+      "platform_user_id": "Isaac Hoke",
+      "platform_user_url": "https://www.youtube.com/barackobama",
+      "verified": false,
+      "created_at": "2022-06-07T02:38:45.000Z",
+      "updated_at": "2022-06-07T02:38:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20814067,
+    "rank_kc": 71907,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-22T01:53:33.000Z",
+    "rank_pc": 24251,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-22T01:54:24.000Z",
+    "rank_hs": 42936,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-22T01:53:34.000Z",
+    "created_at": "2022-11-17T23:00:02.000Z",
+    "updated_at": "2022-11-17T23:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9772,
+          "user_id": 20814067,
+          "cloneof_id": null,
+          "string_id": "quandale",
+          "title": "Quandale",
+          "description": "Quandale",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 20,
+          "created_at": "2022-05-05T17:24:00.000Z",
+          "updated_at": "2022-05-05T17:24:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20814067,
+            "username": "Obama_Is_King",
+            "description": "They call me Nate Higgers because I Hate NlGGERS.",
+            "about": "My name is Obama Husein (Last Name Here).\n\nI search through the valleys, hills, and mountains for Obama's last name.\n\nMy favorite show is Neon Genesis Evangelion.\n\nMy favorite Beverage is Lean",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-04-12T01:40:25.000Z",
+            "date_last_played": "2022-11-17T20:44:49.000Z",
+            "kill_count": 205,
+            "play_count": 404,
+            "highest_score": 1619192,
+            "picture": "20814067-6dd890766277bcc146ac9cf0ea374495.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 331,
+            "tier": 2,
+            "xp": 47550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Quandale"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:48:19.158Z"
+}

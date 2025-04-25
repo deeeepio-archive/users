@@ -1,0 +1,143 @@
+{
+  "id": 20814137,
+  "username": "Lurk_Coelacanth",
+  "description": "▄︻┻┳═一                     ♿",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-12T10:53:20.000Z",
+  "date_last_played": "2025-01-10T11:30:21.000Z",
+  "profile_views": 1783,
+  "kill_count": 1654,
+  "play_count": 2514,
+  "highest_score": 2149525,
+  "picture": "20814137-7ee6410a10e953104c1789b8482fb8ebd3c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 47,
+  "tier": 6,
+  "xp": 447600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20814137,
+    "rank_kc": 18896,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-16T07:14:10.000Z",
+    "rank_pc": 4280,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-16T07:14:11.000Z",
+    "rank_hs": 37300,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-16T07:14:12.000Z",
+    "created_at": "2025-01-10T11:30:21.000Z",
+    "updated_at": "2025-01-10T11:30:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13376,
+          "user_id": 20814137,
+          "cloneof_id": null,
+          "string_id": "purgatory_hall_v1",
+          "title": "Purgatory Hall",
+          "description": "Open sea areas",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 150,
+          "created_at": "2024-01-14T06:03:51.000Z",
+          "updated_at": "2024-01-14T08:56:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20814137,
+            "username": "Lurk_Coelacanth",
+            "description": "▄︻┻┳═一                     ♿",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-04-12T10:53:20.000Z",
+            "date_last_played": "2025-01-10T11:30:21.000Z",
+            "kill_count": 1654,
+            "play_count": 2514,
+            "highest_score": 2149525,
+            "picture": "20814137-7ee6410a10e953104c1789b8482fb8ebd3c.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 47,
+            "tier": 6,
+            "xp": 447600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "AI"
+            }
+          ]
+        },
+        {
+          "id": 13370,
+          "user_id": 20814137,
+          "cloneof_id": null,
+          "string_id": "lurk_coelacanth_magnification_v1",
+          "title": "Magnification",
+          "description": "A huge map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 135,
+          "created_at": "2024-01-13T03:02:00.000Z",
+          "updated_at": "2024-01-14T05:57:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20814137,
+            "username": "Lurk_Coelacanth",
+            "description": "▄︻┻┳═一                     ♿",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-04-12T10:53:20.000Z",
+            "date_last_played": "2025-01-10T11:30:21.000Z",
+            "kill_count": 1654,
+            "play_count": 2514,
+            "highest_score": 2149525,
+            "picture": "20814137-7ee6410a10e953104c1789b8482fb8ebd3c.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 47,
+            "tier": 6,
+            "xp": 447600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Magnification"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:48:27.717Z"
+}
