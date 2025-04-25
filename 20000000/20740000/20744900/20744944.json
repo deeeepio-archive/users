@@ -1,0 +1,97 @@
+{
+  "id": 20744944,
+  "username": "VVV123",
+  "description": "GG! You got caught in my jaws, just a little nibble for me. Keep swimming and have fun! 🦈🔱\n",
+  "about": "friendly",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-07-18T16:42:25.000Z",
+  "date_last_played": "2023-12-28T18:02:18.000Z",
+  "profile_views": 141,
+  "kill_count": 1596,
+  "play_count": 3141,
+  "highest_score": 2435190,
+  "picture": "20744944-5efc010645210ef0ca4ec8a5a35358143.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 178,
+  "tier": 3,
+  "xp": 119400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20744944,
+    "rank_kc": 18668,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-20T17:37:56.000Z",
+    "rank_pc": 2794,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-20T17:37:58.000Z",
+    "rank_hs": 29658,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-20T17:38:00.000Z",
+    "created_at": "2023-12-28T18:02:17.000Z",
+    "updated_at": "2023-12-28T18:02:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8220,
+          "user_id": 20744944,
+          "cloneof_id": null,
+          "string_id": "vvv1387",
+          "title": "Untitled",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-10-16T07:55:11.000Z",
+          "updated_at": "2021-10-16T07:55:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20744944,
+            "username": "VVV123",
+            "description": "GG! You got caught in my jaws, just a little nibble for me. Keep swimming and have fun! 🦈🔱\n",
+            "about": "friendly",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-18T16:42:25.000Z",
+            "date_last_played": "2023-12-28T18:02:18.000Z",
+            "kill_count": 1596,
+            "play_count": 3141,
+            "highest_score": 2435190,
+            "picture": "20744944-5efc010645210ef0ca4ec8a5a35358143.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 178,
+            "tier": 3,
+            "xp": 119400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Ocean"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T15:32:24.759Z"
+}
