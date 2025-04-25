@@ -1,0 +1,85 @@
+{
+  "id": 769891,
+  "username": "ㅤㅤㅤㅤㅤㅤvalㅤ",
+  "description": "i love cats. .",
+  "about": "val extending\ni love cats.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-01T16:32:14.000Z",
+  "date_last_played": "2025-04-23T15:09:40.000Z",
+  "profile_views": 143,
+  "kill_count": 33792,
+  "play_count": 8985,
+  "highest_score": 9036636,
+  "picture": "769891-c4998f794f849fc7c3112916710e58b62-ff35e746-0a05-45e8-80dd-0c32ce189ca3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4715,
+  "tier": 5,
+  "xp": 347850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30156,
+      "user_id": 769891,
+      "platform_id": "dc",
+      "platform_user_id": "writerr.",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-30T19:08:22.000Z",
+      "updated_at": "2023-11-30T19:08:22.000Z"
+    },
+    {
+      "id": 31228,
+      "user_id": 769891,
+      "platform_id": "qq",
+      "platform_user_id": "val",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-24T06:13:27.000Z",
+      "updated_at": "2023-12-24T06:13:27.000Z"
+    },
+    {
+      "id": 31227,
+      "user_id": 769891,
+      "platform_id": "yt",
+      "platform_user_id": "Orca fast or Low",
+      "platform_user_url": "https://www.youtube.com/channel/UChqylIV4ZbdvHTDanjbaxjQ",
+      "verified": false,
+      "created_at": "2023-12-24T06:04:05.000Z",
+      "updated_at": "2023-12-24T06:04:05.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 769891,
+    "rank_kc": 223,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-29T05:17:09.000Z",
+    "rank_pc": 273,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-29T05:17:12.000Z",
+    "rank_hs": 3063,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-29T04:31:59.000Z",
+    "created_at": "2025-04-23T15:09:39.000Z",
+    "updated_at": "2025-04-23T15:09:40.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:52:06.560Z"
+}
