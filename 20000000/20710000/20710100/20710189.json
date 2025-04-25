@@ -1,0 +1,61 @@
+{
+  "id": 20710189,
+  "username": "stong",
+  "description": "my stong itches\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-28T23:46:29.000Z",
+  "date_last_played": "2023-07-06T20:06:54.000Z",
+  "profile_views": 5,
+  "kill_count": 8,
+  "play_count": 50,
+  "highest_score": 429645,
+  "picture": "20710189-2fa8bf69b615b7f4c9dd26ef4d189c710.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1863,
+      "user_id": 20710189,
+      "platform_id": "yt",
+      "platform_user_id": "Swooshb",
+      "platform_user_url": "https://youtube.com/channel/UClL2YzYp1Y1m0nRa9-yQfgA",
+      "verified": false,
+      "created_at": "2022-06-08T19:07:36.000Z",
+      "updated_at": "2022-06-08T19:07:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20710189,
+    "rank_kc": 223792,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-06-08T19:05:59.000Z",
+    "rank_pc": 72327,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-08T19:05:59.000Z",
+    "rank_hs": 129503,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-06-08T19:05:59.000Z",
+    "created_at": "2023-07-06T20:06:54.000Z",
+    "updated_at": "2023-07-06T20:06:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T11:57:53.939Z"
+}
