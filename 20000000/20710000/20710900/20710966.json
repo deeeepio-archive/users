@@ -1,0 +1,171 @@
+{
+  "id": 20710966,
+  "username": "will2034",
+  "description": "redhot ",
+  "about": "master skinter",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-31T02:05:28.000Z",
+  "date_last_played": "2024-04-22T04:58:33.000Z",
+  "profile_views": 157,
+  "kill_count": 3179,
+  "play_count": 2169,
+  "highest_score": 2484777,
+  "picture": "20710966-e31c47bb5101032acba73ae3eee0fe898.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 153,
+  "tier": 4,
+  "xp": 203700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92723,
+      "user_id": 20710966,
+      "platform_id": "dc",
+      "platform_user_id": "will202297416",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-10T06:37:17.000Z",
+      "updated_at": "2024-03-10T06:37:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20710966,
+    "rank_kc": 10345,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T03:44:46.000Z",
+    "rank_pc": 5366,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T03:44:47.000Z",
+    "rank_hs": 29877,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T03:44:48.000Z",
+    "created_at": "2024-04-22T04:58:32.000Z",
+    "updated_at": "2024-04-22T04:58:33.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9089,
+          "user_id": 20710966,
+          "cloneof_id": null,
+          "string_id": "wilham_ffa",
+          "title": "wilham's ffa map",
+          "description": "ffa map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2022-01-23T00:14:56.000Z",
+          "updated_at": "2022-01-23T00:14:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20710966,
+            "username": "will2034",
+            "description": "redhot ",
+            "about": "master skinter",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-31T02:05:28.000Z",
+            "date_last_played": "2024-04-22T04:58:33.000Z",
+            "kill_count": 3179,
+            "play_count": 2169,
+            "highest_score": 2484777,
+            "picture": "20710966-e31c47bb5101032acba73ae3eee0fe898.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 153,
+            "tier": 4,
+            "xp": 203700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 9088,
+          "user_id": 20710966,
+          "cloneof_id": null,
+          "string_id": "wilham_1v1",
+          "title": "wilham's 1v1",
+          "description": "arctic 1v1 map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 3,
+          "created_at": "2022-01-23T00:09:09.000Z",
+          "updated_at": "2022-01-23T00:11:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20710966,
+            "username": "will2034",
+            "description": "redhot ",
+            "about": "master skinter",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-31T02:05:28.000Z",
+            "date_last_played": "2024-04-22T04:58:33.000Z",
+            "kill_count": 3179,
+            "play_count": 2169,
+            "highest_score": 2484777,
+            "picture": "20710966-e31c47bb5101032acba73ae3eee0fe898.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 153,
+            "tier": 4,
+            "xp": 203700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " 1v1 "
+            },
+            {
+              "id": "arctic"
+            },
+            {
+              "id": "Asia"
+            },
+            {
+              "id": "aus"
+            },
+            {
+              "id": "deeeeepio"
+            },
+            {
+              "id": "EU"
+            },
+            {
+              "id": "NA"
+            },
+            {
+              "id": "wilham"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:03:18.285Z"
+}
