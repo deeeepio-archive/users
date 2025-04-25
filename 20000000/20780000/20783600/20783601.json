@@ -1,0 +1,61 @@
+{
+  "id": 20783601,
+  "username": "scotch",
+  "description": "",
+  "about": "\ndied\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-12-05T03:30:58.000Z",
+  "date_last_played": "2025-01-10T05:49:34.000Z",
+  "profile_views": 8283,
+  "kill_count": 15759,
+  "play_count": 3180,
+  "highest_score": 7822236,
+  "picture": "20783601-01c8817ebd48be23f1b9f8fd13101ad69.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10958,
+  "tier": 10,
+  "xp": 3912600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23642,
+      "user_id": 20783601,
+      "platform_id": "dc",
+      "platform_user_id": "scotch7313",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-01T01:08:00.000Z",
+      "updated_at": "2023-08-01T01:08:00.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20783601,
+    "rank_kc": 1308,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T08:42:33.000Z",
+    "rank_pc": 3369,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T08:42:35.000Z",
+    "rank_hs": 3811,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T05:33:45.000Z",
+    "created_at": "2025-01-10T05:49:33.000Z",
+    "updated_at": "2025-01-10T05:49:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T19:40:11.072Z"
+}
