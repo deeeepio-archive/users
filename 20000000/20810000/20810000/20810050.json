@@ -1,0 +1,108 @@
+{
+  "id": 20810050,
+  "username": "proggers",
+  "description": "Best strategy is to flank and spank\n-Sun Tzu",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-26T01:59:31.000Z",
+  "date_last_played": "2024-07-16T13:21:08.000Z",
+  "profile_views": 14,
+  "kill_count": 624,
+  "play_count": 209,
+  "highest_score": 2744566,
+  "picture": "20810050.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 197,
+  "tier": 1,
+  "xp": 24750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15525,
+      "user_id": 20810050,
+      "platform_id": "tw",
+      "platform_user_id": "dare you to use this",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-25T04:47:32.000Z",
+      "updated_at": "2023-02-25T04:47:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20810050,
+    "rank_kc": 34815,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-25T04:46:39.000Z",
+    "rank_pc": 41347,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-25T04:46:40.000Z",
+    "rank_hs": 21625,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-25T04:46:41.000Z",
+    "created_at": "2024-07-16T13:21:08.000Z",
+    "updated_at": "2024-07-16T13:21:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9552,
+          "user_id": 20810050,
+          "cloneof_id": null,
+          "string_id": "proggers_map_v3",
+          "title": "Megamanicas",
+          "description": "sdfafs",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 17,
+          "created_at": "2022-03-29T00:38:30.000Z",
+          "updated_at": "2022-03-29T00:46:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20810050,
+            "username": "proggers",
+            "description": "Best strategy is to flank and spank\n-Sun Tzu",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-26T01:59:31.000Z",
+            "date_last_played": "2024-07-16T13:21:08.000Z",
+            "kill_count": 624,
+            "play_count": 209,
+            "highest_score": 2744566,
+            "picture": "20810050.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 197,
+            "tier": 1,
+            "xp": 24750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "bogs"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:24:33.923Z"
+}
