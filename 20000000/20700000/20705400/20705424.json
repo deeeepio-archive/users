@@ -1,0 +1,101 @@
+{
+  "id": 20705424,
+  "username": "aSavTTV",
+  "description": "twitch.tv/aSav ;)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-17T08:20:02.000Z",
+  "date_last_played": "2023-08-14T17:04:05.000Z",
+  "profile_views": 4,
+  "kill_count": 221,
+  "play_count": 158,
+  "highest_score": 1697917,
+  "picture": "20705424-3a2ceaf7f756dfd9138e102987b67109ec.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 65,
+  "tier": 1,
+  "xp": 5400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23976,
+      "user_id": 20705424,
+      "platform_id": "ig",
+      "platform_user_id": "aSavTV",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-06T03:50:52.000Z",
+      "updated_at": "2023-08-06T03:51:11.000Z"
+    },
+    {
+      "id": 23977,
+      "user_id": 20705424,
+      "platform_id": "rd",
+      "platform_user_id": "aSav47",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-06T03:51:05.000Z",
+      "updated_at": "2023-08-06T03:51:05.000Z"
+    },
+    {
+      "id": 23974,
+      "user_id": 20705424,
+      "platform_id": "tc",
+      "platform_user_id": "aSav",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-06T03:50:38.000Z",
+      "updated_at": "2023-08-06T03:50:38.000Z"
+    },
+    {
+      "id": 23978,
+      "user_id": 20705424,
+      "platform_id": "tw",
+      "platform_user_id": "aSavTV",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-06T03:53:19.000Z",
+      "updated_at": "2023-08-06T03:53:19.000Z"
+    },
+    {
+      "id": 23973,
+      "user_id": 20705424,
+      "platform_id": "yt",
+      "platform_user_id": "aSav",
+      "platform_user_url": "https://www.youtube.com/@aSavTV",
+      "verified": false,
+      "created_at": "2023-08-06T03:50:24.000Z",
+      "updated_at": "2023-08-06T03:50:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20705424,
+    "rank_kc": 69420,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-05T04:06:11.000Z",
+    "rank_pc": 57555,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-05T04:06:11.000Z",
+    "rank_hs": 48354,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-05T04:06:12.000Z",
+    "created_at": "2024-01-21T10:01:00.000Z",
+    "updated_at": "2023-08-14T17:04:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T11:29:11.672Z"
+}
