@@ -1,0 +1,669 @@
+{
+  "id": 20746032,
+  "username": "horseshoe_crab22",
+  "description": "i have nothing to say",
+  "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-07-23T13:35:27.000Z",
+  "date_last_played": "2025-04-23T13:17:29.000Z",
+  "profile_views": 1587,
+  "kill_count": 2951,
+  "play_count": 4640,
+  "highest_score": 2302133,
+  "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 824,
+  "tier": 7,
+  "xp": 687300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20746032,
+    "rank_kc": 15028,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-18T00:42:57.000Z",
+    "rank_pc": 2452,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-18T00:42:59.000Z",
+    "rank_hs": 51646,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-18T00:43:03.000Z",
+    "created_at": "2025-04-23T13:17:28.000Z",
+    "updated_at": "2025-04-23T13:17:29.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245234,
+          "user_id": 20746032,
+          "cloneof_id": null,
+          "string_id": "doing_doing",
+          "title": "making something off it",
+          "description": "meh I don't know",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 48,
+          "created_at": "2025-03-13T14:30:28.000Z",
+          "updated_at": "2025-03-13T22:24:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "neat"
+            },
+            {
+              "id": "simple"
+            },
+            {
+              "id": "small"
+            }
+          ]
+        },
+        {
+          "id": 245180,
+          "user_id": 20746032,
+          "cloneof_id": null,
+          "string_id": "Raft_sea",
+          "title": "Raft",
+          "description": "set sail to somthing new. I think i should ask some request to more things here",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 163,
+          "created_at": "2025-02-06T16:52:33.000Z",
+          "updated_at": "2025-02-25T15:30:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "boat"
+            },
+            {
+              "id": "raft"
+            },
+            {
+              "id": "sea"
+            }
+          ]
+        },
+        {
+          "id": 244871,
+          "user_id": 20746032,
+          "cloneof_id": 11811,
+          "string_id": "swamp_city_v3",
+          "title": "swamp city but more colors",
+          "description": "someone told me to add different colors in each set like the biomes in the normal maps",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 1666,
+          "created_at": "2024-11-07T15:51:38.000Z",
+          "updated_at": "2025-02-06T16:52:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "city"
+            },
+            {
+              "id": "fresh water"
+            },
+            {
+              "id": "lost city"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 244174,
+          "user_id": 20746032,
+          "cloneof_id": null,
+          "string_id": "jail_now_v0",
+          "title": "green-sea prison",
+          "description": "the deeeep.io commuity has gone insane is time for control KEEP THE DOGS IN THE CELL",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 848,
+          "created_at": "2024-04-08T02:21:20.000Z",
+          "updated_at": "2024-10-29T01:58:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "jail"
+            },
+            {
+              "id": "prison"
+            },
+            {
+              "id": "tffa or ffa idk"
+            }
+          ]
+        },
+        {
+          "id": 12977,
+          "user_id": 20746032,
+          "cloneof_id": null,
+          "string_id": "squid_mansion",
+          "title": "squid-mansion",
+          "description": "form a far away into the deep a yellow light can see into something new and unknow",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 5,
+          "objects": 2104,
+          "created_at": "2023-10-17T14:01:11.000Z",
+          "updated_at": "2024-10-29T01:51:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "custom"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "mansion"
+            },
+            {
+              "id": "squids"
+            }
+          ]
+        },
+        {
+          "id": 11811,
+          "user_id": 20746032,
+          "cloneof_id": null,
+          "string_id": "swamp_city_v2",
+          "title": "swamp city",
+          "description": "a lost city middle of a huge freshwater ocean",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 1660,
+          "created_at": "2023-02-24T21:36:22.000Z",
+          "updated_at": "2024-07-20T16:54:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "freshwater"
+            },
+            {
+              "id": "lost city"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 11700,
+          "user_id": 20746032,
+          "cloneof_id": null,
+          "string_id": "7_eleven_v2",
+          "title": "7-eleven",
+          "description": "middle of nowhere you find a lost gas station middle of the sea cool.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 4,
+          "objects": 1076,
+          "created_at": "2023-02-07T03:33:53.000Z",
+          "updated_at": "2024-07-22T20:02:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "7-eleven"
+            }
+          ]
+        },
+        {
+          "id": 11677,
+          "user_id": 20746032,
+          "cloneof_id": null,
+          "string_id": "iceberg_2v",
+          "title": "iceberg",
+          "description": "in the middle of the cold sea a giant iceberg saw in the sea with a sunken boat",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 649,
+          "created_at": "2023-02-03T15:19:12.000Z",
+          "updated_at": "2024-09-30T13:04:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "iceberg"
+            }
+          ]
+        },
+        {
+          "id": 11667,
+          "user_id": 20746032,
+          "cloneof_id": null,
+          "string_id": "desert_land_v2",
+          "title": "desert",
+          "description": "you are lost not in the land fill with sand and near by a snake town",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 404,
+          "created_at": "2023-02-01T03:10:00.000Z",
+          "updated_at": "2024-03-20T00:26:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "desert"
+            }
+          ]
+        },
+        {
+          "id": 11635,
+          "user_id": 20746032,
+          "cloneof_id": null,
+          "string_id": "mcdonald_v3",
+          "title": "mcdonald's",
+          "description": "welcome to McDonald's a place to be happy",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 5,
+          "objects": 477,
+          "created_at": "2023-01-25T14:29:17.000Z",
+          "updated_at": "2024-03-06T18:57:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fast food"
+            },
+            {
+              "id": "mcdonald's"
+            }
+          ]
+        },
+        {
+          "id": 11467,
+          "user_id": 20746032,
+          "cloneof_id": null,
+          "string_id": "moon_v3",
+          "title": "moon",
+          "description": "first step for fish kind",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 696,
+          "created_at": "2022-12-15T22:59:02.000Z",
+          "updated_at": "2024-07-22T19:20:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "moon"
+            },
+            {
+              "id": "space"
+            }
+          ]
+        },
+        {
+          "id": 10754,
+          "user_id": 20746032,
+          "cloneof_id": null,
+          "string_id": "Island_fog_day_1",
+          "title": "fog land",
+          "description": "after the jellyfish war the sky grow dark were life wonders \"how the heck did we lost by some god damm jelly fish just how?!\".",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 613,
+          "created_at": "2022-08-24T20:02:37.000Z",
+          "updated_at": "2023-04-17T16:43:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20746032,
+            "username": "horseshoe_crab22",
+            "description": "i have nothing to say",
+            "about": "sup\nwant some Fanta  \n🧱🧱🧱🧱🧱\n<GRE>Dust (⛑️x🛠️) \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-07-23T13:35:27.000Z",
+            "date_last_played": "2025-04-23T13:17:29.000Z",
+            "kill_count": 2951,
+            "play_count": 4640,
+            "highest_score": 2302133,
+            "picture": "20746032-6408d1581088daa194a478f84242c5117-2b6dfd9f-267e-40d6-862e-f1e09fe2c2de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 824,
+            "tier": 7,
+            "xp": 687300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "boats"
+            },
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "fish village"
+            },
+            {
+              "id": "fog"
+            },
+            {
+              "id": "jellyfish war"
+            },
+            {
+              "id": "LORE"
+            },
+            {
+              "id": "TFFA"
+            }
+          ]
+        }
+      ],
+      "count": 12
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T15:38:57.070Z"
+}
