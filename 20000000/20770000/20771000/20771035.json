@@ -1,0 +1,100 @@
+{
+  "id": 20771035,
+  "username": "2640329_472",
+  "description": "Damit Jim\"\r\n\r\n\"Welcome to hotel hell, check in is now, check out is never",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-10-26T15:24:07.000Z",
+  "date_last_played": "2022-12-21T00:48:16.000Z",
+  "profile_views": 1,
+  "kill_count": 3,
+  "play_count": 42,
+  "highest_score": 64125,
+  "picture": "20771035.gif",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20771035,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T18:23:46.395Z",
+    "updated_at": "2025-04-25T18:23:46.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8367,
+          "user_id": 20771035,
+          "cloneof_id": null,
+          "string_id": "map_v1_duck",
+          "title": "Untitled",
+          "description": "V1 of a new map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-10-27T14:20:41.000Z",
+          "updated_at": "2021-10-27T14:20:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20771035,
+            "username": "2640329_472",
+            "description": "Damit Jim\"\r\n\r\n\"Welcome to hotel hell, check in is now, check out is never",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-10-26T15:24:07.000Z",
+            "date_last_played": "2022-12-21T00:48:16.000Z",
+            "kill_count": 3,
+            "play_count": 42,
+            "highest_score": 64125,
+            "picture": "20771035.gif",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "New"
+            },
+            {
+              "id": "V1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T18:23:46.486Z"
+}
