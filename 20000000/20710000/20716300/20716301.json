@@ -1,0 +1,50 @@
+{
+  "id": 20716301,
+  "username": "Falloween",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-15T09:06:04.000Z",
+  "date_last_played": "2023-11-06T18:25:32.000Z",
+  "profile_views": 8,
+  "kill_count": 22,
+  "play_count": 48,
+  "highest_score": 404713,
+  "picture": "20716301-abb78018b89922d6210d007a83c10a9431.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 29,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20716301,
+    "rank_kc": 239654,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-06T17:51:16.000Z",
+    "rank_pc": 121403,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-06T17:51:49.000Z",
+    "rank_hs": 271243,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-06T17:52:26.000Z",
+    "created_at": "2023-11-06T18:25:31.000Z",
+    "updated_at": "2023-11-06T18:25:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:35:57.879Z"
+}
