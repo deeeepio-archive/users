@@ -1,0 +1,274 @@
+{
+  "id": 732709,
+  "username": "Rational_Wyvern",
+  "description": "The crunch of your bones was delicious ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-04-30T17:23:04.000Z",
+  "date_last_played": "2023-04-14T17:39:47.000Z",
+  "profile_views": 16,
+  "kill_count": 29,
+  "play_count": 77,
+  "highest_score": 531644,
+  "picture": "732709.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 58,
+  "tier": 1,
+  "xp": 6150,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 732709,
+    "rank_kc": 168229,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-14T17:40:19.000Z",
+    "rank_pc": 74699,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-04-14T17:40:21.000Z",
+    "rank_hs": 134714,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-14T17:40:24.000Z",
+    "created_at": "2023-08-19T12:18:06.000Z",
+    "updated_at": "2023-04-14T17:40:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 2818,
+          "user_id": 732709,
+          "cloneof_id": null,
+          "string_id": "theswamp",
+          "title": "The Deeeep Murky Flood",
+          "description": "Try to survive this ecosystem of NPCs. Some are passive, aggressive and even passive aggressive. be careful and try to survive the longest",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 32,
+          "created_at": "2020-05-02T00:58:50.000Z",
+          "updated_at": "2020-05-02T01:02:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 732709,
+            "username": "Rational_Wyvern",
+            "description": "The crunch of your bones was delicious ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-30T17:23:04.000Z",
+            "date_last_played": "2023-04-14T17:39:47.000Z",
+            "kill_count": 29,
+            "play_count": 77,
+            "highest_score": 531644,
+            "picture": "732709.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 58,
+            "tier": 1,
+            "xp": 6150,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ecosystem"
+            },
+            {
+              "id": "flood"
+            },
+            {
+              "id": "swamp"
+            }
+          ]
+        },
+        {
+          "id": 2815,
+          "user_id": 732709,
+          "cloneof_id": null,
+          "string_id": "thedeeeep",
+          "title": "The Deeeep Wreck",
+          "description": "Try to survive this ecosystem of NPCs. Some are passive, aggressive and even passive aggressive. be careful and try to survive the longest",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 34,
+          "created_at": "2020-05-02T00:16:12.000Z",
+          "updated_at": "2020-05-02T00:20:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 732709,
+            "username": "Rational_Wyvern",
+            "description": "The crunch of your bones was delicious ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-30T17:23:04.000Z",
+            "date_last_played": "2023-04-14T17:39:47.000Z",
+            "kill_count": 29,
+            "play_count": 77,
+            "highest_score": 531644,
+            "picture": "732709.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 58,
+            "tier": 1,
+            "xp": 6150,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Deeeep"
+            },
+            {
+              "id": "Ecosystem"
+            },
+            {
+              "id": "Ruins"
+            },
+            {
+              "id": "Shipwreck"
+            }
+          ]
+        },
+        {
+          "id": 2807,
+          "user_id": 732709,
+          "cloneof_id": null,
+          "string_id": "deepocean",
+          "title": "The huge sea",
+          "description": "lower you go more aggrasive the NPCs are. Try to survive while battling your other opponent or just survive. Everythings is gone except for some coral, shipwrecks and animals",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 359,
+          "created_at": "2020-05-01T05:48:46.000Z",
+          "updated_at": "2020-05-02T17:55:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 732709,
+            "username": "Rational_Wyvern",
+            "description": "The crunch of your bones was delicious ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-30T17:23:04.000Z",
+            "date_last_played": "2023-04-14T17:39:47.000Z",
+            "kill_count": 29,
+            "play_count": 77,
+            "highest_score": 531644,
+            "picture": "732709.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 58,
+            "tier": 1,
+            "xp": 6150,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deep ocean"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "multiplayer"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "singleplayer"
+            },
+            {
+              "id": "survival"
+            }
+          ]
+        },
+        {
+          "id": 2793,
+          "user_id": 732709,
+          "cloneof_id": null,
+          "string_id": "survival",
+          "title": "Survival",
+          "description": "This map is full of NPCs of aggressive and non aggressive animals. You can play single player or multiplayer, be careful",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 108,
+          "created_at": "2020-04-30T19:06:34.000Z",
+          "updated_at": "2020-05-01T04:48:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 732709,
+            "username": "Rational_Wyvern",
+            "description": "The crunch of your bones was delicious ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-04-30T17:23:04.000Z",
+            "date_last_played": "2023-04-14T17:39:47.000Z",
+            "kill_count": 29,
+            "play_count": 77,
+            "highest_score": 531644,
+            "picture": "732709.jpg",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 58,
+            "tier": 1,
+            "xp": 6150,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fun"
+            },
+            {
+              "id": "multiplayer"
+            },
+            {
+              "id": "singleplayer"
+            },
+            {
+              "id": "survival"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T00:55:04.397Z"
+}
