@@ -1,0 +1,71 @@
+{
+  "id": 20818188,
+  "username": "daal",
+  "description": "hey guys its me\n",
+  "about": "i beat children",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-22T17:35:00.000Z",
+  "date_last_played": "2023-06-11T12:33:54.000Z",
+  "profile_views": 41,
+  "kill_count": 104,
+  "play_count": 112,
+  "highest_score": 420468,
+  "picture": "20818188-9f9910b90719ca3f353de6ed54610ad1b5.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 17100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20304,
+      "user_id": 20818188,
+      "platform_id": "dc",
+      "platform_user_id": "cos",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-03T16:39:22.000Z",
+      "updated_at": "2023-06-03T16:39:22.000Z"
+    },
+    {
+      "id": 20369,
+      "user_id": 20818188,
+      "platform_id": "yt",
+      "platform_user_id": "echo",
+      "platform_user_url": "https://www.youtube.com/channel/UCsXQRveBYZNQd6WgpVU0z3w",
+      "verified": false,
+      "created_at": "2023-06-04T19:00:28.000Z",
+      "updated_at": "2023-06-04T19:00:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20818188,
+    "rank_kc": 125325,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-07T21:08:35.000Z",
+    "rank_pc": 84073,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-07T21:08:35.000Z",
+    "rank_hs": 160953,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-07T20:48:18.000Z",
+    "created_at": "2023-06-11T15:00:02.000Z",
+    "updated_at": "2023-06-11T15:00:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:13:06.494Z"
+}
