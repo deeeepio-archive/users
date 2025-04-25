@@ -1,0 +1,101 @@
+{
+  "id": 733857,
+  "username": "魚丸",
+  "description": ":)",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-02T05:49:41.000Z",
+  "date_last_played": "2023-11-12T03:22:07.000Z",
+  "profile_views": 9984,
+  "kill_count": 18949,
+  "play_count": 3672,
+  "highest_score": 3920698,
+  "picture": "733857-ea3a89ab6ec123fcc83d573d3e6e4296.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2947,
+  "tier": 10,
+  "xp": 2038500,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9542,
+      "user_id": 733857,
+      "platform_id": "dc",
+      "platform_user_id": "天狼星Sirius#4174",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-13T10:44:05.000Z",
+      "updated_at": "2023-11-08T09:09:11.000Z"
+    },
+    {
+      "id": 26694,
+      "user_id": 733857,
+      "platform_id": "dc",
+      "platform_user_id": "魚丸[𝓣𝓦]",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-18T13:54:39.000Z",
+      "updated_at": "2023-11-12T01:51:22.000Z"
+    },
+    {
+      "id": 11701,
+      "user_id": 733857,
+      "platform_id": "yt",
+      "platform_user_id": "不要點它",
+      "platform_user_url": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+      "verified": false,
+      "created_at": "2022-12-22T12:44:10.000Z",
+      "updated_at": "2023-04-20T09:16:26.000Z"
+    },
+    {
+      "id": 11033,
+      "user_id": 733857,
+      "platform_id": "yt",
+      "platform_user_id": "天狼星Sirius",
+      "platform_user_url": "https://www.youtube.com/@sirius987/videos",
+      "verified": false,
+      "created_at": "2022-12-09T12:24:43.000Z",
+      "updated_at": "2022-12-10T00:01:26.000Z"
+    },
+    {
+      "id": 15213,
+      "user_id": 733857,
+      "platform_id": "yt",
+      "platform_user_id": "最近很愛聽的",
+      "platform_user_url": "https://www.youtube.com/@35marblue",
+      "verified": false,
+      "created_at": "2023-02-19T00:46:35.000Z",
+      "updated_at": "2023-03-05T09:34:30.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 733857,
+    "rank_kc": 811,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2024-01-18T05:32:08.000Z",
+    "rank_pc": 2216,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2024-01-18T05:32:09.000Z",
+    "rank_hs": 13536,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-18T05:32:11.000Z",
+    "created_at": "2024-01-18T05:32:10.000Z",
+    "updated_at": "2024-01-18T05:32:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T01:02:05.574Z"
+}
