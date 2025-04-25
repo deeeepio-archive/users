@@ -1,0 +1,149 @@
+{
+  "id": 777974,
+  "username": "9643472_761",
+  "description": "Oh jesus I lost, again",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-30T15:41:57.000Z",
+  "date_last_played": "2021-05-15T15:59:07.000Z",
+  "profile_views": 0,
+  "kill_count": 184,
+  "play_count": 107,
+  "highest_score": 1253549,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 26,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 777974,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T05:41:08.045Z",
+    "updated_at": "2025-04-25T05:41:08.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4462,
+          "user_id": 777974,
+          "cloneof_id": null,
+          "string_id": "sirblubsalotsffamap1",
+          "title": "Something",
+          "description": "Idk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 216,
+          "created_at": "2020-10-01T22:50:04.000Z",
+          "updated_at": "2020-10-02T19:24:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 777974,
+            "username": "9643472_761",
+            "description": "Oh jesus I lost, again",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-30T15:41:57.000Z",
+            "date_last_played": "2021-05-15T15:59:07.000Z",
+            "kill_count": 184,
+            "play_count": 107,
+            "highest_score": 1253549,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            }
+          ]
+        },
+        {
+          "id": 4437,
+          "user_id": 777974,
+          "cloneof_id": null,
+          "string_id": "my_first_map1v1",
+          "title": "Ruin of the Blue",
+          "description": "This is a 1v1 map based on a ruin in the sea.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 30,
+          "created_at": "2020-09-30T15:48:52.000Z",
+          "updated_at": "2020-09-30T15:48:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 777974,
+            "username": "9643472_761",
+            "description": "Oh jesus I lost, again",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-30T15:41:57.000Z",
+            "date_last_played": "2021-05-15T15:59:07.000Z",
+            "kill_count": 184,
+            "play_count": 107,
+            "highest_score": 1253549,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " 20x20"
+            },
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Ruin"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T05:41:08.099Z"
+}
