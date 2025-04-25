@@ -1,0 +1,97 @@
+{
+  "id": 771267,
+  "username": "Frostyflakes",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-06T22:13:33.000Z",
+  "date_last_played": "2020-09-06T22:19:00.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 1,
+  "highest_score": 300,
+  "picture": "771267.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 771267,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T04:59:11.034Z",
+    "updated_at": "2025-04-25T04:59:11.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4213,
+          "user_id": 771267,
+          "cloneof_id": null,
+          "string_id": "team_play129",
+          "title": "Team players",
+          "description": "dont like fighting? I made a map, but im not so good sorry if you dislike it, no fighting in this one.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-09-06T22:17:24.000Z",
+          "updated_at": "2020-09-06T22:18:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 771267,
+            "username": "Frostyflakes",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-06T22:13:33.000Z",
+            "date_last_played": "2020-09-06T22:19:00.000Z",
+            "kill_count": 0,
+            "play_count": 1,
+            "highest_score": 300,
+            "picture": "771267.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#nofight #love"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:59:11.078Z"
+}

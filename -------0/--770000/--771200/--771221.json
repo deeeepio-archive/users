@@ -1,0 +1,192 @@
+{
+  "id": 771221,
+  "username": "cienna1234567",
+  "description": "DJ foxy",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-06T17:48:17.000Z",
+  "date_last_played": "2021-08-16T17:17:10.000Z",
+  "profile_views": 0,
+  "kill_count": 303,
+  "play_count": 598,
+  "highest_score": 734293,
+  "picture": "771221.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 100,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 771221,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T04:59:05.921Z",
+    "updated_at": "2025-04-25T04:59:06.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4212,
+          "user_id": 771221,
+          "cloneof_id": null,
+          "string_id": "fafs",
+          "title": "Untitled",
+          "description": "1234",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-09-06T18:08:10.000Z",
+          "updated_at": "2020-09-06T18:12:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 771221,
+            "username": "cienna1234567",
+            "description": "DJ foxy",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-06T17:48:17.000Z",
+            "date_last_played": "2021-08-16T17:17:10.000Z",
+            "kill_count": 303,
+            "play_count": 598,
+            "highest_score": 734293,
+            "picture": "771221.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 100,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1234"
+            },
+            {
+              "id": "1312"
+            }
+          ]
+        },
+        {
+          "id": 4211,
+          "user_id": 771221,
+          "cloneof_id": null,
+          "string_id": "afa",
+          "title": "Untitled",
+          "description": "1234",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2020-09-06T18:03:43.000Z",
+          "updated_at": "2020-09-06T18:03:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 771221,
+            "username": "cienna1234567",
+            "description": "DJ foxy",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-06T17:48:17.000Z",
+            "date_last_played": "2021-08-16T17:17:10.000Z",
+            "kill_count": 303,
+            "play_count": 598,
+            "highest_score": 734293,
+            "picture": "771221.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 100,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1324"
+            }
+          ]
+        },
+        {
+          "id": 4210,
+          "user_id": 771221,
+          "cloneof_id": null,
+          "string_id": "nice",
+          "title": "dtr gn",
+          "description": "1234",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-09-06T17:51:31.000Z",
+          "updated_at": "2020-09-06T17:51:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 771221,
+            "username": "cienna1234567",
+            "description": "DJ foxy",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-06T17:48:17.000Z",
+            "date_last_played": "2021-08-16T17:17:10.000Z",
+            "kill_count": 303,
+            "play_count": 598,
+            "highest_score": 734293,
+            "picture": "771221.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 100,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "2456"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:59:05.962Z"
+}
