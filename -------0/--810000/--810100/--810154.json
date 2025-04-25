@@ -1,0 +1,310 @@
+{
+  "id": 810154,
+  "username": "real_pro_Shivvy",
+  "description": "EgorK",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-07T02:12:56.000Z",
+  "date_last_played": "2021-04-11T23:09:59.000Z",
+  "profile_views": 0,
+  "kill_count": 445,
+  "play_count": 110,
+  "highest_score": 3193804,
+  "picture": "810154.gif",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 418,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 810154,
+    "rank_kc": 47120,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-09-26T21:29:28.000Z",
+    "rank_pc": 68514,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-26T21:29:31.000Z",
+    "rank_hs": 18642,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-26T21:29:35.000Z",
+    "created_at": "2023-11-04T09:53:22.000Z",
+    "updated_at": "2023-09-26T21:29:35.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5577,
+          "user_id": 810154,
+          "cloneof_id": null,
+          "string_id": "swamp_tree_tall_spaces_rooms",
+          "title": "Swamp Tree",
+          "description": "Like the volcano in nac_ffa, this is a tree but swamp.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1,
+          "created_at": "2021-01-15T01:11:20.000Z",
+          "updated_at": "2021-01-15T01:12:45.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 810154,
+            "username": "real_pro_Shivvy",
+            "description": "EgorK",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-07T02:12:56.000Z",
+            "date_last_played": "2021-04-11T23:09:59.000Z",
+            "kill_count": 445,
+            "play_count": 110,
+            "highest_score": 3193804,
+            "picture": "810154.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 418,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Asset"
+            },
+            {
+              "id": "cool stuff"
+            },
+            {
+              "id": "For you"
+            },
+            {
+              "id": "free to use"
+            },
+            {
+              "id": "ggez"
+            },
+            {
+              "id": "nku"
+            },
+            {
+              "id": "official"
+            },
+            {
+              "id": "pro"
+            },
+            {
+              "id": "shivvy"
+            },
+            {
+              "id": "spaces"
+            },
+            {
+              "id": "swamp"
+            },
+            {
+              "id": "tree"
+            }
+          ]
+        },
+        {
+          "id": 5551,
+          "user_id": 810154,
+          "cloneof_id": null,
+          "string_id": "skyland_large_waterfall",
+          "title": "Skyland Asset 2",
+          "description": "Large, Waterfall, and the center of attention",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 69,
+          "created_at": "2021-01-13T00:02:39.000Z",
+          "updated_at": "2021-01-15T18:55:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 810154,
+            "username": "real_pro_Shivvy",
+            "description": "EgorK",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-07T02:12:56.000Z",
+            "date_last_played": "2021-04-11T23:09:59.000Z",
+            "kill_count": 445,
+            "play_count": 110,
+            "highest_score": 3193804,
+            "picture": "810154.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 418,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "2ez"
+            },
+            {
+              "id": "asset"
+            },
+            {
+              "id": "f2u"
+            },
+            {
+              "id": "free"
+            },
+            {
+              "id": "ggez"
+            },
+            {
+              "id": "menacing god"
+            },
+            {
+              "id": "no re"
+            },
+            {
+              "id": "shivvy pro"
+            }
+          ]
+        },
+        {
+          "id": 5548,
+          "user_id": 810154,
+          "cloneof_id": null,
+          "string_id": "skyland_small_waterfall",
+          "title": "Skyland Asset",
+          "description": "quite small, however it has a waterfall",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 18,
+          "created_at": "2021-01-12T23:21:47.000Z",
+          "updated_at": "2021-01-12T23:37:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 810154,
+            "username": "real_pro_Shivvy",
+            "description": "EgorK",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-07T02:12:56.000Z",
+            "date_last_played": "2021-04-11T23:09:59.000Z",
+            "kill_count": 445,
+            "play_count": 110,
+            "highest_score": 3193804,
+            "picture": "810154.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 418,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "asset"
+            },
+            {
+              "id": "for your map"
+            },
+            {
+              "id": "free to use"
+            },
+            {
+              "id": "ggez"
+            },
+            {
+              "id": "shivvy god"
+            }
+          ]
+        },
+        {
+          "id": 5515,
+          "user_id": 810154,
+          "cloneof_id": null,
+          "string_id": "shivvy_1v1_v2",
+          "title": "Shivvy 1v1 v2",
+          "description": "as it is written",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 34,
+          "created_at": "2021-01-09T00:20:05.000Z",
+          "updated_at": "2021-04-29T00:05:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 810154,
+            "username": "real_pro_Shivvy",
+            "description": "EgorK",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-07T02:12:56.000Z",
+            "date_last_played": "2021-04-11T23:09:59.000Z",
+            "kill_count": 445,
+            "play_count": 110,
+            "highest_score": 3193804,
+            "picture": "810154.gif",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 418,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1 map"
+            },
+            {
+              "id": "NKU"
+            },
+            {
+              "id": "Pro"
+            },
+            {
+              "id": "Shivvy"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T09:28:07.960Z"
+}
