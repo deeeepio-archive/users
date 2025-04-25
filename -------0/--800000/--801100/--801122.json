@@ -1,0 +1,521 @@
+{
+  "id": 801122,
+  "username": "DanieltheDaniel",
+  "description": "I have killed you to tell you that you are an amazing person and i hope you have a wonderful day!",
+  "about": "My name is Daniel",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-11T02:24:30.000Z",
+  "date_last_played": "2023-10-01T21:09:53.000Z",
+  "profile_views": 207,
+  "kill_count": 10150,
+  "play_count": 2843,
+  "highest_score": 3458981,
+  "picture": "801122.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1766,
+  "tier": 5,
+  "xp": 318000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3315,
+      "user_id": 801122,
+      "platform_id": "dc",
+      "platform_user_id": "PSWBSF#9958",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-04T14:14:15.000Z",
+      "updated_at": "2022-07-04T14:14:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 801122,
+    "rank_kc": 1774,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-21T21:58:30.000Z",
+    "rank_pc": 2529,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-21T21:58:35.000Z",
+    "rank_hs": 13501,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-21T21:58:40.000Z",
+    "created_at": "2023-10-01T21:09:52.000Z",
+    "updated_at": "2023-10-01T21:09:53.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10054,
+          "user_id": 801122,
+          "cloneof_id": null,
+          "string_id": "interplanetary_warfare",
+          "title": "Interplanetary Warfare",
+          "description": "First functional planet pd map!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 6,
+          "objects": 257,
+          "created_at": "2022-06-20T14:31:04.000Z",
+          "updated_at": "2022-07-20T20:54:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 801122,
+            "username": "DanieltheDaniel",
+            "description": "I have killed you to tell you that you are an amazing person and i hope you have a wonderful day!",
+            "about": "My name is Daniel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-11T02:24:30.000Z",
+            "date_last_played": "2023-10-01T21:09:53.000Z",
+            "kill_count": 10150,
+            "play_count": 2843,
+            "highest_score": 3458981,
+            "picture": "801122.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1766,
+            "tier": 5,
+            "xp": 318000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "pd"
+            },
+            {
+              "id": "planets"
+            },
+            {
+              "id": "space"
+            }
+          ]
+        },
+        {
+          "id": 9323,
+          "user_id": 801122,
+          "cloneof_id": null,
+          "string_id": "orange_juice_biome",
+          "title": "Orange Juice Biome",
+          "description": "Inspired by something my sister made!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 113,
+          "created_at": "2022-02-19T17:31:04.000Z",
+          "updated_at": "2022-02-24T21:14:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 801122,
+            "username": "DanieltheDaniel",
+            "description": "I have killed you to tell you that you are an amazing person and i hope you have a wonderful day!",
+            "about": "My name is Daniel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-11T02:24:30.000Z",
+            "date_last_played": "2023-10-01T21:09:53.000Z",
+            "kill_count": 10150,
+            "play_count": 2843,
+            "highest_score": 3458981,
+            "picture": "801122.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1766,
+            "tier": 5,
+            "xp": 318000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Alien"
+            },
+            {
+              "id": "Event"
+            },
+            {
+              "id": "good"
+            },
+            {
+              "id": "Orange Juice"
+            }
+          ]
+        },
+        {
+          "id": 9017,
+          "user_id": 801122,
+          "cloneof_id": null,
+          "string_id": "daniel_practice_deep",
+          "title": "Practice Map (Deep)",
+          "description": "Concept by Coccolithophor",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 52,
+          "created_at": "2022-01-14T22:36:56.000Z",
+          "updated_at": "2022-01-15T22:09:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 801122,
+            "username": "DanieltheDaniel",
+            "description": "I have killed you to tell you that you are an amazing person and i hope you have a wonderful day!",
+            "about": "My name is Daniel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-11T02:24:30.000Z",
+            "date_last_played": "2023-10-01T21:09:53.000Z",
+            "kill_count": 10150,
+            "play_count": 2843,
+            "highest_score": 3458981,
+            "picture": "801122.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1766,
+            "tier": 5,
+            "xp": 318000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "concept"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "Practice map"
+            }
+          ]
+        },
+        {
+          "id": 8746,
+          "user_id": 801122,
+          "cloneof_id": null,
+          "string_id": "polluted_estuary",
+          "title": "Polluted Estuary",
+          "description": "#teamseas",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 90,
+          "created_at": "2021-12-12T23:04:39.000Z",
+          "updated_at": "2022-02-07T20:47:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 801122,
+            "username": "DanieltheDaniel",
+            "description": "I have killed you to tell you that you are an amazing person and i hope you have a wonderful day!",
+            "about": "My name is Daniel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-11T02:24:30.000Z",
+            "date_last_played": "2023-10-01T21:09:53.000Z",
+            "kill_count": 10150,
+            "play_count": 2843,
+            "highest_score": 3458981,
+            "picture": "801122.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1766,
+            "tier": 5,
+            "xp": 318000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#teamseas"
+            },
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Estuary"
+            },
+            {
+              "id": "Pollution"
+            }
+          ]
+        },
+        {
+          "id": 8697,
+          "user_id": 801122,
+          "cloneof_id": null,
+          "string_id": "underground_clock",
+          "title": "Underground Clock",
+          "description": "Two animals fight each other in an underground clock",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 35,
+          "created_at": "2021-12-06T17:50:49.000Z",
+          "updated_at": "2021-12-06T17:52:38.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 801122,
+            "username": "DanieltheDaniel",
+            "description": "I have killed you to tell you that you are an amazing person and i hope you have a wonderful day!",
+            "about": "My name is Daniel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-11T02:24:30.000Z",
+            "date_last_played": "2023-10-01T21:09:53.000Z",
+            "kill_count": 10150,
+            "play_count": 2843,
+            "highest_score": 3458981,
+            "picture": "801122.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1766,
+            "tier": 5,
+            "xp": 318000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Clock"
+            },
+            {
+              "id": "Time"
+            },
+            {
+              "id": "Underground"
+            }
+          ]
+        },
+        {
+          "id": 8540,
+          "user_id": 801122,
+          "cloneof_id": null,
+          "string_id": "Daniel_ffa",
+          "title": "Daniel's ffa",
+          "description": "Working on Arctic",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 420,
+          "created_at": "2021-11-14T23:01:11.000Z",
+          "updated_at": "2022-09-25T21:12:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 801122,
+            "username": "DanieltheDaniel",
+            "description": "I have killed you to tell you that you are an amazing person and i hope you have a wonderful day!",
+            "about": "My name is Daniel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-11T02:24:30.000Z",
+            "date_last_played": "2023-10-01T21:09:53.000Z",
+            "kill_count": 10150,
+            "play_count": 2843,
+            "highest_score": 3458981,
+            "picture": "801122.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1766,
+            "tier": 5,
+            "xp": 318000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "not finished"
+            }
+          ]
+        },
+        {
+          "id": 8496,
+          "user_id": 801122,
+          "cloneof_id": null,
+          "string_id": "fjord",
+          "title": "Fjord",
+          "description": "A beautiful fjord in Norway",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 83,
+          "created_at": "2021-11-08T21:27:09.000Z",
+          "updated_at": "2021-11-08T21:28:23.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 801122,
+            "username": "DanieltheDaniel",
+            "description": "I have killed you to tell you that you are an amazing person and i hope you have a wonderful day!",
+            "about": "My name is Daniel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-11T02:24:30.000Z",
+            "date_last_played": "2023-10-01T21:09:53.000Z",
+            "kill_count": 10150,
+            "play_count": 2843,
+            "highest_score": 3458981,
+            "picture": "801122.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1766,
+            "tier": 5,
+            "xp": 318000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Fjord"
+            }
+          ]
+        },
+        {
+          "id": 8411,
+          "user_id": 801122,
+          "cloneof_id": null,
+          "string_id": "cold_caverns2",
+          "title": "Cold Caverns",
+          "description": "My first 1v1 map :D",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 24,
+          "created_at": "2021-10-30T21:46:18.000Z",
+          "updated_at": "2021-10-30T21:50:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 801122,
+            "username": "DanieltheDaniel",
+            "description": "I have killed you to tell you that you are an amazing person and i hope you have a wonderful day!",
+            "about": "My name is Daniel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-11T02:24:30.000Z",
+            "date_last_played": "2023-10-01T21:09:53.000Z",
+            "kill_count": 10150,
+            "play_count": 2843,
+            "highest_score": 3458981,
+            "picture": "801122.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1766,
+            "tier": 5,
+            "xp": 318000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Cave"
+            },
+            {
+              "id": "Cold"
+            }
+          ]
+        },
+        {
+          "id": 7805,
+          "user_id": 801122,
+          "cloneof_id": null,
+          "string_id": "Mt_doom",
+          "title": "Mt Doom",
+          "description": "My first map! :D",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 276,
+          "created_at": "2021-09-10T21:49:02.000Z",
+          "updated_at": "2022-02-18T15:20:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 801122,
+            "username": "DanieltheDaniel",
+            "description": "I have killed you to tell you that you are an amazing person and i hope you have a wonderful day!",
+            "about": "My name is Daniel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-11T02:24:30.000Z",
+            "date_last_played": "2023-10-01T21:09:53.000Z",
+            "kill_count": 10150,
+            "play_count": 2843,
+            "highest_score": 3458981,
+            "picture": "801122.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1766,
+            "tier": 5,
+            "xp": 318000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Pearl Defence"
+            },
+            {
+              "id": "Volcano"
+            }
+          ]
+        }
+      ],
+      "count": 9
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:26:11.963Z"
+}
