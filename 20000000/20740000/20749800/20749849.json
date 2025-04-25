@@ -1,0 +1,97 @@
+{
+  "id": 20749849,
+  "username": "carnifex",
+  "description": "all i want for chrismas is a lot of head and bootie",
+  "about": "I Am A tyrannosaurid A basil member of celeosauria which is a group of feathered theropod dinosaurs. Species: Yutyrannus Hauli.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-08-10T18:59:42.000Z",
+  "date_last_played": "2023-09-11T00:04:13.000Z",
+  "profile_views": 3,
+  "kill_count": 221,
+  "play_count": 302,
+  "highest_score": 1091573,
+  "picture": "20749849.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 141,
+  "tier": 1,
+  "xp": 6450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20749849,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T16:04:52.279Z",
+    "updated_at": "2025-04-25T16:04:52.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8440,
+          "user_id": 20749849,
+          "cloneof_id": null,
+          "string_id": "ie_big_sea",
+          "title": "big sea",
+          "description": "a big ocean",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 12,
+          "created_at": "2021-11-02T18:53:17.000Z",
+          "updated_at": "2021-11-02T18:53:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20749849,
+            "username": "carnifex",
+            "description": "all i want for chrismas is a lot of head and bootie",
+            "about": "I Am A tyrannosaurid A basil member of celeosauria which is a group of feathered theropod dinosaurs. Species: Yutyrannus Hauli.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-08-10T18:59:42.000Z",
+            "date_last_played": "2023-09-11T00:04:13.000Z",
+            "kill_count": 221,
+            "play_count": 302,
+            "highest_score": 1091573,
+            "picture": "20749849.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 141,
+            "tier": 1,
+            "xp": 6450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "big"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:04:52.352Z"
+}
