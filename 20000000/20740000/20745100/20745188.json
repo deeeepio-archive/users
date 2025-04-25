@@ -1,0 +1,61 @@
+{
+  "id": 20745188,
+  "username": "Lone3",
+  "description": "Lmao\nLone#4025",
+  "about": "Explosives",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-07-19T20:24:41.000Z",
+  "date_last_played": "2023-07-20T16:09:07.000Z",
+  "profile_views": 4,
+  "kill_count": 12,
+  "play_count": 15,
+  "highest_score": 140255,
+  "picture": "20745188.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 150,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23258,
+      "user_id": 20745188,
+      "platform_id": "dc",
+      "platform_user_id": "Lone#4025",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-24T22:43:46.000Z",
+      "updated_at": "2023-07-24T22:43:46.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20745188,
+    "rank_kc": 237488,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-07-24T22:42:33.000Z",
+    "rank_pc": 176264,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-07-24T22:42:34.000Z",
+    "rank_hs": 278128,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-24T22:42:34.000Z",
+    "created_at": "2023-07-24T22:42:33.000Z",
+    "updated_at": "2023-07-24T22:42:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T15:34:02.847Z"
+}
