@@ -1,0 +1,153 @@
+{
+  "id": 20790386,
+  "username": "moses11king",
+  "description": "You thought you could handle the power of the ocean, but you were sorely mistaken. The true kings of the deep have no mercy for those who dare challenge us. Bow down to your betters, little fish.  #SharkGang #NoMercy #YouWillSuffer",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-06T20:31:42.000Z",
+  "date_last_played": "2023-09-09T17:21:30.000Z",
+  "profile_views": 24,
+  "kill_count": 265,
+  "play_count": 406,
+  "highest_score": 1917608,
+  "picture": "20790386-a10f4613df708bcc10a9f0cd3f363644d3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 70,
+  "tier": 2,
+  "xp": 67350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12378,
+      "user_id": 20790386,
+      "platform_id": "dc",
+      "platform_user_id": "king12",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-01T19:57:54.000Z",
+      "updated_at": "2023-01-01T19:57:54.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20790386,
+    "rank_kc": 62233,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-07T05:56:51.000Z",
+    "rank_pc": 27157,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-07T05:57:04.000Z",
+    "rank_hs": 36783,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-07T05:57:11.000Z",
+    "created_at": "2023-09-09T17:21:30.000Z",
+    "updated_at": "2023-09-09T17:21:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10681,
+          "user_id": 20790386,
+          "cloneof_id": 5693,
+          "string_id": "join_my_cave",
+          "title": "the cave",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 1532,
+          "created_at": "2022-08-17T19:39:45.000Z",
+          "updated_at": "2022-08-17T19:39:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20790386,
+            "username": "moses11king",
+            "description": "You thought you could handle the power of the ocean, but you were sorely mistaken. The true kings of the deep have no mercy for those who dare challenge us. Bow down to your betters, little fish.  #SharkGang #NoMercy #YouWillSuffer",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-06T20:31:42.000Z",
+            "date_last_played": "2023-09-09T17:21:30.000Z",
+            "kill_count": 265,
+            "play_count": 406,
+            "highest_score": 1917608,
+            "picture": "20790386-a10f4613df708bcc10a9f0cd3f363644d3.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 70,
+            "tier": 2,
+            "xp": 67350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fun"
+            },
+            {
+              "id": "pls join john"
+            }
+          ]
+        },
+        {
+          "id": 10680,
+          "user_id": 20790386,
+          "cloneof_id": 10679,
+          "string_id": "king",
+          "title": "Untitled",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 22,
+          "created_at": "2022-08-17T19:34:44.000Z",
+          "updated_at": "2022-08-17T19:34:45.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20790386,
+            "username": "moses11king",
+            "description": "You thought you could handle the power of the ocean, but you were sorely mistaken. The true kings of the deep have no mercy for those who dare challenge us. Bow down to your betters, little fish.  #SharkGang #NoMercy #YouWillSuffer",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-06T20:31:42.000Z",
+            "date_last_played": "2023-09-09T17:21:30.000Z",
+            "kill_count": 265,
+            "play_count": 406,
+            "highest_score": 1917608,
+            "picture": "20790386-a10f4613df708bcc10a9f0cd3f363644d3.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 70,
+            "tier": 2,
+            "xp": 67350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:20:59.542Z"
+}
