@@ -1,0 +1,97 @@
+{
+  "id": 20707780,
+  "username": "0ber0",
+  "description": "(o゜▽゜)o☆follow your dreams keep sleeping",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-23T11:58:15.000Z",
+  "date_last_played": "2022-08-05T23:01:04.000Z",
+  "profile_views": 8,
+  "kill_count": 690,
+  "play_count": 586,
+  "highest_score": 755751,
+  "picture": "20707780-952659b9be128699f648c161ff2ab716.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 139,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20707780,
+    "rank_kc": 28480,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-05T21:15:28.000Z",
+    "rank_pc": 15172,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-05T21:15:28.000Z",
+    "rank_hs": 91786,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-05T21:15:28.000Z",
+    "created_at": "2023-05-26T16:18:35.000Z",
+    "updated_at": "2022-08-05T23:01:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6352,
+          "user_id": 20707780,
+          "cloneof_id": null,
+          "string_id": "bermapcool001",
+          "title": "map for fun ",
+          "description": "its going to be my deeeep.io",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 258,
+          "created_at": "2021-03-25T13:53:29.000Z",
+          "updated_at": "2021-03-25T14:12:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20707780,
+            "username": "0ber0",
+            "description": "(o゜▽゜)o☆follow your dreams keep sleeping",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-03-23T11:58:15.000Z",
+            "date_last_played": "2022-08-05T23:01:04.000Z",
+            "kill_count": 690,
+            "play_count": 586,
+            "highest_score": 755751,
+            "picture": "20707780-952659b9be128699f648c161ff2ab716.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 139,
+            "tier": 1,
+            "xp": 1800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "tags"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T11:43:22.908Z"
+}
