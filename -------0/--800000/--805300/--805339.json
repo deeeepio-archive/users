@@ -1,0 +1,152 @@
+{
+  "id": 805339,
+  "username": "Realorka",
+  "description": "nothing here",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-22T15:50:46.000Z",
+  "date_last_played": "2022-05-15T18:50:36.000Z",
+  "profile_views": 1,
+  "kill_count": 384,
+  "play_count": 164,
+  "highest_score": 3258580,
+  "picture": "805339.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 838,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 805339,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T08:58:15.224Z",
+    "updated_at": "2025-04-25T08:58:15.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9349,
+          "user_id": 805339,
+          "cloneof_id": null,
+          "string_id": "smelly_smel1",
+          "title": "smelly_smel",
+          "description": "smelly_smel",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 12,
+          "created_at": "2022-02-23T16:24:21.000Z",
+          "updated_at": "2022-02-23T16:24:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 805339,
+            "username": "Realorka",
+            "description": "nothing here",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-22T15:50:46.000Z",
+            "date_last_played": "2022-05-15T18:50:36.000Z",
+            "kill_count": 384,
+            "play_count": 164,
+            "highest_score": 3258580,
+            "picture": "805339.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 838,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "smelly_smel"
+            }
+          ]
+        },
+        {
+          "id": 6325,
+          "user_id": 805339,
+          "cloneof_id": null,
+          "string_id": "trash_map_v1",
+          "title": "Edit this map pls,add what u like",
+          "description": " use object selection to edit map.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 329,
+          "created_at": "2021-03-23T14:51:06.000Z",
+          "updated_at": "2022-02-23T16:06:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 805339,
+            "username": "Realorka",
+            "description": "nothing here",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-22T15:50:46.000Z",
+            "date_last_played": "2022-05-15T18:50:36.000Z",
+            "kill_count": 384,
+            "play_count": 164,
+            "highest_score": 3258580,
+            "picture": "805339.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 838,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ByeWorld!"
+            },
+            {
+              "id": "CoolMap"
+            },
+            {
+              "id": "prosOnly"
+            },
+            {
+              "id": "TrashKid"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:58:15.307Z"
+}
