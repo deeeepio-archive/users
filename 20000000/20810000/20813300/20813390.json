@@ -1,0 +1,71 @@
+{
+  "id": 20813390,
+  "username": "Architeuthiss",
+  "description": "Only the pure in heart can make a good soup",
+  "about": "Beethoven I love you please come to Brazil",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-08T22:26:21.000Z",
+  "date_last_played": "2025-04-25T10:32:51.000Z",
+  "profile_views": 1565,
+  "kill_count": 6196,
+  "play_count": 3645,
+  "highest_score": 6052962,
+  "picture": "20813390-979dc1467ba29be6d1b65676c68bec76-f266f5a0-415b-4f4e-87b4-6cc4fb07680a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 333,
+  "tier": 10,
+  "xp": 1213650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 3347,
+      "user_id": 20813390,
+      "platform_id": "dc",
+      "platform_user_id": "TotallyNotMe#6597",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-05T04:49:56.000Z",
+      "updated_at": "2022-07-05T04:49:56.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20813390,
+    "rank_kc": 5704,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-20T01:37:53.000Z",
+    "rank_pc": 2898,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-20T01:37:55.000Z",
+    "rank_hs": 5917,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-20T01:33:31.000Z",
+    "created_at": "2025-04-25T10:32:50.000Z",
+    "updated_at": "2025-04-25T10:32:51.000Z",
+    "pd": {
+      "played": 2,
+      "won": 0,
+      "ratio": 0
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:44:16.942Z"
+}
