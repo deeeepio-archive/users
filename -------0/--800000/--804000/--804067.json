@@ -1,0 +1,97 @@
+{
+  "id": 804067,
+  "username": "Wtheflip",
+  "description": "0u0",
+  "about": "i love orcha ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-18T17:30:42.000Z",
+  "date_last_played": "2025-01-28T16:30:10.000Z",
+  "profile_views": 104,
+  "kill_count": 1172,
+  "play_count": 1119,
+  "highest_score": 1918268,
+  "picture": "804067-d6bd569d9f255f64c366aa3ebd618c5c-459c4ab0-ab17-45db-a3f1-b099e62d61ae.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 115,
+  "tier": 4,
+  "xp": 187050,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 804067,
+    "rank_kc": 25406,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-26T00:36:15.000Z",
+    "rank_pc": 11876,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-26T00:36:16.000Z",
+    "rank_hs": 41452,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-26T00:36:17.000Z",
+    "created_at": "2025-01-28T16:30:10.000Z",
+    "updated_at": "2025-01-28T16:30:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5497,
+          "user_id": 804067,
+          "cloneof_id": null,
+          "string_id": "5372570_221",
+          "title": "bob the builder",
+          "description": "can we fix it yes we can",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 12,
+          "created_at": "2021-01-06T16:38:05.000Z",
+          "updated_at": "2021-10-27T15:14:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 804067,
+            "username": "Wtheflip",
+            "description": "0u0",
+            "about": "i love orcha ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-18T17:30:42.000Z",
+            "date_last_played": "2025-01-28T16:30:10.000Z",
+            "kill_count": 1172,
+            "play_count": 1119,
+            "highest_score": 1918268,
+            "picture": "804067-d6bd569d9f255f64c366aa3ebd618c5c-459c4ab0-ab17-45db-a3f1-b099e62d61ae.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 115,
+            "tier": 4,
+            "xp": 187050,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "lol"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:49:56.672Z"
+}
