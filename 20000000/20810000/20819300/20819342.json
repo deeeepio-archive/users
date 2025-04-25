@@ -1,0 +1,65 @@
+{
+  "id": 20819342,
+  "username": "回答我",
+  "description": "look in my eyes!\n\n",
+  "about": "\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-27T04:02:52.000Z",
+  "date_last_played": "2025-04-21T06:12:27.000Z",
+  "profile_views": 103,
+  "kill_count": 342,
+  "play_count": 425,
+  "highest_score": 1242964,
+  "picture": "20819342-a847a968eed743897f2a51ac4a667848-1a448129-bd82-4a2f-b565-92500be423c7.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 76,
+  "tier": 2,
+  "xp": 31800,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7433,
+      "user_id": 20819342,
+      "platform_id": "tc",
+      "platform_user_id": "frfrfr0124",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-29T03:53:50.000Z",
+      "updated_at": "2022-09-29T03:53:50.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20819342,
+    "rank_kc": 48673,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-01T08:22:55.000Z",
+    "rank_pc": 21670,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-01T08:22:55.000Z",
+    "rank_hs": 58893,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-01T08:22:56.000Z",
+    "created_at": "2025-04-21T06:12:26.000Z",
+    "updated_at": "2025-04-21T06:12:27.000Z",
+    "pd": {
+      "played": 7,
+      "won": 5,
+      "ratio": 71
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:20:12.553Z"
+}
