@@ -1,0 +1,61 @@
+{
+  "id": 20781156,
+  "username": "TerraMap",
+  "description": " ",
+  "about": "idk what I'm doing ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-22T21:06:51.000Z",
+  "date_last_played": "2023-11-12T15:31:43.000Z",
+  "profile_views": 139,
+  "kill_count": 567,
+  "play_count": 501,
+  "highest_score": 3244844,
+  "picture": "20781156-521014fb517ec2c10f1c5f9810f855e1515.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 222,
+  "tier": 3,
+  "xp": 103800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3915,
+      "user_id": 20781156,
+      "platform_id": "dc",
+      "platform_user_id": "TerraMap#4498",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-19T02:49:09.000Z",
+      "updated_at": "2022-07-19T02:49:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20781156,
+    "rank_kc": 41954,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T08:31:58.000Z",
+    "rank_pc": 25544,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T08:33:55.000Z",
+    "rank_hs": 19053,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T08:35:23.000Z",
+    "created_at": "2024-09-26T13:00:04.000Z",
+    "updated_at": "2024-09-26T13:00:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T19:24:38.394Z"
+}
