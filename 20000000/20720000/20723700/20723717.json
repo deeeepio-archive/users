@@ -1,0 +1,61 @@
+{
+  "id": 20723717,
+  "username": "Lely",
+  "description": "Lo siento bro, así es la vida\nSorry bro, is the life",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-04T07:21:28.000Z",
+  "date_last_played": "2024-06-14T23:00:03.000Z",
+  "profile_views": 28,
+  "kill_count": 636,
+  "play_count": 489,
+  "highest_score": 2474810,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 119,
+  "tier": 2,
+  "xp": 31500,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 24345,
+      "user_id": 20723717,
+      "platform_id": "ig",
+      "platform_user_id": "Cesar_drafts",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-11T08:20:52.000Z",
+      "updated_at": "2024-06-14T18:20:38.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20723717,
+    "rank_kc": 40799,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-14T11:15:56.000Z",
+    "rank_pc": 27398,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-14T11:15:58.000Z",
+    "rank_hs": 28444,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-14T11:15:59.000Z",
+    "created_at": "2024-06-14T23:00:03.000Z",
+    "updated_at": "2024-06-14T23:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T13:21:12.508Z"
+}
