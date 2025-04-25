@@ -1,0 +1,108 @@
+{
+  "id": 761679,
+  "username": "abcdefgh123",
+  "description": " \nㅤㅤㅤㅤㅤㅤㅤ",
+  "about": "ㅤㅤㅤㅤㅤㅤㅤㅤ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-07-27T06:26:56.000Z",
+  "date_last_played": "2025-03-26T12:57:52.000Z",
+  "profile_views": 1302,
+  "kill_count": 11318,
+  "play_count": 7506,
+  "highest_score": 4138422,
+  "picture": "761679-6bb2c7f871a1028e3f1f2e78ee1badaab-26faaee8-fd7c-4fdc-83f8-e1c55b8a7da6.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 609,
+  "tier": 10,
+  "xp": 1156050,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 97544,
+      "user_id": 761679,
+      "platform_id": "dc",
+      "platform_user_id": "ㅤㅤㅤㅤㅤㅤ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-15T15:18:44.000Z",
+      "updated_at": "2024-08-15T15:18:44.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 761679,
+    "rank_kc": 3822,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-13T13:21:42.000Z",
+    "rank_pc": 854,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-13T13:21:43.000Z",
+    "rank_hs": 13464,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-13T13:21:44.000Z",
+    "created_at": "2025-03-26T13:03:12.000Z",
+    "updated_at": "2025-03-26T13:03:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6703,
+          "user_id": 761679,
+          "cloneof_id": null,
+          "string_id": "0122992994",
+          "title": "Untitled",
+          "description": "fg",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 28,
+          "created_at": "2021-05-01T11:11:38.000Z",
+          "updated_at": "2021-05-01T11:11:40.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 761679,
+            "username": "abcdefgh123",
+            "description": " \nㅤㅤㅤㅤㅤㅤㅤ",
+            "about": "ㅤㅤㅤㅤㅤㅤㅤㅤ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-07-27T06:26:56.000Z",
+            "date_last_played": "2025-03-26T12:57:52.000Z",
+            "kill_count": 11318,
+            "play_count": 7506,
+            "highest_score": 4138422,
+            "picture": "761679-6bb2c7f871a1028e3f1f2e78ee1badaab-26faaee8-fd7c-4fdc-83f8-e1c55b8a7da6.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 609,
+            "tier": 10,
+            "xp": 1156050,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "soli"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:01:25.835Z"
+}
