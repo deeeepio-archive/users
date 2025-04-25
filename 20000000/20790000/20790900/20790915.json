@@ -1,0 +1,61 @@
+{
+  "id": 20790915,
+  "username": "coa1",
+  "description": "bye\n\ngoodfish alt asia",
+  "about": "Hi",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-09T18:45:00.000Z",
+  "date_last_played": "2024-11-09T16:44:07.000Z",
+  "profile_views": 4960,
+  "kill_count": 10592,
+  "play_count": 2151,
+  "highest_score": 10718736,
+  "picture": "20790915-a17734aa21ea3cfd02e96298983fc288-b5bf675c-8843-4a4b-8279-cfdebd0ffcf6.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 118,
+  "tier": 10,
+  "xp": 1465200,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 97178,
+      "user_id": 20790915,
+      "platform_id": "dc",
+      "platform_user_id": "goodfishies",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-06T07:51:26.000Z",
+      "updated_at": "2024-08-06T07:51:26.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20790915,
+    "rank_kc": 2247,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-11T02:11:39.000Z",
+    "rank_pc": 5376,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-11T02:11:48.000Z",
+    "rank_hs": 2354,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-11T02:11:51.000Z",
+    "created_at": "2024-11-09T16:44:06.000Z",
+    "updated_at": "2024-11-09T16:44:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:24:05.222Z"
+}
