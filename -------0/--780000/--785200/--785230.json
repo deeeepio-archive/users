@@ -1,0 +1,97 @@
+{
+  "id": 785230,
+  "username": "Imahuman",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-10-24T16:50:29.000Z",
+  "date_last_played": "2020-10-24T16:59:00.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 1,
+  "highest_score": 6725,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 785230,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T06:32:02.107Z",
+    "updated_at": "2025-04-25T06:32:02.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4656,
+          "user_id": 785230,
+          "cloneof_id": null,
+          "string_id": "90902",
+          "title": "Human Home",
+          "description": "Welcome to the human home. My name (the creator) (username) is Imahuman. I originally wanted Imahuman:) . But that would not work. So, welcome to the Human Home, I just finished creating!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 10,
+          "created_at": "2020-10-24T16:57:06.000Z",
+          "updated_at": "2020-10-24T16:57:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 785230,
+            "username": "Imahuman",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-10-24T16:50:29.000Z",
+            "date_last_played": "2020-10-24T16:59:00.000Z",
+            "kill_count": 0,
+            "play_count": 1,
+            "highest_score": 6725,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#Human #Home"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T06:32:02.218Z"
+}
