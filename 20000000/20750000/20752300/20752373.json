@@ -1,0 +1,143 @@
+{
+  "id": 20752373,
+  "username": "LuckyMax",
+  "description": "You may have been killed because:\nYou annoyed me\nI was hungry\nyour toxic\nI just don't like ur name as it could m=be racist\nbecause why not\nI want revenge\nim angry and need to let my anger out",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-08-20T18:18:59.000Z",
+  "date_last_played": "2023-08-09T15:34:56.000Z",
+  "profile_views": 1,
+  "kill_count": 78,
+  "play_count": 627,
+  "highest_score": 486485,
+  "picture": "20752373.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20752373,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T16:19:23.822Z",
+    "updated_at": "2025-04-25T16:19:24.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7711,
+          "user_id": 20752373,
+          "cloneof_id": 7644,
+          "string_id": "pin_ball2",
+          "title": "Ⓐⓢⓢ'ⓢ Pinball",
+          "description": "Jump around! ur the pinball! Can u become the shark?",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 264,
+          "created_at": "2021-08-29T21:16:17.000Z",
+          "updated_at": "2021-08-31T00:12:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20752373,
+            "username": "LuckyMax",
+            "description": "You may have been killed because:\nYou annoyed me\nI was hungry\nyour toxic\nI just don't like ur name as it could m=be racist\nbecause why not\nI want revenge\nim angry and need to let my anger out",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-08-20T18:18:59.000Z",
+            "date_last_played": "2023-08-09T15:34:56.000Z",
+            "kill_count": 78,
+            "play_count": 627,
+            "highest_score": 486485,
+            "picture": "20752373.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "pinball"
+            }
+          ]
+        },
+        {
+          "id": 7621,
+          "user_id": 20752373,
+          "cloneof_id": null,
+          "string_id": "as_1",
+          "title": "Ⓐⓢⓢ'ⓢ World",
+          "description": "fun for everyone!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 132,
+          "created_at": "2021-08-22T23:41:36.000Z",
+          "updated_at": "2021-08-25T14:51:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20752373,
+            "username": "LuckyMax",
+            "description": "You may have been killed because:\nYou annoyed me\nI was hungry\nyour toxic\nI just don't like ur name as it could m=be racist\nbecause why not\nI want revenge\nim angry and need to let my anger out",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-08-20T18:18:59.000Z",
+            "date_last_played": "2023-08-09T15:34:56.000Z",
+            "kill_count": 78,
+            "play_count": 627,
+            "highest_score": 486485,
+            "picture": "20752373.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "secret"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:19:23.878Z"
+}
