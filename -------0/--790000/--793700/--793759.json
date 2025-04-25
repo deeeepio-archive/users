@@ -1,0 +1,97 @@
+{
+  "id": 793759,
+  "username": "BobTheNecromancer",
+  "description": "G`day Folks Bob the necromancer here and Today we are doing a unboxing! Wait whats this? Hey wizard ray i think this hooligan is the Box! Nope its still alive. Wait no its not.",
+  "about": "IM NOT SCP-096!\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-19T18:32:31.000Z",
+  "date_last_played": "2022-07-01T03:57:59.000Z",
+  "profile_views": 77,
+  "kill_count": 756,
+  "play_count": 651,
+  "highest_score": 2239465,
+  "picture": "793759-c85eba622ca51086605105c80f7acaddbb.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 180,
+  "tier": 2,
+  "xp": 54600,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 793759,
+    "rank_kc": 33104,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-02T03:12:03.000Z",
+    "rank_pc": 19148,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-02T03:12:04.000Z",
+    "rank_hs": 33512,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-02T03:12:05.000Z",
+    "created_at": "2023-12-17T19:51:49.000Z",
+    "updated_at": "2023-10-02T03:12:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4930,
+          "user_id": 793759,
+          "cloneof_id": null,
+          "string_id": "9174492958",
+          "title": "The swamp",
+          "description": "try to survive this food filled but dangerous swamp",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 24,
+          "created_at": "2020-11-19T21:14:35.000Z",
+          "updated_at": "2020-11-19T21:21:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 793759,
+            "username": "BobTheNecromancer",
+            "description": "G`day Folks Bob the necromancer here and Today we are doing a unboxing! Wait whats this? Hey wizard ray i think this hooligan is the Box! Nope its still alive. Wait no its not.",
+            "about": "IM NOT SCP-096!\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-19T18:32:31.000Z",
+            "date_last_played": "2022-07-01T03:57:59.000Z",
+            "kill_count": 756,
+            "play_count": 651,
+            "highest_score": 2239465,
+            "picture": "793759-c85eba622ca51086605105c80f7acaddbb.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 180,
+            "tier": 2,
+            "xp": 54600,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "none"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:34:24.491Z"
+}
