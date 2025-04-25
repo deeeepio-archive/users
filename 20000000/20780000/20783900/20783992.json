@@ -1,0 +1,50 @@
+{
+  "id": 20783992,
+  "username": "dunca",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-12-07T09:47:49.000Z",
+  "date_last_played": "2023-01-25T09:10:25.000Z",
+  "profile_views": 8,
+  "kill_count": 10,
+  "play_count": 39,
+  "highest_score": 145167,
+  "picture": "20783992-9b6ec76d4d487478c6e05dd3943a69f3.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 17,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20783992,
+    "rank_kc": 232832,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-16T09:04:37.000Z",
+    "rank_pc": 97804,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-16T09:04:38.000Z",
+    "rank_hs": 236187,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-16T09:04:38.000Z",
+    "created_at": "2023-01-25T09:10:24.000Z",
+    "updated_at": "2023-01-25T09:10:25.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T19:42:32.839Z"
+}
