@@ -1,0 +1,75 @@
+{
+  "id": 754616,
+  "username": "Hux",
+  "description": "",
+  "about": "Hx",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-06-29T19:52:00.000Z",
+  "date_last_played": "2025-04-16T23:20:14.000Z",
+  "profile_views": 1181,
+  "kill_count": 13806,
+  "play_count": 4901,
+  "highest_score": 21791179,
+  "picture": "754616-8aa0a1fcf9baea76d707c53c03a75ef7-57f912f1-5e9c-44ec-ad46-fc82c731fac6.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 283,
+  "tier": 9,
+  "xp": 944700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92771,
+      "user_id": 754616,
+      "platform_id": "dc",
+      "platform_user_id": "hux7292",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-11T14:22:23.000Z",
+      "updated_at": "2024-03-11T14:22:23.000Z"
+    },
+    {
+      "id": 18548,
+      "user_id": 754616,
+      "platform_id": "yt",
+      "platform_user_id": "Hux",
+      "platform_user_url": "https://www.youtube.com/channel/UC6FDfGrlQDnPR49cUoL94Nw",
+      "verified": false,
+      "created_at": "2023-05-04T00:46:50.000Z",
+      "updated_at": "2023-05-04T00:46:50.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 754616,
+    "rank_kc": 1849,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T02:45:17.000Z",
+    "rank_pc": 1502,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T02:45:19.000Z",
+    "rank_hs": 1261,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-20T02:50:10.000Z",
+    "created_at": "2025-04-16T23:20:14.000Z",
+    "updated_at": "2025-04-16T23:20:14.000Z",
+    "pd": {
+      "played": 4,
+      "won": 2,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T03:18:15.727Z"
+}
