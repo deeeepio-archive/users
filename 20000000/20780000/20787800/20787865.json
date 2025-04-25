@@ -1,0 +1,91 @@
+{
+  "id": 20787865,
+  "username": "XuardiX",
+  "description": "You died.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-12-22T17:35:25.000Z",
+  "date_last_played": "2024-01-14T11:35:29.000Z",
+  "profile_views": 14,
+  "kill_count": 8,
+  "play_count": 22,
+  "highest_score": 360904,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 1,
+  "xp": 1200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23500,
+      "user_id": 20787865,
+      "platform_id": "rd",
+      "platform_user_id": "AskToMe86",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-29T10:02:53.000Z",
+      "updated_at": "2023-09-02T16:19:42.000Z"
+    },
+    {
+      "id": 31989,
+      "user_id": 20787865,
+      "platform_id": "rd",
+      "platform_user_id": "XuardiX",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-14T11:24:13.000Z",
+      "updated_at": "2024-01-14T11:24:13.000Z"
+    },
+    {
+      "id": 31823,
+      "user_id": 20787865,
+      "platform_id": "tc",
+      "platform_user_id": "@cubeanglegd",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-10T07:25:35.000Z",
+      "updated_at": "2024-01-10T07:25:35.000Z"
+    },
+    {
+      "id": 31990,
+      "user_id": 20787865,
+      "platform_id": "tw",
+      "platform_user_id": "XuardiX",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-14T11:24:30.000Z",
+      "updated_at": "2024-01-14T11:24:30.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20787865,
+    "rank_kc": 290748,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-10T08:19:31.000Z",
+    "rank_pc": 184168,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-10T08:19:33.000Z",
+    "rank_hs": 192056,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-10T08:19:34.000Z",
+    "created_at": "2024-01-14T11:35:28.000Z",
+    "updated_at": "2024-01-14T11:35:29.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:05:47.548Z"
+}
