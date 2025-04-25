@@ -1,0 +1,118 @@
+{
+  "id": 802615,
+  "username": "d4rk1e",
+  "description": " “I won't harm a single soul unless a nigga wanna get wasted”\n\n么\n",
+  "about": "los·er\nnoun\n1. a person or thing that loses or has lost something, especially a game or contest.\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-15T02:44:28.000Z",
+  "date_last_played": "2023-11-25T04:50:52.000Z",
+  "profile_views": 572,
+  "kill_count": 5070,
+  "play_count": 2813,
+  "highest_score": 7327099,
+  "picture": "802615-cffcb88b55a50b6b10f962bb258c36103.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 215,
+  "tier": 9,
+  "xp": 1050000,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12671,
+      "user_id": 802615,
+      "platform_id": "dc",
+      "platform_user_id": "d4rk1e_official",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-07T09:44:48.000Z",
+      "updated_at": "2023-11-25T04:07:23.000Z"
+    },
+    {
+      "id": 18379,
+      "user_id": 802615,
+      "platform_id": "yt",
+      "platform_user_id": "Question Mark",
+      "platform_user_url": "https://www.youtube.com/@Question_Mark286",
+      "verified": false,
+      "created_at": "2023-05-01T03:02:12.000Z",
+      "updated_at": "2023-05-01T03:02:12.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 802615,
+    "rank_kc": 6009,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2024-01-07T21:47:31.000Z",
+    "rank_pc": 3541,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-07T21:47:35.000Z",
+    "rank_hs": 4149,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-07T21:47:36.000Z",
+    "created_at": "2024-01-09T06:45:22.000Z",
+    "updated_at": "2024-01-07T21:47:36.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5370,
+          "user_id": 802615,
+          "cloneof_id": null,
+          "string_id": "my_map_is_poop",
+          "title": "-.-",
+          "description": "-.-",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 11,
+          "created_at": "2020-12-21T22:32:01.000Z",
+          "updated_at": "2020-12-21T22:32:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 802615,
+            "username": "d4rk1e",
+            "description": " “I won't harm a single soul unless a nigga wanna get wasted”\n\n么\n",
+            "about": "los·er\nnoun\n1. a person or thing that loses or has lost something, especially a game or contest.\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-12-15T02:44:28.000Z",
+            "date_last_played": "2023-11-25T04:50:52.000Z",
+            "kill_count": 5070,
+            "play_count": 2813,
+            "highest_score": 7327099,
+            "picture": "802615-cffcb88b55a50b6b10f962bb258c36103.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 215,
+            "tier": 9,
+            "xp": 1050000,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "DEEZ NUTS"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:39:56.695Z"
+}
