@@ -1,0 +1,50 @@
+{
+  "id": 20789459,
+  "username": "hojun",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-01T16:11:04.000Z",
+  "date_last_played": "2024-12-18T03:34:40.000Z",
+  "profile_views": 13,
+  "kill_count": 77,
+  "play_count": 199,
+  "highest_score": 546210,
+  "picture": "20789459-fcd889f3105935eaec9ecfcc49adba713.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 44,
+  "tier": 1,
+  "xp": 7950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20789459,
+    "rank_kc": 107906,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-27T14:42:16.000Z",
+    "rank_pc": 41976,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-27T14:42:17.000Z",
+    "rank_hs": 121527,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-10-27T14:42:18.000Z",
+    "created_at": "2024-12-18T03:34:40.000Z",
+    "updated_at": "2024-12-18T03:34:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:15:09.146Z"
+}
