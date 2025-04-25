@@ -1,0 +1,103 @@
+{
+  "id": 20739903,
+  "username": "9159406_839",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-06-24T18:36:51.000Z",
+  "date_last_played": null,
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20739903,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T15:01:44.993Z",
+    "updated_at": "2025-04-25T15:01:45.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7212,
+          "user_id": 20739903,
+          "cloneof_id": null,
+          "string_id": "my_first_map_6721930",
+          "title": "My First Map",
+          "description": "Have fun",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 48,
+          "created_at": "2021-06-24T18:41:06.000Z",
+          "updated_at": "2021-06-25T17:14:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20739903,
+            "username": "9159406_839",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-06-24T18:36:51.000Z",
+            "date_last_played": null,
+            "kill_count": 0,
+            "play_count": 0,
+            "highest_score": 0,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " #sorryifitsucks"
+            },
+            {
+              "id": "#havefun"
+            },
+            {
+              "id": "#new"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T15:01:45.056Z"
+}
