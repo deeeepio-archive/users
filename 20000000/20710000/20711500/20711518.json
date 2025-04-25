@@ -1,0 +1,61 @@
+{
+  "id": 20711518,
+  "username": "Guy_1",
+  "description": "\"some silly ass quote\" -a nobody on a fish game",
+  "about": "The Penis",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-01T14:04:23.000Z",
+  "date_last_played": "2024-11-11T21:53:42.000Z",
+  "profile_views": 17,
+  "kill_count": 2896,
+  "play_count": 1021,
+  "highest_score": 3159764,
+  "picture": "20711518.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 106,
+  "tier": 2,
+  "xp": 61200,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17211,
+      "user_id": 20711518,
+      "platform_id": "dc",
+      "platform_user_id": "Skiiguy",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-07T18:29:47.000Z",
+      "updated_at": "2023-09-10T03:24:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20711518,
+    "rank_kc": 10999,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-10T02:37:05.000Z",
+    "rank_pc": 13315,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-10T02:37:07.000Z",
+    "rank_hs": 18859,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-10T02:37:08.000Z",
+    "created_at": "2024-11-11T21:53:41.000Z",
+    "updated_at": "2024-11-11T21:53:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:06:30.116Z"
+}
