@@ -1,0 +1,103 @@
+{
+  "id": 20808646,
+  "username": "Flamedrop",
+  "description": "I know I'm  not that  great,  I'm  just  doing  my  best.  My highest record: 2.3 mil with Walrus and Bullshark.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-03-20T01:55:53.000Z",
+  "date_last_played": "2024-11-23T21:46:23.000Z",
+  "profile_views": 6,
+  "kill_count": 1972,
+  "play_count": 922,
+  "highest_score": 2261720,
+  "picture": "20808646.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 48,
+  "tier": 1,
+  "xp": 6600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20808646,
+    "rank_kc": 12453,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-26T18:30:55.000Z",
+    "rank_pc": 10541,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-26T18:30:55.000Z",
+    "rank_hs": 26440,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-26T18:30:55.000Z",
+    "created_at": "2024-11-23T21:46:22.000Z",
+    "updated_at": "2024-11-23T21:46:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9547,
+          "user_id": 20808646,
+          "cloneof_id": null,
+          "string_id": "333777",
+          "title": "Floppa",
+          "description": "e",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 27,
+          "created_at": "2022-03-28T18:20:17.000Z",
+          "updated_at": "2022-03-28T19:23:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20808646,
+            "username": "Flamedrop",
+            "description": "I know I'm  not that  great,  I'm  just  doing  my  best.  My highest record: 2.3 mil with Walrus and Bullshark.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-03-20T01:55:53.000Z",
+            "date_last_played": "2024-11-23T21:46:23.000Z",
+            "kill_count": 1972,
+            "play_count": 922,
+            "highest_score": 2261720,
+            "picture": "20808646.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 48,
+            "tier": 1,
+            "xp": 6600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "E"
+            },
+            {
+              "id": "hehe"
+            },
+            {
+              "id": "Tall"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T22:15:47.872Z"
+}
