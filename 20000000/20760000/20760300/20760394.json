@@ -1,0 +1,143 @@
+{
+  "id": 20760394,
+  "username": "Silencio",
+  "description": "Good Luck.\r\nYou're gonna need it.",
+  "about": "im on discord...\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-20T15:09:54.000Z",
+  "date_last_played": "2024-11-10T02:12:45.000Z",
+  "profile_views": 3,
+  "kill_count": 221,
+  "play_count": 140,
+  "highest_score": 3553516,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 9,
+  "tier": 3,
+  "xp": 78000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20760394,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T17:11:14.283Z",
+    "updated_at": "2025-04-25T17:11:14.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8353,
+          "user_id": 20760394,
+          "cloneof_id": null,
+          "string_id": "the_next_wave_v2",
+          "title": "arctic and sart of kelp forest",
+          "description": "no air time increasing required",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 551,
+          "created_at": "2021-10-25T18:59:19.000Z",
+          "updated_at": "2021-12-20T20:37:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20760394,
+            "username": "Silencio",
+            "description": "Good Luck.\r\nYou're gonna need it.",
+            "about": "im on discord...\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-20T15:09:54.000Z",
+            "date_last_played": "2024-11-10T02:12:45.000Z",
+            "kill_count": 221,
+            "play_count": 140,
+            "highest_score": 3553516,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 9,
+            "tier": 3,
+            "xp": 78000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "in_progress"
+            }
+          ]
+        },
+        {
+          "id": 7896,
+          "user_id": 20760394,
+          "cloneof_id": null,
+          "string_id": "the_next_wave",
+          "title": "The Map At The End Of The World",
+          "description": "for this map to work oxygen time would need to be increased in animals that are semiaquatic",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 1285,
+          "created_at": "2021-09-20T15:12:55.000Z",
+          "updated_at": "2021-10-07T16:48:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20760394,
+            "username": "Silencio",
+            "description": "Good Luck.\r\nYou're gonna need it.",
+            "about": "im on discord...\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-20T15:09:54.000Z",
+            "date_last_played": "2024-11-10T02:12:45.000Z",
+            "kill_count": 221,
+            "play_count": 140,
+            "highest_score": 3553516,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 9,
+            "tier": 3,
+            "xp": 78000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "in_progress"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:11:14.385Z"
+}

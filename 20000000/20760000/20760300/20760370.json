@@ -1,0 +1,61 @@
+{
+  "id": 20760370,
+  "username": "swaggyman",
+  "description": "on my puter",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-20T13:41:05.000Z",
+  "date_last_played": "2025-01-17T17:55:14.000Z",
+  "profile_views": 84,
+  "kill_count": 762,
+  "play_count": 865,
+  "highest_score": 3126994,
+  "picture": "20760370-d739e848d9462dd565b0d2fb110f93b33.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 367,
+  "tier": 3,
+  "xp": 91950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 25540,
+      "user_id": 20760370,
+      "platform_id": "dc",
+      "platform_user_id": "spiffyguy",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-28T16:49:47.000Z",
+      "updated_at": "2023-08-28T16:50:10.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20760370,
+    "rank_kc": 34505,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-30T02:42:35.000Z",
+    "rank_pc": 15936,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-30T02:42:40.000Z",
+    "rank_hs": 20189,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-30T02:42:44.000Z",
+    "created_at": "2025-01-17T17:55:13.000Z",
+    "updated_at": "2025-01-17T17:55:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:11:06.655Z"
+}
