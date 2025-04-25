@@ -1,0 +1,170 @@
+{
+  "id": 797134,
+  "username": "ViRzon",
+  "description": "#2fast4u\r\n#you'retooslow",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-30T18:43:58.000Z",
+  "date_last_played": "2021-02-02T21:17:53.000Z",
+  "profile_views": 0,
+  "kill_count": 3,
+  "play_count": 20,
+  "highest_score": 67789,
+  "picture": "797134.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 797134,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T07:55:05.270Z",
+    "updated_at": "2025-04-25T07:55:05.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5795,
+          "user_id": 797134,
+          "cloneof_id": null,
+          "string_id": "space_ffa_lots_of_food",
+          "title": "Space FFA Lots of food",
+          "description": "i made it in under an hour",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 15,
+          "created_at": "2021-02-02T20:21:57.000Z",
+          "updated_at": "2021-02-02T20:21:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 797134,
+            "username": "ViRzon",
+            "description": "#2fast4u\r\n#you'retooslow",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-30T18:43:58.000Z",
+            "date_last_played": "2021-02-02T21:17:53.000Z",
+            "kill_count": 3,
+            "play_count": 20,
+            "highest_score": 67789,
+            "picture": "797134.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " ffa"
+            },
+            {
+              "id": "earth"
+            },
+            {
+              "id": "easy"
+            },
+            {
+              "id": "easy to make"
+            },
+            {
+              "id": "food"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "space"
+            }
+          ]
+        },
+        {
+          "id": 5062,
+          "user_id": 797134,
+          "cloneof_id": null,
+          "string_id": "map_of_chaos_virzon123",
+          "title": "CHAOS",
+          "description": "i made it in under an hour",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 35,
+          "created_at": "2020-11-30T19:06:51.000Z",
+          "updated_at": "2020-11-30T19:06:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 797134,
+            "username": "ViRzon",
+            "description": "#2fast4u\r\n#you'retooslow",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-30T18:43:58.000Z",
+            "date_last_played": "2021-02-02T21:17:53.000Z",
+            "kill_count": 3,
+            "play_count": 20,
+            "highest_score": 67789,
+            "picture": "797134.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "awful"
+            },
+            {
+              "id": "crazy"
+            },
+            {
+              "id": "first time"
+            },
+            {
+              "id": "weird"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:55:05.368Z"
+}
