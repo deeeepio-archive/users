@@ -1,0 +1,97 @@
+{
+  "id": 20762539,
+  "username": "Salem7777777",
+  "description": "Idiota\r\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-09-28T20:43:22.000Z",
+  "date_last_played": "2021-10-03T14:06:25.000Z",
+  "profile_views": 0,
+  "kill_count": 131,
+  "play_count": 135,
+  "highest_score": 347492,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 132,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20762539,
+    "rank_kc": 96425,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2024-01-20T21:01:25.000Z",
+    "rank_pc": 64830,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-20T21:05:13.000Z",
+    "rank_hs": 196692,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-20T21:11:12.000Z",
+    "created_at": "2024-01-20T21:49:24.000Z",
+    "updated_at": "2024-01-20T21:11:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 8019,
+          "user_id": 20762539,
+          "cloneof_id": null,
+          "string_id": "saiyuh",
+          "title": "gunula",
+          "description": "esponsor",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-10-01T19:22:32.000Z",
+          "updated_at": "2021-10-01T19:22:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20762539,
+            "username": "Salem7777777",
+            "description": "Idiota\r\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-09-28T20:43:22.000Z",
+            "date_last_played": "2021-10-03T14:06:25.000Z",
+            "kill_count": 131,
+            "play_count": 135,
+            "highest_score": 347492,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 132,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "o"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T17:27:41.591Z"
+}
