@@ -1,0 +1,54 @@
+{
+  "id": 20781771,
+  "username": "alex33",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-25T23:47:24.000Z",
+  "date_last_played": "2025-04-10T17:33:32.000Z",
+  "profile_views": 69,
+  "kill_count": 251,
+  "play_count": 255,
+  "highest_score": 512810,
+  "picture": "20781771-1044b6d70689e6a16dbc3010c6e4757571.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 16,
+  "tier": 1,
+  "xp": 13350,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20781771,
+    "rank_kc": 69790,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-11T07:48:31.000Z",
+    "rank_pc": 43498,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-11T09:30:54.000Z",
+    "rank_hs": 152182,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-11T05:05:16.000Z",
+    "created_at": "2025-04-10T17:33:32.000Z",
+    "updated_at": "2025-04-10T17:33:32.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T19:28:48.330Z"
+}
