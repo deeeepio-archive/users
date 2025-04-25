@@ -1,0 +1,97 @@
+{
+  "id": 770794,
+  "username": "8677959_327",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-09-04T19:43:55.000Z",
+  "date_last_played": "2020-09-29T08:10:00.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 14,
+  "highest_score": 132780,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 0,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 770794,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T04:56:53.283Z",
+    "updated_at": "2025-04-25T04:56:53.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4204,
+          "user_id": 770794,
+          "cloneof_id": null,
+          "string_id": "spike_oof_oop101",
+          "title": "And i oop-",
+          "description": "Dont join please XD  Your going to do arent you?",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 24,
+          "created_at": "2020-09-04T19:48:18.000Z",
+          "updated_at": "2020-09-04T19:48:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 770794,
+            "username": "8677959_327",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-09-04T19:43:55.000Z",
+            "date_last_played": "2020-09-29T08:10:00.000Z",
+            "kill_count": 0,
+            "play_count": 14,
+            "highest_score": 132780,
+            "picture": null,
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 0,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#dontjoin"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:56:53.334Z"
+}
