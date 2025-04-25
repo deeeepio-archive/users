@@ -1,0 +1,103 @@
+{
+  "id": 767458,
+  "username": "SenseiWu",
+  "description": "Long before time had a name, the first Spinjitzu Master created Ninjago, using four elemental weapons. But when he passed, a dark presence sought out to collect them all, Lord Garmadon.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-22T01:01:53.000Z",
+  "date_last_played": "2023-08-14T09:58:01.000Z",
+  "profile_views": 6,
+  "kill_count": 88,
+  "play_count": 173,
+  "highest_score": 383495,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 29,
+  "tier": 1,
+  "xp": 5550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 767458,
+    "rank_kc": 129659,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-18T18:15:42.000Z",
+    "rank_pc": 57928,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-18T18:16:42.000Z",
+    "rank_hs": 164865,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-04-18T18:17:48.000Z",
+    "created_at": "2023-08-14T09:58:00.000Z",
+    "updated_at": "2023-08-14T09:58:01.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4085,
+          "user_id": 767458,
+          "cloneof_id": null,
+          "string_id": "fish_land_3_the_game",
+          "title": "Fish world",
+          "description": "Its just like the sea...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 46,
+          "created_at": "2020-08-22T01:52:56.000Z",
+          "updated_at": "2020-12-21T22:32:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 767458,
+            "username": "SenseiWu",
+            "description": "Long before time had a name, the first Spinjitzu Master created Ninjago, using four elemental weapons. But when he passed, a dark presence sought out to collect them all, Lord Garmadon.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-22T01:01:53.000Z",
+            "date_last_played": "2023-08-14T09:58:01.000Z",
+            "kill_count": 88,
+            "play_count": 173,
+            "highest_score": 383495,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 29,
+            "tier": 1,
+            "xp": 5550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fish"
+            },
+            {
+              "id": "food"
+            },
+            {
+              "id": "secrets"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:36:36.022Z"
+}

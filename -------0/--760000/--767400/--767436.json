@@ -1,0 +1,97 @@
+{
+  "id": 767436,
+  "username": "Hacker1232",
+  "description": "I am k relentless destroyer of fools challenger of the strong  doer of the undoable and a stubborn idiot who never stops trying with a can-do attitude even against impossible odds ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-08-21T22:17:54.000Z",
+  "date_last_played": "2021-08-22T16:33:15.000Z",
+  "profile_views": 0,
+  "kill_count": 883,
+  "play_count": 730,
+  "highest_score": 945846,
+  "picture": "767436.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 54,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 767436,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T04:36:33.116Z",
+    "updated_at": "2025-04-25T04:36:33.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5041,
+          "user_id": 767436,
+          "cloneof_id": null,
+          "string_id": "gigalantis_megamap345",
+          "title": "Gigalantis",
+          "description": "Biggest map EVER",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2020-11-28T20:28:53.000Z",
+          "updated_at": "2020-11-28T20:28:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 767436,
+            "username": "Hacker1232",
+            "description": "I am k relentless destroyer of fools challenger of the strong  doer of the undoable and a stubborn idiot who never stops trying with a can-do attitude even against impossible odds ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-08-21T22:17:54.000Z",
+            "date_last_played": "2021-08-22T16:33:15.000Z",
+            "kill_count": 883,
+            "play_count": 730,
+            "highest_score": 945846,
+            "picture": "767436.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Big huge mega "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:36:33.170Z"
+}
