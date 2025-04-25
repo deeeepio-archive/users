@@ -1,0 +1,212 @@
+{
+  "id": 744899,
+  "username": "ThirstV2",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-05-29T16:40:54.000Z",
+  "date_last_played": "2020-05-29T16:40:54.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 744899,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T02:18:30.900Z",
+    "updated_at": "2025-04-25T02:18:31.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 3224,
+          "user_id": 744899,
+          "cloneof_id": null,
+          "string_id": "mmap_thirsty_v1",
+          "title": "Thirsty's MEGAmap (w2300)(h430)",
+          "description": "Extremely large and normal map, please give feedback as it is my 2nd map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 92,
+          "created_at": "2020-05-31T21:03:20.000Z",
+          "updated_at": "2020-06-01T02:45:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 744899,
+            "username": "ThirstV2",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-05-29T16:40:54.000Z",
+            "date_last_played": "2020-05-29T16:40:54.000Z",
+            "kill_count": 0,
+            "play_count": 0,
+            "highest_score": 0,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "big"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "tffa"
+            },
+            {
+              "id": "thirsty"
+            }
+          ]
+        },
+        {
+          "id": 3205,
+          "user_id": 744899,
+          "cloneof_id": null,
+          "string_id": "thirsty_koth_v1",
+          "title": "Thirstys Chaotic King Of The Hill (WIP)",
+          "description": "tiny map, lots of food and meat will spawn, take control of the middle to reach number 1 as middle will spawn huge amounts of meat every 10 seconds, or just causally eat people. Easy to evolve but lots of players.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 255,
+          "created_at": "2020-05-29T19:27:13.000Z",
+          "updated_at": "2020-06-04T02:34:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 744899,
+            "username": "ThirstV2",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-05-29T16:40:54.000Z",
+            "date_last_played": "2020-05-29T16:40:54.000Z",
+            "kill_count": 0,
+            "play_count": 0,
+            "highest_score": 0,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "first map"
+            },
+            {
+              "id": "fun"
+            },
+            {
+              "id": "King Of The Hill"
+            },
+            {
+              "id": "new mode"
+            },
+            {
+              "id": "small map"
+            },
+            {
+              "id": "thirsty"
+            }
+          ]
+        },
+        {
+          "id": 3204,
+          "user_id": 744899,
+          "cloneof_id": null,
+          "string_id": "wip_thirst_mainland_v1",
+          "title": "bruh",
+          "description": "i dunno first map (main account is Thirsty",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 110,
+          "created_at": "2020-05-29T16:46:18.000Z",
+          "updated_at": "2020-05-29T16:46:38.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 744899,
+            "username": "ThirstV2",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-05-29T16:40:54.000Z",
+            "date_last_played": "2020-05-29T16:40:54.000Z",
+            "kill_count": 0,
+            "play_count": 0,
+            "highest_score": 0,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T02:18:30.989Z"
+}
