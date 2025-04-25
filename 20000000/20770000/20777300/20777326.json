@@ -1,0 +1,130 @@
+{
+  "id": 20777326,
+  "username": "The_Kamikaze_Fish",
+  "description": "BANZAI!",
+  "about": "https://www.youtube.com/channel/UCb-LJByqW-dIFHx6cJDX3WA",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-11-09T11:45:43.000Z",
+  "date_last_played": "2023-06-04T21:15:42.000Z",
+  "profile_views": 21,
+  "kill_count": 7,
+  "play_count": 60,
+  "highest_score": 407395,
+  "picture": "20777326-27f3ba2b64d342d866125763a564a94e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 1,
+  "xp": 4200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20777326,
+    "rank_kc": 271665,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-06-04T21:10:41.000Z",
+    "rank_pc": 91421,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-04T21:10:42.000Z",
+    "rank_hs": 163655,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-04T21:10:43.000Z",
+    "created_at": "2023-06-04T21:15:41.000Z",
+    "updated_at": "2023-06-04T21:15:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12365,
+          "user_id": 20777326,
+          "cloneof_id": null,
+          "string_id": "X4Fload",
+          "title": "CWSFS",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 326,
+          "created_at": "2023-06-01T20:38:34.000Z",
+          "updated_at": "2023-06-03T14:26:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20777326,
+            "username": "The_Kamikaze_Fish",
+            "description": "BANZAI!",
+            "about": "https://www.youtube.com/channel/UCb-LJByqW-dIFHx6cJDX3WA",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-11-09T11:45:43.000Z",
+            "date_last_played": "2023-06-04T21:15:42.000Z",
+            "kill_count": 7,
+            "play_count": 60,
+            "highest_score": 407395,
+            "picture": "20777326-27f3ba2b64d342d866125763a564a94e.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 28,
+            "tier": 1,
+            "xp": 4200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "arctic"
+            },
+            {
+              "id": "biomes"
+            },
+            {
+              "id": "cold"
+            },
+            {
+              "id": "colder"
+            },
+            {
+              "id": "fresh"
+            },
+            {
+              "id": "freshwater"
+            },
+            {
+              "id": "marsh"
+            },
+            {
+              "id": "Realistic"
+            },
+            {
+              "id": "salt"
+            },
+            {
+              "id": "saltwater"
+            },
+            {
+              "id": "swamp"
+            },
+            {
+              "id": "warm"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T19:01:51.082Z"
+}
