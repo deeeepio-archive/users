@@ -1,0 +1,100 @@
+{
+  "id": 20749525,
+  "username": "miss_bunny",
+  "description": "xin lối :))",
+  "about": "xinh như tinh tinh",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-08-09T04:32:07.000Z",
+  "date_last_played": "2023-05-14T03:48:15.000Z",
+  "profile_views": 256,
+  "kill_count": 2160,
+  "play_count": 876,
+  "highest_score": 4085764,
+  "picture": "20749525-9c8a176fb410d25be72b56f67d3ca106c7.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 143,
+  "tier": 5,
+  "xp": 263550,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20749525,
+    "rank_kc": 12438,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-06T03:46:58.000Z",
+    "rank_pc": 12388,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-06T03:46:59.000Z",
+    "rank_hs": 10341,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-06T03:47:00.000Z",
+    "created_at": "2023-07-26T10:56:46.000Z",
+    "updated_at": "2023-05-14T03:48:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10562,
+          "user_id": 20749525,
+          "cloneof_id": null,
+          "string_id": "10082012",
+          "title": "welcome",
+          "description": "1008",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 75,
+          "created_at": "2022-08-08T07:45:44.000Z",
+          "updated_at": "2022-08-08T07:45:45.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20749525,
+            "username": "miss_bunny",
+            "description": "xin lối :))",
+            "about": "xinh như tinh tinh",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-08-09T04:32:07.000Z",
+            "date_last_played": "2023-05-14T03:48:15.000Z",
+            "kill_count": 2160,
+            "play_count": 876,
+            "highest_score": 4085764,
+            "picture": "20749525-9c8a176fb410d25be72b56f67d3ca106c7.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 143,
+            "tier": 5,
+            "xp": 263550,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "helloooooo"
+            },
+            {
+              "id": "nice to meet you"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T16:02:31.519Z"
+}
