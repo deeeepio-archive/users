@@ -1,0 +1,97 @@
+{
+  "id": 20727549,
+  "username": "EL_ask",
+  "description": "my Last Stand(Maybe Not LOL)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-14T19:00:58.000Z",
+  "date_last_played": "2023-07-30T22:47:54.000Z",
+  "profile_views": 10,
+  "kill_count": 2663,
+  "play_count": 2514,
+  "highest_score": 2466381,
+  "picture": "20727549-0a63f159e92deb86b4cec324f1a4478d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 984,
+  "tier": 1,
+  "xp": 13800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20727549,
+    "rank_kc": 10542,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-30T19:09:48.000Z",
+    "rank_pc": 3462,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-30T19:09:49.000Z",
+    "rank_hs": 26490,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-30T19:09:50.000Z",
+    "created_at": "2024-04-01T15:08:15.000Z",
+    "updated_at": "2024-04-01T15:08:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6833,
+          "user_id": 20727549,
+          "cloneof_id": null,
+          "string_id": "2564564156456",
+          "title": "shity map ",
+          "description": "is just a shit ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-05-15T13:29:05.000Z",
+          "updated_at": "2021-05-15T13:29:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20727549,
+            "username": "EL_ask",
+            "description": "my Last Stand(Maybe Not LOL)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-05-14T19:00:58.000Z",
+            "date_last_played": "2023-07-30T22:47:54.000Z",
+            "kill_count": 2663,
+            "play_count": 2514,
+            "highest_score": 2466381,
+            "picture": "20727549-0a63f159e92deb86b4cec324f1a4478d.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 984,
+            "tier": 1,
+            "xp": 13800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#shit"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T13:47:11.771Z"
+}
