@@ -1,0 +1,156 @@
+{
+  "id": 20825466,
+  "username": "MegapteraOfficial",
+  "description": "March winds and April showers\nMake way for sweet May flowers",
+  "about": "egg",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-12-28T01:10:53.000Z",
+  "date_last_played": "2025-04-15T23:41:20.000Z",
+  "profile_views": 925,
+  "kill_count": 3923,
+  "play_count": 1022,
+  "highest_score": 6825179,
+  "picture": "20825466-4f2ea2c2e17952195ed3538e38fad2f7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2127,
+  "tier": 9,
+  "xp": 1029600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4544,
+      "user_id": 20825466,
+      "platform_id": "yt",
+      "platform_user_id": "Megaptera",
+      "platform_user_url": "https://www.youtube.com/c/Megaptera",
+      "verified": false,
+      "created_at": "2022-08-03T17:31:52.000Z",
+      "updated_at": "2022-08-03T17:31:52.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20825466,
+    "rank_kc": 9071,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-31T02:33:37.000Z",
+    "rank_pc": 14408,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-31T02:33:41.000Z",
+    "rank_hs": 4695,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-31T02:33:48.000Z",
+    "created_at": "2025-04-15T23:41:19.000Z",
+    "updated_at": "2025-04-15T23:41:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10789,
+          "user_id": 20825466,
+          "cloneof_id": null,
+          "string_id": "megaptera_tutorial_map_12345",
+          "title": "A Tutorial Map",
+          "description": "egg, for tutorials, hope you enjoy it",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 12,
+          "created_at": "2022-08-30T02:57:23.000Z",
+          "updated_at": "2022-08-30T03:01:38.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20825466,
+            "username": "MegapteraOfficial",
+            "description": "March winds and April showers\nMake way for sweet May flowers",
+            "about": "egg",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-12-28T01:10:53.000Z",
+            "date_last_played": "2025-04-15T23:41:20.000Z",
+            "kill_count": 3923,
+            "play_count": 1022,
+            "highest_score": 6825179,
+            "picture": "20825466-4f2ea2c2e17952195ed3538e38fad2f7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2127,
+            "tier": 9,
+            "xp": 1029600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "tutorial"
+            }
+          ]
+        },
+        {
+          "id": 10617,
+          "user_id": 20825466,
+          "cloneof_id": null,
+          "string_id": "minimegaffa",
+          "title": "Mini FFA",
+          "description": "just a really small FFA",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 29,
+          "created_at": "2022-08-12T01:10:49.000Z",
+          "updated_at": "2022-08-12T01:44:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20825466,
+            "username": "MegapteraOfficial",
+            "description": "March winds and April showers\nMake way for sweet May flowers",
+            "about": "egg",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-12-28T01:10:53.000Z",
+            "date_last_played": "2025-04-15T23:41:20.000Z",
+            "kill_count": 3923,
+            "play_count": 1022,
+            "highest_score": 6825179,
+            "picture": "20825466-4f2ea2c2e17952195ed3538e38fad2f7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2127,
+            "tier": 9,
+            "xp": 1029600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:57:29.305Z"
+}
