@@ -1,0 +1,81 @@
+{
+  "id": 20822510,
+  "username": "Entryx_CZ",
+  "description": null,
+  "about": "I have low wifi :(\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-07T07:48:13.000Z",
+  "date_last_played": "2024-10-14T20:05:52.000Z",
+  "profile_views": 15,
+  "kill_count": 42,
+  "play_count": 127,
+  "highest_score": 493700,
+  "picture": "20822510-af8ed5ee727108b84145dc3bdbea9bd55.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 35,
+  "tier": 1,
+  "xp": 8400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8090,
+      "user_id": 20822510,
+      "platform_id": "dc",
+      "platform_user_id": "yuuki_ryo",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-15T13:56:39.000Z",
+      "updated_at": "2023-08-18T16:17:10.000Z"
+    },
+    {
+      "id": 96841,
+      "user_id": 20822510,
+      "platform_id": "tc",
+      "platform_user_id": "yuuki_ryo_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-26T11:22:39.000Z",
+      "updated_at": "2024-07-26T11:22:55.000Z"
+    },
+    {
+      "id": 8091,
+      "user_id": 20822510,
+      "platform_id": "yt",
+      "platform_user_id": "Entryx",
+      "platform_user_url": "https://www.youtube.com/channel/UCoropkqxaYrKvuuV3KMWumA",
+      "verified": false,
+      "created_at": "2022-10-15T13:58:19.000Z",
+      "updated_at": "2022-10-15T13:58:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20822510,
+    "rank_kc": 141866,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-15T13:59:56.000Z",
+    "rank_pc": 57234,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-15T13:59:58.000Z",
+    "rank_hs": 129055,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-15T14:00:00.000Z",
+    "created_at": "2024-10-14T20:05:52.000Z",
+    "updated_at": "2024-10-14T20:05:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:39:56.037Z"
+}
