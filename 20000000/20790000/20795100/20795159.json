@@ -1,0 +1,71 @@
+{
+  "id": 20795159,
+  "username": "aquariumchen",
+  "description": "Sorry......QAQ",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-28T17:36:49.000Z",
+  "date_last_played": "2024-07-06T15:13:22.000Z",
+  "profile_views": 182,
+  "kill_count": 649,
+  "play_count": 276,
+  "highest_score": 3528159,
+  "picture": "20795159-8499742581410d6e8d6015d39a3b36cb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 41,
+  "tier": 3,
+  "xp": 124350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92081,
+      "user_id": 20795159,
+      "platform_id": "dc",
+      "platform_user_id": "aquariumchen",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-22T02:21:42.000Z",
+      "updated_at": "2024-02-22T02:21:42.000Z"
+    },
+    {
+      "id": 92786,
+      "user_id": 20795159,
+      "platform_id": "fb",
+      "platform_user_id": "aquariumchen",
+      "platform_user_url": "https://www.facebook.com/aquarium.chen.1/",
+      "verified": false,
+      "created_at": "2024-03-11T23:23:51.000Z",
+      "updated_at": "2024-03-11T23:23:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20795159,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-07-06T15:13:21.000Z",
+    "updated_at": "2024-07-06T15:13:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:49:19.948Z"
+}
