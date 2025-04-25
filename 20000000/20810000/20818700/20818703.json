@@ -1,0 +1,75 @@
+{
+  "id": 20818703,
+  "username": "TT_",
+  "description": "",
+  "about": "iPad player\n\nmain : orca, gs ,arapaima, cs, \n\n\nsometimes play pc\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-24T07:23:07.000Z",
+  "date_last_played": "2025-04-22T04:00:02.000Z",
+  "profile_views": 8687,
+  "kill_count": 26114,
+  "play_count": 6395,
+  "highest_score": 6379798,
+  "picture": "20818703-2e5a86abeb11a42b0ba7a8b53ebd12b4-bec7a5a5-49a5-4adc-9f2f-48e8cf8fc3d9.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6489,
+  "tier": 10,
+  "xp": 4164900,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30301,
+      "user_id": 20818703,
+      "platform_id": "dc",
+      "platform_user_id": "tt_0409",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-03T09:18:33.000Z",
+      "updated_at": "2023-12-03T09:18:33.000Z"
+    },
+    {
+      "id": 100775,
+      "user_id": 20818703,
+      "platform_id": "tw",
+      "platform_user_id": "wuyun_TT",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-01T02:06:58.000Z",
+      "updated_at": "2024-12-01T02:06:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20818703,
+    "rank_kc": 853,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T10:49:41.000Z",
+    "rank_pc": 1711,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T10:49:41.000Z",
+    "rank_hs": 5955,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-21T10:49:43.000Z",
+    "created_at": "2025-04-22T04:00:04.000Z",
+    "updated_at": "2025-04-22T04:00:04.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T23:16:14.175Z"
+}
