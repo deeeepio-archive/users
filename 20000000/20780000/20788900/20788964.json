@@ -1,0 +1,71 @@
+{
+  "id": 20788964,
+  "username": "Kolbasa",
+  "description": "You are chopped into sausage...\nТы порезан на колбасу...",
+  "about": "Ordinary Russian guy.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-12-29T15:29:41.000Z",
+  "date_last_played": "2025-02-09T10:59:45.000Z",
+  "profile_views": 44,
+  "kill_count": 500,
+  "play_count": 244,
+  "highest_score": 1505747,
+  "picture": "20788964.jpg",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 202,
+  "tier": 1,
+  "xp": 22050,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4799,
+      "user_id": 20788964,
+      "platform_id": "dc",
+      "platform_user_id": "Revolutioner🇷🇺#6452",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-10T10:31:35.000Z",
+      "updated_at": "2022-08-10T10:31:35.000Z"
+    },
+    {
+      "id": 4800,
+      "user_id": 20788964,
+      "platform_id": "vk",
+      "platform_user_id": "Я Солевой",
+      "platform_user_url": "https://vk.com/seva_sevastopol",
+      "verified": false,
+      "created_at": "2022-08-10T10:32:48.000Z",
+      "updated_at": "2022-08-10T10:33:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20788964,
+    "rank_kc": 45526,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2024-01-19T21:20:33.000Z",
+    "rank_pc": 44509,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T21:44:59.000Z",
+    "rank_hs": 60696,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T22:03:21.000Z",
+    "created_at": "2025-02-09T10:59:44.000Z",
+    "updated_at": "2025-02-09T10:59:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:12:14.657Z"
+}
