@@ -1,0 +1,71 @@
+{
+  "id": 20705308,
+  "username": "ᴀʀɪ",
+  "description": "🦐",
+  "about": "idk",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-03-16T21:23:54.000Z",
+  "date_last_played": "2024-10-28T17:44:45.000Z",
+  "profile_views": 59,
+  "kill_count": 547,
+  "play_count": 504,
+  "highest_score": 1739783,
+  "picture": "20705308-117e688b8a319aae2ba14311069e25d8e.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 256,
+  "tier": 3,
+  "xp": 111450,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94541,
+      "user_id": 20705308,
+      "platform_id": "dc",
+      "platform_user_id": "arizona.ks",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-05-09T18:39:12.000Z",
+      "updated_at": "2024-05-09T18:39:12.000Z"
+    },
+    {
+      "id": 94540,
+      "user_id": 20705308,
+      "platform_id": "ig",
+      "platform_user_id": "ari.zona.ks",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-05-09T18:38:00.000Z",
+      "updated_at": "2024-05-09T18:38:00.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20705308,
+    "rank_kc": 43626,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-21T01:07:20.000Z",
+    "rank_pc": 25347,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-21T01:07:22.000Z",
+    "rank_hs": 47904,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-21T01:07:25.000Z",
+    "created_at": "2024-10-28T17:44:45.000Z",
+    "updated_at": "2024-10-28T17:44:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T11:28:42.349Z"
+}
