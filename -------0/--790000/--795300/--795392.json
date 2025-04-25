@@ -1,0 +1,97 @@
+{
+  "id": 795392,
+  "username": "Little_Squishy",
+  "description": "If i killed you. . . im sorry,\r\nfood, is food.\r\nTry your best tho. . . and dont let the haters getya",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-25T01:49:36.000Z",
+  "date_last_played": "2021-01-20T15:12:38.000Z",
+  "profile_views": 0,
+  "kill_count": 192,
+  "play_count": 216,
+  "highest_score": 645889,
+  "picture": "795392.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 795392,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T07:44:54.064Z",
+    "updated_at": "2025-04-25T07:44:54.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 4975,
+          "user_id": 795392,
+          "cloneof_id": null,
+          "string_id": "ohfancy",
+          "title": "OhFancy",
+          "description": "This is the first map i made, with a LOT of food, there is a lot of foo to enable your ablility to test out different fish. Enjoy",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 24,
+          "created_at": "2020-11-25T02:09:06.000Z",
+          "updated_at": "2020-11-25T02:09:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 795392,
+            "username": "Little_Squishy",
+            "description": "If i killed you. . . im sorry,\r\nfood, is food.\r\nTry your best tho. . . and dont let the haters getya",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-11-25T01:49:36.000Z",
+            "date_last_played": "2021-01-20T15:12:38.000Z",
+            "kill_count": 192,
+            "play_count": 216,
+            "highest_score": 645889,
+            "picture": "795392.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 13,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Food Test Fish"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:44:54.120Z"
+}
