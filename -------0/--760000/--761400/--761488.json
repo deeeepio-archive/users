@@ -1,0 +1,97 @@
+{
+  "id": 761488,
+  "username": "nyan_lol765",
+  "description": "If i killed u, then yay! if u killed me, congrats. u earned it.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-07-26T09:23:22.000Z",
+  "date_last_played": "2022-06-17T19:42:47.000Z",
+  "profile_views": 0,
+  "kill_count": 58,
+  "play_count": 346,
+  "highest_score": 398088,
+  "picture": "761488.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 1,
+  "xp": 450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 761488,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T04:00:08.759Z",
+    "updated_at": "2025-04-25T04:00:09.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 7124,
+          "user_id": 761488,
+          "cloneof_id": null,
+          "string_id": "y_eet",
+          "title": "idk first map",
+          "description": "usisuiewuisjkx",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2021-06-13T08:22:29.000Z",
+          "updated_at": "2021-06-13T08:22:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 761488,
+            "username": "nyan_lol765",
+            "description": "If i killed u, then yay! if u killed me, congrats. u earned it.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2020-07-26T09:23:22.000Z",
+            "date_last_played": "2022-06-17T19:42:47.000Z",
+            "kill_count": 58,
+            "play_count": 346,
+            "highest_score": 398088,
+            "picture": "761488.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 19,
+            "tier": 1,
+            "xp": 450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "t a g"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T04:00:08.819Z"
+}
