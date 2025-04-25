@@ -1,0 +1,71 @@
+{
+  "id": 20802126,
+  "username": "batserman",
+  "description": "ion even kno fr tbh",
+  "about": "simple minded swimming thing",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-02-21T09:26:35.000Z",
+  "date_last_played": "2022-09-25T02:05:05.000Z",
+  "profile_views": 4,
+  "kill_count": 82,
+  "play_count": 33,
+  "highest_score": 749863,
+  "picture": null,
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 99,
+  "tier": 1,
+  "xp": 600,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16598,
+      "user_id": 20802126,
+      "platform_id": "dc",
+      "platform_user_id": "batserman#4821",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-25T06:32:00.000Z",
+      "updated_at": "2023-03-25T06:32:00.000Z"
+    },
+    {
+      "id": 16599,
+      "user_id": 20802126,
+      "platform_id": "yt",
+      "platform_user_id": "batserman",
+      "platform_user_url": "https://www.youtube.com/channel/UCoiuFtO6Wc3Kn4QYa0oYjTw",
+      "verified": false,
+      "created_at": "2023-03-25T06:32:37.000Z",
+      "updated_at": "2023-03-25T06:32:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20802126,
+    "rank_kc": 107669,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-25T06:32:51.000Z",
+    "rank_pc": 113398,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-03-25T06:32:54.000Z",
+    "rank_hs": 104581,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-25T06:32:57.000Z",
+    "created_at": "2023-04-11T10:47:47.000Z",
+    "updated_at": "2023-03-25T06:32:57.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T21:37:50.150Z"
+}
