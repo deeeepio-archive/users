@@ -1,0 +1,100 @@
+{
+  "id": 20717510,
+  "username": "JellyedBoi",
+  "description": "We could have been friends, but I guess this is your conclusion.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-04-18T18:37:11.000Z",
+  "date_last_played": "2021-04-18T20:19:29.000Z",
+  "profile_views": 0,
+  "kill_count": 3,
+  "play_count": 26,
+  "highest_score": 25700,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20717510,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-25T12:43:06.738Z",
+    "updated_at": "2025-04-25T12:43:07.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 6560,
+          "user_id": 20717510,
+          "cloneof_id": null,
+          "string_id": "jelly",
+          "title": "The World Of Jellyfish",
+          "description": "Its just a world of jellies, so dont expect much.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 2,
+          "created_at": "2021-04-18T19:28:40.000Z",
+          "updated_at": "2021-04-18T19:29:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20717510,
+            "username": "JellyedBoi",
+            "description": "We could have been friends, but I guess this is your conclusion.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-04-18T18:37:11.000Z",
+            "date_last_played": "2021-04-18T20:19:29.000Z",
+            "kill_count": 3,
+            "play_count": 26,
+            "highest_score": 25700,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Jellyfish"
+            },
+            {
+              "id": "Water World"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T12:43:06.824Z"
+}
