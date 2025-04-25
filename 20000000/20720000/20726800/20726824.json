@@ -1,0 +1,61 @@
+{
+  "id": 20726824,
+  "username": "kool69",
+  "description": "what do i put here...",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-05-13T00:03:37.000Z",
+  "date_last_played": "2024-05-22T13:04:23.000Z",
+  "profile_views": 78,
+  "kill_count": 3162,
+  "play_count": 1593,
+  "highest_score": 4789898,
+  "picture": "20726824-685de39b18f8477f4e790c78bc7a4d30.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 198,
+  "tier": 3,
+  "xp": 140550,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1989,
+      "user_id": 20726824,
+      "platform_id": "dc",
+      "platform_user_id": "braydon#1103",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-10T12:34:35.000Z",
+      "updated_at": "2022-06-13T12:55:02.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20726824,
+    "rank_kc": 9668,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-06T12:32:26.000Z",
+    "rank_pc": 7283,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-06T12:32:28.000Z",
+    "rank_hs": 8583,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-06T12:32:29.000Z",
+    "created_at": "2024-05-22T13:04:23.000Z",
+    "updated_at": "2024-05-22T13:04:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T13:41:40.295Z"
+}
