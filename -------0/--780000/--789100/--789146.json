@@ -1,0 +1,61 @@
+{
+  "id": 789146,
+  "username": "Big_Rust",
+  "description": "HI!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-11-05T22:03:30.000Z",
+  "date_last_played": "2024-03-16T10:31:18.000Z",
+  "profile_views": 584,
+  "kill_count": 11688,
+  "play_count": 5510,
+  "highest_score": 6484931,
+  "picture": "789146-146fc8eb21b2a83810f3687cd8cd7049d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 153,
+  "tier": 9,
+  "xp": 900900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 462,
+      "user_id": 789146,
+      "platform_id": "dc",
+      "platform_user_id": "rusty#6299",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-21T22:46:49.000Z",
+      "updated_at": "2022-05-21T22:46:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 789146,
+    "rank_kc": 2338,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T08:42:22.000Z",
+    "rank_pc": 1123,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T08:42:27.000Z",
+    "rank_hs": 5158,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T06:48:20.000Z",
+    "created_at": "2024-10-08T17:00:05.000Z",
+    "updated_at": "2024-10-08T17:00:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T07:07:48.182Z"
+}
