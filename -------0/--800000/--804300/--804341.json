@@ -1,0 +1,50 @@
+{
+  "id": 804341,
+  "username": "Ball",
+  "description": "Hi my name is Ball\r\nand I'm a ball",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2020-12-19T12:54:21.000Z",
+  "date_last_played": "2024-08-29T16:33:52.000Z",
+  "profile_views": 4,
+  "kill_count": 900,
+  "play_count": 734,
+  "highest_score": 1506114,
+  "picture": "804341.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 64,
+  "tier": 1,
+  "xp": 3600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 804341,
+    "rank_kc": 27756,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-04T09:56:54.000Z",
+    "rank_pc": 15808,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-04T09:56:56.000Z",
+    "rank_hs": 54840,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-04T09:56:56.000Z",
+    "created_at": "2024-08-29T16:33:51.000Z",
+    "updated_at": "2024-08-29T16:33:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T08:51:28.490Z"
+}
