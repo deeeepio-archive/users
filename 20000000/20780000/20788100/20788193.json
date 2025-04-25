@@ -1,0 +1,97 @@
+{
+  "id": 20788193,
+  "username": "5790738_322",
+  "description": "Sorry, need food\r\n\r\n\r\nCheck out the skins I made on Reddit plz. \r\nhttps://www.reddit.com/user/Cyber_shreck/\r\n(I wish I could change my name)\r\n\r\n\r\nPotato good :)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-12-24T20:11:55.000Z",
+  "date_last_played": "2022-04-24T01:15:56.000Z",
+  "profile_views": 7,
+  "kill_count": 892,
+  "play_count": 544,
+  "highest_score": 2058638,
+  "picture": "20788193.png",
+  "displayPicture": false,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1141,
+  "tier": 3,
+  "xp": 148200,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20788193,
+    "rank_kc": 30626,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2024-01-21T01:46:24.000Z",
+    "rank_pc": 23907,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2024-01-21T02:17:39.000Z",
+    "rank_hs": 39926,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T02:29:38.000Z",
+    "created_at": "2024-01-21T00:55:33.000Z",
+    "updated_at": "2024-01-21T02:29:38.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9207,
+          "user_id": 20788193,
+          "cloneof_id": null,
+          "string_id": "Batman",
+          "title": "Me_map_:)",
+          "description": "Me first map (don't know if it good)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 482,
+          "created_at": "2022-02-05T19:59:57.000Z",
+          "updated_at": "2022-03-20T01:37:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20788193,
+            "username": "5790738_322",
+            "description": "Sorry, need food\r\n\r\n\r\nCheck out the skins I made on Reddit plz. \r\nhttps://www.reddit.com/user/Cyber_shreck/\r\n(I wish I could change my name)\r\n\r\n\r\nPotato good :)",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-12-24T20:11:55.000Z",
+            "date_last_played": "2022-04-24T01:15:56.000Z",
+            "kill_count": 892,
+            "play_count": 544,
+            "highest_score": 2058638,
+            "picture": "20788193.png",
+            "displayPicture": false,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1141,
+            "tier": 3,
+            "xp": 148200,
+            "migrated": true,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "work in progress"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-25T20:07:48.853Z"
+}
