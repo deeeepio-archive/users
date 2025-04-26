@@ -1,0 +1,97 @@
+{
+  "id": 20938752,
+  "username": "Flaming-Coal",
+  "description": "gg",
+  "about": "hmm",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-21T00:13:58.000Z",
+  "date_last_played": "2024-02-25T23:55:19.000Z",
+  "profile_views": 55,
+  "kill_count": 801,
+  "play_count": 669,
+  "highest_score": 1314375,
+  "picture": "20938752-9b279de851610477d86411f3f6d8051039.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 84,
+  "tier": 4,
+  "xp": 155550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20938752,
+    "rank_kc": 49825,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-18T21:56:01.000Z",
+    "rank_pc": 33185,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-18T21:56:02.000Z",
+    "rank_hs": 56934,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-18T21:56:02.000Z",
+    "created_at": "2024-02-25T23:55:18.000Z",
+    "updated_at": "2024-02-25T23:55:19.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9850,
+          "user_id": 20938752,
+          "cloneof_id": null,
+          "string_id": "first_1v1_ofdoom",
+          "title": "Sunken Cove 1v1",
+          "description": "A Cove that had flooded over time, hopefully this can be one of the 1v1 maps.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 28,
+          "created_at": "2022-06-06T20:47:18.000Z",
+          "updated_at": "2022-12-26T20:51:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20938752,
+            "username": "Flaming-Coal",
+            "description": "gg",
+            "about": "hmm",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-21T00:13:58.000Z",
+            "date_last_played": "2024-02-25T23:55:19.000Z",
+            "kill_count": 801,
+            "play_count": 669,
+            "highest_score": 1314375,
+            "picture": "20938752-9b279de851610477d86411f3f6d8051039.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 84,
+            "tier": 4,
+            "xp": 155550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:32:39.128Z"
+}

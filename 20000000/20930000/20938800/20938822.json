@@ -1,0 +1,61 @@
+{
+  "id": 20938822,
+  "username": "Rorinus",
+  "description": "Fight for me gladiator!",
+  "about": "Hi there!\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-21T13:47:15.000Z",
+  "date_last_played": "2024-11-29T08:51:37.000Z",
+  "profile_views": 1,
+  "kill_count": 2,
+  "play_count": 14,
+  "highest_score": 405583,
+  "picture": "20938822-19374a587663c2500503ea65a138b39e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 104,
+  "tier": 1,
+  "xp": 900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 434,
+      "user_id": 20938822,
+      "platform_id": "dc",
+      "platform_user_id": "Rori#2823",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-21T14:22:11.000Z",
+      "updated_at": "2022-05-21T14:22:11.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20938822,
+    "rank_kc": 291890,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-05-21T14:11:58.000Z",
+    "rank_pc": 174952,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-05-21T14:11:58.000Z",
+    "rank_hs": 131770,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-05-21T14:11:58.000Z",
+    "created_at": "2024-11-29T08:51:36.000Z",
+    "updated_at": "2024-11-29T08:51:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:32:52.043Z"
+}
