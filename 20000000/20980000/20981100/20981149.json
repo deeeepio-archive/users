@@ -1,0 +1,71 @@
+{
+  "id": 20981149,
+  "username": "karlton",
+  "description": null,
+  "about": "i am a poor noob poop pls dont kill me\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-25T10:38:27.000Z",
+  "date_last_played": "2023-01-20T04:33:05.000Z",
+  "profile_views": 4,
+  "kill_count": 10,
+  "play_count": 51,
+  "highest_score": 330140,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18,
+  "tier": 1,
+  "xp": 1200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8535,
+      "user_id": 20981149,
+      "platform_id": "dc",
+      "platform_user_id": "#6596",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-25T14:52:55.000Z",
+      "updated_at": "2022-10-25T14:53:05.000Z"
+    },
+    {
+      "id": 8536,
+      "user_id": 20981149,
+      "platform_id": "dc",
+      "platform_user_id": "i not like noob but i am a noob",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-25T14:53:27.000Z",
+      "updated_at": "2022-10-25T14:53:27.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20981149,
+    "rank_kc": 243714,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-07T13:56:11.000Z",
+    "rank_pc": 96042,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-07T13:56:12.000Z",
+    "rank_hs": 167416,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-12-07T13:56:14.000Z",
+    "created_at": "2023-01-20T04:33:05.000Z",
+    "updated_at": "2023-01-20T04:33:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:53:11.937Z"
+}
