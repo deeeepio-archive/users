@@ -1,0 +1,61 @@
+{
+  "id": 20970637,
+  "username": "KEARNAGE",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-14T02:06:57.000Z",
+  "date_last_played": "2024-10-30T01:24:43.000Z",
+  "profile_views": 70,
+  "kill_count": 620,
+  "play_count": 570,
+  "highest_score": 1537137,
+  "picture": "20970637-42388d3910dfbb7bc26c52a5f10de78ddf.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 701,
+  "tier": 4,
+  "xp": 205350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28303,
+      "user_id": 20970637,
+      "platform_id": "tc",
+      "platform_user_id": "itszaux",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-19T22:47:24.000Z",
+      "updated_at": "2023-10-19T22:47:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20970637,
+    "rank_kc": 41801,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-22T04:31:45.000Z",
+    "rank_pc": 23682,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-22T04:31:46.000Z",
+    "rank_hs": 56960,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-22T04:31:47.000Z",
+    "created_at": "2024-10-30T01:24:43.000Z",
+    "updated_at": "2024-10-30T01:24:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:43:14.273Z"
+}
