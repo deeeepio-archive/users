@@ -1,0 +1,97 @@
+{
+  "id": 20948249,
+  "username": "adavi123555",
+  "description": "i wlll murder you in your grave, i'm your worst nightmare.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-19T05:55:45.000Z",
+  "date_last_played": "2024-01-01T17:11:15.000Z",
+  "profile_views": 12,
+  "kill_count": 2,
+  "play_count": 8,
+  "highest_score": 163886,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20948249,
+    "rank_kc": 371285,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2024-01-01T15:39:33.000Z",
+    "rank_pc": 262373,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-01T15:39:38.000Z",
+    "rank_hs": 279786,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-01T15:39:39.000Z",
+    "created_at": "2024-01-01T17:11:15.000Z",
+    "updated_at": "2024-01-01T17:11:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13295,
+          "user_id": 20948249,
+          "cloneof_id": null,
+          "string_id": "deathmap",
+          "title": "Death",
+          "description": "betta tun ftom the sharks",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 19,
+          "created_at": "2024-01-01T16:39:12.000Z",
+          "updated_at": "2024-01-01T16:39:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20948249,
+            "username": "adavi123555",
+            "description": "i wlll murder you in your grave, i'm your worst nightmare.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-19T05:55:45.000Z",
+            "date_last_played": "2024-01-01T17:11:15.000Z",
+            "kill_count": 2,
+            "play_count": 8,
+            "highest_score": 163886,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 10,
+            "tier": 1,
+            "xp": 750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#death"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:31:33.691Z"
+}
