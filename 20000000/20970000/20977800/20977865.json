@@ -1,0 +1,61 @@
+{
+  "id": 20977865,
+  "username": "notsocool",
+  "description": "fish yummy",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-11T23:43:11.000Z",
+  "date_last_played": "2023-06-08T01:26:19.000Z",
+  "profile_views": 11,
+  "kill_count": 32,
+  "play_count": 62,
+  "highest_score": 378817,
+  "picture": "20977865-4765fd22210d7de253913618faa3ffb67.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 39,
+  "tier": 1,
+  "xp": 4350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7995,
+      "user_id": 20977865,
+      "platform_id": "dc",
+      "platform_user_id": "Ryanツ#0001",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-11T23:46:29.000Z",
+      "updated_at": "2022-10-11T23:46:29.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20977865,
+    "rank_kc": 158338,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-13T00:33:13.000Z",
+    "rank_pc": 98708,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-13T00:33:14.000Z",
+    "rank_hs": 150732,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-13T00:33:14.000Z",
+    "created_at": "2023-08-13T07:40:43.000Z",
+    "updated_at": "2023-06-08T01:26:19.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:33:27.381Z"
+}

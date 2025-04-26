@@ -1,0 +1,61 @@
+{
+  "id": 20977884,
+  "username": "Susyrusy",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-12T02:11:31.000Z",
+  "date_last_played": "2022-10-18T01:42:15.000Z",
+  "profile_views": 4,
+  "kill_count": 44,
+  "play_count": 64,
+  "highest_score": 584781,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 46,
+  "tier": 1,
+  "xp": 6900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8089,
+      "user_id": 20977884,
+      "platform_id": "tc",
+      "platform_user_id": "susyrusy",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-15T13:49:40.000Z",
+      "updated_at": "2022-10-15T13:49:40.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20977884,
+    "rank_kc": 179297,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-16T00:53:46.000Z",
+    "rank_pc": 88178,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-16T00:53:49.000Z",
+    "rank_hs": 162267,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-16T00:53:51.000Z",
+    "created_at": "2022-10-18T01:42:14.000Z",
+    "updated_at": "2022-10-18T01:42:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:33:32.267Z"
+}
