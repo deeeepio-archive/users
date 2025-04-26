@@ -1,0 +1,97 @@
+{
+  "id": 20950424,
+  "username": "MechnachingIO",
+  "description": "Sorry Сорян",
+  "about": "X3",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-26T11:02:58.000Z",
+  "date_last_played": "2022-11-05T07:57:12.000Z",
+  "profile_views": 7,
+  "kill_count": 21,
+  "play_count": 27,
+  "highest_score": 227765,
+  "picture": "20950424-2cf6c8f85918f02182ad131bdd87fcc8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20950424,
+    "rank_kc": 234377,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-27T07:37:28.000Z",
+    "rank_pc": 153546,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-27T07:37:28.000Z",
+    "rank_hs": 182505,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-06-27T07:37:29.000Z",
+    "created_at": "2022-11-05T07:57:11.000Z",
+    "updated_at": "2022-11-05T07:57:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10180,
+          "user_id": 20950424,
+          "cloneof_id": null,
+          "string_id": "Exotic_Area",
+          "title": "Map",
+          "description": "Exotic Area",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-06-27T06:26:36.000Z",
+          "updated_at": "2022-06-27T07:38:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20950424,
+            "username": "MechnachingIO",
+            "description": "Sorry Сорян",
+            "about": "X3",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-26T11:02:58.000Z",
+            "date_last_played": "2022-11-05T07:57:12.000Z",
+            "kill_count": 21,
+            "play_count": 27,
+            "highest_score": 227765,
+            "picture": "20950424-2cf6c8f85918f02182ad131bdd87fcc8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3,
+            "tier": 1,
+            "xp": 1800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "My first map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:44:00.401Z"
+}
