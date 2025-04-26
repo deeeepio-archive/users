@@ -1,0 +1,61 @@
+{
+  "id": 20951154,
+  "username": "muto",
+  "description": "subsricbe.",
+  "about": "subscribe for a shoutout.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-28T20:27:55.000Z",
+  "date_last_played": "2023-11-10T01:08:46.000Z",
+  "profile_views": 22,
+  "kill_count": 19,
+  "play_count": 70,
+  "highest_score": 802002,
+  "picture": "20951154-c9ed3e6ac3e87482b08b2c283633baed.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 96,
+  "tier": 1,
+  "xp": 5100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29226,
+      "user_id": 20951154,
+      "platform_id": "yt",
+      "platform_user_id": "@ntmuto",
+      "platform_user_url": "https://www.youtube.com/@ntmuto",
+      "verified": false,
+      "created_at": "2023-11-09T22:46:17.000Z",
+      "updated_at": "2023-11-09T22:46:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20951154,
+    "rank_kc": 364431,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-28T20:28:53.000Z",
+    "rank_pc": 256091,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-28T20:28:54.000Z",
+    "rank_hs": 489159,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-28T20:28:54.000Z",
+    "created_at": "2023-11-10T01:08:45.000Z",
+    "updated_at": "2023-11-10T01:08:46.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:48:40.423Z"
+}
