@@ -1,0 +1,81 @@
+{
+  "id": 20987417,
+  "username": "Wibble_Warden",
+  "description": "http://www.stmp.camden.sch.uk/wp-content/uploads/2020/04/The-Very-Hungry-Caterpillar-Online-Story-1.pdf",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-16T13:50:45.000Z",
+  "date_last_played": "2023-06-15T10:09:17.000Z",
+  "profile_views": 31,
+  "kill_count": 492,
+  "play_count": 397,
+  "highest_score": 1368976,
+  "picture": "20987417-2e4f1102de5d9603810dc4104bbb8df6013.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 107,
+  "tier": 2,
+  "xp": 70500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12921,
+      "user_id": 20987417,
+      "platform_id": "dc",
+      "platform_user_id": "Wibble_Warden#9593",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-09T16:38:43.000Z",
+      "updated_at": "2023-01-09T16:38:43.000Z"
+    },
+    {
+      "id": 12916,
+      "user_id": 20987417,
+      "platform_id": "ig",
+      "platform_user_id": "Wibble_Warden",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-09T16:30:33.000Z",
+      "updated_at": "2023-01-09T16:30:33.000Z"
+    },
+    {
+      "id": 12917,
+      "user_id": 20987417,
+      "platform_id": "tc",
+      "platform_user_id": "Wibble_Warden",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-09T16:30:52.000Z",
+      "updated_at": "2023-01-09T16:30:52.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20987417,
+    "rank_kc": 61395,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-09T16:29:48.000Z",
+    "rank_pc": 37519,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-09T16:29:51.000Z",
+    "rank_hs": 57042,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-09T13:24:11.000Z",
+    "created_at": "2023-06-15T10:09:16.000Z",
+    "updated_at": "2023-06-15T10:09:17.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:30:00.908Z"
+}
