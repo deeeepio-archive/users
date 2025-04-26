@@ -1,0 +1,61 @@
+{
+  "id": 20981095,
+  "username": "jonyzama",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-25T01:56:02.000Z",
+  "date_last_played": "2025-03-25T16:17:50.000Z",
+  "profile_views": 3,
+  "kill_count": 14,
+  "play_count": 48,
+  "highest_score": 692993,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 50,
+  "tier": 1,
+  "xp": 6000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8699,
+      "user_id": 20981095,
+      "platform_id": "dc",
+      "platform_user_id": "jonathanRS#0967",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-29T01:16:42.000Z",
+      "updated_at": "2022-10-29T01:16:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20981095,
+    "rank_kc": 316459,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-29T01:17:14.000Z",
+    "rank_pc": 134816,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-29T01:17:15.000Z",
+    "rank_hs": 224364,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-29T01:17:15.000Z",
+    "created_at": "2025-03-25T16:17:50.000Z",
+    "updated_at": "2025-03-25T16:17:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:52:46.295Z"
+}
