@@ -1,0 +1,61 @@
+{
+  "id": 20947614,
+  "username": "KRL_redbull",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-17T02:36:45.000Z",
+  "date_last_played": "2025-02-22T06:52:22.000Z",
+  "profile_views": 15105,
+  "kill_count": 27909,
+  "play_count": 10866,
+  "highest_score": 5877311,
+  "picture": "20947614-610f6b1174533514b7896dfddf2a21151-25530738-c39c-4731-b505-dab1d399f327.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 254,
+  "tier": 10,
+  "xp": 4376400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 93206,
+      "user_id": 20947614,
+      "platform_id": "dc",
+      "platform_user_id": "soviet8748",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-25T06:25:05.000Z",
+      "updated_at": "2024-04-20T05:02:12.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20947614,
+    "rank_kc": 398,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-17T13:29:31.000Z",
+    "rank_pc": 184,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-17T13:29:36.000Z",
+    "rank_hs": 6224,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-17T13:29:45.000Z",
+    "created_at": "2025-02-22T06:52:21.000Z",
+    "updated_at": "2025-02-22T06:52:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:26:34.066Z"
+}

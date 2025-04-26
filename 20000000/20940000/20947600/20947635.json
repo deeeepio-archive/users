@@ -1,0 +1,61 @@
+{
+  "id": 20947635,
+  "username": "beckfist",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-17T03:51:19.000Z",
+  "date_last_played": "2022-08-20T00:35:01.000Z",
+  "profile_views": 2,
+  "kill_count": 2,
+  "play_count": 4,
+  "highest_score": 99743,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 511,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5318,
+      "user_id": 20947635,
+      "platform_id": "dc",
+      "platform_user_id": "beckfis#5789",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-19T23:57:19.000Z",
+      "updated_at": "2022-08-19T23:57:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20947635,
+    "rank_kc": 363231,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-23T01:03:57.000Z",
+    "rank_pc": 216044,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-23T01:03:58.000Z",
+    "rank_hs": 370120,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-23T01:03:58.000Z",
+    "created_at": "2022-08-20T00:35:01.000Z",
+    "updated_at": "2022-08-20T00:35:01.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:26:39.483Z"
+}
