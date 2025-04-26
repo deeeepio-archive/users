@@ -1,0 +1,61 @@
+{
+  "id": 20968645,
+  "username": "MagicPro",
+  "description": "Sorry)",
+  "about": "I'm Pro",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-07T09:59:12.000Z",
+  "date_last_played": "2023-04-08T16:45:57.000Z",
+  "profile_views": 40,
+  "kill_count": 241,
+  "play_count": 173,
+  "highest_score": 3408015,
+  "picture": "20968645-44b2d68be1305781c726cc1e9d795c13.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 122,
+  "tier": 3,
+  "xp": 90300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8534,
+      "user_id": 20968645,
+      "platform_id": "dc",
+      "platform_user_id": "Magic.dan#4666",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-25T14:44:45.000Z",
+      "updated_at": "2022-10-25T14:44:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20968645,
+    "rank_kc": 62811,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-08T16:38:37.000Z",
+    "rank_pc": 45870,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-08T16:38:38.000Z",
+    "rank_hs": 14983,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-08T16:38:39.000Z",
+    "created_at": "2023-09-13T19:09:10.000Z",
+    "updated_at": "2023-04-08T16:45:57.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:30:33.087Z"
+}
