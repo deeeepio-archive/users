@@ -1,0 +1,164 @@
+{
+  "id": 20940424,
+  "username": "TheBabadook",
+  "description": "Burp!\n\nYou just got killed by a dude who's in fucken school",
+  "about": "Highschool sucks\n\nI love the gym and Ice Hockey and Lacrosse\n\nScience is lowk fire, math is shit sometimes and history is a breeze",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-26T16:29:14.000Z",
+  "date_last_played": "2025-02-20T18:52:28.000Z",
+  "profile_views": 32,
+  "kill_count": 83,
+  "play_count": 341,
+  "highest_score": 636497,
+  "picture": "20940424-6865ad10dee715f27f3f56a437305a18.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 40,
+  "tier": 1,
+  "xp": 16950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20940424,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-02-20T18:52:28.000Z",
+    "updated_at": "2025-02-20T18:52:28.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11205,
+          "user_id": 20940424,
+          "cloneof_id": null,
+          "string_id": "realstic_v2",
+          "title": "Realistic map v2.0",
+          "description": "This map will be in the v2 range from v2.0 to v2.5 then we go to v3.0 to v3.5 and so on. ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 58,
+          "created_at": "2022-11-03T14:40:38.000Z",
+          "updated_at": "2022-11-03T14:46:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20940424,
+            "username": "TheBabadook",
+            "description": "Burp!\n\nYou just got killed by a dude who's in fucken school",
+            "about": "Highschool sucks\n\nI love the gym and Ice Hockey and Lacrosse\n\nScience is lowk fire, math is shit sometimes and history is a breeze",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-26T16:29:14.000Z",
+            "date_last_played": "2025-02-20T18:52:28.000Z",
+            "kill_count": 83,
+            "play_count": 341,
+            "highest_score": 636497,
+            "picture": "20940424-6865ad10dee715f27f3f56a437305a18.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 40,
+            "tier": 1,
+            "xp": 16950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Cool"
+            },
+            {
+              "id": "Deep"
+            },
+            {
+              "id": "Fresh"
+            },
+            {
+              "id": "NPC"
+            },
+            {
+              "id": "Polar"
+            },
+            {
+              "id": "real"
+            },
+            {
+              "id": "Salt"
+            },
+            {
+              "id": "Shallow"
+            }
+          ]
+        },
+        {
+          "id": 11204,
+          "user_id": 20940424,
+          "cloneof_id": null,
+          "string_id": "hello12345678900",
+          "title": "Idk",
+          "description": "idk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 29,
+          "created_at": "2022-11-03T14:13:11.000Z",
+          "updated_at": "2022-11-03T14:13:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20940424,
+            "username": "TheBabadook",
+            "description": "Burp!\n\nYou just got killed by a dude who's in fucken school",
+            "about": "Highschool sucks\n\nI love the gym and Ice Hockey and Lacrosse\n\nScience is lowk fire, math is shit sometimes and history is a breeze",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-26T16:29:14.000Z",
+            "date_last_played": "2025-02-20T18:52:28.000Z",
+            "kill_count": 83,
+            "play_count": 341,
+            "highest_score": 636497,
+            "picture": "20940424-6865ad10dee715f27f3f56a437305a18.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 40,
+            "tier": 1,
+            "xp": 16950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "idk"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:42:29.742Z"
+}
