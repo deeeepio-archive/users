@@ -1,0 +1,161 @@
+{
+  "id": 20955530,
+  "username": "sTianY",
+  "description": "I never give up and now this is fair or unfair, FOREVER!!",
+  "about": "dreaming their pets and animals\nI like the game of pearl defense \n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-17T11:46:23.000Z",
+  "date_last_played": "2024-06-24T15:17:33.000Z",
+  "profile_views": 125,
+  "kill_count": 500,
+  "play_count": 176,
+  "highest_score": 184979,
+  "picture": "20955530-1058c7e4110bab1967741ca41484c557f7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 3,
+  "xp": 76650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20955530,
+    "rank_kc": 46472,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-15T03:42:59.000Z",
+    "rank_pc": 55878,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-15T03:43:00.000Z",
+    "rank_hs": 267041,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-15T03:43:03.000Z",
+    "created_at": "2024-06-24T15:17:32.000Z",
+    "updated_at": "2024-06-24T15:17:33.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13024,
+          "user_id": 20955530,
+          "cloneof_id": null,
+          "string_id": "darkness_map",
+          "title": "Darkness map (Helloween seasonal)",
+          "description": "The darkness is always on",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 56,
+          "created_at": "2023-10-26T14:38:26.000Z",
+          "updated_at": "2024-01-15T03:42:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20955530,
+            "username": "sTianY",
+            "description": "I never give up and now this is fair or unfair, FOREVER!!",
+            "about": "dreaming their pets and animals\nI like the game of pearl defense \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-17T11:46:23.000Z",
+            "date_last_played": "2024-06-24T15:17:33.000Z",
+            "kill_count": 500,
+            "play_count": 176,
+            "highest_score": 184979,
+            "picture": "20955530-1058c7e4110bab1967741ca41484c557f7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 25,
+            "tier": 3,
+            "xp": 76650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "darkness"
+            },
+            {
+              "id": "helloween"
+            }
+          ]
+        },
+        {
+          "id": 10452,
+          "user_id": 20955530,
+          "cloneof_id": null,
+          "string_id": "ab35825103upd584",
+          "title": "Water side",
+          "description": "The top one is the orange water and the bottom one is the normal water",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 146,
+          "created_at": "2022-07-26T21:40:30.000Z",
+          "updated_at": "2022-07-26T21:40:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20955530,
+            "username": "sTianY",
+            "description": "I never give up and now this is fair or unfair, FOREVER!!",
+            "about": "dreaming their pets and animals\nI like the game of pearl defense \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-17T11:46:23.000Z",
+            "date_last_played": "2024-06-24T15:17:33.000Z",
+            "kill_count": 500,
+            "play_count": 176,
+            "highest_score": 184979,
+            "picture": "20955530-1058c7e4110bab1967741ca41484c557f7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 25,
+            "tier": 3,
+            "xp": 76650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Advanced player"
+            },
+            {
+              "id": "Beginner player"
+            },
+            {
+              "id": "Expert player"
+            },
+            {
+              "id": "Legend player"
+            },
+            {
+              "id": "Master player"
+            },
+            {
+              "id": "Rookie player"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:14:15.842Z"
+}
