@@ -1,0 +1,61 @@
+{
+  "id": 20966044,
+  "username": "shinyl",
+  "description": "я помер с честью",
+  "about": "я люблю честь\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-29T13:22:03.000Z",
+  "date_last_played": "2022-08-29T14:11:17.000Z",
+  "profile_views": 1,
+  "kill_count": 1,
+  "play_count": 25,
+  "highest_score": 81305,
+  "picture": "20966044-4d64481032edbb44377cb91e975ea826e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5785,
+      "user_id": 20966044,
+      "platform_id": "dc",
+      "platform_user_id": "shinyl#2699",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-29T13:24:36.000Z",
+      "updated_at": "2022-08-29T13:24:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20966044,
+    "rank_kc": 374455,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-29T13:24:20.000Z",
+    "rank_pc": 269497,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-29T13:24:21.000Z",
+    "rank_hs": 502115,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-29T13:24:22.000Z",
+    "created_at": "2022-08-29T14:11:16.000Z",
+    "updated_at": "2022-08-29T14:11:17.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:14:39.575Z"
+}
