@@ -1,0 +1,97 @@
+{
+  "id": 20959718,
+  "username": "Noggin_Clontith",
+  "description": "Hoo Hoo Hoo Gnee Ha, Hoo Ho Hoo Hoo Gnee Gna,\nHello Me Ol' Chum, I'm Gnot A Gnelf, I'm Gnot A Gnoblin, Im a Gnome, And You've Been Gnomed!",
+  "about": "My name is Noggin and you've been Gnomed\nhttp://www.nogginclontith.co.uk\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-04T17:31:48.000Z",
+  "date_last_played": "2023-01-12T23:46:51.000Z",
+  "profile_views": 53,
+  "kill_count": 56,
+  "play_count": 118,
+  "highest_score": 1088767,
+  "picture": "20959718-90c1b4e2a577b6da4f1f83f3212e9119.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 42,
+  "tier": 1,
+  "xp": 16500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20959718,
+    "rank_kc": 129235,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-09T19:54:15.000Z",
+    "rank_pc": 56883,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-09T19:54:22.000Z",
+    "rank_hs": 73301,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-09T19:54:28.000Z",
+    "created_at": "2023-01-12T23:48:55.000Z",
+    "updated_at": "2023-01-12T23:48:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10612,
+          "user_id": 20959718,
+          "cloneof_id": null,
+          "string_id": "bill_map",
+          "title": "TRIANGLE",
+          "description": "all grounds are TrIaGLe",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 32,
+          "created_at": "2022-08-11T16:38:38.000Z",
+          "updated_at": "2022-08-11T16:46:37.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959718,
+            "username": "Noggin_Clontith",
+            "description": "Hoo Hoo Hoo Gnee Ha, Hoo Ho Hoo Hoo Gnee Gna,\nHello Me Ol' Chum, I'm Gnot A Gnelf, I'm Gnot A Gnoblin, Im a Gnome, And You've Been Gnomed!",
+            "about": "My name is Noggin and you've been Gnomed\nhttp://www.nogginclontith.co.uk\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-04T17:31:48.000Z",
+            "date_last_played": "2023-01-12T23:46:51.000Z",
+            "kill_count": 56,
+            "play_count": 118,
+            "highest_score": 1088767,
+            "picture": "20959718-90c1b4e2a577b6da4f1f83f3212e9119.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 42,
+            "tier": 1,
+            "xp": 16500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "EeEeE"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:38:28.055Z"
+}
