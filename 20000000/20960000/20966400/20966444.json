@@ -1,0 +1,97 @@
+{
+  "id": 20966444,
+  "username": "TheTeamXD",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-30T20:38:48.000Z",
+  "date_last_played": "2022-09-29T11:57:46.000Z",
+  "profile_views": 12,
+  "kill_count": 29,
+  "play_count": 137,
+  "highest_score": 605345,
+  "picture": "20966444-2a83979f2c19dea15ffa79a4fb2b4d84.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 4800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20966444,
+    "rank_kc": 154570,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-09-19T18:06:38.000Z",
+    "rank_pc": 45809,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-19T18:06:42.000Z",
+    "rank_hs": 110948,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-19T18:06:46.000Z",
+    "created_at": "2023-05-05T06:57:50.000Z",
+    "updated_at": "2022-09-29T11:57:46.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10943,
+          "user_id": 20966444,
+          "cloneof_id": null,
+          "string_id": "fun_fun_fun",
+          "title": "fun",
+          "description": "fun",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 15,
+          "created_at": "2022-09-19T18:06:01.000Z",
+          "updated_at": "2022-09-21T15:08:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20966444,
+            "username": "TheTeamXD",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-30T20:38:48.000Z",
+            "date_last_played": "2022-09-29T11:57:46.000Z",
+            "kill_count": 29,
+            "play_count": 137,
+            "highest_score": 605345,
+            "picture": "20966444-2a83979f2c19dea15ffa79a4fb2b4d84.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 4800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fun"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:17:32.962Z"
+}
