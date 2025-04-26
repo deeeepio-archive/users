@@ -1,0 +1,61 @@
+{
+  "id": 20962388,
+  "username": "mao나기",
+  "description": "안녕하세요",
+  "about": "나는야똔고",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-15T09:22:16.000Z",
+  "date_last_played": "2025-01-19T09:22:30.000Z",
+  "profile_views": 75,
+  "kill_count": 354,
+  "play_count": 396,
+  "highest_score": 3018794,
+  "picture": "20962388-27b5e105df29a938c6338d789c42855f4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 197,
+  "tier": 3,
+  "xp": 110700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28517,
+      "user_id": 20962388,
+      "platform_id": "dc",
+      "platform_user_id": "p_726",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-24T11:12:14.000Z",
+      "updated_at": "2025-01-15T16:22:44.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20962388,
+    "rank_kc": 125466,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-27T14:49:05.000Z",
+    "rank_pc": 53268,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-27T14:49:12.000Z",
+    "rank_hs": 75575,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-27T14:49:15.000Z",
+    "created_at": "2025-01-19T09:22:29.000Z",
+    "updated_at": "2025-01-19T09:22:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:54:06.674Z"
+}
