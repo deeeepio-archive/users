@@ -1,0 +1,72 @@
+{
+  "id": 20950807,
+  "username": "Uken",
+  "description": "Back to the start",
+  "about": "🔺",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-27T16:08:28.000Z",
+  "date_last_played": "2025-04-13T18:24:54.000Z",
+  "profile_views": 2964,
+  "kill_count": 16436,
+  "play_count": 4302,
+  "highest_score": 5032403,
+  "picture": "20950807-3bb6877b533e310b85463880b2f2cf9b4-19196737-a7a7-4432-a6c5-d2c1d01696e1.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 743,
+  "tier": 10,
+  "xp": 4773300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 3,
+      "slug": "harmony-member",
+      "title": "Harmony Member"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 97963,
+      "user_id": 20950807,
+      "platform_id": "dc",
+      "platform_user_id": "ukeen_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-25T23:23:02.000Z",
+      "updated_at": "2024-08-25T23:23:02.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20950807,
+    "rank_kc": 1387,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T02:26:43.000Z",
+    "rank_pc": 2135,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T02:26:44.000Z",
+    "rank_hs": 8521,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-19T02:26:44.000Z",
+    "created_at": "2025-04-13T18:24:54.000Z",
+    "updated_at": "2025-04-13T18:24:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:46:28.792Z"
+}
