@@ -1,0 +1,71 @@
+{
+  "id": 20970683,
+  "username": "Honi",
+  "description": "I will always remain alive",
+  "about": "I'm from Ukraine, I was created to kill Russians",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-14T07:51:47.000Z",
+  "date_last_played": "2025-02-26T22:59:38.000Z",
+  "profile_views": 60,
+  "kill_count": 1936,
+  "play_count": 1491,
+  "highest_score": 2389969,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 629,
+  "tier": 6,
+  "xp": 426450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 6857,
+      "user_id": 20970683,
+      "platform_id": "dc",
+      "platform_user_id": "Honi#1479",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-16T08:20:44.000Z",
+      "updated_at": "2022-10-07T17:07:05.000Z"
+    },
+    {
+      "id": 6858,
+      "user_id": 20970683,
+      "platform_id": "ig",
+      "platform_user_id": "_honi1_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-16T08:21:06.000Z",
+      "updated_at": "2022-09-16T08:21:06.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20970683,
+    "rank_kc": 24219,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-09T12:42:33.000Z",
+    "rank_pc": 12695,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-09T12:42:34.000Z",
+    "rank_hs": 25297,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-08T15:23:05.000Z",
+    "created_at": "2025-02-26T22:59:37.000Z",
+    "updated_at": "2025-02-26T22:59:38.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:49:14.938Z"
+}
