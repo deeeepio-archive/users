@@ -1,0 +1,143 @@
+{
+  "id": 20966813,
+  "username": "VNTHANGCHAC",
+  "description": "TÔI THÀ CHẾT CHỨ KHÔNG LÙI-----I would rather die than back down",
+  "about": "TÔI THÀ CHẾT CHỨ KHÔNG LÙI-----I would rather die than back down",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-01T07:38:53.000Z",
+  "date_last_played": "2024-04-27T02:48:06.000Z",
+  "profile_views": 438,
+  "kill_count": 1592,
+  "play_count": 610,
+  "highest_score": 2199869,
+  "picture": "20966813-2af136666a8071de5bb57b1105231e35d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 20,
+  "tier": 5,
+  "xp": 263700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20966813,
+    "rank_kc": 19086,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-04T13:31:22.000Z",
+    "rank_pc": 21398,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-04T13:31:26.000Z",
+    "rank_hs": 35411,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-04T13:31:27.000Z",
+    "created_at": "2024-04-27T02:48:06.000Z",
+    "updated_at": "2024-04-27T02:48:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11344,
+          "user_id": 20966813,
+          "cloneof_id": null,
+          "string_id": "123456780",
+          "title": "vnnn",
+          "description": "vn",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 112,
+          "created_at": "2022-11-26T07:52:34.000Z",
+          "updated_at": "2022-11-26T07:52:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20966813,
+            "username": "VNTHANGCHAC",
+            "description": "TÔI THÀ CHẾT CHỨ KHÔNG LÙI-----I would rather die than back down",
+            "about": "TÔI THÀ CHẾT CHỨ KHÔNG LÙI-----I would rather die than back down",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-09-01T07:38:53.000Z",
+            "date_last_played": "2024-04-27T02:48:06.000Z",
+            "kill_count": 1592,
+            "play_count": 610,
+            "highest_score": 2199869,
+            "picture": "20966813-2af136666a8071de5bb57b1105231e35d.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 20,
+            "tier": 5,
+            "xp": 263700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            }
+          ]
+        },
+        {
+          "id": 11343,
+          "user_id": 20966813,
+          "cloneof_id": null,
+          "string_id": "1234567809",
+          "title": "Untitled",
+          "description": "vn",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 2,
+          "created_at": "2022-11-26T05:30:23.000Z",
+          "updated_at": "2022-11-26T05:30:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20966813,
+            "username": "VNTHANGCHAC",
+            "description": "TÔI THÀ CHẾT CHỨ KHÔNG LÙI-----I would rather die than back down",
+            "about": "TÔI THÀ CHẾT CHỨ KHÔNG LÙI-----I would rather die than back down",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-09-01T07:38:53.000Z",
+            "date_last_played": "2024-04-27T02:48:06.000Z",
+            "kill_count": 1592,
+            "play_count": 610,
+            "highest_score": 2199869,
+            "picture": "20966813-2af136666a8071de5bb57b1105231e35d.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 20,
+            "tier": 5,
+            "xp": 263700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "vn"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:19:29.134Z"
+}

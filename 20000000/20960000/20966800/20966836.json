@@ -1,0 +1,75 @@
+{
+  "id": 20966836,
+  "username": "叙合",
+  "description": "Sorry\nbut I am\nHappy\n",
+  "about": "我好厲害",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-01T10:23:36.000Z",
+  "date_last_played": "2025-04-23T08:54:16.000Z",
+  "profile_views": 1508,
+  "kill_count": 3757,
+  "play_count": 1913,
+  "highest_score": 1688681,
+  "picture": "20966836-b941510dd23b3b5a715426f13b2840d9c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2249,
+  "tier": 10,
+  "xp": 1132500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 13947,
+      "user_id": 20966836,
+      "platform_id": "qq",
+      "platform_user_id": "1223",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-26T08:03:18.000Z",
+      "updated_at": "2023-01-26T08:03:30.000Z"
+    },
+    {
+      "id": 98744,
+      "user_id": 20966836,
+      "platform_id": "qq",
+      "platform_user_id": "呵呵",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-09-22T01:36:32.000Z",
+      "updated_at": "2024-09-22T01:36:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20966836,
+    "rank_kc": 64222,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-07T03:39:35.000Z",
+    "rank_pc": 43048,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-07T03:39:35.000Z",
+    "rank_hs": 154949,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-07T03:39:36.000Z",
+    "created_at": "2025-04-23T08:54:15.000Z",
+    "updated_at": "2025-04-23T08:54:16.000Z",
+    "pd": {
+      "played": 25,
+      "won": 13,
+      "ratio": 52
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:19:32.244Z"
+}
