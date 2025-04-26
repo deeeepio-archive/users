@@ -1,0 +1,61 @@
+{
+  "id": 20946440,
+  "username": "MateusZ2",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-13T14:04:51.000Z",
+  "date_last_played": "2022-08-06T18:29:31.000Z",
+  "profile_views": 7,
+  "kill_count": 2,
+  "play_count": 16,
+  "highest_score": 194770,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 513,
+  "tier": 1,
+  "xp": 450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2225,
+      "user_id": 20946440,
+      "platform_id": "dc",
+      "platform_user_id": "nutz#0077",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-13T19:06:09.000Z",
+      "updated_at": "2022-06-13T19:06:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20946440,
+    "rank_kc": 304341,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-08-06T18:26:11.000Z",
+    "rank_pc": 134511,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-06T18:26:11.000Z",
+    "rank_hs": 200809,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-06T18:26:12.000Z",
+    "created_at": "2023-12-16T12:41:51.000Z",
+    "updated_at": "2022-08-06T18:29:31.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:19:18.745Z"
+}

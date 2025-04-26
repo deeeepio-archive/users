@@ -1,0 +1,61 @@
+{
+  "id": 20946415,
+  "username": "CT11",
+  "description": "加油！總有一次你會成功的\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-13T12:00:34.000Z",
+  "date_last_played": "2023-03-22T10:44:45.000Z",
+  "profile_views": 36,
+  "kill_count": 321,
+  "play_count": 625,
+  "highest_score": 888300,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 266,
+  "tier": 2,
+  "xp": 66600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3078,
+      "user_id": 20946415,
+      "platform_id": "dc",
+      "platform_user_id": "Iik",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-29T11:31:02.000Z",
+      "updated_at": "2022-06-29T11:31:02.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20946415,
+    "rank_kc": 49256,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-23T08:55:41.000Z",
+    "rank_pc": 14761,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-23T08:55:42.000Z",
+    "rank_hs": 79834,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-23T08:38:11.000Z",
+    "created_at": "2023-03-22T10:44:45.000Z",
+    "updated_at": "2023-03-22T10:44:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:19:15.377Z"
+}
