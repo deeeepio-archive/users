@@ -1,0 +1,50 @@
+{
+  "id": 20836039,
+  "username": "pcu",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-04T18:40:11.000Z",
+  "date_last_played": "2022-09-23T13:25:40.000Z",
+  "profile_views": 1,
+  "kill_count": 1,
+  "play_count": 40,
+  "highest_score": 135290,
+  "picture": "20836039-34fe1b68a91eba8ea7914a624d3476a7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 1650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20836039,
+    "rank_kc": 326624,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-07-12T20:27:21.000Z",
+    "rank_pc": 85200,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-12T20:27:21.000Z",
+    "rank_hs": 229333,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-07-12T20:27:22.000Z",
+    "created_at": "2022-09-23T13:25:39.000Z",
+    "updated_at": "2022-09-23T13:25:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T01:01:34.856Z"
+}
