@@ -1,0 +1,61 @@
+{
+  "id": 20978454,
+  "username": "SilverSays",
+  "description": "Do or Do Not, There is No Try.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-14T06:29:49.000Z",
+  "date_last_played": "2023-02-01T22:00:21.000Z",
+  "profile_views": 26,
+  "kill_count": 167,
+  "play_count": 306,
+  "highest_score": 1317185,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 26,
+  "tier": 2,
+  "xp": 54000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 10390,
+      "user_id": 20978454,
+      "platform_id": "dc",
+      "platform_user_id": "SilverSays#8689",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-26T21:34:36.000Z",
+      "updated_at": "2022-11-26T21:34:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20978454,
+    "rank_kc": 80072,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-22T01:49:36.000Z",
+    "rank_pc": 30198,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-22T01:49:37.000Z",
+    "rank_hs": 60002,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-22T01:49:38.000Z",
+    "created_at": "2023-02-01T22:00:20.000Z",
+    "updated_at": "2023-02-01T22:00:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:36:49.939Z"
+}
