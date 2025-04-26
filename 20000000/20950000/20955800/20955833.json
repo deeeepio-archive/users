@@ -1,0 +1,71 @@
+{
+  "id": 20955833,
+  "username": "Dinogamergt12",
+  "description": "idk",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-18T18:46:25.000Z",
+  "date_last_played": "2025-02-24T18:59:02.000Z",
+  "profile_views": 115,
+  "kill_count": 391,
+  "play_count": 478,
+  "highest_score": 1911222,
+  "picture": "20955833-6a567553295249b5c1372b93584a1b55.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 101,
+  "tier": 3,
+  "xp": 81450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30353,
+      "user_id": 20955833,
+      "platform_id": "dc",
+      "platform_user_id": "dinogamergt",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-04T20:23:32.000Z",
+      "updated_at": "2023-12-04T20:23:32.000Z"
+    },
+    {
+      "id": 4033,
+      "user_id": 20955833,
+      "platform_id": "tc",
+      "platform_user_id": "dinogamergt11",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-22T16:04:25.000Z",
+      "updated_at": "2022-07-22T16:04:25.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20955833,
+    "rank_kc": 58566,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-07T22:23:13.000Z",
+    "rank_pc": 25598,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-07T22:23:14.000Z",
+    "rank_hs": 58199,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-07T22:23:14.000Z",
+    "created_at": "2025-02-24T18:59:02.000Z",
+    "updated_at": "2025-02-24T18:59:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:16:04.438Z"
+}
