@@ -1,0 +1,103 @@
+{
+  "id": 20946839,
+  "username": "joemamawastaken",
+  "description": "rest in peace... for until you respawn. hope you get to 1m next time! ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-14T17:33:34.000Z",
+  "date_last_played": "2022-06-27T21:20:42.000Z",
+  "profile_views": 12,
+  "kill_count": 45,
+  "play_count": 57,
+  "highest_score": 3269323,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 801,
+  "tier": 2,
+  "xp": 36750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20946839,
+    "rank_kc": 124322,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-27T21:17:31.000Z",
+    "rank_pc": 67975,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-27T21:20:55.000Z",
+    "rank_hs": 13629,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-27T21:17:32.000Z",
+    "created_at": "2023-11-05T23:35:32.000Z",
+    "updated_at": "2022-06-27T21:20:55.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10090,
+          "user_id": 20946839,
+          "cloneof_id": null,
+          "string_id": "get_to_the_middle",
+          "title": "get to the middle",
+          "description": "get to the middle. if you had to read this to find that out then you're an idiot :)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 14,
+          "created_at": "2022-06-21T16:17:36.000Z",
+          "updated_at": "2022-06-21T16:22:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20946839,
+            "username": "joemamawastaken",
+            "description": "rest in peace... for until you respawn. hope you get to 1m next time! ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-14T17:33:34.000Z",
+            "date_last_played": "2022-06-27T21:20:42.000Z",
+            "kill_count": 45,
+            "play_count": 57,
+            "highest_score": 3269323,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 801,
+            "tier": 2,
+            "xp": 36750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "competitive"
+            },
+            {
+              "id": "OP"
+            },
+            {
+              "id": "stupid"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:21:56.626Z"
+}
