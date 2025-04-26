@@ -1,0 +1,108 @@
+{
+  "id": 20948162,
+  "username": "Akoy",
+  "description": "Happiness isn't Around Us Its Withen You. -Your Soul.",
+  "about": "this game is fun lol.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-18T20:01:12.000Z",
+  "date_last_played": "2022-06-22T17:53:38.000Z",
+  "profile_views": 6,
+  "kill_count": 89,
+  "play_count": 81,
+  "highest_score": 653909,
+  "picture": "20948162-2ee30ade94482f36528e7fb19a4106b7d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 81,
+  "tier": 1,
+  "xp": 10500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2582,
+      "user_id": 20948162,
+      "platform_id": "yt",
+      "platform_user_id": "Akoy",
+      "platform_user_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "verified": false,
+      "created_at": "2022-06-19T16:20:21.000Z",
+      "updated_at": "2022-06-19T16:20:21.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20948162,
+    "rank_kc": 107880,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-22T11:32:03.000Z",
+    "rank_pc": 63649,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-22T11:32:04.000Z",
+    "rank_hs": 99275,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-22T11:32:04.000Z",
+    "created_at": "2022-08-26T20:41:30.000Z",
+    "updated_at": "2022-06-22T17:53:38.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10037,
+          "user_id": 20948162,
+          "cloneof_id": null,
+          "string_id": "i_d",
+          "title": "idk",
+          "description": "my first map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 288,
+          "created_at": "2022-06-19T16:35:38.000Z",
+          "updated_at": "2022-06-19T16:38:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20948162,
+            "username": "Akoy",
+            "description": "Happiness isn't Around Us Its Withen You. -Your Soul.",
+            "about": "this game is fun lol.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-18T20:01:12.000Z",
+            "date_last_played": "2022-06-22T17:53:38.000Z",
+            "kill_count": 89,
+            "play_count": 81,
+            "highest_score": 653909,
+            "picture": "20948162-2ee30ade94482f36528e7fb19a4106b7d.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 81,
+            "tier": 1,
+            "xp": 10500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "IKD"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:30:53.092Z"
+}

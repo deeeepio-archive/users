@@ -1,0 +1,61 @@
+{
+  "id": 20948205,
+  "username": "Şahin",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-19T00:03:38.000Z",
+  "date_last_played": "2022-07-02T06:28:59.000Z",
+  "profile_views": 51,
+  "kill_count": 183,
+  "play_count": 108,
+  "highest_score": 6063807,
+  "picture": "20948205-8f5ec454a1233d5c0be8a502d99b3e50.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 202,
+  "tier": 2,
+  "xp": 63750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2533,
+      "user_id": 20948205,
+      "platform_id": "ig",
+      "platform_user_id": "sahiinuygun ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-19T00:11:35.000Z",
+      "updated_at": "2022-06-19T00:11:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20948205,
+    "rank_kc": 63971,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-02T07:11:34.000Z",
+    "rank_pc": 48085,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-02T07:11:34.000Z",
+    "rank_hs": 4383,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-02T03:13:01.000Z",
+    "created_at": "2022-10-16T05:05:13.000Z",
+    "updated_at": "2022-07-02T07:11:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:31:04.204Z"
+}
