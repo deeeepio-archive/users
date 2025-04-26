@@ -1,0 +1,97 @@
+{
+  "id": 20940225,
+  "username": "GoodFishy",
+  "description": "Teehee",
+  "about": "hkg",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-26T03:12:45.000Z",
+  "date_last_played": "2025-04-26T05:01:48.000Z",
+  "profile_views": 10078,
+  "kill_count": 24496,
+  "play_count": 14689,
+  "highest_score": 13000303,
+  "picture": "20940225-8517c7cb5b275210a0a01657a6752acce-c2e7165a-45bd-46d0-a107-fbb5161d554b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10629,
+  "tier": 10,
+  "xp": 5095800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20940225,
+    "rank_kc": 911,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-14T22:16:44.000Z",
+    "rank_pc": 101,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-14T22:16:47.000Z",
+    "rank_hs": 2731,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-14T22:16:52.000Z",
+    "created_at": "2025-04-26T05:01:47.000Z",
+    "updated_at": "2025-04-26T05:01:48.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9927,
+          "user_id": 20940225,
+          "cloneof_id": null,
+          "string_id": "map099",
+          "title": "mapO99",
+          "description": "I don’t know",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 0,
+          "created_at": "2022-06-11T14:22:10.000Z",
+          "updated_at": "2022-06-11T14:22:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20940225,
+            "username": "GoodFishy",
+            "description": "Teehee",
+            "about": "hkg",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-26T03:12:45.000Z",
+            "date_last_played": "2025-04-26T05:01:48.000Z",
+            "kill_count": 24496,
+            "play_count": 14689,
+            "highest_score": 13000303,
+            "picture": "20940225-8517c7cb5b275210a0a01657a6752acce-c2e7165a-45bd-46d0-a107-fbb5161d554b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 10629,
+            "tier": 10,
+            "xp": 5095800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:41:38.265Z"
+}
