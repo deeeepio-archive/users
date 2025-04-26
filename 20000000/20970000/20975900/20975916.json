@@ -1,0 +1,61 @@
+{
+  "id": 20975916,
+  "username": "TBBKASM",
+  "description": "GG.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-03T21:55:26.000Z",
+  "date_last_played": "2024-06-29T14:25:34.000Z",
+  "profile_views": 167,
+  "kill_count": 936,
+  "play_count": 418,
+  "highest_score": 993333,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 681,
+  "tier": 4,
+  "xp": 216900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 93841,
+      "user_id": 20975916,
+      "platform_id": "dc",
+      "platform_user_id": "TBBAK",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-04-14T15:21:53.000Z",
+      "updated_at": "2024-04-14T15:21:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20975916,
+    "rank_kc": 42011,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-07T22:37:48.000Z",
+    "rank_pc": 38619,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-07T22:37:50.000Z",
+    "rank_hs": 94779,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-07T22:37:53.000Z",
+    "created_at": "2024-06-29T14:25:34.000Z",
+    "updated_at": "2024-06-29T14:25:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:21:17.991Z"
+}
