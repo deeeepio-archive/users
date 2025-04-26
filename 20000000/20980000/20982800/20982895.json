@@ -1,0 +1,65 @@
+{
+  "id": 20982895,
+  "username": "DuongHaiLam",
+  "description": "",
+  "about": "I am Vietnamese, don't call me Chinese anymore.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-31T05:13:11.000Z",
+  "date_last_played": "2025-04-23T17:16:05.000Z",
+  "profile_views": 1468,
+  "kill_count": 6569,
+  "play_count": 2754,
+  "highest_score": 9816057,
+  "picture": "20982895-e3bb61fcfc61448fc37f40670e849474-20ea5f00-7b7c-47a6-9025-29a48ec9bd99.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 31,
+  "tier": 10,
+  "xp": 1516800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103070,
+      "user_id": 20982895,
+      "platform_id": "fb",
+      "platform_user_id": "Nanh Bạc",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=61571363362779",
+      "verified": false,
+      "created_at": "2025-03-09T06:45:25.000Z",
+      "updated_at": "2025-03-09T06:45:25.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20982895,
+    "rank_kc": 7093,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-07T08:47:13.000Z",
+    "rank_pc": 8198,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-07T08:47:15.000Z",
+    "rank_hs": 15910,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-07T08:47:16.000Z",
+    "created_at": "2025-04-23T17:16:05.000Z",
+    "updated_at": "2025-04-23T17:16:05.000Z",
+    "pd": {
+      "played": 4,
+      "won": 2,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:04:33.709Z"
+}
