@@ -1,0 +1,61 @@
+{
+  "id": 20984239,
+  "username": "sute",
+  "description": "Love you <3",
+  "about": "Love you <3\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-04T21:23:01.000Z",
+  "date_last_played": "2024-12-07T14:51:04.000Z",
+  "profile_views": 20,
+  "kill_count": 174,
+  "play_count": 90,
+  "highest_score": 1317716,
+  "picture": "20984239-40730cf7e7d014cb294a21cecc9c8672.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 65,
+  "tier": 2,
+  "xp": 29700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9098,
+      "user_id": 20984239,
+      "platform_id": "dc",
+      "platform_user_id": "kmsxa",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-06T03:34:17.000Z",
+      "updated_at": "2023-12-19T20:39:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20984239,
+    "rank_kc": 84108,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-19T20:40:20.000Z",
+    "rank_pc": 86311,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-19T20:40:25.000Z",
+    "rank_hs": 70105,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-19T20:40:33.000Z",
+    "created_at": "2024-12-07T14:51:03.000Z",
+    "updated_at": "2024-12-07T14:51:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:11:46.413Z"
+}

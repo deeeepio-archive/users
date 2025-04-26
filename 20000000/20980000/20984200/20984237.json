@@ -1,0 +1,61 @@
+{
+  "id": 20984237,
+  "username": "NoTeamNathaniel",
+  "description": "Nothing personal! Just trying to get by!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-04T21:15:18.000Z",
+  "date_last_played": "2023-01-22T17:17:24.000Z",
+  "profile_views": 14,
+  "kill_count": 26,
+  "play_count": 49,
+  "highest_score": 361969,
+  "picture": "20984237-f256937163ce065cb23522159e710d6910.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 31,
+  "tier": 1,
+  "xp": 4200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9284,
+      "user_id": 20984237,
+      "platform_id": "dc",
+      "platform_user_id": "RedBison#6315",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-08T19:05:47.000Z",
+      "updated_at": "2022-11-08T19:05:47.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20984237,
+    "rank_kc": 175517,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-22T17:14:12.000Z",
+    "rank_pc": 90328,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-22T17:14:15.000Z",
+    "rank_hs": 163535,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-01-22T17:14:18.000Z",
+    "created_at": "2023-01-22T17:17:24.000Z",
+    "updated_at": "2023-01-22T17:17:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:11:46.136Z"
+}
