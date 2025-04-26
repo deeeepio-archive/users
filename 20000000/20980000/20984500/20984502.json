@@ -1,0 +1,61 @@
+{
+  "id": 20984502,
+  "username": "Gatimara",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-05T20:20:53.000Z",
+  "date_last_played": "2024-11-06T00:32:18.000Z",
+  "profile_views": 725,
+  "kill_count": 1013,
+  "play_count": 4123,
+  "highest_score": 2512120,
+  "picture": "20984502-3e48b3c6210dec8e7fa40b231ab4aed9b-a17b8f68-2fba-42a4-b302-15a06d4ccc90.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 201,
+  "tier": 8,
+  "xp": 836400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23143,
+      "user_id": 20984502,
+      "platform_id": "yt",
+      "platform_user_id": "Gatimara",
+      "platform_user_url": "https://youtube.com/@Gatimara",
+      "verified": false,
+      "created_at": "2023-07-22T15:00:53.000Z",
+      "updated_at": "2023-07-22T15:00:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20984502,
+    "rank_kc": 35867,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-20T21:39:01.000Z",
+    "rank_pc": 2258,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-20T21:39:02.000Z",
+    "rank_hs": 31276,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-20T21:39:03.000Z",
+    "created_at": "2024-11-06T00:32:18.000Z",
+    "updated_at": "2024-11-06T00:32:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:13:38.825Z"
+}
