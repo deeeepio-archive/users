@@ -1,0 +1,61 @@
+{
+  "id": 20982628,
+  "username": "Ningy",
+  "description": "ningy\n\n\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-30T05:20:31.000Z",
+  "date_last_played": "2023-07-04T09:38:06.000Z",
+  "profile_views": 68,
+  "kill_count": 549,
+  "play_count": 264,
+  "highest_score": 4693817,
+  "picture": "20982628-bc6ee763afe6ad3a2a24432c8632f744.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 170,
+  "tier": 3,
+  "xp": 142950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9199,
+      "user_id": 20982628,
+      "platform_id": "dc",
+      "platform_user_id": "Ningy#8886",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-06T07:00:48.000Z",
+      "updated_at": "2022-11-06T07:00:48.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20982628,
+    "rank_kc": 40039,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-04T08:35:20.000Z",
+    "rank_pc": 37983,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-04T08:35:20.000Z",
+    "rank_hs": 8576,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-04T08:35:21.000Z",
+    "created_at": "2023-07-08T07:29:52.000Z",
+    "updated_at": "2023-07-04T09:38:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:02:50.065Z"
+}
