@@ -1,0 +1,61 @@
+{
+  "id": 20945927,
+  "username": "Zéfim",
+  "description": "Mensagem\n",
+  "about": "Sim\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-11T18:32:39.000Z",
+  "date_last_played": "2022-10-31T21:01:25.000Z",
+  "profile_views": 66,
+  "kill_count": 1294,
+  "play_count": 833,
+  "highest_score": 4465298,
+  "picture": "20945927-10662810ae7862e63725c8d46749d2a392.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 119,
+  "tier": 5,
+  "xp": 374700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3748,
+      "user_id": 20945927,
+      "platform_id": "dc",
+      "platform_user_id": "cu",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-14T20:30:45.000Z",
+      "updated_at": "2022-07-14T20:30:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20945927,
+    "rank_kc": 17970,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-26T01:19:13.000Z",
+    "rank_pc": 11389,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-26T01:19:13.000Z",
+    "rank_hs": 8013,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-26T01:19:14.000Z",
+    "created_at": "2022-11-07T04:14:48.000Z",
+    "updated_at": "2022-10-31T21:01:25.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:16:27.553Z"
+}
