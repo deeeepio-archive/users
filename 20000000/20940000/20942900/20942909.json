@@ -1,0 +1,61 @@
+{
+  "id": 20942909,
+  "username": "Flam1ngw1ngz",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-03T06:46:42.000Z",
+  "date_last_played": "2023-09-22T10:47:10.000Z",
+  "profile_views": 110,
+  "kill_count": 88,
+  "play_count": 180,
+  "highest_score": 406718,
+  "picture": "20942909-2ab25910c1a797e1180219c8228a15439.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 15600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1425,
+      "user_id": 20942909,
+      "platform_id": "rd",
+      "platform_user_id": "Flam1ngw1ngz",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-03T06:49:20.000Z",
+      "updated_at": "2022-06-03T06:49:20.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20942909,
+    "rank_kc": 107349,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-31T08:12:35.000Z",
+    "rank_pc": 46975,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-31T08:12:36.000Z",
+    "rank_hs": 163429,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-31T08:12:37.000Z",
+    "created_at": "2023-10-06T23:28:45.000Z",
+    "updated_at": "2023-09-22T10:47:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:57:28.425Z"
+}
