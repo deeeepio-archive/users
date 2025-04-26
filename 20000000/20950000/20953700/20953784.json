@@ -1,0 +1,91 @@
+{
+  "id": 20953784,
+  "username": "Nil_XD",
+  "description": null,
+  "about": "I'm a french PRO GAMERRR\nYep, I'm more pro than you.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-09T20:32:33.000Z",
+  "date_last_played": "2022-07-09T20:46:13.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 1,
+  "highest_score": 116850,
+  "picture": "20953784-a3cffa5c1c74fdb3c162975c9781e9d3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 512,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3500,
+      "user_id": 20953784,
+      "platform_id": "dc",
+      "platform_user_id": "Nil#6535",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-09T20:33:50.000Z",
+      "updated_at": "2022-07-09T20:33:50.000Z"
+    },
+    {
+      "id": 3502,
+      "user_id": 20953784,
+      "platform_id": "fb",
+      "platform_user_id": "Nil",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=100080694635800",
+      "verified": false,
+      "created_at": "2022-07-09T20:35:24.000Z",
+      "updated_at": "2022-07-09T20:35:24.000Z"
+    },
+    {
+      "id": 3503,
+      "user_id": 20953784,
+      "platform_id": "ig",
+      "platform_user_id": "nil.blox",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-09T20:37:06.000Z",
+      "updated_at": "2022-07-09T20:37:06.000Z"
+    },
+    {
+      "id": 3501,
+      "user_id": 20953784,
+      "platform_id": "yt",
+      "platform_user_id": "NiL",
+      "platform_user_url": "https://www.youtube.com/channel/UCdT5YQ1rPeNFpI9s0eFRWZg",
+      "verified": false,
+      "created_at": "2022-07-09T20:34:35.000Z",
+      "updated_at": "2022-07-09T20:34:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20953784,
+    "rank_kc": 366243,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-07-09T20:37:39.000Z",
+    "rank_pc": 258498,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-09T20:37:39.000Z",
+    "rank_hs": 491468,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-09T20:37:40.000Z",
+    "created_at": "2022-07-09T20:46:12.000Z",
+    "updated_at": "2022-07-09T20:46:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:03:36.250Z"
+}

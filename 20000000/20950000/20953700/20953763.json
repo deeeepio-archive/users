@@ -1,0 +1,97 @@
+{
+  "id": 20953763,
+  "username": "B-rad",
+  "description": "It's too bad you died, but have a nice day.",
+  "about": "I like to play Deeeep.io and Minecraft a lot. I think it's fun.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-09T18:46:09.000Z",
+  "date_last_played": "2022-07-11T03:05:22.000Z",
+  "profile_views": 9,
+  "kill_count": 2,
+  "play_count": 12,
+  "highest_score": 109440,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 450,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20953763,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T13:03:31.203Z",
+    "updated_at": "2025-04-26T13:03:31.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10290,
+          "user_id": 20953763,
+          "cloneof_id": null,
+          "string_id": "1233",
+          "title": "Deeeep",
+          "description": "It's very deep so don't get stuck",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-07-10T16:44:15.000Z",
+          "updated_at": "2022-07-10T16:44:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20953763,
+            "username": "B-rad",
+            "description": "It's too bad you died, but have a nice day.",
+            "about": "I like to play Deeeep.io and Minecraft a lot. I think it's fun.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-09T18:46:09.000Z",
+            "date_last_played": "2022-07-11T03:05:22.000Z",
+            "kill_count": 2,
+            "play_count": 12,
+            "highest_score": 109440,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 450,
+            "tier": 1,
+            "xp": 150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "324"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:03:31.282Z"
+}
