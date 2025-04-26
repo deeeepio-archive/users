@@ -1,0 +1,61 @@
+{
+  "id": 20941495,
+  "username": "pr01234",
+  "description": "ggez",
+  "about": "My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104. This is my confession. If you're watching this tape, I'm probably dead, murdered by my brother-in-law Hank Schrader..",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-29T16:08:47.000Z",
+  "date_last_played": "2022-09-18T23:00:03.000Z",
+  "profile_views": 158,
+  "kill_count": 669,
+  "play_count": 159,
+  "highest_score": 12844035,
+  "picture": "20941495-a2f2bef945f9d4c6fc9eb6d7bfe8bb69.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 664,
+  "tier": 4,
+  "xp": 167850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5989,
+      "user_id": 20941495,
+      "platform_id": "dc",
+      "platform_user_id": "proest_proid#1234",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-01T21:58:34.000Z",
+      "updated_at": "2022-09-01T21:58:34.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20941495,
+    "rank_kc": 36492,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-11-05T09:16:30.000Z",
+    "rank_pc": 56223,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-11-05T09:16:33.000Z",
+    "rank_hs": 1892,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-05T09:16:35.000Z",
+    "created_at": "2023-12-06T04:39:04.000Z",
+    "updated_at": "2023-11-05T09:16:35.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:49:14.562Z"
+}
