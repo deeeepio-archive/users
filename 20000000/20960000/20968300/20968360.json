@@ -1,0 +1,97 @@
+{
+  "id": 20968360,
+  "username": "SoupDevourer",
+  "description": "If fighting is sure to result in a victory, then you must FIGHT! Sun Tzu said that, and i'd say he knows a little more about fighting than you do pal!",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-06T11:01:09.000Z",
+  "date_last_played": "2023-04-30T06:41:47.000Z",
+  "profile_views": 334,
+  "kill_count": 686,
+  "play_count": 187,
+  "highest_score": 1186364,
+  "picture": "20968360-52d29c7d36614e26a6869137e9b97ba2.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 69,
+  "tier": 3,
+  "xp": 104100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20968360,
+    "rank_kc": 33004,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-29T11:53:00.000Z",
+    "rank_pc": 44263,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-29T11:53:01.000Z",
+    "rank_hs": 70560,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-29T11:53:01.000Z",
+    "created_at": "2023-10-05T14:34:20.000Z",
+    "updated_at": "2023-04-30T06:41:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11403,
+          "user_id": 20968360,
+          "cloneof_id": null,
+          "string_id": "soup_ffa_beta",
+          "title": "Soup_FFA",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 9,
+          "created_at": "2022-12-06T02:55:22.000Z",
+          "updated_at": "2022-12-07T02:23:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20968360,
+            "username": "SoupDevourer",
+            "description": "If fighting is sure to result in a victory, then you must FIGHT! Sun Tzu said that, and i'd say he knows a little more about fighting than you do pal!",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-09-06T11:01:09.000Z",
+            "date_last_played": "2023-04-30T06:41:47.000Z",
+            "kill_count": 686,
+            "play_count": 187,
+            "highest_score": 1186364,
+            "picture": "20968360-52d29c7d36614e26a6869137e9b97ba2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 69,
+            "tier": 3,
+            "xp": 104100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:29:01.154Z"
+}
