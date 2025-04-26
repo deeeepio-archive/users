@@ -1,0 +1,108 @@
+{
+  "id": 20961789,
+  "username": "Aileen-Elf",
+  "description": "Oh! Have I killed you?? Oops! Sowwy😖!! Mainly I didn't  expect this because, well, I'm not good at killing. Surprising, eh? But anyway, have another happy, more fortunate life😇! ",
+  "about": "So... Idk., lol. Have a good day, I guess.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-13T09:02:56.000Z",
+  "date_last_played": "2022-09-17T19:38:46.000Z",
+  "profile_views": 46,
+  "kill_count": 7,
+  "play_count": 67,
+  "highest_score": 398157,
+  "picture": "20961789-b106f41a5848aca53247e1887104e78afe.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3,
+  "tier": 1,
+  "xp": 1050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5302,
+      "user_id": 20961789,
+      "platform_id": "rd",
+      "platform_user_id": "JoyfulBerry",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-19T14:46:27.000Z",
+      "updated_at": "2022-08-19T14:46:27.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20961789,
+    "rank_kc": 248627,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-16T07:47:40.000Z",
+    "rank_pc": 82805,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-16T09:01:46.000Z",
+    "rank_hs": 141544,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-08-16T07:47:41.000Z",
+    "created_at": "2022-09-17T19:38:45.000Z",
+    "updated_at": "2022-09-17T19:38:46.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10636,
+          "user_id": 20961789,
+          "cloneof_id": null,
+          "string_id": "sun_set_v1",
+          "title": "World Tree🌳",
+          "description": "Experimental. This is Aileen's first map. Enjoy.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-08-14T07:58:07.000Z",
+          "updated_at": "2022-08-14T07:58:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20961789,
+            "username": "Aileen-Elf",
+            "description": "Oh! Have I killed you?? Oops! Sowwy😖!! Mainly I didn't  expect this because, well, I'm not good at killing. Surprising, eh? But anyway, have another happy, more fortunate life😇! ",
+            "about": "So... Idk., lol. Have a good day, I guess.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-13T09:02:56.000Z",
+            "date_last_played": "2022-09-17T19:38:46.000Z",
+            "kill_count": 7,
+            "play_count": 67,
+            "highest_score": 398157,
+            "picture": "20961789-b106f41a5848aca53247e1887104e78afe.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3,
+            "tier": 1,
+            "xp": 1050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Fuck Stupid Heck"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:51:00.976Z"
+}
