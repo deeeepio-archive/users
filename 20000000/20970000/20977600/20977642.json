@@ -1,0 +1,91 @@
+{
+  "id": 20977642,
+  "username": "Markzt",
+  "description": "Don't Trust Unnamed Player",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-11T01:24:50.000Z",
+  "date_last_played": "2023-02-07T03:33:58.000Z",
+  "profile_views": 40,
+  "kill_count": 1007,
+  "play_count": 631,
+  "highest_score": 3202258,
+  "picture": "20977642-1f922ac5c9eed10db18f3854256f6f74d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 199,
+  "tier": 4,
+  "xp": 152700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8999,
+      "user_id": 20977642,
+      "platform_id": "dc",
+      "platform_user_id": "MarkCaleng#7983",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-04T04:53:54.000Z",
+      "updated_at": "2022-12-27T02:44:04.000Z"
+    },
+    {
+      "id": 9001,
+      "user_id": 20977642,
+      "platform_id": "rd",
+      "platform_user_id": "Mark_John123",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-04T04:54:59.000Z",
+      "updated_at": "2022-11-04T04:55:28.000Z"
+    },
+    {
+      "id": 9002,
+      "user_id": 20977642,
+      "platform_id": "tw",
+      "platform_user_id": "KrunkerMarkzt",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-04T04:56:20.000Z",
+      "updated_at": "2022-11-04T04:56:39.000Z"
+    },
+    {
+      "id": 9000,
+      "user_id": 20977642,
+      "platform_id": "yt",
+      "platform_user_id": "NOTMarkzt",
+      "platform_user_url": "https://www.youtube.com/channel/UCp6xX0xNa8b2a_XQFJjBAYQ",
+      "verified": false,
+      "created_at": "2022-11-04T04:54:19.000Z",
+      "updated_at": "2022-11-04T04:54:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20977642,
+    "rank_kc": 38895,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-29T06:08:45.000Z",
+    "rank_pc": 23118,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-29T06:08:46.000Z",
+    "rank_hs": 38078,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-29T06:08:47.000Z",
+    "created_at": "2023-02-07T03:33:57.000Z",
+    "updated_at": "2023-02-07T03:33:58.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:32:03.291Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 20977577,
+  "username": "Frits",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-10T19:15:46.000Z",
+  "date_last_played": "2022-10-11T18:13:28.000Z",
+  "profile_views": 3,
+  "kill_count": 4,
+  "play_count": 4,
+  "highest_score": 102124,
+  "picture": "20977577-12d441074e9d279141e2e10498a3ac3494.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20977577,
+    "rank_kc": 278783,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-11T18:44:53.000Z",
+    "rank_pc": 212521,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-11T18:44:56.000Z",
+    "rank_hs": 268513,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-11T18:44:57.000Z",
+    "created_at": "2023-04-02T14:01:46.000Z",
+    "updated_at": "2022-10-23T14:00:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:31:55.299Z"
+}
