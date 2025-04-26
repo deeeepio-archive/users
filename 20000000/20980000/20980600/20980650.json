@@ -1,0 +1,61 @@
+{
+  "id": 20980650,
+  "username": "sacred™",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-23T03:17:10.000Z",
+  "date_last_played": "2024-09-21T23:51:32.000Z",
+  "profile_views": 51,
+  "kill_count": 58,
+  "play_count": 42,
+  "highest_score": 230154,
+  "picture": "20980650-25da6891ece99671693566547e5813ce.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 3900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8426,
+      "user_id": 20980650,
+      "platform_id": "dc",
+      "platform_user_id": "skunt™#3309",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-23T03:28:59.000Z",
+      "updated_at": "2022-10-23T03:28:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20980650,
+    "rank_kc": 157184,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-26T23:19:08.000Z",
+    "rank_pc": 115770,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-26T23:19:10.000Z",
+    "rank_hs": 199310,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-26T18:39:12.000Z",
+    "created_at": "2024-09-21T23:51:31.000Z",
+    "updated_at": "2024-09-21T23:51:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:49:55.339Z"
+}
