@@ -1,0 +1,97 @@
+{
+  "id": 20957312,
+  "username": "CorgiCookie",
+  "description": "I could say that i'm sorry, but that wouldn't mean anything because killing you benefits me...\n\nSo, thanks I guess.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-25T00:20:20.000Z",
+  "date_last_played": "2024-09-13T01:12:15.000Z",
+  "profile_views": 10,
+  "kill_count": 10,
+  "play_count": 43,
+  "highest_score": 284889,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 36,
+  "tier": 1,
+  "xp": 3150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20957312,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-09-13T01:12:14.000Z",
+    "updated_at": "2024-09-13T01:12:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 15545,
+          "user_id": 20957312,
+          "cloneof_id": null,
+          "string_id": "househousehouse",
+          "title": "The House",
+          "description": "A house :)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 2,
+          "created_at": "2024-01-28T15:40:11.000Z",
+          "updated_at": "2024-01-28T15:49:25.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20957312,
+            "username": "CorgiCookie",
+            "description": "I could say that i'm sorry, but that wouldn't mean anything because killing you benefits me...\n\nSo, thanks I guess.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-25T00:20:20.000Z",
+            "date_last_played": "2024-09-13T01:12:15.000Z",
+            "kill_count": 10,
+            "play_count": 43,
+            "highest_score": 284889,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 36,
+            "tier": 1,
+            "xp": 3150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#Home"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:24:08.249Z"
+}
