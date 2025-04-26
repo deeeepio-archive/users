@@ -1,0 +1,61 @@
+{
+  "id": 20948059,
+  "username": "Polypi",
+  "description": "Welcome to heaven, or hell it depends.\n\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-18T11:52:15.000Z",
+  "date_last_played": "2024-04-17T11:27:29.000Z",
+  "profile_views": 63,
+  "kill_count": 200,
+  "play_count": 209,
+  "highest_score": 1404621,
+  "picture": "20948059-fdb7ff68ca0184492366aa042446f138.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 102,
+  "tier": 2,
+  "xp": 36300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21291,
+      "user_id": 20948059,
+      "platform_id": "dc",
+      "platform_user_id": "the._.kraken",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-19T18:24:15.000Z",
+      "updated_at": "2023-06-19T18:24:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20948059,
+    "rank_kc": 75559,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-24T06:01:14.000Z",
+    "rank_pc": 46515,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-24T06:01:14.000Z",
+    "rank_hs": 61035,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-24T06:01:15.000Z",
+    "created_at": "2024-04-17T11:27:29.000Z",
+    "updated_at": "2024-04-17T11:27:29.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:30:01.833Z"
+}
