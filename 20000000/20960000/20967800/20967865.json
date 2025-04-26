@@ -1,0 +1,71 @@
+{
+  "id": 20967865,
+  "username": "Cucible",
+  "description": "Imagine teaming ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-04T17:38:13.000Z",
+  "date_last_played": "2022-09-04T20:10:27.000Z",
+  "profile_views": 4,
+  "kill_count": 14,
+  "play_count": 24,
+  "highest_score": 351747,
+  "picture": "20967865-f101f445f6b67e90d80e75c5ddad579a7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 17,
+  "tier": 1,
+  "xp": 1050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 6133,
+      "user_id": 20967865,
+      "platform_id": "dc",
+      "platform_user_id": "Cucible#8820",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-04T17:39:05.000Z",
+      "updated_at": "2022-09-04T17:39:05.000Z"
+    },
+    {
+      "id": 6134,
+      "user_id": 20967865,
+      "platform_id": "yt",
+      "platform_user_id": "Cucible",
+      "platform_user_url": "https://www.youtube.com/channel/UCBzfGWNMaatcgFMStU__dZA",
+      "verified": false,
+      "created_at": "2022-09-04T17:39:31.000Z",
+      "updated_at": "2022-09-04T17:39:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20967865,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T14:26:16.249Z",
+    "updated_at": "2025-04-26T14:26:16.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:26:16.336Z"
+}
