@@ -1,0 +1,104 @@
+{
+  "id": 20977102,
+  "username": "Dumpl1i1ng",
+  "description": "Get Dumpling'ed\nhttps://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-08T14:17:06.000Z",
+  "date_last_played": "2025-04-25T09:11:39.000Z",
+  "profile_views": 254,
+  "kill_count": 709,
+  "play_count": 1420,
+  "highest_score": 2021508,
+  "picture": "20977102-2af570f38375c840e9c6941c6c87ebb3-ff99c6ab-f696-43c5-874c-d5b09f3a5bd8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 89,
+  "tier": 4,
+  "xp": 198150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20977102,
+    "rank_kc": 39139,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-26T16:26:14.000Z",
+    "rank_pc": 10295,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-26T16:26:16.000Z",
+    "rank_hs": 39687,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-26T16:26:17.000Z",
+    "created_at": "2025-04-25T09:11:38.000Z",
+    "updated_at": "2025-04-25T09:11:39.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11090,
+          "user_id": 20977102,
+          "cloneof_id": null,
+          "string_id": "small_reef",
+          "title": "small reef",
+          "description": "rstrtsghybthgdfhy",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 25,
+          "created_at": "2022-10-11T14:48:48.000Z",
+          "updated_at": "2022-10-12T11:19:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20977102,
+            "username": "Dumpl1i1ng",
+            "description": "Get Dumpling'ed\nhttps://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-10-08T14:17:06.000Z",
+            "date_last_played": "2025-04-25T09:11:39.000Z",
+            "kill_count": 709,
+            "play_count": 1420,
+            "highest_score": 2021508,
+            "picture": "20977102-2af570f38375c840e9c6941c6c87ebb3-ff99c6ab-f696-43c5-874c-d5b09f3a5bd8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 89,
+            "tier": 4,
+            "xp": 198150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "reef"
+            },
+            {
+              "id": "test "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:29:14.608Z"
+}

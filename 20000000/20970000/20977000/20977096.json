@@ -1,0 +1,97 @@
+{
+  "id": 20977096,
+  "username": "Foxyhanky",
+  "description": "не грусти потому что, есть игра: Сынок в бочке А4 бравл старс хагги ваги раскрашивать бесплатно без СМС и регистрации.",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-08T13:47:14.000Z",
+  "date_last_played": "2023-07-24T19:32:30.000Z",
+  "profile_views": 20,
+  "kill_count": 8,
+  "play_count": 51,
+  "highest_score": 478875,
+  "picture": "20977096-2817e2dbf952a5c21269cb3e3df6a318.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18,
+  "tier": 1,
+  "xp": 4200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20977096,
+    "rank_kc": 266608,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-07-24T16:48:30.000Z",
+    "rank_pc": 101105,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-07-25T16:45:49.000Z",
+    "rank_hs": 151931,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-25T16:45:50.000Z",
+    "created_at": "2023-07-25T16:45:50.000Z",
+    "updated_at": "2023-07-25T16:45:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12606,
+          "user_id": 20977096,
+          "cloneof_id": 47,
+          "string_id": "negovno",
+          "title": "negovno",
+          "description": "nogovno",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 19,
+          "created_at": "2023-07-24T17:49:17.000Z",
+          "updated_at": "2023-07-24T17:49:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20977096,
+            "username": "Foxyhanky",
+            "description": "не грусти потому что, есть игра: Сынок в бочке А4 бравл старс хагги ваги раскрашивать бесплатно без СМС и регистрации.",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-10-08T13:47:14.000Z",
+            "date_last_played": "2023-07-24T19:32:30.000Z",
+            "kill_count": 8,
+            "play_count": 51,
+            "highest_score": 478875,
+            "picture": "20977096-2817e2dbf952a5c21269cb3e3df6a318.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18,
+            "tier": 1,
+            "xp": 4200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "negovno"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:29:13.895Z"
+}
