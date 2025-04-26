@@ -1,0 +1,100 @@
+{
+  "id": 20967038,
+  "username": "cheezitthefuzz",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-01T23:25:04.000Z",
+  "date_last_played": "2022-09-09T02:19:47.000Z",
+  "profile_views": 3,
+  "kill_count": 1,
+  "play_count": 100,
+  "highest_score": 137095,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20967038,
+    "rank_kc": 335435,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-09-09T01:26:20.000Z",
+    "rank_pc": 59580,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-09T01:26:21.000Z",
+    "rank_hs": 236373,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-09-09T01:05:43.000Z",
+    "created_at": "2022-09-09T02:19:46.000Z",
+    "updated_at": "2022-09-09T02:19:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10867,
+          "user_id": 20967038,
+          "cloneof_id": null,
+          "string_id": "mappy_map",
+          "title": "mappy map",
+          "description": "mappy map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 12,
+          "created_at": "2022-09-09T01:46:58.000Z",
+          "updated_at": "2022-09-09T02:21:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20967038,
+            "username": "cheezitthefuzz",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-09-01T23:25:04.000Z",
+            "date_last_played": "2022-09-09T02:19:47.000Z",
+            "kill_count": 1,
+            "play_count": 100,
+            "highest_score": 137095,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "map"
+            },
+            {
+              "id": "mappy"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:20:34.402Z"
+}
