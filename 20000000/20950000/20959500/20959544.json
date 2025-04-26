@@ -1,0 +1,97 @@
+{
+  "id": 20959544,
+  "username": "WhenDidIAsk",
+  "description": "You prob want to see some anime cute girl pic rn......too bad, blob does his own thing ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-04T00:42:49.000Z",
+  "date_last_played": "2024-08-08T03:24:03.000Z",
+  "profile_views": 50,
+  "kill_count": 992,
+  "play_count": 628,
+  "highest_score": 1884325,
+  "picture": "20959544-eda719d42f56121ad63c61973b27d7b2-cf431a9f-5ba6-4cfd-adf2-1f4527b65c0c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 81,
+  "tier": 4,
+  "xp": 183000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20959544,
+    "rank_kc": 27979,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-13T23:51:51.000Z",
+    "rank_pc": 20027,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-13T23:51:52.000Z",
+    "rank_hs": 35848,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-13T23:51:53.000Z",
+    "created_at": "2024-08-08T06:00:03.000Z",
+    "updated_at": "2024-08-08T06:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11158,
+          "user_id": 20959544,
+          "cloneof_id": null,
+          "string_id": "pvp_1246",
+          "title": "Baaattle Area",
+          "description": "Like PvP? Join",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 9,
+          "created_at": "2022-10-26T03:46:00.000Z",
+          "updated_at": "2022-10-26T03:46:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959544,
+            "username": "WhenDidIAsk",
+            "description": "You prob want to see some anime cute girl pic rn......too bad, blob does his own thing ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-04T00:42:49.000Z",
+            "date_last_played": "2024-08-08T03:24:03.000Z",
+            "kill_count": 992,
+            "play_count": 628,
+            "highest_score": 1884325,
+            "picture": "20959544-eda719d42f56121ad63c61973b27d7b2-cf431a9f-5ba6-4cfd-adf2-1f4527b65c0c.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 81,
+            "tier": 4,
+            "xp": 183000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "PvP"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:37:03.071Z"
+}
