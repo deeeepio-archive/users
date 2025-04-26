@@ -1,0 +1,75 @@
+{
+  "id": 20973201,
+  "username": "dimelosisi",
+  "description": "muerto cabron\njajajaja\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-23T02:11:02.000Z",
+  "date_last_played": "2025-04-03T21:35:28.000Z",
+  "profile_views": 43,
+  "kill_count": 376,
+  "play_count": 565,
+  "highest_score": 1587719,
+  "picture": "20973201-89be10440443cbd9acd47d524f873dac4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 143,
+  "tier": 3,
+  "xp": 82950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7910,
+      "user_id": 20973201,
+      "platform_id": "fb",
+      "platform_user_id": "https://www.facebook.com/profile.php?id=100077307564288",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=100077307564288",
+      "verified": false,
+      "created_at": "2022-10-10T00:12:16.000Z",
+      "updated_at": "2022-10-10T00:12:16.000Z"
+    },
+    {
+      "id": 7912,
+      "user_id": 20973201,
+      "platform_id": "yt",
+      "platform_user_id": "https://www.youtube.com/channel/UCtElCi6QQ581l6mPJ2O4fmg",
+      "platform_user_url": "https://www.youtube.com/channel/UCtElCi6QQ581l6mPJ2O4fmg",
+      "verified": false,
+      "created_at": "2022-10-10T00:13:18.000Z",
+      "updated_at": "2022-10-10T00:13:18.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20973201,
+    "rank_kc": 77395,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-15T02:00:36.000Z",
+    "rank_pc": 27282,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-15T02:00:37.000Z",
+    "rank_hs": 54141,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-15T02:00:38.000Z",
+    "created_at": "2025-04-03T21:35:27.000Z",
+    "updated_at": "2025-04-03T21:35:28.000Z",
+    "pd": {
+      "played": 6,
+      "won": 3,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:04:04.981Z"
+}
