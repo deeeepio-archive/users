@@ -1,0 +1,81 @@
+{
+  "id": 20985370,
+  "username": "Breezable",
+  "description": "Subscribe to my YouTube channel: Breezable",
+  "about": "Subscribe to my YouTube channel for awesome content!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-09T01:27:15.000Z",
+  "date_last_played": "2022-12-13T01:22:36.000Z",
+  "profile_views": 12,
+  "kill_count": 69,
+  "play_count": 190,
+  "highest_score": 1144765,
+  "picture": "20985370-bc3598df4fd514104a030402b8bf6b805.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 176,
+  "tier": 1,
+  "xp": 24900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9297,
+      "user_id": 20985370,
+      "platform_id": "ig",
+      "platform_user_id": "itsbreezable",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-09T01:30:42.000Z",
+      "updated_at": "2022-11-09T01:30:42.000Z"
+    },
+    {
+      "id": 9298,
+      "user_id": 20985370,
+      "platform_id": "tc",
+      "platform_user_id": "ItsBreezable",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-09T01:31:48.000Z",
+      "updated_at": "2022-11-09T01:31:48.000Z"
+    },
+    {
+      "id": 9296,
+      "user_id": 20985370,
+      "platform_id": "yt",
+      "platform_user_id": "Breezable",
+      "platform_user_url": "https://www.youtube.com/c/Breezable",
+      "verified": false,
+      "created_at": "2022-11-09T01:29:54.000Z",
+      "updated_at": "2022-11-09T01:31:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20985370,
+    "rank_kc": 119183,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-02T00:03:39.000Z",
+    "rank_pc": 42688,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-02T00:03:44.000Z",
+    "rank_hs": 68007,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-02T00:03:50.000Z",
+    "created_at": "2023-04-22T19:41:46.000Z",
+    "updated_at": "2022-12-13T01:22:36.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:18:09.236Z"
+}

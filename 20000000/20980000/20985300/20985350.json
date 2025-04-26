@@ -1,0 +1,50 @@
+{
+  "id": 20985350,
+  "username": "fink",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-08T23:53:38.000Z",
+  "date_last_played": "2023-11-10T02:37:11.000Z",
+  "profile_views": 3,
+  "kill_count": 5,
+  "play_count": 29,
+  "highest_score": 192110,
+  "picture": "20985350-acc9258c52dbfbe5e1332b02a102f63a7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20985350,
+    "rank_kc": 445738,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-10T01:44:34.000Z",
+    "rank_pc": 365511,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-10T01:44:37.000Z",
+    "rank_hs": 595142,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-10T01:44:42.000Z",
+    "created_at": "2023-11-10T02:37:11.000Z",
+    "updated_at": "2023-11-10T02:37:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:18:06.320Z"
+}
