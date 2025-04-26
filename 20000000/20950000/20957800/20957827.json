@@ -1,0 +1,108 @@
+{
+  "id": 20957827,
+  "username": "Nuro_vn",
+  "description": "no name",
+  "about": "me nub",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-27T02:27:16.000Z",
+  "date_last_played": "2024-09-11T07:13:23.000Z",
+  "profile_views": 971,
+  "kill_count": 3379,
+  "play_count": 1189,
+  "highest_score": 2643632,
+  "picture": "20957827-0a4cc2871f108870523758e510ff098442.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 142,
+  "tier": 6,
+  "xp": 516900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5729,
+      "user_id": 20957827,
+      "platform_id": "dc",
+      "platform_user_id": "༺༃骑༒huynh༒骑༃༻",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-28T01:37:55.000Z",
+      "updated_at": "2023-03-02T10:22:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20957827,
+    "rank_kc": 9337,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-08T14:35:35.000Z",
+    "rank_pc": 11060,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-08T14:35:35.000Z",
+    "rank_hs": 25473,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-08T14:35:37.000Z",
+    "created_at": "2024-09-11T07:19:41.000Z",
+    "updated_at": "2024-09-11T07:19:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10609,
+          "user_id": 20957827,
+          "cloneof_id": null,
+          "string_id": "0987654321",
+          "title": "Untitled",
+          "description": "phidepzai002",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-08-11T11:01:47.000Z",
+          "updated_at": "2022-08-11T11:01:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20957827,
+            "username": "Nuro_vn",
+            "description": "no name",
+            "about": "me nub",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-27T02:27:16.000Z",
+            "date_last_played": "2024-09-11T07:13:23.000Z",
+            "kill_count": 3379,
+            "play_count": 1189,
+            "highest_score": 2643632,
+            "picture": "20957827-0a4cc2871f108870523758e510ff098442.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 142,
+            "tier": 6,
+            "xp": 516900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "phidepzai002"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:26:33.402Z"
+}
