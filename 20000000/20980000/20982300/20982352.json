@@ -1,0 +1,61 @@
+{
+  "id": 20982352,
+  "username": "mehdi32",
+  "description": "E",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-29T09:54:39.000Z",
+  "date_last_played": "2025-03-25T09:51:24.000Z",
+  "profile_views": 201,
+  "kill_count": 4910,
+  "play_count": 2330,
+  "highest_score": 3368761,
+  "picture": "20982352-ebeb0e8edbb7a02cc377349e0c8dec25.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 192,
+  "tier": 9,
+  "xp": 964950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101423,
+      "user_id": 20982352,
+      "platform_id": "ig",
+      "platform_user_id": "vvehdi",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-25T12:01:20.000Z",
+      "updated_at": "2024-12-25T12:01:20.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20982352,
+    "rank_kc": 6175,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-04T19:10:38.000Z",
+    "rank_pc": 4580,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-04T19:10:41.000Z",
+    "rank_hs": 17440,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-04T19:10:43.000Z",
+    "created_at": "2025-03-25T09:51:23.000Z",
+    "updated_at": "2025-03-25T09:51:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:01:26.129Z"
+}
