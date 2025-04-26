@@ -1,0 +1,61 @@
+{
+  "id": 20954014,
+  "username": "taha123",
+  "description": "لقد لعبت بامتياز ",
+  "about": "احب هذه اللعبة",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-10T15:25:14.000Z",
+  "date_last_played": "2022-08-30T12:41:15.000Z",
+  "profile_views": 107,
+  "kill_count": 273,
+  "play_count": 336,
+  "highest_score": 1350132,
+  "picture": "20954014-fd59a1dfd81656435c6a36b5c2d39d55.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 299,
+  "tier": 2,
+  "xp": 66150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3615,
+      "user_id": 20954014,
+      "platform_id": "tw",
+      "platform_user_id": "طه شراك",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-11T20:30:04.000Z",
+      "updated_at": "2022-07-11T20:30:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20954014,
+    "rank_kc": 64039,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-11-12T19:31:13.000Z",
+    "rank_pc": 33610,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-12T19:31:18.000Z",
+    "rank_hs": 67114,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-12T19:31:20.000Z",
+    "created_at": "2023-11-29T02:25:45.000Z",
+    "updated_at": "2023-11-12T19:31:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:04:57.433Z"
+}
