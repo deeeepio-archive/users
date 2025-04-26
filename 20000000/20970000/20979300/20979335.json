@@ -1,0 +1,50 @@
+{
+  "id": 20979335,
+  "username": "Majociak",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-17T21:00:33.000Z",
+  "date_last_played": "2022-10-24T16:13:40.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 12,
+  "highest_score": 68075,
+  "picture": "20979335-a9568435cdb21d284acdc3a371a27b97.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20979335,
+    "rank_kc": 383340,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-10-17T21:02:00.000Z",
+    "rank_pc": 281554,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-17T21:02:01.000Z",
+    "rank_hs": 513858,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-17T21:02:01.000Z",
+    "created_at": "2022-10-24T16:13:39.000Z",
+    "updated_at": "2022-10-24T16:13:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:41:23.805Z"
+}
