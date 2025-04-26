@@ -1,0 +1,61 @@
+{
+  "id": 20968918,
+  "username": "dondo",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-08T08:04:50.000Z",
+  "date_last_played": "2022-12-26T03:12:26.000Z",
+  "profile_views": 69,
+  "kill_count": 824,
+  "play_count": 422,
+  "highest_score": 4068473,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 326,
+  "tier": 4,
+  "xp": 181350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7048,
+      "user_id": 20968918,
+      "platform_id": "dc",
+      "platform_user_id": "야스",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-20T01:06:19.000Z",
+      "updated_at": "2022-09-20T01:06:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20968918,
+    "rank_kc": 31382,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-08T03:12:20.000Z",
+    "rank_pc": 23533,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-08T03:12:23.000Z",
+    "rank_hs": 9872,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-08T03:12:26.000Z",
+    "created_at": "2023-04-21T21:40:07.000Z",
+    "updated_at": "2022-12-26T03:12:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:32:17.243Z"
+}
