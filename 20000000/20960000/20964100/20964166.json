@@ -1,0 +1,61 @@
+{
+  "id": 20964166,
+  "username": "Beargaming123",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-22T08:30:47.000Z",
+  "date_last_played": "2023-08-22T10:55:40.000Z",
+  "profile_views": 47,
+  "kill_count": 30,
+  "play_count": 39,
+  "highest_score": 182516,
+  "picture": "20964166-610a2c3109eb456f692382607351335d99.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 8100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 24644,
+      "user_id": 20964166,
+      "platform_id": "yt",
+      "platform_user_id": "hehe boy",
+      "platform_user_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "verified": false,
+      "created_at": "2023-08-15T02:27:22.000Z",
+      "updated_at": "2023-08-15T02:27:22.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20964166,
+    "rank_kc": 176745,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-09-28T13:45:25.000Z",
+    "rank_pc": 119966,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-28T13:45:28.000Z",
+    "rank_hs": 257437,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-28T13:45:31.000Z",
+    "created_at": "2023-10-19T14:17:45.000Z",
+    "updated_at": "2023-09-28T13:45:31.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:04:13.724Z"
+}
