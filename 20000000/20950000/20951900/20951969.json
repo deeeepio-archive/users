@@ -1,0 +1,61 @@
+{
+  "id": 20951969,
+  "username": "strzałka",
+  "description": "Hej, przepraszam że cię zabiłam",
+  "about": "Jestem z Łódź, Polska",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-01T17:30:04.000Z",
+  "date_last_played": "2022-07-24T23:45:06.000Z",
+  "profile_views": 31,
+  "kill_count": 66,
+  "play_count": 66,
+  "highest_score": 624036,
+  "picture": "20951969-ba791092bc11010f1021e346359f36937de3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 171,
+  "tier": 1,
+  "xp": 13500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3209,
+      "user_id": 20951969,
+      "platform_id": "dc",
+      "platform_user_id": "Szymon#2981",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-01T22:16:44.000Z",
+      "updated_at": "2022-07-01T22:16:44.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20951969,
+    "rank_kc": 108223,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-11T22:49:40.000Z",
+    "rank_pc": 65339,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-11T22:49:41.000Z",
+    "rank_hs": 104087,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-11T22:49:41.000Z",
+    "created_at": "2022-12-22T23:04:18.000Z",
+    "updated_at": "2022-07-24T23:45:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:53:10.394Z"
+}
