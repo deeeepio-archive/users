@@ -1,0 +1,108 @@
+{
+  "id": 20952626,
+  "username": "pro0O0o",
+  "description": "The bird killed you, Not me 😁.",
+  "about": "Went to Amsterdam, ordered some french fries. A bird came to me to say 'hi'. I didn't pay attention, and my fries were eaten.\n\nalts: \n - <RED>sad<BLU>ghost: i will kill anyone on this account(sorry \n    :/, but i want kills)\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-04T15:29:17.000Z",
+  "date_last_played": "2025-01-26T16:30:33.000Z",
+  "profile_views": 304,
+  "kill_count": 1846,
+  "play_count": 700,
+  "highest_score": 2214017,
+  "picture": "20952626-02d27dbd0bf18de5724944ea84f1a666.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 5,
+  "xp": 250800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15050,
+      "user_id": 20952626,
+      "platform_id": "dc",
+      "platform_user_id": "jomama#912",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-14T16:42:56.000Z",
+      "updated_at": "2023-02-14T16:42:56.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20952626,
+    "rank_kc": 17682,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-09T09:30:45.000Z",
+    "rank_pc": 20275,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-09T09:30:47.000Z",
+    "rank_hs": 34656,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-09T08:30:35.000Z",
+    "created_at": "2025-01-26T16:30:32.000Z",
+    "updated_at": "2025-01-26T16:30:33.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11815,
+          "user_id": 20952626,
+          "cloneof_id": null,
+          "string_id": "test123123",
+          "title": "test",
+          "description": "test",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 45,
+          "created_at": "2023-02-25T13:10:48.000Z",
+          "updated_at": "2023-04-30T06:48:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20952626,
+            "username": "pro0O0o",
+            "description": "The bird killed you, Not me 😁.",
+            "about": "Went to Amsterdam, ordered some french fries. A bird came to me to say 'hi'. I didn't pay attention, and my fries were eaten.\n\nalts: \n - <RED>sad<BLU>ghost: i will kill anyone on this account(sorry \n    :/, but i want kills)\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-04T15:29:17.000Z",
+            "date_last_played": "2025-01-26T16:30:33.000Z",
+            "kill_count": 1846,
+            "play_count": 700,
+            "highest_score": 2214017,
+            "picture": "20952626-02d27dbd0bf18de5724944ea84f1a666.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 19,
+            "tier": 5,
+            "xp": 250800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "test"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:56:54.514Z"
+}
