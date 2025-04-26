@@ -1,0 +1,61 @@
+{
+  "id": 20965231,
+  "username": "kravitz",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-26T08:26:10.000Z",
+  "date_last_played": "2022-08-26T08:33:47.000Z",
+  "profile_views": 1,
+  "kill_count": 0,
+  "play_count": 5,
+  "highest_score": 16955,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5647,
+      "user_id": 20965231,
+      "platform_id": "ig",
+      "platform_user_id": "https://www.instagram.com/rrcalere/?hl=ru",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-26T08:27:01.000Z",
+      "updated_at": "2022-08-26T08:27:01.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20965231,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T14:10:36.275Z",
+    "updated_at": "2025-04-26T14:10:36.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:10:36.333Z"
+}
