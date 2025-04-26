@@ -1,0 +1,100 @@
+{
+  "id": 20954507,
+  "username": "vv131012",
+  "description": "i was a god no more 126 kills in taming",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-13T01:05:21.000Z",
+  "date_last_played": "2024-07-04T01:28:35.000Z",
+  "profile_views": 69,
+  "kill_count": 422,
+  "play_count": 387,
+  "highest_score": 1198007,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 302,
+  "tier": 2,
+  "xp": 54600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20954507,
+    "rank_kc": 42364,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-15T15:02:08.000Z",
+    "rank_pc": 22985,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-15T15:02:09.000Z",
+    "rank_hs": 61954,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-14T17:53:11.000Z",
+    "created_at": "2024-07-04T01:28:34.000Z",
+    "updated_at": "2024-07-04T01:28:35.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11969,
+          "user_id": 20954507,
+          "cloneof_id": null,
+          "string_id": "my_land_of_land",
+          "title": "land land",
+          "description": "it have land thats op",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 36,
+          "created_at": "2023-04-03T16:42:21.000Z",
+          "updated_at": "2023-04-03T18:43:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20954507,
+            "username": "vv131012",
+            "description": "i was a god no more 126 kills in taming",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-13T01:05:21.000Z",
+            "date_last_played": "2024-07-04T01:28:35.000Z",
+            "kill_count": 422,
+            "play_count": 387,
+            "highest_score": 1198007,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 302,
+            "tier": 2,
+            "xp": 54600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "coconut"
+            },
+            {
+              "id": "land"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:07:47.682Z"
+}
