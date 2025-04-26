@@ -1,0 +1,61 @@
+{
+  "id": 20974260,
+  "username": "KENTOS",
+  "description": " Ботик",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-27T12:35:39.000Z",
+  "date_last_played": "2023-07-02T18:33:40.000Z",
+  "profile_views": 11,
+  "kill_count": 0,
+  "play_count": 10,
+  "highest_score": 67420,
+  "picture": "20974260-62110a522c8efc97637810d3cfd7410cb34.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7380,
+      "user_id": 20974260,
+      "platform_id": "dc",
+      "platform_user_id": "k1ent0xz1k",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-27T12:36:42.000Z",
+      "updated_at": "2023-07-02T18:36:26.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20974260,
+    "rank_kc": 427592,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-02T18:23:43.000Z",
+    "rank_pc": 261711,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-02T18:23:44.000Z",
+    "rank_hs": 355219,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-02T18:23:45.000Z",
+    "created_at": "2023-07-02T18:33:40.000Z",
+    "updated_at": "2023-07-02T18:33:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:10:53.050Z"
+}
