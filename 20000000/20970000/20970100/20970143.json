@@ -1,0 +1,61 @@
+{
+  "id": 20970143,
+  "username": "ViciB",
+  "description": "We win some, we loose some. Chill... :)",
+  "about": "I am the B.\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-12T12:40:14.000Z",
+  "date_last_played": "2022-11-21T15:53:11.000Z",
+  "profile_views": 30,
+  "kill_count": 46,
+  "play_count": 155,
+  "highest_score": 505195,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 59,
+  "tier": 1,
+  "xp": 7350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8943,
+      "user_id": 20970143,
+      "platform_id": "dc",
+      "platform_user_id": "Next War24#7717",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-02T12:54:25.000Z",
+      "updated_at": "2022-11-02T12:54:25.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20970143,
+    "rank_kc": 137303,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-04T12:53:26.000Z",
+    "rank_pc": 49145,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-04T12:53:29.000Z",
+    "rank_hs": 128433,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-11-04T12:53:34.000Z",
+    "created_at": "2022-11-21T15:53:10.000Z",
+    "updated_at": "2022-11-21T15:53:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:40:22.520Z"
+}

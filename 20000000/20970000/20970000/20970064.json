@@ -1,0 +1,61 @@
+{
+  "id": 20970064,
+  "username": "Zorb",
+  "description": "You appear to be dead",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-12T04:08:22.000Z",
+  "date_last_played": "2025-01-12T05:53:32.000Z",
+  "profile_views": 29,
+  "kill_count": 345,
+  "play_count": 357,
+  "highest_score": 4623475,
+  "picture": "20970064-f9eb62b63458bb10aafd8490526d4ab1f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 499,
+  "tier": 3,
+  "xp": 132600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14459,
+      "user_id": 20970064,
+      "platform_id": "ig",
+      "platform_user_id": "Koilllll",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-04T20:39:37.000Z",
+      "updated_at": "2023-02-04T20:39:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20970064,
+    "rank_kc": 57679,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-19T06:05:21.000Z",
+    "rank_pc": 31212,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-19T06:05:23.000Z",
+    "rank_hs": 23286,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-19T06:05:24.000Z",
+    "created_at": "2025-01-12T05:53:32.000Z",
+    "updated_at": "2025-01-12T05:53:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:40:10.242Z"
+}
