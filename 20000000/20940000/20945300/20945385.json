@@ -1,0 +1,61 @@
+{
+  "id": 20945385,
+  "username": "呆喬",
+  "description": "你真爛👎👎👎👎😹😹",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-10T04:12:32.000Z",
+  "date_last_played": "2022-11-28T10:19:42.000Z",
+  "profile_views": 142,
+  "kill_count": 149,
+  "play_count": 78,
+  "highest_score": 179945,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 123,
+  "tier": 1,
+  "xp": 18150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5586,
+      "user_id": 20945385,
+      "platform_id": "dc",
+      "platform_user_id": "ig",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-25T08:14:01.000Z",
+      "updated_at": "2022-08-25T08:14:01.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20945385,
+    "rank_kc": 143256,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-30T03:51:56.000Z",
+    "rank_pc": 87703,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-30T03:51:56.000Z",
+    "rank_hs": 206938,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-07-30T03:51:56.000Z",
+    "created_at": "2022-12-03T08:17:14.000Z",
+    "updated_at": "2022-12-03T08:17:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:12:09.664Z"
+}
