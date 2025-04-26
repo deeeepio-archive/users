@@ -1,0 +1,81 @@
+{
+  "id": 20956241,
+  "username": "栓Q",
+  "description": "真的栓Q",
+  "about": "我是栓Q，中國人\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-20T10:23:26.000Z",
+  "date_last_played": "2023-10-23T08:59:41.000Z",
+  "profile_views": 380,
+  "kill_count": 802,
+  "play_count": 1105,
+  "highest_score": 1864680,
+  "picture": "20956241-10bd10105fdb9c9ccb6c49ec69503cd29b5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 139,
+  "tier": 4,
+  "xp": 169650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15854,
+      "user_id": 20956241,
+      "platform_id": "dc",
+      "platform_user_id": "moomoo.io",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-05T11:14:58.000Z",
+      "updated_at": "2023-03-05T11:14:58.000Z"
+    },
+    {
+      "id": 15853,
+      "user_id": 20956241,
+      "platform_id": "dc",
+      "platform_user_id": "ninja.io",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-05T11:14:47.000Z",
+      "updated_at": "2023-03-05T11:14:47.000Z"
+    },
+    {
+      "id": 11515,
+      "user_id": 20956241,
+      "platform_id": "dc",
+      "platform_user_id": "surviv.io",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-19T10:15:27.000Z",
+      "updated_at": "2022-12-19T10:15:27.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20956241,
+    "rank_kc": 32132,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-11-01T20:28:30.000Z",
+    "rank_pc": 11513,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-01T20:28:33.000Z",
+    "rank_hs": 44449,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-01T20:28:37.000Z",
+    "created_at": "2024-01-15T17:41:05.000Z",
+    "updated_at": "2023-11-01T20:28:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:18:00.157Z"
+}
