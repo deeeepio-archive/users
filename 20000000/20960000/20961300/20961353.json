@@ -1,0 +1,61 @@
+{
+  "id": 20961353,
+  "username": "Mrforza6000YT",
+  "description": null,
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-11T16:36:32.000Z",
+  "date_last_played": "2022-08-16T23:58:37.000Z",
+  "profile_views": 2,
+  "kill_count": 11,
+  "play_count": 10,
+  "highest_score": 380583,
+  "picture": "20961353-bf7df61662321875a41ccd9a23f6be3c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 34,
+  "tier": 1,
+  "xp": 2250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4884,
+      "user_id": 20961353,
+      "platform_id": "yt",
+      "platform_user_id": "Mrforza6000",
+      "platform_user_url": "https://www.youtube.com/channel/UCSmvAGbLixpC-K1R1YXfIRg",
+      "verified": false,
+      "created_at": "2022-08-11T16:40:45.000Z",
+      "updated_at": "2022-08-11T16:40:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20961353,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T13:48:07.541Z",
+    "updated_at": "2025-04-26T13:48:08.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:48:07.599Z"
+}

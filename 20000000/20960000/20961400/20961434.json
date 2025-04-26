@@ -1,0 +1,97 @@
+{
+  "id": 20961434,
+  "username": "yeyeye",
+  "description": "Soz bro u yummy tho",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-11T22:42:40.000Z",
+  "date_last_played": "2024-02-26T01:53:38.000Z",
+  "profile_views": 23,
+  "kill_count": 73,
+  "play_count": 212,
+  "highest_score": 758185,
+  "picture": "20961434-db6abbd61b95c2518b01a7123d2201ff.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 9,
+  "tier": 1,
+  "xp": 15600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20961434,
+    "rank_kc": 371394,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-12T00:56:38.000Z",
+    "rank_pc": 200708,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-12T00:56:38.000Z",
+    "rank_hs": 419101,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-12T00:56:39.000Z",
+    "created_at": "2024-02-26T01:53:38.000Z",
+    "updated_at": "2024-02-26T01:53:38.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12326,
+          "user_id": 20961434,
+          "cloneof_id": null,
+          "string_id": "big_space",
+          "title": "Big Space",
+          "description": "very big space for everything",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 37,
+          "created_at": "2023-05-27T07:45:43.000Z",
+          "updated_at": "2023-05-29T03:08:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20961434,
+            "username": "yeyeye",
+            "description": "Soz bro u yummy tho",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-11T22:42:40.000Z",
+            "date_last_played": "2024-02-26T01:53:38.000Z",
+            "kill_count": 73,
+            "play_count": 212,
+            "highest_score": 758185,
+            "picture": "20961434-db6abbd61b95c2518b01a7123d2201ff.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 9,
+            "tier": 1,
+            "xp": 15600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "open"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:48:21.323Z"
+}
