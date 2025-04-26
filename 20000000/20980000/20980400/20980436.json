@@ -1,0 +1,155 @@
+{
+  "id": 20980436,
+  "username": "like_yourlife",
+  "description": "Life is beautiful when you're in my stomach, you look like candy, evolve a little to beat me, haha.\n",
+  "about": "I am freindly",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-22T08:59:58.000Z",
+  "date_last_played": "2025-02-24T12:17:39.000Z",
+  "profile_views": 237,
+  "kill_count": 440,
+  "play_count": 503,
+  "highest_score": 1386735,
+  "picture": "20980436-a0b6a1a4d66fb4b8f15165589d663a7f-ca4d6a89-85e8-485a-9603-8222779251d8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 35,
+  "tier": 3,
+  "xp": 113100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20980436,
+    "rank_kc": 55293,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-25T14:27:45.000Z",
+    "rank_pc": 31503,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-25T14:27:50.000Z",
+    "rank_hs": 64583,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-25T13:58:43.000Z",
+    "created_at": "2025-02-24T12:17:39.000Z",
+    "updated_at": "2025-02-24T12:17:39.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12995,
+          "user_id": 20980436,
+          "cloneof_id": null,
+          "string_id": "DesertKingdom",
+          "title": "The desert",
+          "description": "Its a desert map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 173,
+          "created_at": "2023-10-20T17:25:19.000Z",
+          "updated_at": "2023-10-25T20:06:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20980436,
+            "username": "like_yourlife",
+            "description": "Life is beautiful when you're in my stomach, you look like candy, evolve a little to beat me, haha.\n",
+            "about": "I am freindly",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-10-22T08:59:58.000Z",
+            "date_last_played": "2025-02-24T12:17:39.000Z",
+            "kill_count": 440,
+            "play_count": 503,
+            "highest_score": 1386735,
+            "picture": "20980436-a0b6a1a4d66fb4b8f15165589d663a7f-ca4d6a89-85e8-485a-9603-8222779251d8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 35,
+            "tier": 3,
+            "xp": 113100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " hot"
+            },
+            {
+              "id": "Desert"
+            },
+            {
+              "id": "island"
+            },
+            {
+              "id": "volcanic"
+            }
+          ]
+        },
+        {
+          "id": 11504,
+          "user_id": 20980436,
+          "cloneof_id": null,
+          "string_id": "tornade_blanche_pro",
+          "title": "Le deser aquatique ",
+          "description": "C'est un desert sous l'eau =sous-marin ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-12-24T20:33:51.000Z",
+          "updated_at": "2022-12-24T20:33:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20980436,
+            "username": "like_yourlife",
+            "description": "Life is beautiful when you're in my stomach, you look like candy, evolve a little to beat me, haha.\n",
+            "about": "I am freindly",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-10-22T08:59:58.000Z",
+            "date_last_played": "2025-02-24T12:17:39.000Z",
+            "kill_count": 440,
+            "play_count": 503,
+            "highest_score": 1386735,
+            "picture": "20980436-a0b6a1a4d66fb4b8f15165589d663a7f-ca4d6a89-85e8-485a-9603-8222779251d8.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 35,
+            "tier": 3,
+            "xp": 113100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Chaud"
+            },
+            {
+              "id": "Desert"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:48:41.070Z"
+}
