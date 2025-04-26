@@ -1,0 +1,61 @@
+{
+  "id": 20984347,
+  "username": "丸子不在",
+  "description": "我是一只貓:D",
+  "about": "我是一只貓:D",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-05T07:23:12.000Z",
+  "date_last_played": "2023-06-28T07:05:28.000Z",
+  "profile_views": 118,
+  "kill_count": 173,
+  "play_count": 93,
+  "highest_score": 130985,
+  "picture": "20984347-7c7b108d10138b421096b778946455cfea.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 21600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17800,
+      "user_id": 20984347,
+      "platform_id": "dc",
+      "platform_user_id": "https://ubc2.github.io/vid/10492/Others/WPA.mp4",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-21T08:22:32.000Z",
+      "updated_at": "2023-04-21T08:22:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20984347,
+    "rank_kc": 79592,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-24T07:34:42.000Z",
+    "rank_pc": 77516,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-24T07:34:42.000Z",
+    "rank_hs": 329988,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-23T10:31:11.000Z",
+    "created_at": "2023-06-28T07:05:27.000Z",
+    "updated_at": "2023-06-28T07:05:28.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:12:22.125Z"
+}
