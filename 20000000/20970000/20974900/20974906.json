@@ -1,0 +1,61 @@
+{
+  "id": 20974906,
+  "username": "FIX",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-29T21:20:03.000Z",
+  "date_last_played": "2025-01-19T01:22:04.000Z",
+  "profile_views": 70,
+  "kill_count": 798,
+  "play_count": 917,
+  "highest_score": 1815996,
+  "picture": "20974906-310b21334cef492d6240b1c6ae10315d9.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 342,
+  "tier": 4,
+  "xp": 219150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26423,
+      "user_id": 20974906,
+      "platform_id": "dc",
+      "platform_user_id": "zenios33",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-13T15:11:16.000Z",
+      "updated_at": "2023-09-13T15:11:16.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20974906,
+    "rank_kc": 34405,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-16T00:18:09.000Z",
+    "rank_pc": 15832,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-16T00:18:10.000Z",
+    "rank_hs": 45094,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-16T00:18:11.000Z",
+    "created_at": "2025-01-19T04:00:01.000Z",
+    "updated_at": "2025-01-19T04:00:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:14:56.272Z"
+}
