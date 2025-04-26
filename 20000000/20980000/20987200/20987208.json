@@ -1,0 +1,61 @@
+{
+  "id": 20987208,
+  "username": "Borx",
+  "description": "Avecrem",
+  "about": "Hola",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-15T18:24:25.000Z",
+  "date_last_played": "2023-04-19T12:34:43.000Z",
+  "profile_views": 91,
+  "kill_count": 184,
+  "play_count": 298,
+  "highest_score": 758779,
+  "picture": "20987208-b1a102e7b446797f108d4ade248ce282a2.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 162,
+  "tier": 2,
+  "xp": 34050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9662,
+      "user_id": 20987208,
+      "platform_id": "ig",
+      "platform_user_id": "SpyBorx",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-15T18:41:40.000Z",
+      "updated_at": "2022-11-15T18:41:40.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20987208,
+    "rank_kc": 74335,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-19T08:46:37.000Z",
+    "rank_pc": 32021,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-19T08:46:38.000Z",
+    "rank_hs": 104868,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-04-19T08:46:39.000Z",
+    "created_at": "2023-04-19T12:34:42.000Z",
+    "updated_at": "2023-04-19T12:34:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:28:50.514Z"
+}

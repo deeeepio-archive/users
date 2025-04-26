@@ -1,0 +1,97 @@
+{
+  "id": 20987232,
+  "username": "helicopte",
+  "description": "i like skibidi toilet",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-15T20:02:33.000Z",
+  "date_last_played": "2024-07-20T11:25:06.000Z",
+  "profile_views": 23,
+  "kill_count": 242,
+  "play_count": 247,
+  "highest_score": 1486888,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 65,
+  "tier": 2,
+  "xp": 37950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20987232,
+    "rank_kc": 84446,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-07T10:38:18.000Z",
+    "rank_pc": 54896,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-07T10:38:19.000Z",
+    "rank_hs": 52440,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-02-07T10:38:20.000Z",
+    "created_at": "2024-07-20T11:25:05.000Z",
+    "updated_at": "2024-07-20T11:25:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11387,
+          "user_id": 20987232,
+          "cloneof_id": null,
+          "string_id": "678",
+          "title": "random map",
+          "description": "idk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 12,
+          "created_at": "2022-12-02T17:40:10.000Z",
+          "updated_at": "2022-12-02T17:40:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20987232,
+            "username": "helicopte",
+            "description": "i like skibidi toilet",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-11-15T20:02:33.000Z",
+            "date_last_played": "2024-07-20T11:25:06.000Z",
+            "kill_count": 242,
+            "play_count": 247,
+            "highest_score": 1486888,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 65,
+            "tier": 2,
+            "xp": 37950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "idk"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:28:54.189Z"
+}
