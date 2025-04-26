@@ -1,0 +1,61 @@
+{
+  "id": 20969939,
+  "username": "Vortex0608",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-11T18:28:55.000Z",
+  "date_last_played": "2024-12-14T19:20:16.000Z",
+  "profile_views": 18,
+  "kill_count": 38,
+  "play_count": 129,
+  "highest_score": 451197,
+  "picture": "20969939-8cab853ffdc8263b0e110121d2d4d871.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 45,
+  "tier": 1,
+  "xp": 6000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 6691,
+      "user_id": 20969939,
+      "platform_id": "dc",
+      "platform_user_id": "vortex0608",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-11T18:33:44.000Z",
+      "updated_at": "2024-12-07T16:25:29.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20969939,
+    "rank_kc": 376999,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-11T18:32:22.000Z",
+    "rank_pc": 272966,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-11T18:32:22.000Z",
+    "rank_hs": 505483,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-11T18:32:23.000Z",
+    "created_at": "2024-12-14T19:23:03.000Z",
+    "updated_at": "2024-12-14T19:23:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:39:07.384Z"
+}

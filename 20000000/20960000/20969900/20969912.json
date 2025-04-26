@@ -1,0 +1,61 @@
+{
+  "id": 20969912,
+  "username": "Ninjacat0716",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-11T16:46:47.000Z",
+  "date_last_played": "2022-09-11T17:08:56.000Z",
+  "profile_views": 1,
+  "kill_count": 0,
+  "play_count": 4,
+  "highest_score": 98760,
+  "picture": "20969912-eca7d1f60f4bb10cd5b85a1a5ec1d88bf.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 6688,
+      "user_id": 20969912,
+      "platform_id": "dc",
+      "platform_user_id": "Just_CJ#1406",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-11T16:52:56.000Z",
+      "updated_at": "2022-09-11T16:52:56.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20969912,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T14:39:03.528Z",
+    "updated_at": "2025-04-26T14:39:04.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:39:03.583Z"
+}
