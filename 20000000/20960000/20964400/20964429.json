@@ -1,0 +1,61 @@
+{
+  "id": 20964429,
+  "username": "Сергей",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-23T08:41:38.000Z",
+  "date_last_played": "2023-06-30T04:51:24.000Z",
+  "profile_views": 6,
+  "kill_count": 114,
+  "play_count": 215,
+  "highest_score": 1101360,
+  "picture": "20964429-b3855a34609a29e42c8ad8595e3d8ac1.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 55,
+  "tier": 1,
+  "xp": 23250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5486,
+      "user_id": 20964429,
+      "platform_id": "dc",
+      "platform_user_id": "https://vk.com/id608707840",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-23T11:46:11.000Z",
+      "updated_at": "2022-08-23T11:46:11.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20964429,
+    "rank_kc": 143270,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-25T07:33:45.000Z",
+    "rank_pc": 63548,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-25T07:33:45.000Z",
+    "rank_hs": 114987,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-25T07:33:46.000Z",
+    "created_at": "2023-06-30T04:51:24.000Z",
+    "updated_at": "2023-06-30T04:51:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:05:21.449Z"
+}
