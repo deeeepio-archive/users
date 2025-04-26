@@ -1,0 +1,71 @@
+{
+  "id": 20958911,
+  "username": "TheSquidCurse1",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-01T04:04:44.000Z",
+  "date_last_played": "2022-09-30T18:25:04.000Z",
+  "profile_views": 2,
+  "kill_count": 1,
+  "play_count": 6,
+  "highest_score": 428236,
+  "picture": "20958911-ee63def2210b947d16611598942d8782a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4527,
+      "user_id": 20958911,
+      "platform_id": "dc",
+      "platform_user_id": "SamBoi#6656",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-03T01:29:28.000Z",
+      "updated_at": "2022-08-03T01:30:29.000Z"
+    },
+    {
+      "id": 4528,
+      "user_id": 20958911,
+      "platform_id": "yt",
+      "platform_user_id": "Sam the shredder",
+      "platform_user_url": "https://www.youtube.com/channel/UCEEacdsnmVg5C0D--DHTAwQ/featured",
+      "verified": false,
+      "created_at": "2022-08-03T01:30:24.000Z",
+      "updated_at": "2022-08-03T01:30:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20958911,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T13:32:41.278Z",
+    "updated_at": "2025-04-26T13:32:41.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:32:41.354Z"
+}
