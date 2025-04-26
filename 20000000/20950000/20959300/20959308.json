@@ -1,0 +1,565 @@
+{
+  "id": 20959308,
+  "username": "designated",
+  "description": "ran by gxdly",
+  "about": "on god ur trash",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-02T22:19:35.000Z",
+  "date_last_played": "2025-04-26T12:57:18.000Z",
+  "profile_views": 12050,
+  "kill_count": 41664,
+  "play_count": 9406,
+  "highest_score": 30023659,
+  "picture": "20959308-3d220ef58f6f3d23eb52810c2a310fbc68-81ab078f-9ceb-4eb0-a76a-2d6c9cb7a831.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 26031,
+  "tier": 10,
+  "xp": 8859450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21125,
+      "user_id": 20959308,
+      "platform_id": "dc",
+      "platform_user_id": "Gxdly_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-16T17:36:18.000Z",
+      "updated_at": "2023-06-16T17:36:18.000Z"
+    },
+    {
+      "id": 7643,
+      "user_id": 20959308,
+      "platform_id": "yt",
+      "platform_user_id": "Gxdly",
+      "platform_user_url": "https://www.youtube.com/channel/UCgUhEymcr27pFGZySNageoA",
+      "verified": false,
+      "created_at": "2022-10-04T22:27:04.000Z",
+      "updated_at": "2023-05-08T18:53:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20959308,
+    "rank_kc": 165,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T04:13:29.000Z",
+    "rank_pc": 351,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T04:13:31.000Z",
+    "rank_hs": 1050,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T04:13:33.000Z",
+    "created_at": "2025-04-26T12:57:18.000Z",
+    "updated_at": "2025-04-26T12:57:18.000Z",
+    "pd": {
+      "played": 6,
+      "won": 2,
+      "ratio": 33
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12524,
+          "user_id": 20959308,
+          "cloneof_id": null,
+          "string_id": "gxdlytest",
+          "title": "gxdlytest",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-07-04T20:51:29.000Z",
+          "updated_at": "2023-07-04T21:02:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959308,
+            "username": "designated",
+            "description": "ran by gxdly",
+            "about": "on god ur trash",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-02T22:19:35.000Z",
+            "date_last_played": "2025-04-26T12:57:18.000Z",
+            "kill_count": 41664,
+            "play_count": 9406,
+            "highest_score": 30023659,
+            "picture": "20959308-3d220ef58f6f3d23eb52810c2a310fbc68-81ab078f-9ceb-4eb0-a76a-2d6c9cb7a831.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26031,
+            "tier": 10,
+            "xp": 8859450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 12452,
+          "user_id": 20959308,
+          "cloneof_id": 11495,
+          "string_id": "city_with_bridge_v2",
+          "title": "City with bridge v2",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 210,
+          "created_at": "2023-06-19T23:39:41.000Z",
+          "updated_at": "2023-06-21T14:05:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959308,
+            "username": "designated",
+            "description": "ran by gxdly",
+            "about": "on god ur trash",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-02T22:19:35.000Z",
+            "date_last_played": "2025-04-26T12:57:18.000Z",
+            "kill_count": 41664,
+            "play_count": 9406,
+            "highest_score": 30023659,
+            "picture": "20959308-3d220ef58f6f3d23eb52810c2a310fbc68-81ab078f-9ceb-4eb0-a76a-2d6c9cb7a831.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26031,
+            "tier": 10,
+            "xp": 8859450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "city"
+            }
+          ]
+        },
+        {
+          "id": 12451,
+          "user_id": 20959308,
+          "cloneof_id": null,
+          "string_id": "gxdlys_random_ideas",
+          "title": "i have no idea what i just made",
+          "description": "ok",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 30,
+          "created_at": "2023-06-19T23:26:38.000Z",
+          "updated_at": "2023-06-19T23:26:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959308,
+            "username": "designated",
+            "description": "ran by gxdly",
+            "about": "on god ur trash",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-02T22:19:35.000Z",
+            "date_last_played": "2025-04-26T12:57:18.000Z",
+            "kill_count": 41664,
+            "play_count": 9406,
+            "highest_score": 30023659,
+            "picture": "20959308-3d220ef58f6f3d23eb52810c2a310fbc68-81ab078f-9ceb-4eb0-a76a-2d6c9cb7a831.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26031,
+            "tier": 10,
+            "xp": 8859450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ur mom"
+            }
+          ]
+        },
+        {
+          "id": 11519,
+          "user_id": 20959308,
+          "cloneof_id": null,
+          "string_id": "highway_by_gxdly",
+          "title": "Highway",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 62,
+          "created_at": "2022-12-29T16:27:28.000Z",
+          "updated_at": "2022-12-29T16:28:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959308,
+            "username": "designated",
+            "description": "ran by gxdly",
+            "about": "on god ur trash",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-02T22:19:35.000Z",
+            "date_last_played": "2025-04-26T12:57:18.000Z",
+            "kill_count": 41664,
+            "play_count": 9406,
+            "highest_score": 30023659,
+            "picture": "20959308-3d220ef58f6f3d23eb52810c2a310fbc68-81ab078f-9ceb-4eb0-a76a-2d6c9cb7a831.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26031,
+            "tier": 10,
+            "xp": 8859450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "custom"
+            },
+            {
+              "id": "highway"
+            }
+          ]
+        },
+        {
+          "id": 11495,
+          "user_id": 20959308,
+          "cloneof_id": null,
+          "string_id": "city_by_gxdly",
+          "title": "City with bridge",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 180,
+          "created_at": "2022-12-21T23:24:42.000Z",
+          "updated_at": "2022-12-22T14:45:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959308,
+            "username": "designated",
+            "description": "ran by gxdly",
+            "about": "on god ur trash",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-02T22:19:35.000Z",
+            "date_last_played": "2025-04-26T12:57:18.000Z",
+            "kill_count": 41664,
+            "play_count": 9406,
+            "highest_score": 30023659,
+            "picture": "20959308-3d220ef58f6f3d23eb52810c2a310fbc68-81ab078f-9ceb-4eb0-a76a-2d6c9cb7a831.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26031,
+            "tier": 10,
+            "xp": 8859450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "bridge"
+            },
+            {
+              "id": "city"
+            },
+            {
+              "id": "custom"
+            },
+            {
+              "id": "ocean"
+            }
+          ]
+        },
+        {
+          "id": 11413,
+          "user_id": 20959308,
+          "cloneof_id": null,
+          "string_id": "christmas_countdown",
+          "title": "Christmas Countdown",
+          "description": "hi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 21,
+          "created_at": "2022-12-07T19:31:53.000Z",
+          "updated_at": "2022-12-08T20:34:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959308,
+            "username": "designated",
+            "description": "ran by gxdly",
+            "about": "on god ur trash",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-02T22:19:35.000Z",
+            "date_last_played": "2025-04-26T12:57:18.000Z",
+            "kill_count": 41664,
+            "play_count": 9406,
+            "highest_score": 30023659,
+            "picture": "20959308-3d220ef58f6f3d23eb52810c2a310fbc68-81ab078f-9ceb-4eb0-a76a-2d6c9cb7a831.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26031,
+            "tier": 10,
+            "xp": 8859450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "christmas"
+            },
+            {
+              "id": "countdown"
+            }
+          ]
+        },
+        {
+          "id": 11316,
+          "user_id": 20959308,
+          "cloneof_id": null,
+          "string_id": "tffa_map_v69",
+          "title": "map by gxdly",
+          "description": "work in progress, adding a deep dont worry ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 330,
+          "created_at": "2022-11-20T22:58:39.000Z",
+          "updated_at": "2023-06-21T14:07:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959308,
+            "username": "designated",
+            "description": "ran by gxdly",
+            "about": "on god ur trash",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-02T22:19:35.000Z",
+            "date_last_played": "2025-04-26T12:57:18.000Z",
+            "kill_count": 41664,
+            "play_count": 9406,
+            "highest_score": 30023659,
+            "picture": "20959308-3d220ef58f6f3d23eb52810c2a310fbc68-81ab078f-9ceb-4eb0-a76a-2d6c9cb7a831.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26031,
+            "tier": 10,
+            "xp": 8859450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "map"
+            },
+            {
+              "id": "ocean"
+            }
+          ]
+        },
+        {
+          "id": 11315,
+          "user_id": 20959308,
+          "cloneof_id": 11310,
+          "string_id": "deep_cave_v2",
+          "title": "deep 1v1",
+          "description": "version 2",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 38,
+          "created_at": "2022-11-20T20:59:30.000Z",
+          "updated_at": "2022-11-20T21:07:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959308,
+            "username": "designated",
+            "description": "ran by gxdly",
+            "about": "on god ur trash",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-02T22:19:35.000Z",
+            "date_last_played": "2025-04-26T12:57:18.000Z",
+            "kill_count": 41664,
+            "play_count": 9406,
+            "highest_score": 30023659,
+            "picture": "20959308-3d220ef58f6f3d23eb52810c2a310fbc68-81ab078f-9ceb-4eb0-a76a-2d6c9cb7a831.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26031,
+            "tier": 10,
+            "xp": 8859450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "cave"
+            },
+            {
+              "id": "deep"
+            }
+          ]
+        },
+        {
+          "id": 11310,
+          "user_id": 20959308,
+          "cloneof_id": 11309,
+          "string_id": "deep_cave_1v1",
+          "title": "1v1",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 30,
+          "created_at": "2022-11-19T21:33:03.000Z",
+          "updated_at": "2022-11-19T21:33:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959308,
+            "username": "designated",
+            "description": "ran by gxdly",
+            "about": "on god ur trash",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-02T22:19:35.000Z",
+            "date_last_played": "2025-04-26T12:57:18.000Z",
+            "kill_count": 41664,
+            "play_count": 9406,
+            "highest_score": 30023659,
+            "picture": "20959308-3d220ef58f6f3d23eb52810c2a310fbc68-81ab078f-9ceb-4eb0-a76a-2d6c9cb7a831.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26031,
+            "tier": 10,
+            "xp": 8859450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1V1"
+            },
+            {
+              "id": "CAVE"
+            },
+            {
+              "id": "DEEP"
+            }
+          ]
+        },
+        {
+          "id": 11309,
+          "user_id": 20959308,
+          "cloneof_id": 11304,
+          "string_id": "cave_1v1",
+          "title": "1v1",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 26,
+          "created_at": "2022-11-19T21:22:07.000Z",
+          "updated_at": "2022-12-21T21:14:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20959308,
+            "username": "designated",
+            "description": "ran by gxdly",
+            "about": "on god ur trash",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-02T22:19:35.000Z",
+            "date_last_played": "2025-04-26T12:57:18.000Z",
+            "kill_count": 41664,
+            "play_count": 9406,
+            "highest_score": 30023659,
+            "picture": "20959308-3d220ef58f6f3d23eb52810c2a310fbc68-81ab078f-9ceb-4eb0-a76a-2d6c9cb7a831.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26031,
+            "tier": 10,
+            "xp": 8859450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1V1"
+            },
+            {
+              "id": "CAVE"
+            }
+          ]
+        }
+      ],
+      "count": 10
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:35:49.332Z"
+}
