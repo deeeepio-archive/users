@@ -1,0 +1,111 @@
+{
+  "id": 20954607,
+  "username": "9a",
+  "description": "the ramps go and come-",
+  "about": "...\n\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-13T10:49:24.000Z",
+  "date_last_played": "2025-04-15T14:58:44.000Z",
+  "profile_views": 495,
+  "kill_count": 1764,
+  "play_count": 1096,
+  "highest_score": 6085576,
+  "picture": "20954607-28b5210d42a5cf49910101222d5128a1578-f7a723fe-954c-4df1-9d19-e151d3660a18.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 98,
+  "tier": 6,
+  "xp": 498600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 99782,
+      "user_id": 20954607,
+      "platform_id": "dc",
+      "platform_user_id": "astro_es",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-10-30T12:56:53.000Z",
+      "updated_at": "2024-10-30T12:56:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20954607,
+    "rank_kc": 29005,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-31T17:53:30.000Z",
+    "rank_pc": 24368,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-31T17:53:32.000Z",
+    "rank_hs": 26126,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-31T17:53:34.000Z",
+    "created_at": "2025-04-15T14:58:43.000Z",
+    "updated_at": "2025-04-15T14:58:44.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12461,
+          "user_id": 20954607,
+          "cloneof_id": null,
+          "string_id": "1v1_eagle_map_v1",
+          "title": "1V1 eagle",
+          "description": "a 1v1 for eagles",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 28,
+          "created_at": "2023-06-20T16:42:38.000Z",
+          "updated_at": "2023-06-20T17:40:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20954607,
+            "username": "9a",
+            "description": "the ramps go and come-",
+            "about": "...\n\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-13T10:49:24.000Z",
+            "date_last_played": "2025-04-15T14:58:44.000Z",
+            "kill_count": 1764,
+            "play_count": 1096,
+            "highest_score": 6085576,
+            "picture": "20954607-28b5210d42a5cf49910101222d5128a1578-f7a723fe-954c-4df1-9d19-e151d3660a18.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 98,
+            "tier": 6,
+            "xp": 498600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Eagle"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:08:28.643Z"
+}
