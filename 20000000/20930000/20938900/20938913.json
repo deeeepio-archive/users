@@ -1,0 +1,97 @@
+{
+  "id": 20938913,
+  "username": "Crud",
+  "description": "So you call these things \"chips\"? Instead of crispity crunchy munchie crackerjack snacker nibbler snap crack n pop westpoolchestershireshire queen's lovely jubily delights?\n\nThat’s rather a bit cringe, innit bruv",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-22T03:44:38.000Z",
+  "date_last_played": "2024-11-26T02:46:15.000Z",
+  "profile_views": 22,
+  "kill_count": 47,
+  "play_count": 175,
+  "highest_score": 479285,
+  "picture": "20938913-dafec8c3ce13ca3710bc9348fec7e2239.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 14700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20938913,
+    "rank_kc": 144449,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-24T12:42:40.000Z",
+    "rank_pc": 49893,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-24T12:42:42.000Z",
+    "rank_hs": 134401,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-11-24T01:40:38.000Z",
+    "created_at": "2024-11-26T02:46:15.000Z",
+    "updated_at": "2024-11-26T02:46:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11334,
+          "user_id": 20938913,
+          "cloneof_id": null,
+          "string_id": "my_cool_map_",
+          "title": "coolmap",
+          "description": "a cool map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 22,
+          "created_at": "2022-11-24T05:37:30.000Z",
+          "updated_at": "2022-11-24T05:39:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20938913,
+            "username": "Crud",
+            "description": "So you call these things \"chips\"? Instead of crispity crunchy munchie crackerjack snacker nibbler snap crack n pop westpoolchestershireshire queen's lovely jubily delights?\n\nThat’s rather a bit cringe, innit bruv",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-22T03:44:38.000Z",
+            "date_last_played": "2024-11-26T02:46:15.000Z",
+            "kill_count": 47,
+            "play_count": 175,
+            "highest_score": 479285,
+            "picture": "20938913-dafec8c3ce13ca3710bc9348fec7e2239.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 14700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "very cool"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:33:27.223Z"
+}
