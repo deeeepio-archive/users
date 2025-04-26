@@ -1,0 +1,101 @@
+{
+  "id": 20954795,
+  "username": "김씨",
+  "description": "hi :D",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-14T05:52:31.000Z",
+  "date_last_played": "2024-10-27T00:55:46.000Z",
+  "profile_views": 1077,
+  "kill_count": 2587,
+  "play_count": 6352,
+  "highest_score": 2592224,
+  "picture": "20954795-3c3e1d510b0672246dc67f6928fdfff6b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 58,
+  "tier": 7,
+  "xp": 585900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31691,
+      "user_id": 20954795,
+      "platform_id": "dc",
+      "platform_user_id": "'-‘",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-06T09:28:22.000Z",
+      "updated_at": "2024-01-26T12:17:08.000Z"
+    },
+    {
+      "id": 31688,
+      "user_id": 20954795,
+      "platform_id": "ig",
+      "platform_user_id": "._.",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-06T09:27:22.000Z",
+      "updated_at": "2024-01-26T12:17:22.000Z"
+    },
+    {
+      "id": 31690,
+      "user_id": 20954795,
+      "platform_id": "qq",
+      "platform_user_id": "._.",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-06T09:27:54.000Z",
+      "updated_at": "2024-01-06T09:27:54.000Z"
+    },
+    {
+      "id": 31689,
+      "user_id": 20954795,
+      "platform_id": "tc",
+      "platform_user_id": "ʻ¯ʻ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-06T09:27:39.000Z",
+      "updated_at": "2024-01-06T09:27:39.000Z"
+    },
+    {
+      "id": 91042,
+      "user_id": 20954795,
+      "platform_id": "wx",
+      "platform_user_id": "-",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-26T12:17:36.000Z",
+      "updated_at": "2024-01-26T12:17:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20954795,
+    "rank_kc": 13626,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T07:46:31.000Z",
+    "rank_pc": 728,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T07:46:33.000Z",
+    "rank_hs": 27873,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T07:46:35.000Z",
+    "created_at": "2024-10-27T00:55:45.000Z",
+    "updated_at": "2024-10-27T00:55:46.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:09:57.476Z"
+}
