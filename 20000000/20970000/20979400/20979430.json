@@ -1,0 +1,97 @@
+{
+  "id": 20979430,
+  "username": "TheLittleIsopod",
+  "description": "you tried your best. GG. lets meet again sometime!",
+  "about": "I main the giant isopod. you will often find me curled up in the deeeep. \n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-18T09:00:45.000Z",
+  "date_last_played": "2022-11-27T06:19:28.000Z",
+  "profile_views": 11,
+  "kill_count": 8,
+  "play_count": 120,
+  "highest_score": 345875,
+  "picture": "20979430-26714664b91fe6a95b1442896105f1039.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 1,
+  "xp": 1200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20979430,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T15:41:49.231Z",
+    "updated_at": "2025-04-26T15:41:49.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11168,
+          "user_id": 20979430,
+          "cloneof_id": null,
+          "string_id": "isopods",
+          "title": "first",
+          "description": "has an isopod army",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 19,
+          "created_at": "2022-10-27T10:45:02.000Z",
+          "updated_at": "2022-10-27T10:45:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20979430,
+            "username": "TheLittleIsopod",
+            "description": "you tried your best. GG. lets meet again sometime!",
+            "about": "I main the giant isopod. you will often find me curled up in the deeeep. \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-10-18T09:00:45.000Z",
+            "date_last_played": "2022-11-27T06:19:28.000Z",
+            "kill_count": 8,
+            "play_count": 120,
+            "highest_score": 345875,
+            "picture": "20979430-26714664b91fe6a95b1442896105f1039.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 8,
+            "tier": 1,
+            "xp": 1200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "isopods"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:41:49.282Z"
+}

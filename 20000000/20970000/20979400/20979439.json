@@ -1,0 +1,50 @@
+{
+  "id": 20979439,
+  "username": "Ярослав",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-18T10:06:10.000Z",
+  "date_last_played": "2022-12-11T09:09:37.000Z",
+  "profile_views": 12,
+  "kill_count": 24,
+  "play_count": 60,
+  "highest_score": 1114017,
+  "picture": "20979439-adff334326103dca710374998cbe557ecb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 1,
+  "xp": 9150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20979439,
+    "rank_kc": 184810,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-12T02:07:06.000Z",
+    "rank_pc": 81441,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-12T02:07:06.000Z",
+    "rank_hs": 138234,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-12T02:07:07.000Z",
+    "created_at": "2022-12-11T09:09:37.000Z",
+    "updated_at": "2022-12-11T09:09:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:41:50.366Z"
+}

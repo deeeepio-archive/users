@@ -1,0 +1,50 @@
+{
+  "id": 20979402,
+  "username": "nmgt",
+  "description": "noob",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-18T04:24:38.000Z",
+  "date_last_played": "2024-06-09T19:14:18.000Z",
+  "profile_views": 12,
+  "kill_count": 0,
+  "play_count": 16,
+  "highest_score": 35460,
+  "picture": "20979402-625ad3bf94b953de31ffd52d2c64de5a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20979402,
+    "rank_kc": 383372,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-10-18T04:45:16.000Z",
+    "rank_pc": 256675,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-18T04:45:16.000Z",
+    "rank_hs": 513917,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-18T04:50:11.000Z",
+    "created_at": "2024-06-09T19:14:17.000Z",
+    "updated_at": "2024-06-09T19:14:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:41:45.736Z"
+}
