@@ -1,0 +1,97 @@
+{
+  "id": 20985757,
+  "username": "jjcart",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-10T13:58:06.000Z",
+  "date_last_played": "2023-03-30T14:35:07.000Z",
+  "profile_views": 5,
+  "kill_count": 57,
+  "play_count": 169,
+  "highest_score": 523405,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 49,
+  "tier": 1,
+  "xp": 7350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20985757,
+    "rank_kc": 137597,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-30T12:25:22.000Z",
+    "rank_pc": 47853,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-30T12:25:31.000Z",
+    "rank_hs": 135160,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-30T12:25:41.000Z",
+    "created_at": "2023-03-30T14:35:07.000Z",
+    "updated_at": "2023-03-30T14:35:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11949,
+          "user_id": 20985757,
+          "cloneof_id": null,
+          "string_id": "mogo_man",
+          "title": "my_maps",
+          "description": "very good",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-03-30T14:59:41.000Z",
+          "updated_at": "2023-03-30T14:59:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20985757,
+            "username": "jjcart",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-11-10T13:58:06.000Z",
+            "date_last_played": "2023-03-30T14:35:07.000Z",
+            "kill_count": 57,
+            "play_count": 169,
+            "highest_score": 523405,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 49,
+            "tier": 1,
+            "xp": 7350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#bbc"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:20:14.786Z"
+}
