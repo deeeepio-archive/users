@@ -1,0 +1,97 @@
+{
+  "id": 20962589,
+  "username": "Buggsbunny",
+  "description": "Lo lamento pero tengo que evolucionar ",
+  "about": "Si",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-16T01:39:55.000Z",
+  "date_last_played": "2025-01-06T02:13:48.000Z",
+  "profile_views": 94,
+  "kill_count": 84,
+  "play_count": 561,
+  "highest_score": 216055,
+  "picture": "20962589-07b4dab5c63d3e710bf1f7573587104b6.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 29,
+  "tier": 1,
+  "xp": 21150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20962589,
+    "rank_kc": 103913,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-11T23:53:00.000Z",
+    "rank_pc": 19742,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-11T23:53:01.000Z",
+    "rank_hs": 199663,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-10-11T23:53:01.000Z",
+    "created_at": "2025-01-06T02:13:48.000Z",
+    "updated_at": "2025-01-06T02:13:48.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10866,
+          "user_id": 20962589,
+          "cloneof_id": null,
+          "string_id": "mi_mapa_juan_deeeep",
+          "title": "Buggs y mas",
+          "description": "Chido",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-09-09T01:34:55.000Z",
+          "updated_at": "2022-09-09T01:34:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20962589,
+            "username": "Buggsbunny",
+            "description": "Lo lamento pero tengo que evolucionar ",
+            "about": "Si",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-16T01:39:55.000Z",
+            "date_last_played": "2025-01-06T02:13:48.000Z",
+            "kill_count": 84,
+            "play_count": 561,
+            "highest_score": 216055,
+            "picture": "20962589-07b4dab5c63d3e710bf1f7573587104b6.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 29,
+            "tier": 1,
+            "xp": 21150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Buggsbunny "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:55:02.432Z"
+}
