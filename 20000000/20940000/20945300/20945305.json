@@ -1,0 +1,97 @@
+{
+  "id": 20945305,
+  "username": "DrxgonFish",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-09T23:00:00.000Z",
+  "date_last_played": "2022-08-24T01:53:06.000Z",
+  "profile_views": 4,
+  "kill_count": 27,
+  "play_count": 10,
+  "highest_score": 226782,
+  "picture": "20945305-95c58e6a14a1d7104bb3e29210729e67d4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 533,
+  "tier": 1,
+  "xp": 3000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20945305,
+    "rank_kc": 360388,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-09T23:11:01.000Z",
+    "rank_pc": 250752,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-09T23:03:50.000Z",
+    "rank_hs": 484027,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-09T23:03:51.000Z",
+    "created_at": "2022-08-24T01:53:06.000Z",
+    "updated_at": "2022-08-24T01:53:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9903,
+          "user_id": 20945305,
+          "cloneof_id": null,
+          "string_id": "realistic_world",
+          "title": "Realistic world",
+          "description": "WIP",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 79,
+          "created_at": "2022-06-10T04:02:38.000Z",
+          "updated_at": "2022-06-10T04:26:09.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20945305,
+            "username": "DrxgonFish",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-09T23:00:00.000Z",
+            "date_last_played": "2022-08-24T01:53:06.000Z",
+            "kill_count": 27,
+            "play_count": 10,
+            "highest_score": 226782,
+            "picture": "20945305-95c58e6a14a1d7104bb3e29210729e67d4.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 533,
+            "tier": 1,
+            "xp": 3000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "WIP"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:11:44.785Z"
+}
