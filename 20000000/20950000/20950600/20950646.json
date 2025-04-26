@@ -1,0 +1,61 @@
+{
+  "id": 20950646,
+  "username": "OhLoL",
+  "description": "   ",
+  "about": "Guy\nDeeeepBeta tester!\n10 hour? Lol Have no idea :/\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-27T04:15:20.000Z",
+  "date_last_played": "2022-06-29T08:33:23.000Z",
+  "profile_views": 5,
+  "kill_count": 1,
+  "play_count": 50,
+  "highest_score": 131953,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 519,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2988,
+      "user_id": 20950646,
+      "platform_id": "dc",
+      "platform_user_id": "Joicraft#nope",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-27T14:37:44.000Z",
+      "updated_at": "2022-06-27T14:37:44.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20950646,
+    "rank_kc": 324665,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-06-28T23:09:06.000Z",
+    "rank_pc": 86473,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-28T23:09:07.000Z",
+    "rank_hs": 229659,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-06-28T23:09:07.000Z",
+    "created_at": "2022-06-29T08:33:22.000Z",
+    "updated_at": "2022-06-29T08:33:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:45:28.922Z"
+}
