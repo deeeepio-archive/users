@@ -1,0 +1,148 @@
+{
+  "id": 20956623,
+  "username": "TheGreyAce",
+  "description": "Lol u died u idiot\n",
+  "about": "Hi im cool\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-21T22:03:23.000Z",
+  "date_last_played": "2023-12-01T00:55:52.000Z",
+  "profile_views": 68,
+  "kill_count": 1196,
+  "play_count": 1183,
+  "highest_score": 1868937,
+  "picture": "20956623-c4a376001378542ea65304e26105110092.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 212,
+  "tier": 5,
+  "xp": 290550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20956623,
+    "rank_kc": 23050,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-16T05:03:05.000Z",
+    "rank_pc": 10677,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-16T05:03:05.000Z",
+    "rank_hs": 40012,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-16T05:03:06.000Z",
+    "created_at": "2023-12-01T00:55:51.000Z",
+    "updated_at": "2023-12-01T00:55:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11429,
+          "user_id": 20956623,
+          "cloneof_id": null,
+          "string_id": "the_grey_ace",
+          "title": "MAAAAAAP",
+          "description": "Map ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-12-09T21:59:15.000Z",
+          "updated_at": "2022-12-09T21:59:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20956623,
+            "username": "TheGreyAce",
+            "description": "Lol u died u idiot\n",
+            "about": "Hi im cool\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-21T22:03:23.000Z",
+            "date_last_played": "2023-12-01T00:55:52.000Z",
+            "kill_count": 1196,
+            "play_count": 1183,
+            "highest_score": 1868937,
+            "picture": "20956623-c4a376001378542ea65304e26105110092.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 212,
+            "tier": 5,
+            "xp": 290550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " cool"
+            },
+            {
+              "id": "avengers"
+            },
+            {
+              "id": "greyace"
+            },
+            {
+              "id": "map"
+            }
+          ]
+        },
+        {
+          "id": 10956,
+          "user_id": 20956623,
+          "cloneof_id": null,
+          "string_id": "thegreyacemap",
+          "title": "The MAP",
+          "description": "MAPMAPMAP",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2022-09-21T03:23:41.000Z",
+          "updated_at": "2022-09-21T03:23:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20956623,
+            "username": "TheGreyAce",
+            "description": "Lol u died u idiot\n",
+            "about": "Hi im cool\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-21T22:03:23.000Z",
+            "date_last_played": "2023-12-01T00:55:52.000Z",
+            "kill_count": 1196,
+            "play_count": 1183,
+            "highest_score": 1868937,
+            "picture": "20956623-c4a376001378542ea65304e26105110092.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 212,
+            "tier": 5,
+            "xp": 290550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:20:07.973Z"
+}
