@@ -1,0 +1,108 @@
+{
+  "id": 20955740,
+  "username": "spicymagma",
+  "description": "sorry :(",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-18T09:57:24.000Z",
+  "date_last_played": "2022-07-26T21:38:58.000Z",
+  "profile_views": 42,
+  "kill_count": 220,
+  "play_count": 209,
+  "highest_score": 1185149,
+  "picture": "20955740-d10c6d3ea5ab8910a5396b51ce105a6ef10.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 434,
+  "tier": 2,
+  "xp": 46200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3870,
+      "user_id": 20955740,
+      "platform_id": "dc",
+      "platform_user_id": "creeper#4068",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-18T10:00:40.000Z",
+      "updated_at": "2022-07-18T10:01:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20955740,
+    "rank_kc": 59152,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-14T12:38:07.000Z",
+    "rank_pc": 33109,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-14T12:38:08.000Z",
+    "rank_hs": 61469,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-14T12:38:08.000Z",
+    "created_at": "2023-02-11T14:05:42.000Z",
+    "updated_at": "2022-08-14T12:38:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10366,
+          "user_id": 20955740,
+          "cloneof_id": null,
+          "string_id": "spicy_13_map",
+          "title": "spicymagma",
+          "description": "cool map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 41,
+          "created_at": "2022-07-19T04:14:36.000Z",
+          "updated_at": "2022-07-19T04:24:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20955740,
+            "username": "spicymagma",
+            "description": "sorry :(",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-18T09:57:24.000Z",
+            "date_last_played": "2022-07-26T21:38:58.000Z",
+            "kill_count": 220,
+            "play_count": 209,
+            "highest_score": 1185149,
+            "picture": "20955740-d10c6d3ea5ab8910a5396b51ce105a6ef10.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 434,
+            "tier": 2,
+            "xp": 46200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "???"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:15:40.398Z"
+}
