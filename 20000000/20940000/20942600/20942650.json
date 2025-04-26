@@ -1,0 +1,61 @@
+{
+  "id": 20942650,
+  "username": "Lebiatan",
+  "description": "losiento bro solo me quiero divertir",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-02T12:53:23.000Z",
+  "date_last_played": "2022-07-19T17:08:30.000Z",
+  "profile_views": 2,
+  "kill_count": 2,
+  "play_count": 24,
+  "highest_score": 154840,
+  "picture": "20942650-c3bf53a51beb251ad3e310756fdb6e903.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3930,
+      "user_id": 20942650,
+      "platform_id": "yt",
+      "platform_user_id": "Ivan Elian",
+      "platform_user_url": "https://www.youtube.com/channel/UC9alt29gSju64vK0cn6rWGg",
+      "verified": false,
+      "created_at": "2022-07-19T15:55:11.000Z",
+      "updated_at": "2022-07-19T15:55:11.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20942650,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T11:56:04.085Z",
+    "updated_at": "2025-04-26T11:56:04.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:56:04.141Z"
+}
