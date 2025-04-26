@@ -1,0 +1,61 @@
+{
+  "id": 20948540,
+  "username": "uziezi",
+  "description": "no face, no case",
+  "about": "poland",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-20T07:05:10.000Z",
+  "date_last_played": "2022-06-21T15:23:49.000Z",
+  "profile_views": 6,
+  "kill_count": 11,
+  "play_count": 17,
+  "highest_score": 816525,
+  "picture": "20948540-c9872a649aa3100b725eca6b4247928e4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 315,
+  "tier": 1,
+  "xp": 2250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2623,
+      "user_id": 20948540,
+      "platform_id": "dc",
+      "platform_user_id": "uziezi#9522",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-20T07:15:45.000Z",
+      "updated_at": "2022-06-20T07:15:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20948540,
+    "rank_kc": 206393,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-21T15:23:55.000Z",
+    "rank_pc": 118704,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2022-06-21T15:23:56.000Z",
+    "rank_hs": 83884,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-21T15:23:57.000Z",
+    "created_at": "2023-08-25T13:14:49.000Z",
+    "updated_at": "2022-06-21T15:23:57.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:32:57.982Z"
+}
