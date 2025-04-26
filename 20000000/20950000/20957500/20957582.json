@@ -1,0 +1,71 @@
+{
+  "id": 20957582,
+  "username": "MisterSemM",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-26T02:19:10.000Z",
+  "date_last_played": "2022-07-28T08:11:46.000Z",
+  "profile_views": 2,
+  "kill_count": 1,
+  "play_count": 54,
+  "highest_score": 554581,
+  "picture": "20957582-a29de05f8d64c953ac9f52eb8945c3af.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 5550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4158,
+      "user_id": 20957582,
+      "platform_id": "dc",
+      "platform_user_id": "MisterSemM#6764",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-26T05:41:13.000Z",
+      "updated_at": "2022-07-26T05:41:13.000Z"
+    },
+    {
+      "id": 4159,
+      "user_id": 20957582,
+      "platform_id": "ig",
+      "platform_user_id": "Forgotteen",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-26T05:41:23.000Z",
+      "updated_at": "2022-07-26T05:41:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20957582,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T13:25:31.303Z",
+    "updated_at": "2025-04-26T13:25:31.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:25:31.353Z"
+}
