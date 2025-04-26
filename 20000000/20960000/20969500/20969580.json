@@ -1,0 +1,61 @@
+{
+  "id": 20969580,
+  "username": "ruair",
+  "description": "I am a rabbit...................................",
+  "about": "I am a rabbit still.......",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-10T12:30:14.000Z",
+  "date_last_played": "2022-11-06T18:49:51.000Z",
+  "profile_views": 26,
+  "kill_count": 24,
+  "play_count": 140,
+  "highest_score": 338228,
+  "picture": "20969580-f1f9d87fac5c2ff2a2ed345266d1b041.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 38,
+  "tier": 1,
+  "xp": 10200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9043,
+      "user_id": 20969580,
+      "platform_id": "dc",
+      "platform_user_id": "Ieatalotofturdz",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-05T11:38:58.000Z",
+      "updated_at": "2022-11-05T11:39:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20969580,
+    "rank_kc": 169686,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-11-06T18:48:00.000Z",
+    "rank_pc": 46665,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-06T18:48:01.000Z",
+    "rank_hs": 162378,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-06T18:48:02.000Z",
+    "created_at": "2023-07-05T11:01:11.000Z",
+    "updated_at": "2022-11-06T18:49:51.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:36:09.397Z"
+}
