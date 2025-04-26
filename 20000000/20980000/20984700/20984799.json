@@ -1,0 +1,118 @@
+{
+  "id": 20984799,
+  "username": "wellonightYT",
+  "description": "Sry dawg get recked...\n\n\n",
+  "about": "i have a Youtube channel my name is wellonightYT! have fun and hii\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-07T00:05:34.000Z",
+  "date_last_played": "2025-04-21T14:18:22.000Z",
+  "profile_views": 248,
+  "kill_count": 3675,
+  "play_count": 2163,
+  "highest_score": 7185899,
+  "picture": "20984799-bb4ce8594d1cbc51b139dde7a3e313e10.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 307,
+  "tier": 9,
+  "xp": 945000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29856,
+      "user_id": 20984799,
+      "platform_id": "yt",
+      "platform_user_id": "AeSoG",
+      "platform_user_url": "https://www.youtube.com/channel/UCDnjcx3JvC9t64iSEam2qZg",
+      "verified": false,
+      "created_at": "2023-11-23T20:10:46.000Z",
+      "updated_at": "2023-11-23T20:10:46.000Z"
+    },
+    {
+      "id": 9237,
+      "user_id": 20984799,
+      "platform_id": "yt",
+      "platform_user_id": "WellonightYT",
+      "platform_user_url": "https://www.youtube.com/channel/UCDJ9yV1sKp7sSMZihKl1nag/featured",
+      "verified": false,
+      "created_at": "2022-11-07T00:08:25.000Z",
+      "updated_at": "2022-11-07T00:08:25.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20984799,
+    "rank_kc": 11387,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-23T20:10:54.000Z",
+    "rank_pc": 8511,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-23T20:10:57.000Z",
+    "rank_hs": 4204,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-23T20:10:59.000Z",
+    "created_at": "2025-04-21T14:18:22.000Z",
+    "updated_at": "2025-04-21T14:18:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11359,
+          "user_id": 20984799,
+          "cloneof_id": null,
+          "string_id": "213213123",
+          "title": "the wellonightYT map",
+          "description": "my firszt",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-11-28T22:36:01.000Z",
+          "updated_at": "2022-11-28T22:36:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20984799,
+            "username": "wellonightYT",
+            "description": "Sry dawg get recked...\n\n\n",
+            "about": "i have a Youtube channel my name is wellonightYT! have fun and hii\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-11-07T00:05:34.000Z",
+            "date_last_played": "2025-04-21T14:18:22.000Z",
+            "kill_count": 3675,
+            "play_count": 2163,
+            "highest_score": 7185899,
+            "picture": "20984799-bb4ce8594d1cbc51b139dde7a3e313e10.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 307,
+            "tier": 9,
+            "xp": 945000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "my first"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:15:15.250Z"
+}
