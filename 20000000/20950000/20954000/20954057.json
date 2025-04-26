@@ -1,0 +1,106 @@
+{
+  "id": 20954057,
+  "username": "IIi_Coke_iII",
+  "description": "For the record I am not an aggressive person so I am sorry",
+  "about": "Joris Bohnson",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-10T20:57:09.000Z",
+  "date_last_played": "2023-05-16T22:27:22.000Z",
+  "profile_views": 10,
+  "kill_count": 2,
+  "play_count": 13,
+  "highest_score": 338042,
+  "picture": "20954057-972f0bb4930d34ec9cfa942885b047eb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 289,
+  "tier": 1,
+  "xp": 1050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20954057,
+    "rank_kc": 366468,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-11T19:39:54.000Z",
+    "rank_pc": 155561,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-11T19:39:54.000Z",
+    "rank_hs": 235356,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-11T19:39:55.000Z",
+    "created_at": "2023-05-16T22:27:21.000Z",
+    "updated_at": "2023-05-16T22:27:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10293,
+          "user_id": 20954057,
+          "cloneof_id": null,
+          "string_id": "york_isle",
+          "title": "York Isle",
+          "description": "The greatest Deeeeep.io Experience Ever!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-07-11T01:56:54.000Z",
+          "updated_at": "2022-07-11T01:56:54.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20954057,
+            "username": "IIi_Coke_iII",
+            "description": "For the record I am not an aggressive person so I am sorry",
+            "about": "Joris Bohnson",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-07-10T20:57:09.000Z",
+            "date_last_played": "2023-05-16T22:27:22.000Z",
+            "kill_count": 2,
+            "play_count": 13,
+            "highest_score": 338042,
+            "picture": "20954057-972f0bb4930d34ec9cfa942885b047eb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 289,
+            "tier": 1,
+            "xp": 1050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "isle"
+            },
+            {
+              "id": "rp"
+            },
+            {
+              "id": "scenic"
+            },
+            {
+              "id": "york"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:05:19.799Z"
+}
