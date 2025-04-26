@@ -1,0 +1,61 @@
+{
+  "id": 20997601,
+  "username": "Toogood123",
+  "description": "Goofy\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-17T02:00:18.000Z",
+  "date_last_played": "2024-03-03T03:27:39.000Z",
+  "profile_views": 19,
+  "kill_count": 455,
+  "play_count": 268,
+  "highest_score": 1232394,
+  "picture": "20997601-1d17411c222ec963c7529262e89bdca9.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 353,
+  "tier": 2,
+  "xp": 69450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9745,
+      "user_id": 20997601,
+      "platform_id": "ig",
+      "platform_user_id": "Samhn_24",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-17T19:10:29.000Z",
+      "updated_at": "2022-11-17T19:10:29.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20997601,
+    "rank_kc": 55343,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-22T17:23:48.000Z",
+    "rank_pc": 54645,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-22T17:23:52.000Z",
+    "rank_hs": 81795,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-22T17:23:54.000Z",
+    "created_at": "2024-03-03T06:00:02.000Z",
+    "updated_at": "2024-03-03T06:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T17:33:22.435Z"
+}
