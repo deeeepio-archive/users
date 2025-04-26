@@ -1,0 +1,97 @@
+{
+  "id": 20945755,
+  "username": "Jaquez",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-11T05:59:03.000Z",
+  "date_last_played": "2024-12-03T01:33:46.000Z",
+  "profile_views": 10,
+  "kill_count": 52,
+  "play_count": 103,
+  "highest_score": 681789,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 38,
+  "tier": 1,
+  "xp": 10200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20945755,
+    "rank_kc": 154088,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-17T21:28:57.000Z",
+    "rank_pc": 58171,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-17T21:28:57.000Z",
+    "rank_hs": 113891,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-17T21:28:58.000Z",
+    "created_at": "2024-12-03T01:41:09.000Z",
+    "updated_at": "2024-12-03T01:41:09.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9938,
+          "user_id": 20945755,
+          "cloneof_id": null,
+          "string_id": "deep_my_map_v1",
+          "title": "Deep survival",
+          "description": "survive the deep duhh",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 73,
+          "created_at": "2022-06-12T19:42:46.000Z",
+          "updated_at": "2022-06-12T19:42:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20945755,
+            "username": "Jaquez",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-11T05:59:03.000Z",
+            "date_last_played": "2024-12-03T01:33:46.000Z",
+            "kill_count": 52,
+            "play_count": 103,
+            "highest_score": 681789,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 38,
+            "tier": 1,
+            "xp": 10200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#hard"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:15:30.845Z"
+}
