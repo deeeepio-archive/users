@@ -1,0 +1,61 @@
+{
+  "id": 20979120,
+  "username": "KHANKS",
+  "description": "Que peixe bom ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-16T22:18:00.000Z",
+  "date_last_played": "2022-11-12T02:24:45.000Z",
+  "profile_views": 10,
+  "kill_count": 13,
+  "play_count": 35,
+  "highest_score": 560248,
+  "picture": "20979120-c108991e926a710e932dfad88c110428f3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 40,
+  "tier": 1,
+  "xp": 4500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8153,
+      "user_id": 20979120,
+      "platform_id": "ig",
+      "platform_user_id": "Khanks7875",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-16T23:00:37.000Z",
+      "updated_at": "2022-10-16T23:00:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20979120,
+    "rank_kc": 383205,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-16T22:40:06.000Z",
+    "rank_pc": 213499,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-16T22:40:07.000Z",
+    "rank_hs": 280509,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-16T22:40:07.000Z",
+    "created_at": "2022-11-12T02:24:44.000Z",
+    "updated_at": "2022-11-12T02:24:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:40:26.236Z"
+}
