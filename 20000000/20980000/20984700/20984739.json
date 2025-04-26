@@ -1,0 +1,108 @@
+{
+  "id": 20984739,
+  "username": "Killox",
+  "description": ";)",
+  "about": "LNC\nRainphrog is just \"A chill guy\",\nCyber bagel is a bagel that doesnt like to be eaten,\niOptimist is a hippy,\nRedMouse is shitty wine,\n And Miwa is an old white lady who drinks too much.\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-06T19:17:53.000Z",
+  "date_last_played": "2025-04-22T19:27:30.000Z",
+  "profile_views": 1823,
+  "kill_count": 12952,
+  "play_count": 4196,
+  "highest_score": 11084751,
+  "picture": "20984739-361b8db569ed1053e9840d9fa3fdbc59f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2576,
+  "tier": 10,
+  "xp": 2917050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103558,
+      "user_id": 20984739,
+      "platform_id": "dc",
+      "platform_user_id": "hearlix",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-03T22:50:55.000Z",
+      "updated_at": "2025-04-03T22:50:55.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20984739,
+    "rank_kc": 3528,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T15:34:33.000Z",
+    "rank_pc": 3891,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T15:34:47.000Z",
+    "rank_hs": 3230,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-19T15:35:12.000Z",
+    "created_at": "2025-04-22T19:27:30.000Z",
+    "updated_at": "2025-04-22T19:27:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13117,
+          "user_id": 20984739,
+          "cloneof_id": null,
+          "string_id": "idk_im_new",
+          "title": "A bad map?",
+          "description": "A very bad map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 4,
+          "created_at": "2023-11-20T21:56:34.000Z",
+          "updated_at": "2023-11-20T21:56:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20984739,
+            "username": "Killox",
+            "description": ";)",
+            "about": "LNC\nRainphrog is just \"A chill guy\",\nCyber bagel is a bagel that doesnt like to be eaten,\niOptimist is a hippy,\nRedMouse is shitty wine,\n And Miwa is an old white lady who drinks too much.\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-11-06T19:17:53.000Z",
+            "date_last_played": "2025-04-22T19:27:30.000Z",
+            "kill_count": 12952,
+            "play_count": 4196,
+            "highest_score": 11084751,
+            "picture": "20984739-361b8db569ed1053e9840d9fa3fdbc59f.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2576,
+            "tier": 10,
+            "xp": 2917050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Bad"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:14:41.973Z"
+}
