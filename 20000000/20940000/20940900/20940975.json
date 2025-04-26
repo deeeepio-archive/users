@@ -1,0 +1,50 @@
+{
+  "id": 20940975,
+  "username": "小米",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-28T03:10:12.000Z",
+  "date_last_played": "2022-09-13T13:39:42.000Z",
+  "profile_views": 10,
+  "kill_count": 62,
+  "play_count": 149,
+  "highest_score": 569335,
+  "picture": "20940975-7adc462fd77d4d98a384cfeb3c2ea10c7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 414,
+  "tier": 1,
+  "xp": 3900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20940975,
+    "rank_kc": 121942,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-05-30T00:43:52.000Z",
+    "rank_pc": 76143,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-05-30T00:43:52.000Z",
+    "rank_hs": 107148,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-05-30T00:43:52.000Z",
+    "created_at": "2022-09-13T13:39:41.000Z",
+    "updated_at": "2022-09-13T13:39:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:46:20.561Z"
+}
