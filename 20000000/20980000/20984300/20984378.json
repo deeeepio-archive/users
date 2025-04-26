@@ -1,0 +1,91 @@
+{
+  "id": 20984378,
+  "username": "raimer",
+  "description": "ha ha!",
+  "about": "raimer than raim",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-05T11:45:50.000Z",
+  "date_last_played": "2022-11-26T03:00:08.000Z",
+  "profile_views": 33,
+  "kill_count": 10,
+  "play_count": 1,
+  "highest_score": 0,
+  "picture": "20984378-77b6710716688dec10766462540308336a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9538,
+      "user_id": 20984378,
+      "platform_id": "dc",
+      "platform_user_id": "e",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-13T09:24:00.000Z",
+      "updated_at": "2022-11-13T09:24:00.000Z"
+    },
+    {
+      "id": 9065,
+      "user_id": 20984378,
+      "platform_id": "dc",
+      "platform_user_id": "eat more possum",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-05T11:47:06.000Z",
+      "updated_at": "2022-11-05T11:47:06.000Z"
+    },
+    {
+      "id": 9364,
+      "user_id": 20984378,
+      "platform_id": "dc",
+      "platform_user_id": "put yourself in the microwave",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-09T23:18:45.000Z",
+      "updated_at": "2022-11-09T23:18:45.000Z"
+    },
+    {
+      "id": 9066,
+      "user_id": 20984378,
+      "platform_id": "wx",
+      "platform_user_id": "possibly in michigan ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-05T11:51:29.000Z",
+      "updated_at": "2022-11-05T11:51:29.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20984378,
+    "rank_kc": 228199,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-11-26T03:00:24.000Z",
+    "rank_pc": 265674,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2022-11-26T03:00:29.000Z",
+    "rank_hs": 523283,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-11-26T03:00:33.000Z",
+    "created_at": "2022-11-26T03:00:15.000Z",
+    "updated_at": "2022-11-26T03:00:33.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:12:47.197Z"
+}

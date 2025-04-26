@@ -1,0 +1,61 @@
+{
+  "id": 20984432,
+  "username": "Kelson",
+  "description": "Godenot\n",
+  "about": "Kelson",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-05T15:23:48.000Z",
+  "date_last_played": "2022-12-01T13:28:49.000Z",
+  "profile_views": 26,
+  "kill_count": 27,
+  "play_count": 34,
+  "highest_score": 322611,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 1,
+  "xp": 9300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 10513,
+      "user_id": 20984432,
+      "platform_id": "dc",
+      "platform_user_id": "Godenot",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-29T10:17:15.000Z",
+      "updated_at": "2022-11-29T10:17:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20984432,
+    "rank_kc": 211156,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-29T10:15:05.000Z",
+    "rank_pc": 124353,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-29T10:15:06.000Z",
+    "rank_hs": 202976,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-29T10:15:08.000Z",
+    "created_at": "2022-12-01T13:28:48.000Z",
+    "updated_at": "2022-12-01T13:28:49.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:13:02.748Z"
+}
