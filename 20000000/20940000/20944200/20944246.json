@@ -1,0 +1,61 @@
+{
+  "id": 20944246,
+  "username": "D4v1s",
+  "description": "Just bussines boy....",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-06T23:29:14.000Z",
+  "date_last_played": "2024-05-27T15:21:00.000Z",
+  "profile_views": 40,
+  "kill_count": 256,
+  "play_count": 425,
+  "highest_score": 1103713,
+  "picture": "20944246-8bbd10a9bd49f93fa34ac5d0f9cc362ef.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 116,
+  "tier": 2,
+  "xp": 41700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5802,
+      "user_id": 20944246,
+      "platform_id": "dc",
+      "platform_user_id": "Davis#3802",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-30T00:59:46.000Z",
+      "updated_at": "2022-08-30T00:59:46.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20944246,
+    "rank_kc": 64329,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-15T00:14:24.000Z",
+    "rank_pc": 29249,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-15T00:14:25.000Z",
+    "rank_hs": 67524,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-15T00:14:25.000Z",
+    "created_at": "2024-05-27T15:20:59.000Z",
+    "updated_at": "2024-05-27T15:21:00.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:05:28.742Z"
+}

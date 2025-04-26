@@ -1,0 +1,100 @@
+{
+  "id": 20944222,
+  "username": "Fishwater",
+  "description": "I’m going to defecate into the jaws of your dead body",
+  "about": "My entire personality is centred around my personality.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-06T22:31:58.000Z",
+  "date_last_played": "2025-02-14T00:16:42.000Z",
+  "profile_views": 3258,
+  "kill_count": 4611,
+  "play_count": 1492,
+  "highest_score": 4622997,
+  "picture": "20944222-10f186881d7cc86a1f2102d21056760e2a8-b6b0e3bd-3963-4a8e-8ef4-48a4b7be4f1a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 471,
+  "tier": 10,
+  "xp": 1182000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20944222,
+    "rank_kc": 12177,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-22T23:04:08.000Z",
+    "rank_pc": 18819,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-22T23:04:09.000Z",
+    "rank_hs": 9633,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-22T23:04:10.000Z",
+    "created_at": "2025-02-14T00:16:41.000Z",
+    "updated_at": "2025-02-14T00:16:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244407,
+          "user_id": 20944222,
+          "cloneof_id": null,
+          "string_id": "the_best_square",
+          "title": "The Best Square",
+          "description": "a better square than your square",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 13,
+          "created_at": "2024-07-06T23:58:05.000Z",
+          "updated_at": "2024-09-15T23:40:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20944222,
+            "username": "Fishwater",
+            "description": "I’m going to defecate into the jaws of your dead body",
+            "about": "My entire personality is centred around my personality.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-06T22:31:58.000Z",
+            "date_last_played": "2025-02-14T00:16:42.000Z",
+            "kill_count": 4611,
+            "play_count": 1492,
+            "highest_score": 4622997,
+            "picture": "20944222-10f186881d7cc86a1f2102d21056760e2a8-b6b0e3bd-3963-4a8e-8ef4-48a4b7be4f1a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 471,
+            "tier": 10,
+            "xp": 1182000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "better square"
+            },
+            {
+              "id": "square"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:05:25.879Z"
+}
