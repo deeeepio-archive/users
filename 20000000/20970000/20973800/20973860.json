@@ -1,0 +1,61 @@
+{
+  "id": 20973860,
+  "username": "kamzago35",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-25T15:08:20.000Z",
+  "date_last_played": "2022-09-27T17:19:42.000Z",
+  "profile_views": 3,
+  "kill_count": 36,
+  "play_count": 43,
+  "highest_score": 636692,
+  "picture": "20973860-47fe751a434e49de2f586050ab2d1511.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 58,
+  "tier": 1,
+  "xp": 7200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7294,
+      "user_id": 20973860,
+      "platform_id": "yt",
+      "platform_user_id": "kamzago35",
+      "platform_user_url": "https://www.youtube.com/channel/UCwXPVXf7uwIYWVyWX18h4-w",
+      "verified": false,
+      "created_at": "2022-09-25T15:12:52.000Z",
+      "updated_at": "2022-09-25T15:12:52.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20973860,
+    "rank_kc": 155156,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-27T16:26:59.000Z",
+    "rank_pc": 95833,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-27T16:27:01.000Z",
+    "rank_hs": 107538,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-27T16:27:03.000Z",
+    "created_at": "2022-11-11T17:21:23.000Z",
+    "updated_at": "2022-09-27T17:19:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:08:40.923Z"
+}
