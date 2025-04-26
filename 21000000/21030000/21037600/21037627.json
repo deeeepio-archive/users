@@ -1,0 +1,61 @@
+{
+  "id": 21037627,
+  "username": "Mir0slav",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-17T05:10:01.000Z",
+  "date_last_played": "2022-11-19T23:11:23.000Z",
+  "profile_views": 8,
+  "kill_count": 2,
+  "play_count": 26,
+  "highest_score": 174705,
+  "picture": "21037627-bdf5126aea104d04191e7c46edb8c711f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9970,
+      "user_id": 21037627,
+      "platform_id": "dc",
+      "platform_user_id": "Miroslav#5743",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-19T21:47:34.000Z",
+      "updated_at": "2022-11-19T21:47:34.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21037627,
+    "rank_kc": 388862,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-17T05:25:20.000Z",
+    "rank_pc": 246366,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-17T05:25:20.000Z",
+    "rank_hs": 510959,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-17T05:25:21.000Z",
+    "created_at": "2022-11-19T23:11:23.000Z",
+    "updated_at": "2022-11-19T23:11:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T21:39:26.704Z"
+}
