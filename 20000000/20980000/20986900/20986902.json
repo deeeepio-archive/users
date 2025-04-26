@@ -1,0 +1,50 @@
+{
+  "id": 20986902,
+  "username": "john123",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-14T16:06:36.000Z",
+  "date_last_played": "2023-09-13T19:02:56.000Z",
+  "profile_views": 1,
+  "kill_count": 363,
+  "play_count": 255,
+  "highest_score": 1353324,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 26,
+  "tier": 2,
+  "xp": 43800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20986902,
+    "rank_kc": 58550,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-08T20:32:09.000Z",
+    "rank_pc": 47203,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-08T20:32:10.000Z",
+    "rank_hs": 56681,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-08T20:32:12.000Z",
+    "created_at": "2023-09-13T19:02:56.000Z",
+    "updated_at": "2023-09-13T19:02:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:26:59.135Z"
+}
