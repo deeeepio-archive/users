@@ -1,0 +1,50 @@
+{
+  "id": 20961160,
+  "username": "popeye",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-10T22:30:37.000Z",
+  "date_last_played": "2024-10-14T20:28:34.000Z",
+  "profile_views": 5,
+  "kill_count": 52,
+  "play_count": 106,
+  "highest_score": 660482,
+  "picture": "20961160-c25b7c69a923241781f38fec87f62d5f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 51,
+  "tier": 1,
+  "xp": 9600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20961160,
+    "rank_kc": 285884,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-10T23:17:39.000Z",
+    "rank_pc": 159736,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-10T23:17:40.000Z",
+    "rank_hs": 200399,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-10T23:17:40.000Z",
+    "created_at": "2024-10-14T20:28:33.000Z",
+    "updated_at": "2024-10-14T20:28:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:47:07.886Z"
+}

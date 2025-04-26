@@ -1,0 +1,61 @@
+{
+  "id": 20961216,
+  "username": "breadthedin0",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-11T03:18:40.000Z",
+  "date_last_played": "2023-01-13T00:21:29.000Z",
+  "profile_views": 16,
+  "kill_count": 95,
+  "play_count": 280,
+  "highest_score": 477219,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 1,
+  "xp": 16800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4981,
+      "user_id": 20961216,
+      "platform_id": "dc",
+      "platform_user_id": "diplo_playz",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-15T00:14:30.000Z",
+      "updated_at": "2022-08-15T00:14:30.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20961216,
+    "rank_kc": 371240,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-11T03:32:08.000Z",
+    "rank_pc": 173393,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-11T03:32:09.000Z",
+    "rank_hs": 354484,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-11T03:32:09.000Z",
+    "created_at": "2023-01-13T00:21:29.000Z",
+    "updated_at": "2023-01-13T00:21:29.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:47:14.697Z"
+}
