@@ -1,0 +1,71 @@
+{
+  "id": 20827961,
+  "username": "Fish_are_cooool",
+  "description": "Skib\n",
+  "about": "Crabs are very cool",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-01T23:59:01.000Z",
+  "date_last_played": "2025-03-22T08:38:35.000Z",
+  "profile_views": 139,
+  "kill_count": 443,
+  "play_count": 348,
+  "highest_score": 3129946,
+  "picture": "20827961-5cb3fe95a7a3acdb9838c486648d6f75.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 140,
+  "tier": 4,
+  "xp": 204900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1316,
+      "user_id": 20827961,
+      "platform_id": "dc",
+      "platform_user_id": "I Eat Orphans#8925",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-01T22:14:02.000Z",
+      "updated_at": "2023-03-04T10:31:51.000Z"
+    },
+    {
+      "id": 1315,
+      "user_id": 20827961,
+      "platform_id": "rd",
+      "platform_user_id": "Cactusz81",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-01T22:13:24.000Z",
+      "updated_at": "2022-06-01T22:13:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20827961,
+    "rank_kc": 49917,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-30T06:51:57.000Z",
+    "rank_pc": 37057,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-30T06:51:58.000Z",
+    "rank_hs": 19623,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-30T06:52:00.000Z",
+    "created_at": "2025-03-22T08:38:34.000Z",
+    "updated_at": "2025-03-22T08:38:35.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T00:13:09.580Z"
+}
