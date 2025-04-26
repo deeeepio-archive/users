@@ -1,0 +1,61 @@
+{
+  "id": 20836702,
+  "username": "Dumm_trekk",
+  "description": "bye",
+  "about": "Small cactus",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-04-18T16:25:04.000Z",
+  "date_last_played": "2024-04-11T13:52:04.000Z",
+  "profile_views": 5,
+  "kill_count": 18,
+  "play_count": 49,
+  "highest_score": 315059,
+  "picture": "20836702-b3da102a9efadfb1294c6810e55ca5e8a5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 511,
+  "tier": 1,
+  "xp": 1650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26688,
+      "user_id": 20836702,
+      "platform_id": "dc",
+      "platform_user_id": "Dummtrekk",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-18T10:01:23.000Z",
+      "updated_at": "2023-09-18T10:01:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20836702,
+    "rank_kc": 336934,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-18T09:59:39.000Z",
+    "rank_pc": 177473,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-18T09:59:40.000Z",
+    "rank_hs": 389616,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-18T09:59:41.000Z",
+    "created_at": "2024-04-11T13:52:04.000Z",
+    "updated_at": "2024-04-11T13:52:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T01:06:35.271Z"
+}
