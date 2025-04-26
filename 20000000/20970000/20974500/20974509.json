@@ -1,0 +1,50 @@
+{
+  "id": 20974509,
+  "username": "개구리",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-28T14:06:03.000Z",
+  "date_last_played": "2023-10-24T02:06:05.000Z",
+  "profile_views": 3,
+  "kill_count": 74,
+  "play_count": 64,
+  "highest_score": 633782,
+  "picture": "20974509-b00476e4bf73fbd623f781a1ed9b8668.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 16,
+  "tier": 1,
+  "xp": 12900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20974509,
+    "rank_kc": 432440,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-10T08:20:28.000Z",
+    "rank_pc": 347768,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-10T08:20:29.000Z",
+    "rank_hs": 577938,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-10T08:20:30.000Z",
+    "created_at": "2023-10-24T02:06:04.000Z",
+    "updated_at": "2023-10-24T02:06:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:12:01.114Z"
+}

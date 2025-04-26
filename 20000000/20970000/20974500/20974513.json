@@ -1,0 +1,61 @@
+{
+  "id": 20974513,
+  "username": "Kev7",
+  "description": "KYS\n\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-28T14:17:26.000Z",
+  "date_last_played": "2023-05-28T23:15:15.000Z",
+  "profile_views": 59,
+  "kill_count": 554,
+  "play_count": 624,
+  "highest_score": 2152169,
+  "picture": "20974513-103f51edef642fa27715d7ec6d9adf4b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 453,
+  "tier": 3,
+  "xp": 101850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7870,
+      "user_id": 20974513,
+      "platform_id": "dc",
+      "platform_user_id": "Kev#4841",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-09T02:37:59.000Z",
+      "updated_at": "2022-10-09T02:37:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20974513,
+    "rank_kc": 39354,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-28T19:56:21.000Z",
+    "rank_pc": 17266,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-28T19:56:22.000Z",
+    "rank_hs": 29670,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-28T19:56:22.000Z",
+    "created_at": "2023-05-28T23:15:14.000Z",
+    "updated_at": "2023-05-28T23:15:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:12:01.579Z"
+}
