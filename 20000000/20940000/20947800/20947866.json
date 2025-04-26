@@ -1,0 +1,61 @@
+{
+  "id": 20947866,
+  "username": "Arnold",
+  "description": "You must be honoured that i killed you",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-17T19:47:04.000Z",
+  "date_last_played": "2023-07-02T23:16:05.000Z",
+  "profile_views": 12,
+  "kill_count": 5,
+  "play_count": 41,
+  "highest_score": 68725,
+  "picture": "20947866-84b7fe11a6eae510e4525ab41852d48c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 310,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 6936,
+      "user_id": 20947866,
+      "platform_id": "dc",
+      "platform_user_id": "arnoldo🐉#9632",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-09-17T20:49:47.000Z",
+      "updated_at": "2022-09-17T20:49:47.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20947866,
+    "rank_kc": 337030,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-18T12:19:39.000Z",
+    "rank_pc": 115870,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-18T12:19:39.000Z",
+    "rank_hs": 339260,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-18T12:19:40.000Z",
+    "created_at": "2023-07-02T23:16:04.000Z",
+    "updated_at": "2023-07-02T23:16:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:28:22.869Z"
+}
