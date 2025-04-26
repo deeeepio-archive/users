@@ -1,0 +1,97 @@
+{
+  "id": 20829720,
+  "username": "123qwertyuiop456",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-07T13:54:53.000Z",
+  "date_last_played": "2023-10-06T19:44:21.000Z",
+  "profile_views": 2,
+  "kill_count": 101,
+  "play_count": 72,
+  "highest_score": 1009332,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 32,
+  "tier": 1,
+  "xp": 19500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20829720,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T00:23:38.365Z",
+    "updated_at": "2025-04-26T00:23:38.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11028,
+          "user_id": 20829720,
+          "cloneof_id": null,
+          "string_id": "24651312653412653",
+          "title": "JUST EAT",
+          "description": "JUST EAT",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 124,
+          "created_at": "2022-10-03T21:40:49.000Z",
+          "updated_at": "2022-10-03T21:47:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20829720,
+            "username": "123qwertyuiop456",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-07T13:54:53.000Z",
+            "date_last_played": "2023-10-06T19:44:21.000Z",
+            "kill_count": 101,
+            "play_count": 72,
+            "highest_score": 1009332,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 32,
+            "tier": 1,
+            "xp": 19500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "JUST EAT"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T00:23:38.425Z"
+}
