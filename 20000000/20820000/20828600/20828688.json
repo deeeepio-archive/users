@@ -1,0 +1,269 @@
+{
+  "id": 20828688,
+  "username": "WesternInteriorGaming",
+  "description": "The FitnessGram Pacer test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter Pacer test will begin in 30 seconds. Line up at the start. ",
+  "about": "Meme artist, Lizard Wrangler, Dinosaur collector, and Natural History enthusiast.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-03T18:39:29.000Z",
+  "date_last_played": "2025-04-03T23:09:59.000Z",
+  "profile_views": 674,
+  "kill_count": 5469,
+  "play_count": 2761,
+  "highest_score": 3750213,
+  "picture": "20828688-eb70a6c57fe95d9c9eb5cc1a6d928b2d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 115,
+  "tier": 10,
+  "xp": 1270800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26916,
+      "user_id": 20828688,
+      "platform_id": "dc",
+      "platform_user_id": "danktorvosaurus#1866",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-23T01:54:33.000Z",
+      "updated_at": "2023-10-02T23:31:30.000Z"
+    },
+    {
+      "id": 21321,
+      "user_id": 20828688,
+      "platform_id": "ig",
+      "platform_user_id": "western.interior.gaming",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-20T19:06:03.000Z",
+      "updated_at": "2023-09-08T15:21:34.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20828688,
+    "rank_kc": 5689,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-11T16:17:36.000Z",
+    "rank_pc": 3792,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-11T16:17:39.000Z",
+    "rank_hs": 14567,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-11T16:17:42.000Z",
+    "created_at": "2025-04-03T23:09:58.000Z",
+    "updated_at": "2025-04-03T23:09:59.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12301,
+          "user_id": 20828688,
+          "cloneof_id": null,
+          "string_id": "wig_ffa",
+          "title": "WIG's FFA",
+          "description": "In case you can't tell already, I really like seagrass.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 1298,
+          "created_at": "2023-05-23T19:07:17.000Z",
+          "updated_at": "2024-01-04T19:54:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20828688,
+            "username": "WesternInteriorGaming",
+            "description": "The FitnessGram Pacer test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter Pacer test will begin in 30 seconds. Line up at the start. ",
+            "about": "Meme artist, Lizard Wrangler, Dinosaur collector, and Natural History enthusiast.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-03T18:39:29.000Z",
+            "date_last_played": "2025-04-03T23:09:59.000Z",
+            "kill_count": 5469,
+            "play_count": 2761,
+            "highest_score": 3750213,
+            "picture": "20828688-eb70a6c57fe95d9c9eb5cc1a6d928b2d.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 115,
+            "tier": 10,
+            "xp": 1270800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 10963,
+          "user_id": 20828688,
+          "cloneof_id": null,
+          "string_id": "the_agressive_coconut_crab",
+          "title": "The Agressive Coconut Crab",
+          "description": "It's every fish for himself. A single crab will spawn in a random location, hunting down whoever it sees. The crab may be slow, but never stay still for too long. Beware.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 130,
+          "created_at": "2022-09-23T15:32:22.000Z",
+          "updated_at": "2023-05-23T17:45:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20828688,
+            "username": "WesternInteriorGaming",
+            "description": "The FitnessGram Pacer test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter Pacer test will begin in 30 seconds. Line up at the start. ",
+            "about": "Meme artist, Lizard Wrangler, Dinosaur collector, and Natural History enthusiast.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-03T18:39:29.000Z",
+            "date_last_played": "2025-04-03T23:09:59.000Z",
+            "kill_count": 5469,
+            "play_count": 2761,
+            "highest_score": 3750213,
+            "picture": "20828688-eb70a6c57fe95d9c9eb5cc1a6d928b2d.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 115,
+            "tier": 10,
+            "xp": 1270800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 10528,
+          "user_id": 20828688,
+          "cloneof_id": null,
+          "string_id": "giantoceanv1",
+          "title": "Giant FFA Ocean",
+          "description": "A Giant Free For All map with multiple biomes, where any animal can live at any time.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 20,
+          "objects": 1240,
+          "created_at": "2022-08-04T14:53:34.000Z",
+          "updated_at": "2023-10-21T14:53:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20828688,
+            "username": "WesternInteriorGaming",
+            "description": "The FitnessGram Pacer test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter Pacer test will begin in 30 seconds. Line up at the start. ",
+            "about": "Meme artist, Lizard Wrangler, Dinosaur collector, and Natural History enthusiast.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-03T18:39:29.000Z",
+            "date_last_played": "2025-04-03T23:09:59.000Z",
+            "kill_count": 5469,
+            "play_count": 2761,
+            "highest_score": 3750213,
+            "picture": "20828688-eb70a6c57fe95d9c9eb5cc1a6d928b2d.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 115,
+            "tier": 10,
+            "xp": 1270800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "WIP"
+            }
+          ]
+        },
+        {
+          "id": 10345,
+          "user_id": 20828688,
+          "cloneof_id": null,
+          "string_id": "smallreefno1",
+          "title": "Small Reef Map",
+          "description": "reef thing I am currently making",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 7,
+          "objects": 199,
+          "created_at": "2022-07-17T21:35:02.000Z",
+          "updated_at": "2022-11-10T15:41:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20828688,
+            "username": "WesternInteriorGaming",
+            "description": "The FitnessGram Pacer test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter Pacer test will begin in 30 seconds. Line up at the start. ",
+            "about": "Meme artist, Lizard Wrangler, Dinosaur collector, and Natural History enthusiast.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-03T18:39:29.000Z",
+            "date_last_played": "2025-04-03T23:09:59.000Z",
+            "kill_count": 5469,
+            "play_count": 2761,
+            "highest_score": 3750213,
+            "picture": "20828688-eb70a6c57fe95d9c9eb5cc1a6d928b2d.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 115,
+            "tier": 10,
+            "xp": 1270800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "WIP"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T00:17:11.356Z"
+}
