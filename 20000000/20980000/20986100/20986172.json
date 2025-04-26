@@ -1,0 +1,50 @@
+{
+  "id": 20986172,
+  "username": "doggie1234",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-11T20:10:11.000Z",
+  "date_last_played": "2022-11-22T02:24:25.000Z",
+  "profile_views": 9,
+  "kill_count": 22,
+  "play_count": 168,
+  "highest_score": 244415,
+  "picture": "20986172-b3f41987ac42feb51347fe23c7108bdfa.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 30,
+  "tier": 1,
+  "xp": 6450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20986172,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T16:22:22.327Z",
+    "updated_at": "2025-04-26T16:22:22.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:22:22.391Z"
+}
