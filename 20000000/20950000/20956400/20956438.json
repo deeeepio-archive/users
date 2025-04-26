@@ -1,0 +1,61 @@
+{
+  "id": 20956438,
+  "username": "毛毛虫",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-21T07:00:58.000Z",
+  "date_last_played": "2024-12-02T05:45:27.000Z",
+  "profile_views": 131,
+  "kill_count": 117,
+  "play_count": 369,
+  "highest_score": 774718,
+  "picture": "20956438-b4def1b74d769a310abd2e3a9a81073291.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 54,
+  "tier": 2,
+  "xp": 40200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5636,
+      "user_id": 20956438,
+      "platform_id": "qq",
+      "platform_user_id": "508068656",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-26T02:41:10.000Z",
+      "updated_at": "2022-08-26T02:41:10.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20956438,
+    "rank_kc": 98590,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-21T03:05:21.000Z",
+    "rank_pc": 30833,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-21T03:05:22.000Z",
+    "rank_hs": 111140,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-21T03:05:23.000Z",
+    "created_at": "2024-12-02T08:00:02.000Z",
+    "updated_at": "2024-12-02T08:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:19:02.186Z"
+}
