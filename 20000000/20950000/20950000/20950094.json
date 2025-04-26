@@ -1,0 +1,97 @@
+{
+  "id": 20950094,
+  "username": "Eomsarprince",
+  "description": "Your food will kill to you(?).",
+  "about": "hi\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-25T09:27:42.000Z",
+  "date_last_played": "2024-05-04T02:38:05.000Z",
+  "profile_views": 7,
+  "kill_count": 15,
+  "play_count": 40,
+  "highest_score": 490075,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 576,
+  "tier": 1,
+  "xp": 5100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20950094,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T12:41:54.729Z",
+    "updated_at": "2025-04-26T12:41:55.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10182,
+          "user_id": 20950094,
+          "cloneof_id": 10181,
+          "string_id": "table_and_cap2",
+          "title": "table",
+          "description": "table",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 103,
+          "created_at": "2022-06-27T11:49:52.000Z",
+          "updated_at": "2022-06-27T11:49:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20950094,
+            "username": "Eomsarprince",
+            "description": "Your food will kill to you(?).",
+            "about": "hi\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-25T09:27:42.000Z",
+            "date_last_played": "2024-05-04T02:38:05.000Z",
+            "kill_count": 15,
+            "play_count": 40,
+            "highest_score": 490075,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 576,
+            "tier": 1,
+            "xp": 5100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "table"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:41:54.817Z"
+}
