@@ -1,0 +1,71 @@
+{
+  "id": 20964039,
+  "username": "dirilis",
+  "description": "Not that hard bro,\nsorry :D",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-21T19:30:38.000Z",
+  "date_last_played": "2022-09-09T10:47:32.000Z",
+  "profile_views": 14,
+  "kill_count": 223,
+  "play_count": 327,
+  "highest_score": 772191,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 130,
+  "tier": 1,
+  "xp": 18000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5559,
+      "user_id": 20964039,
+      "platform_id": "dc",
+      "platform_user_id": "HalilHalid#2624",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-24T13:54:05.000Z",
+      "updated_at": "2022-08-24T13:54:05.000Z"
+    },
+    {
+      "id": 5560,
+      "user_id": 20964039,
+      "platform_id": "ig",
+      "platform_user_id": "mustafa.altindal.14.middleeast",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-24T13:54:25.000Z",
+      "updated_at": "2022-08-24T13:54:25.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20964039,
+    "rank_kc": 88678,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-02T13:23:23.000Z",
+    "rank_pc": 36205,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-02T13:23:23.000Z",
+    "rank_hs": 167721,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-02T13:23:23.000Z",
+    "created_at": "2022-09-09T10:47:32.000Z",
+    "updated_at": "2022-09-09T10:47:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:03:21.794Z"
+}
