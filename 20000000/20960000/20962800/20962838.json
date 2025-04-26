@@ -1,0 +1,50 @@
+{
+  "id": 20962838,
+  "username": "Eveve",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-17T01:20:56.000Z",
+  "date_last_played": "2023-08-11T11:25:53.000Z",
+  "profile_views": 12,
+  "kill_count": 16,
+  "play_count": 116,
+  "highest_score": 192236,
+  "picture": "20962838-478f42836db8e4a1b34e1b38ec33b603.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 3750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20962838,
+    "rank_kc": 293240,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-02T22:20:10.000Z",
+    "rank_pc": 68048,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-02T22:20:11.000Z",
+    "rank_hs": 248281,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-02T22:20:13.000Z",
+    "created_at": "2023-08-11T11:25:52.000Z",
+    "updated_at": "2023-08-11T11:25:53.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:56:09.446Z"
+}
