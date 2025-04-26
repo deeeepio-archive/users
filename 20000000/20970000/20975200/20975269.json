@@ -1,0 +1,81 @@
+{
+  "id": 20975269,
+  "username": "CharlesCYF",
+  "description": "nnah i won",
+  "about": "泡麵",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-01T06:34:32.000Z",
+  "date_last_played": "2025-01-19T08:00:03.000Z",
+  "profile_views": 243,
+  "kill_count": 1850,
+  "play_count": 1078,
+  "highest_score": 3658720,
+  "picture": "20975269-eee85d21f7a24c1e7d074d5b1065310dc2.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 61,
+  "tier": 7,
+  "xp": 556200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7927,
+      "user_id": 20975269,
+      "platform_id": "dc",
+      "platform_user_id": "CharlesCYF#1329",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-10T07:00:11.000Z",
+      "updated_at": "2022-10-10T07:00:11.000Z"
+    },
+    {
+      "id": 8271,
+      "user_id": 20975269,
+      "platform_id": "ig",
+      "platform_user_id": "cyf__yen",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-19T12:15:33.000Z",
+      "updated_at": "2022-10-19T12:15:33.000Z"
+    },
+    {
+      "id": 8272,
+      "user_id": 20975269,
+      "platform_id": "rd",
+      "platform_user_id": "CharlesCYF",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-19T12:17:01.000Z",
+      "updated_at": "2022-10-19T12:17:01.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20975269,
+    "rank_kc": 22219,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-30T02:09:38.000Z",
+    "rank_pc": 13909,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-30T02:09:39.000Z",
+    "rank_hs": 14540,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-30T02:09:40.000Z",
+    "created_at": "2025-01-19T08:00:02.000Z",
+    "updated_at": "2025-01-19T08:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:17:18.823Z"
+}
