@@ -1,0 +1,50 @@
+{
+  "id": 20977411,
+  "username": "someGuy5",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-10T01:47:10.000Z",
+  "date_last_played": "2024-01-16T03:28:24.000Z",
+  "profile_views": 6,
+  "kill_count": 120,
+  "play_count": 126,
+  "highest_score": 639168,
+  "picture": "20977411-7a71110e1db5f5132fd922d0912653c23.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 61,
+  "tier": 1,
+  "xp": 16650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20977411,
+    "rank_kc": 93828,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-16T03:28:44.000Z",
+    "rank_pc": 55961,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-16T03:28:44.000Z",
+    "rank_hs": 108372,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-16T03:28:44.000Z",
+    "created_at": "2024-01-16T03:28:23.000Z",
+    "updated_at": "2024-01-16T03:28:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:30:59.109Z"
+}
