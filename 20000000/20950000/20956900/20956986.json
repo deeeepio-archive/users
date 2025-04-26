@@ -1,0 +1,71 @@
+{
+  "id": 20956986,
+  "username": "zMoonlight",
+  "description": "idk",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-23T11:30:10.000Z",
+  "date_last_played": "2024-08-28T02:16:29.000Z",
+  "profile_views": 10,
+  "kill_count": 2,
+  "play_count": 19,
+  "highest_score": 286419,
+  "picture": "20956986-b81bb5dada2e5198b1a1a8453ecab99c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 20,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 93745,
+      "user_id": 20956986,
+      "platform_id": "dc",
+      "platform_user_id": "zmoonlights",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-04-12T09:02:43.000Z",
+      "updated_at": "2024-04-12T09:02:43.000Z"
+    },
+    {
+      "id": 93746,
+      "user_id": 20956986,
+      "platform_id": "yt",
+      "platform_user_id": "@zMoonlight",
+      "platform_user_url": "https://www.youtube.com/channel/UCAGrHr5HlgHbEMeH7R4VM6w",
+      "verified": false,
+      "created_at": "2024-04-12T09:03:03.000Z",
+      "updated_at": "2024-04-12T09:03:03.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20956986,
+    "rank_kc": 328205,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-23T11:51:04.000Z",
+    "rank_pc": 197585,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-24T02:19:55.000Z",
+    "rank_hs": 172189,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-23T11:51:05.000Z",
+    "created_at": "2024-08-28T02:16:28.000Z",
+    "updated_at": "2024-08-28T02:16:29.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:22:39.528Z"
+}
