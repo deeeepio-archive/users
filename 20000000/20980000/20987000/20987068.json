@@ -1,0 +1,61 @@
+{
+  "id": 20987068,
+  "username": "괴짜",
+  "description": "옳은 것을 추구해봤자 오는 것은 가난과 고통이다",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-15T08:40:30.000Z",
+  "date_last_played": "2023-02-22T10:04:55.000Z",
+  "profile_views": 39,
+  "kill_count": 82,
+  "play_count": 36,
+  "highest_score": 2797994,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 22650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15409,
+      "user_id": 20987068,
+      "platform_id": "yt",
+      "platform_user_id": "f",
+      "platform_user_url": "https://www.youtube.com/watch?v=oxHnRfhDmrk",
+      "verified": false,
+      "created_at": "2023-02-21T14:26:04.000Z",
+      "updated_at": "2023-02-21T14:26:04.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20987068,
+    "rank_kc": 108866,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-22T09:55:10.000Z",
+    "rank_pc": 107922,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-22T09:55:12.000Z",
+    "rank_hs": 20911,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-22T09:55:15.000Z",
+    "created_at": "2023-04-16T13:26:23.000Z",
+    "updated_at": "2023-03-07T09:42:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:28:11.038Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 20987066,
+  "username": "Holmes",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-15T08:30:01.000Z",
+  "date_last_played": "2023-02-13T19:49:45.000Z",
+  "profile_views": 4,
+  "kill_count": 124,
+  "play_count": 180,
+  "highest_score": 635685,
+  "picture": "20987066-afc4cc337b29cdf13b4b395b3cf794e7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 70,
+  "tier": 1,
+  "xp": 10950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20987066,
+    "rank_kc": 135308,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-15T13:58:22.000Z",
+    "rank_pc": 80916,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-15T13:58:25.000Z",
+    "rank_hs": 115467,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-15T13:58:28.000Z",
+    "created_at": "2023-02-13T19:49:45.000Z",
+    "updated_at": "2023-02-13T19:49:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:28:10.792Z"
+}
