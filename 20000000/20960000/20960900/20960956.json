@@ -1,0 +1,61 @@
+{
+  "id": 20960956,
+  "username": "Hailstorm",
+  "description": "Never that deep.",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-10T02:35:35.000Z",
+  "date_last_played": "2024-11-04T05:33:28.000Z",
+  "profile_views": 1651,
+  "kill_count": 7374,
+  "play_count": 3316,
+  "highest_score": 8337147,
+  "picture": "20960956-3e5ff64996d709402101593fe35a5fd3f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2862,
+  "tier": 10,
+  "xp": 2109150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7875,
+      "user_id": 20960956,
+      "platform_id": "dc",
+      "platform_user_id": "Hails#5092",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-09T06:00:08.000Z",
+      "updated_at": "2022-10-09T06:00:08.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20960956,
+    "rank_kc": 4113,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-16T00:50:16.000Z",
+    "rank_pc": 3024,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-16T00:50:23.000Z",
+    "rank_hs": 3452,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-15T06:03:33.000Z",
+    "created_at": "2024-11-04T05:33:27.000Z",
+    "updated_at": "2024-11-04T05:33:28.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:45:56.969Z"
+}

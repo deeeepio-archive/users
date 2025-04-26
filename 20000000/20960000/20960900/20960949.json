@@ -1,0 +1,71 @@
+{
+  "id": 20960949,
+  "username": "Taro-sherman",
+  "description": "si",
+  "about": "wholesome mi machete",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-10T01:33:41.000Z",
+  "date_last_played": "2025-04-26T01:59:57.000Z",
+  "profile_views": 8942,
+  "kill_count": 41148,
+  "play_count": 7122,
+  "highest_score": 6000162,
+  "picture": "20960949-f6e8a67fce84235f777a2860dd988539-3aa956ce-07c9-4c47-99be-12f0f2444d1a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2679,
+  "tier": 10,
+  "xp": 6586200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 19841,
+      "user_id": 20960949,
+      "platform_id": "dc",
+      "platform_user_id": "Taro#4384",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-26T01:39:37.000Z",
+      "updated_at": "2023-05-26T01:39:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20960949,
+    "rank_kc": 736,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T05:01:25.000Z",
+    "rank_pc": 2148,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T05:01:27.000Z",
+    "rank_hs": 14157,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-21T03:14:10.000Z",
+    "created_at": "2025-04-26T01:59:57.000Z",
+    "updated_at": "2025-04-26T01:59:57.000Z",
+    "pd": {
+      "played": 105,
+      "won": 58,
+      "ratio": 55
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:45:54.719Z"
+}
