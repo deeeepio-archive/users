@@ -1,0 +1,61 @@
+{
+  "id": 20960924,
+  "username": "krisland23",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-09T22:33:14.000Z",
+  "date_last_played": "2022-08-23T03:01:02.000Z",
+  "profile_views": 2,
+  "kill_count": 1,
+  "play_count": 12,
+  "highest_score": 128635,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 1,
+  "xp": 450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4891,
+      "user_id": 20960924,
+      "platform_id": "ig",
+      "platform_user_id": "krisland_c",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-11T21:21:59.000Z",
+      "updated_at": "2022-08-11T21:21:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20960924,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T13:45:30.378Z",
+    "updated_at": "2025-04-26T13:45:30.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:45:30.467Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 20960861,
+  "username": "Collodi",
+  "description": "Ogs me conhecem como  \"SUPER PT\"",
+  "about": "https://davi-lima.webflow.io/",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-09T18:35:10.000Z",
+  "date_last_played": "2025-03-21T17:13:52.000Z",
+  "profile_views": 376,
+  "kill_count": 5798,
+  "play_count": 2673,
+  "highest_score": 5068763,
+  "picture": "20960861-bd9f61fd438aaae89ce73bd0d7511014e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 348,
+  "tier": 10,
+  "xp": 1529100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 10873,
+      "user_id": 20960861,
+      "platform_id": "dc",
+      "platform_user_id": "davi#2480",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-05T17:07:08.000Z",
+      "updated_at": "2022-12-05T17:07:08.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20960861,
+    "rank_kc": 7615,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-15T13:20:33.000Z",
+    "rank_pc": 4927,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-15T13:20:38.000Z",
+    "rank_hs": 8207,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-15T01:01:46.000Z",
+    "created_at": "2025-03-21T17:13:52.000Z",
+    "updated_at": "2025-03-21T17:13:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:45:12.735Z"
+}
