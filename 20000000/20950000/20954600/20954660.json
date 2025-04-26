@@ -1,0 +1,61 @@
+{
+  "id": 20954660,
+  "username": "docmk2",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-13T15:47:51.000Z",
+  "date_last_played": "2024-06-02T22:52:35.000Z",
+  "profile_views": 6,
+  "kill_count": 14,
+  "play_count": 44,
+  "highest_score": 471757,
+  "picture": "20954660-3b76d4910d81fc325fdcfcd52747edb4e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 165,
+  "tier": 1,
+  "xp": 7350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3787,
+      "user_id": 20954660,
+      "platform_id": "dc",
+      "platform_user_id": "innocent8950",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-15T18:52:40.000Z",
+      "updated_at": "2024-06-02T22:34:14.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20954660,
+    "rank_kc": 366831,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-07-13T21:55:46.000Z",
+    "rank_pc": 195814,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-13T21:55:46.000Z",
+    "rank_hs": 249534,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-13T21:55:47.000Z",
+    "created_at": "2024-06-02T22:52:34.000Z",
+    "updated_at": "2024-06-02T22:52:35.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:09:01.871Z"
+}
