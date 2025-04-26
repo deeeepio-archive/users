@@ -1,0 +1,97 @@
+{
+  "id": 20979576,
+  "username": "gabrielff",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-18T20:40:08.000Z",
+  "date_last_played": "2022-11-07T23:23:25.000Z",
+  "profile_views": 5,
+  "kill_count": 35,
+  "play_count": 36,
+  "highest_score": 1099120,
+  "picture": "20979576-4de21a58ff75cb2766ebdfbf3a5f491b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 42,
+  "tier": 1,
+  "xp": 9450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20979576,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T15:43:04.213Z",
+    "updated_at": "2025-04-26T15:43:04.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11184,
+          "user_id": 20979576,
+          "cloneof_id": null,
+          "string_id": "gabrielmck",
+          "title": "max",
+          "description": "mrotal",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-10-29T12:23:39.000Z",
+          "updated_at": "2022-10-29T12:23:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20979576,
+            "username": "gabrielff",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-10-18T20:40:08.000Z",
+            "date_last_played": "2022-11-07T23:23:25.000Z",
+            "kill_count": 35,
+            "play_count": 36,
+            "highest_score": 1099120,
+            "picture": "20979576-4de21a58ff75cb2766ebdfbf3a5f491b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 42,
+            "tier": 1,
+            "xp": 9450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fhhhghh"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:43:04.302Z"
+}
