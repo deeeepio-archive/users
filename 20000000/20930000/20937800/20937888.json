@@ -1,0 +1,81 @@
+{
+  "id": 20937888,
+  "username": "noob789_beta",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-11T06:09:55.000Z",
+  "date_last_played": "2022-05-18T07:14:59.000Z",
+  "profile_views": 2,
+  "kill_count": 4,
+  "play_count": 6,
+  "highest_score": 16615,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 150,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 52,
+      "user_id": 20937888,
+      "platform_id": "dc",
+      "platform_user_id": "grandsomefish#7637",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-17T14:31:05.000Z",
+      "updated_at": "2022-05-17T14:31:05.000Z"
+    },
+    {
+      "id": 53,
+      "user_id": 20937888,
+      "platform_id": "rd",
+      "platform_user_id": "789_of-deeeep",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-17T14:31:42.000Z",
+      "updated_at": "2022-05-17T14:31:42.000Z"
+    },
+    {
+      "id": 54,
+      "user_id": 20937888,
+      "platform_id": "yt",
+      "platform_user_id": "789deeeepio",
+      "platform_user_url": "https://www.youtube.com/channel/UCTc5Nbx1twip-ZQLzTsVZfg",
+      "verified": false,
+      "created_at": "2022-05-17T14:32:09.000Z",
+      "updated_at": "2022-05-17T14:32:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20937888,
+    "rank_kc": 258972,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": null,
+    "rank_pc": 169816,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2022-06-05T12:44:14.000Z",
+    "rank_hs": 391801,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": null,
+    "created_at": "2022-06-05T12:44:14.000Z",
+    "updated_at": "2022-06-05T12:44:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:27:07.871Z"
+}
