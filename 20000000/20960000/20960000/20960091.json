@@ -1,0 +1,100 @@
+{
+  "id": 20960091,
+  "username": "hoppo",
+  "description": "GG sorry I killed you it's just the game :)",
+  "about": "i like hippos",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-06T11:12:47.000Z",
+  "date_last_played": "2022-08-09T08:26:25.000Z",
+  "profile_views": 9,
+  "kill_count": 20,
+  "play_count": 16,
+  "highest_score": 420222,
+  "picture": "20960091-3ce710010d8fbd65386770b863ae184ca2.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 37,
+  "tier": 1,
+  "xp": 3000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20960091,
+    "rank_kc": 330102,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-06T12:28:02.000Z",
+    "rank_pc": 224508,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-06T12:28:02.000Z",
+    "rank_hs": 243166,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-06T12:28:03.000Z",
+    "created_at": "2022-08-09T08:26:24.000Z",
+    "updated_at": "2022-08-09T08:26:25.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10542,
+          "user_id": 20960091,
+          "cloneof_id": null,
+          "string_id": "this_map2",
+          "title": "the best map2",
+          "description": "nice map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 73,
+          "created_at": "2022-08-06T12:18:58.000Z",
+          "updated_at": "2022-08-06T12:32:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20960091,
+            "username": "hoppo",
+            "description": "GG sorry I killed you it's just the game :)",
+            "about": "i like hippos",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-06T11:12:47.000Z",
+            "date_last_played": "2022-08-09T08:26:25.000Z",
+            "kill_count": 20,
+            "play_count": 16,
+            "highest_score": 420222,
+            "picture": "20960091-3ce710010d8fbd65386770b863ae184ca2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 37,
+            "tier": 1,
+            "xp": 3000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "good"
+            },
+            {
+              "id": "water"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:40:32.810Z"
+}
