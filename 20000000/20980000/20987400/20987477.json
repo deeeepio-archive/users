@@ -1,0 +1,61 @@
+{
+  "id": 20987477,
+  "username": "Rem4",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-16T17:15:14.000Z",
+  "date_last_played": "2023-10-14T19:02:20.000Z",
+  "profile_views": 183,
+  "kill_count": 1720,
+  "play_count": 488,
+  "highest_score": 4734438,
+  "picture": "20987477-82d9e1ab51934bf120365a6f646842cf.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 316,
+  "tier": 6,
+  "xp": 393900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28477,
+      "user_id": 20987477,
+      "platform_id": "dc",
+      "platform_user_id": "remmyremmington",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-23T08:17:59.000Z",
+      "updated_at": "2023-10-23T08:17:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20987477,
+    "rank_kc": 17864,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-15T23:10:50.000Z",
+    "rank_pc": 25623,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-15T23:10:54.000Z",
+    "rank_hs": 9235,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-15T23:10:57.000Z",
+    "created_at": "2023-12-25T14:32:06.000Z",
+    "updated_at": "2023-12-15T23:11:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:30:36.963Z"
+}

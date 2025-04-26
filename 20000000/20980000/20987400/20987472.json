@@ -1,0 +1,61 @@
+{
+  "id": 20987472,
+  "username": "stanstan",
+  "description": "hello.",
+  "about": "i love sushi\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-16T17:04:46.000Z",
+  "date_last_played": "2024-07-13T03:32:07.000Z",
+  "profile_views": 211,
+  "kill_count": 1009,
+  "play_count": 248,
+  "highest_score": 96929,
+  "picture": "20987472-a989d6e34dec8b847e2ec0df459bb6be.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 502,
+  "tier": 3,
+  "xp": 122400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14977,
+      "user_id": 20987472,
+      "platform_id": "dc",
+      "platform_user_id": "stanstan#0755",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-12T15:15:15.000Z",
+      "updated_at": "2023-02-12T15:15:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20987472,
+    "rank_kc": 26486,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-04T21:06:36.000Z",
+    "rank_pc": 38169,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-04T21:06:37.000Z",
+    "rank_hs": 300292,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-04-04T21:06:38.000Z",
+    "created_at": "2024-07-13T07:00:02.000Z",
+    "updated_at": "2024-07-13T07:00:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:30:35.756Z"
+}
