@@ -1,0 +1,61 @@
+{
+  "id": 20966734,
+  "username": "DrPhiI",
+  "description": "Dr. Phil",
+  "about": "Dr. Phil",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-31T22:22:21.000Z",
+  "date_last_played": "2023-07-25T13:18:40.000Z",
+  "profile_views": 62,
+  "kill_count": 86,
+  "play_count": 11,
+  "highest_score": 12650,
+  "picture": "20966734-ff6d88b31657ecc183ecf0c8e2f6b391.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 77,
+  "tier": 1,
+  "xp": 10050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5947,
+      "user_id": 20966734,
+      "platform_id": "dc",
+      "platform_user_id": "frogmare",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-31T22:23:31.000Z",
+      "updated_at": "2023-06-26T21:33:34.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20966734,
+    "rank_kc": 114255,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-10-23T17:28:27.000Z",
+    "rank_pc": 209139,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-10-23T17:28:32.000Z",
+    "rank_hs": 515763,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-23T17:28:40.000Z",
+    "created_at": "2023-10-23T17:28:39.000Z",
+    "updated_at": "2023-10-23T17:28:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:19:01.518Z"
+}
