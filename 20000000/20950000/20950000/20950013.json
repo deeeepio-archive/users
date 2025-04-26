@@ -1,0 +1,61 @@
+{
+  "id": 20950013,
+  "username": "EJCL1969",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-25T03:09:48.000Z",
+  "date_last_played": "2022-07-06T17:34:24.000Z",
+  "profile_views": 4,
+  "kill_count": 1,
+  "play_count": 24,
+  "highest_score": 138654,
+  "picture": "20950013-51d9472eeda10971de10b3d8d7b6e83a81.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 507,
+  "tier": 1,
+  "xp": 600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2903,
+      "user_id": 20950013,
+      "platform_id": "dc",
+      "platform_user_id": "EJCL1969",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-26T01:25:53.000Z",
+      "updated_at": "2022-06-26T01:25:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20950013,
+    "rank_kc": 363685,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-25T03:14:16.000Z",
+    "rank_pc": 255086,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-25T03:14:16.000Z",
+    "rank_hs": 488201,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-25T03:14:17.000Z",
+    "created_at": "2022-07-06T17:34:24.000Z",
+    "updated_at": "2022-07-06T17:34:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:41:22.663Z"
+}
