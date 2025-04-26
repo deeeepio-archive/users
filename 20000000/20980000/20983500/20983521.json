@@ -1,0 +1,71 @@
+{
+  "id": 20983521,
+  "username": "Ankles",
+  "description": "sounds like a skissue",
+  "about": "she/they\nTAKEN 03.18.2023",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-02T05:46:36.000Z",
+  "date_last_played": "2025-03-06T11:09:56.000Z",
+  "profile_views": 11,
+  "kill_count": 3,
+  "play_count": 15,
+  "highest_score": 368233,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8953,
+      "user_id": 20983521,
+      "platform_id": "dc",
+      "platform_user_id": "Ankles#2952",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-02T22:35:38.000Z",
+      "updated_at": "2022-11-02T22:35:38.000Z"
+    },
+    {
+      "id": 8955,
+      "user_id": 20983521,
+      "platform_id": "yt",
+      "platform_user_id": "Buzy Bee",
+      "platform_user_url": "https://www.youtube.com/@BuzyBee0601/featured",
+      "verified": false,
+      "created_at": "2022-11-02T22:36:17.000Z",
+      "updated_at": "2025-03-06T10:35:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20983521,
+    "rank_kc": 344037,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-02T22:36:34.000Z",
+    "rank_pc": 260249,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-02T22:36:35.000Z",
+    "rank_hs": 154866,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-11-02T22:36:36.000Z",
+    "created_at": "2025-03-06T11:09:55.000Z",
+    "updated_at": "2025-03-06T11:09:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:07:57.144Z"
+}
