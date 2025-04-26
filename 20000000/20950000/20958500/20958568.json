@@ -1,0 +1,71 @@
+{
+  "id": 20958568,
+  "username": "Deadshot1",
+  "description": "Im kill you",
+  "about": "Olla is Dora",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-30T12:04:52.000Z",
+  "date_last_played": "2024-11-03T13:06:51.000Z",
+  "profile_views": 429,
+  "kill_count": 879,
+  "play_count": 2117,
+  "highest_score": 1617057,
+  "picture": "20958568-68c605e347165b9eacf610be10119dec7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 101,
+  "tier": 3,
+  "xp": 115950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4498,
+      "user_id": 20958568,
+      "platform_id": "dc",
+      "platform_user_id": "The Dragon2004#2560",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-02T00:55:41.000Z",
+      "updated_at": "2022-08-02T00:55:41.000Z"
+    },
+    {
+      "id": 4499,
+      "user_id": 20958568,
+      "platform_id": "ig",
+      "platform_user_id": "gghtry_14",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-02T00:56:28.000Z",
+      "updated_at": "2022-08-02T00:56:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20958568,
+    "rank_kc": 32434,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-12T19:50:29.000Z",
+    "rank_pc": 5423,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-12T19:50:33.000Z",
+    "rank_hs": 53997,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-12T19:50:38.000Z",
+    "created_at": "2024-11-03T13:06:51.000Z",
+    "updated_at": "2024-11-03T13:06:51.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:31:14.162Z"
+}
