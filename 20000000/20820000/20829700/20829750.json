@@ -1,0 +1,108 @@
+{
+  "id": 20829750,
+  "username": "-_-ya",
+  "description": "i love fortnite\n",
+  "about": "rip myst 〘✧〙\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-07T15:43:15.000Z",
+  "date_last_played": "2025-03-23T00:07:26.000Z",
+  "profile_views": 1643,
+  "kill_count": 4876,
+  "play_count": 2681,
+  "highest_score": 3740309,
+  "picture": "20829750-cdad35e735ad158115499c32104a561b0.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 446,
+  "tier": 9,
+  "xp": 973800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 10229,
+      "user_id": 20829750,
+      "platform_id": "dc",
+      "platform_user_id": "-_-ya#5029",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-25T20:19:04.000Z",
+      "updated_at": "2022-11-25T20:19:04.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20829750,
+    "rank_kc": 6558,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-24T17:00:45.000Z",
+    "rank_pc": 4087,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-24T17:00:46.000Z",
+    "rank_hs": 14514,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-24T17:00:48.000Z",
+    "created_at": "2025-03-23T00:07:26.000Z",
+    "updated_at": "2025-03-23T00:07:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10310,
+          "user_id": 20829750,
+          "cloneof_id": null,
+          "string_id": "epicgamermap",
+          "title": "first map",
+          "description": "my first map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-07-14T15:28:58.000Z",
+          "updated_at": "2022-09-22T15:42:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20829750,
+            "username": "-_-ya",
+            "description": "i love fortnite\n",
+            "about": "rip myst 〘✧〙\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-07T15:43:15.000Z",
+            "date_last_played": "2025-03-23T00:07:26.000Z",
+            "kill_count": 4876,
+            "play_count": 2681,
+            "highest_score": 3740309,
+            "picture": "20829750-cdad35e735ad158115499c32104a561b0.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 446,
+            "tier": 9,
+            "xp": 973800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "idk what this is"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T00:23:59.075Z"
+}
