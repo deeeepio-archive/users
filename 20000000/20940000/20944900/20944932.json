@@ -1,0 +1,97 @@
+{
+  "id": 20944932,
+  "username": "Captainjoe2222",
+  "description": "I'm sorry I killed you, but I am really bad.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-08T19:12:54.000Z",
+  "date_last_played": "2022-09-24T16:15:29.000Z",
+  "profile_views": 4,
+  "kill_count": 153,
+  "play_count": 245,
+  "highest_score": 884948,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 102,
+  "tier": 2,
+  "xp": 44100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20944932,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T12:09:17.926Z",
+    "updated_at": "2025-04-26T12:09:18.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9882,
+          "user_id": 20944932,
+          "cloneof_id": null,
+          "string_id": "12345_abc",
+          "title": "My first map",
+          "description": "Ur mom",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 60,
+          "created_at": "2022-06-08T21:49:20.000Z",
+          "updated_at": "2022-06-08T21:49:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20944932,
+            "username": "Captainjoe2222",
+            "description": "I'm sorry I killed you, but I am really bad.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-08T19:12:54.000Z",
+            "date_last_played": "2022-09-24T16:15:29.000Z",
+            "kill_count": 153,
+            "play_count": 245,
+            "highest_score": 884948,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 102,
+            "tier": 2,
+            "xp": 44100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "none"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:09:17.978Z"
+}
