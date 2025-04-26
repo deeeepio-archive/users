@@ -1,0 +1,50 @@
+{
+  "id": 20945242,
+  "username": "pac-man",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-09T18:46:24.000Z",
+  "date_last_played": "2024-04-28T14:24:40.000Z",
+  "profile_views": 5,
+  "kill_count": 47,
+  "play_count": 41,
+  "highest_score": 697780,
+  "picture": "20945242-1d5c8237c5286ed1019496f5582fb106e3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 29,
+  "tier": 1,
+  "xp": 7200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20945242,
+    "rank_kc": 223962,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-09T19:28:11.000Z",
+    "rank_pc": 150302,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-09T19:28:11.000Z",
+    "rank_hs": 235596,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-09T19:28:11.000Z",
+    "created_at": "2024-04-28T14:24:39.000Z",
+    "updated_at": "2024-04-28T14:24:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:11:22.046Z"
+}
