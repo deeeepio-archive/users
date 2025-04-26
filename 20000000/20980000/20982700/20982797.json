@@ -1,0 +1,111 @@
+{
+  "id": 20982797,
+  "username": "Javiess",
+  "description": null,
+  "about": "i hate myself",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-30T20:22:32.000Z",
+  "date_last_played": "2022-10-30T21:43:46.000Z",
+  "profile_views": 1,
+  "kill_count": 2,
+  "play_count": 10,
+  "highest_score": 76352,
+  "picture": "20982797-96f2fe9c79f4a16194c3f899a1e4f95a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8770,
+      "user_id": 20982797,
+      "platform_id": "dc",
+      "platform_user_id": "Javiess#1618",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-30T20:23:32.000Z",
+      "updated_at": "2022-10-30T20:23:32.000Z"
+    },
+    {
+      "id": 8775,
+      "user_id": 20982797,
+      "platform_id": "dc",
+      "platform_user_id": "jvss1#1088",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-30T20:55:23.000Z",
+      "updated_at": "2022-10-30T20:55:23.000Z"
+    },
+    {
+      "id": 8772,
+      "user_id": 20982797,
+      "platform_id": "rd",
+      "platform_user_id": "BearBoy12923",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-30T20:23:53.000Z",
+      "updated_at": "2022-10-30T20:24:30.000Z"
+    },
+    {
+      "id": 8773,
+      "user_id": 20982797,
+      "platform_id": "tc",
+      "platform_user_id": "JaviessOnDiscord",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-30T20:24:12.000Z",
+      "updated_at": "2022-10-30T20:24:34.000Z"
+    },
+    {
+      "id": 8771,
+      "user_id": 20982797,
+      "platform_id": "tw",
+      "platform_user_id": "@javiess1",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-30T20:23:42.000Z",
+      "updated_at": "2022-10-30T20:23:42.000Z"
+    },
+    {
+      "id": 8774,
+      "user_id": 20982797,
+      "platform_id": "yt",
+      "platform_user_id": "Javiess",
+      "platform_user_url": "https://www.youtube.com/channel/UCyeNm74Fm2QTVqo-v6I7NUw",
+      "verified": false,
+      "created_at": "2022-10-30T20:53:45.000Z",
+      "updated_at": "2022-10-30T20:53:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20982797,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T16:04:04.454Z",
+    "updated_at": "2025-04-26T16:04:04.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:04:04.528Z"
+}
