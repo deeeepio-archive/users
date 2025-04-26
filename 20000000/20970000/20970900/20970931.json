@@ -1,0 +1,61 @@
+{
+  "id": 20970931,
+  "username": "BrianGamer1",
+  "description": "Não desista agora",
+  "about": "Sou o tipo de player que não mata por esporte apenas se me atacar primeiro ou sem querer ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-15T00:34:52.000Z",
+  "date_last_played": "2023-01-15T02:20:59.000Z",
+  "profile_views": 17,
+  "kill_count": 6,
+  "play_count": 40,
+  "highest_score": 411601,
+  "picture": "20970931-8b1af00a4a1536ad771603bc82c522f4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 5,
+  "tier": 1,
+  "xp": 3000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 13242,
+      "user_id": 20970931,
+      "platform_id": "dc",
+      "platform_user_id": "BrianGamer",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-15T00:11:03.000Z",
+      "updated_at": "2023-01-15T00:11:03.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20970931,
+    "rank_kc": 266429,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-15T00:10:19.000Z",
+    "rank_pc": 102029,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-15T00:10:20.000Z",
+    "rank_hs": 151611,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-01-15T00:10:21.000Z",
+    "created_at": "2023-01-15T05:00:03.000Z",
+    "updated_at": "2023-01-15T05:00:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:50:52.015Z"
+}
