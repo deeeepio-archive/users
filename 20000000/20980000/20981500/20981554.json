@@ -1,0 +1,61 @@
+{
+  "id": 20981554,
+  "username": "Graffe",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-26T19:08:12.000Z",
+  "date_last_played": "2022-10-26T21:33:27.000Z",
+  "profile_views": 1,
+  "kill_count": 4,
+  "play_count": 18,
+  "highest_score": 402544,
+  "picture": "20981554-10ad948a7239a4e2b83fa1582c2c01a74.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18,
+  "tier": 1,
+  "xp": 1200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8580,
+      "user_id": 20981554,
+      "platform_id": "dc",
+      "platform_user_id": "Hi I'm Me#8829",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-26T19:14:48.000Z",
+      "updated_at": "2022-10-26T19:14:48.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20981554,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T15:56:12.683Z",
+    "updated_at": "2025-04-26T15:56:13.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:56:12.726Z"
+}
