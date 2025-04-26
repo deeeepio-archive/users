@@ -1,0 +1,101 @@
+{
+  "id": 20962726,
+  "username": "3636363",
+  "description": "end",
+  "about": "https://youtu.be/dQw4w9WgXcQ?si=yZsjYfANy2bY4MJ2",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-16T15:46:36.000Z",
+  "date_last_played": "2025-04-26T13:52:18.000Z",
+  "profile_views": 1331,
+  "kill_count": 3882,
+  "play_count": 2322,
+  "highest_score": 4329957,
+  "picture": "20962726-51063fe4603c4210c08bdd35b5ee9ebea8-17fac7c0-8636-46a8-a117-b1756ccbe6bf.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 302,
+  "tier": 9,
+  "xp": 1098750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20962726,
+    "rank_kc": 75552,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-09T13:16:18.000Z",
+    "rank_pc": 48438,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-09T13:16:18.000Z",
+    "rank_hs": 30952,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-09T13:16:19.000Z",
+    "created_at": "2025-04-26T13:52:18.000Z",
+    "updated_at": "2025-04-26T13:52:18.000Z",
+    "pd": {
+      "played": 10,
+      "won": 5,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245077,
+          "user_id": 20962726,
+          "cloneof_id": null,
+          "string_id": "2_aquariums",
+          "title": "Untitled",
+          "description": "2",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 8,
+          "created_at": "2025-01-10T08:44:11.000Z",
+          "updated_at": "2025-01-10T08:44:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20962726,
+            "username": "3636363",
+            "description": "end",
+            "about": "https://youtu.be/dQw4w9WgXcQ?si=yZsjYfANy2bY4MJ2",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-16T15:46:36.000Z",
+            "date_last_played": "2025-04-26T13:52:18.000Z",
+            "kill_count": 3882,
+            "play_count": 2322,
+            "highest_score": 4329957,
+            "picture": "20962726-51063fe4603c4210c08bdd35b5ee9ebea8-17fac7c0-8636-46a8-a117-b1756ccbe6bf.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 302,
+            "tier": 9,
+            "xp": 1098750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "2"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:55:37.572Z"
+}

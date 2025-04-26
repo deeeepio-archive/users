@@ -1,0 +1,61 @@
+{
+  "id": 20962651,
+  "username": "mahdi1337xz",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-16T08:58:21.000Z",
+  "date_last_played": "2023-04-02T09:45:08.000Z",
+  "profile_views": 1251,
+  "kill_count": 3374,
+  "play_count": 1056,
+  "highest_score": 1522005,
+  "picture": "20962651-7ea528c2401547e754a93c3969d776eb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 250,
+  "tier": 7,
+  "xp": 543750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92712,
+      "user_id": 20962651,
+      "platform_id": "dc",
+      "platform_user_id": "mahdi1337x",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-09T21:12:36.000Z",
+      "updated_at": "2024-03-09T21:12:38.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20962651,
+    "rank_kc": 8981,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-30T00:54:54.000Z",
+    "rank_pc": 11825,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-30T00:54:55.000Z",
+    "rank_hs": 57175,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-30T00:54:56.000Z",
+    "created_at": "2023-12-01T05:39:36.000Z",
+    "updated_at": "2023-09-30T00:54:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:55:28.578Z"
+}

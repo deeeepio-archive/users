@@ -1,0 +1,61 @@
+{
+  "id": 20962667,
+  "username": "Hyperion7842",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-16T10:54:23.000Z",
+  "date_last_played": "2023-01-04T10:44:51.000Z",
+  "profile_views": 16,
+  "kill_count": 61,
+  "play_count": 49,
+  "highest_score": 1284495,
+  "picture": "20962667-afd754f2c47b3845710b4499ad10e3c71.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 81,
+  "tier": 1,
+  "xp": 13500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5121,
+      "user_id": 20962667,
+      "platform_id": "dc",
+      "platform_user_id": "Hyperion7842#3034",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-16T10:58:58.000Z",
+      "updated_at": "2022-08-16T10:58:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20962667,
+    "rank_kc": 133649,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-18T09:19:47.000Z",
+    "rank_pc": 93165,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-18T09:19:48.000Z",
+    "rank_hs": 56291,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-18T09:19:48.000Z",
+    "created_at": "2023-05-07T08:15:01.000Z",
+    "updated_at": "2023-01-04T10:44:51.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:55:30.421Z"
+}
