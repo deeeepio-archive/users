@@ -1,0 +1,61 @@
+{
+  "id": 20938672,
+  "username": "SomeDweeb",
+  "description": "R.i.p.",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-20T13:33:24.000Z",
+  "date_last_played": "2022-05-30T23:06:53.000Z",
+  "profile_views": 1,
+  "kill_count": 17,
+  "play_count": 25,
+  "highest_score": 1308410,
+  "picture": "20938672-e4c735a5aa50a10047e8f2aad3e3d254a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 61,
+  "tier": 1,
+  "xp": 6900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 384,
+      "user_id": 20938672,
+      "platform_id": "tw",
+      "platform_user_id": "@TheFloridaMan7",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-21T03:24:39.000Z",
+      "updated_at": "2022-05-21T03:24:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20938672,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T11:32:15.452Z",
+    "updated_at": "2025-04-26T11:32:15.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:32:15.502Z"
+}
