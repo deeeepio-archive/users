@@ -1,0 +1,118 @@
+{
+  "id": 20975673,
+  "username": "Luiz5609",
+  "description": "Se você foi morto por mim, saiba que foi morto pela pessoa que quase não joga",
+  "about": "Sou Luiz e sou pro🧿_🧿\nLíder da CDA",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-02T17:25:44.000Z",
+  "date_last_played": "2024-06-04T23:39:37.000Z",
+  "profile_views": 543,
+  "kill_count": 2237,
+  "play_count": 2253,
+  "highest_score": 4639810,
+  "picture": "20975673-0a7c2ed1-09cf-4d6c-90fc-dac8ff718f8a-74e947197232f53c231bd6e9e14100458.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1810,
+  "tier": 7,
+  "xp": 564150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 25442,
+      "user_id": 20975673,
+      "platform_id": "dc",
+      "platform_user_id": "@luiz5609_33352",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-27T00:22:08.000Z",
+      "updated_at": "2023-08-27T00:22:08.000Z"
+    },
+    {
+      "id": 24810,
+      "user_id": 20975673,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.gg/wsKA53mC",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-17T09:18:00.000Z",
+      "updated_at": "2023-08-17T09:18:00.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20975673,
+    "rank_kc": 14344,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-03T13:53:44.000Z",
+    "rank_pc": 4975,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-03T13:53:45.000Z",
+    "rank_hs": 9632,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-03T13:53:46.000Z",
+    "created_at": "2024-06-04T23:39:37.000Z",
+    "updated_at": "2024-06-04T23:39:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11020,
+          "user_id": 20975673,
+          "cloneof_id": null,
+          "string_id": "5ab6d78",
+          "title": "Não sei",
+          "description": "Um mapa comum",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-10-02T18:27:49.000Z",
+          "updated_at": "2022-10-02T18:27:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20975673,
+            "username": "Luiz5609",
+            "description": "Se você foi morto por mim, saiba que foi morto pela pessoa que quase não joga",
+            "about": "Sou Luiz e sou pro🧿_🧿\nLíder da CDA",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-10-02T17:25:44.000Z",
+            "date_last_played": "2024-06-04T23:39:37.000Z",
+            "kill_count": 2237,
+            "play_count": 2253,
+            "highest_score": 4639810,
+            "picture": "20975673-0a7c2ed1-09cf-4d6c-90fc-dac8ff718f8a-74e947197232f53c231bd6e9e14100458.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1810,
+            "tier": 7,
+            "xp": 564150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Ok"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:19:52.715Z"
+}
