@@ -1,0 +1,81 @@
+{
+  "id": 21038508,
+  "username": "yourlocalpharmacy",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-19T22:06:21.000Z",
+  "date_last_played": "2022-12-19T20:35:56.000Z",
+  "profile_views": 30,
+  "kill_count": 13,
+  "play_count": 60,
+  "highest_score": 374118,
+  "picture": "21038508-cd7d6a4ac749579c071f9bc29ee18cd5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 46,
+  "tier": 1,
+  "xp": 5400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9974,
+      "user_id": 21038508,
+      "platform_id": "dc",
+      "platform_user_id": "yourlocalpharmacy#7427",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-19T22:21:26.000Z",
+      "updated_at": "2022-11-19T22:21:26.000Z"
+    },
+    {
+      "id": 9973,
+      "user_id": 21038508,
+      "platform_id": "ig",
+      "platform_user_id": "your.localpharmacy_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-19T22:21:09.000Z",
+      "updated_at": "2022-11-19T22:21:09.000Z"
+    },
+    {
+      "id": 10529,
+      "user_id": 21038508,
+      "platform_id": "tw",
+      "platform_user_id": "cornerpharmacy_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-29T16:37:43.000Z",
+      "updated_at": "2022-11-29T16:37:43.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21038508,
+    "rank_kc": 222154,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-28T22:29:33.000Z",
+    "rank_pc": 100436,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-28T22:29:37.000Z",
+    "rank_hs": 155855,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-11-28T18:12:04.000Z",
+    "created_at": "2022-12-19T20:35:56.000Z",
+    "updated_at": "2022-12-19T20:35:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T21:44:47.561Z"
+}
