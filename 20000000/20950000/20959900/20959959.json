@@ -1,0 +1,61 @@
+{
+  "id": 20959959,
+  "username": "Xaria",
+  "description": "I said I'm friendly",
+  "about": "nothing :)",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-05T20:41:23.000Z",
+  "date_last_played": "2022-08-15T20:07:02.000Z",
+  "profile_views": 21,
+  "kill_count": 217,
+  "play_count": 168,
+  "highest_score": 1385020,
+  "picture": "20959959-6ad46ad7971a3e6ee17ab106fb57417d9.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 2,
+  "xp": 40050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4649,
+      "user_id": 20959959,
+      "platform_id": "dc",
+      "platform_user_id": "xaria#7644",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-06T20:25:59.000Z",
+      "updated_at": "2022-08-06T20:25:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20959959,
+    "rank_kc": 60291,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-15T20:02:02.000Z",
+    "rank_pc": 38700,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-15T20:02:02.000Z",
+    "rank_hs": 51554,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-15T20:02:02.000Z",
+    "created_at": "2022-10-14T06:16:30.000Z",
+    "updated_at": "2022-08-15T20:07:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:40:02.040Z"
+}

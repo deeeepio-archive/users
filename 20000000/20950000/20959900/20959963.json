@@ -1,0 +1,71 @@
+{
+  "id": 20959963,
+  "username": "Kasket2",
+  "description": "Subscribe now or else",
+  "about": "Ok",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-05T20:55:25.000Z",
+  "date_last_played": "2023-09-23T21:43:01.000Z",
+  "profile_views": 81,
+  "kill_count": 67,
+  "play_count": 54,
+  "highest_score": 1753130,
+  "picture": "20959963-60cedd2827416689106c91c10110d24602c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 143,
+  "tier": 1,
+  "xp": 19950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26870,
+      "user_id": 20959963,
+      "platform_id": "dc",
+      "platform_user_id": "the_kasket#0",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-21T21:57:44.000Z",
+      "updated_at": "2023-09-24T22:37:52.000Z"
+    },
+    {
+      "id": 26874,
+      "user_id": 20959963,
+      "platform_id": "yt",
+      "platform_user_id": "Kasket",
+      "platform_user_url": "https://youtube.com/@Kasket_?si=ZMFv0Fbh0fik23Xy",
+      "verified": false,
+      "created_at": "2023-09-22T00:05:42.000Z",
+      "updated_at": "2023-09-22T00:05:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20959963,
+    "rank_kc": 126688,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-09-27T14:38:49.000Z",
+    "rank_pc": 102060,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-27T14:38:51.000Z",
+    "rank_hs": 47565,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-27T14:38:54.000Z",
+    "created_at": "2023-10-31T14:08:20.000Z",
+    "updated_at": "2023-09-27T14:38:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:40:02.611Z"
+}
