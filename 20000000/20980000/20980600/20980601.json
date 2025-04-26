@@ -1,0 +1,81 @@
+{
+  "id": 20980601,
+  "username": "ArcticDucc292",
+  "description": "Sorry, I was hungry",
+  "about": "yes",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-22T22:40:36.000Z",
+  "date_last_played": "2024-01-28T01:37:05.000Z",
+  "profile_views": 13,
+  "kill_count": 100,
+  "play_count": 180,
+  "highest_score": 795920,
+  "picture": "20980601-e95f98f51f8bb104c10803917bd23ee182.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 77,
+  "tier": 2,
+  "xp": 27900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 8782,
+      "user_id": 20980601,
+      "platform_id": "ig",
+      "platform_user_id": "jasminethecat13",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-30T22:53:17.000Z",
+      "updated_at": "2022-10-30T22:54:33.000Z"
+    },
+    {
+      "id": 8780,
+      "user_id": 20980601,
+      "platform_id": "rd",
+      "platform_user_id": "ArcticDucc292",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-30T22:46:42.000Z",
+      "updated_at": "2022-10-30T22:46:42.000Z"
+    },
+    {
+      "id": 8781,
+      "user_id": 20980601,
+      "platform_id": "yt",
+      "platform_user_id": "ArcticDucc",
+      "platform_user_url": "https://www.youtube.com/channel/UCPrAVLrgB3X3CsPT_3CGr8Q",
+      "verified": false,
+      "created_at": "2022-10-30T22:48:15.000Z",
+      "updated_at": "2022-10-30T22:48:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20980601,
+    "rank_kc": 194270,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-24T00:37:04.000Z",
+    "rank_pc": 137569,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-24T00:37:05.000Z",
+    "rank_hs": 166619,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-24T00:37:06.000Z",
+    "created_at": "2024-01-28T01:37:04.000Z",
+    "updated_at": "2024-01-28T01:37:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:49:32.616Z"
+}
