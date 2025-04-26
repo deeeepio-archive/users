@@ -1,0 +1,61 @@
+{
+  "id": 20951490,
+  "username": "Indominus_Super",
+  "description": "I'm better than you and you know it!",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-29T23:42:04.000Z",
+  "date_last_played": "2023-03-02T23:15:11.000Z",
+  "profile_views": 10,
+  "kill_count": 155,
+  "play_count": 164,
+  "highest_score": 1308199,
+  "picture": "20951490-70ac6989f7d2e9939d11e3bfa46269101.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 267,
+  "tier": 1,
+  "xp": 24150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3102,
+      "user_id": 20951490,
+      "platform_id": "dc",
+      "platform_user_id": "Super#9302",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-29T23:44:13.000Z",
+      "updated_at": "2022-06-29T23:44:13.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20951490,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T12:50:18.672Z",
+    "updated_at": "2025-04-26T12:50:19.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:50:18.781Z"
+}

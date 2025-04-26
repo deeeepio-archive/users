@@ -1,0 +1,61 @@
+{
+  "id": 20951513,
+  "username": "Daria",
+  "description": null,
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-30T02:17:19.000Z",
+  "date_last_played": "2022-07-30T00:09:10.000Z",
+  "profile_views": 11,
+  "kill_count": 16,
+  "play_count": 61,
+  "highest_score": 437851,
+  "picture": "20951513-16dfe3810f78a6b1038c673d3eb259dfcc.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 171,
+  "tier": 1,
+  "xp": 3450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3107,
+      "user_id": 20951513,
+      "platform_id": "dc",
+      "platform_user_id": "святойдiлдо#7023",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-30T03:08:57.000Z",
+      "updated_at": "2022-06-30T03:08:57.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20951513,
+    "rank_kc": 364687,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-30T03:13:19.000Z",
+    "rank_pc": 233139,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-30T03:13:19.000Z",
+    "rank_hs": 489492,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-30T03:13:19.000Z",
+    "created_at": "2022-07-30T00:09:09.000Z",
+    "updated_at": "2022-07-30T00:09:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:50:25.954Z"
+}
