@@ -1,0 +1,100 @@
+{
+  "id": 20970160,
+  "username": "jesusthedilf",
+  "description": "GG unless you used that op skin then you a botch\n\n",
+  "about": "idk wat u wanna know?\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-12T13:31:29.000Z",
+  "date_last_played": "2023-08-22T17:25:51.000Z",
+  "profile_views": 70,
+  "kill_count": 24,
+  "play_count": 115,
+  "highest_score": 272866,
+  "picture": "20970160-9210276bf96e92a94afefb102e3cc92d48.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4,
+  "tier": 1,
+  "xp": 10500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20970160,
+    "rank_kc": 182768,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-18T18:12:02.000Z",
+    "rank_pc": 58097,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-18T18:12:02.000Z",
+    "rank_hs": 179312,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-18T18:12:03.000Z",
+    "created_at": "2023-10-13T11:19:34.000Z",
+    "updated_at": "2023-08-22T17:25:51.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12731,
+          "user_id": 20970160,
+          "cloneof_id": null,
+          "string_id": "ie_pvp_v1",
+          "title": "pvp map",
+          "description": "wanna kill eachother take it here ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 41,
+          "created_at": "2023-08-21T17:30:37.000Z",
+          "updated_at": "2023-08-21T17:30:37.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20970160,
+            "username": "jesusthedilf",
+            "description": "GG unless you used that op skin then you a botch\n\n",
+            "about": "idk wat u wanna know?\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-09-12T13:31:29.000Z",
+            "date_last_played": "2023-08-22T17:25:51.000Z",
+            "kill_count": 24,
+            "play_count": 115,
+            "highest_score": 272866,
+            "picture": "20970160-9210276bf96e92a94afefb102e3cc92d48.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 4,
+            "tier": 1,
+            "xp": 10500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#1v1nerd"
+            },
+            {
+              "id": "#pvp"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:40:43.213Z"
+}
