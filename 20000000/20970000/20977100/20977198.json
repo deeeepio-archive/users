@@ -1,0 +1,50 @@
+{
+  "id": 20977198,
+  "username": "123henry",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-08T23:20:36.000Z",
+  "date_last_played": "2022-12-05T06:08:08.000Z",
+  "profile_views": 12,
+  "kill_count": 1,
+  "play_count": 21,
+  "highest_score": 226030,
+  "picture": "20977198-1ba08e30d7355c739016f97477243a62.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20977198,
+    "rank_kc": 390541,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-26T06:57:40.000Z",
+    "rank_pc": 210568,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-26T06:57:41.000Z",
+    "rank_hs": 200728,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-11-26T06:57:42.000Z",
+    "created_at": "2022-12-05T06:08:07.000Z",
+    "updated_at": "2022-12-05T06:08:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:29:47.305Z"
+}
