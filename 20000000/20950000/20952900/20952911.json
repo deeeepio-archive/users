@@ -1,0 +1,61 @@
+{
+  "id": 20952911,
+  "username": "Betsy",
+  "description": "You were slain by Betsy...",
+  "about": "I'm cool lol",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-05T20:12:59.000Z",
+  "date_last_played": "2022-09-09T00:06:53.000Z",
+  "profile_views": 36,
+  "kill_count": 72,
+  "play_count": 81,
+  "highest_score": 415154,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 9300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 6065,
+      "user_id": 20952911,
+      "platform_id": "yt",
+      "platform_user_id": "Betsy",
+      "platform_user_url": "https://www.youtube.com/channel/UCjm5YyDkP4bQvBNBZgO_XCw",
+      "verified": false,
+      "created_at": "2022-09-03T03:32:57.000Z",
+      "updated_at": "2022-09-03T03:32:57.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20952911,
+    "rank_kc": 111474,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-28T18:10:42.000Z",
+    "rank_pc": 60551,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-28T18:10:42.000Z",
+    "rank_hs": 139289,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-08-28T18:10:42.000Z",
+    "created_at": "2022-09-09T00:06:52.000Z",
+    "updated_at": "2022-09-09T00:06:53.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:58:34.524Z"
+}
