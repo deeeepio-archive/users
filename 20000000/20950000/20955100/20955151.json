@@ -1,0 +1,71 @@
+{
+  "id": 20955151,
+  "username": "yTosh",
+  "description": "bem jogado :0\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-15T18:35:34.000Z",
+  "date_last_played": "2024-01-28T19:50:12.000Z",
+  "profile_views": 13,
+  "kill_count": 39,
+  "play_count": 20,
+  "highest_score": 2568453,
+  "picture": "20955151-10d441852887a6379493d3ed257664349.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 597,
+  "tier": 1,
+  "xp": 12900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 91081,
+      "user_id": 20955151,
+      "platform_id": "dc",
+      "platform_user_id": "ytoshw",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-27T15:08:54.000Z",
+      "updated_at": "2024-01-27T15:08:54.000Z"
+    },
+    {
+      "id": 91082,
+      "user_id": 20955151,
+      "platform_id": "ig",
+      "platform_user_id": "holler_otavio_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-27T15:09:07.000Z",
+      "updated_at": "2024-01-27T15:09:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20955151,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-01-28T19:50:11.000Z",
+    "updated_at": "2024-01-28T19:50:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:12:05.593Z"
+}
