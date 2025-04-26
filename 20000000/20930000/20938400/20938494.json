@@ -1,0 +1,97 @@
+{
+  "id": 20938494,
+  "username": "lemonade",
+  "description": "yee",
+  "about": "43 mil\nnot too shabby, eh?",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-18T23:51:19.000Z",
+  "date_last_played": "2022-10-15T14:04:56.000Z",
+  "profile_views": 517,
+  "kill_count": 1850,
+  "play_count": 369,
+  "highest_score": 3438211,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 91,
+  "tier": 3,
+  "xp": 147450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20938494,
+    "rank_kc": 13770,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-13T05:14:34.000Z",
+    "rank_pc": 24727,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-13T05:14:41.000Z",
+    "rank_hs": 13815,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-13T05:14:47.000Z",
+    "created_at": "2023-03-16T00:14:07.000Z",
+    "updated_at": "2022-12-13T05:14:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10370,
+          "user_id": 20938494,
+          "cloneof_id": 10367,
+          "string_id": "clownfishcentral",
+          "title": "clownfish central",
+          "description": "unfinished",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 329,
+          "created_at": "2022-07-19T07:07:47.000Z",
+          "updated_at": "2022-07-30T13:24:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20938494,
+            "username": "lemonade",
+            "description": "yee",
+            "about": "43 mil\nnot too shabby, eh?",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-05-18T23:51:19.000Z",
+            "date_last_played": "2022-10-15T14:04:56.000Z",
+            "kill_count": 1850,
+            "play_count": 369,
+            "highest_score": 3438211,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 91,
+            "tier": 3,
+            "xp": 147450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:31:04.557Z"
+}
