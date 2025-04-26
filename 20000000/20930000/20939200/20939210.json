@@ -1,0 +1,61 @@
+{
+  "id": 20939210,
+  "username": "Drakcir66",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-24T00:25:25.000Z",
+  "date_last_played": "2022-07-29T22:43:45.000Z",
+  "profile_views": 4,
+  "kill_count": 9,
+  "play_count": 13,
+  "highest_score": 252975,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 297,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 870,
+      "user_id": 20939210,
+      "platform_id": "dc",
+      "platform_user_id": "Drakcir66#9630",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-05-26T22:28:02.000Z",
+      "updated_at": "2022-05-26T22:28:02.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20939210,
+    "rank_kc": 317056,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-05-24T00:50:34.000Z",
+    "rank_pc": 184682,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-05-24T00:50:34.000Z",
+    "rank_hs": 232925,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-05-24T00:40:08.000Z",
+    "created_at": "2022-07-29T22:43:45.000Z",
+    "updated_at": "2022-07-29T22:43:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:35:25.966Z"
+}
