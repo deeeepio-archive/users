@@ -1,0 +1,71 @@
+{
+  "id": 20941085,
+  "username": "니먼데",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-28T11:11:33.000Z",
+  "date_last_played": "2023-07-17T00:00:21.000Z",
+  "profile_views": 8,
+  "kill_count": 7,
+  "play_count": 51,
+  "highest_score": 329578,
+  "picture": "20941085-f7150370257f738f854a13c77aa53b99.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 275,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 1333,
+      "user_id": 20941085,
+      "platform_id": "tc",
+      "platform_user_id": "떡개구리",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-02T01:55:15.000Z",
+      "updated_at": "2022-06-02T01:55:15.000Z"
+    },
+    {
+      "id": 1331,
+      "user_id": 20941085,
+      "platform_id": "yt",
+      "platform_user_id": "떡개구리",
+      "platform_user_url": "https://www.youtube.com/channel/UC1_7QURKtJ6AldUAODc0ILQ/featured",
+      "verified": false,
+      "created_at": "2022-06-02T01:54:22.000Z",
+      "updated_at": "2022-06-02T01:54:22.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20941085,
+    "rank_kc": 358461,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-02T01:55:37.000Z",
+    "rank_pc": 187101,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-02T01:55:37.000Z",
+    "rank_hs": 290418,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-06-02T01:55:38.000Z",
+    "created_at": "2023-07-17T00:00:21.000Z",
+    "updated_at": "2023-07-17T00:00:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:46:56.912Z"
+}
