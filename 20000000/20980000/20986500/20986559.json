@@ -1,0 +1,61 @@
+{
+  "id": 20986559,
+  "username": "SullyBeKrakked",
+  "description": "Say hi to my dog up there 😢",
+  "about": "Fish",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-13T05:59:45.000Z",
+  "date_last_played": "2025-02-23T01:04:00.000Z",
+  "profile_views": 19,
+  "kill_count": 21,
+  "play_count": 108,
+  "highest_score": 470394,
+  "picture": "20986559-c943670e592f39039c5f2e93d10ad10f67.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 23,
+  "tier": 1,
+  "xp": 10200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9577,
+      "user_id": 20986559,
+      "platform_id": "dc",
+      "platform_user_id": "Symph",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-14T04:45:59.000Z",
+      "updated_at": "2022-11-14T04:46:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20986559,
+    "rank_kc": 189404,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-25T03:13:03.000Z",
+    "rank_pc": 63906,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-25T03:13:04.000Z",
+    "rank_hs": 152507,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-25T03:13:05.000Z",
+    "created_at": "2025-02-23T01:04:00.000Z",
+    "updated_at": "2025-02-23T01:04:00.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:24:32.455Z"
+}
