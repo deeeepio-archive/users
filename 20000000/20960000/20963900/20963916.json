@@ -1,0 +1,97 @@
+{
+  "id": 20963916,
+  "username": "BLOOOLIV",
+  "description": "We wish you farewell in your journey to eternity. \n\nNOT",
+  "about": "addicted to video games",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-21T07:58:12.000Z",
+  "date_last_played": "2022-08-25T22:33:59.000Z",
+  "profile_views": 10,
+  "kill_count": 6,
+  "play_count": 48,
+  "highest_score": 204150,
+  "picture": "20963916-e557ffc9c4776238b6284c2dd03169e7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 1650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20963916,
+    "rank_kc": 306660,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-08-23T07:53:26.000Z",
+    "rank_pc": 112717,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-08-23T07:53:26.000Z",
+    "rank_hs": 198736,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-08-23T07:53:27.000Z",
+    "created_at": "2023-01-27T10:15:29.000Z",
+    "updated_at": "2022-08-25T22:33:59.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 10735,
+          "user_id": 20963916,
+          "cloneof_id": null,
+          "string_id": "qwetyuiopasdfghjklzxcvbnm",
+          "title": "Untitled",
+          "description": "asd",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 13,
+          "created_at": "2022-08-23T07:53:10.000Z",
+          "updated_at": "2022-08-23T07:53:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20963916,
+            "username": "BLOOOLIV",
+            "description": "We wish you farewell in your journey to eternity. \n\nNOT",
+            "about": "addicted to video games",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-08-21T07:58:12.000Z",
+            "date_last_played": "2022-08-25T22:33:59.000Z",
+            "kill_count": 6,
+            "play_count": 48,
+            "highest_score": 204150,
+            "picture": "20963916-e557ffc9c4776238b6284c2dd03169e7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 1,
+            "xp": 1650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "sd"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:02:49.100Z"
+}

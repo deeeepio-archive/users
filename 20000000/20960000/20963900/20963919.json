@@ -1,0 +1,71 @@
+{
+  "id": 20963919,
+  "username": "DARK_ilovepoland",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-08-21T08:04:31.000Z",
+  "date_last_played": "2022-08-23T04:44:35.000Z",
+  "profile_views": 7,
+  "kill_count": 13,
+  "play_count": 23,
+  "highest_score": 661116,
+  "picture": "20963919-e4b693884e63d5958bd14946514029107.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 38,
+  "tier": 1,
+  "xp": 4200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5417,
+      "user_id": 20963919,
+      "platform_id": "dc",
+      "platform_user_id": "I love Poland #0677",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-22T05:15:06.000Z",
+      "updated_at": "2022-08-22T05:15:06.000Z"
+    },
+    {
+      "id": 5418,
+      "user_id": 20963919,
+      "platform_id": "yt",
+      "platform_user_id": "DARK",
+      "platform_user_url": "https://youtu.be/kXUT4lPy4tk",
+      "verified": false,
+      "created_at": "2022-08-22T05:16:13.000Z",
+      "updated_at": "2022-08-22T05:16:13.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20963919,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T14:02:49.595Z",
+    "updated_at": "2025-04-26T14:02:50.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:02:49.669Z"
+}
