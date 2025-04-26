@@ -1,0 +1,91 @@
+{
+  "id": 20940882,
+  "username": "haioa",
+  "description": "womp womp\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-27T20:24:50.000Z",
+  "date_last_played": "2024-10-12T17:03:20.000Z",
+  "profile_views": 725,
+  "kill_count": 4446,
+  "play_count": 884,
+  "highest_score": 1874133,
+  "picture": "20940882-ea0105d152d7fb24ada40f5a8c0155391.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1909,
+  "tier": 7,
+  "xp": 598800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94589,
+      "user_id": 20940882,
+      "platform_id": "yt",
+      "platform_user_id": "alapu upala",
+      "platform_user_url": "https://www.youtube.com/watch?v=SpKwRMrp-NU&list=RDSpKwRMrp-NU&start_radio=1&ab_channel=JohnJohnLyrics",
+      "verified": false,
+      "created_at": "2024-05-11T15:34:49.000Z",
+      "updated_at": "2024-05-11T15:34:49.000Z"
+    },
+    {
+      "id": 93283,
+      "user_id": 20940882,
+      "platform_id": "yt",
+      "platform_user_id": "ANRI",
+      "platform_user_url": "https://www.youtube.com/watch?v=6bALJxjL8jw",
+      "verified": false,
+      "created_at": "2024-03-28T10:13:55.000Z",
+      "updated_at": "2024-03-31T10:54:55.000Z"
+    },
+    {
+      "id": 92553,
+      "user_id": 20940882,
+      "platform_id": "yt",
+      "platform_user_id": "luv money",
+      "platform_user_url": "https://www.youtube.com/watch?v=1kHyFbkDkyc&list=RD1RAKdC0pWwg&index=10",
+      "verified": false,
+      "created_at": "2024-03-05T11:14:19.000Z",
+      "updated_at": "2024-03-05T11:14:19.000Z"
+    },
+    {
+      "id": 93210,
+      "user_id": 20940882,
+      "platform_id": "yt",
+      "platform_user_id": "saxobeat",
+      "platform_user_url": "https://www.youtube.com/watch?v=XHF0GGdcKsU&list=PLmXhw8Qk_cKeMXsO3B9IwSAS25ntW31DL&index=11",
+      "verified": false,
+      "created_at": "2024-03-25T07:53:19.000Z",
+      "updated_at": "2024-03-25T07:53:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20940882,
+    "rank_kc": 104669,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-18T09:45:24.000Z",
+    "rank_pc": 75223,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-18T09:45:26.000Z",
+    "rank_hs": 105388,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-18T09:45:28.000Z",
+    "created_at": "2024-10-12T17:03:19.000Z",
+    "updated_at": "2024-10-12T17:03:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:44:47.446Z"
+}
