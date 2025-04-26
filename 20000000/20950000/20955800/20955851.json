@@ -1,0 +1,61 @@
+{
+  "id": 20955851,
+  "username": "Rama",
+  "description": "GG",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-18T20:58:53.000Z",
+  "date_last_played": "2024-06-25T13:25:23.000Z",
+  "profile_views": 75,
+  "kill_count": 928,
+  "play_count": 806,
+  "highest_score": 2751689,
+  "picture": "20955851-599d8f5310094a42b89745a38d3ee5022.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 109,
+  "tier": 5,
+  "xp": 253200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20143,
+      "user_id": 20955851,
+      "platform_id": "ig",
+      "platform_user_id": "Ramiro.alegre06",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-31T02:52:24.000Z",
+      "updated_at": "2023-05-31T02:52:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20955851,
+    "rank_kc": 36751,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-16T21:00:09.000Z",
+    "rank_pc": 20183,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-16T21:00:10.000Z",
+    "rank_hs": 22927,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-16T21:00:12.000Z",
+    "created_at": "2024-06-25T13:25:23.000Z",
+    "updated_at": "2024-06-25T13:25:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:16:23.501Z"
+}
