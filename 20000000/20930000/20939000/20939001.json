@@ -1,0 +1,61 @@
+{
+  "id": 20939001,
+  "username": "垃圾",
+  "description": "水水水",
+  "about": "垃圾就是我",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-23T04:14:50.000Z",
+  "date_last_played": "2022-06-15T03:48:42.000Z",
+  "profile_views": 106,
+  "kill_count": 103,
+  "play_count": 269,
+  "highest_score": 817980,
+  "picture": "20939001-51ca293f105fb19b79a38b5bcac581924.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 144,
+  "tier": 2,
+  "xp": 29550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2247,
+      "user_id": 20939001,
+      "platform_id": "qq",
+      "platform_user_id": "2097751559",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-14T03:59:54.000Z",
+      "updated_at": "2022-06-14T03:59:54.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20939001,
+    "rank_kc": 84900,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-06-15T03:54:25.000Z",
+    "rank_pc": 26339,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-06-15T03:54:25.000Z",
+    "rank_hs": 83361,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-06-15T03:54:26.000Z",
+    "created_at": "2022-06-15T17:00:05.000Z",
+    "updated_at": "2022-06-15T17:00:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:33:56.567Z"
+}
