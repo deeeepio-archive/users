@@ -1,0 +1,61 @@
+{
+  "id": 20973706,
+  "username": "N1kitosik",
+  "description": "Не расстраивайся ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-24T22:02:34.000Z",
+  "date_last_played": "2022-12-12T23:10:57.000Z",
+  "profile_views": 19,
+  "kill_count": 73,
+  "play_count": 70,
+  "highest_score": 1250193,
+  "picture": "20973706-96a5415c3fa711b11cd078d899924d41.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 10800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 10982,
+      "user_id": 20973706,
+      "platform_id": "vk",
+      "platform_user_id": "marcisolo",
+      "platform_user_url": "https://vk.com/marcisolo",
+      "verified": false,
+      "created_at": "2022-12-08T09:38:50.000Z",
+      "updated_at": "2022-12-08T09:38:50.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20973706,
+    "rank_kc": 202369,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-07T06:58:11.000Z",
+    "rank_pc": 156042,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-07T06:58:12.000Z",
+    "rank_hs": 150005,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-07T06:58:13.000Z",
+    "created_at": "2022-12-12T23:10:57.000Z",
+    "updated_at": "2022-12-12T23:10:57.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:07:19.552Z"
+}
