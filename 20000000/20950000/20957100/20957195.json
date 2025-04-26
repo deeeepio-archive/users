@@ -1,0 +1,131 @@
+{
+  "id": 20957195,
+  "username": "XMLHttpRequest",
+  "description": "Hello world!\ntest",
+  "about": "Someone's testing account.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-24T13:08:44.000Z",
+  "date_last_played": "2023-01-20T14:06:36.000Z",
+  "profile_views": 56,
+  "kill_count": 52,
+  "play_count": 18,
+  "highest_score": 12310,
+  "picture": "20957195-3d6f34238b347002f1fbc43fb62ee845.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 26,
+  "tier": 1,
+  "xp": 2400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4673,
+      "user_id": 20957195,
+      "platform_id": "dc",
+      "platform_user_id": "test",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-07T08:38:06.000Z",
+      "updated_at": "2022-08-07T08:38:06.000Z"
+    },
+    {
+      "id": 4675,
+      "user_id": 20957195,
+      "platform_id": "ig",
+      "platform_user_id": "test",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-07T08:38:18.000Z",
+      "updated_at": "2022-08-07T08:38:18.000Z"
+    },
+    {
+      "id": 4679,
+      "user_id": 20957195,
+      "platform_id": "qq",
+      "platform_user_id": "test",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-07T09:26:45.000Z",
+      "updated_at": "2022-08-07T09:26:45.000Z"
+    },
+    {
+      "id": 4677,
+      "user_id": 20957195,
+      "platform_id": "rd",
+      "platform_user_id": "test",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-07T08:38:29.000Z",
+      "updated_at": "2022-08-07T08:38:29.000Z"
+    },
+    {
+      "id": 4676,
+      "user_id": 20957195,
+      "platform_id": "tc",
+      "platform_user_id": "test",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-07T08:38:24.000Z",
+      "updated_at": "2022-08-07T08:38:24.000Z"
+    },
+    {
+      "id": 4674,
+      "user_id": 20957195,
+      "platform_id": "tw",
+      "platform_user_id": "test",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-07T08:38:12.000Z",
+      "updated_at": "2022-08-07T08:38:12.000Z"
+    },
+    {
+      "id": 4678,
+      "user_id": 20957195,
+      "platform_id": "wb",
+      "platform_user_id": "test",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-07T09:26:38.000Z",
+      "updated_at": "2022-08-07T09:26:38.000Z"
+    },
+    {
+      "id": 11708,
+      "user_id": 20957195,
+      "platform_id": "wx",
+      "platform_user_id": "test",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-22T15:46:01.000Z",
+      "updated_at": "2022-12-22T15:46:01.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20957195,
+    "rank_kc": 124656,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-17T11:55:56.000Z",
+    "rank_pc": 136407,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-17T11:55:56.000Z",
+    "rank_hs": 436878,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-09-16T13:26:34.000Z",
+    "created_at": "2023-01-20T14:06:35.000Z",
+    "updated_at": "2023-01-20T14:06:36.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:23:37.717Z"
+}
