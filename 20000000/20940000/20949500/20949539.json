@@ -1,0 +1,272 @@
+{
+  "id": 20949539,
+  "username": "DeletedAcc87",
+  "description": "Bye predator",
+  "about": "I have channel on YouTube Deleted Account 87. Survivor. Coming get to create maps!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-23T12:56:46.000Z",
+  "date_last_played": "2022-11-05T13:28:25.000Z",
+  "profile_views": 126,
+  "kill_count": 45,
+  "play_count": 50,
+  "highest_score": 486597,
+  "picture": "20949539-7ea8ef6ba5d3643710676422841d761af.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 869,
+  "tier": 1,
+  "xp": 8850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3041,
+      "user_id": 20949539,
+      "platform_id": "dc",
+      "platform_user_id": "Grapple 1v1 Pr0",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-28T17:05:54.000Z",
+      "updated_at": "2022-06-28T17:05:54.000Z"
+    },
+    {
+      "id": 3040,
+      "user_id": 20949539,
+      "platform_id": "yt",
+      "platform_user_id": "Deleted Account 87",
+      "platform_user_url": "https://www.youtube.com/channel/UCWPr5sshqGnRTdEBFGCQ49A",
+      "verified": false,
+      "created_at": "2022-06-28T17:05:29.000Z",
+      "updated_at": "2022-07-07T10:27:01.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20949539,
+    "rank_kc": 143606,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-22T17:22:51.000Z",
+    "rank_pc": 97565,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-05-22T17:22:54.000Z",
+    "rank_hs": 145908,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-05-22T17:22:55.000Z",
+    "created_at": "2023-09-02T12:16:31.000Z",
+    "updated_at": "2023-05-22T17:22:55.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12292,
+          "user_id": 20949539,
+          "cloneof_id": null,
+          "string_id": "dark_sea_map_2",
+          "title": "Dark Sea Map 2",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 187,
+          "created_at": "2023-05-22T17:45:26.000Z",
+          "updated_at": "2023-05-22T17:45:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20949539,
+            "username": "DeletedAcc87",
+            "description": "Bye predator",
+            "about": "I have channel on YouTube Deleted Account 87. Survivor. Coming get to create maps!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-23T12:56:46.000Z",
+            "date_last_played": "2022-11-05T13:28:25.000Z",
+            "kill_count": 45,
+            "play_count": 50,
+            "highest_score": 486597,
+            "picture": "20949539-7ea8ef6ba5d3643710676422841d761af.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 869,
+            "tier": 1,
+            "xp": 8850,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 12291,
+          "user_id": 20949539,
+          "cloneof_id": null,
+          "string_id": "my_test_map",
+          "title": "Untitled",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-05-22T17:23:16.000Z",
+          "updated_at": "2023-05-22T17:23:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20949539,
+            "username": "DeletedAcc87",
+            "description": "Bye predator",
+            "about": "I have channel on YouTube Deleted Account 87. Survivor. Coming get to create maps!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-23T12:56:46.000Z",
+            "date_last_played": "2022-11-05T13:28:25.000Z",
+            "kill_count": 45,
+            "play_count": 50,
+            "highest_score": 486597,
+            "picture": "20949539-7ea8ef6ba5d3643710676422841d761af.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 869,
+            "tier": 1,
+            "xp": 8850,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 12289,
+          "user_id": 20949539,
+          "cloneof_id": null,
+          "string_id": "dark_sea_map",
+          "title": "Dark Ocean",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 88,
+          "created_at": "2023-05-22T17:20:39.000Z",
+          "updated_at": "2023-05-22T17:20:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20949539,
+            "username": "DeletedAcc87",
+            "description": "Bye predator",
+            "about": "I have channel on YouTube Deleted Account 87. Survivor. Coming get to create maps!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-23T12:56:46.000Z",
+            "date_last_played": "2022-11-05T13:28:25.000Z",
+            "kill_count": 45,
+            "play_count": 50,
+            "highest_score": 486597,
+            "picture": "20949539-7ea8ef6ba5d3643710676422841d761af.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 869,
+            "tier": 1,
+            "xp": 8850,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "crash map"
+            },
+            {
+              "id": "dark ocean"
+            },
+            {
+              "id": "map"
+            }
+          ]
+        },
+        {
+          "id": 10155,
+          "user_id": 20949539,
+          "cloneof_id": null,
+          "string_id": "my1map1v2",
+          "title": "Beautiful Ocean",
+          "description": "Best ocean map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 839,
+          "created_at": "2022-06-24T12:49:22.000Z",
+          "updated_at": "2022-06-24T12:59:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20949539,
+            "username": "DeletedAcc87",
+            "description": "Bye predator",
+            "about": "I have channel on YouTube Deleted Account 87. Survivor. Coming get to create maps!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-23T12:56:46.000Z",
+            "date_last_played": "2022-11-05T13:28:25.000Z",
+            "kill_count": 45,
+            "play_count": 50,
+            "highest_score": 486597,
+            "picture": "20949539-7ea8ef6ba5d3643710676422841d761af.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 869,
+            "tier": 1,
+            "xp": 8850,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "crash"
+            },
+            {
+              "id": "crash map"
+            },
+            {
+              "id": "crush map"
+            },
+            {
+              "id": "deeeep io"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "ocean"
+            },
+            {
+              "id": "ocean map"
+            }
+          ]
+        }
+      ],
+      "count": 4
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:38:39.378Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": 20949518,
+  "username": "Solle",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-23T11:13:50.000Z",
+  "date_last_played": "2023-06-24T15:45:06.000Z",
+  "profile_views": 43,
+  "kill_count": 1160,
+  "play_count": 436,
+  "highest_score": 5224350,
+  "picture": "20949518-a3c9be7bf1d6546695a9c7ed7d44d189.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 714,
+  "tier": 4,
+  "xp": 205050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4688,
+      "user_id": 20949518,
+      "platform_id": "dc",
+      "platform_user_id": "Solle#4282",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-07T13:56:02.000Z",
+      "updated_at": "2022-08-07T13:56:02.000Z"
+    },
+    {
+      "id": 4689,
+      "user_id": 20949518,
+      "platform_id": "ig",
+      "platform_user_id": "fran.soukup",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-08-07T13:56:15.000Z",
+      "updated_at": "2022-08-07T13:56:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20949518,
+    "rank_kc": 19591,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-09-03T16:01:08.000Z",
+    "rank_pc": 20315,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-09-03T16:01:10.000Z",
+    "rank_hs": 5870,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-09-03T16:01:12.000Z",
+    "created_at": "2023-06-24T15:45:05.000Z",
+    "updated_at": "2023-06-24T15:45:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:38:36.972Z"
+}
