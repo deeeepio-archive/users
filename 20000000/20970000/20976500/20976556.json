@@ -1,0 +1,61 @@
+{
+  "id": 20976556,
+  "username": "Luru",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-06T15:10:17.000Z",
+  "date_last_played": "2022-10-06T15:17:50.000Z",
+  "profile_views": 4,
+  "kill_count": 0,
+  "play_count": 2,
+  "highest_score": 17163,
+  "picture": "20976556-be2f10431ebf29b13f8e2694ae10b6a15.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 7711,
+      "user_id": 20976556,
+      "platform_id": "dc",
+      "platform_user_id": "Luru#5965",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-10-06T15:11:17.000Z",
+      "updated_at": "2022-10-06T15:11:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20976556,
+    "rank_kc": 381426,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-10-06T15:12:25.000Z",
+    "rank_pc": 278967,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-10-06T15:12:27.000Z",
+    "rank_hs": 511348,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-10-06T15:12:28.000Z",
+    "created_at": "2023-07-08T17:34:29.000Z",
+    "updated_at": "2022-10-06T15:17:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:25:47.340Z"
+}

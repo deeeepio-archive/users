@@ -1,0 +1,71 @@
+{
+  "id": 20976639,
+  "username": "HappyFace",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-06T19:56:18.000Z",
+  "date_last_played": "2024-12-03T16:55:53.000Z",
+  "profile_views": 218,
+  "kill_count": 2458,
+  "play_count": 1382,
+  "highest_score": 2949214,
+  "picture": "20976639-9181db56a5210ccd105eb1ca572ce2105b8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 109,
+  "tier": 6,
+  "xp": 436050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 9271,
+      "user_id": 20976639,
+      "platform_id": "rd",
+      "platform_user_id": "TomateFritoSolis",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-08T11:08:13.000Z",
+      "updated_at": "2022-11-08T11:08:13.000Z"
+    },
+    {
+      "id": 10132,
+      "user_id": 20976639,
+      "platform_id": "tc",
+      "platform_user_id": "choco_latito91",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-23T19:40:13.000Z",
+      "updated_at": "2022-11-23T19:40:13.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20976639,
+    "rank_kc": 12548,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-01T21:08:14.000Z",
+    "rank_pc": 8728,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-01T21:08:16.000Z",
+    "rank_hs": 19847,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-01T19:30:57.000Z",
+    "created_at": "2024-12-03T16:55:53.000Z",
+    "updated_at": "2024-12-03T16:55:53.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:26:00.513Z"
+}
