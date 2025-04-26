@@ -1,0 +1,61 @@
+{
+  "id": 20978155,
+  "username": "萌萌",
+  "description": null,
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-13T07:38:40.000Z",
+  "date_last_played": "2023-10-06T14:03:06.000Z",
+  "profile_views": 16,
+  "kill_count": 278,
+  "play_count": 215,
+  "highest_score": 1167563,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 371,
+  "tier": 2,
+  "xp": 54150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21309,
+      "user_id": 20978155,
+      "platform_id": "dc",
+      "platform_user_id": "萌萌",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-20T08:37:23.000Z",
+      "updated_at": "2023-06-20T08:37:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20978155,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T15:35:03.607Z",
+    "updated_at": "2025-04-26T15:35:04.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T15:35:03.678Z"
+}
