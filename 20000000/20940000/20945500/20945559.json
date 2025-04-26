@@ -1,0 +1,97 @@
+{
+  "id": 20945559,
+  "username": "myamay",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-10T16:15:36.000Z",
+  "date_last_played": "2022-06-10T18:17:57.000Z",
+  "profile_views": 1,
+  "kill_count": 0,
+  "play_count": 5,
+  "highest_score": 6450,
+  "picture": "20945559-9fdbea627323a15df66a1042ceb2dd1f5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 510,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20945559,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-26T12:14:03.919Z",
+    "updated_at": "2025-04-26T12:14:04.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9913,
+          "user_id": 20945559,
+          "cloneof_id": null,
+          "string_id": "3000",
+          "title": "idkUntitled",
+          "description": "idk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2022-06-10T18:09:29.000Z",
+          "updated_at": "2022-06-10T18:09:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20945559,
+            "username": "myamay",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-06-10T16:15:36.000Z",
+            "date_last_played": "2022-06-10T18:17:57.000Z",
+            "kill_count": 0,
+            "play_count": 5,
+            "highest_score": 6450,
+            "picture": "20945559-9fdbea627323a15df66a1042ceb2dd1f5.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 510,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "idk"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:14:03.974Z"
+}
