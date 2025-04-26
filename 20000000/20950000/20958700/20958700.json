@@ -1,0 +1,91 @@
+{
+  "id": 20958700,
+  "username": "SuperTrooperGaming",
+  "description": "Hasta La Vista Baby",
+  "about": "I'm SuperTrooperGaming! A Youtuber who loves VR and videogames!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-31T02:47:21.000Z",
+  "date_last_played": "2022-07-31T03:16:43.000Z",
+  "profile_views": 1,
+  "kill_count": 0,
+  "play_count": 8,
+  "highest_score": 121295,
+  "picture": "20958700-3ca94f16a8510508e10ca13f7ba953516c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 4414,
+      "user_id": 20958700,
+      "platform_id": "dc",
+      "platform_user_id": "THE_SuperTrooperGaming#3651",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-31T02:52:54.000Z",
+      "updated_at": "2022-07-31T02:53:01.000Z"
+    },
+    {
+      "id": 4412,
+      "user_id": 20958700,
+      "platform_id": "rd",
+      "platform_user_id": "SuperTrooperGaming",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-31T02:51:00.000Z",
+      "updated_at": "2022-07-31T02:51:00.000Z"
+    },
+    {
+      "id": 4411,
+      "user_id": 20958700,
+      "platform_id": "tc",
+      "platform_user_id": "The_SuperTrooperGaming",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-31T02:50:17.000Z",
+      "updated_at": "2022-07-31T02:50:17.000Z"
+    },
+    {
+      "id": 4409,
+      "user_id": 20958700,
+      "platform_id": "yt",
+      "platform_user_id": "SuperTrooperGaming",
+      "platform_user_url": "https://www.youtube.com/channel/UC1agdIa_ymidNsXFuLpgRoQ",
+      "verified": false,
+      "created_at": "2022-07-31T02:48:28.000Z",
+      "updated_at": "2022-07-31T02:48:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20958700,
+    "rank_kc": 369541,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2022-07-31T02:52:18.000Z",
+    "rank_pc": 262866,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-07-31T02:52:19.000Z",
+    "rank_hs": 495676,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-07-31T02:52:20.000Z",
+    "created_at": "2022-07-31T03:16:42.000Z",
+    "updated_at": "2022-07-31T03:16:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:31:44.701Z"
+}

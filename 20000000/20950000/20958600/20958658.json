@@ -1,0 +1,71 @@
+{
+  "id": 20958658,
+  "username": "Doctor_Horse",
+  "description": "TY",
+  "about": "Wassup",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-07-30T21:41:03.000Z",
+  "date_last_played": "2024-03-02T22:24:11.000Z",
+  "profile_views": 657,
+  "kill_count": 4576,
+  "play_count": 3205,
+  "highest_score": 4846930,
+  "picture": "20958658-e78b40d4c802410d245bf9d4a10f732aa5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 108,
+  "tier": 9,
+  "xp": 1078800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12383,
+      "user_id": 20958658,
+      "platform_id": "dc",
+      "platform_user_id": "Doctor Horse#1847",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-01T21:47:40.000Z",
+      "updated_at": "2023-04-25T00:01:46.000Z"
+    },
+    {
+      "id": 7055,
+      "user_id": 20958658,
+      "platform_id": "yt",
+      "platform_user_id": "My YouTube Channel",
+      "platform_user_url": "https://www.youtube.com/channel/UCJBhbCeu8NdksQ8ufsz6rCg",
+      "verified": false,
+      "created_at": "2022-09-20T04:30:35.000Z",
+      "updated_at": "2022-09-20T04:30:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20958658,
+    "rank_kc": 6840,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-10T00:43:51.000Z",
+    "rank_pc": 2856,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-10T00:43:52.000Z",
+    "rank_hs": 8936,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-10T00:43:53.000Z",
+    "created_at": "2024-03-02T22:24:11.000Z",
+    "updated_at": "2024-03-02T22:24:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T13:31:39.268Z"
+}
