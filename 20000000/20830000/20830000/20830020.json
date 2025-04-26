@@ -1,0 +1,108 @@
+{
+  "id": 20830020,
+  "username": "Mr_Goat",
+  "description": "1.E4♟️ kind of guy ;-)\n\nBeaked whale forever\n\nCheck Out My 1v1 Map:\nhttps://mapmaker.deeeep.io/map/1v1fountain",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-08T21:27:56.000Z",
+  "date_last_played": "2025-03-31T04:35:23.000Z",
+  "profile_views": 454,
+  "kill_count": 4793,
+  "play_count": 2688,
+  "highest_score": 3702385,
+  "picture": "20830020-eb841be58b33cba650a0b312fd3b3312.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4380,
+  "tier": 9,
+  "xp": 1044000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 2476,
+      "user_id": 20830020,
+      "platform_id": "dc",
+      "platform_user_id": "Mr.Goat#9458",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-06-17T20:46:30.000Z",
+      "updated_at": "2022-06-17T20:46:30.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20830020,
+    "rank_kc": 9459,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-23T16:34:20.000Z",
+    "rank_pc": 5561,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-23T16:34:22.000Z",
+    "rank_hs": 14790,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-23T16:34:28.000Z",
+    "created_at": "2025-03-31T04:35:23.000Z",
+    "updated_at": "2025-03-31T04:35:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 9948,
+          "user_id": 20830020,
+          "cloneof_id": null,
+          "string_id": "1v1fountain",
+          "title": "1v1 Fountain Map",
+          "description": "1v1 map with a water fountain",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 85,
+          "created_at": "2022-06-13T23:16:24.000Z",
+          "updated_at": "2023-11-26T23:39:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20830020,
+            "username": "Mr_Goat",
+            "description": "1.E4♟️ kind of guy ;-)\n\nBeaked whale forever\n\nCheck Out My 1v1 Map:\nhttps://mapmaker.deeeep.io/map/1v1fountain",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-08T21:27:56.000Z",
+            "date_last_played": "2025-03-31T04:35:23.000Z",
+            "kill_count": 4793,
+            "play_count": 2688,
+            "highest_score": 3702385,
+            "picture": "20830020-eb841be58b33cba650a0b312fd3b3312.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 4380,
+            "tier": 9,
+            "xp": 1044000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fountain"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T00:24:57.754Z"
+}

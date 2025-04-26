@@ -1,0 +1,157 @@
+{
+  "id": 20829962,
+  "username": "PioneerUs",
+  "description": "Frutiger Aero",
+  "about": "i just Main napo, thats all",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-01-08T15:16:14.000Z",
+  "date_last_played": "2024-07-24T11:21:57.000Z",
+  "profile_views": 1982,
+  "kill_count": 7200,
+  "play_count": 3533,
+  "highest_score": 4911293,
+  "picture": "20829962-ff611d69f14e2f37ff647bdf85663d62-38c84195-22d3-4221-84e0-634782784894.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 321,
+  "tier": 10,
+  "xp": 1490700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 19634,
+      "user_id": 20829962,
+      "platform_id": "dc",
+      "platform_user_id": "FancySaucey#3013",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-21T13:33:28.000Z",
+      "updated_at": "2024-06-20T11:13:55.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20829962,
+    "rank_kc": 5134,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-10T21:20:37.000Z",
+    "rank_pc": 3838,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-10T21:20:40.000Z",
+    "rank_hs": 12318,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-10T21:20:44.000Z",
+    "created_at": "2024-07-24T11:21:57.000Z",
+    "updated_at": "2024-07-24T11:21:57.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11962,
+          "user_id": 20829962,
+          "cloneof_id": null,
+          "string_id": "pipi_un",
+          "title": "Surfing tales",
+          "description": "Yes a custom server",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-04-02T09:56:20.000Z",
+          "updated_at": "2023-04-02T09:56:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20829962,
+            "username": "PioneerUs",
+            "description": "Frutiger Aero",
+            "about": "i just Main napo, thats all",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-08T15:16:14.000Z",
+            "date_last_played": "2024-07-24T11:21:57.000Z",
+            "kill_count": 7200,
+            "play_count": 3533,
+            "highest_score": 4911293,
+            "picture": "20829962-ff611d69f14e2f37ff647bdf85663d62-38c84195-22d3-4221-84e0-634782784894.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 321,
+            "tier": 10,
+            "xp": 1490700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#fun"
+            }
+          ]
+        },
+        {
+          "id": 11959,
+          "user_id": 20829962,
+          "cloneof_id": null,
+          "string_id": "ip_pupu",
+          "title": "Coral surfers",
+          "description": "Yes a custom funi map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-04-01T09:04:37.000Z",
+          "updated_at": "2023-04-01T09:07:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20829962,
+            "username": "PioneerUs",
+            "description": "Frutiger Aero",
+            "about": "i just Main napo, thats all",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-01-08T15:16:14.000Z",
+            "date_last_played": "2024-07-24T11:21:57.000Z",
+            "kill_count": 7200,
+            "play_count": 3533,
+            "highest_score": 4911293,
+            "picture": "20829962-ff611d69f14e2f37ff647bdf85663d62-38c84195-22d3-4221-84e0-634782784894.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 321,
+            "tier": 10,
+            "xp": 1490700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#fish"
+            },
+            {
+              "id": "#fun"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T00:24:52.503Z"
+}
