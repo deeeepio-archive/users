@@ -1,0 +1,61 @@
+{
+  "id": 20944100,
+  "username": "mopelover23",
+  "description": "i love mope.io",
+  "about": "0",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-06-06T15:47:02.000Z",
+  "date_last_played": "2025-01-03T22:00:04.000Z",
+  "profile_views": 348,
+  "kill_count": 363,
+  "play_count": 265,
+  "highest_score": 2412447,
+  "picture": "20944100-5411f2c9c31d95e48104d35e5ae5b4223.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 876,
+  "tier": 3,
+  "xp": 83700,
+  "migrated": true,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 5599,
+      "user_id": 20944100,
+      "platform_id": "yt",
+      "platform_user_id": "youtube",
+      "platform_user_url": "https://www.youtube.com/whutch",
+      "verified": false,
+      "created_at": "2022-08-25T12:47:08.000Z",
+      "updated_at": "2023-04-22T14:30:12.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20944100,
+    "rank_kc": 51548,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-16T18:42:52.000Z",
+    "rank_pc": 33102,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-16T18:42:56.000Z",
+    "rank_hs": 26015,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-16T18:42:59.000Z",
+    "created_at": "2025-01-03T22:00:04.000Z",
+    "updated_at": "2025-01-03T22:00:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T12:04:55.789Z"
+}
