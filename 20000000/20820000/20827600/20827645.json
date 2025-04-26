@@ -1,0 +1,146 @@
+{
+  "id": 20827645,
+  "username": "mateg",
+  "description": ":( sory \n\n\n\n\n",
+  "about": "am georgian",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-12-31T19:23:12.000Z",
+  "date_last_played": "2023-06-03T19:32:06.000Z",
+  "profile_views": 548,
+  "kill_count": 1086,
+  "play_count": 500,
+  "highest_score": 1219646,
+  "picture": "20827645-2182259831bace86ebf1421ab8c210a8b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 30,
+  "tier": 3,
+  "xp": 139800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 20827645,
+    "rank_kc": 25790,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-11-26T18:50:30.000Z",
+    "rank_pc": 24828,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-26T18:50:31.000Z",
+    "rank_hs": 75646,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-26T18:50:32.000Z",
+    "created_at": "2023-12-08T18:23:24.000Z",
+    "updated_at": "2023-11-26T18:50:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11771,
+          "user_id": 20827645,
+          "cloneof_id": null,
+          "string_id": "mategxd",
+          "title": "Untitled",
+          "description": "hi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 77,
+          "created_at": "2023-02-13T18:59:54.000Z",
+          "updated_at": "2023-02-13T18:59:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20827645,
+            "username": "mateg",
+            "description": ":( sory \n\n\n\n\n",
+            "about": "am georgian",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-12-31T19:23:12.000Z",
+            "date_last_played": "2023-06-03T19:32:06.000Z",
+            "kill_count": 1086,
+            "play_count": 500,
+            "highest_score": 1219646,
+            "picture": "20827645-2182259831bace86ebf1421ab8c210a8b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 30,
+            "tier": 3,
+            "xp": 139800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hi am mateg"
+            }
+          ]
+        },
+        {
+          "id": 10402,
+          "user_id": 20827645,
+          "cloneof_id": null,
+          "string_id": "mateg",
+          "title": "Untitled",
+          "description": "hi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": -1,
+          "objects": 55,
+          "created_at": "2022-07-22T18:47:58.000Z",
+          "updated_at": "2022-07-24T19:17:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20827645,
+            "username": "mateg",
+            "description": ":( sory \n\n\n\n\n",
+            "about": "am georgian",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-12-31T19:23:12.000Z",
+            "date_last_played": "2023-06-03T19:32:06.000Z",
+            "kill_count": 1086,
+            "play_count": 500,
+            "highest_score": 1219646,
+            "picture": "20827645-2182259831bace86ebf1421ab8c210a8b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 30,
+            "tier": 3,
+            "xp": 139800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "10"
+            },
+            {
+              "id": "20"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T00:09:39.084Z"
+}
