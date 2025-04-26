@@ -1,0 +1,65 @@
+{
+  "id": 20941817,
+  "username": "dorsaval",
+  "description": "EA",
+  "about": "nada\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-05-30T17:59:45.000Z",
+  "date_last_played": "2025-04-25T22:05:47.000Z",
+  "profile_views": 1056,
+  "kill_count": 5829,
+  "play_count": 1153,
+  "highest_score": 2063889,
+  "picture": "20941817-fcc57c3510a68b107753b5f57e26bb4f24.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 213,
+  "tier": 8,
+  "xp": 868200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 3990,
+      "user_id": 20941817,
+      "platform_id": "dc",
+      "platform_user_id": "dorsavalgamer#3832",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-07-21T16:40:51.000Z",
+      "updated_at": "2022-07-21T16:40:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20941817,
+    "rank_kc": 8881,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-11T21:01:49.000Z",
+    "rank_pc": 15444,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-11T21:01:51.000Z",
+    "rank_hs": 39645,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-11T21:01:58.000Z",
+    "created_at": "2025-04-25T22:05:46.000Z",
+    "updated_at": "2025-04-25T22:05:47.000Z",
+    "pd": {
+      "played": 96,
+      "won": 61,
+      "ratio": 64
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T11:50:43.131Z"
+}
