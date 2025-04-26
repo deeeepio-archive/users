@@ -1,0 +1,71 @@
+{
+  "id": 20982697,
+  "username": "pivljak",
+  "description": null,
+  "about": "nice to meet u mate :D",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-10-30T12:15:51.000Z",
+  "date_last_played": "2025-02-26T17:27:40.000Z",
+  "profile_views": 48,
+  "kill_count": 1010,
+  "play_count": 635,
+  "highest_score": 2327573,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 216,
+  "tier": 4,
+  "xp": 222750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14963,
+      "user_id": 20982697,
+      "platform_id": "dc",
+      "platform_user_id": "Pivljak#7876",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-12T13:36:41.000Z",
+      "updated_at": "2023-02-12T13:36:41.000Z"
+    },
+    {
+      "id": 10381,
+      "user_id": 20982697,
+      "platform_id": "ig",
+      "platform_user_id": "pivljak_m03",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-26T14:24:44.000Z",
+      "updated_at": "2022-11-26T14:24:44.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20982697,
+    "rank_kc": 26081,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-27T00:25:42.000Z",
+    "rank_pc": 19146,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-27T00:25:43.000Z",
+    "rank_hs": 28130,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-27T00:25:44.000Z",
+    "created_at": "2025-02-26T17:27:40.000Z",
+    "updated_at": "2025-02-26T17:27:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T16:03:23.734Z"
+}
