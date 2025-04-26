@@ -1,0 +1,61 @@
+{
+  "id": 20969344,
+  "username": "Qwirel",
+  "description": "Requiescat in pace.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-09-09T16:42:43.000Z",
+  "date_last_played": "2024-08-19T03:17:15.000Z",
+  "profile_views": 45,
+  "kill_count": 205,
+  "play_count": 479,
+  "highest_score": 1226178,
+  "picture": "20969344-27fa92e301e6101021041aad1065b0a278d10.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 78,
+  "tier": 2,
+  "xp": 47100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21663,
+      "user_id": 20969344,
+      "platform_id": "dc",
+      "platform_user_id": "rejn9k",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-26T14:08:33.000Z",
+      "updated_at": "2023-06-26T14:08:33.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 20969344,
+    "rank_kc": 83157,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-28T08:05:13.000Z",
+    "rank_pc": 30659,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-28T08:05:14.000Z",
+    "rank_hs": 72317,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-28T08:05:14.000Z",
+    "created_at": "2024-08-19T03:17:14.000Z",
+    "updated_at": "2024-08-19T03:17:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-26T14:34:39.738Z"
+}
