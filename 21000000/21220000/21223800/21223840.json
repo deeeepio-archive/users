@@ -1,0 +1,54 @@
+{
+  "id": 21223840,
+  "username": "minh2k10",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-19T15:04:17.000Z",
+  "date_last_played": "2025-04-24T16:11:23.000Z",
+  "profile_views": 35,
+  "kill_count": 75,
+  "play_count": 69,
+  "highest_score": 1583315,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 155,
+  "tier": 2,
+  "xp": 25650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21223840,
+    "rank_kc": 200353,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-21T05:45:35.000Z",
+    "rank_pc": 152295,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-21T05:45:37.000Z",
+    "rank_hs": 250305,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-21T05:45:38.000Z",
+    "created_at": "2025-04-24T16:11:23.000Z",
+    "updated_at": "2025-04-24T16:11:23.000Z",
+    "pd": {
+      "played": 17,
+      "won": 6,
+      "ratio": 35
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:54:59.524Z"
+}
