@@ -1,0 +1,160 @@
+{
+  "id": 21276617,
+  "username": "Ayus0324",
+  "description": "fun fact: dying is a part of live",
+  "about": "\n\nnothing\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-21T16:47:51.000Z",
+  "date_last_played": "2025-04-21T10:44:08.000Z",
+  "profile_views": 421,
+  "kill_count": 1957,
+  "play_count": 1940,
+  "highest_score": 1866580,
+  "picture": "21276617-bf6c400c23d18fc81056cee65a39eae8f-a6687851-9066-4983-98b8-22a7bd16894a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 89,
+  "tier": 5,
+  "xp": 319650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 96366,
+      "user_id": 21276617,
+      "platform_id": "dc",
+      "platform_user_id": "https://www.youtube.com/watch?v=iF9Xf2ilKO8",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-12T08:46:27.000Z",
+      "updated_at": "2024-07-12T08:46:27.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21276617,
+    "rank_kc": 18036,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-14T04:28:18.000Z",
+    "rank_pc": 6849,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-14T04:28:19.000Z",
+    "rank_hs": 44619,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-14T04:28:20.000Z",
+    "created_at": "2025-04-21T10:44:08.000Z",
+    "updated_at": "2025-04-21T10:44:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12422,
+          "user_id": 21276617,
+          "cloneof_id": null,
+          "string_id": "the_map_using_for_ffa",
+          "title": "in a real universe a real map",
+          "description": "Big",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 564,
+          "created_at": "2023-06-13T15:11:22.000Z",
+          "updated_at": "2023-07-13T14:05:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21276617,
+            "username": "Ayus0324",
+            "description": "fun fact: dying is a part of live",
+            "about": "\n\nnothing\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-03-21T16:47:51.000Z",
+            "date_last_played": "2025-04-21T10:44:08.000Z",
+            "kill_count": 1957,
+            "play_count": 1940,
+            "highest_score": 1866580,
+            "picture": "21276617-bf6c400c23d18fc81056cee65a39eae8f-a6687851-9066-4983-98b8-22a7bd16894a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 89,
+            "tier": 5,
+            "xp": 319650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            }
+          ]
+        },
+        {
+          "id": 11943,
+          "user_id": 21276617,
+          "cloneof_id": null,
+          "string_id": "roundcube",
+          "title": "The Sea",
+          "description": "Big",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 56,
+          "created_at": "2023-03-27T17:45:08.000Z",
+          "updated_at": "2023-03-27T17:45:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21276617,
+            "username": "Ayus0324",
+            "description": "fun fact: dying is a part of live",
+            "about": "\n\nnothing\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-03-21T16:47:51.000Z",
+            "date_last_played": "2025-04-21T10:44:08.000Z",
+            "kill_count": 1957,
+            "play_count": 1940,
+            "highest_score": 1866580,
+            "picture": "21276617-bf6c400c23d18fc81056cee65a39eae8f-a6687851-9066-4983-98b8-22a7bd16894a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 89,
+            "tier": 5,
+            "xp": 319650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Big"
+            },
+            {
+              "id": "Cool"
+            },
+            {
+              "id": "Unclear"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:51:09.079Z"
+}
