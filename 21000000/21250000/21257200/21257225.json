@@ -1,0 +1,61 @@
+{
+  "id": 21257225,
+  "username": "aninone",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-20T17:16:17.000Z",
+  "date_last_played": "2024-03-18T15:47:44.000Z",
+  "profile_views": 11,
+  "kill_count": 72,
+  "play_count": 35,
+  "highest_score": 1301457,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 46,
+  "tier": 1,
+  "xp": 11400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92353,
+      "user_id": 21257225,
+      "platform_id": "yt",
+      "platform_user_id": "DeheL",
+      "platform_user_url": "https://www.youtube.com/channel/UCnLjr0czO5zPsJYubbrvHCw",
+      "verified": false,
+      "created_at": "2024-02-29T16:59:45.000Z",
+      "updated_at": "2024-02-29T16:59:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21257225,
+    "rank_kc": 202645,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-27T17:14:09.000Z",
+    "rank_pc": 186921,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-27T17:14:23.000Z",
+    "rank_hs": 100013,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-27T17:14:40.000Z",
+    "created_at": "2024-03-18T15:47:44.000Z",
+    "updated_at": "2024-03-18T15:47:44.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:45:48.837Z"
+}
