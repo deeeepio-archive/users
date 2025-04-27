@@ -1,0 +1,61 @@
+{
+  "id": 21183137,
+  "username": "rapo42",
+  "description": null,
+  "about": "talvez",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-26T19:17:07.000Z",
+  "date_last_played": "2023-01-02T17:23:05.000Z",
+  "profile_views": 3,
+  "kill_count": 193,
+  "play_count": 136,
+  "highest_score": 1471049,
+  "picture": "21183137-e2ae51b6b81035f8d819f9abbf1c8c3eb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 189,
+  "tier": 2,
+  "xp": 32100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 10393,
+      "user_id": 21183137,
+      "platform_id": "dc",
+      "platform_user_id": "Rapo",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-11-26T22:22:29.000Z",
+      "updated_at": "2022-11-26T22:22:29.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21183137,
+    "rank_kc": 132330,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-27T17:37:52.000Z",
+    "rank_pc": 113242,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-27T17:38:07.000Z",
+    "rank_hs": 101873,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-27T17:38:19.000Z",
+    "created_at": "2023-01-02T17:23:05.000Z",
+    "updated_at": "2023-01-02T17:23:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T12:39:22.155Z"
+}
