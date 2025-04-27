@@ -1,0 +1,61 @@
+{
+  "id": 21273879,
+  "username": "Progame356544",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-09T21:37:26.000Z",
+  "date_last_played": "2024-08-03T03:44:59.000Z",
+  "profile_views": 8,
+  "kill_count": 89,
+  "play_count": 90,
+  "highest_score": 2377165,
+  "picture": "21273879-15101791046109a029103ac9fdda2415c375.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 164,
+  "tier": 1,
+  "xp": 23100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16035,
+      "user_id": 21273879,
+      "platform_id": "dc",
+      "platform_user_id": "progame356544",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-10T04:28:51.000Z",
+      "updated_at": "2023-03-10T04:28:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21273879,
+    "rank_kc": 119305,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-20T06:19:20.000Z",
+    "rank_pc": 75711,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-20T06:19:21.000Z",
+    "rank_hs": 142336,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-20T06:19:22.000Z",
+    "created_at": "2024-08-03T03:44:58.000Z",
+    "updated_at": "2024-08-03T03:44:59.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:33:44.932Z"
+}

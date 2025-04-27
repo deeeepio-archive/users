@@ -1,0 +1,61 @@
+{
+  "id": 21273926,
+  "username": "ceramic",
+  "description": "good game! sorry for killing you if you were in the middle of something!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-10T02:53:59.000Z",
+  "date_last_played": "2023-03-13T13:01:46.000Z",
+  "profile_views": 25,
+  "kill_count": 94,
+  "play_count": 75,
+  "highest_score": 1549697,
+  "picture": "21273926-9b2110a101010a8dc6102e85eb923207f8f25.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 56,
+  "tier": 1,
+  "xp": 21900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16201,
+      "user_id": 21273926,
+      "platform_id": "dc",
+      "platform_user_id": "bobbittwyrm#0654",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-13T11:00:36.000Z",
+      "updated_at": "2023-03-13T11:00:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21273926,
+    "rank_kc": 103864,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-25T20:29:48.000Z",
+    "rank_pc": 78861,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-25T20:29:50.000Z",
+    "rank_hs": 52594,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-25T20:29:50.000Z",
+    "created_at": "2024-01-19T17:02:14.000Z",
+    "updated_at": "2023-05-25T20:29:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:33:54.590Z"
+}
