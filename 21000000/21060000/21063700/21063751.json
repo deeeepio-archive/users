@@ -1,0 +1,61 @@
+{
+  "id": 21063751,
+  "username": "betatester1024",
+  "description": "I'm so sorry.",
+  "about": "the one and only toaster of beets.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-20T18:29:20.000Z",
+  "date_last_played": "2025-03-10T16:53:14.000Z",
+  "profile_views": 117,
+  "kill_count": 130,
+  "play_count": 116,
+  "highest_score": 789226,
+  "picture": "21063751-10bfdf8691033b8566b7d11a4c671070ae-a8470c3b-e8a5-4a86-95e5-aef365ad6554.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 233,
+  "tier": 2,
+  "xp": 48450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102804,
+      "user_id": 21063751,
+      "platform_id": "dc",
+      "platform_user_id": "betaos_services",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-02-22T19:56:56.000Z",
+      "updated_at": "2025-02-22T19:56:56.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21063751,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-10T16:53:13.000Z",
+    "updated_at": "2025-03-10T16:53:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T00:18:10.102Z"
+}
