@@ -1,0 +1,71 @@
+{
+  "id": 21268155,
+  "username": "Creey",
+  "description": "xD, gg",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-13T10:39:01.000Z",
+  "date_last_played": "2023-05-07T17:16:07.000Z",
+  "profile_views": 84,
+  "kill_count": 542,
+  "play_count": 192,
+  "highest_score": 1990660,
+  "picture": "21268155-6101e9af344cd56d61ea410747863104f8c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 234,
+  "tier": 2,
+  "xp": 72600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15007,
+      "user_id": 21268155,
+      "platform_id": "dc",
+      "platform_user_id": "Creeysh#8825",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-13T10:51:38.000Z",
+      "updated_at": "2023-02-13T10:51:38.000Z"
+    },
+    {
+      "id": 15247,
+      "user_id": 21268155,
+      "platform_id": "yt",
+      "platform_user_id": "Creey",
+      "platform_user_url": "https://www.youtube.com/channel/UCs9xzY_EB9NPewvKLPUpLnQ",
+      "verified": false,
+      "created_at": "2023-02-19T16:28:55.000Z",
+      "updated_at": "2023-02-19T16:28:55.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21268155,
+    "rank_kc": 38143,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-23T08:39:52.000Z",
+    "rank_pc": 42802,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-23T08:39:54.000Z",
+    "rank_hs": 36320,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-23T08:39:54.000Z",
+    "created_at": "2023-09-27T14:39:46.000Z",
+    "updated_at": "2023-05-07T17:16:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:57:20.252Z"
+}
