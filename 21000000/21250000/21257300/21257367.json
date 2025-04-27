@@ -1,0 +1,97 @@
+{
+  "id": 21257367,
+  "username": "lieu",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-21T05:45:49.000Z",
+  "date_last_played": "2023-01-30T23:03:13.000Z",
+  "profile_views": 4,
+  "kill_count": 10,
+  "play_count": 32,
+  "highest_score": 254444,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 1650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21257367,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T20:46:40.914Z",
+    "updated_at": "2025-04-27T20:46:41.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11627,
+          "user_id": 21257367,
+          "cloneof_id": null,
+          "string_id": "lieu",
+          "title": "Lieu",
+          "description": "Lieu",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 14,
+          "created_at": "2023-01-22T15:08:34.000Z",
+          "updated_at": "2023-01-22T15:08:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21257367,
+            "username": "lieu",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-01-21T05:45:49.000Z",
+            "date_last_played": "2023-01-30T23:03:13.000Z",
+            "kill_count": 10,
+            "play_count": 32,
+            "highest_score": 254444,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 1,
+            "xp": 1650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Lieu"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:46:40.969Z"
+}
