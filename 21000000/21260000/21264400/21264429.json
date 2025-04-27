@@ -1,0 +1,50 @@
+{
+  "id": 21264429,
+  "username": "Neomar",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-28T16:11:38.000Z",
+  "date_last_played": "2023-03-04T22:04:12.000Z",
+  "profile_views": 7,
+  "kill_count": 0,
+  "play_count": 4,
+  "highest_score": 68235,
+  "picture": "21264429-4d10b8a9231fff1f24527493defc2e810.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21264429,
+    "rank_kc": 401702,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-01-28T16:16:00.000Z",
+    "rank_pc": 306152,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-28T16:16:01.000Z",
+    "rank_hs": 537801,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-28T16:16:04.000Z",
+    "created_at": "2023-03-04T22:04:12.000Z",
+    "updated_at": "2023-03-04T22:04:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:33:48.303Z"
+}
