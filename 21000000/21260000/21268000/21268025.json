@@ -1,0 +1,71 @@
+{
+  "id": 21268025,
+  "username": "Sypher",
+  "description": "See you soon ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-12T15:14:03.000Z",
+  "date_last_played": "2023-02-13T14:15:25.000Z",
+  "profile_views": 3,
+  "kill_count": 14,
+  "play_count": 14,
+  "highest_score": 509983,
+  "picture": "21268025-b2d9bd6ad5befeab75c10d619d9e9571.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 34,
+  "tier": 1,
+  "xp": 3600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14978,
+      "user_id": 21268025,
+      "platform_id": "dc",
+      "platform_user_id": "qbert#7445",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-12T15:15:36.000Z",
+      "updated_at": "2023-02-12T15:15:36.000Z"
+    },
+    {
+      "id": 14979,
+      "user_id": 21268025,
+      "platform_id": "ig",
+      "platform_user_id": "_.vidhu.s_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-12T15:16:36.000Z",
+      "updated_at": "2023-02-12T15:16:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21268025,
+    "rank_kc": 269441,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-12T17:15:45.000Z",
+    "rank_pc": 235988,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-12T17:15:49.000Z",
+    "rank_hs": 134687,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-02-12T17:15:52.000Z",
+    "created_at": "2023-02-13T14:15:24.000Z",
+    "updated_at": "2023-02-13T14:15:25.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:56:01.993Z"
+}
