@@ -1,0 +1,71 @@
+{
+  "id": 21230020,
+  "username": "Angelproelfo",
+  "description": null,
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-22T23:44:48.000Z",
+  "date_last_played": "2024-01-16T01:26:32.000Z",
+  "profile_views": 4,
+  "kill_count": 14,
+  "play_count": 73,
+  "highest_score": 370462,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 1,
+  "xp": 2850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 11725,
+      "user_id": 21230020,
+      "platform_id": "dc",
+      "platform_user_id": "angelproelfoxy#0334",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-23T00:46:11.000Z",
+      "updated_at": "2022-12-23T00:46:11.000Z"
+    },
+    {
+      "id": 11726,
+      "user_id": 21230020,
+      "platform_id": "yt",
+      "platform_user_id": "El fin nunca llego xd",
+      "platform_user_url": "https://www.youtube.com/@angel488",
+      "verified": false,
+      "created_at": "2022-12-23T00:55:35.000Z",
+      "updated_at": "2022-12-23T00:55:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21230020,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T17:34:49.279Z",
+    "updated_at": "2025-04-27T17:34:49.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T17:34:49.368Z"
+}

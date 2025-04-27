@@ -1,0 +1,61 @@
+{
+  "id": 21229983,
+  "username": "AbstractDesigner",
+  "description": "have a good day bro",
+  "about": "yo wassup boi",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-22T21:10:57.000Z",
+  "date_last_played": "2025-02-10T05:51:55.000Z",
+  "profile_views": 13,
+  "kill_count": 34,
+  "play_count": 99,
+  "highest_score": 1177044,
+  "picture": "21229983-a2b32a9a587c9556c451bd101358ec077.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 123,
+  "tier": 1,
+  "xp": 16950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26994,
+      "user_id": 21229983,
+      "platform_id": "yt",
+      "platform_user_id": "AbstractDesigner",
+      "platform_user_url": "https://www.youtube.com/@Abstract0211",
+      "verified": false,
+      "created_at": "2023-09-24T14:01:38.000Z",
+      "updated_at": "2023-09-24T14:01:38.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21229983,
+    "rank_kc": 198091,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-24T14:02:00.000Z",
+    "rank_pc": 90148,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-24T14:02:03.000Z",
+    "rank_hs": 112211,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-24T14:02:05.000Z",
+    "created_at": "2025-02-10T05:51:54.000Z",
+    "updated_at": "2025-02-10T05:51:55.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T17:34:39.105Z"
+}
