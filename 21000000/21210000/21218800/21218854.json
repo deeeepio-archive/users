@@ -1,0 +1,61 @@
+{
+  "id": 21218854,
+  "username": "AD_HD",
+  "description": "I'm a noob ;)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-30T14:25:48.000Z",
+  "date_last_played": "2023-11-12T01:23:50.000Z",
+  "profile_views": 93,
+  "kill_count": 459,
+  "play_count": 174,
+  "highest_score": 1153729,
+  "picture": "21218854-f4dd344c1fd67ae105aac2f311a1010c2bc.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 121,
+  "tier": 2,
+  "xp": 61650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 25444,
+      "user_id": 21218854,
+      "platform_id": "dc",
+      "platform_user_id": "Kipper#0954",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-27T01:49:51.000Z",
+      "updated_at": "2023-08-27T01:49:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21218854,
+    "rank_kc": 47802,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-20T05:04:35.000Z",
+    "rank_pc": 53238,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-20T07:07:46.000Z",
+    "rank_hs": 76915,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-20T05:04:37.000Z",
+    "created_at": "2023-11-12T01:28:05.000Z",
+    "updated_at": "2023-11-12T01:28:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:24:12.282Z"
+}
