@@ -1,0 +1,97 @@
+{
+  "id": 21266748,
+  "username": "MEX100",
+  "description": "I know y you here, I killed you. Sorry, I am not a bad person and have a great day. \n\n🧇 waffles 🧇",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-06T22:22:32.000Z",
+  "date_last_played": "2025-02-05T04:08:52.000Z",
+  "profile_views": 167,
+  "kill_count": 680,
+  "play_count": 1221,
+  "highest_score": 1689694,
+  "picture": "21266748-8ff83f394b1b80d88345fa8841697e92.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 241,
+  "tier": 4,
+  "xp": 242550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21266748,
+    "rank_kc": 47193,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-19T02:58:01.000Z",
+    "rank_pc": 14526,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-19T02:58:02.000Z",
+    "rank_hs": 49683,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-19T02:58:03.000Z",
+    "created_at": "2025-02-05T04:08:52.000Z",
+    "updated_at": "2025-02-05T04:08:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244397,
+          "user_id": 21266748,
+          "cloneof_id": null,
+          "string_id": "waffles",
+          "title": "swamp",
+          "description": "FFA",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 9,
+          "created_at": "2024-07-01T03:00:12.000Z",
+          "updated_at": "2024-07-01T03:00:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21266748,
+            "username": "MEX100",
+            "description": "I know y you here, I killed you. Sorry, I am not a bad person and have a great day. \n\n🧇 waffles 🧇",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-02-06T22:22:32.000Z",
+            "date_last_played": "2025-02-05T04:08:52.000Z",
+            "kill_count": 680,
+            "play_count": 1221,
+            "highest_score": 1689694,
+            "picture": "21266748-8ff83f394b1b80d88345fa8841697e92.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 241,
+            "tier": 4,
+            "xp": 242550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "good"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:48:14.095Z"
+}
