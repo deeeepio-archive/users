@@ -1,0 +1,71 @@
+{
+  "id": 21221371,
+  "username": "Шалапай",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-10T08:35:27.000Z",
+  "date_last_played": "2024-08-27T08:15:02.000Z",
+  "profile_views": 7,
+  "kill_count": 22,
+  "play_count": 57,
+  "highest_score": 315310,
+  "picture": "21221371-dafc4feba10bcff4261d6236b5857e76b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 27,
+  "tier": 1,
+  "xp": 4050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 11065,
+      "user_id": 21221371,
+      "platform_id": "dc",
+      "platform_user_id": "Sancho Panzrr#5602",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-10T08:57:15.000Z",
+      "updated_at": "2022-12-10T08:57:15.000Z"
+    },
+    {
+      "id": 11064,
+      "user_id": 21221371,
+      "platform_id": "ig",
+      "platform_user_id": "@pidchis",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-10T08:38:21.000Z",
+      "updated_at": "2022-12-10T08:38:21.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21221371,
+    "rank_kc": 392952,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-10T08:50:33.000Z",
+    "rank_pc": 194319,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-10T08:50:38.000Z",
+    "rank_hs": 386081,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-10T08:50:42.000Z",
+    "created_at": "2024-08-27T08:15:02.000Z",
+    "updated_at": "2024-08-27T08:15:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:39:34.374Z"
+}
