@@ -1,0 +1,50 @@
+{
+  "id": 21255317,
+  "username": "Sihp",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-12T18:21:29.000Z",
+  "date_last_played": "2023-01-12T23:27:59.000Z",
+  "profile_views": 3,
+  "kill_count": 0,
+  "play_count": 10,
+  "highest_score": 29785,
+  "picture": "21255317-da5258ca807aa2daab3536fd88b6c8c7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21255317,
+    "rank_kc": 399012,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-01-12T18:41:27.000Z",
+    "rank_pc": 243255,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-12T18:41:34.000Z",
+    "rank_hs": 399724,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-12T18:41:41.000Z",
+    "created_at": "2023-03-06T00:31:42.000Z",
+    "updated_at": "2023-01-12T23:27:59.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:29:08.219Z"
+}

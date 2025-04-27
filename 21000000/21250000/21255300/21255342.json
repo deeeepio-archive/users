@@ -1,0 +1,61 @@
+{
+  "id": 21255342,
+  "username": "FishWithAgun",
+  "description": "Have a good day :)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-12T19:32:44.000Z",
+  "date_last_played": "2024-04-03T17:15:42.000Z",
+  "profile_views": 29,
+  "kill_count": 186,
+  "play_count": 234,
+  "highest_score": 1073879,
+  "picture": "21255342-f4911b5ca8ba5243acf84c6154dc9d3a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 172,
+  "tier": 2,
+  "xp": 25800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15021,
+      "user_id": 21255342,
+      "platform_id": "dc",
+      "platform_user_id": "blueskull99099",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-13T20:23:58.000Z",
+      "updated_at": "2023-02-13T20:23:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21255342,
+    "rank_kc": 82558,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-18T18:17:07.000Z",
+    "rank_pc": 42914,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-18T18:17:28.000Z",
+    "rank_hs": 79112,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-18T18:17:44.000Z",
+    "created_at": "2024-04-03T17:15:41.000Z",
+    "updated_at": "2024-04-03T17:15:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:29:11.332Z"
+}
