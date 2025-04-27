@@ -1,0 +1,65 @@
+{
+  "id": 21280439,
+  "username": "KietVN",
+  "description": "hi\neveryone\n",
+  "about": "siu\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-06T14:59:21.000Z",
+  "date_last_played": "2025-03-30T03:14:11.000Z",
+  "profile_views": 1192,
+  "kill_count": 3608,
+  "play_count": 1563,
+  "highest_score": 4086065,
+  "picture": "21280439-10983fc10b4c7824f58c5b956aee684484.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 101,
+  "tier": 8,
+  "xp": 823050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103679,
+      "user_id": 21280439,
+      "platform_id": "dc",
+      "platform_user_id": "vlxx.sex",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-17T14:58:18.000Z",
+      "updated_at": "2025-04-17T14:58:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21280439,
+    "rank_kc": 10967,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-16T22:13:13.000Z",
+    "rank_pc": 10513,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-16T22:13:16.000Z",
+    "rank_hs": 12414,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-16T22:13:18.000Z",
+    "created_at": "2025-03-30T03:14:11.000Z",
+    "updated_at": "2025-03-30T03:14:11.000Z",
+    "pd": {
+      "played": 7,
+      "won": 2,
+      "ratio": 29
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:14:15.857Z"
+}
