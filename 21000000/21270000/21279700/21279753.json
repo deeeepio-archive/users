@@ -1,0 +1,61 @@
+{
+  "id": 21279753,
+  "username": "Garys9",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-03T15:54:02.000Z",
+  "date_last_played": "2025-02-26T15:23:35.000Z",
+  "profile_views": 88,
+  "kill_count": 1559,
+  "play_count": 855,
+  "highest_score": 2937057,
+  "picture": "21279753-bad6b27bb7c159e2ce1e65b82dedc910b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 376,
+  "tier": 5,
+  "xp": 301800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 96770,
+      "user_id": 21279753,
+      "platform_id": "dc",
+      "platform_user_id": "garysyt",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-24T18:58:46.000Z",
+      "updated_at": "2024-07-24T18:58:46.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21279753,
+    "rank_kc": 24717,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-25T15:32:20.000Z",
+    "rank_pc": 20738,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-25T15:32:22.000Z",
+    "rank_hs": 22281,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-25T15:32:26.000Z",
+    "created_at": "2025-02-26T15:23:34.000Z",
+    "updated_at": "2025-02-26T15:23:35.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:10:42.959Z"
+}
