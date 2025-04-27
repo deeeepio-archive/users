@@ -1,0 +1,71 @@
+{
+  "id": 21281900,
+  "username": "xKli0x",
+  "description": null,
+  "about": "Rawr!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-12T20:16:05.000Z",
+  "date_last_played": "2024-11-19T14:35:11.000Z",
+  "profile_views": 3,
+  "kill_count": 1,
+  "play_count": 11,
+  "highest_score": 841414,
+  "picture": "21281900-8fee7ed0026866a12f1024cc16c5e7cc3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 23,
+  "tier": 1,
+  "xp": 1950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17400,
+      "user_id": 21281900,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.gg/parafia",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-12T20:17:08.000Z",
+      "updated_at": "2023-04-12T20:17:08.000Z"
+    },
+    {
+      "id": 17401,
+      "user_id": 21281900,
+      "platform_id": "dc",
+      "platform_user_id": "https://parafia.nadiscord.pl",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-12T20:17:32.000Z",
+      "updated_at": "2023-04-12T20:17:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21281900,
+    "rank_kc": 412880,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-12T20:16:42.000Z",
+    "rank_pc": 321465,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-12T20:16:46.000Z",
+    "rank_hs": 552666,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-12T20:16:50.000Z",
+    "created_at": "2024-11-19T14:35:10.000Z",
+    "updated_at": "2024-11-19T14:35:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:22:49.712Z"
+}
