@@ -1,0 +1,101 @@
+{
+  "id": 21254029,
+  "username": "鯊仙",
+  "description": "87",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-07T09:21:35.000Z",
+  "date_last_played": "2025-04-11T06:06:05.000Z",
+  "profile_views": 434,
+  "kill_count": 6073,
+  "play_count": 2800,
+  "highest_score": 3579402,
+  "picture": "21254029-d577de0be0fed10654186e10d9ec10d8102.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 353,
+  "tier": 10,
+  "xp": 1289850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21254029,
+    "rank_kc": 5074,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-19T17:04:57.000Z",
+    "rank_pc": 3933,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-19T17:04:59.000Z",
+    "rank_hs": 15678,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-19T17:05:01.000Z",
+    "created_at": "2025-04-11T06:06:05.000Z",
+    "updated_at": "2025-04-11T06:06:05.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11612,
+          "user_id": 21254029,
+          "cloneof_id": null,
+          "string_id": "fvtre",
+          "title": "Untitled",
+          "description": "revfg",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 71,
+          "created_at": "2023-01-17T10:55:07.000Z",
+          "updated_at": "2023-01-17T10:55:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21254029,
+            "username": "鯊仙",
+            "description": "87",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-01-07T09:21:35.000Z",
+            "date_last_played": "2025-04-11T06:06:05.000Z",
+            "kill_count": 6073,
+            "play_count": 2800,
+            "highest_score": 3579402,
+            "picture": "21254029-d577de0be0fed10654186e10d9ec10d8102.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 353,
+            "tier": 10,
+            "xp": 1289850,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "verfw"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:21:27.492Z"
+}
