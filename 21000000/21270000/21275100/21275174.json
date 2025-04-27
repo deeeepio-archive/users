@@ -1,0 +1,81 @@
+{
+  "id": 21275174,
+  "username": "SonoKotaro",
+  "description": "sorry, im genuinely bad at this, please dont be mad...",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-15T01:48:32.000Z",
+  "date_last_played": "2024-05-28T02:46:50.000Z",
+  "profile_views": 8,
+  "kill_count": 14,
+  "play_count": 28,
+  "highest_score": 789330,
+  "picture": "21275174-c1734a6f71b226c3759f810e7c945b36d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 37,
+  "tier": 1,
+  "xp": 4050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16391,
+      "user_id": 21275174,
+      "platform_id": "rd",
+      "platform_user_id": "sonokotaro",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-19T08:03:52.000Z",
+      "updated_at": "2023-03-19T08:03:52.000Z"
+    },
+    {
+      "id": 16392,
+      "user_id": 21275174,
+      "platform_id": "tc",
+      "platform_user_id": "sonokotaro",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-19T08:04:07.000Z",
+      "updated_at": "2023-03-19T08:04:07.000Z"
+    },
+    {
+      "id": 16241,
+      "user_id": 21275174,
+      "platform_id": "tw",
+      "platform_user_id": "sonokotaro",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-15T06:25:06.000Z",
+      "updated_at": "2023-03-15T06:25:06.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21275174,
+    "rank_kc": 364362,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-19T08:11:38.000Z",
+    "rank_pc": 169293,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-19T08:11:42.000Z",
+    "rank_hs": 257736,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-19T08:11:46.000Z",
+    "created_at": "2024-05-28T02:46:50.000Z",
+    "updated_at": "2024-05-28T02:46:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:42:17.238Z"
+}
