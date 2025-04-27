@@ -1,0 +1,108 @@
+{
+  "id": 21286472,
+  "username": "desk_engiTF2",
+  "description": "Josef stalin-The death of one man is a tragedy. The death of a million is a statistic. \n\n\n",
+  "about": "buy the HD Pro Webcam C920 NOW",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-28T13:07:08.000Z",
+  "date_last_played": "2023-06-13T13:57:18.000Z",
+  "profile_views": 36,
+  "kill_count": 17,
+  "play_count": 70,
+  "highest_score": 538872,
+  "picture": "21286472-73e8693db216e9e69ee10eb4ea395de3c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 3300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18165,
+      "user_id": 21286472,
+      "platform_id": "tw",
+      "platform_user_id": "@dinoiguess",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-28T15:38:56.000Z",
+      "updated_at": "2023-04-28T15:38:56.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21286472,
+    "rank_kc": 213006,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-01T18:09:20.000Z",
+    "rank_pc": 83669,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-01T18:09:21.000Z",
+    "rank_hs": 137342,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-01T18:09:23.000Z",
+    "created_at": "2023-06-13T13:57:18.000Z",
+    "updated_at": "2023-06-13T13:57:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12393,
+          "user_id": 21286472,
+          "cloneof_id": null,
+          "string_id": "map_mp4",
+          "title": "not good maap ",
+          "description": "its not good",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 55,
+          "created_at": "2023-06-08T13:17:29.000Z",
+          "updated_at": "2023-06-08T13:21:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21286472,
+            "username": "desk_engiTF2",
+            "description": "Josef stalin-The death of one man is a tragedy. The death of a million is a statistic. \n\n\n",
+            "about": "buy the HD Pro Webcam C920 NOW",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-04-28T13:07:08.000Z",
+            "date_last_played": "2023-06-13T13:57:18.000Z",
+            "kill_count": 17,
+            "play_count": 70,
+            "highest_score": 538872,
+            "picture": "21286472-73e8693db216e9e69ee10eb4ea395de3c.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 1,
+            "xp": 3300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "not good"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:53:09.431Z"
+}
