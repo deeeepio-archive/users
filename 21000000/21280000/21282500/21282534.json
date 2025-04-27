@@ -1,0 +1,50 @@
+{
+  "id": 21282534,
+  "username": "siyu",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-15T03:03:03.000Z",
+  "date_last_played": "2024-01-12T03:45:36.000Z",
+  "profile_views": 15,
+  "kill_count": 12,
+  "play_count": 77,
+  "highest_score": 86666,
+  "picture": "21282534-4d3db06d6eb327db282bb15df9752b5a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4,
+  "tier": 1,
+  "xp": 600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21282534,
+    "rank_kc": 239672,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-08-24T03:20:15.000Z",
+    "rank_pc": 92130,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-24T03:20:16.000Z",
+    "rank_hs": 334181,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-24T03:20:17.000Z",
+    "created_at": "2024-01-12T03:45:35.000Z",
+    "updated_at": "2024-01-12T03:45:36.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:26:47.773Z"
+}
