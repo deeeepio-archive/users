@@ -1,0 +1,100 @@
+{
+  "id": 21282994,
+  "username": "Wev",
+  "description": "May your death spare others from the same fate.",
+  "about": "i used to be a king at this game...my title shall be reclaimed.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-16T16:53:50.000Z",
+  "date_last_played": "2023-06-17T18:21:35.000Z",
+  "profile_views": 26,
+  "kill_count": 63,
+  "play_count": 137,
+  "highest_score": 768966,
+  "picture": "21282994-2e10d275b01d1b7d7bbf9996751596fbb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 75,
+  "tier": 1,
+  "xp": 18750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21282994,
+    "rank_kc": 125817,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-17T18:09:50.000Z",
+    "rank_pc": 57446,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-17T18:09:51.000Z",
+    "rank_hs": 107319,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-17T18:09:52.000Z",
+    "created_at": "2023-11-23T05:13:57.000Z",
+    "updated_at": "2023-06-17T18:21:35.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12374,
+          "user_id": 21282994,
+          "cloneof_id": null,
+          "string_id": "le_winter",
+          "title": "Winter Alien Planet (v1)",
+          "description": "A cold, desolate planet that is habitable",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 33,
+          "created_at": "2023-06-03T01:29:29.000Z",
+          "updated_at": "2023-06-03T04:27:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21282994,
+            "username": "Wev",
+            "description": "May your death spare others from the same fate.",
+            "about": "i used to be a king at this game...my title shall be reclaimed.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-04-16T16:53:50.000Z",
+            "date_last_played": "2023-06-17T18:21:35.000Z",
+            "kill_count": 63,
+            "play_count": 137,
+            "highest_score": 768966,
+            "picture": "21282994-2e10d275b01d1b7d7bbf9996751596fbb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 75,
+            "tier": 1,
+            "xp": 18750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " cold"
+            },
+            {
+              "id": "ffa"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:30:37.375Z"
+}
