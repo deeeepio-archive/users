@@ -1,0 +1,50 @@
+{
+  "id": 21205737,
+  "username": "舒服",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-27T01:51:35.000Z",
+  "date_last_played": "2023-09-07T09:20:21.000Z",
+  "profile_views": 9,
+  "kill_count": 4,
+  "play_count": 74,
+  "highest_score": 192911,
+  "picture": "21205737-db968ab45e7b89e4910d4a42010d20039b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 5,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21205737,
+    "rank_kc": 365012,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-24T04:01:47.000Z",
+    "rank_pc": 91673,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-24T04:01:48.000Z",
+    "rank_hs": 301951,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-24T04:01:49.000Z",
+    "created_at": "2023-09-07T09:20:20.000Z",
+    "updated_at": "2023-09-07T09:20:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T15:02:15.488Z"
+}
