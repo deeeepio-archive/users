@@ -1,0 +1,71 @@
+{
+  "id": 21220580,
+  "username": "field0",
+  "description": "i will find you\n",
+  "about": "hi the name is field0 but my real name is Mikey i like playing call of duty and roblox cause that's the only game my parents got me and i play deep.io all the time cause its a cool game ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-07T15:18:27.000Z",
+  "date_last_played": "2023-10-18T21:14:54.000Z",
+  "profile_views": 23,
+  "kill_count": 41,
+  "play_count": 135,
+  "highest_score": 1628005,
+  "picture": "21220580-881c1072437fbf652d4fb745cb10e9662c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 23,
+  "tier": 1,
+  "xp": 7950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17209,
+      "user_id": 21220580,
+      "platform_id": "dc",
+      "platform_user_id": "LIGHT#4514",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-07T17:14:15.000Z",
+      "updated_at": "2023-04-07T17:14:15.000Z"
+    },
+    {
+      "id": 17208,
+      "user_id": 21220580,
+      "platform_id": "tw",
+      "platform_user_id": "@darkways__",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-07T17:13:54.000Z",
+      "updated_at": "2023-04-07T17:13:54.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21220580,
+    "rank_kc": 159454,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-07T23:03:45.000Z",
+    "rank_pc": 60807,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-07T23:03:56.000Z",
+    "rank_hs": 47966,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-07T17:26:46.000Z",
+    "created_at": "2023-10-18T21:14:53.000Z",
+    "updated_at": "2023-10-18T21:14:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:34:43.218Z"
+}
