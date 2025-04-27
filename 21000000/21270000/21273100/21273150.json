@@ -1,0 +1,61 @@
+{
+  "id": 21273150,
+  "username": "кошак",
+  "description": "мяу\n",
+  "about": "мяу мяу мяу мяу ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-06T19:13:04.000Z",
+  "date_last_played": "2024-12-04T11:29:16.000Z",
+  "profile_views": 107,
+  "kill_count": 217,
+  "play_count": 180,
+  "highest_score": 1122212,
+  "picture": "21273150-b1c710f710058df88b9ab17b1d63c4ff5c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 2,
+  "xp": 33000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17470,
+      "user_id": 21273150,
+      "platform_id": "dc",
+      "platform_user_id": "мяу мяу",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-14T06:06:05.000Z",
+      "updated_at": "2023-04-14T06:06:05.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21273150,
+    "rank_kc": 69248,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-28T08:17:47.000Z",
+    "rank_pc": 51986,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-28T08:17:47.000Z",
+    "rank_hs": 74767,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-28T08:17:48.000Z",
+    "created_at": "2024-12-04T11:29:15.000Z",
+    "updated_at": "2024-12-04T11:29:16.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:29:07.764Z"
+}
