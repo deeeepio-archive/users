@@ -1,0 +1,50 @@
+{
+  "id": 21223536,
+  "username": "Beautiful",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-18T08:35:03.000Z",
+  "date_last_played": "2023-01-14T10:06:28.000Z",
+  "profile_views": 25,
+  "kill_count": 21,
+  "play_count": 24,
+  "highest_score": 91075,
+  "picture": "21223536-06c8f4bb45c7d5e3fb0754351b76b5eb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 42,
+  "tier": 1,
+  "xp": 4800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21223536,
+    "rank_kc": 183512,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-01-14T09:53:06.000Z",
+    "rank_pc": 127078,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-14T10:06:29.000Z",
+    "rank_hs": 295581,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-01-14T09:53:25.000Z",
+    "created_at": "2023-10-31T14:05:14.000Z",
+    "updated_at": "2023-01-14T10:06:29.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:53:06.876Z"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 21223461,
+  "username": "clove",
+  "description": "I go by numbat wombat or raindog\n\nturns out you could make accounts?",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-18T01:44:43.000Z",
+  "date_last_played": "2025-02-16T05:22:59.000Z",
+  "profile_views": 886,
+  "kill_count": 4951,
+  "play_count": 2407,
+  "highest_score": 2618267,
+  "picture": "21223461-94e10912c58275ca62df9f14ee26107421-d08127a8-61e2-4525-ab7f-dd1637e0643f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 136,
+  "tier": 10,
+  "xp": 1243200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21223461,
+    "rank_kc": 13193,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-22T02:33:09.000Z",
+    "rank_pc": 15371,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-22T02:33:10.000Z",
+    "rank_hs": 25230,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-22T02:33:11.000Z",
+    "created_at": "2025-02-16T05:22:59.000Z",
+    "updated_at": "2025-02-16T05:22:59.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11646,
+          "user_id": 21223461,
+          "cloneof_id": null,
+          "string_id": "82493",
+          "title": "big water",
+          "description": "lots of yummies",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-01-27T03:47:08.000Z",
+          "updated_at": "2023-01-27T03:47:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21223461,
+            "username": "clove",
+            "description": "I go by numbat wombat or raindog\n\nturns out you could make accounts?",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-12-18T01:44:43.000Z",
+            "date_last_played": "2025-02-16T05:22:59.000Z",
+            "kill_count": 4951,
+            "play_count": 2407,
+            "highest_score": 2618267,
+            "picture": "21223461-94e10912c58275ca62df9f14ee26107421-d08127a8-61e2-4525-ab7f-dd1637e0643f.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 136,
+            "tier": 10,
+            "xp": 1243200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "82493"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:52:46.131Z"
+}
