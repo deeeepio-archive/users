@@ -1,0 +1,97 @@
+{
+  "id": 21254547,
+  "username": "zomb_god",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-09T18:21:55.000Z",
+  "date_last_played": "2023-05-31T17:24:11.000Z",
+  "profile_views": 27,
+  "kill_count": 53,
+  "play_count": 70,
+  "highest_score": 425375,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 81,
+  "tier": 1,
+  "xp": 10650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21254547,
+    "rank_kc": 134508,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-06-01T13:05:39.000Z",
+    "rank_pc": 82387,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-01T13:05:40.000Z",
+    "rank_hs": 159311,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-01T13:05:41.000Z",
+    "created_at": "2023-09-13T17:01:45.000Z",
+    "updated_at": "2023-06-01T13:05:41.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12308,
+          "user_id": 21254547,
+          "cloneof_id": null,
+          "string_id": "h2011",
+          "title": "austin land",
+          "description": "hayden",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 34,
+          "created_at": "2023-05-25T15:12:50.000Z",
+          "updated_at": "2023-05-25T15:12:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21254547,
+            "username": "zomb_god",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-01-09T18:21:55.000Z",
+            "date_last_played": "2023-05-31T17:24:11.000Z",
+            "kill_count": 53,
+            "play_count": 70,
+            "highest_score": 425375,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 81,
+            "tier": 1,
+            "xp": 10650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hayden"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:24:30.928Z"
+}
