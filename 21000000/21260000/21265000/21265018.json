@@ -1,0 +1,71 @@
+{
+  "id": 21265018,
+  "username": "Ferchoelpercha",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-30T18:59:58.000Z",
+  "date_last_played": "2023-02-10T15:04:53.000Z",
+  "profile_views": 6,
+  "kill_count": 27,
+  "play_count": 79,
+  "highest_score": 205453,
+  "picture": "21265018-42c5107edf97d5c461647702bafcc6393.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14216,
+      "user_id": 21265018,
+      "platform_id": "ig",
+      "platform_user_id": "Bxrrios_123457",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-30T19:05:26.000Z",
+      "updated_at": "2023-01-30T19:05:26.000Z"
+    },
+    {
+      "id": 14217,
+      "user_id": 21265018,
+      "platform_id": "tw",
+      "platform_user_id": "Fernanandthilp",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-30T19:05:49.000Z",
+      "updated_at": "2023-01-30T19:05:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21265018,
+    "rank_kc": 279701,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-31T20:54:27.000Z",
+    "rank_pc": 163862,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-31T20:54:28.000Z",
+    "rank_hs": 217775,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-01-31T20:54:29.000Z",
+    "created_at": "2023-02-10T15:08:19.000Z",
+    "updated_at": "2023-02-10T15:08:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:36:50.504Z"
+}
