@@ -1,0 +1,61 @@
+{
+  "id": 21255834,
+  "username": "vicho_san",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-14T22:24:02.000Z",
+  "date_last_played": "2023-02-14T21:15:47.000Z",
+  "profile_views": 2,
+  "kill_count": 24,
+  "play_count": 16,
+  "highest_score": 410456,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 29,
+  "tier": 1,
+  "xp": 2850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15055,
+      "user_id": 21255834,
+      "platform_id": "ig",
+      "platform_user_id": "quiero_un_pan_con_ketchup",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-14T20:44:35.000Z",
+      "updated_at": "2023-02-14T20:44:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21255834,
+    "rank_kc": 195987,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-14T20:43:37.000Z",
+    "rank_pc": 205263,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-14T20:43:42.000Z",
+    "rank_hs": 154090,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-14T20:43:49.000Z",
+    "created_at": "2023-10-08T00:27:16.000Z",
+    "updated_at": "2023-02-15T00:00:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:36:45.583Z"
+}
