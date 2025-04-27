@@ -1,0 +1,97 @@
+{
+  "id": 21252667,
+  "username": "Walter_Heartwell_White",
+  "description": "You clearly don't know who you're talking to, so let me clue you in.",
+  "about": "My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-01T11:35:09.000Z",
+  "date_last_played": "2024-09-01T11:42:09.000Z",
+  "profile_views": 25,
+  "kill_count": 125,
+  "play_count": 255,
+  "highest_score": 4031524,
+  "picture": "21252667-b9ba108ba9684a2ff5025fac8a7a35ae10.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 250,
+  "tier": 2,
+  "xp": 38400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21252667,
+    "rank_kc": 91281,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-04T10:07:29.000Z",
+    "rank_pc": 43161,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-04T10:07:31.000Z",
+    "rank_hs": 10656,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-04T10:07:32.000Z",
+    "created_at": "2024-09-01T11:42:08.000Z",
+    "updated_at": "2024-09-01T11:42:09.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11688,
+          "user_id": 21252667,
+          "cloneof_id": null,
+          "string_id": "gm_map_map",
+          "title": "my map",
+          "description": "idk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 90,
+          "created_at": "2023-02-05T10:29:04.000Z",
+          "updated_at": "2023-02-05T10:29:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21252667,
+            "username": "Walter_Heartwell_White",
+            "description": "You clearly don't know who you're talking to, so let me clue you in.",
+            "about": "My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-01-01T11:35:09.000Z",
+            "date_last_played": "2024-09-01T11:42:09.000Z",
+            "kill_count": 125,
+            "play_count": 255,
+            "highest_score": 4031524,
+            "picture": "21252667-b9ba108ba9684a2ff5025fac8a7a35ae10.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 250,
+            "tier": 2,
+            "xp": 38400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "rfvuibrgbrebgrb"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:12:45.861Z"
+}
