@@ -1,0 +1,61 @@
+{
+  "id": 21287454,
+  "username": "Qika08",
+  "description": "meli",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-01T16:55:58.000Z",
+  "date_last_played": "2023-05-03T13:48:15.000Z",
+  "profile_views": 15,
+  "kill_count": 6,
+  "play_count": 8,
+  "highest_score": 452199,
+  "picture": "21287454-dacf817dbd3326d5bab8ffc2dbf9d4b3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 1,
+  "xp": 1350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18526,
+      "user_id": 21287454,
+      "platform_id": "ig",
+      "platform_user_id": "melimtx",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-03T13:49:37.000Z",
+      "updated_at": "2023-05-03T13:49:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21287454,
+    "rank_kc": 277675,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-05-01T19:26:42.000Z",
+    "rank_pc": 217085,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-01T19:26:42.000Z",
+    "rank_hs": 150912,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-01T19:26:43.000Z",
+    "created_at": "2023-06-19T12:54:31.000Z",
+    "updated_at": "2023-05-03T13:48:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:59:18.290Z"
+}
