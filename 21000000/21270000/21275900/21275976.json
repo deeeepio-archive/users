@@ -1,0 +1,61 @@
+{
+  "id": 21275976,
+  "username": "xKiJka",
+  "description": "why you do this",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-18T21:23:41.000Z",
+  "date_last_played": "2023-07-25T12:43:09.000Z",
+  "profile_views": 4,
+  "kill_count": 7,
+  "play_count": 18,
+  "highest_score": 250936,
+  "picture": "21275976-1b9a61bd47726e13310e9dcba30978973.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 16,
+  "tier": 1,
+  "xp": 900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16377,
+      "user_id": 21275976,
+      "platform_id": "dc",
+      "platform_user_id": "xKiJka#7813",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-18T21:25:29.000Z",
+      "updated_at": "2023-03-18T21:25:29.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21275976,
+    "rank_kc": 409115,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-18T21:24:32.000Z",
+    "rank_pc": 316244,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-18T21:24:34.000Z",
+    "rank_hs": 547568,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-18T21:24:34.000Z",
+    "created_at": "2023-07-25T12:43:09.000Z",
+    "updated_at": "2023-07-25T12:43:09.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:47:12.980Z"
+}
