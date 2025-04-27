@@ -1,0 +1,61 @@
+{
+  "id": 21279405,
+  "username": "prinnce",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-02T04:34:18.000Z",
+  "date_last_played": "2023-04-02T04:53:57.000Z",
+  "profile_views": 1,
+  "kill_count": 1,
+  "play_count": 2,
+  "highest_score": 216172,
+  "picture": "21279405-1da1c68114bf31ce21010f4f3e108c23ae8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16950,
+      "user_id": 21279405,
+      "platform_id": "dc",
+      "platform_user_id": "prinnce#2810",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-02T04:36:13.000Z",
+      "updated_at": "2023-04-02T04:36:13.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21279405,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T23:08:41.099Z",
+    "updated_at": "2025-04-27T23:08:41.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:08:41.164Z"
+}
