@@ -1,0 +1,50 @@
+{
+  "id": 21283205,
+  "username": "hi234",
+  "description": "gg",
+  "about": "fish are cool",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-17T12:59:47.000Z",
+  "date_last_played": "2023-10-26T12:19:41.000Z",
+  "profile_views": 32,
+  "kill_count": 0,
+  "play_count": 26,
+  "highest_score": 45575,
+  "picture": "21283205-87666788924bafcbb16946971ebb3b86.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 1,
+  "xp": 2700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21283205,
+    "rank_kc": 418982,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-05-12T17:10:30.000Z",
+    "rank_pc": 151680,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-12T17:10:31.000Z",
+    "rank_hs": 388379,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-12T17:10:34.000Z",
+    "created_at": "2023-10-26T12:19:40.000Z",
+    "updated_at": "2023-10-26T12:19:41.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:31:49.895Z"
+}
