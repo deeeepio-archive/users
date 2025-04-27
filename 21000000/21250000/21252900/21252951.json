@@ -1,0 +1,61 @@
+{
+  "id": 21252951,
+  "username": "skulduggery",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-02T17:11:03.000Z",
+  "date_last_played": "2023-01-26T20:54:21.000Z",
+  "profile_views": 6,
+  "kill_count": 194,
+  "play_count": 59,
+  "highest_score": 1916362,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 278,
+  "tier": 2,
+  "xp": 40200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12446,
+      "user_id": 21252951,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.gg/z9aZY9pskS",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-02T17:16:09.000Z",
+      "updated_at": "2023-01-02T17:16:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21252951,
+    "rank_kc": 132597,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-10T22:31:24.000Z",
+    "rank_pc": 156440,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-10T22:31:35.000Z",
+    "rank_hs": 36927,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-10T22:31:42.000Z",
+    "created_at": "2023-09-06T11:52:16.000Z",
+    "updated_at": "2023-01-26T20:54:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:14:28.244Z"
+}
