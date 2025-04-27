@@ -1,0 +1,61 @@
+{
+  "id": 21269707,
+  "username": "DreamyWe",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-20T08:02:20.000Z",
+  "date_last_played": "2023-02-22T03:09:38.000Z",
+  "profile_views": 17,
+  "kill_count": 18,
+  "play_count": 25,
+  "highest_score": 178775,
+  "picture": "21269707-cb317c7165d97e97bf8f2a910fc399fdb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 32,
+  "tier": 1,
+  "xp": 3300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15357,
+      "user_id": 21269707,
+      "platform_id": "dc",
+      "platform_user_id": "MongkuyRai",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-21T01:26:49.000Z",
+      "updated_at": "2023-02-21T01:26:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21269707,
+    "rank_kc": 295183,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-21T03:11:52.000Z",
+    "rank_pc": 171353,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-21T03:11:53.000Z",
+    "rank_hs": 233575,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-02-21T01:25:06.000Z",
+    "created_at": "2023-02-22T06:00:02.000Z",
+    "updated_at": "2023-02-22T06:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:08:13.643Z"
+}
