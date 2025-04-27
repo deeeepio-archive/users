@@ -1,0 +1,145 @@
+{
+  "id": 21241573,
+  "username": "cornfederate",
+  "description": "mafioso should crush my head between his thighs",
+  "about": "no1 sawfish glazer i lovesawfish\nmisinformation 😍\n\ni barely play this game or use the forum anymore",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-28T03:22:39.000Z",
+  "date_last_played": "2025-04-13T04:37:11.000Z",
+  "profile_views": 12734,
+  "kill_count": 7171,
+  "play_count": 1049,
+  "highest_score": 5565206,
+  "picture": "21241573-423be82818b441c2142c65531fe682de-573afd2f-a31b-43e3-bff1-376e0a3e7fa0.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1351,
+  "tier": 8,
+  "xp": 734100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101449,
+      "user_id": 21241573,
+      "platform_id": "dc",
+      "platform_user_id": "i listen to weezer, dazey and the scouts, ayesha erotica, and femtanyl,,,, theyre so sigma.....",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-26T11:33:55.000Z",
+      "updated_at": "2024-12-28T23:34:07.000Z"
+    },
+    {
+      "id": 103595,
+      "user_id": 21241573,
+      "platform_id": "dc",
+      "platform_user_id": "maybe the real deeeep.io was the friends we made along the way",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-13T03:58:51.000Z",
+      "updated_at": "2025-04-13T03:58:51.000Z"
+    },
+    {
+      "id": 102521,
+      "user_id": 21241573,
+      "platform_id": "dc",
+      "platform_user_id": "unnamed marlin <3",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-02-09T10:49:10.000Z",
+      "updated_at": "2025-02-09T10:49:10.000Z"
+    },
+    {
+      "id": 103768,
+      "user_id": 21241573,
+      "platform_id": "yt",
+      "platform_user_id": "peak fyp",
+      "platform_user_url": "https://youtu.be/BwBJb26OcEc?si=ljzbG6MncV0V_M9g",
+      "verified": false,
+      "created_at": "2025-04-19T10:32:20.000Z",
+      "updated_at": "2025-04-19T23:29:14.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21241573,
+    "rank_kc": 6147,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T08:13:20.000Z",
+    "rank_pc": 17203,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T08:13:21.000Z",
+    "rank_hs": 6865,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T08:13:23.000Z",
+    "created_at": "2025-04-13T04:37:11.000Z",
+    "updated_at": "2025-04-13T04:37:11.000Z",
+    "pd": {
+      "played": 4,
+      "won": 2,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11623,
+          "user_id": 21241573,
+          "cloneof_id": null,
+          "string_id": "soviets_map7",
+          "title": "soviet_map",
+          "description": "ignore this",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 0,
+          "created_at": "2023-01-20T01:04:49.000Z",
+          "updated_at": "2023-01-20T01:04:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21241573,
+            "username": "cornfederate",
+            "description": "mafioso should crush my head between his thighs",
+            "about": "no1 sawfish glazer i lovesawfish\nmisinformation 😍\n\ni barely play this game or use the forum anymore",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-12-28T03:22:39.000Z",
+            "date_last_played": "2025-04-13T04:37:11.000Z",
+            "kill_count": 7171,
+            "play_count": 1049,
+            "highest_score": 5565206,
+            "picture": "21241573-423be82818b441c2142c65531fe682de-573afd2f-a31b-43e3-bff1-376e0a3e7fa0.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1351,
+            "tier": 8,
+            "xp": 734100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ignore"
+            },
+            {
+              "id": "soviet"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T18:57:13.073Z"
+}
