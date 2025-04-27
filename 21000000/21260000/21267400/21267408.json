@@ -1,0 +1,118 @@
+{
+  "id": 21267408,
+  "username": "Shawfish",
+  "description": "looks like someone went off the deeeep end! ;)",
+  "about": "tbh I don't care about coins\n\nI always give the pearl to someone else\n\nI put the die in idiot (lol)\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-10T04:12:42.000Z",
+  "date_last_played": "2025-04-26T19:58:48.000Z",
+  "profile_views": 1744,
+  "kill_count": 3240,
+  "play_count": 1837,
+  "highest_score": 2589158,
+  "picture": "21267408-59fa7510ced91fbc101b7dbc64af65b978-99880065-a3ef-4f08-a367-001671f7aa80.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 174,
+  "tier": 8,
+  "xp": 787050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94903,
+      "user_id": 21267408,
+      "platform_id": "dc",
+      "platform_user_id": "fastrthanu_07722",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-05-25T03:17:25.000Z",
+      "updated_at": "2024-05-25T03:22:04.000Z"
+    },
+    {
+      "id": 101470,
+      "user_id": 21267408,
+      "platform_id": "yt",
+      "platform_user_id": "KAYAVA",
+      "platform_user_url": "https://www.youtube.com/watch?v=jbX7R0kiPPE",
+      "verified": false,
+      "created_at": "2024-12-27T20:23:05.000Z",
+      "updated_at": "2024-12-27T20:23:05.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21267408,
+    "rank_kc": 33350,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-19T01:07:26.000Z",
+    "rank_pc": 28449,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-19T01:07:27.000Z",
+    "rank_hs": 88857,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-19T01:07:28.000Z",
+    "created_at": "2025-04-26T19:58:47.000Z",
+    "updated_at": "2025-04-26T19:58:48.000Z",
+    "pd": {
+      "played": 66,
+      "won": 42,
+      "ratio": 64
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245059,
+          "user_id": 21267408,
+          "cloneof_id": null,
+          "string_id": "the_fall_of_atlantis",
+          "title": "The Fall of Atlantis",
+          "description": "rip the great reef",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 4,
+          "created_at": "2025-01-06T19:40:44.000Z",
+          "updated_at": "2025-01-06T19:40:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21267408,
+            "username": "Shawfish",
+            "description": "looks like someone went off the deeeep end! ;)",
+            "about": "tbh I don't care about coins\n\nI always give the pearl to someone else\n\nI put the die in idiot (lol)\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-02-10T04:12:42.000Z",
+            "date_last_played": "2025-04-26T19:58:48.000Z",
+            "kill_count": 3240,
+            "play_count": 1837,
+            "highest_score": 2589158,
+            "picture": "21267408-59fa7510ced91fbc101b7dbc64af65b978-99880065-a3ef-4f08-a367-001671f7aa80.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 174,
+            "tier": 8,
+            "xp": 787050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:52:26.607Z"
+}

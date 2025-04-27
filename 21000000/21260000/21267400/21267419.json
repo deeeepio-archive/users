@@ -1,0 +1,71 @@
+{
+  "id": 21267419,
+  "username": "京_",
+  "description": "水啦幹",
+  "about": "新手謝謝",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-10T07:01:20.000Z",
+  "date_last_played": "2023-02-10T07:21:01.000Z",
+  "profile_views": 12,
+  "kill_count": 0,
+  "play_count": 4,
+  "highest_score": 52000,
+  "picture": "21267419-a4b81bca3ebe810a75c9bc310b2eb56adb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14803,
+      "user_id": 21267419,
+      "platform_id": "dc",
+      "platform_user_id": "-京#0542",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-10T07:33:35.000Z",
+      "updated_at": "2023-02-10T07:34:01.000Z"
+    },
+    {
+      "id": 14804,
+      "user_id": 21267419,
+      "platform_id": "ig",
+      "platform_user_id": "goya_1211",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-10T07:34:53.000Z",
+      "updated_at": "2023-02-10T07:35:03.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21267419,
+    "rank_kc": 403636,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-02-10T07:33:00.000Z",
+    "rank_pc": 235568,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-10T07:33:01.000Z",
+    "rank_hs": 356645,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-10T07:33:02.000Z",
+    "created_at": "2023-11-11T00:12:34.000Z",
+    "updated_at": "2023-02-10T07:33:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:52:27.999Z"
+}
