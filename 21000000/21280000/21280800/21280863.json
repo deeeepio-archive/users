@@ -1,0 +1,50 @@
+{
+  "id": 21280863,
+  "username": "cat_vs",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-08T08:00:11.000Z",
+  "date_last_played": "2023-04-08T08:22:19.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 3,
+  "highest_score": 193820,
+  "picture": "21280863-f720a50b9f10b6107adb1c02483fa4d913.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21280863,
+    "rank_kc": 412185,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-04-08T08:23:06.000Z",
+    "rank_pc": 258329,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-04-08T08:23:13.000Z",
+    "rank_hs": 230394,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-04-08T08:23:20.000Z",
+    "created_at": "2023-04-08T08:22:57.000Z",
+    "updated_at": "2023-04-08T08:23:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:16:45.120Z"
+}
