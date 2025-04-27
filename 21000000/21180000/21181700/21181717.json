@@ -1,0 +1,97 @@
+{
+  "id": 21181717,
+  "username": "Zenthusfuck",
+  "description": "L BOZO trash u got kill L ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-21T11:33:19.000Z",
+  "date_last_played": "2023-06-06T11:07:58.000Z",
+  "profile_views": 60,
+  "kill_count": 118,
+  "play_count": 113,
+  "highest_score": 498207,
+  "picture": "21181717-d86597641c0d4f4ce1010a5c22c37a1428.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 11700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21181717,
+    "rank_kc": 118926,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-11-26T11:37:36.000Z",
+    "rank_pc": 89727,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-11-26T11:37:47.000Z",
+    "rank_hs": 131297,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-11-26T11:21:41.000Z",
+    "created_at": "2023-10-15T20:22:50.000Z",
+    "updated_at": "2023-06-06T11:07:58.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11336,
+          "user_id": 21181717,
+          "cloneof_id": null,
+          "string_id": "zen_my_zenworld_v8",
+          "title": "Untitled",
+          "description": "Good",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2022-11-24T08:02:02.000Z",
+          "updated_at": "2022-11-24T08:08:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21181717,
+            "username": "Zenthusfuck",
+            "description": "L BOZO trash u got kill L ",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-11-21T11:33:19.000Z",
+            "date_last_played": "2023-06-06T11:07:58.000Z",
+            "kill_count": 118,
+            "play_count": 113,
+            "highest_score": 498207,
+            "picture": "21181717-d86597641c0d4f4ce1010a5c22c37a1428.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 13,
+            "tier": 1,
+            "xp": 11700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Lol"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T12:30:14.228Z"
+}
