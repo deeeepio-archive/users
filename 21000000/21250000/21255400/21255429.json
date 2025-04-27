@@ -1,0 +1,61 @@
+{
+  "id": 21255429,
+  "username": "TyphoonBoy",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-13T03:37:53.000Z",
+  "date_last_played": "2023-07-06T02:22:23.000Z",
+  "profile_views": 1,
+  "kill_count": 15,
+  "play_count": 30,
+  "highest_score": 437636,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 27,
+  "tier": 1,
+  "xp": 4050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 22160,
+      "user_id": 21255429,
+      "platform_id": "dc",
+      "platform_user_id": "im gonna touch you",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-06T02:26:04.000Z",
+      "updated_at": "2023-07-06T02:26:04.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21255429,
+    "rank_kc": 220177,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-07-06T02:25:41.000Z",
+    "rank_pc": 129204,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-07-06T02:25:42.000Z",
+    "rank_hs": 159308,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-06T02:25:43.000Z",
+    "created_at": "2023-07-06T02:25:40.000Z",
+    "updated_at": "2023-07-06T02:25:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:29:52.690Z"
+}
