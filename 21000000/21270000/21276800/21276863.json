@@ -1,0 +1,71 @@
+{
+  "id": 21276863,
+  "username": "Nomon",
+  "description": "Sorry... Had to do my job",
+  "about": "Stop looking at my profile, you stalker!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-22T18:55:29.000Z",
+  "date_last_played": "2023-03-22T19:01:38.000Z",
+  "profile_views": 1,
+  "kill_count": 0,
+  "play_count": 1,
+  "highest_score": 1200,
+  "picture": "21276863-4917332132ba1dcf5259a3bbe9a6d510b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16519,
+      "user_id": 21276863,
+      "platform_id": "dc",
+      "platform_user_id": "nomon#8520",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-22T18:57:32.000Z",
+      "updated_at": "2023-03-22T18:57:32.000Z"
+    },
+    {
+      "id": 16518,
+      "user_id": 21276863,
+      "platform_id": "rd",
+      "platform_user_id": "nomonnn",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-22T18:57:05.000Z",
+      "updated_at": "2023-03-22T18:57:05.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21276863,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T22:52:41.553Z",
+    "updated_at": "2025-04-27T22:52:42.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:52:41.620Z"
+}
