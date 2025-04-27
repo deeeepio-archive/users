@@ -1,0 +1,97 @@
+{
+  "id": 21277277,
+  "username": "theonev",
+  "description": "this is why your mother left you\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-24T11:16:58.000Z",
+  "date_last_played": "2025-03-09T03:39:18.000Z",
+  "profile_views": 313,
+  "kill_count": 2875,
+  "play_count": 2040,
+  "highest_score": 6872055,
+  "picture": "21277277-c62c7de38a81000ef80310b22a8acec04c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1933,
+  "tier": 9,
+  "xp": 1053300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21277277,
+    "rank_kc": 37469,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-22T19:30:33.000Z",
+    "rank_pc": 23832,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-22T19:30:37.000Z",
+    "rank_hs": 14604,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-22T19:30:38.000Z",
+    "created_at": "2025-03-09T03:39:18.000Z",
+    "updated_at": "2025-03-09T03:39:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244994,
+          "user_id": 21277277,
+          "cloneof_id": null,
+          "string_id": "lebron",
+          "title": "lebroon",
+          "description": "og",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 68,
+          "created_at": "2024-12-20T05:40:10.000Z",
+          "updated_at": "2024-12-20T05:45:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21277277,
+            "username": "theonev",
+            "description": "this is why your mother left you\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-03-24T11:16:58.000Z",
+            "date_last_played": "2025-03-09T03:39:18.000Z",
+            "kill_count": 2875,
+            "play_count": 2040,
+            "highest_score": 6872055,
+            "picture": "21277277-c62c7de38a81000ef80310b22a8acec04c.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1933,
+            "tier": 9,
+            "xp": 1053300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "og the goat"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:55:05.080Z"
+}
