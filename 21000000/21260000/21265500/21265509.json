@@ -1,0 +1,71 @@
+{
+  "id": 21265509,
+  "username": "Troaph",
+  "description": "https://youtube.com/@Troaph",
+  "about": "Troaph#5757",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-01T16:41:34.000Z",
+  "date_last_played": "2023-03-01T23:16:24.000Z",
+  "profile_views": 57,
+  "kill_count": 692,
+  "play_count": 425,
+  "highest_score": 1123853,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 65,
+  "tier": 3,
+  "xp": 105000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15044,
+      "user_id": 21265509,
+      "platform_id": "dc",
+      "platform_user_id": "Troaph#5757",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-14T13:35:20.000Z",
+      "updated_at": "2023-02-14T13:35:20.000Z"
+    },
+    {
+      "id": 15045,
+      "user_id": 21265509,
+      "platform_id": "yt",
+      "platform_user_id": "Troaph",
+      "platform_user_url": "https://youtube.com/@Troaph",
+      "verified": false,
+      "created_at": "2023-02-14T13:35:47.000Z",
+      "updated_at": "2023-02-14T13:35:47.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21265509,
+    "rank_kc": 40533,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-18T02:57:45.000Z",
+    "rank_pc": 28968,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-18T02:57:45.000Z",
+    "rank_hs": 73731,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-17T15:40:02.000Z",
+    "created_at": "2023-03-01T23:16:23.000Z",
+    "updated_at": "2023-03-01T23:16:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:39:44.292Z"
+}
