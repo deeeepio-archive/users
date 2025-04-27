@@ -1,0 +1,81 @@
+{
+  "id": 21281446,
+  "username": "LolitoGames",
+  "description": "Sígueme en YouTube +300k Lolito Games",
+  "about": "subo videos y cosas de esas",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-11T02:03:44.000Z",
+  "date_last_played": "2023-04-23T21:18:07.000Z",
+  "profile_views": 8,
+  "kill_count": 12,
+  "play_count": 40,
+  "highest_score": 412105,
+  "picture": "21281446-73322549cee510db55535b7365ea85953.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 24,
+  "tier": 1,
+  "xp": 2100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17343,
+      "user_id": 21281446,
+      "platform_id": "fb",
+      "platform_user_id": "Lolito Games",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=100063853572355",
+      "verified": false,
+      "created_at": "2023-04-11T02:04:58.000Z",
+      "updated_at": "2023-04-11T02:04:58.000Z"
+    },
+    {
+      "id": 17344,
+      "user_id": 21281446,
+      "platform_id": "tc",
+      "platform_user_id": "https://www.twitch.tv/lolito_games",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-11T02:05:24.000Z",
+      "updated_at": "2023-04-11T02:05:24.000Z"
+    },
+    {
+      "id": 17342,
+      "user_id": 21281446,
+      "platform_id": "yt",
+      "platform_user_id": "Lolito Games",
+      "platform_user_url": "https://www.youtube.com/channel/UCQQKmAkzwdJfaHimU7VS3ow",
+      "verified": false,
+      "created_at": "2023-04-11T02:04:17.000Z",
+      "updated_at": "2023-04-11T02:04:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21281446,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T23:20:02.667Z",
+    "updated_at": "2025-04-27T23:20:03.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:20:02.747Z"
+}
