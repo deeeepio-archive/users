@@ -1,0 +1,124 @@
+{
+  "id": 21267882,
+  "username": "LegendOfLeFeeeesh",
+  "description": "L + no dabloons + marooned + no maidens + I stole yer ship.",
+  "about": "Feeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeesh",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-12T00:12:50.000Z",
+  "date_last_played": "2025-03-13T03:43:12.000Z",
+  "profile_views": 12,
+  "kill_count": 114,
+  "play_count": 202,
+  "highest_score": 871325,
+  "picture": "21267882-98f993f5a51540a5cc408c5fbe384786.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 56,
+  "tier": 2,
+  "xp": 27150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21267882,
+    "rank_kc": 118902,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-14T21:53:02.000Z",
+    "rank_pc": 76172,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-14T21:53:03.000Z",
+    "rank_hs": 98237,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-14T21:53:05.000Z",
+    "created_at": "2025-03-13T03:43:12.000Z",
+    "updated_at": "2025-03-13T03:43:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12560,
+          "user_id": 21267882,
+          "cloneof_id": null,
+          "string_id": "star",
+          "title": "The Planets (VERY UNFINISHED)",
+          "description": "Its the planets of Le Feeeesh. While all of them are big and expansive, food is scarce, so in order to survive you must eat other feeeesh.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 58,
+          "created_at": "2023-07-14T20:28:16.000Z",
+          "updated_at": "2023-07-14T23:42:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21267882,
+            "username": "LegendOfLeFeeeesh",
+            "description": "L + no dabloons + marooned + no maidens + I stole yer ship.",
+            "about": "Feeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeesh",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-02-12T00:12:50.000Z",
+            "date_last_played": "2025-03-13T03:43:12.000Z",
+            "kill_count": 114,
+            "play_count": 202,
+            "highest_score": 871325,
+            "picture": "21267882-98f993f5a51540a5cc408c5fbe384786.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 56,
+            "tier": 2,
+            "xp": 27150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "galaxies"
+            },
+            {
+              "id": "galaxy"
+            },
+            {
+              "id": "planet"
+            },
+            {
+              "id": "planets"
+            },
+            {
+              "id": "solar system"
+            },
+            {
+              "id": "space"
+            },
+            {
+              "id": "star"
+            },
+            {
+              "id": "stars"
+            },
+            {
+              "id": "universe"
+            },
+            {
+              "id": "universes"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:55:19.743Z"
+}
