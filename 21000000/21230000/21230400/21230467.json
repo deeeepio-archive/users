@@ -1,0 +1,61 @@
+{
+  "id": 21230467,
+  "username": "Named1234",
+  "description": "kill yourself loser",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-24T08:36:55.000Z",
+  "date_last_played": "2023-10-25T17:33:25.000Z",
+  "profile_views": 14,
+  "kill_count": 41,
+  "play_count": 42,
+  "highest_score": 456165,
+  "picture": "21230467-f84e38b3187348d96f24fdc3a7bad885.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 27,
+  "tier": 1,
+  "xp": 6300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14363,
+      "user_id": 21230467,
+      "platform_id": "dc",
+      "platform_user_id": "@SlaughterTheHeathens#5004",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-02T15:02:45.000Z",
+      "updated_at": "2023-02-02T15:02:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21230467,
+    "rank_kc": 249783,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-02T15:03:06.000Z",
+    "rank_pc": 169259,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-02T15:03:19.000Z",
+    "rank_hs": 154331,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-02T15:03:31.000Z",
+    "created_at": "2023-10-25T17:33:24.000Z",
+    "updated_at": "2023-10-25T17:33:25.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T17:37:21.669Z"
+}
