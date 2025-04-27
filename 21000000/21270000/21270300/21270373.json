@@ -1,0 +1,50 @@
+{
+  "id": 21270373,
+  "username": "Gaspare123",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-23T13:32:34.000Z",
+  "date_last_played": "2023-11-23T14:10:28.000Z",
+  "profile_views": 8,
+  "kill_count": 0,
+  "play_count": 33,
+  "highest_score": 30725,
+  "picture": "21270373-ce9eb5064211d4560597a2364e358f81.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18,
+  "tier": 1,
+  "xp": 1200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21270373,
+    "rank_kc": 406111,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-26T13:06:07.000Z",
+    "rank_pc": 153636,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-26T13:06:14.000Z",
+    "rank_hs": 405307,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-02-26T13:06:21.000Z",
+    "created_at": "2023-11-23T14:10:27.000Z",
+    "updated_at": "2023-11-23T14:10:28.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:12:25.555Z"
+}
