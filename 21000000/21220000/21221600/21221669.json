@@ -1,0 +1,100 @@
+{
+  "id": 21221669,
+  "username": "Subnautica_player",
+  "description": "Now watch AD.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-11T14:29:05.000Z",
+  "date_last_played": "2024-10-27T14:27:18.000Z",
+  "profile_views": 28,
+  "kill_count": 53,
+  "play_count": 85,
+  "highest_score": 402302,
+  "picture": "21221669-07e9a63937d66cf1490a798c3b2bb1054.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 33,
+  "tier": 1,
+  "xp": 5100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21221669,
+    "rank_kc": 130208,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-18T07:10:53.000Z",
+    "rank_pc": 69841,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-18T07:10:54.000Z",
+    "rank_hs": 158128,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-18T07:10:55.000Z",
+    "created_at": "2024-10-27T14:27:18.000Z",
+    "updated_at": "2024-10-27T14:27:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11507,
+          "user_id": 21221669,
+          "cloneof_id": null,
+          "string_id": "25456",
+          "title": "Mariana Trench",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 90,
+          "created_at": "2022-12-25T10:50:55.000Z",
+          "updated_at": "2022-12-25T10:50:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21221669,
+            "username": "Subnautica_player",
+            "description": "Now watch AD.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-12-11T14:29:05.000Z",
+            "date_last_played": "2024-10-27T14:27:18.000Z",
+            "kill_count": 53,
+            "play_count": 85,
+            "highest_score": 402302,
+            "picture": "21221669-07e9a63937d66cf1490a798c3b2bb1054.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 33,
+            "tier": 1,
+            "xp": 5100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Depth"
+            },
+            {
+              "id": "Mariana Trench"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:41:40.914Z"
+}
