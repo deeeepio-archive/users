@@ -1,0 +1,81 @@
+{
+  "id": 21275454,
+  "username": "생강",
+  "description": "생강",
+  "about": "나는 생강생강한 생강이다",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-16T11:52:49.000Z",
+  "date_last_played": "2023-10-22T14:07:54.000Z",
+  "profile_views": 1920,
+  "kill_count": 5024,
+  "play_count": 2909,
+  "highest_score": 4143754,
+  "picture": "21275454-ad4877010a6bc10ccc21e2aa9d90272e48.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 973,
+  "tier": 10,
+  "xp": 1149600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17989,
+      "user_id": 21275454,
+      "platform_id": "dc",
+      "platform_user_id": "🖤𝓒𝓸𝓴𝓮💔",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-24T12:56:29.000Z",
+      "updated_at": "2023-04-24T13:36:23.000Z"
+    },
+    {
+      "id": 18781,
+      "user_id": 21275454,
+      "platform_id": "fb",
+      "platform_user_id": "𝑘𝑎𝑙𝑎𝑚𝑒𝑙",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-07T08:09:40.000Z",
+      "updated_at": "2023-05-07T08:10:09.000Z"
+    },
+    {
+      "id": 18780,
+      "user_id": 21275454,
+      "platform_id": "ig",
+      "platform_user_id": "𝕜𝕒𝕝𝕒𝕞𝕖𝕝 𝕞𝕒𝕜𝕜𝕚𝕒𝕥𝕥𝕠",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-07T08:03:03.000Z",
+      "updated_at": "2023-05-07T08:05:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21275454,
+    "rank_kc": 6081,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2024-01-12T06:12:16.000Z",
+    "rank_pc": 3365,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2024-01-12T06:12:20.000Z",
+    "rank_hs": 12011,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-12T06:12:21.000Z",
+    "created_at": "2024-01-12T06:12:21.000Z",
+    "updated_at": "2024-01-12T06:12:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:43:57.959Z"
+}
