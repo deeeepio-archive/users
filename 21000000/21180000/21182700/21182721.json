@@ -1,0 +1,61 @@
+{
+  "id": 21182721,
+  "username": "bebsue",
+  "description": "blav",
+  "about": "#1 player blabsue",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-25T09:17:40.000Z",
+  "date_last_played": "2025-02-05T03:11:31.000Z",
+  "profile_views": 636,
+  "kill_count": 3211,
+  "play_count": 1792,
+  "highest_score": 3210106,
+  "picture": "21182721-887eafcbd15dd2e10363ae09dc6ea10771-3b38876e-fdc4-4659-9c63-cfbda24d8404.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1052,
+  "tier": 8,
+  "xp": 833550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 10218,
+      "user_id": 21182721,
+      "platform_id": "yt",
+      "platform_user_id": "a",
+      "platform_user_url": "https://www.youtube.com/watch?v=ienPoiOpxqw",
+      "verified": false,
+      "created_at": "2022-11-25T09:31:35.000Z",
+      "updated_at": "2024-11-19T04:18:46.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21182721,
+    "rank_kc": 10787,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-16T04:39:35.000Z",
+    "rank_pc": 7531,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-16T04:39:36.000Z",
+    "rank_hs": 19382,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-16T04:39:37.000Z",
+    "created_at": "2025-04-27T09:00:01.000Z",
+    "updated_at": "2025-04-27T09:00:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T12:36:40.904Z"
+}
