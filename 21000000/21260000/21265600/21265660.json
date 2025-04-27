@@ -1,0 +1,50 @@
+{
+  "id": 21265660,
+  "username": "ヒロ",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-02T03:37:01.000Z",
+  "date_last_played": "2023-03-28T05:58:03.000Z",
+  "profile_views": 66,
+  "kill_count": 323,
+  "play_count": 200,
+  "highest_score": 1477900,
+  "picture": "21265660-01c45566e573fdcafcc8c1055d4955324.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 136,
+  "tier": 2,
+  "xp": 63900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21265660,
+    "rank_kc": 56523,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-02T00:51:24.000Z",
+    "rank_pc": 46200,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-09-02T00:51:25.000Z",
+    "rank_hs": 58521,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-02T00:51:26.000Z",
+    "created_at": "2023-11-01T20:52:16.000Z",
+    "updated_at": "2023-09-02T00:51:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:41:05.238Z"
+}
