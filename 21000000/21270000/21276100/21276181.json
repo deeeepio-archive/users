@@ -1,0 +1,50 @@
+{
+  "id": 21276181,
+  "username": "Ahmed12345",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-19T17:23:15.000Z",
+  "date_last_played": "2023-04-01T11:22:19.000Z",
+  "profile_views": 79,
+  "kill_count": 142,
+  "play_count": 162,
+  "highest_score": 1602451,
+  "picture": "21276181-106af39d2354c834808d901f048afdc7e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 254,
+  "tier": 2,
+  "xp": 56850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21276181,
+    "rank_kc": 89341,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-29T09:08:24.000Z",
+    "rank_pc": 54367,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-29T09:08:25.000Z",
+    "rank_hs": 48797,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-29T09:08:26.000Z",
+    "created_at": "2023-08-13T20:09:50.000Z",
+    "updated_at": "2023-04-01T11:22:19.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:48:27.340Z"
+}
