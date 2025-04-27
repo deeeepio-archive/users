@@ -1,0 +1,61 @@
+{
+  "id": 21252512,
+  "username": "Small_Mouse",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-31T16:41:55.000Z",
+  "date_last_played": "2023-08-24T09:56:55.000Z",
+  "profile_views": 63,
+  "kill_count": 40,
+  "play_count": 49,
+  "highest_score": 1143742,
+  "picture": "21252512-911e71d18ce14f48aba9a2d6e39128af.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 1,
+  "xp": 9600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 24258,
+      "user_id": 21252512,
+      "platform_id": "yt",
+      "platform_user_id": "Истинный библейский ангел",
+      "platform_user_url": "https://youtube.com/@windy31LetsGoodPlays",
+      "verified": false,
+      "created_at": "2023-08-10T04:26:15.000Z",
+      "updated_at": "2023-08-19T19:24:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21252512,
+    "rank_kc": 156140,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-09-02T09:35:02.000Z",
+    "rank_pc": 105577,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-09-02T09:35:05.000Z",
+    "rank_hs": 78029,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-02T09:35:08.000Z",
+    "created_at": "2023-09-02T09:35:07.000Z",
+    "updated_at": "2023-09-02T09:35:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:11:46.400Z"
+}
