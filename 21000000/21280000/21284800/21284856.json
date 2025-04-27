@@ -1,0 +1,61 @@
+{
+  "id": 21284856,
+  "username": "Ankylosaurus",
+  "description": "eat me",
+  "about": "I love Spino",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-22T20:58:49.000Z",
+  "date_last_played": "2023-09-01T20:43:00.000Z",
+  "profile_views": 228,
+  "kill_count": 397,
+  "play_count": 309,
+  "highest_score": 1840396,
+  "picture": "21284856-07c69be5f2399934cf23166524372a5c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 3,
+  "xp": 100500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18741,
+      "user_id": 21284856,
+      "platform_id": "tw",
+      "platform_user_id": "Layl",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-06T18:59:58.000Z",
+      "updated_at": "2023-05-06T18:59:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21284856,
+    "rank_kc": 50052,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-01T20:45:38.000Z",
+    "rank_pc": 34016,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-01T20:45:41.000Z",
+    "rank_hs": 44007,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-01T20:45:47.000Z",
+    "created_at": "2023-12-14T13:47:05.000Z",
+    "updated_at": "2023-09-01T20:45:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:42:48.852Z"
+}
