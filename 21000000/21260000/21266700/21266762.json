@@ -1,0 +1,71 @@
+{
+  "id": 21266762,
+  "username": "CrusaderG",
+  "description": "Faq ya motha",
+  "about": "just a dude being a fish\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-06T23:53:31.000Z",
+  "date_last_played": "2023-02-07T01:11:53.000Z",
+  "profile_views": 5,
+  "kill_count": 3,
+  "play_count": 23,
+  "highest_score": 72090,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14623,
+      "user_id": 21266762,
+      "platform_id": "dc",
+      "platform_user_id": "CrusaderGaming#2308",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-07T00:13:14.000Z",
+      "updated_at": "2023-02-07T00:13:14.000Z"
+    },
+    {
+      "id": 14622,
+      "user_id": 21266762,
+      "platform_id": "yt",
+      "platform_user_id": "Crusader Gaming",
+      "platform_user_url": "https://www.youtube.com/channel/UCnX0TFkFUrtCtgl3UAJ-1ww",
+      "verified": false,
+      "created_at": "2023-02-07T00:12:47.000Z",
+      "updated_at": "2023-02-07T00:12:47.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21266762,
+    "rank_kc": 359118,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-07T01:01:53.000Z",
+    "rank_pc": 137623,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-07T01:01:54.000Z",
+    "rank_hs": 323621,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-02-07T01:01:55.000Z",
+    "created_at": "2023-02-07T01:11:52.000Z",
+    "updated_at": "2023-02-07T01:11:53.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:48:34.642Z"
+}
