@@ -1,0 +1,61 @@
+{
+  "id": 21267175,
+  "username": "なり様",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-09T05:37:32.000Z",
+  "date_last_played": "2023-02-17T02:53:49.000Z",
+  "profile_views": 40,
+  "kill_count": 3,
+  "play_count": 35,
+  "highest_score": 75525,
+  "picture": "21267175-8c6be259c4471d17440d3a1bbca3c258.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14998,
+      "user_id": 21267175,
+      "platform_id": "dc",
+      "platform_user_id": "源田壮亮はすごい守備がうまい",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-13T04:58:38.000Z",
+      "updated_at": "2023-02-13T04:58:38.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21267175,
+    "rank_kc": 312981,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-03-03T08:32:54.000Z",
+    "rank_pc": 108652,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-03T08:32:54.000Z",
+    "rank_hs": 322111,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-03T08:32:55.000Z",
+    "created_at": "2023-12-05T15:36:05.000Z",
+    "updated_at": "2023-03-03T08:32:55.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:50:56.332Z"
+}
