@@ -1,0 +1,61 @@
+{
+  "id": 21286241,
+  "username": "ca_pro",
+  "description": "see ya in the next life",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-27T17:26:07.000Z",
+  "date_last_played": "2023-06-22T01:19:00.000Z",
+  "profile_views": 4,
+  "kill_count": 28,
+  "play_count": 57,
+  "highest_score": 624018,
+  "picture": "21286241-a41075105cb762c9eee633ee76b107a56.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 1,
+  "xp": 4200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18235,
+      "user_id": 21286241,
+      "platform_id": "dc",
+      "platform_user_id": "ca_pro#7007",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-29T15:24:00.000Z",
+      "updated_at": "2023-04-29T15:24:00.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21286241,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T23:51:05.185Z",
+    "updated_at": "2025-04-27T23:51:05.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:51:05.253Z"
+}
