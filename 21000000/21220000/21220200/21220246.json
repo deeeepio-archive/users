@@ -1,0 +1,71 @@
+{
+  "id": 21220246,
+  "username": "啊哈哈",
+  "description": "啊哈哈\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-06T05:14:14.000Z",
+  "date_last_played": "2023-06-24T11:05:14.000Z",
+  "profile_views": 31,
+  "kill_count": 101,
+  "play_count": 176,
+  "highest_score": 2195642,
+  "picture": "21220246-94853fa21e11aab8821192f8e3a9cef3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 184,
+  "tier": 2,
+  "xp": 30600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 10941,
+      "user_id": 21220246,
+      "platform_id": "dc",
+      "platform_user_id": "steam: ID:m159 好友码:1152393108",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-07T06:49:17.000Z",
+      "updated_at": "2022-12-07T06:49:52.000Z"
+    },
+    {
+      "id": 10940,
+      "user_id": 21220246,
+      "platform_id": "qq",
+      "platform_user_id": "2946502610",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-07T06:48:19.000Z",
+      "updated_at": "2022-12-07T06:48:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21220246,
+    "rank_kc": 127227,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-07T10:13:01.000Z",
+    "rank_pc": 49745,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-07T10:13:07.000Z",
+    "rank_hs": 135839,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2022-12-07T04:04:57.000Z",
+    "created_at": "2023-06-24T11:05:14.000Z",
+    "updated_at": "2023-06-24T11:05:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:32:40.279Z"
+}

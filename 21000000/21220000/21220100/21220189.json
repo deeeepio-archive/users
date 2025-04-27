@@ -1,0 +1,61 @@
+{
+  "id": 21220189,
+  "username": "sevaluvsher",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-05T23:09:39.000Z",
+  "date_last_played": "2023-01-12T22:52:51.000Z",
+  "profile_views": 1,
+  "kill_count": 0,
+  "play_count": 4,
+  "highest_score": 41760,
+  "picture": "21220189-810108597cd3356e7b52a10f1d4bcc9e1074.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 11321,
+      "user_id": 21220189,
+      "platform_id": "ig",
+      "platform_user_id": "sevaluvsher",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-15T01:12:52.000Z",
+      "updated_at": "2022-12-15T01:12:52.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21220189,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T16:32:24.636Z",
+    "updated_at": "2025-04-27T16:32:25.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:32:24.729Z"
+}
