@@ -1,0 +1,61 @@
+{
+  "id": 21264131,
+  "username": "mario_killer",
+  "description": "Just get good",
+  "about": "I’m good",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-27T16:06:59.000Z",
+  "date_last_played": "2023-02-03T00:57:38.000Z",
+  "profile_views": 18,
+  "kill_count": 46,
+  "play_count": 84,
+  "highest_score": 1016653,
+  "picture": "21264131-4dccc6f6b4dbe8710e08010cafe9bd47b6.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 37,
+  "tier": 1,
+  "xp": 7050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14014,
+      "user_id": 21264131,
+      "platform_id": "dc",
+      "platform_user_id": "abiwali123@icloud.com",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-27T17:26:25.000Z",
+      "updated_at": "2023-01-27T17:26:25.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21264131,
+    "rank_kc": 159627,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-29T18:48:24.000Z",
+    "rank_pc": 84909,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-29T18:48:25.000Z",
+    "rank_hs": 79279,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-29T18:48:26.000Z",
+    "created_at": "2023-02-26T01:27:04.000Z",
+    "updated_at": "2023-02-03T00:57:38.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:31:53.323Z"
+}
