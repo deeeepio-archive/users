@@ -1,0 +1,101 @@
+{
+  "id": 21222595,
+  "username": "Abisai",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-14T22:32:16.000Z",
+  "date_last_played": "2024-09-08T13:29:52.000Z",
+  "profile_views": 18,
+  "kill_count": 128,
+  "play_count": 354,
+  "highest_score": 703898,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18,
+  "tier": 1,
+  "xp": 22950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16127,
+      "user_id": 21222595,
+      "platform_id": "dc",
+      "platform_user_id": "Abisai#1147",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-11T17:17:19.000Z",
+      "updated_at": "2023-03-11T17:17:19.000Z"
+    },
+    {
+      "id": 16128,
+      "user_id": 21222595,
+      "platform_id": "ig",
+      "platform_user_id": "yo.ni_veo",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-11T17:17:37.000Z",
+      "updated_at": "2023-03-11T17:17:37.000Z"
+    },
+    {
+      "id": 16131,
+      "user_id": 21222595,
+      "platform_id": "rd",
+      "platform_user_id": "la_chota",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-11T17:18:16.000Z",
+      "updated_at": "2023-03-11T17:18:16.000Z"
+    },
+    {
+      "id": 16130,
+      "user_id": 21222595,
+      "platform_id": "tc",
+      "platform_user_id": "Abisai_vasquez_12",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-11T17:18:00.000Z",
+      "updated_at": "2023-03-11T17:18:00.000Z"
+    },
+    {
+      "id": 16129,
+      "user_id": 21222595,
+      "platform_id": "tw",
+      "platform_user_id": "Abisai2009",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-11T17:17:47.000Z",
+      "updated_at": "2023-03-11T17:17:47.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21222595,
+    "rank_kc": 95958,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-30T00:10:15.000Z",
+    "rank_pc": 31547,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-30T00:10:15.000Z",
+    "rank_hs": 111656,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-30T00:10:16.000Z",
+    "created_at": "2024-09-08T13:29:51.000Z",
+    "updated_at": "2024-09-08T13:29:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:47:12.608Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 21222551,
+  "username": "Muffinsss",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-14T20:14:15.000Z",
+  "date_last_played": "2024-08-21T12:28:46.000Z",
+  "profile_views": 71,
+  "kill_count": 574,
+  "play_count": 737,
+  "highest_score": 1256818,
+  "picture": "21222551-874080cfa72c4d9e96d1fe4d700b695e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 133,
+  "tier": 3,
+  "xp": 94200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15600,
+      "user_id": 21222551,
+      "platform_id": "qq",
+      "platform_user_id": "FJGSJKFDJKDSMF",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-26T17:35:55.000Z",
+      "updated_at": "2023-03-16T06:11:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21222551,
+    "rank_kc": 43717,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-30T18:58:10.000Z",
+    "rank_pc": 23689,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-30T18:58:11.000Z",
+    "rank_hs": 71413,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-30T18:58:12.000Z",
+    "created_at": "2025-03-31T16:00:11.000Z",
+    "updated_at": "2025-03-31T16:00:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:47:05.434Z"
+}
