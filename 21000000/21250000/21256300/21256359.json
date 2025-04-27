@@ -1,0 +1,61 @@
+{
+  "id": 21256359,
+  "username": "phillpis",
+  "description": "nooooooooooo!!!! ok...\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-17T08:40:14.000Z",
+  "date_last_played": "2023-01-17T08:55:52.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 2,
+  "highest_score": 20635,
+  "picture": "21256359-42a4c8838cfb92d38b9810024efb9d67e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 13390,
+      "user_id": 21256359,
+      "platform_id": "dc",
+      "platform_user_id": "ajbotIII",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-17T08:50:49.000Z",
+      "updated_at": "2023-01-17T08:50:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21256359,
+    "rank_kc": 399695,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-01-17T08:50:05.000Z",
+    "rank_pc": 303425,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-17T08:50:11.000Z",
+    "rank_hs": 535134,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-17T08:50:17.000Z",
+    "created_at": "2023-01-17T08:55:52.000Z",
+    "updated_at": "2023-01-17T08:55:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:40:07.883Z"
+}
