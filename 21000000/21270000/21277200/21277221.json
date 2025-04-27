@@ -1,0 +1,200 @@
+{
+  "id": 21277221,
+  "username": "DeepRoamer✌",
+  "description": "*In a soft creepy croaky High pitched voice*                    \n       What's your favorite scary movie\n\n\n(only real ones will understand)",
+  "about": "Im not that good, but ima little good, so you could probally come back and kill me, ive only been playin for 2 months. Have a nice day.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-24T04:18:17.000Z",
+  "date_last_played": "2025-04-14T21:16:23.000Z",
+  "profile_views": 153,
+  "kill_count": 1165,
+  "play_count": 1257,
+  "highest_score": 1352673,
+  "picture": "21277221-089fa99082922dd572bc91ea2b53ba51.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 132,
+  "tier": 4,
+  "xp": 245700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 19735,
+      "user_id": 21277221,
+      "platform_id": "ig",
+      "platform_user_id": "christian_holtsclaw",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-23T17:35:56.000Z",
+      "updated_at": "2023-05-23T17:36:11.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21277221,
+    "rank_kc": 24912,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T12:48:53.000Z",
+    "rank_pc": 10598,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T12:48:56.000Z",
+    "rank_hs": 68802,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-19T12:49:01.000Z",
+    "created_at": "2025-04-14T21:16:22.000Z",
+    "updated_at": "2025-04-14T21:16:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11942,
+          "user_id": 21277221,
+          "cloneof_id": null,
+          "string_id": "map_take_2",
+          "title": "MAP_TAKE_2",
+          "description": "MAP_TAKE_2",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 20,
+          "created_at": "2023-03-27T14:18:54.000Z",
+          "updated_at": "2023-03-27T14:40:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21277221,
+            "username": "DeepRoamer✌",
+            "description": "*In a soft creepy croaky High pitched voice*                    \n       What's your favorite scary movie\n\n\n(only real ones will understand)",
+            "about": "Im not that good, but ima little good, so you could probally come back and kill me, ive only been playin for 2 months. Have a nice day.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-03-24T04:18:17.000Z",
+            "date_last_played": "2025-04-14T21:16:23.000Z",
+            "kill_count": 1165,
+            "play_count": 1257,
+            "highest_score": 1352673,
+            "picture": "21277221-089fa99082922dd572bc91ea2b53ba51.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 132,
+            "tier": 4,
+            "xp": 245700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "MAP_TAKE_2"
+            }
+          ]
+        },
+        {
+          "id": 11940,
+          "user_id": 21277221,
+          "cloneof_id": null,
+          "string_id": "blue_42_blue_set_hut",
+          "title": "ME_MAP_TAKE_1",
+          "description": "ME_MAP_TAKE_1",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 9,
+          "created_at": "2023-03-27T14:16:11.000Z",
+          "updated_at": "2023-03-27T14:16:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21277221,
+            "username": "DeepRoamer✌",
+            "description": "*In a soft creepy croaky High pitched voice*                    \n       What's your favorite scary movie\n\n\n(only real ones will understand)",
+            "about": "Im not that good, but ima little good, so you could probally come back and kill me, ive only been playin for 2 months. Have a nice day.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-03-24T04:18:17.000Z",
+            "date_last_played": "2025-04-14T21:16:23.000Z",
+            "kill_count": 1165,
+            "play_count": 1257,
+            "highest_score": 1352673,
+            "picture": "21277221-089fa99082922dd572bc91ea2b53ba51.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 132,
+            "tier": 4,
+            "xp": 245700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ME_MAP_TAKE_1"
+            }
+          ]
+        },
+        {
+          "id": 11938,
+          "user_id": 21277221,
+          "cloneof_id": null,
+          "string_id": "chriristians_map_1",
+          "title": "Map",
+          "description": "Map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-03-26T20:59:55.000Z",
+          "updated_at": "2023-03-26T20:59:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21277221,
+            "username": "DeepRoamer✌",
+            "description": "*In a soft creepy croaky High pitched voice*                    \n       What's your favorite scary movie\n\n\n(only real ones will understand)",
+            "about": "Im not that good, but ima little good, so you could probally come back and kill me, ive only been playin for 2 months. Have a nice day.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-03-24T04:18:17.000Z",
+            "date_last_played": "2025-04-14T21:16:23.000Z",
+            "kill_count": 1165,
+            "play_count": 1257,
+            "highest_score": 1352673,
+            "picture": "21277221-089fa99082922dd572bc91ea2b53ba51.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 132,
+            "tier": 4,
+            "xp": 245700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Map"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:54:39.987Z"
+}
