@@ -1,0 +1,50 @@
+{
+  "id": 21286338,
+  "username": "bob8",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-27T23:03:48.000Z",
+  "date_last_played": "2023-10-02T23:47:32.000Z",
+  "profile_views": 4,
+  "kill_count": 17,
+  "play_count": 29,
+  "highest_score": 539134,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 1,
+  "xp": 2700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21286338,
+    "rank_kc": 289129,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-28T23:59:28.000Z",
+    "rank_pc": 174806,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-28T23:59:35.000Z",
+    "rank_hs": 134642,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-04-28T23:59:41.000Z",
+    "created_at": "2023-10-02T23:53:49.000Z",
+    "updated_at": "2023-10-02T23:53:49.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:51:50.871Z"
+}
