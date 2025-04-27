@@ -1,0 +1,61 @@
+{
+  "id": 21266382,
+  "username": "Cocomelonboi",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-05T05:40:08.000Z",
+  "date_last_played": "2023-03-09T02:47:26.000Z",
+  "profile_views": 3,
+  "kill_count": 29,
+  "play_count": 108,
+  "highest_score": 766801,
+  "picture": "21266382-f10812d7fb73fe87957911033ea9e5c559.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 82,
+  "tier": 1,
+  "xp": 10800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14475,
+      "user_id": 21266382,
+      "platform_id": "dc",
+      "platform_user_id": "ooMelons#2001",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-05T05:42:24.000Z",
+      "updated_at": "2023-02-05T05:42:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21266382,
+    "rank_kc": 183637,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-02T02:57:00.000Z",
+    "rank_pc": 66872,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-02T02:57:01.000Z",
+    "rank_hs": 101794,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-02T02:57:02.000Z",
+    "created_at": "2023-03-09T02:47:25.000Z",
+    "updated_at": "2023-03-09T02:47:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:45:49.648Z"
+}
