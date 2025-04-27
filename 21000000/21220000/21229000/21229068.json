@@ -1,0 +1,50 @@
+{
+  "id": 21229068,
+  "username": "이서",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-20T07:05:40.000Z",
+  "date_last_played": "2023-03-05T11:15:24.000Z",
+  "profile_views": 28,
+  "kill_count": 201,
+  "play_count": 459,
+  "highest_score": 1016081,
+  "picture": "21229068-65a9cff39425e10e73fbbb5482c36f4bb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 58,
+  "tier": 2,
+  "xp": 31200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21229068,
+    "rank_kc": 72027,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-26T01:45:49.000Z",
+    "rank_pc": 25098,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-26T01:45:50.000Z",
+    "rank_hs": 80302,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-26T01:45:51.000Z",
+    "created_at": "2023-05-04T12:43:57.000Z",
+    "updated_at": "2023-03-05T11:15:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T17:28:50.016Z"
+}
