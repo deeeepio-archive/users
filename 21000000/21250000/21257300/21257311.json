@@ -1,0 +1,101 @@
+{
+  "id": 21257311,
+  "username": "waffle78",
+  "description": "I'm very sorry I killed you :'( \nHave a nice day!\n\n",
+  "about": "Softshell turtle and Arapaima main, but I also like Moray \n\nAlso, a waffle lover :) (I feel like I will get targeted after this)",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-20T23:44:55.000Z",
+  "date_last_played": "2025-03-29T21:28:38.000Z",
+  "profile_views": 584,
+  "kill_count": 2035,
+  "play_count": 853,
+  "highest_score": 3791016,
+  "picture": "21257311-f6566b1d5da233efb243aee834e68387.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 79,
+  "tier": 5,
+  "xp": 361650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21257311,
+    "rank_kc": 15964,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-23T00:38:11.000Z",
+    "rank_pc": 15595,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-23T00:38:12.000Z",
+    "rank_hs": 13114,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-23T00:38:13.000Z",
+    "created_at": "2025-04-03T18:00:07.000Z",
+    "updated_at": "2025-04-03T18:00:07.000Z",
+    "pd": {
+      "played": 7,
+      "won": 2,
+      "ratio": 29
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11835,
+          "user_id": 21257311,
+          "cloneof_id": null,
+          "string_id": "xdlol",
+          "title": "BEWARE",
+          "description": "Hi im new at this :')",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 6,
+          "created_at": "2023-02-28T01:39:26.000Z",
+          "updated_at": "2023-02-28T01:39:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21257311,
+            "username": "waffle78",
+            "description": "I'm very sorry I killed you :'( \nHave a nice day!\n\n",
+            "about": "Softshell turtle and Arapaima main, but I also like Moray \n\nAlso, a waffle lover :) (I feel like I will get targeted after this)",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-01-20T23:44:55.000Z",
+            "date_last_played": "2025-03-29T21:28:38.000Z",
+            "kill_count": 2035,
+            "play_count": 853,
+            "highest_score": 3791016,
+            "picture": "21257311-f6566b1d5da233efb243aee834e68387.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 79,
+            "tier": 5,
+            "xp": 361650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "234"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:46:16.945Z"
+}
