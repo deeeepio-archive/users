@@ -1,0 +1,97 @@
+{
+  "id": 21262648,
+  "username": "Foax",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-22T09:00:18.000Z",
+  "date_last_played": "2024-11-29T11:16:44.000Z",
+  "profile_views": 14,
+  "kill_count": 25,
+  "play_count": 150,
+  "highest_score": 196644,
+  "picture": "21262648-749d4111fab96b62c456e35b9b24103ff.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 26,
+  "tier": 1,
+  "xp": 3900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21262648,
+    "rank_kc": 356736,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-22T09:17:22.000Z",
+    "rank_pc": 220851,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-22T09:17:25.000Z",
+    "rank_hs": 406372,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-22T09:17:27.000Z",
+    "created_at": "2024-11-29T11:16:43.000Z",
+    "updated_at": "2024-11-29T11:16:44.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11628,
+          "user_id": 21262648,
+          "cloneof_id": null,
+          "string_id": "yd7iati891",
+          "title": "Untitled",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 10,
+          "created_at": "2023-01-22T16:23:26.000Z",
+          "updated_at": "2023-01-22T16:23:28.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21262648,
+            "username": "Foax",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-01-22T09:00:18.000Z",
+            "date_last_played": "2024-11-29T11:16:44.000Z",
+            "kill_count": 25,
+            "play_count": 150,
+            "highest_score": 196644,
+            "picture": "21262648-749d4111fab96b62c456e35b9b24103ff.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26,
+            "tier": 1,
+            "xp": 3900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:21:31.218Z"
+}
