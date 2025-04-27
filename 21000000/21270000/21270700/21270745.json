@@ -1,0 +1,85 @@
+{
+  "id": 21270745,
+  "username": "Niszczuka3",
+  "description": "",
+  "about": "Jestem Olek dużo w to gram i wkurzam się trochę \n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-24T17:56:32.000Z",
+  "date_last_played": "2025-04-26T12:50:32.000Z",
+  "profile_views": 1669,
+  "kill_count": 12902,
+  "play_count": 4978,
+  "highest_score": 6496531,
+  "picture": "21270745-52936989b648c3505a87a335686e8310d-dec3ffea-7820-4894-bc03-f385f1a4daa7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4091,
+  "tier": 10,
+  "xp": 2975700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101422,
+      "user_id": 21270745,
+      "platform_id": "dc",
+      "platform_user_id": "Aleksander",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-25T11:58:48.000Z",
+      "updated_at": "2024-12-25T11:58:48.000Z"
+    },
+    {
+      "id": 101421,
+      "user_id": 21270745,
+      "platform_id": "dc",
+      "platform_user_id": "Aleksander ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-25T11:58:40.000Z",
+      "updated_at": "2024-12-25T11:58:40.000Z"
+    },
+    {
+      "id": 96876,
+      "user_id": 21270745,
+      "platform_id": "dc",
+      "platform_user_id": "Unnamed_orca_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-27T20:56:02.000Z",
+      "updated_at": "2024-07-27T20:56:22.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21270745,
+    "rank_kc": 3495,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-12T22:46:46.000Z",
+    "rank_pc": 3643,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-12T22:46:50.000Z",
+    "rank_hs": 15050,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-12T22:46:56.000Z",
+    "created_at": "2025-04-26T15:00:01.000Z",
+    "updated_at": "2025-04-26T15:00:01.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:14:16.809Z"
+}

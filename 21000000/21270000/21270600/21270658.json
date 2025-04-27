@@ -1,0 +1,50 @@
+{
+  "id": 21270658,
+  "username": "tristan1",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-24T13:43:53.000Z",
+  "date_last_played": "2023-09-22T11:23:02.000Z",
+  "profile_views": 7,
+  "kill_count": 3,
+  "play_count": 56,
+  "highest_score": 140992,
+  "picture": "21270658-d6caf9d678a9331dd89db9c27b320630.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 22,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21270658,
+    "rank_kc": 336204,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-09-11T16:42:59.000Z",
+    "rank_pc": 114603,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-11T16:43:03.000Z",
+    "rank_hs": 283319,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-11T16:43:09.000Z",
+    "created_at": "2023-09-22T11:23:02.000Z",
+    "updated_at": "2023-09-22T11:23:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:14:05.227Z"
+}
