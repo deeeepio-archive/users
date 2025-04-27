@@ -1,0 +1,81 @@
+{
+  "id": 21268141,
+  "username": "Quiet",
+  "description": "🕋",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-13T08:12:04.000Z",
+  "date_last_played": "2023-06-07T12:00:03.000Z",
+  "profile_views": 370,
+  "kill_count": 3261,
+  "play_count": 895,
+  "highest_score": 3163478,
+  "picture": "21268141-888464ecbe104d281c16a8ce4f4d1eb24.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 32,
+  "tier": 5,
+  "xp": 337050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17995,
+      "user_id": 21268141,
+      "platform_id": "dc",
+      "platform_user_id": "!     Ibn Safaei | ابنّ صَفاييِّ#0313",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-24T17:03:30.000Z",
+      "updated_at": "2023-04-24T17:03:30.000Z"
+    },
+    {
+      "id": 17997,
+      "user_id": 21268141,
+      "platform_id": "ig",
+      "platform_user_id": "mohammadpooyan22",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-24T17:04:42.000Z",
+      "updated_at": "2023-04-24T17:04:42.000Z"
+    },
+    {
+      "id": 17996,
+      "user_id": 21268141,
+      "platform_id": "tw",
+      "platform_user_id": "brqwcy9khg",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-24T17:04:27.000Z",
+      "updated_at": "2023-04-24T17:04:27.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21268141,
+    "rank_kc": 8915,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-29T11:34:09.000Z",
+    "rank_pc": 13070,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-29T11:34:10.000Z",
+    "rank_hs": 17741,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-29T11:34:12.000Z",
+    "created_at": "2023-11-28T05:14:03.000Z",
+    "updated_at": "2023-06-07T12:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:56:53.532Z"
+}
