@@ -1,0 +1,61 @@
+{
+  "id": 21229175,
+  "username": "Check_maa",
+  "description": null,
+  "about": "Hi, I'm the developer of Deeeep.io.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-20T16:22:16.000Z",
+  "date_last_played": "2023-01-22T16:38:15.000Z",
+  "profile_views": 31,
+  "kill_count": 32,
+  "play_count": 40,
+  "highest_score": 132740,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 40,
+  "tier": 1,
+  "xp": 21000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 13203,
+      "user_id": 21229175,
+      "platform_id": "rd",
+      "platform_user_id": "Check_maa",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-13T12:57:56.000Z",
+      "updated_at": "2023-01-13T12:58:48.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21229175,
+    "rank_kc": 174940,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-13T13:45:50.000Z",
+    "rank_pc": 118197,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-13T13:46:08.000Z",
+    "rank_hs": 257620,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-01-12T16:17:01.000Z",
+    "created_at": "2023-01-22T16:38:14.000Z",
+    "updated_at": "2023-01-22T16:38:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T17:29:23.542Z"
+}
