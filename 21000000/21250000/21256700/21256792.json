@@ -1,0 +1,97 @@
+{
+  "id": 21256792,
+  "username": "groubon",
+  "description": "sorry, I... wait I killed you!? HOW!? did you run into my mouth at low health?",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-19T02:06:53.000Z",
+  "date_last_played": "2025-01-24T17:26:42.000Z",
+  "profile_views": 18,
+  "kill_count": 7,
+  "play_count": 118,
+  "highest_score": 329369,
+  "picture": "21256792-3f28d5231a69af2de210179575412844c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 2250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21256792,
+    "rank_kc": 400282,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-20T22:45:49.000Z",
+    "rank_pc": 220580,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-20T22:45:58.000Z",
+    "rank_hs": 378358,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-20T22:46:10.000Z",
+    "created_at": "2025-01-24T17:26:42.000Z",
+    "updated_at": "2025-01-24T17:26:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244906,
+          "user_id": 21256792,
+          "cloneof_id": null,
+          "string_id": "554681",
+          "title": "boss fight",
+          "description": "oop",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 15,
+          "created_at": "2024-11-21T19:39:54.000Z",
+          "updated_at": "2024-11-21T21:55:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21256792,
+            "username": "groubon",
+            "description": "sorry, I... wait I killed you!? HOW!? did you run into my mouth at low health?",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-01-19T02:06:53.000Z",
+            "date_last_played": "2025-01-24T17:26:42.000Z",
+            "kill_count": 7,
+            "play_count": 118,
+            "highest_score": 329369,
+            "picture": "21256792-3f28d5231a69af2de210179575412844c.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 2250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "mistalke "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:42:59.557Z"
+}
