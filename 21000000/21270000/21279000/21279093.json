@@ -1,0 +1,61 @@
+{
+  "id": 21279093,
+  "username": "masonツ",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-31T22:54:49.000Z",
+  "date_last_played": "2023-03-31T23:59:55.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 8,
+  "highest_score": 226730,
+  "picture": "21279093-9e6cded8611070b5ff53526c103d48e103.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16852,
+      "user_id": 21279093,
+      "platform_id": "ig",
+      "platform_user_id": "masonbright__",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-31T23:01:40.000Z",
+      "updated_at": "2023-03-31T23:01:40.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21279093,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T23:06:53.220Z",
+    "updated_at": "2025-04-27T23:06:53.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:06:53.310Z"
+}
