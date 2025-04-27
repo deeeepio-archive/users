@@ -1,0 +1,61 @@
+{
+  "id": 21278015,
+  "username": "糖魚",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-27T10:34:34.000Z",
+  "date_last_played": "2023-06-10T07:04:50.000Z",
+  "profile_views": 2,
+  "kill_count": 14,
+  "play_count": 14,
+  "highest_score": 430370,
+  "picture": "21278015-81b56aa96ed54d773775e6b10bbb96a7c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 24,
+  "tier": 1,
+  "xp": 2100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 16811,
+      "user_id": 21278015,
+      "platform_id": "dc",
+      "platform_user_id": "全糖Whole_sugar#8513",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-03-31T05:00:58.000Z",
+      "updated_at": "2023-03-31T05:00:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21278015,
+    "rank_kc": 234247,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-14T13:01:48.000Z",
+    "rank_pc": 213679,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-14T13:01:49.000Z",
+    "rank_hs": 153873,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-04-14T13:01:50.000Z",
+    "created_at": "2023-06-10T07:04:50.000Z",
+    "updated_at": "2023-06-10T07:04:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:00:00.459Z"
+}

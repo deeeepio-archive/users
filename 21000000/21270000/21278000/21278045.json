@@ -1,0 +1,71 @@
+{
+  "id": 21278045,
+  "username": "Dunkaccino",
+  "description": "GG MOTHA FUCKA!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-27T13:58:27.000Z",
+  "date_last_played": "2024-04-30T13:04:39.000Z",
+  "profile_views": 44,
+  "kill_count": 330,
+  "play_count": 325,
+  "highest_score": 2539845,
+  "picture": "21278045-0cae7856987065d8e2df25e1034babcf4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 103,
+  "tier": 3,
+  "xp": 98700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20382,
+      "user_id": 21278045,
+      "platform_id": "dc",
+      "platform_user_id": "LIgmacock",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-05T01:36:55.000Z",
+      "updated_at": "2023-06-05T01:36:55.000Z"
+    },
+    {
+      "id": 20383,
+      "user_id": 21278045,
+      "platform_id": "ig",
+      "platform_user_id": "All of these are fake",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-05T01:37:16.000Z",
+      "updated_at": "2023-06-05T01:37:16.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21278045,
+    "rank_kc": 55990,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-05T12:01:34.000Z",
+    "rank_pc": 33599,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-05T12:01:35.000Z",
+    "rank_hs": 25781,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-05T01:33:27.000Z",
+    "created_at": "2024-04-30T13:04:38.000Z",
+    "updated_at": "2024-04-30T13:04:39.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:00:13.336Z"
+}
