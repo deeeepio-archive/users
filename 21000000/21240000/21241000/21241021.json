@@ -1,0 +1,61 @@
+{
+  "id": 21241021,
+  "username": "中国mm",
+  "description": "sb ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-26T08:36:40.000Z",
+  "date_last_played": "2023-12-15T01:31:43.000Z",
+  "profile_views": 34,
+  "kill_count": 32,
+  "play_count": 85,
+  "highest_score": 98360,
+  "picture": "21241021-b465c103b39d2abce8e5108da6810ad0294.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 2,
+  "xp": 29250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 13330,
+      "user_id": 21241021,
+      "platform_id": "tw",
+      "platform_user_id": "://beta.deeeep.io/u/中国mm",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-16T08:52:53.000Z",
+      "updated_at": "2023-01-16T08:52:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21241021,
+    "rank_kc": 183471,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-14T01:55:11.000Z",
+    "rank_pc": 84844,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-14T01:55:14.000Z",
+    "rank_hs": 335089,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-14T01:55:16.000Z",
+    "created_at": "2023-12-15T01:31:43.000Z",
+    "updated_at": "2023-12-15T01:31:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T18:50:51.624Z"
+}
