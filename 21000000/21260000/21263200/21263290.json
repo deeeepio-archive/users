@@ -1,0 +1,71 @@
+{
+  "id": 21263290,
+  "username": "bumble_",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-24T18:24:36.000Z",
+  "date_last_played": "2023-01-24T19:36:23.000Z",
+  "profile_views": 2,
+  "kill_count": 2,
+  "play_count": 13,
+  "highest_score": 107165,
+  "picture": "21263290-8f107bb103acb4b56e210e38be12b963f15.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 13818,
+      "user_id": 21263290,
+      "platform_id": "dc",
+      "platform_user_id": "Zenia#7368",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-24T18:39:02.000Z",
+      "updated_at": "2023-01-24T18:39:02.000Z"
+    },
+    {
+      "id": 13819,
+      "user_id": 21263290,
+      "platform_id": "ig",
+      "platform_user_id": "zen_.1a",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-24T18:39:43.000Z",
+      "updated_at": "2023-01-24T18:39:43.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21263290,
+    "rank_kc": 400957,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-24T18:40:36.000Z",
+    "rank_pc": 305168,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-24T18:40:44.000Z",
+    "rank_hs": 536848,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-01-24T18:40:54.000Z",
+    "created_at": "2023-01-24T19:36:22.000Z",
+    "updated_at": "2023-01-24T19:36:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:26:39.634Z"
+}
