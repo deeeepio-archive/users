@@ -1,0 +1,65 @@
+{
+  "id": 21229650,
+  "username": "gamer_boyy",
+  "description": "join us\n\n\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-21T22:11:38.000Z",
+  "date_last_played": "2025-04-20T23:26:02.000Z",
+  "profile_views": 117,
+  "kill_count": 691,
+  "play_count": 1386,
+  "highest_score": 939776,
+  "picture": "21229650-1d2a595a7910d67e9c26df4b7d493ea610.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 3,
+  "xp": 108300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 13978,
+      "user_id": 21229650,
+      "platform_id": "dc",
+      "platform_user_id": "Orion",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-26T22:02:39.000Z",
+      "updated_at": "2023-01-26T22:02:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21229650,
+    "rank_kc": 67172,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-09T14:51:53.000Z",
+    "rank_pc": 16123,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-09T14:51:58.000Z",
+    "rank_hs": 117225,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-09T14:52:00.000Z",
+    "created_at": "2025-04-20T23:55:16.000Z",
+    "updated_at": "2025-04-20T23:55:17.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T17:32:32.475Z"
+}
