@@ -1,0 +1,100 @@
+{
+  "id": 21265648,
+  "username": "Lakioni",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-02T02:44:21.000Z",
+  "date_last_played": "2023-02-05T23:59:37.000Z",
+  "profile_views": 1,
+  "kill_count": 0,
+  "play_count": 35,
+  "highest_score": 107328,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21265648,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T21:40:45.260Z",
+    "updated_at": "2025-04-27T21:40:45.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11692,
+          "user_id": 21265648,
+          "cloneof_id": null,
+          "string_id": "lakioni",
+          "title": "Stupid",
+          "description": "run",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 18,
+          "created_at": "2023-02-06T00:10:55.000Z",
+          "updated_at": "2023-02-06T00:11:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21265648,
+            "username": "Lakioni",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-02-02T02:44:21.000Z",
+            "date_last_played": "2023-02-05T23:59:37.000Z",
+            "kill_count": 0,
+            "play_count": 35,
+            "highest_score": 107328,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 1,
+            "tier": 1,
+            "xp": 150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Grey still plays"
+            },
+            {
+              "id": "never play this"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:40:45.346Z"
+}
