@@ -1,0 +1,61 @@
+{
+  "id": 21221040,
+  "username": "Mr_Mosasaur",
+  "description": "Sorry I killed ya. Check out my youtube channel lol.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-09T02:30:59.000Z",
+  "date_last_played": "2023-06-17T22:43:09.000Z",
+  "profile_views": 4,
+  "kill_count": 8,
+  "play_count": 21,
+  "highest_score": 953588,
+  "picture": "21221040-84a55d5da11ac8ca8d1c9310f6299377d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 2700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 11009,
+      "user_id": 21221040,
+      "platform_id": "yt",
+      "platform_user_id": "Mr. Mosasaur",
+      "platform_user_url": "https://www.youtube.com/c/mrmosasaur",
+      "verified": false,
+      "created_at": "2022-12-09T02:32:09.000Z",
+      "updated_at": "2022-12-09T02:32:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21221040,
+    "rank_kc": 262946,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-10T23:00:50.000Z",
+    "rank_pc": 163053,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-10T23:00:50.000Z",
+    "rank_hs": 89725,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-10T23:00:51.000Z",
+    "created_at": "2023-09-18T10:17:31.000Z",
+    "updated_at": "2023-06-17T22:43:09.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:37:22.281Z"
+}

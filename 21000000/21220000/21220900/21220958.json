@@ -1,0 +1,143 @@
+{
+  "id": 21220958,
+  "username": "hognome2000",
+  "description": "narwhals narwhals swimming in the ocean",
+  "about": "https://youtu.be/bSTo-0M9Mjg\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-08T19:37:29.000Z",
+  "date_last_played": "2023-05-31T18:39:28.000Z",
+  "profile_views": 22,
+  "kill_count": 11,
+  "play_count": 130,
+  "highest_score": 80220,
+  "picture": "21220958-118cfebaa10b11d56941f20971c21c2ed.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 29,
+  "tier": 1,
+  "xp": 2850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21220958,
+    "rank_kc": 230634,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2022-12-20T23:06:09.000Z",
+    "rank_pc": 69605,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2022-12-20T23:06:11.000Z",
+    "rank_hs": 304320,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2022-12-20T19:42:17.000Z",
+    "created_at": "2023-05-31T18:39:27.000Z",
+    "updated_at": "2023-05-31T18:39:28.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11487,
+          "user_id": 21220958,
+          "cloneof_id": null,
+          "string_id": "line1",
+          "title": "line",
+          "description": "just a line",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 22,
+          "created_at": "2022-12-20T20:47:52.000Z",
+          "updated_at": "2022-12-20T20:48:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21220958,
+            "username": "hognome2000",
+            "description": "narwhals narwhals swimming in the ocean",
+            "about": "https://youtu.be/bSTo-0M9Mjg\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-12-08T19:37:29.000Z",
+            "date_last_played": "2023-05-31T18:39:28.000Z",
+            "kill_count": 11,
+            "play_count": 130,
+            "highest_score": 80220,
+            "picture": "21220958-118cfebaa10b11d56941f20971c21c2ed.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 29,
+            "tier": 1,
+            "xp": 2850,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "line"
+            }
+          ]
+        },
+        {
+          "id": 11430,
+          "user_id": 21220958,
+          "cloneof_id": null,
+          "string_id": "test_hehe",
+          "title": "epic",
+          "description": "very epic",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 8,
+          "created_at": "2022-12-09T22:19:13.000Z",
+          "updated_at": "2022-12-09T22:20:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21220958,
+            "username": "hognome2000",
+            "description": "narwhals narwhals swimming in the ocean",
+            "about": "https://youtu.be/bSTo-0M9Mjg\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-12-08T19:37:29.000Z",
+            "date_last_played": "2023-05-31T18:39:28.000Z",
+            "kill_count": 11,
+            "play_count": 130,
+            "highest_score": 80220,
+            "picture": "21220958-118cfebaa10b11d56941f20971c21c2ed.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 29,
+            "tier": 1,
+            "xp": 2850,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "epic"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:37:10.740Z"
+}
