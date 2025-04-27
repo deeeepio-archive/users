@@ -1,0 +1,61 @@
+{
+  "id": 21256733,
+  "username": "eddiewithagun",
+  "description": "yum yum sushi",
+  "about": "i like to sleep",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-18T22:01:53.000Z",
+  "date_last_played": "2023-02-09T20:52:59.000Z",
+  "profile_views": 43,
+  "kill_count": 83,
+  "play_count": 75,
+  "highest_score": 604930,
+  "picture": "21256733-ff7ca10962510d04e58dbbe7acbb46f54c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 125,
+  "tier": 1,
+  "xp": 18900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14405,
+      "user_id": 21256733,
+      "platform_id": "dc",
+      "platform_user_id": "ee-dee#0201",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-03T13:58:13.000Z",
+      "updated_at": "2023-02-03T13:58:13.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21256733,
+    "rank_kc": 105108,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-02-03T13:54:18.000Z",
+    "rank_pc": 74462,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-03T13:54:24.000Z",
+    "rank_hs": 119687,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-02-03T13:54:30.000Z",
+    "created_at": "2023-02-09T20:52:58.000Z",
+    "updated_at": "2023-02-09T20:52:59.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:42:32.600Z"
+}
