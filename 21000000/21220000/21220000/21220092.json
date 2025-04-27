@@ -1,0 +1,61 @@
+{
+  "id": 21220092,
+  "username": "Coral_",
+  "description": "gg.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-05T17:10:38.000Z",
+  "date_last_played": "2023-07-09T03:07:28.000Z",
+  "profile_views": 10,
+  "kill_count": 95,
+  "play_count": 23,
+  "highest_score": 983579,
+  "picture": "21220092-fad4d06f4ba85440eac232f56426b276.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 109,
+  "tier": 1,
+  "xp": 14850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 10874,
+      "user_id": 21220092,
+      "platform_id": "dc",
+      "platform_user_id": "Coral#0518",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-05T17:13:11.000Z",
+      "updated_at": "2022-12-05T17:13:11.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21220092,
+    "rank_kc": 105137,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-07-09T03:24:51.000Z",
+    "rank_pc": 145934,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-07-09T03:24:52.000Z",
+    "rank_hs": 88577,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-08T04:32:35.000Z",
+    "created_at": "2023-11-18T02:28:24.000Z",
+    "updated_at": "2023-07-09T03:24:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:31:44.928Z"
+}
