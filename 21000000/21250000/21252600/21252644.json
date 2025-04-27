@@ -1,0 +1,61 @@
+{
+  "id": 21252644,
+  "username": "lolOWOoldtow",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-01T08:56:15.000Z",
+  "date_last_played": "2023-05-10T07:32:42.000Z",
+  "profile_views": 6,
+  "kill_count": 42,
+  "play_count": 57,
+  "highest_score": 420635,
+  "picture": "21252644-f293161bc8dc38fa61a5739a128199fa.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 31,
+  "tier": 1,
+  "xp": 3150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17593,
+      "user_id": 21252644,
+      "platform_id": "dc",
+      "platform_user_id": "lolOWOoldtow#8845",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-16T06:59:34.000Z",
+      "updated_at": "2023-04-16T07:02:34.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21252644,
+    "rank_kc": 159973,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-16T06:59:22.000Z",
+    "rank_pc": 105127,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-16T06:59:23.000Z",
+    "rank_hs": 156090,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-04-16T06:59:24.000Z",
+    "created_at": "2023-05-10T07:32:41.000Z",
+    "updated_at": "2023-05-10T07:32:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:12:25.132Z"
+}
