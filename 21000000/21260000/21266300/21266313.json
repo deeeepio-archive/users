@@ -1,0 +1,61 @@
+{
+  "id": 21266313,
+  "username": "Unk0wnF1shy",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-04T22:40:39.000Z",
+  "date_last_played": "2023-02-15T09:21:36.000Z",
+  "profile_views": 4,
+  "kill_count": 25,
+  "play_count": 29,
+  "highest_score": 345876,
+  "picture": "21266313-10b847ddff7e517a51021c8eda49e101229.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 30,
+  "tier": 1,
+  "xp": 3000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14467,
+      "user_id": 21266313,
+      "platform_id": "dc",
+      "platform_user_id": "Conny444",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-04T22:41:28.000Z",
+      "updated_at": "2023-02-04T22:41:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21266313,
+    "rank_kc": 402906,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-04T22:41:10.000Z",
+    "rank_pc": 307776,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-04T22:41:15.000Z",
+    "rank_hs": 539376,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-04T22:41:21.000Z",
+    "created_at": "2023-02-15T09:21:35.000Z",
+    "updated_at": "2023-02-15T09:21:36.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:45:17.800Z"
+}
