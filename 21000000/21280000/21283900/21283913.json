@@ -1,0 +1,61 @@
+{
+  "id": 21283913,
+  "username": "otylkaa",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-19T20:12:29.000Z",
+  "date_last_played": "2023-12-24T20:35:22.000Z",
+  "profile_views": 27,
+  "kill_count": 61,
+  "play_count": 27,
+  "highest_score": 58250,
+  "picture": "21283913-fc43f9abdce3e4104f7d4e076c3fb4e4d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 79,
+  "tier": 1,
+  "xp": 13350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17755,
+      "user_id": 21283913,
+      "platform_id": "ig",
+      "platform_user_id": "otylia.bolek",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-19T20:17:59.000Z",
+      "updated_at": "2023-04-19T20:17:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21283913,
+    "rank_kc": 148452,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-03T08:54:15.000Z",
+    "rank_pc": 151126,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-03T08:54:36.000Z",
+    "rank_hs": 365881,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-02T17:22:10.000Z",
+    "created_at": "2023-12-24T20:35:22.000Z",
+    "updated_at": "2023-12-24T20:35:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:36:21.020Z"
+}
