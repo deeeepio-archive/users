@@ -1,0 +1,108 @@
+{
+  "id": 21266503,
+  "username": "NatThePig",
+  "description": "I'm sorry but if you will please consider checking out my YT channel it would be amazing! Good Luck in your next game TTFN Ta Ta for now!",
+  "about": "I am a PIG that always includes any other PIG that wants to play pass the BEANS.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-05T18:25:51.000Z",
+  "date_last_played": "2024-04-13T21:01:12.000Z",
+  "profile_views": 29,
+  "kill_count": 64,
+  "play_count": 79,
+  "highest_score": 397785,
+  "picture": "21266503-61eb18422fc6db99cd149a560fb8886d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 9,
+  "tier": 1,
+  "xp": 11250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14539,
+      "user_id": 21266503,
+      "platform_id": "yt",
+      "platform_user_id": "NatThePig360@gmail.com",
+      "platform_user_url": "https://www.youtube.com/channel/UClc74CM5RL5U0TxreK6FDMw?app=desktop",
+      "verified": false,
+      "created_at": "2023-02-05T18:37:48.000Z",
+      "updated_at": "2023-02-05T18:37:48.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21266503,
+    "rank_kc": 151350,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-19T06:21:06.000Z",
+    "rank_pc": 96409,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-19T06:21:14.000Z",
+    "rank_hs": 157169,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-19T06:20:30.000Z",
+    "created_at": "2024-04-13T21:01:12.000Z",
+    "updated_at": "2024-04-13T21:01:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11693,
+          "user_id": 21266503,
+          "cloneof_id": null,
+          "string_id": "_2hds",
+          "title": "CURRENT",
+          "description": "A strong current",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 55,
+          "created_at": "2023-02-06T03:58:44.000Z",
+          "updated_at": "2023-02-06T04:11:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21266503,
+            "username": "NatThePig",
+            "description": "I'm sorry but if you will please consider checking out my YT channel it would be amazing! Good Luck in your next game TTFN Ta Ta for now!",
+            "about": "I am a PIG that always includes any other PIG that wants to play pass the BEANS.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-02-05T18:25:51.000Z",
+            "date_last_played": "2024-04-13T21:01:12.000Z",
+            "kill_count": 64,
+            "play_count": 79,
+            "highest_score": 397785,
+            "picture": "21266503-61eb18422fc6db99cd149a560fb8886d.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 9,
+            "tier": 1,
+            "xp": 11250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "HI"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:46:42.536Z"
+}

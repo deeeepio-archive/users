@@ -1,0 +1,91 @@
+{
+  "id": 21266546,
+  "username": "Tad",
+  "description": "Hey, at least ya tried!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-05T22:56:35.000Z",
+  "date_last_played": "2023-02-05T23:21:01.000Z",
+  "profile_views": 2,
+  "kill_count": 2,
+  "play_count": 8,
+  "highest_score": 74080,
+  "picture": "21266546-5b6de3ab3408fae48c85e76b7ceafdfd.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14547,
+      "user_id": 21266546,
+      "platform_id": "dc",
+      "platform_user_id": "ARC#9779",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-05T22:57:27.000Z",
+      "updated_at": "2023-02-05T22:57:27.000Z"
+    },
+    {
+      "id": 14549,
+      "user_id": 21266546,
+      "platform_id": "rd",
+      "platform_user_id": "PriorRemoval",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-05T22:57:55.000Z",
+      "updated_at": "2023-02-05T22:57:55.000Z"
+    },
+    {
+      "id": 14548,
+      "user_id": 21266546,
+      "platform_id": "tw",
+      "platform_user_id": "@Dan_RGM",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-05T22:57:45.000Z",
+      "updated_at": "2023-02-05T22:57:45.000Z"
+    },
+    {
+      "id": 14550,
+      "user_id": 21266546,
+      "platform_id": "yt",
+      "platform_user_id": "ARC",
+      "platform_user_url": "https://www.youtube.com/channel/UC2bwZzBmvdKfefrFbk0QrEA",
+      "verified": false,
+      "created_at": "2023-02-05T22:59:33.000Z",
+      "updated_at": "2023-02-05T22:59:33.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21266546,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T21:46:54.163Z",
+    "updated_at": "2025-04-27T21:46:54.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:46:54.251Z"
+}
