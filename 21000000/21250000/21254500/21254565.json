@@ -1,0 +1,61 @@
+{
+  "id": 21254565,
+  "username": "Madmon",
+  "description": "Get better, eat chicken nuggetz 🍗",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-09T20:15:01.000Z",
+  "date_last_played": "2025-02-13T17:22:02.000Z",
+  "profile_views": 81,
+  "kill_count": 250,
+  "play_count": 155,
+  "highest_score": 357284,
+  "picture": "21254565-279a2adc621dda4dfa105d8113521776f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 49,
+  "tier": 2,
+  "xp": 55050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92235,
+      "user_id": 21254565,
+      "platform_id": "dc",
+      "platform_user_id": "madmon924",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-26T00:52:35.000Z",
+      "updated_at": "2024-02-26T00:52:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21254565,
+    "rank_kc": 117017,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-20T22:54:17.000Z",
+    "rank_pc": 81269,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-20T22:54:18.000Z",
+    "rank_hs": 169075,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-20T22:54:20.000Z",
+    "created_at": "2025-02-13T17:22:01.000Z",
+    "updated_at": "2025-02-13T17:22:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:24:51.063Z"
+}
