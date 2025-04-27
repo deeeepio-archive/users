@@ -1,0 +1,141 @@
+{
+  "id": 21284848,
+  "username": "Sweaty_Milky_Terry",
+  "description": "Good luck next time!  I'm sorry but I'm a slayer   <(/w＼)■ ",
+  "about": "Hi i am Polish Player!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-22T20:35:31.000Z",
+  "date_last_played": "2025-02-28T21:45:06.000Z",
+  "profile_views": 2200,
+  "kill_count": 1413,
+  "play_count": 1363,
+  "highest_score": 317335,
+  "picture": "21284848-6f9db5866a5ddab914d4dfc746f76c58-73de7ebe-d88b-4f2a-9084-39e7f986dc97.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 118,
+  "tier": 10,
+  "xp": 1150950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 98691,
+      "user_id": 21284848,
+      "platform_id": "dc",
+      "platform_user_id": "Milky Terry: 938901730760990720",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-09-20T20:10:37.000Z",
+      "updated_at": "2024-09-20T20:13:57.000Z"
+    },
+    {
+      "id": 98683,
+      "user_id": 21284848,
+      "platform_id": "fb",
+      "platform_user_id": "Milky Terry",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=100095139553654",
+      "verified": false,
+      "created_at": "2024-09-20T20:08:34.000Z",
+      "updated_at": "2024-09-20T20:08:34.000Z"
+    },
+    {
+      "id": 22149,
+      "user_id": 21284848,
+      "platform_id": "yt",
+      "platform_user_id": "Milly Terry",
+      "platform_user_url": "https://www.youtube.com/channel/UCc-E1p_SKBGH35IsLpv117g",
+      "verified": false,
+      "created_at": "2023-07-05T21:16:10.000Z",
+      "updated_at": "2024-09-20T20:11:24.000Z"
+    },
+    {
+      "id": 98695,
+      "user_id": 21284848,
+      "platform_id": "yt",
+      "platform_user_id": "Milly Terry Games",
+      "platform_user_url": "https://www.youtube.com/channel/UC1qI_5Ws6Tq5YgbFjOM7u1g",
+      "verified": false,
+      "created_at": "2024-09-20T20:13:01.000Z",
+      "updated_at": "2024-09-20T20:13:01.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21284848,
+    "rank_kc": 41660,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-12T22:24:07.000Z",
+    "rank_pc": 31792,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-12T22:24:10.000Z",
+    "rank_hs": 223184,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-12T22:24:13.000Z",
+    "created_at": "2025-02-28T21:45:06.000Z",
+    "updated_at": "2025-02-28T21:45:06.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244384,
+          "user_id": 21284848,
+          "cloneof_id": null,
+          "string_id": "milky_new_map",
+          "title": "New world",
+          "description": "It's my first map...",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 23,
+          "created_at": "2024-06-28T14:35:43.000Z",
+          "updated_at": "2024-06-28T14:42:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21284848,
+            "username": "Sweaty_Milky_Terry",
+            "description": "Good luck next time!  I'm sorry but I'm a slayer   <(/w＼)■ ",
+            "about": "Hi i am Polish Player!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-04-22T20:35:31.000Z",
+            "date_last_played": "2025-02-28T21:45:06.000Z",
+            "kill_count": 1413,
+            "play_count": 1363,
+            "highest_score": 317335,
+            "picture": "21284848-6f9db5866a5ddab914d4dfc746f76c58-73de7ebe-d88b-4f2a-9084-39e7f986dc97.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 118,
+            "tier": 10,
+            "xp": 1150950,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "First map"
+            },
+            {
+              "id": "New map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:42:25.111Z"
+}
