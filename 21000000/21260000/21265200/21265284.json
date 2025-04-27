@@ -1,0 +1,61 @@
+{
+  "id": 21265284,
+  "username": "LowsToHighs",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-31T18:18:51.000Z",
+  "date_last_played": "2023-02-13T18:54:20.000Z",
+  "profile_views": 3,
+  "kill_count": 6,
+  "play_count": 35,
+  "highest_score": 145790,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 16,
+  "tier": 1,
+  "xp": 900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14290,
+      "user_id": 21265284,
+      "platform_id": "dc",
+      "platform_user_id": "https://web.telegram.org/z/",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-31T18:24:32.000Z",
+      "updated_at": "2023-01-31T18:24:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21265284,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T21:38:18.541Z",
+    "updated_at": "2025-04-27T21:38:19.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:38:18.625Z"
+}
