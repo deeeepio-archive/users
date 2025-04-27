@@ -1,0 +1,97 @@
+{
+  "id": 21287435,
+  "username": "Aurora_",
+  "description": "Founder of BUB\nI HATE TURTS AND UNITY\nGet Clapped Noob\n",
+  "about": "I HATE TURTS AND UNITY",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-01T15:41:02.000Z",
+  "date_last_played": "2024-10-17T01:38:03.000Z",
+  "profile_views": 81,
+  "kill_count": 3633,
+  "play_count": 1621,
+  "highest_score": 3844425,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 356,
+  "tier": 8,
+  "xp": 808650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21287435,
+    "rank_kc": 10266,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-27T03:17:22.000Z",
+    "rank_pc": 9267,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-27T03:17:23.000Z",
+    "rank_hs": 13031,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-27T03:17:24.000Z",
+    "created_at": "2024-10-17T01:38:03.000Z",
+    "updated_at": "2024-10-17T01:38:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12721,
+          "user_id": 21287435,
+          "cloneof_id": null,
+          "string_id": "aurora_",
+          "title": "Super paradise",
+          "description": "ho",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 12,
+          "created_at": "2023-08-18T00:43:27.000Z",
+          "updated_at": "2023-08-18T00:43:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21287435,
+            "username": "Aurora_",
+            "description": "Founder of BUB\nI HATE TURTS AND UNITY\nGet Clapped Noob\n",
+            "about": "I HATE TURTS AND UNITY",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-01T15:41:02.000Z",
+            "date_last_played": "2024-10-17T01:38:03.000Z",
+            "kill_count": 3633,
+            "play_count": 1621,
+            "highest_score": 3844425,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 356,
+            "tier": 8,
+            "xp": 808650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hehe"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:58:52.909Z"
+}

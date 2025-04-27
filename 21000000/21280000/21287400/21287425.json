@@ -1,0 +1,50 @@
+{
+  "id": 21287425,
+  "username": "hellooflife",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-01T15:18:28.000Z",
+  "date_last_played": "2023-09-29T13:27:36.000Z",
+  "profile_views": 10,
+  "kill_count": 0,
+  "play_count": 40,
+  "highest_score": 52755,
+  "picture": "21287425-5a113e7ca17f180b5d5255c619cb639c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21287425,
+    "rank_kc": 437122,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-09-11T17:33:21.000Z",
+    "rank_pc": 123224,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-11T17:33:22.000Z",
+    "rank_hs": 391026,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-11T17:33:23.000Z",
+    "created_at": "2023-09-29T13:27:35.000Z",
+    "updated_at": "2023-09-29T13:27:36.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:58:49.388Z"
+}
