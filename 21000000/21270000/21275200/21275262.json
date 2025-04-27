@@ -1,0 +1,97 @@
+{
+  "id": 21275262,
+  "username": "sabagamer",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-15T13:26:58.000Z",
+  "date_last_played": "2023-08-21T05:28:07.000Z",
+  "profile_views": 6,
+  "kill_count": 10,
+  "play_count": 15,
+  "highest_score": 462330,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 17,
+  "tier": 1,
+  "xp": 2550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21275262,
+    "rank_kc": 252900,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-08-21T05:19:27.000Z",
+    "rank_pc": 189332,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-21T05:19:28.000Z",
+    "rank_hs": 156963,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-21T05:19:30.000Z",
+    "created_at": "2023-08-21T05:28:07.000Z",
+    "updated_at": "2023-08-21T05:28:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11910,
+          "user_id": 21275262,
+          "cloneof_id": 11909,
+          "string_id": "oli_map",
+          "title": "nothing",
+          "description": "hi oli",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 30,
+          "created_at": "2023-03-17T12:53:08.000Z",
+          "updated_at": "2023-03-17T12:53:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21275262,
+            "username": "sabagamer",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-03-15T13:26:58.000Z",
+            "date_last_played": "2023-08-21T05:28:07.000Z",
+            "kill_count": 10,
+            "play_count": 15,
+            "highest_score": 462330,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 17,
+            "tier": 1,
+            "xp": 2550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "xdddd lol"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:42:49.277Z"
+}
