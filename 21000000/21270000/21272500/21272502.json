@@ -1,0 +1,210 @@
+{
+  "id": 21272502,
+  "username": "CHOU_YEAHHHHHHHH",
+  "description": "Remember that one time when I absolutely pwned you on sword fights on the heights",
+  "about": "appreciate life",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-04T07:05:20.000Z",
+  "date_last_played": "2025-04-26T08:48:13.000Z",
+  "profile_views": 434,
+  "kill_count": 3284,
+  "play_count": 2171,
+  "highest_score": 3914624,
+  "picture": "21272502-c96560651ed237ab1010837871f177efcd.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 161,
+  "tier": 8,
+  "xp": 798750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30485,
+      "user_id": 21272502,
+      "platform_id": "yt",
+      "platform_user_id": "don't click",
+      "platform_user_url": "https://youtu.be/6VMRAGxjOoA?si=eAuYZFmFvYsG4aTv",
+      "verified": false,
+      "created_at": "2023-12-09T09:28:34.000Z",
+      "updated_at": "2023-12-09T09:28:34.000Z"
+    },
+    {
+      "id": 30978,
+      "user_id": 21272502,
+      "platform_id": "yt",
+      "platform_user_id": "I told you",
+      "platform_user_url": "https://www.youtube.com/watch?v=ikFU29-gM0Q",
+      "verified": false,
+      "created_at": "2023-12-19T06:25:08.000Z",
+      "updated_at": "2023-12-19T06:25:08.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21272502,
+    "rank_kc": 10511,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-27T08:03:19.000Z",
+    "rank_pc": 5702,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-27T08:03:20.000Z",
+    "rank_hs": 13421,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-26T09:22:58.000Z",
+    "created_at": "2025-04-26T08:48:12.000Z",
+    "updated_at": "2025-04-26T08:48:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12554,
+          "user_id": 21272502,
+          "cloneof_id": null,
+          "string_id": "4325",
+          "title": "Freezing Sharks",
+          "description": "a place where artic animals love",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 38,
+          "created_at": "2023-07-11T23:48:49.000Z",
+          "updated_at": "2023-07-12T02:22:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21272502,
+            "username": "CHOU_YEAHHHHHHHH",
+            "description": "Remember that one time when I absolutely pwned you on sword fights on the heights",
+            "about": "appreciate life",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-03-04T07:05:20.000Z",
+            "date_last_played": "2025-04-26T08:48:13.000Z",
+            "kill_count": 3284,
+            "play_count": 2171,
+            "highest_score": 3914624,
+            "picture": "21272502-c96560651ed237ab1010837871f177efcd.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 161,
+            "tier": 8,
+            "xp": 798750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hello "
+            }
+          ]
+        },
+        {
+          "id": 12552,
+          "user_id": 21272502,
+          "cloneof_id": null,
+          "string_id": "1269",
+          "title": "Splashing Fishes",
+          "description": "kinda smol",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 49,
+          "created_at": "2023-07-11T10:07:00.000Z",
+          "updated_at": "2023-07-12T02:23:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21272502,
+            "username": "CHOU_YEAHHHHHHHH",
+            "description": "Remember that one time when I absolutely pwned you on sword fights on the heights",
+            "about": "appreciate life",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-03-04T07:05:20.000Z",
+            "date_last_played": "2025-04-26T08:48:13.000Z",
+            "kill_count": 3284,
+            "play_count": 2171,
+            "highest_score": 3914624,
+            "picture": "21272502-c96560651ed237ab1010837871f177efcd.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 161,
+            "tier": 8,
+            "xp": 798750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hi"
+            }
+          ]
+        },
+        {
+          "id": 12548,
+          "user_id": 21272502,
+          "cloneof_id": null,
+          "string_id": "jacob1269",
+          "title": "unfinished map",
+          "description": "hope someone see this .,.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 7,
+          "created_at": "2023-07-10T10:30:42.000Z",
+          "updated_at": "2023-07-10T10:30:44.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21272502,
+            "username": "CHOU_YEAHHHHHHHH",
+            "description": "Remember that one time when I absolutely pwned you on sword fights on the heights",
+            "about": "appreciate life",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-03-04T07:05:20.000Z",
+            "date_last_played": "2025-04-26T08:48:13.000Z",
+            "kill_count": 3284,
+            "play_count": 2171,
+            "highest_score": 3914624,
+            "picture": "21272502-c96560651ed237ab1010837871f177efcd.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 161,
+            "tier": 8,
+            "xp": 798750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": ":)"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:25:16.571Z"
+}

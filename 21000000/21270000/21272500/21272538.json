@@ -1,0 +1,61 @@
+{
+  "id": 21272538,
+  "username": "MiniBurger",
+  "description": "hey bro, sorry :/",
+  "about": "great game",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-04T10:19:48.000Z",
+  "date_last_played": "2025-02-23T16:18:45.000Z",
+  "profile_views": 55,
+  "kill_count": 455,
+  "play_count": 349,
+  "highest_score": 2041003,
+  "picture": "21272538-5c5e10c0abdc1294c2a4d2baeef31021eb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 194,
+  "tier": 3,
+  "xp": 89850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17226,
+      "user_id": 21272538,
+      "platform_id": "yt",
+      "platform_user_id": "MiniBurger",
+      "platform_user_url": "https://www.youtube.com/channel/UCh27TOW0u2XTKyCIJmQilHQ",
+      "verified": false,
+      "created_at": "2023-04-08T09:14:38.000Z",
+      "updated_at": "2023-04-08T09:14:38.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21272538,
+    "rank_kc": 45283,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-30T14:04:07.000Z",
+    "rank_pc": 31167,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-30T14:04:11.000Z",
+    "rank_hs": 35606,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-04-30T14:04:14.000Z",
+    "created_at": "2025-02-23T16:18:44.000Z",
+    "updated_at": "2025-02-23T16:18:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:25:21.587Z"
+}
