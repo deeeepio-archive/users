@@ -1,0 +1,71 @@
+{
+  "id": 21241498,
+  "username": "CREEMER",
+  "description": "Be Smegma",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-27T21:51:29.000Z",
+  "date_last_played": "2024-08-24T11:16:09.000Z",
+  "profile_views": 119,
+  "kill_count": 2183,
+  "play_count": 890,
+  "highest_score": 5306895,
+  "picture": "21241498-da17b2d6fd951020fddbe19f294583a1d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 196,
+  "tier": 6,
+  "xp": 473400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 24482,
+      "user_id": 21241498,
+      "platform_id": "dc",
+      "platform_user_id": "coooleoman",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-13T07:34:10.000Z",
+      "updated_at": "2023-08-13T07:34:10.000Z"
+    },
+    {
+      "id": 16440,
+      "user_id": 21241498,
+      "platform_id": "yt",
+      "platform_user_id": "N_E_CHEATS",
+      "platform_user_url": "https://www.youtube.com/channel/UCeD0ufDUyggOQH_9-SmesvA",
+      "verified": false,
+      "created_at": "2023-03-19T23:24:57.000Z",
+      "updated_at": "2023-03-19T23:24:57.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21241498,
+    "rank_kc": 15416,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-22T00:56:35.000Z",
+    "rank_pc": 16823,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-22T00:56:36.000Z",
+    "rank_hs": 12504,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-22T00:56:37.000Z",
+    "created_at": "2024-08-24T11:16:09.000Z",
+    "updated_at": "2024-08-24T11:16:09.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T18:56:39.215Z"
+}
