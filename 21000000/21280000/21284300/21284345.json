@@ -1,0 +1,71 @@
+{
+  "id": 21284345,
+  "username": "cebulka",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-21T13:02:40.000Z",
+  "date_last_played": "2024-07-23T06:37:24.000Z",
+  "profile_views": 149,
+  "kill_count": 519,
+  "play_count": 852,
+  "highest_score": 1519026,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 247,
+  "tier": 3,
+  "xp": 127800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94975,
+      "user_id": 21284345,
+      "platform_id": "ig",
+      "platform_user_id": "poknb  fbk,tvd",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-05-28T17:50:18.000Z",
+      "updated_at": "2024-05-28T17:50:33.000Z"
+    },
+    {
+      "id": 95103,
+      "user_id": 21284345,
+      "platform_id": "wb",
+      "platform_user_id": "fre",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-03T11:11:24.000Z",
+      "updated_at": "2024-06-03T11:11:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21284345,
+    "rank_kc": 53131,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-23T11:56:48.000Z",
+    "rank_pc": 18725,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-23T11:56:52.000Z",
+    "rank_hs": 57132,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-23T11:56:59.000Z",
+    "created_at": "2024-07-23T06:37:24.000Z",
+    "updated_at": "2024-07-23T06:37:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:39:25.732Z"
+}

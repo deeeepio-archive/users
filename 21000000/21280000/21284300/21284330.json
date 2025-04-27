@@ -1,0 +1,97 @@
+{
+  "id": 21284330,
+  "username": "AlexAnimation",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-21T11:32:15.000Z",
+  "date_last_played": "2023-06-11T17:48:02.000Z",
+  "profile_views": 9,
+  "kill_count": 8,
+  "play_count": 67,
+  "highest_score": 236834,
+  "picture": "21284330-65cd791e3afe6dd91a86a491d39bec4b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 9,
+  "tier": 1,
+  "xp": 2100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21284330,
+    "rank_kc": 263007,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-11T17:24:17.000Z",
+    "rank_pc": 87229,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-11T17:24:18.000Z",
+    "rank_hs": 218001,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-11T17:24:19.000Z",
+    "created_at": "2023-09-19T01:35:00.000Z",
+    "updated_at": "2023-06-11T17:48:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12077,
+          "user_id": 21284330,
+          "cloneof_id": null,
+          "string_id": "my_jungle_map",
+          "title": "Jengle",
+          "description": "a map where you are born in a jungle and need to survive several hunters, good luck ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-04-22T22:13:20.000Z",
+          "updated_at": "2023-04-22T22:13:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21284330,
+            "username": "AlexAnimation",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-04-21T11:32:15.000Z",
+            "date_last_played": "2023-06-11T17:48:02.000Z",
+            "kill_count": 8,
+            "play_count": 67,
+            "highest_score": 236834,
+            "picture": "21284330-65cd791e3afe6dd91a86a491d39bec4b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 9,
+            "tier": 1,
+            "xp": 2100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Tag"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:39:21.890Z"
+}
