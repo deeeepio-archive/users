@@ -1,0 +1,97 @@
+{
+  "id": 21271035,
+  "username": "Ariette",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-25T18:30:26.000Z",
+  "date_last_played": "2023-05-24T02:20:43.000Z",
+  "profile_views": 13,
+  "kill_count": 10,
+  "play_count": 108,
+  "highest_score": 325137,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 34,
+  "tier": 1,
+  "xp": 3600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21271035,
+    "rank_kc": 244147,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-27T04:52:31.000Z",
+    "rank_pc": 69923,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-27T04:52:32.000Z",
+    "rank_hs": 176097,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-02-27T04:52:33.000Z",
+    "created_at": "2023-05-24T02:20:42.000Z",
+    "updated_at": "2023-05-24T02:20:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11841,
+          "user_id": 21271035,
+          "cloneof_id": null,
+          "string_id": "56684",
+          "title": "Untitled",
+          "description": "its a bit unfinish and it doesnt look good cause im not good a creating maps.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 9,
+          "created_at": "2023-03-01T04:13:55.000Z",
+          "updated_at": "2023-03-01T04:16:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21271035,
+            "username": "Ariette",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-02-25T18:30:26.000Z",
+            "date_last_played": "2023-05-24T02:20:43.000Z",
+            "kill_count": 10,
+            "play_count": 108,
+            "highest_score": 325137,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 34,
+            "tier": 1,
+            "xp": 3600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "000000"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:16:00.835Z"
+}
