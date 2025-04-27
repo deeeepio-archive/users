@@ -1,0 +1,61 @@
+{
+  "id": 21284225,
+  "username": "dingus",
+  "description": "well beans",
+  "about": "i wanna die",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-20T23:07:41.000Z",
+  "date_last_played": "2025-02-25T22:02:12.000Z",
+  "profile_views": 42,
+  "kill_count": 57,
+  "play_count": 202,
+  "highest_score": 1291282,
+  "picture": "21284225-be8078186010924ec8c3429b99a3dfc15.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 131,
+  "tier": 1,
+  "xp": 18150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17790,
+      "user_id": 21284225,
+      "platform_id": "dc",
+      "platform_user_id": "Dingus#4882",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-20T23:17:31.000Z",
+      "updated_at": "2023-04-20T23:17:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21284225,
+    "rank_kc": 142281,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-22T18:05:58.000Z",
+    "rank_pc": 61986,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-22T18:05:59.000Z",
+    "rank_hs": 65123,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-05-22T18:06:01.000Z",
+    "created_at": "2025-02-25T22:02:11.000Z",
+    "updated_at": "2025-02-25T22:02:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:38:32.127Z"
+}
