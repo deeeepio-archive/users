@@ -1,0 +1,61 @@
+{
+  "id": 21281481,
+  "username": "소라게",
+  "description": "너는 먹이 나는 먹기",
+  "about": "나는 소라게\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-11T08:42:11.000Z",
+  "date_last_played": "2023-10-29T04:25:23.000Z",
+  "profile_views": 10,
+  "kill_count": 17,
+  "play_count": 21,
+  "highest_score": 272430,
+  "picture": "21281481-817419aa96fdd65e0e16dabe7d09a1b1.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 2100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 19083,
+      "user_id": 21281481,
+      "platform_id": "dc",
+      "platform_user_id": "seococo#1296 ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-12T08:43:28.000Z",
+      "updated_at": "2023-05-12T08:43:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21281481,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T23:20:23.699Z",
+    "updated_at": "2025-04-27T23:20:24.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:20:23.752Z"
+}
