@@ -1,0 +1,61 @@
+{
+  "id": 21253179,
+  "username": "shrexy",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-03T17:58:20.000Z",
+  "date_last_played": "2023-02-25T01:38:30.000Z",
+  "profile_views": 5,
+  "kill_count": 11,
+  "play_count": 55,
+  "highest_score": 233635,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 20,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12503,
+      "user_id": 21253179,
+      "platform_id": "dc",
+      "platform_user_id": "gremlin#7767",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-03T18:00:08.000Z",
+      "updated_at": "2023-01-03T18:00:08.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21253179,
+    "rank_kc": 233645,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-20T02:18:09.000Z",
+    "rank_pc": 90146,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-20T02:18:12.000Z",
+    "rank_hs": 203838,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-01-20T02:18:14.000Z",
+    "created_at": "2023-02-25T01:38:30.000Z",
+    "updated_at": "2023-02-25T01:38:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:16:03.950Z"
+}
