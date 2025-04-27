@@ -1,0 +1,71 @@
+{
+  "id": 21287225,
+  "username": "CloudWay",
+  "description": "Set your heart a blaze-Kyojuro",
+  "about": "Small Polish Youtuber",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-30T18:58:41.000Z",
+  "date_last_played": "2023-05-04T17:41:09.000Z",
+  "profile_views": 21,
+  "kill_count": 51,
+  "play_count": 95,
+  "highest_score": 192806,
+  "picture": "21287225-10515e1db4616483101842f3a1c7dd107c8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 52,
+  "tier": 1,
+  "xp": 7800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18405,
+      "user_id": 21287225,
+      "platform_id": "dc",
+      "platform_user_id": "CloudWay#4410",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-01T16:37:07.000Z",
+      "updated_at": "2023-05-01T16:37:07.000Z"
+    },
+    {
+      "id": 18406,
+      "user_id": 21287225,
+      "platform_id": "yt",
+      "platform_user_id": "CloudWay098",
+      "platform_user_url": "https://www.youtube.com/channel/UChOKkiqJ2Bq5jv5b4Y4wyLA",
+      "verified": false,
+      "created_at": "2023-05-01T16:38:22.000Z",
+      "updated_at": "2023-05-01T16:38:22.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21287225,
+    "rank_kc": 167507,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-03T14:25:38.000Z",
+    "rank_pc": 73818,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-03T14:25:40.000Z",
+    "rank_hs": 247725,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-03T14:25:41.000Z",
+    "created_at": "2023-05-04T17:41:08.000Z",
+    "updated_at": "2023-05-04T17:41:09.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:57:16.285Z"
+}
