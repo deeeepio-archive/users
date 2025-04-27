@@ -1,0 +1,71 @@
+{
+  "id": 21182802,
+  "username": "darkninx",
+  "description": "get back on and kill me\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-25T16:07:47.000Z",
+  "date_last_played": "2025-01-10T20:56:47.000Z",
+  "profile_views": 72,
+  "kill_count": 1039,
+  "play_count": 1045,
+  "highest_score": 1300656,
+  "picture": "21182802-c3c6154d997109c5e701ff30c5f9fa9ab.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 371,
+  "tier": 3,
+  "xp": 128700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 14734,
+      "user_id": 21182802,
+      "platform_id": "dc",
+      "platform_user_id": "darkninx",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-08T20:20:22.000Z",
+      "updated_at": "2023-02-08T20:20:22.000Z"
+    },
+    {
+      "id": 14733,
+      "user_id": 21182802,
+      "platform_id": "dc",
+      "platform_user_id": "darkninx#4542",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-08T20:17:07.000Z",
+      "updated_at": "2023-02-08T20:17:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21182802,
+    "rank_kc": 26602,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-24T19:49:58.000Z",
+    "rank_pc": 12669,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-24T19:50:05.000Z",
+    "rank_hs": 61810,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-02-24T19:50:11.000Z",
+    "created_at": "2025-01-10T20:56:46.000Z",
+    "updated_at": "2025-01-10T20:56:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T12:37:17.884Z"
+}
