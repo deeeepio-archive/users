@@ -1,0 +1,50 @@
+{
+  "id": 21220660,
+  "username": "pp123",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-07T18:45:23.000Z",
+  "date_last_played": "2023-09-19T15:53:45.000Z",
+  "profile_views": 10,
+  "kill_count": 2,
+  "play_count": 28,
+  "highest_score": 60130,
+  "picture": "21220660-a29f3edc9337e57892c134df9aa53a3c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 22,
+  "tier": 1,
+  "xp": 1800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21220660,
+    "rank_kc": 390210,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-19T15:40:31.000Z",
+    "rank_pc": 161605,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-19T15:40:32.000Z",
+    "rank_hs": 414721,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-19T15:40:33.000Z",
+    "created_at": "2023-09-19T15:53:45.000Z",
+    "updated_at": "2023-09-19T15:53:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:35:22.981Z"
+}
