@@ -1,0 +1,81 @@
+{
+  "id": 21218214,
+  "username": "ttvdjmikee",
+  "description": "IM THE TYPE OF PERSON TO STAND ON BUSINESS  ",
+  "about": "hi ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-11-28T00:02:31.000Z",
+  "date_last_played": "2024-05-08T12:26:56.000Z",
+  "profile_views": 41,
+  "kill_count": 1131,
+  "play_count": 965,
+  "highest_score": 3248328,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 441,
+  "tier": 4,
+  "xp": 247500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18523,
+      "user_id": 21218214,
+      "platform_id": "dc",
+      "platform_user_id": "deimien321",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-03T13:18:39.000Z",
+      "updated_at": "2023-05-03T13:18:39.000Z"
+    },
+    {
+      "id": 18525,
+      "user_id": 21218214,
+      "platform_id": "rd",
+      "platform_user_id": "ttvdjmikey",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-03T13:19:22.000Z",
+      "updated_at": "2023-05-03T13:19:22.000Z"
+    },
+    {
+      "id": 18524,
+      "user_id": 21218214,
+      "platform_id": "tc",
+      "platform_user_id": "ttvdjmikey",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-03T13:18:51.000Z",
+      "updated_at": "2023-05-03T13:18:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21218214,
+    "rank_kc": 32827,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-16T12:59:50.000Z",
+    "rank_pc": 19876,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-16T12:59:54.000Z",
+    "rank_hs": 46855,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-16T12:59:56.000Z",
+    "created_at": "2024-05-08T12:26:55.000Z",
+    "updated_at": "2024-05-08T12:26:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:20:15.235Z"
+}
