@@ -1,0 +1,61 @@
+{
+  "id": 21283503,
+  "username": "Tom08531",
+  "description": "cheh\n",
+  "about": "je suis trop beau",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-18T14:29:35.000Z",
+  "date_last_played": "2023-04-18T14:39:25.000Z",
+  "profile_views": 1,
+  "kill_count": 0,
+  "play_count": 5,
+  "highest_score": 20140,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 17709,
+      "user_id": 21283503,
+      "platform_id": "dc",
+      "platform_user_id": "Tom08531#0318",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-04-18T14:31:31.000Z",
+      "updated_at": "2023-04-18T14:31:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21283503,
+    "rank_kc": 413962,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-04-18T14:31:42.000Z",
+    "rank_pc": 322914,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-18T14:31:46.000Z",
+    "rank_hs": 554061,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-04-18T14:31:50.000Z",
+    "created_at": "2023-04-18T14:39:25.000Z",
+    "updated_at": "2023-04-18T14:39:25.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:33:55.269Z"
+}
