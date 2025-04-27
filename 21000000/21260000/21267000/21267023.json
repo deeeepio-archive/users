@@ -1,0 +1,71 @@
+{
+  "id": 21267023,
+  "username": "딥이오공용",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-08T12:25:59.000Z",
+  "date_last_played": "2024-07-12T15:48:14.000Z",
+  "profile_views": 623,
+  "kill_count": 579,
+  "play_count": 202,
+  "highest_score": 1376780,
+  "picture": "21267023-dbcb225947997ab64a1649a94632317b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 21,
+  "tier": 2,
+  "xp": 64650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15620,
+      "user_id": 21267023,
+      "platform_id": "yt",
+      "platform_user_id": "vv",
+      "platform_user_url": "https://www.youtube.com/@user-ooooooooh/featured",
+      "verified": false,
+      "created_at": "2023-02-27T04:50:30.000Z",
+      "updated_at": "2023-02-27T04:50:30.000Z"
+    },
+    {
+      "id": 14709,
+      "user_id": 21267023,
+      "platform_id": "yt",
+      "platform_user_id": "파인애플KR",
+      "platform_user_url": "https://www.youtube.com/channel/UCVX7bV2QhSYf4ZSGwz6YJIQ",
+      "verified": false,
+      "created_at": "2023-02-08T12:33:39.000Z",
+      "updated_at": "2023-05-27T02:05:41.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21267023,
+    "rank_kc": 41009,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-19T12:17:38.000Z",
+    "rank_pc": 48866,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-19T12:17:40.000Z",
+    "rank_hs": 65830,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-19T12:17:43.000Z",
+    "created_at": "2024-07-25T11:30:19.000Z",
+    "updated_at": "2024-07-25T11:30:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T21:49:49.058Z"
+}
