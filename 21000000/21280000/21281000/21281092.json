@@ -1,0 +1,97 @@
+{
+  "id": 21281092,
+  "username": "ChoKun",
+  "description": null,
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-09T07:46:34.000Z",
+  "date_last_played": "2023-10-11T04:28:04.000Z",
+  "profile_views": 66,
+  "kill_count": 685,
+  "play_count": 385,
+  "highest_score": 3951555,
+  "picture": "21281092-4a5cefb495fc025ce9128ad0a6754883.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 99,
+  "tier": 3,
+  "xp": 135600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21281092,
+    "rank_kc": 37210,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-12T04:22:41.000Z",
+    "rank_pc": 30329,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-12T04:22:42.000Z",
+    "rank_hs": 11680,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-12T04:22:43.000Z",
+    "created_at": "2023-10-11T04:28:04.000Z",
+    "updated_at": "2023-10-11T04:28:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12238,
+          "user_id": 21281092,
+          "cloneof_id": null,
+          "string_id": "34432",
+          "title": "toxic",
+          "description": "no",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 154,
+          "created_at": "2023-05-13T06:37:05.000Z",
+          "updated_at": "2023-05-13T06:37:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21281092,
+            "username": "ChoKun",
+            "description": null,
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-04-09T07:46:34.000Z",
+            "date_last_played": "2023-10-11T04:28:04.000Z",
+            "kill_count": 685,
+            "play_count": 385,
+            "highest_score": 3951555,
+            "picture": "21281092-4a5cefb495fc025ce9128ad0a6754883.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 99,
+            "tier": 3,
+            "xp": 135600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "no"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:17:58.756Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 21281100,
+  "username": "komp",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-09T08:37:45.000Z",
+  "date_last_played": "2023-06-08T11:59:17.000Z",
+  "profile_views": 3,
+  "kill_count": 83,
+  "play_count": 195,
+  "highest_score": 680085,
+  "picture": "21281100-7418fcdb8f53156c783efcd2da7101645.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 84,
+  "tier": 1,
+  "xp": 11100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21281100,
+    "rank_kc": 177703,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-04-11T11:45:19.000Z",
+    "rank_pc": 135484,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-04-11T11:45:25.000Z",
+    "rank_hs": 113352,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-04-11T11:45:28.000Z",
+    "created_at": "2023-06-08T11:59:17.000Z",
+    "updated_at": "2023-06-08T11:59:17.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:17:59.915Z"
+}
