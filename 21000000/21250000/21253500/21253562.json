@@ -1,0 +1,61 @@
+{
+  "id": 21253562,
+  "username": "Grail",
+  "description": "Whatchu gonna do now\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-01-05T12:55:05.000Z",
+  "date_last_played": "2023-01-18T20:54:13.000Z",
+  "profile_views": 52,
+  "kill_count": 60,
+  "play_count": 42,
+  "highest_score": 210920,
+  "picture": "21253562-108758b4413c141ac53fc34ddc41dc422.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 82,
+  "tier": 1,
+  "xp": 14100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 12930,
+      "user_id": 21253562,
+      "platform_id": "dc",
+      "platform_user_id": "Zoicexelol",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-01-09T18:25:25.000Z",
+      "updated_at": "2023-01-09T18:25:25.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21253562,
+    "rank_kc": 149153,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-01-10T13:24:37.000Z",
+    "rank_pc": 110594,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-01-10T13:24:39.000Z",
+    "rank_hs": 212805,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-01-10T13:24:42.000Z",
+    "created_at": "2023-01-18T20:54:13.000Z",
+    "updated_at": "2023-01-18T20:54:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T20:18:44.182Z"
+}
