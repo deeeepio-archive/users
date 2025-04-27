@@ -1,0 +1,97 @@
+{
+  "id": 21274126,
+  "username": "Elias_TheGreat",
+  "description": "The real losers are the ones who give up",
+  "about": "Greatest demafagafizator from the american continent",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-10T22:09:08.000Z",
+  "date_last_played": "2023-04-26T20:52:13.000Z",
+  "profile_views": 2,
+  "kill_count": 74,
+  "play_count": 93,
+  "highest_score": 563287,
+  "picture": "21274126-d6e8945d6fad23b57bf6fe6c566a3f6a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 139,
+  "tier": 1,
+  "xp": 19350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21274126,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T22:35:24.948Z",
+    "updated_at": "2025-04-27T22:35:25.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 11935,
+          "user_id": 21274126,
+          "cloneof_id": null,
+          "string_id": "jorge",
+          "title": "Jorge",
+          "description": "Jorge",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-03-25T15:32:48.000Z",
+          "updated_at": "2023-03-25T15:32:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21274126,
+            "username": "Elias_TheGreat",
+            "description": "The real losers are the ones who give up",
+            "about": "Greatest demafagafizator from the american continent",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-03-10T22:09:08.000Z",
+            "date_last_played": "2023-04-26T20:52:13.000Z",
+            "kill_count": 74,
+            "play_count": 93,
+            "highest_score": 563287,
+            "picture": "21274126-d6e8945d6fad23b57bf6fe6c566a3f6a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 139,
+            "tier": 1,
+            "xp": 19350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Jorge"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:35:25.040Z"
+}
