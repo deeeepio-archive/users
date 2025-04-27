@@ -1,0 +1,50 @@
+{
+  "id": 21285245,
+  "username": "illustration5",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-04-24T15:16:43.000Z",
+  "date_last_played": "2023-06-23T05:12:20.000Z",
+  "profile_views": 628,
+  "kill_count": 814,
+  "play_count": 172,
+  "highest_score": 3809267,
+  "picture": "21285245-110427c8d88fa1129f8b25c625d6a9f5e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 102,
+  "tier": 3,
+  "xp": 105300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21285245,
+    "rank_kc": 31062,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-10T03:03:44.000Z",
+    "rank_pc": 51389,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-10T03:03:46.000Z",
+    "rank_hs": 13390,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-10T03:03:48.000Z",
+    "created_at": "2024-01-05T05:07:26.000Z",
+    "updated_at": "2023-09-10T03:03:48.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T23:44:51.501Z"
+}
