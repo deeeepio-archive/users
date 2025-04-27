@@ -1,0 +1,50 @@
+{
+  "id": 21273323,
+  "username": "Herobot",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-03-07T15:04:34.000Z",
+  "date_last_played": "2023-03-07T15:25:19.000Z",
+  "profile_views": 1,
+  "kill_count": 0,
+  "play_count": 5,
+  "highest_score": 45980,
+  "picture": "21273323-963de042ecf3aab6bfd90410a2ee8bf47.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21273323,
+    "rank_kc": 407490,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-07T15:33:10.000Z",
+    "rank_pc": 228101,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-03-07T15:33:14.000Z",
+    "rank_hs": 371778,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-07T15:33:17.000Z",
+    "created_at": "2023-03-07T15:38:06.000Z",
+    "updated_at": "2023-03-07T15:33:17.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:30:08.076Z"
+}
