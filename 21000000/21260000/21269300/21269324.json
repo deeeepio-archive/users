@@ -1,0 +1,71 @@
+{
+  "id": 21269324,
+  "username": "wolfgaming",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-18T16:58:26.000Z",
+  "date_last_played": "2023-02-23T16:39:26.000Z",
+  "profile_views": 5,
+  "kill_count": 4,
+  "play_count": 16,
+  "highest_score": 123177,
+  "picture": "21269324-346efa4333fe9eb10b8d6e8e3cb65f23e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15334,
+      "user_id": 21269324,
+      "platform_id": "dc",
+      "platform_user_id": "wolfgaming#2226",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-19T22:22:29.000Z",
+      "updated_at": "2023-02-19T22:22:29.000Z"
+    },
+    {
+      "id": 15335,
+      "user_id": 21269324,
+      "platform_id": "yt",
+      "platform_user_id": "wolfgaming",
+      "platform_user_url": "https://www.youtube.com/channel/UC-Yiwr-l62If8_b4tkJpSlg",
+      "verified": false,
+      "created_at": "2023-02-19T22:23:17.000Z",
+      "updated_at": "2023-02-19T22:23:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21269324,
+    "rank_kc": 311699,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-19T22:21:54.000Z",
+    "rank_pc": 166067,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-19T22:21:55.000Z",
+    "rank_hs": 269845,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-19T22:21:56.000Z",
+    "created_at": "2023-03-26T10:49:19.000Z",
+    "updated_at": "2023-02-23T16:39:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:05:35.214Z"
+}
