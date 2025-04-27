@@ -1,0 +1,61 @@
+{
+  "id": 21219966,
+  "username": "zach877",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-05T01:52:45.000Z",
+  "date_last_played": "2022-12-13T04:11:56.000Z",
+  "profile_views": 1,
+  "kill_count": 1,
+  "play_count": 12,
+  "highest_score": 68425,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 10894,
+      "user_id": 21219966,
+      "platform_id": "dc",
+      "platform_user_id": "zach?#1914",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2022-12-06T01:31:10.000Z",
+      "updated_at": "2022-12-06T01:31:10.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21219966,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-27T16:31:08.008Z",
+    "updated_at": "2025-04-27T16:31:08.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:31:08.060Z"
+}
