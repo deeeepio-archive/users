@@ -1,0 +1,50 @@
+{
+  "id": 21220463,
+  "username": "我很爛的",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2022-12-07T03:41:02.000Z",
+  "date_last_played": "2022-12-07T03:41:02.000Z",
+  "profile_views": 10,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": "21220463-fc7870cbf1555c063c7b996bfb1af6ef.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21220463,
+    "rank_kc": 407295,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-03-06T10:20:29.000Z",
+    "rank_pc": 313730,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-03-06T10:20:40.000Z",
+    "rank_hs": 545120,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-03-06T10:20:47.000Z",
+    "created_at": "2023-03-06T10:20:20.000Z",
+    "updated_at": "2023-03-06T10:20:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T16:34:03.414Z"
+}
