@@ -1,0 +1,71 @@
+{
+  "id": 21271131,
+  "username": "雨季的魚玩遊戲",
+  "description": "加好友",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-26T03:19:46.000Z",
+  "date_last_played": "2023-03-26T12:33:04.000Z",
+  "profile_views": 12,
+  "kill_count": 4,
+  "play_count": 24,
+  "highest_score": 253640,
+  "picture": "21271131-c542cf42ee07e9af1eb7b74adb64b557.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18,
+  "tier": 1,
+  "xp": 1200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 15565,
+      "user_id": 21271131,
+      "platform_id": "dc",
+      "platform_user_id": "雨季的魚玩遊戲#7689",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-02-26T03:21:12.000Z",
+      "updated_at": "2023-02-26T03:21:12.000Z"
+    },
+    {
+      "id": 15566,
+      "user_id": 21271131,
+      "platform_id": "yt",
+      "platform_user_id": "雨季的魚玩遊戲RSFPG",
+      "platform_user_url": "https://youtube.com/@user-mr3lc2xh5p",
+      "verified": false,
+      "created_at": "2023-02-26T03:22:20.000Z",
+      "updated_at": "2023-05-24T11:06:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21271131,
+    "rank_kc": 406061,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-02-26T03:25:03.000Z",
+    "rank_pc": 312026,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-02-26T03:25:06.000Z",
+    "rank_hs": 543496,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-02-26T03:25:09.000Z",
+    "created_at": "2023-03-26T12:33:03.000Z",
+    "updated_at": "2023-03-26T12:33:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:16:46.575Z"
+}
