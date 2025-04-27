@@ -1,0 +1,50 @@
+{
+  "id": 21271551,
+  "username": "bread1",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-02-28T01:37:10.000Z",
+  "date_last_played": "2023-04-04T23:52:10.000Z",
+  "profile_views": 19,
+  "kill_count": 31,
+  "play_count": 41,
+  "highest_score": 133130,
+  "picture": "21271551-9365bccc1009e2857bf234f68f30d5fa7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 33,
+  "tier": 1,
+  "xp": 12450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21271551,
+    "rank_kc": 193313,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-03-01T05:08:21.000Z",
+    "rank_pc": 150082,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-03-01T05:08:23.000Z",
+    "rank_hs": 544022,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-03-01T04:38:28.000Z",
+    "created_at": "2023-04-04T23:52:10.000Z",
+    "updated_at": "2023-04-04T23:52:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-27T22:19:34.019Z"
+}
