@@ -1,0 +1,106 @@
+{
+  "id": 21398196,
+  "username": "pro3234",
+  "description": "ImSorry's alt",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-01-21T16:10:57.000Z",
+  "date_last_played": "2025-02-21T15:52:08.000Z",
+  "profile_views": 18,
+  "kill_count": 129,
+  "play_count": 139,
+  "highest_score": 2345708,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 201,
+  "tier": 2,
+  "xp": 67650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21398196,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-02-21T15:52:07.000Z",
+    "updated_at": "2025-02-21T15:52:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245155,
+          "user_id": 21398196,
+          "cloneof_id": null,
+          "string_id": "324234234",
+          "title": "Test Impossible",
+          "description": "impossible?",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 13,
+          "created_at": "2025-01-30T15:29:17.000Z",
+          "updated_at": "2025-01-30T15:30:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21398196,
+            "username": "pro3234",
+            "description": "ImSorry's alt",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2025-01-21T16:10:57.000Z",
+            "date_last_played": "2025-02-21T15:52:08.000Z",
+            "kill_count": 129,
+            "play_count": 139,
+            "highest_score": 2345708,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 201,
+            "tier": 2,
+            "xp": 67650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1111111**"
+            },
+            {
+              "id": "erwer"
+            },
+            {
+              "id": "Hi"
+            },
+            {
+              "id": "test"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:56:28.152Z"
+}
