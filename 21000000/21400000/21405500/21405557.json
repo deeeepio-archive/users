@@ -1,0 +1,61 @@
+{
+  "id": 21405557,
+  "username": "catseefish",
+  "description": "you died by catseefish",
+  "about": "i am catseefish",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-03-25T22:18:57.000Z",
+  "date_last_played": "2025-04-27T19:00:05.000Z",
+  "profile_views": 77,
+  "kill_count": 53,
+  "play_count": 85,
+  "highest_score": 1753902,
+  "picture": "21405557-ec7740610e3b91c228aab1cff1085f7dde-ff038b40-8d55-4422-9f75-8471fa6fc4cd.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 2,
+  "xp": 42150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103429,
+      "user_id": 21405557,
+      "platform_id": "dc",
+      "platform_user_id": "r4w432",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-03-28T22:39:32.000Z",
+      "updated_at": "2025-03-28T22:39:43.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21405557,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-27T19:00:04.000Z",
+    "updated_at": "2025-04-27T19:00:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T19:38:24.860Z"
+}
