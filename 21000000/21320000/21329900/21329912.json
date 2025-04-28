@@ -1,0 +1,61 @@
+{
+  "id": 21329912,
+  "username": "ItsGrandPi11",
+  "description": "gg 💖",
+  "about": "hi i exist",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-05T22:22:20.000Z",
+  "date_last_played": "2023-11-05T22:48:54.000Z",
+  "profile_views": 50,
+  "kill_count": 20,
+  "play_count": 6,
+  "highest_score": 654305,
+  "picture": "21329912-2bda713e0757149e69f25791669e85fa.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 39,
+  "tier": 1,
+  "xp": 4350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29075,
+      "user_id": 21329912,
+      "platform_id": "dc",
+      "platform_user_id": ".pi3141",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-05T22:24:19.000Z",
+      "updated_at": "2023-11-05T22:24:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21329912,
+    "rank_kc": 208499,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-11-18T10:11:31.000Z",
+    "rank_pc": 257171,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-11-18T10:11:31.000Z",
+    "rank_hs": 129308,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-18T10:11:32.000Z",
+    "created_at": "2023-11-18T10:11:31.000Z",
+    "updated_at": "2023-11-18T10:11:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:41:04.295Z"
+}
