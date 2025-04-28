@@ -1,0 +1,97 @@
+{
+  "id": 21391349,
+  "username": "getter",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-26T01:40:42.000Z",
+  "date_last_played": "2024-12-20T17:37:27.000Z",
+  "profile_views": 13,
+  "kill_count": 12,
+  "play_count": 175,
+  "highest_score": 610001,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 85,
+  "tier": 1,
+  "xp": 11250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21391349,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-12-20T17:37:26.000Z",
+    "updated_at": "2024-12-20T17:37:27.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244934,
+          "user_id": 21391349,
+          "cloneof_id": null,
+          "string_id": "thesea",
+          "title": "TH- INK IS GCN-",
+          "description": "IT FLOCDED WHILE TH- INK W-S DRYIN-",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 17,
+          "created_at": "2024-11-29T18:27:39.000Z",
+          "updated_at": "2024-11-29T18:29:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21391349,
+            "username": "getter",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-11-26T01:40:42.000Z",
+            "date_last_played": "2024-12-20T17:37:27.000Z",
+            "kill_count": 12,
+            "play_count": 175,
+            "highest_score": 610001,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 1,
+            "xp": 11250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "flood"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:08:11.263Z"
+}
