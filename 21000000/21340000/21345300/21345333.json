@@ -1,0 +1,61 @@
+{
+  "id": 21345333,
+  "username": "fudgi",
+  "description": "rare sighting",
+  "about": "it's torpin time.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-26T18:21:36.000Z",
+  "date_last_played": "2025-03-14T22:25:52.000Z",
+  "profile_views": 264,
+  "kill_count": 1014,
+  "play_count": 421,
+  "highest_score": 725069,
+  "picture": "21345333-afb10168310ab61f810aa381f22b3e7496.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 81,
+  "tier": 4,
+  "xp": 209850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 91890,
+      "user_id": 21345333,
+      "platform_id": "yt",
+      "platform_user_id": "fudgies",
+      "platform_user_url": "https://www.youtube.com/watch?v=zd_Fu4mW2po",
+      "verified": false,
+      "created_at": "2024-02-17T01:08:22.000Z",
+      "updated_at": "2024-02-17T01:08:22.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21345333,
+    "rank_kc": 132120,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T01:25:25.000Z",
+    "rank_pc": 106708,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T23:23:04.000Z",
+    "rank_hs": 346591,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-19T01:13:41.000Z",
+    "created_at": "2025-03-14T22:25:51.000Z",
+    "updated_at": "2025-03-14T22:25:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:27:16.059Z"
+}
