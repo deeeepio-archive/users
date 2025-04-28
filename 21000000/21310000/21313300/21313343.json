@@ -1,0 +1,97 @@
+{
+  "id": 21313343,
+  "username": "kinetic",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-22T08:18:21.000Z",
+  "date_last_played": "2024-12-05T08:44:47.000Z",
+  "profile_views": 75,
+  "kill_count": 112,
+  "play_count": 648,
+  "highest_score": 470015,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 30,
+  "tier": 1,
+  "xp": 19800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21313343,
+    "rank_kc": 115745,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-12T05:33:07.000Z",
+    "rank_pc": 22377,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-12T05:33:08.000Z",
+    "rank_hs": 212653,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-12T05:33:08.000Z",
+    "created_at": "2024-12-05T08:44:46.000Z",
+    "updated_at": "2024-12-05T08:44:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12795,
+          "user_id": 21313343,
+          "cloneof_id": null,
+          "string_id": "ooiiees",
+          "title": "product",
+          "description": "Fun",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-09-06T23:01:30.000Z",
+          "updated_at": "2023-09-06T23:08:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21313343,
+            "username": "kinetic",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-08-22T08:18:21.000Z",
+            "date_last_played": "2024-12-05T08:44:47.000Z",
+            "kill_count": 112,
+            "play_count": 648,
+            "highest_score": 470015,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 30,
+            "tier": 1,
+            "xp": 19800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Yes.free"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:51:58.095Z"
+}
