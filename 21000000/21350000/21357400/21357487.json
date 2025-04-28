@@ -1,0 +1,71 @@
+{
+  "id": 21357487,
+  "username": "xso6er",
+  "description": "motherfucker",
+  "about": "birthday on September 8th",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-03-09T11:26:46.000Z",
+  "date_last_played": "2024-03-09T12:09:04.000Z",
+  "profile_views": 4,
+  "kill_count": 4,
+  "play_count": 14,
+  "highest_score": 121253,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92693,
+      "user_id": 21357487,
+      "platform_id": "dc",
+      "platform_user_id": "xso6er77.dev",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-09T11:27:47.000Z",
+      "updated_at": "2024-03-09T11:27:47.000Z"
+    },
+    {
+      "id": 92694,
+      "user_id": 21357487,
+      "platform_id": "yt",
+      "platform_user_id": "@xso6errr333",
+      "platform_user_url": "https://www.youtube.com/channel/UCyqJiKjzvscr80ryGy5RpmQ",
+      "verified": false,
+      "created_at": "2024-03-09T11:28:13.000Z",
+      "updated_at": "2024-03-09T11:28:13.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21357487,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-03-09T12:09:04.000Z",
+    "updated_at": "2024-03-09T12:09:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:50:57.313Z"
+}
