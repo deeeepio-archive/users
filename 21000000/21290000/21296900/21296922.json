@@ -1,0 +1,61 @@
+{
+  "id": 21296922,
+  "username": "cross5678",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-03T13:53:08.000Z",
+  "date_last_played": "2023-06-08T15:54:47.000Z",
+  "profile_views": 2,
+  "kill_count": 28,
+  "play_count": 50,
+  "highest_score": 946881,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 64,
+  "tier": 1,
+  "xp": 8100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20297,
+      "user_id": 21296922,
+      "platform_id": "dc",
+      "platform_user_id": "擺渡人#4172",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-03T14:02:44.000Z",
+      "updated_at": "2023-06-03T14:02:44.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21296922,
+    "rank_kc": 423109,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-03T14:02:24.000Z",
+    "rank_pc": 335061,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-03T14:02:25.000Z",
+    "rank_hs": 565881,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-03T14:02:26.000Z",
+    "created_at": "2023-06-08T15:54:46.000Z",
+    "updated_at": "2023-06-08T15:54:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:04:00.153Z"
+}
