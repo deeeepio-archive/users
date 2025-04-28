@@ -1,0 +1,61 @@
+{
+  "id": 21298542,
+  "username": "Kondzix",
+  "description": "sorry darling :((",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-10T13:20:31.000Z",
+  "date_last_played": "2023-08-10T11:14:12.000Z",
+  "profile_views": 37,
+  "kill_count": 344,
+  "play_count": 293,
+  "highest_score": 541632,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 280,
+  "tier": 2,
+  "xp": 40500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20777,
+      "user_id": 21298542,
+      "platform_id": "ig",
+      "platform_user_id": "_takczynie_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-10T17:58:45.000Z",
+      "updated_at": "2023-06-10T17:58:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21298542,
+    "rank_kc": 66284,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-21T12:14:48.000Z",
+    "rank_pc": 41976,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-21T12:14:49.000Z",
+    "rank_hs": 140001,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-20T17:06:40.000Z",
+    "created_at": "2023-08-10T11:14:11.000Z",
+    "updated_at": "2023-08-10T11:14:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:14:49.196Z"
+}
