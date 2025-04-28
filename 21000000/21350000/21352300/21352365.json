@@ -1,0 +1,71 @@
+{
+  "id": 21352365,
+  "username": "Sremmus",
+  "description": "not so tough now, huh?",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-02-10T17:15:22.000Z",
+  "date_last_played": "2024-07-29T15:55:55.000Z",
+  "profile_views": 11,
+  "kill_count": 9,
+  "play_count": 14,
+  "highest_score": 1959779,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 7,
+  "tier": 1,
+  "xp": 7800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 91643,
+      "user_id": 21352365,
+      "platform_id": "dc",
+      "platform_user_id": "AlecThomms#3016",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-10T17:31:22.000Z",
+      "updated_at": "2024-02-10T17:33:01.000Z"
+    },
+    {
+      "id": 91641,
+      "user_id": 21352365,
+      "platform_id": "ig",
+      "platform_user_id": "alecthomms_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-10T17:26:08.000Z",
+      "updated_at": "2024-02-10T17:26:08.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21352365,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-07-29T15:55:55.000Z",
+    "updated_at": "2024-07-29T15:55:55.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:15:44.065Z"
+}
