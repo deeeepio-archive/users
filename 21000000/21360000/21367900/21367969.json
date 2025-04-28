@@ -1,0 +1,71 @@
+{
+  "id": 21367969,
+  "username": "neptuneYT",
+  "description": "You win, you live, you lose, you die. If you don't fight, you can't win...",
+  "about": "...",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-05-22T14:10:18.000Z",
+  "date_last_played": "2024-08-02T15:20:54.000Z",
+  "profile_views": 27,
+  "kill_count": 32,
+  "play_count": 139,
+  "highest_score": 987599,
+  "picture": "21367969-9d9f2b4fcd1892658259b810e575bfed3-008b9f65-1f05-4863-bb65-8883ebae315a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 47,
+  "tier": 2,
+  "xp": 29550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94986,
+      "user_id": 21367969,
+      "platform_id": "dc",
+      "platform_user_id": "rip_neptunex",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-05-29T15:29:34.000Z",
+      "updated_at": "2024-05-29T15:29:34.000Z"
+    },
+    {
+      "id": 94834,
+      "user_id": 21367969,
+      "platform_id": "yt",
+      "platform_user_id": "rip_neptunex",
+      "platform_user_url": "https://youtube.com/rip_neptunex",
+      "verified": false,
+      "created_at": "2024-05-22T14:37:18.000Z",
+      "updated_at": "2024-05-22T14:37:18.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21367969,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-08-02T15:20:54.000Z",
+    "updated_at": "2024-08-02T15:20:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T09:13:08.344Z"
+}
