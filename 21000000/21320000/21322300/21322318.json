@@ -1,0 +1,97 @@
+{
+  "id": 21322318,
+  "username": "nacheepa132",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-02T18:39:55.000Z",
+  "date_last_played": "2023-10-12T21:10:23.000Z",
+  "profile_views": 14,
+  "kill_count": 59,
+  "play_count": 56,
+  "highest_score": 1420029,
+  "picture": "21322318-50108523bb6983faea047107cf67e7287a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 54,
+  "tier": 1,
+  "xp": 19350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21322318,
+    "rank_kc": 134534,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-12T18:29:27.000Z",
+    "rank_pc": 102042,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-12T18:29:30.000Z",
+    "rank_hs": 62493,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-12T18:29:33.000Z",
+    "created_at": "2024-01-03T20:22:56.000Z",
+    "updated_at": "2023-10-12T22:00:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12937,
+          "user_id": 21322318,
+          "cloneof_id": null,
+          "string_id": "123780",
+          "title": "matense :)",
+          "description": "un mundo abierto donde sos ppez",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 52,
+          "created_at": "2023-10-09T18:19:49.000Z",
+          "updated_at": "2023-10-09T18:20:43.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21322318,
+            "username": "nacheepa132",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-02T18:39:55.000Z",
+            "date_last_played": "2023-10-12T21:10:23.000Z",
+            "kill_count": 59,
+            "play_count": 56,
+            "highest_score": 1420029,
+            "picture": "21322318-50108523bb6983faea047107cf67e7287a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 54,
+            "tier": 1,
+            "xp": 19350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "910asdhaw"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:51:22.192Z"
+}
