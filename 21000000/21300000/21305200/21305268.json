@@ -1,0 +1,81 @@
+{
+  "id": 21305268,
+  "username": "that_guy123",
+  "description": "ඞ\n",
+  "about": "ඞ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-11T19:00:44.000Z",
+  "date_last_played": "2024-10-07T00:58:56.000Z",
+  "profile_views": 22,
+  "kill_count": 5,
+  "play_count": 34,
+  "highest_score": 187760,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 16,
+  "tier": 1,
+  "xp": 900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 22593,
+      "user_id": 21305268,
+      "platform_id": "yt",
+      "platform_user_id": "funny cats",
+      "platform_user_url": "https://www.youtube.com/watch?v=VZrDxD0Za9I&list=PLu4wnki9NI_8VmJ7Qz_byhKwCquXcy6u9&index=4",
+      "verified": false,
+      "created_at": "2023-07-11T19:13:09.000Z",
+      "updated_at": "2023-07-11T19:13:34.000Z"
+    },
+    {
+      "id": 94534,
+      "user_id": 21305268,
+      "platform_id": "yt",
+      "platform_user_id": "my channel",
+      "platform_user_url": "https://www.youtube.com/@Dan-yr2hx",
+      "verified": false,
+      "created_at": "2024-05-09T02:54:14.000Z",
+      "updated_at": "2024-05-09T02:54:14.000Z"
+    },
+    {
+      "id": 28027,
+      "user_id": 21305268,
+      "platform_id": "yt",
+      "platform_user_id": "Who's That Pokemon?",
+      "platform_user_url": "https://www.youtube.com/watch?v=EE-xtCF3T94",
+      "verified": false,
+      "created_at": "2023-10-14T21:16:57.000Z",
+      "updated_at": "2023-10-14T21:16:57.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21305268,
+    "rank_kc": 344749,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-27T22:03:56.000Z",
+    "rank_pc": 147805,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-27T22:03:57.000Z",
+    "rank_hs": 260880,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-27T22:03:58.000Z",
+    "created_at": "2024-10-07T00:58:55.000Z",
+    "updated_at": "2024-10-07T00:58:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:59:05.488Z"
+}
