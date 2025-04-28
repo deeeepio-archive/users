@@ -1,0 +1,65 @@
+{
+  "id": 21387664,
+  "username": "id_please",
+  "description": "Bruh\n",
+  "about": "nothing relevant",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-10-30T18:17:15.000Z",
+  "date_last_played": "2025-03-31T19:14:46.000Z",
+  "profile_views": 111,
+  "kill_count": 894,
+  "play_count": 848,
+  "highest_score": 3771546,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 325,
+  "tier": 5,
+  "xp": 337950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101043,
+      "user_id": 21387664,
+      "platform_id": "dc",
+      "platform_user_id": "Uesrname or ID",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-10T20:36:39.000Z",
+      "updated_at": "2024-12-10T20:36:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21387664,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-31T19:14:45.000Z",
+    "updated_at": "2025-03-31T19:14:46.000Z",
+    "pd": {
+      "played": 4,
+      "won": 2,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:43:29.156Z"
+}
