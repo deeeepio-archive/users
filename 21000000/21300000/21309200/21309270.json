@@ -1,0 +1,71 @@
+{
+  "id": 21309270,
+  "username": "김악마짱",
+  "description": "누구든 작은 김악마를 건들면 아주 X되는 거에요.\n아주 X되는거야.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-01T10:45:37.000Z",
+  "date_last_played": "2023-09-03T07:41:11.000Z",
+  "profile_views": 6,
+  "kill_count": 5,
+  "play_count": 14,
+  "highest_score": 186600,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 1,
+  "xp": 1200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23669,
+      "user_id": 21309270,
+      "platform_id": "dc",
+      "platform_user_id": "#1838",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-01T11:00:45.000Z",
+      "updated_at": "2023-08-01T11:01:33.000Z"
+    },
+    {
+      "id": 23670,
+      "user_id": 21309270,
+      "platform_id": "yt",
+      "platform_user_id": "김악마 유튜브 ",
+      "platform_user_url": "https://www.youtube.com/@K-Devil",
+      "verified": false,
+      "created_at": "2023-08-01T11:01:14.000Z",
+      "updated_at": "2023-08-01T11:01:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21309270,
+    "rank_kc": 299676,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-08-02T06:05:44.000Z",
+    "rank_pc": 206219,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-02T06:05:45.000Z",
+    "rank_hs": 248685,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-02T06:05:45.000Z",
+    "created_at": "2023-09-03T07:41:11.000Z",
+    "updated_at": "2023-09-03T07:41:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:25:38.328Z"
+}
