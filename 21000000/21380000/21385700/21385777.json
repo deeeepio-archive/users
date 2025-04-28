@@ -1,0 +1,105 @@
+{
+  "id": 21385777,
+  "username": "meganoob",
+  "description": "https://www.youtube.com/watch?v=I-J0ppP-H9s",
+  "about": "https://www.youtube.com/watch?v=I-J0ppP-H9s",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-10-16T21:16:33.000Z",
+  "date_last_played": "2025-04-03T19:07:19.000Z",
+  "profile_views": 155,
+  "kill_count": 675,
+  "play_count": 548,
+  "highest_score": 5124314,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 168,
+  "tier": 5,
+  "xp": 270900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101745,
+      "user_id": 21385777,
+      "platform_id": "yt",
+      "platform_user_id": "1",
+      "platform_user_url": "https://www.youtube.com/watch?v=I-J0ppP-H9s",
+      "verified": false,
+      "created_at": "2025-01-08T00:47:34.000Z",
+      "updated_at": "2025-01-08T00:47:34.000Z"
+    },
+    {
+      "id": 101746,
+      "user_id": 21385777,
+      "platform_id": "yt",
+      "platform_user_id": "2",
+      "platform_user_url": "https://www.youtube.com/watch?v=I-J0ppP-H9s",
+      "verified": false,
+      "created_at": "2025-01-08T00:47:46.000Z",
+      "updated_at": "2025-01-08T00:47:46.000Z"
+    },
+    {
+      "id": 101747,
+      "user_id": 21385777,
+      "platform_id": "yt",
+      "platform_user_id": "3",
+      "platform_user_url": "https://www.youtube.com/watch?v=I-J0ppP-H9s",
+      "verified": false,
+      "created_at": "2025-01-08T00:48:01.000Z",
+      "updated_at": "2025-01-08T00:48:01.000Z"
+    },
+    {
+      "id": 101748,
+      "user_id": 21385777,
+      "platform_id": "yt",
+      "platform_user_id": "4",
+      "platform_user_url": "https://www.youtube.com/watch?v=I-J0ppP-H9s",
+      "verified": false,
+      "created_at": "2025-01-08T00:48:07.000Z",
+      "updated_at": "2025-01-08T00:48:07.000Z"
+    },
+    {
+      "id": 101749,
+      "user_id": 21385777,
+      "platform_id": "yt",
+      "platform_user_id": "5",
+      "platform_user_url": "https://www.youtube.com/watch?v=I-J0ppP-H9s",
+      "verified": false,
+      "created_at": "2025-01-08T00:48:19.000Z",
+      "updated_at": "2025-01-08T00:48:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21385777,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-03T19:07:19.000Z",
+    "updated_at": "2025-04-03T19:07:19.000Z",
+    "pd": {
+      "played": 7,
+      "won": 4,
+      "ratio": 57
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:30:11.946Z"
+}
