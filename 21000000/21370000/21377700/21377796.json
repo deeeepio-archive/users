@@ -1,0 +1,71 @@
+{
+  "id": 21377796,
+  "username": "BACIZIPLATAN_56",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-08-14T14:46:56.000Z",
+  "date_last_played": "2024-08-15T08:53:58.000Z",
+  "profile_views": 6,
+  "kill_count": 1,
+  "play_count": 15,
+  "highest_score": 1158298,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 29,
+  "tier": 1,
+  "xp": 2850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 97524,
+      "user_id": 21377796,
+      "platform_id": "dc",
+      "platform_user_id": "_narqx_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-15T08:54:39.000Z",
+      "updated_at": "2024-08-15T08:54:39.000Z"
+    },
+    {
+      "id": 97525,
+      "user_id": 21377796,
+      "platform_id": "ig",
+      "platform_user_id": "_narqx_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-15T08:54:49.000Z",
+      "updated_at": "2024-08-15T08:54:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21377796,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T10:35:18.741Z",
+    "updated_at": "2025-04-28T10:35:19.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T10:35:18.800Z"
+}
