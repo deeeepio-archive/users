@@ -1,0 +1,101 @@
+{
+  "id": 21400839,
+  "username": "crocodilian",
+  "description": "do not team i did not mean to kill you",
+  "about": "i am not good at the game but a bit pro i do not team do not kill me please do not team nor camp it is annoying\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-02-12T18:04:50.000Z",
+  "date_last_played": "2025-04-23T01:51:07.000Z",
+  "profile_views": 111,
+  "kill_count": 244,
+  "play_count": 275,
+  "highest_score": 521816,
+  "picture": "21400839-1e88545e10c189445816c92ceae797e21-d2913d3c-deb9-4bd4-8b6f-2624042f03f9.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 148,
+  "tier": 3,
+  "xp": 82350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21400839,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-23T04:00:03.000Z",
+    "updated_at": "2025-04-23T04:00:04.000Z",
+    "pd": {
+      "played": 51,
+      "won": 23,
+      "ratio": 45
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245289,
+          "user_id": 21400839,
+          "cloneof_id": null,
+          "string_id": "____123456name",
+          "title": "just a place",
+          "description": "giant world",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2025-04-18T04:41:04.000Z",
+          "updated_at": "2025-04-18T04:41:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21400839,
+            "username": "crocodilian",
+            "description": "do not team i did not mean to kill you",
+            "about": "i am not good at the game but a bit pro i do not team do not kill me please do not team nor camp it is annoying\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2025-02-12T18:04:50.000Z",
+            "date_last_played": "2025-04-23T01:51:07.000Z",
+            "kill_count": 244,
+            "play_count": 275,
+            "highest_score": 521816,
+            "picture": "21400839-1e88545e10c189445816c92ceae797e21-d2913d3c-deb9-4bd4-8b6f-2624042f03f9.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 148,
+            "tier": 3,
+            "xp": 82350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "i do not know"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T13:17:34.031Z"
+}
