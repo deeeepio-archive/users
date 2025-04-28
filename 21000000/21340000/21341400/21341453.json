@@ -1,0 +1,91 @@
+{
+  "id": 21341453,
+  "username": "Seagull-",
+  "description": "Seagull noises*",
+  "about": "Im seagull RAHH RAHH RAHH KRAHH KRAH",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-15T08:37:14.000Z",
+  "date_last_played": "2023-12-15T12:56:03.000Z",
+  "profile_views": 3,
+  "kill_count": 14,
+  "play_count": 21,
+  "highest_score": 266600,
+  "picture": "21341453-d581a4d6bd8f3a2d104c7486a69bbda34.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 23,
+  "tier": 1,
+  "xp": 1950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30785,
+      "user_id": 21341453,
+      "platform_id": "dc",
+      "platform_user_id": "https://a-z-animals.com/animals/seagull/",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-15T10:37:08.000Z",
+      "updated_at": "2023-12-15T10:37:08.000Z"
+    },
+    {
+      "id": 30787,
+      "user_id": 21341453,
+      "platform_id": "dc",
+      "platform_user_id": "Larus Argentantus",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-15T10:37:48.000Z",
+      "updated_at": "2023-12-15T10:37:48.000Z"
+    },
+    {
+      "id": 30788,
+      "user_id": 21341453,
+      "platform_id": "dc",
+      "platform_user_id": "Måse",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-15T10:38:06.000Z",
+      "updated_at": "2023-12-15T10:38:06.000Z"
+    },
+    {
+      "id": 30786,
+      "user_id": 21341453,
+      "platform_id": "dc",
+      "platform_user_id": "Seagull",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-15T10:37:32.000Z",
+      "updated_at": "2023-12-15T10:37:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21341453,
+    "rank_kc": 300145,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-15T10:39:11.000Z",
+    "rank_pc": 202718,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-15T10:39:11.000Z",
+    "rank_hs": 270657,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-15T10:39:13.000Z",
+    "created_at": "2023-12-15T12:56:03.000Z",
+    "updated_at": "2023-12-15T12:56:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:01:41.930Z"
+}

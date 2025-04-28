@@ -1,0 +1,61 @@
+{
+  "id": 21341505,
+  "username": "SONOFJACK",
+  "description": null,
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-15T15:41:37.000Z",
+  "date_last_played": "2025-01-24T15:36:31.000Z",
+  "profile_views": 91,
+  "kill_count": 497,
+  "play_count": 299,
+  "highest_score": 813612,
+  "picture": "21341505-cb7a3439f17b40baadb015c9832eca101.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 64,
+  "tier": 3,
+  "xp": 106800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 95656,
+      "user_id": 21341505,
+      "platform_id": "dc",
+      "platform_user_id": "Florr.io",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-20T16:19:28.000Z",
+      "updated_at": "2024-06-20T16:19:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21341505,
+    "rank_kc": 162731,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-12T18:43:33.000Z",
+    "rank_pc": 124196,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-12T18:43:39.000Z",
+    "rank_hs": 156181,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-12T18:43:50.000Z",
+    "created_at": "2025-01-24T15:36:31.000Z",
+    "updated_at": "2025-01-24T15:36:31.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:01:48.253Z"
+}
