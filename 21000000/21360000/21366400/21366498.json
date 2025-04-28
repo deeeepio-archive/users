@@ -1,0 +1,71 @@
+{
+  "id": 21366498,
+  "username": "DanIsBack",
+  "description": "Nobody has enemies, Nobody deserves to be hurt",
+  "about": "I try to improve \n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-05-11T07:32:03.000Z",
+  "date_last_played": "2024-10-21T19:27:42.000Z",
+  "profile_views": 5,
+  "kill_count": 4,
+  "play_count": 46,
+  "highest_score": 453871,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 3600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94579,
+      "user_id": 21366498,
+      "platform_id": "dc",
+      "platform_user_id": "GhostemaneDan",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-05-11T07:36:44.000Z",
+      "updated_at": "2024-05-11T07:37:21.000Z"
+    },
+    {
+      "id": 94578,
+      "user_id": 21366498,
+      "platform_id": "tc",
+      "platform_user_id": "DanIsBack66",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-05-11T07:34:45.000Z",
+      "updated_at": "2024-05-11T07:34:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21366498,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-10-21T19:27:42.000Z",
+    "updated_at": "2024-10-21T19:27:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T09:01:05.187Z"
+}
