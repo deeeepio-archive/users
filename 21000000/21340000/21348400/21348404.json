@@ -1,0 +1,61 @@
+{
+  "id": 21348404,
+  "username": "リアム",
+  "description": "it's a starry night!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-14T10:51:29.000Z",
+  "date_last_played": "2025-01-16T14:32:32.000Z",
+  "profile_views": 98,
+  "kill_count": 1099,
+  "play_count": 659,
+  "highest_score": 1906664,
+  "picture": "21348404-3f599deca10c2b7ff86ed9b32462dcb61-b7e3cbae-b45d-4343-b407-365d214e90f2.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 214,
+  "tier": 4,
+  "xp": 170400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102068,
+      "user_id": 21348404,
+      "platform_id": "dc",
+      "platform_user_id": "dead",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-01-19T13:26:16.000Z",
+      "updated_at": "2025-01-19T13:26:16.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21348404,
+    "rank_kc": 122643,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-18T11:21:53.000Z",
+    "rank_pc": 96195,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-18T11:22:00.000Z",
+    "rank_hs": 125066,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-18T11:22:13.000Z",
+    "created_at": "2025-01-16T14:32:32.000Z",
+    "updated_at": "2025-01-16T14:32:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:46:41.314Z"
+}

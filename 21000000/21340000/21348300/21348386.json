@@ -1,0 +1,103 @@
+{
+  "id": 21348386,
+  "username": "ANDROIDe",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-14T07:44:21.000Z",
+  "date_last_played": "2024-01-15T15:37:45.000Z",
+  "profile_views": 5,
+  "kill_count": 24,
+  "play_count": 95,
+  "highest_score": 392779,
+  "picture": "21348386-cc3242b4a82e936626035ccb8a6bab510.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3,
+  "tier": 1,
+  "xp": 3450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21348386,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T06:46:39.153Z",
+    "updated_at": "2025-04-28T06:46:39.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13383,
+          "user_id": 21348386,
+          "cloneof_id": null,
+          "string_id": "_map_v9",
+          "title": "sdsd",
+          "description": "STALKER ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-01-15T16:24:52.000Z",
+          "updated_at": "2024-01-15T16:24:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21348386,
+            "username": "ANDROIDe",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-01-14T07:44:21.000Z",
+            "date_last_played": "2024-01-15T15:37:45.000Z",
+            "kill_count": 24,
+            "play_count": 95,
+            "highest_score": 392779,
+            "picture": "21348386-cc3242b4a82e936626035ccb8a6bab510.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3,
+            "tier": 1,
+            "xp": 3450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "12.03.20"
+            },
+            {
+              "id": "161616"
+            },
+            {
+              "id": "171717."
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:46:39.210Z"
+}
