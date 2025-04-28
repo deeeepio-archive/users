@@ -1,0 +1,192 @@
+{
+  "id": 21362684,
+  "username": "Абду",
+  "description": "Прости но ты выглядел аппетитно!😋",
+  "about": "Я очень крутой. Я долго играю в дииип ио и предлагаю тебе не дружить ни с кем сразу. Я со многими дружил но они меня жрали!  \nЕсли ты из этих крыс убийц то... Вооооооооооооон!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-04-11T08:54:50.000Z",
+  "date_last_played": "2025-03-10T14:27:07.000Z",
+  "profile_views": 206,
+  "kill_count": 831,
+  "play_count": 1188,
+  "highest_score": 1641859,
+  "picture": "21362684-38e99e75423c693b6310babfd75da4f5f-c4af8405-6a02-4c56-8fb0-b5eab4cce1a0.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 39,
+  "tier": 4,
+  "xp": 206400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21362684,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-10T14:27:06.000Z",
+    "updated_at": "2025-03-10T14:27:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244534,
+          "user_id": 21362684,
+          "cloneof_id": null,
+          "string_id": "820141",
+          "title": "Untitled",
+          "description": "Лучшая карта в мире",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-08-14T09:09:47.000Z",
+          "updated_at": "2024-08-14T09:09:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21362684,
+            "username": "Абду",
+            "description": "Прости но ты выглядел аппетитно!😋",
+            "about": "Я очень крутой. Я долго играю в дииип ио и предлагаю тебе не дружить ни с кем сразу. Я со многими дружил но они меня жрали!  \nЕсли ты из этих крыс убийц то... Вооооооооооооон!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-04-11T08:54:50.000Z",
+            "date_last_played": "2025-03-10T14:27:07.000Z",
+            "kill_count": 831,
+            "play_count": 1188,
+            "highest_score": 1641859,
+            "picture": "21362684-38e99e75423c693b6310babfd75da4f5f-c4af8405-6a02-4c56-8fb0-b5eab4cce1a0.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 39,
+            "tier": 4,
+            "xp": 206400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "id": 244530,
+          "user_id": 21362684,
+          "cloneof_id": null,
+          "string_id": "820140",
+          "title": "Карта Мирзо",
+          "description": "Лучшая карта в мире",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-08-13T15:45:22.000Z",
+          "updated_at": "2024-08-13T15:45:23.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21362684,
+            "username": "Абду",
+            "description": "Прости но ты выглядел аппетитно!😋",
+            "about": "Я очень крутой. Я долго играю в дииип ио и предлагаю тебе не дружить ни с кем сразу. Я со многими дружил но они меня жрали!  \nЕсли ты из этих крыс убийц то... Вооооооооооооон!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-04-11T08:54:50.000Z",
+            "date_last_played": "2025-03-10T14:27:07.000Z",
+            "kill_count": 831,
+            "play_count": 1188,
+            "highest_score": 1641859,
+            "picture": "21362684-38e99e75423c693b6310babfd75da4f5f-c4af8405-6a02-4c56-8fb0-b5eab4cce1a0.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 39,
+            "tier": 4,
+            "xp": 206400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "82014"
+            }
+          ]
+        },
+        {
+          "id": 244529,
+          "user_id": 21362684,
+          "cloneof_id": null,
+          "string_id": "82014",
+          "title": "Карта Мирзо",
+          "description": "Лучшая карта в мире",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-08-13T15:32:00.000Z",
+          "updated_at": "2024-08-13T15:37:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21362684,
+            "username": "Абду",
+            "description": "Прости но ты выглядел аппетитно!😋",
+            "about": "Я очень крутой. Я долго играю в дииип ио и предлагаю тебе не дружить ни с кем сразу. Я со многими дружил но они меня жрали!  \nЕсли ты из этих крыс убийц то... Вооооооооооооон!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-04-11T08:54:50.000Z",
+            "date_last_played": "2025-03-10T14:27:07.000Z",
+            "kill_count": 831,
+            "play_count": 1188,
+            "highest_score": 1641859,
+            "picture": "21362684-38e99e75423c693b6310babfd75da4f5f-c4af8405-6a02-4c56-8fb0-b5eab4cce1a0.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 39,
+            "tier": 4,
+            "xp": 206400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "дада"
+            },
+            {
+              "id": "лквм"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T08:30:21.097Z"
+}
