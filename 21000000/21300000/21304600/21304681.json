@@ -1,0 +1,144 @@
+{
+  "id": 21304681,
+  "username": "gamingcentipede",
+  "description": "reeheeheeheehee, I shall be in your closet, I just want to play, you can't escape me.",
+  "about": "I am the best ast player ever, I know all the tips and tricks about this animal, and I easily defeat most teams of two.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-09T02:46:14.000Z",
+  "date_last_played": "2025-04-25T22:35:03.000Z",
+  "profile_views": 774,
+  "kill_count": 8066,
+  "play_count": 2438,
+  "highest_score": 4130555,
+  "picture": "21304681-f2f2c9d45b37fe51039b8fee39f25878a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 885,
+  "tier": 10,
+  "xp": 1381050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94503,
+      "user_id": 21304681,
+      "platform_id": "rd",
+      "platform_user_id": "u/gamingcentipede",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-05-07T03:47:43.000Z",
+      "updated_at": "2024-05-07T03:47:43.000Z"
+    },
+    {
+      "id": 97252,
+      "user_id": 21304681,
+      "platform_id": "tc",
+      "platform_user_id": "centipeeeeeeeeede",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-08T18:28:53.000Z",
+      "updated_at": "2024-08-08T18:28:53.000Z"
+    },
+    {
+      "id": 97254,
+      "user_id": 21304681,
+      "platform_id": "yt",
+      "platform_user_id": "W VIDEO",
+      "platform_user_url": "https://youtu.be/UROVfmY3NTA?si=PUBDAlX2VbAplsgn",
+      "verified": false,
+      "created_at": "2024-08-08T18:34:39.000Z",
+      "updated_at": "2024-08-08T18:34:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21304681,
+    "rank_kc": 10038,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-06T23:58:38.000Z",
+    "rank_pc": 12920,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-06T23:58:41.000Z",
+    "rank_hs": 32343,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-06T23:58:43.000Z",
+    "created_at": "2025-04-25T22:35:02.000Z",
+    "updated_at": "2025-04-25T22:35:03.000Z",
+    "pd": {
+      "played": 11,
+      "won": 5,
+      "ratio": 45
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244579,
+          "user_id": 21304681,
+          "cloneof_id": null,
+          "string_id": "puzzle_map",
+          "title": "puzzle_map",
+          "description": "fun map with a lobby, levels, a maze, and a fallen PD",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 3,
+          "objects": 550,
+          "created_at": "2024-08-28T01:06:27.000Z",
+          "updated_at": "2025-03-25T21:48:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21304681,
+            "username": "gamingcentipede",
+            "description": "reeheeheeheehee, I shall be in your closet, I just want to play, you can't escape me.",
+            "about": "I am the best ast player ever, I know all the tips and tricks about this animal, and I easily defeat most teams of two.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-07-09T02:46:14.000Z",
+            "date_last_played": "2025-04-25T22:35:03.000Z",
+            "kill_count": 8066,
+            "play_count": 2438,
+            "highest_score": 4130555,
+            "picture": "21304681-f2f2c9d45b37fe51039b8fee39f25878a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 885,
+            "tier": 10,
+            "xp": 1381050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fun"
+            },
+            {
+              "id": "maze"
+            },
+            {
+              "id": "not finished"
+            },
+            {
+              "id": "puzzle"
+            },
+            {
+              "id": "tffa"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:55:18.663Z"
+}
