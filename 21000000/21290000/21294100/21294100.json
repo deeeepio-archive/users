@@ -1,0 +1,61 @@
+{
+  "id": 21294100,
+  "username": "Dafuq",
+  "description": "dead",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-23T21:44:47.000Z",
+  "date_last_played": "2023-11-29T04:45:04.000Z",
+  "profile_views": 616,
+  "kill_count": 1368,
+  "play_count": 377,
+  "highest_score": 284150,
+  "picture": "21294100-c1a95c9a1138693bbb77dbc310a3c9887.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 553,
+  "tier": 4,
+  "xp": 202950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29447,
+      "user_id": 21294100,
+      "platform_id": "dc",
+      "platform_user_id": "yayothedoll0000",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-14T20:51:43.000Z",
+      "updated_at": "2023-11-14T20:51:43.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21294100,
+    "rank_kc": 22085,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-22T19:35:34.000Z",
+    "rank_pc": 31870,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-22T19:35:36.000Z",
+    "rank_hs": 214115,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-22T19:35:41.000Z",
+    "created_at": "2023-11-29T04:45:03.000Z",
+    "updated_at": "2023-11-29T04:45:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:43:15.827Z"
+}
