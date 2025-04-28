@@ -1,0 +1,71 @@
+{
+  "id": 21303876,
+  "username": "Yumazakki",
+  "description": "morreu otario",
+  "about": "@yumazakki & @_playzinny_ segue lá no insta ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-04T18:07:44.000Z",
+  "date_last_played": "2023-08-28T15:40:33.000Z",
+  "profile_views": 10,
+  "kill_count": 11,
+  "play_count": 27,
+  "highest_score": 787832,
+  "picture": "21303876-f6933ab628421075dfffb6990675e4798.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6,
+  "tier": 1,
+  "xp": 3900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 22410,
+      "user_id": 21303876,
+      "platform_id": "ig",
+      "platform_user_id": "_playzinny_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-09T00:56:57.000Z",
+      "updated_at": "2023-07-09T00:56:57.000Z"
+    },
+    {
+      "id": 22409,
+      "user_id": 21303876,
+      "platform_id": "ig",
+      "platform_user_id": "yumazakki",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-09T00:56:39.000Z",
+      "updated_at": "2023-07-09T00:56:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21303876,
+    "rank_kc": 245921,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-08-21T17:58:29.000Z",
+    "rank_pc": 146854,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-21T17:58:30.000Z",
+    "rank_hs": 108244,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-21T17:58:31.000Z",
+    "created_at": "2023-08-28T15:40:32.000Z",
+    "updated_at": "2023-08-28T15:40:33.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:49:50.699Z"
+}
