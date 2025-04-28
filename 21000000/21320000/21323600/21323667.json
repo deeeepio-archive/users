@@ -1,0 +1,61 @@
+{
+  "id": 21323667,
+  "username": "HerrHitler",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-09T11:53:38.000Z",
+  "date_last_played": "2023-10-13T08:30:46.000Z",
+  "profile_views": 4,
+  "kill_count": 9,
+  "play_count": 41,
+  "highest_score": 107203,
+  "picture": "21323667-5fbaa8a7d1a10b85e3d5de6e712f8fe42.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 27786,
+      "user_id": 21323667,
+      "platform_id": "dc",
+      "platform_user_id": "https://fi.wikipedia.org/wiki/Adolf_Hitler",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-09T12:10:38.000Z",
+      "updated_at": "2023-10-09T12:10:38.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21323667,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T03:59:44.622Z",
+    "updated_at": "2025-04-28T03:59:45.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:59:44.677Z"
+}

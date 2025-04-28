@@ -1,0 +1,61 @@
+{
+  "id": 21323693,
+  "username": "Wilvoke",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-09T14:13:38.000Z",
+  "date_last_played": "2023-10-09T14:26:22.000Z",
+  "profile_views": 1,
+  "kill_count": 0,
+  "play_count": 4,
+  "highest_score": 54465,
+  "picture": "21323693-3d412eaaa564d9db54434872a752d96e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 27788,
+      "user_id": 21323693,
+      "platform_id": "yt",
+      "platform_user_id": "The Best Player mope.io",
+      "platform_user_url": "https://youtube.com/@Wilvoke?si=R6R5WR2oXkvaTJva",
+      "verified": false,
+      "created_at": "2023-10-09T14:15:54.000Z",
+      "updated_at": "2023-10-09T14:16:56.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21323693,
+    "rank_kc": 441114,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-09T14:17:36.000Z",
+    "rank_pc": 359318,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-09T14:17:36.000Z",
+    "rank_hs": 589169,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-09T14:17:38.000Z",
+    "created_at": "2023-10-09T14:26:21.000Z",
+    "updated_at": "2023-10-09T14:26:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:59:48.027Z"
+}
