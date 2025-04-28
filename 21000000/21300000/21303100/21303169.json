@@ -1,0 +1,50 @@
+{
+  "id": 21303169,
+  "username": "Deneb",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-01T05:39:19.000Z",
+  "date_last_played": "2023-07-01T08:37:05.000Z",
+  "profile_views": 6,
+  "kill_count": 3,
+  "play_count": 10,
+  "highest_score": 383992,
+  "picture": "21303169-9f4e88ccbe6a0951afdafd46fff3b987.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 1,
+  "xp": 1350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21303169,
+    "rank_kc": 328721,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-01T07:52:05.000Z",
+    "rank_pc": 227509,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-01T07:52:06.000Z",
+    "rank_hs": 171510,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-01T07:52:07.000Z",
+    "created_at": "2023-08-09T09:34:44.000Z",
+    "updated_at": "2023-07-01T08:37:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:45:10.855Z"
+}

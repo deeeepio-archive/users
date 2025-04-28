@@ -1,0 +1,50 @@
+{
+  "id": 21303244,
+  "username": "sunfun",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-01T15:44:45.000Z",
+  "date_last_played": "2023-07-22T08:39:56.000Z",
+  "profile_views": 25,
+  "kill_count": 23,
+  "play_count": 3,
+  "highest_score": 1097867,
+  "picture": "21303244-3f440d47ddb47196d9232d644abbe3df.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 39,
+  "tier": 1,
+  "xp": 4350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21303244,
+    "rank_kc": 190911,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-22T08:47:28.000Z",
+    "rank_pc": 278915,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-22T08:47:29.000Z",
+    "rank_hs": 79933,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-22T08:47:30.000Z",
+    "created_at": "2023-07-22T11:00:02.000Z",
+    "updated_at": "2023-07-22T11:00:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:45:33.690Z"
+}
