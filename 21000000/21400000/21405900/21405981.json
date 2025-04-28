@@ -1,0 +1,65 @@
+{
+  "id": 21405981,
+  "username": "DaviN444",
+  "description": "That was easy",
+  "about": "GRUPO N444",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-03-29T05:12:57.000Z",
+  "date_last_played": "2025-04-15T15:29:57.000Z",
+  "profile_views": 39,
+  "kill_count": 82,
+  "play_count": 98,
+  "highest_score": 4556735,
+  "picture": "21405981-54c0f8395310a1a2cf5ecc430bb13cf71-c07f4d39-a7c3-410b-bb74-9962ddcf9b6c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 367,
+  "tier": 2,
+  "xp": 63150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103516,
+      "user_id": 21405981,
+      "platform_id": "dc",
+      "platform_user_id": "999444555",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-01T21:42:45.000Z",
+      "updated_at": "2025-04-01T21:42:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21405981,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-15T15:29:56.000Z",
+    "updated_at": "2025-04-15T15:29:57.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T19:41:17.662Z"
+}
