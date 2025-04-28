@@ -1,0 +1,143 @@
+{
+  "id": 21309061,
+  "username": "POPPIN",
+  "description": "whats poppin i hope you called a ambulence\ni hope i sea you again\n",
+  "about": "what's poppin brand new whip let hoppin",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-31T01:13:26.000Z",
+  "date_last_played": "2024-02-05T20:29:12.000Z",
+  "profile_views": 143,
+  "kill_count": 219,
+  "play_count": 303,
+  "highest_score": 1052752,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 21,
+  "tier": 2,
+  "xp": 54600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21309061,
+    "rank_kc": 74103,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-21T03:08:11.000Z",
+    "rank_pc": 38674,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-21T03:08:14.000Z",
+    "rank_hs": 88968,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-21T03:08:17.000Z",
+    "created_at": "2024-02-05T20:29:11.000Z",
+    "updated_at": "2024-02-05T20:29:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12771,
+          "user_id": 21309061,
+          "cloneof_id": null,
+          "string_id": "blue",
+          "title": "hard mode",
+          "description": "pls join",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 119,
+          "created_at": "2023-09-02T00:08:41.000Z",
+          "updated_at": "2023-09-02T00:08:42.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21309061,
+            "username": "POPPIN",
+            "description": "whats poppin i hope you called a ambulence\ni hope i sea you again\n",
+            "about": "what's poppin brand new whip let hoppin",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-07-31T01:13:26.000Z",
+            "date_last_played": "2024-02-05T20:29:12.000Z",
+            "kill_count": 219,
+            "play_count": 303,
+            "highest_score": 1052752,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 21,
+            "tier": 2,
+            "xp": 54600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fire ball"
+            }
+          ]
+        },
+        {
+          "id": 12641,
+          "user_id": 21309061,
+          "cloneof_id": null,
+          "string_id": "cornpops121world",
+          "title": "cornpops121world",
+          "description": "dont known",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 30,
+          "created_at": "2023-07-31T02:27:20.000Z",
+          "updated_at": "2023-07-31T02:29:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21309061,
+            "username": "POPPIN",
+            "description": "whats poppin i hope you called a ambulence\ni hope i sea you again\n",
+            "about": "what's poppin brand new whip let hoppin",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-07-31T01:13:26.000Z",
+            "date_last_played": "2024-02-05T20:29:12.000Z",
+            "kill_count": 219,
+            "play_count": 303,
+            "highest_score": 1052752,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 21,
+            "tier": 2,
+            "xp": 54600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "im the king"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:24:00.914Z"
+}
