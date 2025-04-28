@@ -1,0 +1,61 @@
+{
+  "id": 21293244,
+  "username": "xvamp",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-20T16:50:24.000Z",
+  "date_last_played": "2023-06-14T03:47:13.000Z",
+  "profile_views": 33,
+  "kill_count": 329,
+  "play_count": 428,
+  "highest_score": 1541585,
+  "picture": "21293244-fd67d2680331e3c093492499dbba2dd5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 132,
+  "tier": 2,
+  "xp": 59550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20573,
+      "user_id": 21293244,
+      "platform_id": "dc",
+      "platform_user_id": "LRN Slime#0011",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-09T02:12:51.000Z",
+      "updated_at": "2023-06-09T02:12:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21293244,
+    "rank_kc": 84955,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-10T19:54:21.000Z",
+    "rank_pc": 37348,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-10T19:54:22.000Z",
+    "rank_hs": 85890,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-10T19:54:23.000Z",
+    "created_at": "2023-06-14T03:47:13.000Z",
+    "updated_at": "2023-06-14T03:47:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:37:58.966Z"
+}
