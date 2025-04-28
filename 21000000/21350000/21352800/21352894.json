@@ -1,0 +1,67 @@
+{
+  "id": 21352894,
+  "username": "Alexandrote1",
+  "description": "Rip",
+  "about": "Stupid\n\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-02-14T01:11:55.000Z",
+  "date_last_played": "2025-03-23T01:45:18.000Z",
+  "profile_views": 974,
+  "kill_count": 7273,
+  "play_count": 3968,
+  "highest_score": 4378534,
+  "picture": "21352894-d1b8eab9da56c05bb52eb99302ca6881-b4ce8e8b-e02e-42eb-aedc-3cd230a592d7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 90,
+  "tier": 10,
+  "xp": 1463850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 95521,
+      "user_id": 21352894,
+      "platform_id": "dc",
+      "platform_user_id": "alexandrote1 ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-17T22:11:42.000Z",
+      "updated_at": "2024-06-17T22:11:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21352894,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-23T01:45:17.000Z",
+    "updated_at": "2025-03-23T01:45:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:19:38.776Z"
+}
