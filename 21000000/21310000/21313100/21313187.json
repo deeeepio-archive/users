@@ -1,0 +1,61 @@
+{
+  "id": 21313187,
+  "username": "jeet85",
+  "description": "good night good luck.",
+  "about": "theres nothing here ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-21T13:52:05.000Z",
+  "date_last_played": "2023-12-17T05:15:29.000Z",
+  "profile_views": 337,
+  "kill_count": 258,
+  "play_count": 234,
+  "highest_score": 209920,
+  "picture": "21313187-91c61b207a17b8a1ea8da95dc3b3fc82.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 87,
+  "tier": 2,
+  "xp": 49050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 25053,
+      "user_id": 21313187,
+      "platform_id": "dc",
+      "platform_user_id": "jeet85",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-21T13:59:22.000Z",
+      "updated_at": "2023-12-11T17:44:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21313187,
+    "rank_kc": 68974,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-16T15:18:21.000Z",
+    "rank_pc": 43630,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-16T15:18:23.000Z",
+    "rank_hs": 243677,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-16T15:18:25.000Z",
+    "created_at": "2023-12-17T18:00:02.000Z",
+    "updated_at": "2023-12-17T18:00:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:51:00.345Z"
+}
