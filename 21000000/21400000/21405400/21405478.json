@@ -1,0 +1,65 @@
+{
+  "id": 21405478,
+  "username": "lllllllllllllllllllllll",
+  "description": "",
+  "about": "https://deeeep.io/u/______P",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-03-25T11:36:55.000Z",
+  "date_last_played": "2025-04-15T16:54:29.000Z",
+  "profile_views": 554,
+  "kill_count": 145,
+  "play_count": 45,
+  "highest_score": 3516218,
+  "picture": "21405478-e633f1aa3dc0f1635fb4d8ceb28ffd58-b206d8eb-62a9-42ab-bc16-7c2f30c49906.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 163,
+  "tier": 2,
+  "xp": 35100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103660,
+      "user_id": 21405478,
+      "platform_id": "dc",
+      "platform_user_id": "pipi019022",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-16T15:14:31.000Z",
+      "updated_at": "2025-04-16T15:14:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21405478,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-15T16:54:28.000Z",
+    "updated_at": "2025-04-15T16:54:29.000Z",
+    "pd": {
+      "played": 8,
+      "won": 2,
+      "ratio": 25
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T19:37:40.784Z"
+}
