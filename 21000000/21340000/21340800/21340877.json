@@ -1,0 +1,97 @@
+{
+  "id": 21340877,
+  "username": "Proven",
+  "description": "Try again dont give up\n",
+  "about": "I have every day good feeling maybe :(\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-12T13:21:53.000Z",
+  "date_last_played": "2025-03-03T13:35:13.000Z",
+  "profile_views": 313,
+  "kill_count": 486,
+  "play_count": 702,
+  "highest_score": 2633973,
+  "picture": "21340877-e8610f8804195c83afe535429df84cdf6-c01d452a-3bc3-4da8-a242-8212899940e2.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 153,
+  "tier": 4,
+  "xp": 238350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21340877,
+    "rank_kc": 83810,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T13:38:47.000Z",
+    "rank_pc": 42776,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T13:38:49.000Z",
+    "rank_hs": 27153,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T13:38:54.000Z",
+    "created_at": "2025-03-03T13:35:12.000Z",
+    "updated_at": "2025-03-03T13:35:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13220,
+          "user_id": 21340877,
+          "cloneof_id": null,
+          "string_id": "elka999go",
+          "title": "Classic",
+          "description": "i like classic",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 46,
+          "created_at": "2023-12-13T15:38:12.000Z",
+          "updated_at": "2023-12-14T11:27:52.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21340877,
+            "username": "Proven",
+            "description": "Try again dont give up\n",
+            "about": "I have every day good feeling maybe :(\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-12-12T13:21:53.000Z",
+            "date_last_played": "2025-03-03T13:35:13.000Z",
+            "kill_count": 486,
+            "play_count": 702,
+            "highest_score": 2633973,
+            "picture": "21340877-e8610f8804195c83afe535429df84cdf6-c01d452a-3bc3-4da8-a242-8212899940e2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 153,
+            "tier": 4,
+            "xp": 238350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:57:05.348Z"
+}
