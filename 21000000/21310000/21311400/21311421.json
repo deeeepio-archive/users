@@ -1,0 +1,91 @@
+{
+  "id": 21311421,
+  "username": "Nrrmal",
+  "description": "WHY MEEEE\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-13T15:03:19.000Z",
+  "date_last_played": "2023-08-13T15:03:19.000Z",
+  "profile_views": 1,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": "21311421-601f86c335dee7d3668a3a93ce2010311.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 24519,
+      "user_id": 21311421,
+      "platform_id": "dc",
+      "platform_user_id": "Nrrmal",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-13T15:04:02.000Z",
+      "updated_at": "2023-08-13T15:04:36.000Z"
+    },
+    {
+      "id": 24521,
+      "user_id": 21311421,
+      "platform_id": "tc",
+      "platform_user_id": "Nrrmal1",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-13T15:04:29.000Z",
+      "updated_at": "2023-08-13T15:04:29.000Z"
+    },
+    {
+      "id": 24520,
+      "user_id": 21311421,
+      "platform_id": "tw",
+      "platform_user_id": "NotNrrmal",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-13T15:04:16.000Z",
+      "updated_at": "2023-08-13T15:04:16.000Z"
+    },
+    {
+      "id": 24522,
+      "user_id": 21311421,
+      "platform_id": "yt",
+      "platform_user_id": "Nrrmal",
+      "platform_user_url": "https://www.youtube.com/@nrrmal",
+      "verified": false,
+      "created_at": "2023-08-13T15:05:23.000Z",
+      "updated_at": "2023-08-13T15:05:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21311421,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T02:38:58.084Z",
+    "updated_at": "2025-04-28T02:38:58.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:38:58.149Z"
+}
