@@ -1,0 +1,61 @@
+{
+  "id": 21294935,
+  "username": "poesay",
+  "description": "poesay tight poesay clean poesay fresh",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-26T17:04:02.000Z",
+  "date_last_played": "2025-04-17T16:44:49.000Z",
+  "profile_views": 36,
+  "kill_count": 39,
+  "play_count": 242,
+  "highest_score": 515438,
+  "picture": "21294935-42108855ea79da6caf6d106f74c4e747d4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 84,
+  "tier": 1,
+  "xp": 11100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 27332,
+      "user_id": 21294935,
+      "platform_id": "tw",
+      "platform_user_id": "floptok",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-30T16:26:00.000Z",
+      "updated_at": "2023-09-30T16:26:00.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21294935,
+    "rank_kc": 185238,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-20T18:03:56.000Z",
+    "rank_pc": 50706,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-20T18:03:58.000Z",
+    "rank_hs": 184731,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-20T18:04:00.000Z",
+    "created_at": "2025-04-17T16:44:49.000Z",
+    "updated_at": "2025-04-17T16:44:49.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:49:56.502Z"
+}
