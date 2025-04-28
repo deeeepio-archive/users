@@ -1,0 +1,61 @@
+{
+  "id": 21311708,
+  "username": "Jucata",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-14T22:10:07.000Z",
+  "date_last_played": "2024-12-12T17:02:05.000Z",
+  "profile_views": 41,
+  "kill_count": 87,
+  "play_count": 104,
+  "highest_score": 877852,
+  "picture": "21311708-844104da13c3622104a3cadf10c352aab13.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 1,
+  "xp": 19200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 24711,
+      "user_id": 21311708,
+      "platform_id": "tc",
+      "platform_user_id": "Jucata2008",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-15T19:17:19.000Z",
+      "updated_at": "2023-08-15T19:17:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21311708,
+    "rank_kc": 153892,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-19T18:15:17.000Z",
+    "rank_pc": 134547,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-19T18:15:18.000Z",
+    "rank_hs": 99084,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-19T18:15:19.000Z",
+    "created_at": "2024-12-12T17:02:04.000Z",
+    "updated_at": "2024-12-12T17:02:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:40:58.849Z"
+}
