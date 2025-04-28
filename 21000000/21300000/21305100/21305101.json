@@ -1,0 +1,61 @@
+{
+  "id": 21305101,
+  "username": "donkeydick",
+  "description": "went limp",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-11T11:27:59.000Z",
+  "date_last_played": "2023-07-12T05:17:56.000Z",
+  "profile_views": 2,
+  "kill_count": 1,
+  "play_count": 12,
+  "highest_score": 102433,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 22565,
+      "user_id": 21305101,
+      "platform_id": "dc",
+      "platform_user_id": "danni.baker#1663",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-11T11:33:26.000Z",
+      "updated_at": "2023-07-11T11:33:26.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21305101,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T01:57:57.521Z",
+    "updated_at": "2025-04-28T01:57:58.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:57:57.632Z"
+}
