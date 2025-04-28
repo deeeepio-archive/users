@@ -1,0 +1,50 @@
+{
+  "id": 21325679,
+  "username": "FoxGamer23",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-19T17:18:40.000Z",
+  "date_last_played": "2023-10-19T17:31:34.000Z",
+  "profile_views": 4,
+  "kill_count": 3,
+  "play_count": 1,
+  "highest_score": 305360,
+  "picture": "21325679-42a85b8e249610e9cf04dd4b583476916.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21325679,
+    "rank_kc": 340240,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-10-19T17:32:33.000Z",
+    "rank_pc": 331379,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-10-19T17:32:36.000Z",
+    "rank_hs": 203140,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-19T17:32:37.000Z",
+    "created_at": "2023-10-19T17:32:30.000Z",
+    "updated_at": "2023-10-19T17:32:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:13:25.835Z"
+}
