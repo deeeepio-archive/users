@@ -1,0 +1,61 @@
+{
+  "id": 21356985,
+  "username": "fehim",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-03-06T19:40:10.000Z",
+  "date_last_played": "2025-02-05T22:56:13.000Z",
+  "profile_views": 1,
+  "kill_count": 1,
+  "play_count": 4,
+  "highest_score": 34050,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92610,
+      "user_id": 21356985,
+      "platform_id": "yt",
+      "platform_user_id": "fehim fetai",
+      "platform_user_url": "https://www.youtube.com/channel/UC-TIz3zGr0U0LG6AA8_ipog",
+      "verified": false,
+      "created_at": "2024-03-06T19:43:18.000Z",
+      "updated_at": "2024-03-06T19:43:18.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21356985,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T07:47:27.726Z",
+    "updated_at": "2025-04-28T07:47:28.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:47:27.827Z"
+}
