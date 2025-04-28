@@ -1,0 +1,75 @@
+{
+  "id": 21288963,
+  "username": "gnik7-",
+  "description": "",
+  "about": "死馬的队友,用雕玩遊戲",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-06T00:59:10.000Z",
+  "date_last_played": "2025-04-11T15:47:10.000Z",
+  "profile_views": 6384,
+  "kill_count": 16326,
+  "play_count": 2824,
+  "highest_score": 8011562,
+  "picture": "21288963-6856aa4ee57f19c51076108c752e2e7141-bcc4a472-556b-4aa5-8459-bcc0dbf7720f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2139,
+  "tier": 10,
+  "xp": 2958000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30311,
+      "user_id": 21288963,
+      "platform_id": "yt",
+      "platform_user_id": "--",
+      "platform_user_url": "https://www.youtube.com/watch?v=WIRK_pGdIdA&t=1337s",
+      "verified": false,
+      "created_at": "2023-12-03T13:10:06.000Z",
+      "updated_at": "2023-12-03T13:10:06.000Z"
+    },
+    {
+      "id": 25408,
+      "user_id": 21288963,
+      "platform_id": "yt",
+      "platform_user_id": "ㅤ",
+      "platform_user_url": "https://www.youtube.com/watch?v=hvL1339luv0",
+      "verified": false,
+      "created_at": "2023-08-26T07:12:30.000Z",
+      "updated_at": "2023-08-26T07:12:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21288963,
+    "rank_kc": 4152,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-18T05:33:02.000Z",
+    "rank_pc": 12620,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-18T05:33:03.000Z",
+    "rank_hs": 3668,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-18T05:33:04.000Z",
+    "created_at": "2025-04-11T15:47:10.000Z",
+    "updated_at": "2025-04-11T15:47:10.000Z",
+    "pd": {
+      "played": 20,
+      "won": 16,
+      "ratio": 80
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:08:49.315Z"
+}
