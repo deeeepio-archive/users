@@ -1,0 +1,71 @@
+{
+  "id": 21375190,
+  "username": "fadd",
+  "description": "I love you",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-07-20T20:35:15.000Z",
+  "date_last_played": "2024-07-21T22:35:09.000Z",
+  "profile_views": 11,
+  "kill_count": 19,
+  "play_count": 11,
+  "highest_score": 1719475,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 38,
+  "tier": 1,
+  "xp": 8700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 96632,
+      "user_id": 21375190,
+      "platform_id": "yt",
+      "platform_user_id": "Engine fire",
+      "platform_user_url": "https://youtu.be/y5CXtCzbVsk",
+      "verified": false,
+      "created_at": "2024-07-20T20:39:22.000Z",
+      "updated_at": "2024-07-20T20:39:22.000Z"
+    },
+    {
+      "id": 96631,
+      "user_id": 21375190,
+      "platform_id": "yt",
+      "platform_user_id": "Full action",
+      "platform_user_url": "https://youtu.be/B9iKMuCe33Q?list=RDB9iKMuCe33Q",
+      "verified": false,
+      "created_at": "2024-07-20T20:38:43.000Z",
+      "updated_at": "2024-07-20T20:38:43.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21375190,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T10:14:27.731Z",
+    "updated_at": "2025-04-28T10:14:28.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T10:14:27.825Z"
+}
