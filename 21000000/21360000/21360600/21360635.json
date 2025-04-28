@@ -1,0 +1,97 @@
+{
+  "id": 21360635,
+  "username": "Koolbro",
+  "description": "Have a blessed and amazing day!",
+  "about": "Idk",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-03-30T02:18:25.000Z",
+  "date_last_played": "2024-12-27T18:26:13.000Z",
+  "profile_views": 29,
+  "kill_count": 64,
+  "play_count": 290,
+  "highest_score": 1924536,
+  "picture": "21360635-0f1165a6-9a7c-48bf-a659-2697778fd0e1-feb568e71f373bb043fd942e8bf8feef.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 188,
+  "tier": 2,
+  "xp": 52350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21360635,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-12-27T18:26:13.000Z",
+    "updated_at": "2024-12-27T18:26:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 43956,
+          "user_id": 21360635,
+          "cloneof_id": null,
+          "string_id": "1_2_idk",
+          "title": "Idk",
+          "description": "I don't know",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 332,
+          "created_at": "2024-04-07T10:47:44.000Z",
+          "updated_at": "2024-04-07T10:51:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21360635,
+            "username": "Koolbro",
+            "description": "Have a blessed and amazing day!",
+            "about": "Idk",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-03-30T02:18:25.000Z",
+            "date_last_played": "2024-12-27T18:26:13.000Z",
+            "kill_count": 64,
+            "play_count": 290,
+            "highest_score": 1924536,
+            "picture": "21360635-0f1165a6-9a7c-48bf-a659-2697778fd0e1-feb568e71f373bb043fd942e8bf8feef.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 188,
+            "tier": 2,
+            "xp": 52350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#I #Don't #Know"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T08:17:32.888Z"
+}
