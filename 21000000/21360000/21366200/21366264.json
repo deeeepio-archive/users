@@ -1,0 +1,65 @@
+{
+  "id": 21366264,
+  "username": "oilguzzler87",
+  "description": "whoops",
+  "about": "im so ass at this game",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-05-09T10:29:31.000Z",
+  "date_last_played": "2025-04-17T14:05:22.000Z",
+  "profile_views": 43,
+  "kill_count": 30,
+  "play_count": 235,
+  "highest_score": 717196,
+  "picture": "21366264-e0e78ef010c9db659e4e1167aa15ba2c5-6ff444db-6afc-4c1d-ac15-d92aef1cc1f8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 51,
+  "tier": 2,
+  "xp": 27150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102249,
+      "user_id": 21366264,
+      "platform_id": "dc",
+      "platform_user_id": "oilguzzler87",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-01-27T11:46:41.000Z",
+      "updated_at": "2025-01-27T11:46:41.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21366264,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-17T14:05:21.000Z",
+    "updated_at": "2025-04-17T14:05:22.000Z",
+    "pd": {
+      "played": 3,
+      "won": 1,
+      "ratio": 33
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T08:59:01.348Z"
+}
