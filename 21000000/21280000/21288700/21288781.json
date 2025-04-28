@@ -1,0 +1,61 @@
+{
+  "id": 21288781,
+  "username": "A_Lenda_BR",
+  "description": "MOBILE PLAYER",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-05T15:09:40.000Z",
+  "date_last_played": "2023-11-03T15:30:58.000Z",
+  "profile_views": 59,
+  "kill_count": 1057,
+  "play_count": 1209,
+  "highest_score": 1288087,
+  "picture": "21288781-810c97a27020ef26ec32497bf4016c84c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 228,
+  "tier": 5,
+  "xp": 253500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 19369,
+      "user_id": 21288781,
+      "platform_id": "dc",
+      "platform_user_id": "Sla 15 #2969",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-15T23:43:20.000Z",
+      "updated_at": "2023-05-15T23:43:20.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21288781,
+    "rank_kc": 27768,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-17T14:36:44.000Z",
+    "rank_pc": 12003,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-17T14:36:47.000Z",
+    "rank_hs": 69083,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-17T14:36:49.000Z",
+    "created_at": "2023-11-03T15:30:57.000Z",
+    "updated_at": "2023-11-03T15:30:58.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:07:36.542Z"
+}
