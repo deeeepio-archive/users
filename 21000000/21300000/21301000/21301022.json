@@ -1,0 +1,50 @@
+{
+  "id": 21301022,
+  "username": "RA1",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-20T20:30:36.000Z",
+  "date_last_played": "2023-06-26T21:14:13.000Z",
+  "profile_views": 1,
+  "kill_count": 9,
+  "play_count": 2,
+  "highest_score": 1388212,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 30,
+  "tier": 1,
+  "xp": 3000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21301022,
+    "rank_kc": 426776,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-26T20:16:20.000Z",
+    "rank_pc": 340032,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-26T20:16:21.000Z",
+    "rank_hs": 570646,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-26T20:16:22.000Z",
+    "created_at": "2023-06-26T21:14:12.000Z",
+    "updated_at": "2023-06-26T21:14:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:30:47.135Z"
+}
