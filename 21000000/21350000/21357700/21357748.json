@@ -1,0 +1,97 @@
+{
+  "id": 21357748,
+  "username": "Cool_Car",
+  "description": "You have played well, but it seems you have been over taken. I wish you good luck in the future.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-03-10T18:13:45.000Z",
+  "date_last_played": "2024-11-20T12:54:42.000Z",
+  "profile_views": 100,
+  "kill_count": 514,
+  "play_count": 244,
+  "highest_score": 1976759,
+  "picture": "21357748-3c63410efe21668a6bda5ee8a3fa6f5d6-02a14f41-f0cb-439e-9ef5-37f25b632cb5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 199,
+  "tier": 3,
+  "xp": 119400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21357748,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-11-20T12:54:42.000Z",
+    "updated_at": "2024-11-20T12:54:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 15793,
+          "user_id": 21357748,
+          "cloneof_id": null,
+          "string_id": "my_map_id747",
+          "title": "Big Map PvP",
+          "description": "Fight against npcs, and other players!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 15,
+          "created_at": "2024-03-21T11:50:56.000Z",
+          "updated_at": "2024-03-21T11:52:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21357748,
+            "username": "Cool_Car",
+            "description": "You have played well, but it seems you have been over taken. I wish you good luck in the future.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-03-10T18:13:45.000Z",
+            "date_last_played": "2024-11-20T12:54:42.000Z",
+            "kill_count": 514,
+            "play_count": 244,
+            "highest_score": 1976759,
+            "picture": "21357748-3c63410efe21668a6bda5ee8a3fa6f5d6-02a14f41-f0cb-439e-9ef5-37f25b632cb5.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 199,
+            "tier": 3,
+            "xp": 119400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:52:19.844Z"
+}
