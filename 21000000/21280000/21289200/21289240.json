@@ -1,0 +1,71 @@
+{
+  "id": 21289240,
+  "username": "Miners",
+  "description": "o\"\"hi hi hi, hi hi h hi hi,\"\"1,",
+  "about": "Im the biggest bird\n3.1415926535\n12.131.696.42420",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-06T23:40:08.000Z",
+  "date_last_played": "2023-06-10T17:20:29.000Z",
+  "profile_views": 7,
+  "kill_count": 5,
+  "play_count": 14,
+  "highest_score": 207345,
+  "picture": "21289240-73159ec7e423de68a37d75ad698a8125.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4,
+  "tier": 1,
+  "xp": 600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18759,
+      "user_id": 21289240,
+      "platform_id": "dc",
+      "platform_user_id": "MrBeast",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-06T23:50:42.000Z",
+      "updated_at": "2023-05-06T23:50:42.000Z"
+    },
+    {
+      "id": 18758,
+      "user_id": 21289240,
+      "platform_id": "yt",
+      "platform_user_id": "Pewdiepie",
+      "platform_user_url": "https://www.youtube.com/@MrBeast",
+      "verified": false,
+      "created_at": "2023-05-06T23:50:33.000Z",
+      "updated_at": "2023-05-06T23:50:33.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21289240,
+    "rank_kc": 297052,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-07-02T15:36:08.000Z",
+    "rank_pc": 179024,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-07-02T15:36:09.000Z",
+    "rank_hs": 234420,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-02T15:36:10.000Z",
+    "created_at": "2023-07-02T15:36:10.000Z",
+    "updated_at": "2023-07-02T15:36:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:10:23.662Z"
+}
