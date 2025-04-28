@@ -1,0 +1,61 @@
+{
+  "id": 21325911,
+  "username": "itscraftee",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-20T15:33:57.000Z",
+  "date_last_played": "2024-04-23T16:58:10.000Z",
+  "profile_views": 14,
+  "kill_count": 1,
+  "play_count": 67,
+  "highest_score": 75905,
+  "picture": "21325911-9b7f9d4b106ffc7f07103b38de923caf42.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30989,
+      "user_id": 21325911,
+      "platform_id": "yt",
+      "platform_user_id": "@CRAFTEE2.0",
+      "platform_user_url": "https://www.youtube.com/@CRAFTEE2.0",
+      "verified": false,
+      "created_at": "2023-12-19T15:09:36.000Z",
+      "updated_at": "2023-12-19T15:09:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21325911,
+    "rank_kc": 401853,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-12-21T17:20:11.000Z",
+    "rank_pc": 107420,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-21T17:20:17.000Z",
+    "rank_hs": 366049,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-21T17:20:19.000Z",
+    "created_at": "2024-04-23T16:58:09.000Z",
+    "updated_at": "2024-04-23T16:58:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:14:50.083Z"
+}
