@@ -1,0 +1,61 @@
+{
+  "id": 21335191,
+  "username": "Jenxy",
+  "description": "Jenxy was here",
+  "about": "\nHola comó estás but i am not spanish",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-17T20:15:26.000Z",
+  "date_last_played": "2024-02-06T06:50:16.000Z",
+  "profile_views": 16,
+  "kill_count": 16,
+  "play_count": 11,
+  "highest_score": 302775,
+  "picture": "21335191-f7e4333636bec510c480d10a71af81b289.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 1,
+  "xp": 1350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29568,
+      "user_id": 21335191,
+      "platform_id": "dc",
+      "platform_user_id": "FaiJ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-17T20:17:24.000Z",
+      "updated_at": "2023-11-17T20:17:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21335191,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-02-18T20:55:14.000Z",
+    "updated_at": "2024-02-18T20:55:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:17:12.652Z"
+}
