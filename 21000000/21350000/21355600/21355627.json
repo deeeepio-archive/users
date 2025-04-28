@@ -1,0 +1,97 @@
+{
+  "id": 21355627,
+  "username": "namegf",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-02-29T13:24:25.000Z",
+  "date_last_played": "2024-07-14T12:19:16.000Z",
+  "profile_views": 28,
+  "kill_count": 18,
+  "play_count": 49,
+  "highest_score": 197203,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 13350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21355627,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-07-14T15:00:03.000Z",
+    "updated_at": "2024-07-14T15:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 15696,
+          "user_id": 21355627,
+          "cloneof_id": null,
+          "string_id": "vrij",
+          "title": "Untitled",
+          "description": " fdrkvc lc",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 14,
+          "created_at": "2024-03-01T13:53:16.000Z",
+          "updated_at": "2024-03-01T13:53:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21355627,
+            "username": "namegf",
+            "description": "",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-02-29T13:24:25.000Z",
+            "date_last_played": "2024-07-14T12:19:16.000Z",
+            "kill_count": 18,
+            "play_count": 49,
+            "highest_score": 197203,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 10,
+            "tier": 1,
+            "xp": 13350,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": ",edcslk "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:37:31.304Z"
+}
