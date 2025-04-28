@@ -1,0 +1,61 @@
+{
+  "id": 21299036,
+  "username": "TabascoMaster",
+  "description": "Bozo",
+  "about": "Anti-bozo",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-12T20:10:59.000Z",
+  "date_last_played": "2023-06-21T23:30:11.000Z",
+  "profile_views": 8,
+  "kill_count": 55,
+  "play_count": 53,
+  "highest_score": 825391,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 64,
+  "tier": 1,
+  "xp": 8100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20916,
+      "user_id": 21299036,
+      "platform_id": "dc",
+      "platform_user_id": "TabascoMaster#3738",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-12T21:10:43.000Z",
+      "updated_at": "2023-06-12T21:10:43.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21299036,
+    "rank_kc": 424589,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-12T20:24:05.000Z",
+    "rank_pc": 336990,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-12T20:24:07.000Z",
+    "rank_hs": 567761,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-12T20:24:08.000Z",
+    "created_at": "2023-06-21T23:30:10.000Z",
+    "updated_at": "2023-06-21T23:30:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:17:30.883Z"
+}
