@@ -1,0 +1,114 @@
+{
+  "id": 21299423,
+  "username": "ℂ𝕆𝕆𝕂𝕀𝔼𝕊❈𝒱𝟤𝟧",
+  "description": "be better💀\n",
+  "about": "🐪 on top \n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-14T12:40:15.000Z",
+  "date_last_played": "2025-03-13T18:38:53.000Z",
+  "profile_views": 276,
+  "kill_count": 834,
+  "play_count": 701,
+  "highest_score": 1539106,
+  "picture": "21299423-62829f13fbe8598e3c1bac46439346da-8db8d2a7-c575-41c9-9fa6-848ca53b63a1.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 136,
+  "tier": 4,
+  "xp": 151500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 95951,
+      "user_id": 21299423,
+      "platform_id": "dc",
+      "platform_user_id": "COOKIESV25#3151",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-28T13:12:23.000Z",
+      "updated_at": "2024-06-28T13:12:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21299423,
+    "rank_kc": 172624,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-09T09:30:55.000Z",
+    "rank_pc": 118820,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-09T09:30:56.000Z",
+    "rank_hs": 126174,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-09T09:30:59.000Z",
+    "created_at": "2025-03-13T18:38:53.000Z",
+    "updated_at": "2025-03-13T18:38:53.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244292,
+          "user_id": 21299423,
+          "cloneof_id": 12218,
+          "string_id": "tfffa_new_map",
+          "title": "my new map",
+          "description": "ffa",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": -1,
+          "objects": 2778,
+          "created_at": "2024-05-25T15:57:31.000Z",
+          "updated_at": "2024-05-25T15:57:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21299423,
+            "username": "ℂ𝕆𝕆𝕂𝕀𝔼𝕊❈𝒱𝟤𝟧",
+            "description": "be better💀\n",
+            "about": "🐪 on top \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-06-14T12:40:15.000Z",
+            "date_last_played": "2025-03-13T18:38:53.000Z",
+            "kill_count": 834,
+            "play_count": 701,
+            "highest_score": 1539106,
+            "picture": "21299423-62829f13fbe8598e3c1bac46439346da-8db8d2a7-c575-41c9-9fa6-848ca53b63a1.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 136,
+            "tier": 4,
+            "xp": 151500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "greep"
+            },
+            {
+              "id": "tffa"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:20:01.041Z"
+}
