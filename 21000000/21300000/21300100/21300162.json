@@ -1,0 +1,61 @@
+{
+  "id": 21300162,
+  "username": "Kaikkien",
+  "description": "Sorry for killing you.",
+  "about": "I'm just a lonely gay person.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-17T13:02:37.000Z",
+  "date_last_played": "2023-06-18T11:33:50.000Z",
+  "profile_views": 3,
+  "kill_count": 8,
+  "play_count": 17,
+  "highest_score": 1689317,
+  "picture": "21300162-5dadeca7fdc9d1ae7d3c3263bbdd1291.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 56,
+  "tier": 1,
+  "xp": 6900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21156,
+      "user_id": 21300162,
+      "platform_id": "dc",
+      "platform_user_id": "Organ Player#3337",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-17T13:12:23.000Z",
+      "updated_at": "2023-06-17T13:12:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21300162,
+    "rank_kc": 295594,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-18T08:13:35.000Z",
+    "rank_pc": 194251,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-18T08:13:41.000Z",
+    "rank_hs": 152821,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-18T08:13:43.000Z",
+    "created_at": "2023-06-18T11:33:50.000Z",
+    "updated_at": "2023-06-18T11:33:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:24:47.724Z"
+}
