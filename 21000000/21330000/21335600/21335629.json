@@ -1,0 +1,61 @@
+{
+  "id": 21335629,
+  "username": "kingkrool94",
+  "description": "nothing personal, it's just how life works. ",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-19T07:23:38.000Z",
+  "date_last_played": "2023-11-19T23:49:57.000Z",
+  "profile_views": 3,
+  "kill_count": 0,
+  "play_count": 12,
+  "highest_score": 41100,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29710,
+      "user_id": 21335629,
+      "platform_id": "dc",
+      "platform_user_id": "Kingkrool94",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-19T23:24:12.000Z",
+      "updated_at": "2023-11-19T23:24:12.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21335629,
+    "rank_kc": 447273,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-11-19T23:24:29.000Z",
+    "rank_pc": 283163,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-19T23:24:30.000Z",
+    "rank_hs": 425788,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-19T23:24:32.000Z",
+    "created_at": "2023-11-19T23:49:57.000Z",
+    "updated_at": "2023-11-19T23:49:57.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:19:57.783Z"
+}
