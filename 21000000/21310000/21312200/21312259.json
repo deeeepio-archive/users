@@ -1,0 +1,50 @@
+{
+  "id": 21312259,
+  "username": "Krumm",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-17T08:40:24.000Z",
+  "date_last_played": "2023-08-17T13:57:42.000Z",
+  "profile_views": 10,
+  "kill_count": 2,
+  "play_count": 10,
+  "highest_score": 567426,
+  "picture": "21312259-4544fcfc1866166f40ed14d59d4e2cc1.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3,
+  "tier": 1,
+  "xp": 1950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21312259,
+    "rank_kc": 355776,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-08-17T12:28:17.000Z",
+    "rank_pc": 255371,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-17T12:28:19.000Z",
+    "rank_hs": 137139,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-17T12:28:22.000Z",
+    "created_at": "2023-08-17T13:57:41.000Z",
+    "updated_at": "2023-08-17T13:57:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:44:27.153Z"
+}
