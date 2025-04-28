@@ -1,0 +1,50 @@
+{
+  "id": 21334531,
+  "username": "Cara",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-15T21:41:49.000Z",
+  "date_last_played": "2024-12-03T20:12:46.000Z",
+  "profile_views": 110,
+  "kill_count": 489,
+  "play_count": 110,
+  "highest_score": 1332623,
+  "picture": "21334531-e43419c5bab7fd67dfdd1d7f17dfa405.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 510,
+  "tier": 2,
+  "xp": 75000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21334531,
+    "rank_kc": 56940,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-09T16:05:54.000Z",
+    "rank_pc": 85205,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-09T16:06:00.000Z",
+    "rank_hs": 68925,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-09T16:06:06.000Z",
+    "created_at": "2025-01-12T19:06:15.000Z",
+    "updated_at": "2025-01-12T19:06:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:12:31.510Z"
+}
