@@ -1,0 +1,75 @@
+{
+  "id": 21405208,
+  "username": "tortugaepica",
+  "description": "si memuero mi hermano lo jugara",
+  "about": "me encanta ver toutube\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-03-22T23:06:36.000Z",
+  "date_last_played": "2025-04-28T17:29:38.000Z",
+  "profile_views": 252,
+  "kill_count": 620,
+  "play_count": 496,
+  "highest_score": 3957318,
+  "picture": "21405208-36626be4d35e845914d47a914f6310f55-1fc3d59e-53c5-4879-99c8-a9859b482de9.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 34,
+  "tier": 4,
+  "xp": 222150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103921,
+      "user_id": 21405208,
+      "platform_id": "dc",
+      "platform_user_id": "google",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-23T02:57:10.000Z",
+      "updated_at": "2025-04-23T02:57:10.000Z"
+    },
+    {
+      "id": 103576,
+      "user_id": 21405208,
+      "platform_id": "dc",
+      "platform_user_id": "whatsapp wed",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-11T04:06:01.000Z",
+      "updated_at": "2025-04-11T04:06:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21405208,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-28T17:29:37.000Z",
+    "updated_at": "2025-04-28T17:29:38.000Z",
+    "pd": {
+      "played": 54,
+      "won": 27,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T19:35:26.876Z"
+}
