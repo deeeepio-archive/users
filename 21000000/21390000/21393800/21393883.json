@@ -1,0 +1,118 @@
+{
+  "id": 21393883,
+  "username": "ecoguy",
+  "description": "see ya later",
+  "about": "just eco guy \ncheck out my channel",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-12-14T19:23:26.000Z",
+  "date_last_played": "2025-04-20T21:31:56.000Z",
+  "profile_views": 50,
+  "kill_count": 274,
+  "play_count": 294,
+  "highest_score": 721584,
+  "picture": "21393883-57f510b5ea5e23e994da14c3736fef396-56c5efff-e222-4ae5-ba1e-009d3b62cbf4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 119,
+  "tier": 2,
+  "xp": 62250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101927,
+      "user_id": 21393883,
+      "platform_id": "dc",
+      "platform_user_id": "ecoguy",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-01-13T18:04:12.000Z",
+      "updated_at": "2025-01-13T18:04:12.000Z"
+    },
+    {
+      "id": 101674,
+      "user_id": 21393883,
+      "platform_id": "yt",
+      "platform_user_id": "ecosystemguy",
+      "platform_user_url": "https://www.youtube.com/@EcoGuy.savyboi",
+      "verified": false,
+      "created_at": "2025-01-05T09:58:35.000Z",
+      "updated_at": "2025-01-05T09:58:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21393883,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-21T00:00:06.000Z",
+    "updated_at": "2025-04-21T00:00:07.000Z",
+    "pd": {
+      "played": 3,
+      "won": 2,
+      "ratio": 67
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245093,
+          "user_id": 21393883,
+          "cloneof_id": null,
+          "string_id": "new_test_map",
+          "title": "new test map",
+          "description": "a test map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 1,
+          "created_at": "2025-01-13T18:14:21.000Z",
+          "updated_at": "2025-01-13T18:14:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21393883,
+            "username": "ecoguy",
+            "description": "see ya later",
+            "about": "just eco guy \ncheck out my channel",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-12-14T19:23:26.000Z",
+            "date_last_played": "2025-04-20T21:31:56.000Z",
+            "kill_count": 274,
+            "play_count": 294,
+            "highest_score": 721584,
+            "picture": "21393883-57f510b5ea5e23e994da14c3736fef396-56c5efff-e222-4ae5-ba1e-009d3b62cbf4.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 119,
+            "tier": 2,
+            "xp": 62250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:25:09.118Z"
+}
