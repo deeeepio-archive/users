@@ -1,0 +1,54 @@
+{
+  "id": 21365476,
+  "username": "Wordle",
+  "description": "I like gar\nI like wordle",
+  "about": ":)",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-05-01T18:17:33.000Z",
+  "date_last_played": "2025-04-27T16:11:23.000Z",
+  "profile_views": 332,
+  "kill_count": 1089,
+  "play_count": 301,
+  "highest_score": 3122495,
+  "picture": "21365476-39834d3101b1e7980683115383158226c-b14888d5-2f1f-4753-8880-6883947fb6c4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 116,
+  "tier": 4,
+  "xp": 199650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21365476,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-27T16:11:22.000Z",
+    "updated_at": "2025-04-27T16:11:23.000Z",
+    "pd": {
+      "played": 16,
+      "won": 9,
+      "ratio": 56
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T08:52:55.427Z"
+}
