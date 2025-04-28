@@ -1,0 +1,97 @@
+{
+  "id": 21292594,
+  "username": "Art04112010",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-18T14:25:34.000Z",
+  "date_last_played": "2023-08-25T13:22:48.000Z",
+  "profile_views": 12,
+  "kill_count": 51,
+  "play_count": 134,
+  "highest_score": 353481,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 85,
+  "tier": 1,
+  "xp": 11250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21292594,
+    "rank_kc": 157675,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-29T14:11:58.000Z",
+    "rank_pc": 84823,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-29T15:01:40.000Z",
+    "rank_hs": 176496,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-05-29T14:12:04.000Z",
+    "created_at": "2023-08-25T13:22:48.000Z",
+    "updated_at": "2023-08-25T13:22:48.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12343,
+          "user_id": 21292594,
+          "cloneof_id": null,
+          "string_id": "dycghx",
+          "title": "Untitled",
+          "description": "Fgtzvhg",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-05-29T13:04:02.000Z",
+          "updated_at": "2023-05-29T13:04:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21292594,
+            "username": "Art04112010",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-18T14:25:34.000Z",
+            "date_last_played": "2023-08-25T13:22:48.000Z",
+            "kill_count": 51,
+            "play_count": 134,
+            "highest_score": 353481,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 1,
+            "xp": 11250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Ghost "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:34:02.396Z"
+}
