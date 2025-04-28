@@ -1,0 +1,149 @@
+{
+  "id": 21361252,
+  "username": "Taymallah",
+  "description": "When you die, dont be sad, you will win.",
+  "about": "Hello, I am Taymallah I am a registered player in Deeeep.io\nI am 9 years old and male gender. Also my birthdate is at 22 March 2015",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-04-02T16:53:41.000Z",
+  "date_last_played": "2024-04-21T14:42:00.000Z",
+  "profile_views": 18,
+  "kill_count": 3,
+  "play_count": 126,
+  "highest_score": 182020,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18,
+  "tier": 1,
+  "xp": 1200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21361252,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-04-21T14:42:00.000Z",
+    "updated_at": "2024-04-21T14:42:00.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 43947,
+          "user_id": 21361252,
+          "cloneof_id": null,
+          "string_id": "startermap2024",
+          "title": "Starter Map",
+          "description": "This is a map for Starters",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2024-04-06T10:17:02.000Z",
+          "updated_at": "2024-04-06T10:17:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21361252,
+            "username": "Taymallah",
+            "description": "When you die, dont be sad, you will win.",
+            "about": "Hello, I am Taymallah I am a registered player in Deeeep.io\nI am 9 years old and male gender. Also my birthdate is at 22 March 2015",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-04-02T16:53:41.000Z",
+            "date_last_played": "2024-04-21T14:42:00.000Z",
+            "kill_count": 3,
+            "play_count": 126,
+            "highest_score": 182020,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18,
+            "tier": 1,
+            "xp": 1200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#2024"
+            },
+            {
+              "id": "#starter"
+            }
+          ]
+        },
+        {
+          "id": 43946,
+          "user_id": 21361252,
+          "cloneof_id": null,
+          "string_id": "2024ishere",
+          "title": "Starter Map",
+          "description": "This is a map for Starters",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2024-04-06T10:16:13.000Z",
+          "updated_at": "2024-04-06T10:16:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21361252,
+            "username": "Taymallah",
+            "description": "When you die, dont be sad, you will win.",
+            "about": "Hello, I am Taymallah I am a registered player in Deeeep.io\nI am 9 years old and male gender. Also my birthdate is at 22 March 2015",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-04-02T16:53:41.000Z",
+            "date_last_played": "2024-04-21T14:42:00.000Z",
+            "kill_count": 3,
+            "play_count": 126,
+            "highest_score": 182020,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 18,
+            "tier": 1,
+            "xp": 1200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#2024"
+            },
+            {
+              "id": "#starter"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T08:21:29.783Z"
+}
