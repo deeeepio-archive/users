@@ -1,0 +1,112 @@
+{
+  "id": 21358537,
+  "username": "Blaze22",
+  "description": "Good or bad u just died to a chad\nyou suck\nAlso, it’s Bob so don’t mess\nI'm the real one \nsubscribe and u get a cookie\n\n\n\n\n\n\n\n\nGood or bad you just died to a chad",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-03-15T00:59:16.000Z",
+  "date_last_played": "2025-04-26T21:37:46.000Z",
+  "profile_views": 696,
+  "kill_count": 4490,
+  "play_count": 2392,
+  "highest_score": 6157257,
+  "picture": "21358537-8d89bf910b8dd51ba4d547da21938a10f7-1e3a4a56-f7cc-4416-8650-63c65e760699.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 85,
+  "tier": 10,
+  "xp": 1175100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 104000,
+      "user_id": 21358537,
+      "platform_id": "yt",
+      "platform_user_id": "vr pls sub",
+      "platform_user_url": "https://www.youtube.com/@TheGameBoyPlays",
+      "verified": false,
+      "created_at": "2025-04-24T21:45:59.000Z",
+      "updated_at": "2025-04-24T21:45:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21358537,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-26T22:00:02.000Z",
+    "updated_at": "2025-04-26T22:00:03.000Z",
+    "pd": {
+      "played": 46,
+      "won": 20,
+      "ratio": 43
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 43901,
+          "user_id": 21358537,
+          "cloneof_id": null,
+          "string_id": "gaps24",
+          "title": "dark",
+          "description": "it is always night",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-03-30T00:26:17.000Z",
+          "updated_at": "2024-03-30T00:26:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21358537,
+            "username": "Blaze22",
+            "description": "Good or bad u just died to a chad\nyou suck\nAlso, it’s Bob so don’t mess\nI'm the real one \nsubscribe and u get a cookie\n\n\n\n\n\n\n\n\nGood or bad you just died to a chad",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-03-15T00:59:16.000Z",
+            "date_last_played": "2025-04-26T21:37:46.000Z",
+            "kill_count": 4490,
+            "play_count": 2392,
+            "highest_score": 6157257,
+            "picture": "21358537-8d89bf910b8dd51ba4d547da21938a10f7-1e3a4a56-f7cc-4416-8650-63c65e760699.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 85,
+            "tier": 10,
+            "xp": 1175100,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "34"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:57:58.962Z"
+}
