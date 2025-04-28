@@ -1,0 +1,81 @@
+{
+  "id": 21389340,
+  "username": "Vaan",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-12T01:25:15.000Z",
+  "date_last_played": "2024-11-30T01:04:13.000Z",
+  "profile_views": 1,
+  "kill_count": 35,
+  "play_count": 19,
+  "highest_score": 578829,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 47,
+  "tier": 1,
+  "xp": 5550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 100163,
+      "user_id": 21389340,
+      "platform_id": "dc",
+      "platform_user_id": "Vankiry.",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-11-12T01:28:35.000Z",
+      "updated_at": "2024-11-12T01:28:35.000Z"
+    },
+    {
+      "id": 100164,
+      "user_id": 21389340,
+      "platform_id": "fb",
+      "platform_user_id": "Vaan",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=61557322021207",
+      "verified": false,
+      "created_at": "2024-11-12T01:29:24.000Z",
+      "updated_at": "2024-11-12T01:29:24.000Z"
+    },
+    {
+      "id": 100162,
+      "user_id": 21389340,
+      "platform_id": "yt",
+      "platform_user_id": "@Vankiry",
+      "platform_user_url": "https://www.youtube.com/@Vankiry",
+      "verified": false,
+      "created_at": "2024-11-12T01:27:53.000Z",
+      "updated_at": "2024-11-12T01:27:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21389340,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-11-30T01:04:13.000Z",
+    "updated_at": "2024-11-30T01:04:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:54:17.143Z"
+}
