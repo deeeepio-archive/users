@@ -1,0 +1,101 @@
+{
+  "id": 21323176,
+  "username": "LeShit",
+  "description": "",
+  "about": "Cansei de esconder, jaoh é GAY SIM! 🏳️‍🌈🏳️‍🌈\nCansei de esconder, moby é meu NAMORADO SIM! 💖💞\nCansei de esconder, melwhy é meu AMANTE SIM! 🩷❤️‍🩹",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-06T21:40:18.000Z",
+  "date_last_played": "2025-04-17T01:53:23.000Z",
+  "profile_views": 4651,
+  "kill_count": 25744,
+  "play_count": 15419,
+  "highest_score": 7292520,
+  "picture": "21323176-ad104f3871a5b1084947e2a79f584a9929-5ceba299-97e2-4e3e-88ef-f68f20532dc5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 27035,
+  "tier": 10,
+  "xp": 8294250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21323176,
+    "rank_kc": 3639,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-20T01:24:57.000Z",
+    "rank_pc": 1420,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-20T01:25:00.000Z",
+    "rank_hs": 5087,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-20T00:41:25.000Z",
+    "created_at": "2025-04-17T01:53:22.000Z",
+    "updated_at": "2025-04-17T01:53:23.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244715,
+          "user_id": 21323176,
+          "cloneof_id": null,
+          "string_id": "ffa_sa_v1",
+          "title": "New World",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 20,
+          "created_at": "2024-10-05T15:02:07.000Z",
+          "updated_at": "2024-10-06T14:57:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21323176,
+            "username": "LeShit",
+            "description": "",
+            "about": "Cansei de esconder, jaoh é GAY SIM! 🏳️‍🌈🏳️‍🌈\nCansei de esconder, moby é meu NAMORADO SIM! 💖💞\nCansei de esconder, melwhy é meu AMANTE SIM! 🩷❤️‍🩹",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-06T21:40:18.000Z",
+            "date_last_played": "2025-04-17T01:53:23.000Z",
+            "kill_count": 25744,
+            "play_count": 15419,
+            "highest_score": 7292520,
+            "picture": "21323176-ad104f3871a5b1084947e2a79f584a9929-5ceba299-97e2-4e3e-88ef-f68f20532dc5.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 27035,
+            "tier": 10,
+            "xp": 8294250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#foragoku"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:56:59.409Z"
+}
