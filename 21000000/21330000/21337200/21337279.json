@@ -1,0 +1,97 @@
+{
+  "id": 21337279,
+  "username": "Dimacik",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-27T15:55:31.000Z",
+  "date_last_played": "2024-09-20T20:33:40.000Z",
+  "profile_views": 246,
+  "kill_count": 1313,
+  "play_count": 1273,
+  "highest_score": 1251745,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 242,
+  "tier": 5,
+  "xp": 256800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21337279,
+    "rank_kc": 23793,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T11:19:05.000Z",
+    "rank_pc": 10827,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T11:19:06.000Z",
+    "rank_hs": 75021,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T11:19:07.000Z",
+    "created_at": "2024-09-20T20:33:39.000Z",
+    "updated_at": "2024-09-20T20:33:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13250,
+          "user_id": 21337279,
+          "cloneof_id": null,
+          "string_id": "adcddcd",
+          "title": "Untitled",
+          "description": "ert",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-12-23T19:48:24.000Z",
+          "updated_at": "2023-12-23T19:48:40.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21337279,
+            "username": "Dimacik",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-11-27T15:55:31.000Z",
+            "date_last_played": "2024-09-20T20:33:40.000Z",
+            "kill_count": 1313,
+            "play_count": 1273,
+            "highest_score": 1251745,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 242,
+            "tier": 5,
+            "xp": 256800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "dscfda"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:32:13.974Z"
+}
