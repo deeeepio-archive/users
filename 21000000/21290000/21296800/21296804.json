@@ -1,0 +1,61 @@
+{
+  "id": 21296804,
+  "username": "vitorinha",
+  "description": null,
+  "about": "Tenho dono e o nome dele é julinho ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-03T02:19:26.000Z",
+  "date_last_played": "2023-06-22T02:17:18.000Z",
+  "profile_views": 13,
+  "kill_count": 60,
+  "play_count": 119,
+  "highest_score": 720630,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 103,
+  "tier": 1,
+  "xp": 13950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20559,
+      "user_id": 21296804,
+      "platform_id": "ig",
+      "platform_user_id": "yx.vitoriia",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-08T20:17:52.000Z",
+      "updated_at": "2023-06-08T20:17:52.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21296804,
+    "rank_kc": 143326,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-07T20:51:41.000Z",
+    "rank_pc": 69985,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-07T20:51:43.000Z",
+    "rank_hs": 112166,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-07T20:51:44.000Z",
+    "created_at": "2023-06-22T02:17:18.000Z",
+    "updated_at": "2023-06-22T02:17:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:03:27.086Z"
+}
