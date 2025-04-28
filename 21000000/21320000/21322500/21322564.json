@@ -1,0 +1,169 @@
+{
+  "id": 21322564,
+  "username": "_XDD_",
+  "description": "Skill issue",
+  "about": "so im actually really bad at the game but i love it!! :))\n\n\n\nalso my yt has nothing to do with deeeepio",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-03T22:20:20.000Z",
+  "date_last_played": "2023-10-19T11:57:14.000Z",
+  "profile_views": 45,
+  "kill_count": 36,
+  "play_count": 254,
+  "highest_score": 726747,
+  "picture": "21322564-34ca53eb7dc7248d8f74d7894c6957a3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 45,
+  "tier": 1,
+  "xp": 9900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28257,
+      "user_id": 21322564,
+      "platform_id": "yt",
+      "platform_user_id": "Shrekardo",
+      "platform_user_url": "https://www.youtube.com/channel/UCHnrFvnkP6zV20h16j-DGJw",
+      "verified": false,
+      "created_at": "2023-10-18T22:28:39.000Z",
+      "updated_at": "2023-10-18T22:28:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21322564,
+    "rank_kc": 165441,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-10-18T22:29:47.000Z",
+    "rank_pc": 41681,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-18T22:42:35.000Z",
+    "rank_hs": 118053,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-18T22:29:49.000Z",
+    "created_at": "2023-10-19T11:57:13.000Z",
+    "updated_at": "2023-10-19T11:57:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12945,
+          "user_id": 21322564,
+          "cloneof_id": 9295,
+          "string_id": "new1v1area",
+          "title": "just another 1v1 map",
+          "description": "1v1",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 53,
+          "created_at": "2023-10-11T18:49:29.000Z",
+          "updated_at": "2023-10-11T18:49:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21322564,
+            "username": "_XDD_",
+            "description": "Skill issue",
+            "about": "so im actually really bad at the game but i love it!! :))\n\n\n\nalso my yt has nothing to do with deeeepio",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-03T22:20:20.000Z",
+            "date_last_played": "2023-10-19T11:57:14.000Z",
+            "kill_count": 36,
+            "play_count": 254,
+            "highest_score": 726747,
+            "picture": "21322564-34ca53eb7dc7248d8f74d7894c6957a3.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 45,
+            "tier": 1,
+            "xp": 9900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "simple"
+            },
+            {
+              "id": "yea"
+            }
+          ]
+        },
+        {
+          "id": 12944,
+          "user_id": 21322564,
+          "cloneof_id": null,
+          "string_id": "mrfirstmap",
+          "title": "My first map xd",
+          "description": "bad map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 47,
+          "created_at": "2023-10-11T18:38:14.000Z",
+          "updated_at": "2023-10-11T18:46:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21322564,
+            "username": "_XDD_",
+            "description": "Skill issue",
+            "about": "so im actually really bad at the game but i love it!! :))\n\n\n\nalso my yt has nothing to do with deeeepio",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-03T22:20:20.000Z",
+            "date_last_played": "2023-10-19T11:57:14.000Z",
+            "kill_count": 36,
+            "play_count": 254,
+            "highest_score": 726747,
+            "picture": "21322564-34ca53eb7dc7248d8f74d7894c6957a3.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 45,
+            "tier": 1,
+            "xp": 9900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "bad"
+            },
+            {
+              "id": "first"
+            },
+            {
+              "id": "oof"
+            },
+            {
+              "id": "XD"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:53:17.170Z"
+}
