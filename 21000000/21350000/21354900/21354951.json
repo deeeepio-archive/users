@@ -1,0 +1,118 @@
+{
+  "id": 21354951,
+  "username": "BryanTheBass3003",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-02-25T09:53:45.000Z",
+  "date_last_played": "2024-02-26T04:28:57.000Z",
+  "profile_views": 18,
+  "kill_count": 51,
+  "play_count": 10,
+  "highest_score": 1048633,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 66,
+  "tier": 1,
+  "xp": 8400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21354951,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-02-26T04:28:56.000Z",
+    "updated_at": "2024-02-26T04:28:57.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244977,
+          "user_id": 21354951,
+          "cloneof_id": null,
+          "string_id": "bryan_swamp",
+          "title": "Bryan's Swamp",
+          "description": "Lil ol cave with a waterfall in a swamp",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 52,
+          "created_at": "2024-12-15T06:06:08.000Z",
+          "updated_at": "2024-12-15T06:06:17.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21354951,
+            "username": "BryanTheBass3003",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-02-25T09:53:45.000Z",
+            "date_last_played": "2024-02-26T04:28:57.000Z",
+            "kill_count": 51,
+            "play_count": 10,
+            "highest_score": 1048633,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 66,
+            "tier": 1,
+            "xp": 8400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deeeep.io"
+            },
+            {
+              "id": "emi"
+            },
+            {
+              "id": "fede"
+            },
+            {
+              "id": "nac"
+            },
+            {
+              "id": "swamp"
+            },
+            {
+              "id": "swampyshores"
+            },
+            {
+              "id": "useless"
+            },
+            {
+              "id": "waterfall"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:34:08.227Z"
+}
