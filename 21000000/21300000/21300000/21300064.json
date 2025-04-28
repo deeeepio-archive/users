@@ -1,0 +1,109 @@
+{
+  "id": 21300064,
+  "username": "BleuTC",
+  "description": "Ya'll Sleepin on DinkleBerg",
+  "about": "I play this game for fun\nI play GD, MSM and other games. Yeah.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-17T01:02:38.000Z",
+  "date_last_played": "2025-03-17T17:05:10.000Z",
+  "profile_views": 104,
+  "kill_count": 1556,
+  "play_count": 1072,
+  "highest_score": 1604184,
+  "picture": "21300064-5b9bda6634aefcd3e574c16e932314a7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 94,
+  "tier": 4,
+  "xp": 249000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21300064,
+    "rank_kc": 25106,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-20T19:50:23.000Z",
+    "rank_pc": 15095,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-20T19:50:25.000Z",
+    "rank_hs": 63585,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-20T19:30:40.000Z",
+    "created_at": "2025-03-25T17:29:53.000Z",
+    "updated_at": "2025-03-25T17:29:53.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12940,
+          "user_id": 21300064,
+          "cloneof_id": null,
+          "string_id": "bad_map_v9",
+          "title": "Very Bad",
+          "description": "its my first map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 42,
+          "created_at": "2023-10-10T18:43:36.000Z",
+          "updated_at": "2023-10-10T18:43:36.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21300064,
+            "username": "BleuTC",
+            "description": "Ya'll Sleepin on DinkleBerg",
+            "about": "I play this game for fun\nI play GD, MSM and other games. Yeah.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-06-17T01:02:38.000Z",
+            "date_last_played": "2025-03-17T17:05:10.000Z",
+            "kill_count": 1556,
+            "play_count": 1072,
+            "highest_score": 1604184,
+            "picture": "21300064-5b9bda6634aefcd3e574c16e932314a7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 94,
+            "tier": 4,
+            "xp": 249000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "bad"
+            },
+            {
+              "id": "ffa"
+            },
+            {
+              "id": "map"
+            },
+            {
+              "id": "mid"
+            },
+            {
+              "id": "tffa"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:24:09.235Z"
+}
