@@ -1,0 +1,71 @@
+{
+  "id": 21305655,
+  "username": "Megavorer",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-13T18:58:18.000Z",
+  "date_last_played": "2023-10-29T01:00:02.000Z",
+  "profile_views": 27,
+  "kill_count": 27,
+  "play_count": 29,
+  "highest_score": 189480,
+  "picture": "21305655-fba0e6c3eba10c02e4e61d2cb69f5e7ca.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 54,
+  "tier": 1,
+  "xp": 6600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 22760,
+      "user_id": 21305655,
+      "platform_id": "dc",
+      "platform_user_id": "Megavorer#0117",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-13T19:41:50.000Z",
+      "updated_at": "2023-07-13T19:41:50.000Z"
+    },
+    {
+      "id": 22761,
+      "user_id": 21305655,
+      "platform_id": "yt",
+      "platform_user_id": "Megavorer",
+      "platform_user_url": "https://www.youtube.com/@Megavorer",
+      "verified": false,
+      "created_at": "2023-07-13T19:44:53.000Z",
+      "updated_at": "2023-07-13T19:44:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21305655,
+    "rank_kc": 443598,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-26T23:29:54.000Z",
+    "rank_pc": 332842,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-26T23:29:55.000Z",
+    "rank_hs": 592395,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-26T23:29:55.000Z",
+    "created_at": "2023-11-22T13:00:03.000Z",
+    "updated_at": "2023-11-22T13:00:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:01:40.180Z"
+}
