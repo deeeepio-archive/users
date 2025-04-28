@@ -1,0 +1,71 @@
+{
+  "id": 21375781,
+  "username": "grandalarm_alt",
+  "description": "youtube.com/channel/UCAY436IEo98715G1j2xASng\ntwitch.tv/grandalarm45583",
+  "about": "Grandalarm but the PC version",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-07-26T03:43:03.000Z",
+  "date_last_played": "2024-07-26T04:11:47.000Z",
+  "profile_views": 8,
+  "kill_count": 2,
+  "play_count": 5,
+  "highest_score": 88400,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 1,
+  "xp": 2250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 96836,
+      "user_id": 21375781,
+      "platform_id": "dc",
+      "platform_user_id": "grandalarm_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-26T03:45:13.000Z",
+      "updated_at": "2024-07-26T03:45:13.000Z"
+    },
+    {
+      "id": 96835,
+      "user_id": 21375781,
+      "platform_id": "yt",
+      "platform_user_id": "Follow my youtube",
+      "platform_user_url": "https://www.youtube.com/channel/UCAY436IEo98715G1j2xASng",
+      "verified": false,
+      "created_at": "2024-07-26T03:45:01.000Z",
+      "updated_at": "2024-07-26T03:45:01.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21375781,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T10:19:22.475Z",
+    "updated_at": "2025-04-28T10:19:22.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T10:19:22.576Z"
+}
