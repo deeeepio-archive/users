@@ -1,0 +1,61 @@
+{
+  "id": 21324479,
+  "username": "buttesuchips77",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-13T11:27:46.000Z",
+  "date_last_played": "2024-10-31T02:58:04.000Z",
+  "profile_views": 34,
+  "kill_count": 322,
+  "play_count": 195,
+  "highest_score": 1439800,
+  "picture": "21324479-c324b18b70b78fdbb2cf0302453e3acc.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 48,
+  "tier": 2,
+  "xp": 70050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29452,
+      "user_id": 21324479,
+      "platform_id": "yt",
+      "platform_user_id": "봐",
+      "platform_user_url": "https://youtu.be/MXG2L-Li3cs",
+      "verified": false,
+      "created_at": "2023-11-15T10:45:15.000Z",
+      "updated_at": "2023-11-15T10:45:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21324479,
+    "rank_kc": 67931,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-15T10:28:27.000Z",
+    "rank_pc": 56566,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-15T10:28:28.000Z",
+    "rank_hs": 62393,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-15T10:28:28.000Z",
+    "created_at": "2024-10-31T02:58:03.000Z",
+    "updated_at": "2024-10-31T02:58:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:04:59.439Z"
+}
