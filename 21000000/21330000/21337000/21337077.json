@@ -1,0 +1,97 @@
+{
+  "id": 21337077,
+  "username": "SANTINOZPT",
+  "description": "Es verdad. He matado a mujeres y niños. He matado casi cualquier cosa que camina o se arrastra, en una u otra oportunidad. Y estoy aquí para matarte, por lo que le hiciste a Amigo.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-26T11:27:26.000Z",
+  "date_last_played": "2024-11-06T15:56:12.000Z",
+  "profile_views": 32,
+  "kill_count": 387,
+  "play_count": 265,
+  "highest_score": 3308372,
+  "picture": "21337077-b7c4b329e1013b610f382ae407c6ec38ab.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 324,
+  "tier": 3,
+  "xp": 109500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21337077,
+    "rank_kc": 84896,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-01T11:34:02.000Z",
+    "rank_pc": 58280,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-01T11:34:04.000Z",
+    "rank_hs": 26270,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-01T11:34:05.000Z",
+    "created_at": "2024-11-06T15:56:12.000Z",
+    "updated_at": "2024-11-06T15:56:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13150,
+          "user_id": 21337077,
+          "cloneof_id": null,
+          "string_id": "santinozpt",
+          "title": "BATLE ROYAL",
+          "description": "modo de juego rapido",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 19,
+          "created_at": "2023-11-28T21:55:01.000Z",
+          "updated_at": "2023-11-28T21:55:02.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21337077,
+            "username": "SANTINOZPT",
+            "description": "Es verdad. He matado a mujeres y niños. He matado casi cualquier cosa que camina o se arrastra, en una u otra oportunidad. Y estoy aquí para matarte, por lo que le hiciste a Amigo.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-11-26T11:27:26.000Z",
+            "date_last_played": "2024-11-06T15:56:12.000Z",
+            "kill_count": 387,
+            "play_count": 265,
+            "highest_score": 3308372,
+            "picture": "21337077-b7c4b329e1013b610f382ae407c6ec38ab.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 324,
+            "tier": 3,
+            "xp": 109500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "zpt"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:30:40.247Z"
+}
