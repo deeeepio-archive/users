@@ -1,0 +1,71 @@
+{
+  "id": 21287775,
+  "username": "Armorek",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-02T09:59:48.000Z",
+  "date_last_played": "2023-08-20T15:17:48.000Z",
+  "profile_views": 8,
+  "kill_count": 0,
+  "play_count": 8,
+  "highest_score": 53620,
+  "picture": "21287775-10f3b56d207f88e27c8f42e8ce5161088d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18446,
+      "user_id": 21287775,
+      "platform_id": "dc",
+      "platform_user_id": "Armorek #8441",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-02T11:00:00.000Z",
+      "updated_at": "2023-05-02T11:00:36.000Z"
+    },
+    {
+      "id": 18451,
+      "user_id": 21287775,
+      "platform_id": "yt",
+      "platform_user_id": "MrChampion",
+      "platform_user_url": "https://www.youtube.com/@mrchampion8484/featured",
+      "verified": false,
+      "created_at": "2023-05-02T11:04:07.000Z",
+      "updated_at": "2023-05-02T11:04:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21287775,
+    "rank_kc": 416758,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-02T11:04:27.000Z",
+    "rank_pc": 326654,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-02T11:04:32.000Z",
+    "rank_hs": 557676,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-02T11:04:38.000Z",
+    "created_at": "2023-08-20T15:17:47.000Z",
+    "updated_at": "2023-08-20T15:17:48.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:01:40.154Z"
+}
