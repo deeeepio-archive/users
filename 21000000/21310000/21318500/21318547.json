@@ -1,0 +1,61 @@
+{
+  "id": 21318547,
+  "username": "Tamuda",
+  "description": "watch Numi vtuber on twitch NOW\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-15T13:32:26.000Z",
+  "date_last_played": "2023-12-20T17:36:47.000Z",
+  "profile_views": 10,
+  "kill_count": 44,
+  "play_count": 134,
+  "highest_score": 431461,
+  "picture": "21318547-39cac688dea51074a3cc61d53d225f39a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 51,
+  "tier": 1,
+  "xp": 7650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31042,
+      "user_id": 21318547,
+      "platform_id": "dc",
+      "platform_user_id": "Tamuda_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-20T17:35:48.000Z",
+      "updated_at": "2023-12-20T17:35:48.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21318547,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T03:26:02.741Z",
+    "updated_at": "2025-04-28T03:26:03.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:26:02.841Z"
+}
