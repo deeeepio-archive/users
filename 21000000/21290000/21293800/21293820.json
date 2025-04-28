@@ -1,0 +1,61 @@
+{
+  "id": 21293820,
+  "username": "SAMURAIJAE",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-22T21:45:30.000Z",
+  "date_last_played": "2025-03-11T23:56:24.000Z",
+  "profile_views": 119,
+  "kill_count": 1798,
+  "play_count": 1198,
+  "highest_score": 5521101,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 165,
+  "tier": 8,
+  "xp": 709500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 97489,
+      "user_id": 21293820,
+      "platform_id": "dc",
+      "platform_user_id": "ifellinawall",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-15T00:19:26.000Z",
+      "updated_at": "2024-08-15T00:19:26.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21293820,
+    "rank_kc": 28956,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-14T22:06:33.000Z",
+    "rank_pc": 20699,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-14T22:06:34.000Z",
+    "rank_hs": 7583,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-14T22:06:35.000Z",
+    "created_at": "2025-03-11T23:56:24.000Z",
+    "updated_at": "2025-03-11T23:56:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:41:27.759Z"
+}
