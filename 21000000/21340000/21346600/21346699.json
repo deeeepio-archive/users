@@ -1,0 +1,61 @@
+{
+  "id": 21346699,
+  "username": "Antherax",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-04T22:09:22.000Z",
+  "date_last_played": "2024-02-20T08:15:38.000Z",
+  "profile_views": 7,
+  "kill_count": 30,
+  "play_count": 61,
+  "highest_score": 1050797,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 90,
+  "tier": 1,
+  "xp": 15000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31656,
+      "user_id": 21346699,
+      "platform_id": "yt",
+      "platform_user_id": "metallica/sub",
+      "platform_user_url": "https://www.youtube.com/results?search_query=METALLICA",
+      "verified": false,
+      "created_at": "2024-01-04T22:56:38.000Z",
+      "updated_at": "2024-01-04T22:56:38.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21346699,
+    "rank_kc": 271745,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-07T00:01:26.000Z",
+    "rank_pc": 183926,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-07T00:01:28.000Z",
+    "rank_hs": 117374,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-07T00:01:29.000Z",
+    "created_at": "2024-02-20T08:15:38.000Z",
+    "updated_at": "2024-02-20T08:15:38.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:35:49.292Z"
+}
