@@ -1,0 +1,91 @@
+{
+  "id": 21374759,
+  "username": "𝙂𝙖𝙧ø𝙪",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-07-16T12:40:04.000Z",
+  "date_last_played": "2025-04-17T10:03:00.000Z",
+  "profile_views": 19,
+  "kill_count": 53,
+  "play_count": 99,
+  "highest_score": 526623,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 122,
+  "tier": 1,
+  "xp": 16800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 96483,
+      "user_id": 21374759,
+      "platform_id": "dc",
+      "platform_user_id": "ere_yeaga",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-16T12:43:52.000Z",
+      "updated_at": "2025-04-14T09:07:30.000Z"
+    },
+    {
+      "id": 102591,
+      "user_id": 21374759,
+      "platform_id": "ig",
+      "platform_user_id": "ndl.ldr",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-02-12T15:54:26.000Z",
+      "updated_at": "2025-02-12T15:54:26.000Z"
+    },
+    {
+      "id": 102590,
+      "user_id": 21374759,
+      "platform_id": "tc",
+      "platform_user_id": "Mexalodon",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-02-12T15:53:33.000Z",
+      "updated_at": "2025-02-12T15:53:33.000Z"
+    },
+    {
+      "id": 102589,
+      "user_id": 21374759,
+      "platform_id": "yt",
+      "platform_user_id": "Eren_x_Jager",
+      "platform_user_url": "https://www.youtube.com/@Eren_x_Jager",
+      "verified": false,
+      "created_at": "2025-02-12T15:30:31.000Z",
+      "updated_at": "2025-02-12T15:30:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21374759,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-17T10:03:00.000Z",
+    "updated_at": "2025-04-17T10:03:00.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T10:10:15.367Z"
+}

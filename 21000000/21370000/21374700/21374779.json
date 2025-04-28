@@ -1,0 +1,81 @@
+{
+  "id": 21374779,
+  "username": "Saiko",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-07-16T16:46:00.000Z",
+  "date_last_played": "2024-07-16T17:02:37.000Z",
+  "profile_views": 2,
+  "kill_count": 2,
+  "play_count": 2,
+  "highest_score": 131637,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 12,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 96490,
+      "user_id": 21374779,
+      "platform_id": "tc",
+      "platform_user_id": "kksaiko",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-16T16:53:09.000Z",
+      "updated_at": "2024-07-16T16:53:09.000Z"
+    },
+    {
+      "id": 96488,
+      "user_id": 21374779,
+      "platform_id": "yt",
+      "platform_user_id": "kksaiko",
+      "platform_user_url": "https://www.youtube.com/@kksaiko",
+      "verified": false,
+      "created_at": "2024-07-16T16:51:20.000Z",
+      "updated_at": "2024-07-16T16:51:20.000Z"
+    },
+    {
+      "id": 96489,
+      "user_id": 21374779,
+      "platform_id": "yt",
+      "platform_user_id": "Saiko joga",
+      "platform_user_url": "https://www.youtube.com/@SaikoJoga",
+      "verified": false,
+      "created_at": "2024-07-16T16:52:21.000Z",
+      "updated_at": "2024-07-16T16:52:21.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21374779,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-07-16T17:02:37.000Z",
+    "updated_at": "2024-07-16T17:02:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T10:10:18.455Z"
+}
