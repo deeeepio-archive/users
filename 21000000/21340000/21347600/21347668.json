@@ -1,0 +1,108 @@
+{
+  "id": 21347668,
+  "username": "DragonLord1",
+  "description": "WHY?!",
+  "about": "I'm just a person that just have a life",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-10T12:01:05.000Z",
+  "date_last_played": "2024-11-06T18:57:23.000Z",
+  "profile_views": 29,
+  "kill_count": 30,
+  "play_count": 136,
+  "highest_score": 393567,
+  "picture": "21347668-83562396b9be9ab5a107346e1e7c344c4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 53,
+  "tier": 1,
+  "xp": 8700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 91184,
+      "user_id": 21347668,
+      "platform_id": "rd",
+      "platform_user_id": "deeeepth",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-29T18:22:35.000Z",
+      "updated_at": "2024-01-29T18:23:30.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21347668,
+    "rank_kc": 453297,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-10T12:02:51.000Z",
+    "rank_pc": 375572,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-10T12:02:54.000Z",
+    "rank_hs": 604953,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-10T12:02:57.000Z",
+    "created_at": "2024-11-06T18:57:22.000Z",
+    "updated_at": "2024-11-06T18:57:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244815,
+          "user_id": 21347668,
+          "cloneof_id": null,
+          "string_id": "idkwhat",
+          "title": "A MAP",
+          "description": "A map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 43,
+          "created_at": "2024-10-20T12:45:02.000Z",
+          "updated_at": "2024-10-20T15:22:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21347668,
+            "username": "DragonLord1",
+            "description": "WHY?!",
+            "about": "I'm just a person that just have a life",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-01-10T12:01:05.000Z",
+            "date_last_played": "2024-11-06T18:57:23.000Z",
+            "kill_count": 30,
+            "play_count": 136,
+            "highest_score": 393567,
+            "picture": "21347668-83562396b9be9ab5a107346e1e7c344c4.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 53,
+            "tier": 1,
+            "xp": 8700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "map map map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:42:18.661Z"
+}
