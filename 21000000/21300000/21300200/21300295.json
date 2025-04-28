@@ -1,0 +1,50 @@
+{
+  "id": 21300295,
+  "username": "Ilovemyself",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-18T00:41:45.000Z",
+  "date_last_played": "2023-10-09T01:56:40.000Z",
+  "profile_views": 1,
+  "kill_count": 6,
+  "play_count": 19,
+  "highest_score": 305662,
+  "picture": "21300295-14207a5a58431071be69514261ab84285.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 20,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21300295,
+    "rank_kc": 425424,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-18T00:42:42.000Z",
+    "rank_pc": 338148,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-18T00:42:44.000Z",
+    "rank_hs": 568891,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-18T00:42:46.000Z",
+    "created_at": "2023-10-09T01:56:40.000Z",
+    "updated_at": "2023-10-09T01:56:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:25:50.561Z"
+}
