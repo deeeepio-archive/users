@@ -1,0 +1,108 @@
+{
+  "id": 21389394,
+  "username": "appril",
+  "description": "sowwi :3\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-12T13:13:09.000Z",
+  "date_last_played": "2025-04-25T21:00:02.000Z",
+  "profile_views": 177,
+  "kill_count": 492,
+  "play_count": 564,
+  "highest_score": 1502837,
+  "picture": "21389394-945c94e10010516e1cf427daba95b66e79-5fac8ee6-d612-4e33-ac47-80f672dcd810.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 75,
+  "tier": 3,
+  "xp": 111750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 100783,
+      "user_id": 21389394,
+      "platform_id": "dc",
+      "platform_user_id": "26ioa",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-01T10:39:26.000Z",
+      "updated_at": "2024-12-01T10:39:26.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21389394,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-25T21:00:02.000Z",
+    "updated_at": "2025-04-25T21:00:02.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244897,
+          "user_id": 21389394,
+          "cloneof_id": null,
+          "string_id": "my_map_test_1_ok",
+          "title": "test",
+          "description": "hi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 240,
+          "created_at": "2024-11-19T15:48:20.000Z",
+          "updated_at": "2024-11-19T15:48:20.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21389394,
+            "username": "appril",
+            "description": "sowwi :3\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-11-12T13:13:09.000Z",
+            "date_last_played": "2025-04-25T21:00:02.000Z",
+            "kill_count": 492,
+            "play_count": 564,
+            "highest_score": 1502837,
+            "picture": "21389394-945c94e10010516e1cf427daba95b66e79-5fac8ee6-d612-4e33-ac47-80f672dcd810.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 75,
+            "tier": 3,
+            "xp": 111750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:54:43.260Z"
+}
