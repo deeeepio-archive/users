@@ -1,0 +1,61 @@
+{
+  "id": 21347835,
+  "username": "panda4",
+  "description": "I'm sorry",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-11T11:23:10.000Z",
+  "date_last_played": "2025-04-15T11:21:24.000Z",
+  "profile_views": 127,
+  "kill_count": 280,
+  "play_count": 330,
+  "highest_score": 3942471,
+  "picture": "21347835-22f3158dec088c3d2821f83cda2870c7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 137,
+  "tier": 3,
+  "xp": 124050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102664,
+      "user_id": 21347835,
+      "platform_id": "dc",
+      "platform_user_id": "panda_75349",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-02-16T13:56:49.000Z",
+      "updated_at": "2025-02-16T13:56:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21347835,
+    "rank_kc": 70540,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T17:20:19.000Z",
+    "rank_pc": 41470,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T17:20:53.000Z",
+    "rank_hs": 13413,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T17:21:16.000Z",
+    "created_at": "2025-04-15T11:21:23.000Z",
+    "updated_at": "2025-04-15T11:21:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:43:18.154Z"
+}
