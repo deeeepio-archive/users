@@ -1,0 +1,81 @@
+{
+  "id": 21353656,
+  "username": "Ty3830",
+  "description": "gg",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-02-18T03:02:36.000Z",
+  "date_last_played": "2025-01-25T05:07:58.000Z",
+  "profile_views": 499,
+  "kill_count": 3322,
+  "play_count": 738,
+  "highest_score": 3054810,
+  "picture": "21353656-f7a11efc2e1223f2dfca835728bfab5c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 100,
+  "tier": 6,
+  "xp": 478650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94982,
+      "user_id": 21353656,
+      "platform_id": "dc",
+      "platform_user_id": "Ty3839",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-05-29T11:13:05.000Z",
+      "updated_at": "2024-05-29T11:13:05.000Z"
+    },
+    {
+      "id": 94981,
+      "user_id": 21353656,
+      "platform_id": "dc",
+      "platform_user_id": "Ty383p",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-05-29T11:12:54.000Z",
+      "updated_at": "2024-05-29T11:12:54.000Z"
+    },
+    {
+      "id": 92626,
+      "user_id": 21353656,
+      "platform_id": "dc",
+      "platform_user_id": "U3839",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-07T08:32:04.000Z",
+      "updated_at": "2024-03-07T08:32:04.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21353656,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-01-25T05:07:58.000Z",
+    "updated_at": "2025-01-25T05:07:58.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:25:22.496Z"
+}
