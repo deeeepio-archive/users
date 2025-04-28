@@ -1,0 +1,143 @@
+{
+  "id": 21307774,
+  "username": "schoolproject123",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-24T03:24:52.000Z",
+  "date_last_played": "2023-09-15T04:21:30.000Z",
+  "profile_views": 19,
+  "kill_count": 28,
+  "play_count": 37,
+  "highest_score": 454600,
+  "picture": "21307774-25fc3cc23184d1d4c2ef282e2b997ea2.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 5,
+  "tier": 1,
+  "xp": 5250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21307774,
+    "rank_kc": 180464,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-09-12T05:54:11.000Z",
+    "rank_pc": 126771,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-12T05:54:12.000Z",
+    "rank_hs": 160180,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-12T05:54:13.000Z",
+    "created_at": "2023-11-18T18:41:24.000Z",
+    "updated_at": "2023-09-15T04:21:30.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12612,
+          "user_id": 21307774,
+          "cloneof_id": 10858,
+          "string_id": "mapprezyae4rej",
+          "title": "Untitled",
+          "description": "FGEWHH",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 1427,
+          "created_at": "2023-07-25T04:30:04.000Z",
+          "updated_at": "2023-07-25T04:30:08.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21307774,
+            "username": "schoolproject123",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-07-24T03:24:52.000Z",
+            "date_last_played": "2023-09-15T04:21:30.000Z",
+            "kill_count": 28,
+            "play_count": 37,
+            "highest_score": 454600,
+            "picture": "21307774-25fc3cc23184d1d4c2ef282e2b997ea2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 5,
+            "tier": 1,
+            "xp": 5250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "HWHHWWH"
+            }
+          ]
+        },
+        {
+          "id": 12611,
+          "user_id": 21307774,
+          "cloneof_id": null,
+          "string_id": "hfgjartjrjjj",
+          "title": "Untitled",
+          "description": "JRJRJ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 7,
+          "created_at": "2023-07-25T04:17:02.000Z",
+          "updated_at": "2023-07-25T04:17:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21307774,
+            "username": "schoolproject123",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-07-24T03:24:52.000Z",
+            "date_last_played": "2023-09-15T04:21:30.000Z",
+            "kill_count": 28,
+            "play_count": 37,
+            "highest_score": 454600,
+            "picture": "21307774-25fc3cc23184d1d4c2ef282e2b997ea2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 5,
+            "tier": 1,
+            "xp": 5250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "JRJJRJ"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:15:16.404Z"
+}

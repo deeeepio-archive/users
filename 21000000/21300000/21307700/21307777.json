@@ -1,0 +1,54 @@
+{
+  "id": 21307777,
+  "username": "Enter123",
+  "description": null,
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-24T03:35:26.000Z",
+  "date_last_played": "2025-04-27T13:22:42.000Z",
+  "profile_views": 808,
+  "kill_count": 1767,
+  "play_count": 630,
+  "highest_score": 4453182,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1299,
+  "tier": 6,
+  "xp": 394350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21307777,
+    "rank_kc": 108409,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-16T11:18:09.000Z",
+    "rank_pc": 134269,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-16T11:18:10.000Z",
+    "rank_hs": 211274,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-16T11:18:11.000Z",
+    "created_at": "2025-04-27T13:22:42.000Z",
+    "updated_at": "2025-04-27T13:22:42.000Z",
+    "pd": {
+      "played": 60,
+      "won": 29,
+      "ratio": 48
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:15:17.226Z"
+}
