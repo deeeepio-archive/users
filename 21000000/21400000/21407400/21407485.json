@@ -1,0 +1,75 @@
+{
+  "id": 21407485,
+  "username": "JebVal",
+  "description": "Sorry you died, but, that's the way the game is.\n\nBetter luck next time.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-04-18T23:52:14.000Z",
+  "date_last_played": "2025-04-28T01:46:15.000Z",
+  "profile_views": 11,
+  "kill_count": 184,
+  "play_count": 56,
+  "highest_score": 3552058,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 236,
+  "tier": 2,
+  "xp": 33900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103933,
+      "user_id": 21407485,
+      "platform_id": "dc",
+      "platform_user_id": "JebVal",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-23T04:53:52.000Z",
+      "updated_at": "2025-04-23T04:53:52.000Z"
+    },
+    {
+      "id": 103922,
+      "user_id": 21407485,
+      "platform_id": "rd",
+      "platform_user_id": "JebVal",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-23T04:53:24.000Z",
+      "updated_at": "2025-04-23T04:53:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21407485,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T19:52:33.341Z",
+    "updated_at": "2025-04-28T19:52:33.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T19:52:33.400Z"
+}
