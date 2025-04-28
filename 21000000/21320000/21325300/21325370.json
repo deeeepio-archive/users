@@ -1,0 +1,71 @@
+{
+  "id": 21325370,
+  "username": "cookieh",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-18T00:45:11.000Z",
+  "date_last_played": "2024-04-27T17:15:02.000Z",
+  "profile_views": 17,
+  "kill_count": 3,
+  "play_count": 12,
+  "highest_score": 246979,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94189,
+      "user_id": 21325370,
+      "platform_id": "rd",
+      "platform_user_id": "cookiehiwolf",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-04-27T17:05:58.000Z",
+      "updated_at": "2024-04-27T17:05:58.000Z"
+    },
+    {
+      "id": 94187,
+      "user_id": 21325370,
+      "platform_id": "yt",
+      "platform_user_id": "furry tiktok",
+      "platform_user_url": "https://www.youtube.com/channel/UCuS8bq1JTVHNYO8si0g-HqA",
+      "verified": false,
+      "created_at": "2024-04-27T17:03:10.000Z",
+      "updated_at": "2024-04-27T17:03:10.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21325370,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T04:11:17.975Z",
+    "updated_at": "2025-04-28T04:11:18.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:11:18.071Z"
+}
