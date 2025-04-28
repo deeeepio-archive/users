@@ -1,0 +1,71 @@
+{
+  "id": 21315244,
+  "username": "painszu",
+  "description": "Merry christmas everyone, happy holidays and take care! :D",
+  "about": "I love music, can't be happy without it at all!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-31T01:05:21.000Z",
+  "date_last_played": "2024-12-30T19:14:33.000Z",
+  "profile_views": 13,
+  "kill_count": 12,
+  "play_count": 81,
+  "highest_score": 508829,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 44,
+  "tier": 1,
+  "xp": 5100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101526,
+      "user_id": 21315244,
+      "platform_id": "dc",
+      "platform_user_id": "painszu",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-29T17:49:58.000Z",
+      "updated_at": "2024-12-29T17:49:58.000Z"
+    },
+    {
+      "id": 101527,
+      "user_id": 21315244,
+      "platform_id": "yt",
+      "platform_user_id": "painszu",
+      "platform_user_url": "https://www.youtube.com/@painszu/videos",
+      "verified": false,
+      "created_at": "2024-12-29T17:50:10.000Z",
+      "updated_at": "2024-12-29T17:50:10.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21315244,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-12-30T19:14:32.000Z",
+    "updated_at": "2024-12-30T19:14:33.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:04:52.963Z"
+}
