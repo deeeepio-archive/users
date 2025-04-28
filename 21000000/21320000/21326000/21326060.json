@@ -1,0 +1,71 @@
+{
+  "id": 21326060,
+  "username": "AnarchyIsForCoolKids",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-21T06:40:33.000Z",
+  "date_last_played": "2023-10-21T06:48:46.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 1,
+  "highest_score": 14250,
+  "picture": "21326060-5bd5216df439e2384106510cd01b714eae.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 5,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28356,
+      "user_id": 21326060,
+      "platform_id": "rd",
+      "platform_user_id": "NirvanaMustang1994",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-21T06:43:38.000Z",
+      "updated_at": "2023-10-21T06:43:38.000Z"
+    },
+    {
+      "id": 28355,
+      "user_id": 21326060,
+      "platform_id": "tw",
+      "platform_user_id": "@KurtcobainYuh",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-21T06:42:55.000Z",
+      "updated_at": "2023-10-21T06:42:55.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21326060,
+    "rank_kc": 442672,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-21T06:47:00.000Z",
+    "rank_pc": 361433,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-21T06:47:01.000Z",
+    "rank_hs": 591215,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-21T06:47:01.000Z",
+    "created_at": "2023-10-21T06:48:46.000Z",
+    "updated_at": "2023-10-21T06:48:46.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:15:59.535Z"
+}
