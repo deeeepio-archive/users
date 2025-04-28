@@ -1,0 +1,97 @@
+{
+  "id": 21345366,
+  "username": "kingofapples",
+  "description": "hello, nice to meet you... or rather eat you. ducks are yum",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-26T23:11:25.000Z",
+  "date_last_played": "2025-02-22T02:56:32.000Z",
+  "profile_views": 20,
+  "kill_count": 45,
+  "play_count": 265,
+  "highest_score": 403206,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 127,
+  "tier": 2,
+  "xp": 31050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21345366,
+    "rank_kc": 370901,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-27T21:57:50.000Z",
+    "rank_pc": 224098,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-27T21:57:52.000Z",
+    "rank_hs": 308946,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-27T21:57:53.000Z",
+    "created_at": "2025-02-22T02:56:31.000Z",
+    "updated_at": "2025-02-22T02:56:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 15624,
+          "user_id": 21345366,
+          "cloneof_id": null,
+          "string_id": "oopoopoop",
+          "title": "anonymous",
+          "description": "ddd",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 12,
+          "created_at": "2024-02-12T08:01:55.000Z",
+          "updated_at": "2024-02-12T08:01:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21345366,
+            "username": "kingofapples",
+            "description": "hello, nice to meet you... or rather eat you. ducks are yum",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-12-26T23:11:25.000Z",
+            "date_last_played": "2025-02-22T02:56:32.000Z",
+            "kill_count": 45,
+            "play_count": 265,
+            "highest_score": 403206,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 127,
+            "tier": 2,
+            "xp": 31050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "dddd"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:27:39.723Z"
+}
