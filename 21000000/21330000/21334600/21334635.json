@@ -1,0 +1,61 @@
+{
+  "id": 21334635,
+  "username": "AlexSeq",
+  "description": "I'm bad at the game how did you die?",
+  "about": "Hello",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-16T12:32:47.000Z",
+  "date_last_played": "2025-04-23T14:10:00.000Z",
+  "profile_views": 33,
+  "kill_count": 5,
+  "play_count": 91,
+  "highest_score": 448997,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 27,
+  "tier": 1,
+  "xp": 2550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103378,
+      "user_id": 21334635,
+      "platform_id": "dc",
+      "platform_user_id": "alexseq_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-03-26T13:39:43.000Z",
+      "updated_at": "2025-03-26T13:39:43.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21334635,
+    "rank_kc": 399232,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-28T16:56:34.000Z",
+    "rank_pc": 145456,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-28T16:56:39.000Z",
+    "rank_hs": 393337,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-28T16:56:49.000Z",
+    "created_at": "2025-04-23T14:10:00.000Z",
+    "updated_at": "2025-04-23T14:10:00.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:13:23.059Z"
+}
