@@ -1,0 +1,61 @@
+{
+  "id": 21288019,
+  "username": "Kosu",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-02T18:08:22.000Z",
+  "date_last_played": "2023-05-02T18:34:58.000Z",
+  "profile_views": 4,
+  "kill_count": 5,
+  "play_count": 3,
+  "highest_score": 14670,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18475,
+      "user_id": 21288019,
+      "platform_id": "dc",
+      "platform_user_id": "Kosumin#2511",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-02T18:15:26.000Z",
+      "updated_at": "2023-05-02T18:15:26.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21288019,
+    "rank_kc": 416853,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-02T18:15:12.000Z",
+    "rank_pc": 279824,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-02T18:15:15.000Z",
+    "rank_hs": 474285,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-05-02T18:15:18.000Z",
+    "created_at": "2023-05-02T18:36:49.000Z",
+    "updated_at": "2023-05-02T18:36:49.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:02:59.840Z"
+}
