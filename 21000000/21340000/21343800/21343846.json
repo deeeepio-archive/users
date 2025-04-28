@@ -1,0 +1,61 @@
+{
+  "id": 21343846,
+  "username": "BoniceFrio",
+  "description": null,
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-17T05:03:24.000Z",
+  "date_last_played": "2023-12-17T05:24:12.000Z",
+  "profile_views": 3,
+  "kill_count": 2,
+  "play_count": 1,
+  "highest_score": 0,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30864,
+      "user_id": 21343846,
+      "platform_id": "dc",
+      "platform_user_id": "BoniceFrio",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-17T05:05:57.000Z",
+      "updated_at": "2023-12-17T05:05:57.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21343846,
+    "rank_kc": 450774,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-17T05:04:41.000Z",
+    "rank_pc": 372169,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-17T05:04:42.000Z",
+    "rank_hs": 601664,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-17T05:04:43.000Z",
+    "created_at": "2023-12-17T05:24:12.000Z",
+    "updated_at": "2023-12-17T05:24:12.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:17:44.566Z"
+}

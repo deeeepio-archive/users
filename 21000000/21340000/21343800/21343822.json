@@ -1,0 +1,61 @@
+{
+  "id": 21343822,
+  "username": "SkitsyBitsy",
+  "description": null,
+  "about": "I hate life",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-17T00:14:38.000Z",
+  "date_last_played": "2023-12-20T03:13:49.000Z",
+  "profile_views": 4,
+  "kill_count": 8,
+  "play_count": 72,
+  "highest_score": 578174,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18,
+  "tier": 1,
+  "xp": 4200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30909,
+      "user_id": 21343822,
+      "platform_id": "dc",
+      "platform_user_id": "Beluga whale",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-17T18:04:36.000Z",
+      "updated_at": "2023-12-17T18:04:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21343822,
+    "rank_kc": 313157,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-17T18:05:28.000Z",
+    "rank_pc": 112626,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-17T18:05:30.000Z",
+    "rank_hs": 170731,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-17T18:05:34.000Z",
+    "created_at": "2023-12-20T03:13:49.000Z",
+    "updated_at": "2023-12-20T03:13:49.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:17:40.004Z"
+}
