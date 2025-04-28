@@ -1,0 +1,97 @@
+{
+  "id": 21297049,
+  "username": "GarsnomP",
+  "description": "Such is life...\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbut man that was fun right?\n\n",
+  "about": "ME EAT MINI DUDES AND OTHER ANNOYING THINGS",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-04T04:19:08.000Z",
+  "date_last_played": "2024-01-10T23:24:56.000Z",
+  "profile_views": 90,
+  "kill_count": 1528,
+  "play_count": 1255,
+  "highest_score": 1782956,
+  "picture": "21297049-4d7abd380b372db67510c5ac5532bc4c5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 99,
+  "tier": 6,
+  "xp": 451050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21297049,
+    "rank_kc": 20622,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-06T22:34:36.000Z",
+    "rank_pc": 10560,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-06T22:34:38.000Z",
+    "rank_hs": 46686,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-06T22:34:40.000Z",
+    "created_at": "2024-01-10T23:24:55.000Z",
+    "updated_at": "2024-01-10T23:24:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12535,
+          "user_id": 21297049,
+          "cloneof_id": null,
+          "string_id": "mymppo",
+          "title": "kookoo",
+          "description": "play on this if you dare!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 57,
+          "created_at": "2023-07-06T00:29:11.000Z",
+          "updated_at": "2023-07-06T00:29:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21297049,
+            "username": "GarsnomP",
+            "description": "Such is life...\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbut man that was fun right?\n\n",
+            "about": "ME EAT MINI DUDES AND OTHER ANNOYING THINGS",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-06-04T04:19:08.000Z",
+            "date_last_played": "2024-01-10T23:24:56.000Z",
+            "kill_count": 1528,
+            "play_count": 1255,
+            "highest_score": 1782956,
+            "picture": "21297049-4d7abd380b372db67510c5ac5532bc4c5.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 99,
+            "tier": 6,
+            "xp": 451050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ha"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:04:54.065Z"
+}
