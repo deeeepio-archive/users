@@ -1,0 +1,146 @@
+{
+  "id": 21294392,
+  "username": "Fluffy432",
+  "description": "get Better,Bozo,I bet u play on a school computer,touch grass someday\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-24T23:21:52.000Z",
+  "date_last_played": "2023-09-01T19:03:20.000Z",
+  "profile_views": 89,
+  "kill_count": 192,
+  "play_count": 582,
+  "highest_score": 634943,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 2,
+  "xp": 29700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21294392,
+    "rank_kc": 75501,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-22T02:36:57.000Z",
+    "rank_pc": 20958,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-22T02:36:58.000Z",
+    "rank_hs": 127106,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-22T02:36:59.000Z",
+    "created_at": "2023-09-01T19:03:19.000Z",
+    "updated_at": "2023-09-01T19:03:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12503,
+          "user_id": 21294392,
+          "cloneof_id": null,
+          "string_id": "rewt",
+          "title": "square",
+          "description": "SQUARE",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 4,
+          "created_at": "2023-06-30T19:12:59.000Z",
+          "updated_at": "2023-06-30T19:14:24.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21294392,
+            "username": "Fluffy432",
+            "description": "get Better,Bozo,I bet u play on a school computer,touch grass someday\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-24T23:21:52.000Z",
+            "date_last_played": "2023-09-01T19:03:20.000Z",
+            "kill_count": 192,
+            "play_count": 582,
+            "highest_score": 634943,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 10,
+            "tier": 2,
+            "xp": 29700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Sqaure"
+            },
+            {
+              "id": "tags"
+            }
+          ]
+        },
+        {
+          "id": 12502,
+          "user_id": 21294392,
+          "cloneof_id": null,
+          "string_id": "fluffy",
+          "title": "nah",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-06-30T16:35:34.000Z",
+          "updated_at": "2023-06-30T16:35:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21294392,
+            "username": "Fluffy432",
+            "description": "get Better,Bozo,I bet u play on a school computer,touch grass someday\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-24T23:21:52.000Z",
+            "date_last_played": "2023-09-01T19:03:20.000Z",
+            "kill_count": 192,
+            "play_count": 582,
+            "highest_score": 634943,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 10,
+            "tier": 2,
+            "xp": 29700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "dfs"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:46:13.105Z"
+}

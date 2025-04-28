@@ -1,0 +1,61 @@
+{
+  "id": 21294433,
+  "username": "sparksy_41",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-25T03:24:09.000Z",
+  "date_last_played": "2024-02-06T01:31:05.000Z",
+  "profile_views": 16,
+  "kill_count": 56,
+  "play_count": 206,
+  "highest_score": 1261035,
+  "picture": "21294433-4815b903bf5610b5ffd6b72e131b39e39.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 1,
+  "xp": 12750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 19840,
+      "user_id": 21294433,
+      "platform_id": "dc",
+      "platform_user_id": "sparksy_41",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-26T01:39:15.000Z",
+      "updated_at": "2023-05-26T01:39:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21294433,
+    "rank_kc": 148267,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-24T11:12:37.000Z",
+    "rank_pc": 53230,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-24T11:12:38.000Z",
+    "rank_hs": 69000,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-24T11:12:38.000Z",
+    "created_at": "2024-02-06T01:31:05.000Z",
+    "updated_at": "2024-02-06T01:31:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:46:23.735Z"
+}
