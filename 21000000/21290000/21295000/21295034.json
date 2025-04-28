@@ -1,0 +1,147 @@
+{
+  "id": 21295034,
+  "username": "bestfish",
+  "description": "yeah you just click that one button and not read this",
+  "about": "ihave dream\nmy childhood game\nprobably played when am 6 or 7\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-26T22:59:15.000Z",
+  "date_last_played": "2025-04-27T13:34:38.000Z",
+  "profile_views": 1075,
+  "kill_count": 6672,
+  "play_count": 1083,
+  "highest_score": 5376561,
+  "picture": "21295034-692b91cdd76f22266d877eeebfaf9c57-c27e1ab2-f21e-41c5-80fe-6b39073aa51f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3592,
+  "tier": 8,
+  "xp": 808050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21295034,
+    "rank_kc": 15443,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-17T13:09:25.000Z",
+    "rank_pc": 30796,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-17T13:09:28.000Z",
+    "rank_hs": 136389,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-17T13:09:32.000Z",
+    "created_at": "2025-04-27T13:34:37.000Z",
+    "updated_at": "2025-04-27T13:34:38.000Z",
+    "pd": {
+      "played": 60,
+      "won": 33,
+      "ratio": 55
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13230,
+          "user_id": 21295034,
+          "cloneof_id": 13229,
+          "string_id": "amogus_map_v10",
+          "title": "weird map",
+          "description": "it weird",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 161,
+          "created_at": "2023-12-17T14:39:17.000Z",
+          "updated_at": "2023-12-17T14:39:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21295034,
+            "username": "bestfish",
+            "description": "yeah you just click that one button and not read this",
+            "about": "ihave dream\nmy childhood game\nprobably played when am 6 or 7\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-26T22:59:15.000Z",
+            "date_last_played": "2025-04-27T13:34:38.000Z",
+            "kill_count": 6672,
+            "play_count": 1083,
+            "highest_score": 5376561,
+            "picture": "21295034-692b91cdd76f22266d877eeebfaf9c57-c27e1ab2-f21e-41c5-80fe-6b39073aa51f.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3592,
+            "tier": 8,
+            "xp": 808050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "WEIRD"
+            }
+          ]
+        },
+        {
+          "id": 13229,
+          "user_id": 21295034,
+          "cloneof_id": null,
+          "string_id": "amogus_map_v9",
+          "title": "maze",
+          "description": "maze",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 22,
+          "created_at": "2023-12-17T13:45:31.000Z",
+          "updated_at": "2023-12-17T13:45:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21295034,
+            "username": "bestfish",
+            "description": "yeah you just click that one button and not read this",
+            "about": "ihave dream\nmy childhood game\nprobably played when am 6 or 7\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-26T22:59:15.000Z",
+            "date_last_played": "2025-04-27T13:34:38.000Z",
+            "kill_count": 6672,
+            "play_count": 1083,
+            "highest_score": 5376561,
+            "picture": "21295034-692b91cdd76f22266d877eeebfaf9c57-c27e1ab2-f21e-41c5-80fe-6b39073aa51f.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3592,
+            "tier": 8,
+            "xp": 808050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "maze"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:50:28.206Z"
+}
