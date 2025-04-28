@@ -1,0 +1,61 @@
+{
+  "id": 21368112,
+  "username": "DAMiAN_RPC",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-05-23T11:46:30.000Z",
+  "date_last_played": "2024-08-25T13:53:47.000Z",
+  "profile_views": 8,
+  "kill_count": 2,
+  "play_count": 8,
+  "highest_score": 655784,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 20,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94851,
+      "user_id": 21368112,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.gg/4Dj4FdFM",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-05-23T11:51:30.000Z",
+      "updated_at": "2024-05-23T11:51:30.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21368112,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T09:14:18.107Z",
+    "updated_at": "2025-04-28T09:14:18.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T09:14:18.199Z"
+}
