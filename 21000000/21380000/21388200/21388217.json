@@ -1,0 +1,65 @@
+{
+  "id": 21388217,
+  "username": "DELT",
+  "description": null,
+  "about": "𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-04T01:08:41.000Z",
+  "date_last_played": "2025-04-26T23:30:46.000Z",
+  "profile_views": 235,
+  "kill_count": 778,
+  "play_count": 265,
+  "highest_score": 2235779,
+  "picture": "21388217-5a48649231c4bb80f8fd0e624e6448c0-1150a2ba-99fc-4afb-83d1-5080ee33a0d5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 392,
+  "tier": 4,
+  "xp": 155550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103267,
+      "user_id": 21388217,
+      "platform_id": "yt",
+      "platform_user_id": "SUBSCRIBE",
+      "platform_user_url": "https://www.youtube.com/@prom-i9l",
+      "verified": false,
+      "created_at": "2025-03-21T04:10:43.000Z",
+      "updated_at": "2025-03-21T04:10:43.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21388217,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-26T23:30:46.000Z",
+    "updated_at": "2025-04-26T23:30:46.000Z",
+    "pd": {
+      "played": 111,
+      "won": 52,
+      "ratio": 47
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:46:46.901Z"
+}
