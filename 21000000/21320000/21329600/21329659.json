@@ -1,0 +1,61 @@
+{
+  "id": 21329659,
+  "username": "Jere12345",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-04T17:38:30.000Z",
+  "date_last_played": "2023-11-04T17:43:51.000Z",
+  "profile_views": 3,
+  "kill_count": 0,
+  "play_count": 1,
+  "highest_score": 14705,
+  "picture": "21329659-c1d866ea6733a737f19e1791de8ca3c8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29004,
+      "user_id": 21329659,
+      "platform_id": "ig",
+      "platform_user_id": "Jerecetrola1",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-04T17:40:58.000Z",
+      "updated_at": "2023-11-04T17:40:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21329659,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T04:39:31.326Z",
+    "updated_at": "2025-04-28T04:39:31.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:39:31.416Z"
+}

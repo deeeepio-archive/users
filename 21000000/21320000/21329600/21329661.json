@@ -1,0 +1,50 @@
+{
+  "id": 21329661,
+  "username": "green12",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-04T17:43:21.000Z",
+  "date_last_played": "2023-12-01T16:06:44.000Z",
+  "profile_views": 7,
+  "kill_count": 18,
+  "play_count": 23,
+  "highest_score": 300071,
+  "picture": "21329661-f15d220a735e7ae271f8a3349686a63c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 2250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21329661,
+    "rank_kc": 234033,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-05T18:29:24.000Z",
+    "rank_pc": 204337,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-05T18:29:35.000Z",
+    "rank_hs": 206657,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-05T18:29:47.000Z",
+    "created_at": "2023-12-01T16:06:43.000Z",
+    "updated_at": "2023-12-01T16:06:44.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:39:31.980Z"
+}
