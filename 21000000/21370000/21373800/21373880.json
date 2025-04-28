@@ -1,0 +1,97 @@
+{
+  "id": 21373880,
+  "username": "华人之光",
+  "description": "一个女大学生会有什么坏心思呢，awa",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-07-08T03:37:08.000Z",
+  "date_last_played": "2025-01-04T01:37:07.000Z",
+  "profile_views": 87,
+  "kill_count": 603,
+  "play_count": 1156,
+  "highest_score": 1445065,
+  "picture": "21373880-1af9481ae5cc248fe85f44b3bc48143c-112e7f07-48f1-4de9-a88b-5fd528b66c0c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 148,
+  "tier": 4,
+  "xp": 188700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21373880,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-01-04T01:37:07.000Z",
+    "updated_at": "2025-01-04T01:37:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244505,
+          "user_id": 21373880,
+          "cloneof_id": null,
+          "string_id": "11451515",
+          "title": "大杂烩",
+          "description": "大杂烩",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 23,
+          "created_at": "2024-08-06T03:15:12.000Z",
+          "updated_at": "2024-08-06T03:15:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21373880,
+            "username": "华人之光",
+            "description": "一个女大学生会有什么坏心思呢，awa",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-07-08T03:37:08.000Z",
+            "date_last_played": "2025-01-04T01:37:07.000Z",
+            "kill_count": 603,
+            "play_count": 1156,
+            "highest_score": 1445065,
+            "picture": "21373880-1af9481ae5cc248fe85f44b3bc48143c-112e7f07-48f1-4de9-a88b-5fd528b66c0c.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 148,
+            "tier": 4,
+            "xp": 188700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "大杂烩"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T10:02:02.867Z"
+}
