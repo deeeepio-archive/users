@@ -1,0 +1,81 @@
+{
+  "id": 21389186,
+  "username": "uruha",
+  "description": "hih",
+  "about": "im not cool and i like vkei",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-10T21:42:58.000Z",
+  "date_last_played": "2024-11-10T21:42:58.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 100110,
+      "user_id": 21389186,
+      "platform_id": "dc",
+      "platform_user_id": "w4yvv",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-11-10T21:44:46.000Z",
+      "updated_at": "2024-11-10T21:44:46.000Z"
+    },
+    {
+      "id": 100111,
+      "user_id": 21389186,
+      "platform_id": "ig",
+      "platform_user_id": "w4yvvvvv",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-11-10T21:45:00.000Z",
+      "updated_at": "2024-11-10T21:45:00.000Z"
+    },
+    {
+      "id": 100112,
+      "user_id": 21389186,
+      "platform_id": "rd",
+      "platform_user_id": "ilikeuruha",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-11-10T21:45:17.000Z",
+      "updated_at": "2024-11-10T21:45:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21389186,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T11:53:28.463Z",
+    "updated_at": "2025-04-28T11:53:28.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:53:28.566Z"
+}
