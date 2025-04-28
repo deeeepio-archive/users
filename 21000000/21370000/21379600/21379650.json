@@ -1,0 +1,65 @@
+{
+  "id": 21379650,
+  "username": "pde",
+  "description": "你很強，只是你運氣不好",
+  "about": "我就是小綠仔",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-08-29T10:07:17.000Z",
+  "date_last_played": "2025-04-28T09:53:17.000Z",
+  "profile_views": 560,
+  "kill_count": 734,
+  "play_count": 1536,
+  "highest_score": 4899078,
+  "picture": "21379650-b8871d97ac058d16f2a303a6d17398f8-4d239c84-8a2e-4cfa-8ced-858f8b67937d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 9,
+  "tier": 7,
+  "xp": 563850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101840,
+      "user_id": 21379650,
+      "platform_id": "ig",
+      "platform_user_id": "kalim0917han",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-01-11T02:44:53.000Z",
+      "updated_at": "2025-01-11T02:44:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21379650,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-28T09:53:16.000Z",
+    "updated_at": "2025-04-28T09:53:17.000Z",
+    "pd": {
+      "played": 3,
+      "won": 1,
+      "ratio": 33
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T10:47:56.129Z"
+}
