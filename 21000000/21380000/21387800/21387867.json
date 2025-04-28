@@ -1,0 +1,97 @@
+{
+  "id": 21387867,
+  "username": "Kinglegendx",
+  "description": "Im sorry",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-01T14:38:25.000Z",
+  "date_last_played": "2025-03-14T15:22:32.000Z",
+  "profile_views": 199,
+  "kill_count": 1117,
+  "play_count": 1212,
+  "highest_score": 3958411,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 47,
+  "tier": 6,
+  "xp": 438000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21387867,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-14T15:22:31.000Z",
+    "updated_at": "2025-03-14T15:22:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244850,
+          "user_id": 21387867,
+          "cloneof_id": null,
+          "string_id": "1q1q1q1qwdfg",
+          "title": "Untitled",
+          "description": "fghjhgfg",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 7,
+          "created_at": "2024-11-01T15:26:26.000Z",
+          "updated_at": "2024-11-01T15:27:15.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21387867,
+            "username": "Kinglegendx",
+            "description": "Im sorry",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-11-01T14:38:25.000Z",
+            "date_last_played": "2025-03-14T15:22:32.000Z",
+            "kill_count": 1117,
+            "play_count": 1212,
+            "highest_score": 3958411,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 47,
+            "tier": 6,
+            "xp": 438000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hjhhj"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:44:52.859Z"
+}
