@@ -1,0 +1,61 @@
+{
+  "id": 21333562,
+  "username": "derogatoryjokeabouturmom",
+  "description": "read username",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-11T14:21:51.000Z",
+  "date_last_played": "2023-11-17T20:28:19.000Z",
+  "profile_views": 137,
+  "kill_count": 1255,
+  "play_count": 17,
+  "highest_score": 2837367,
+  "picture": "21333562-1699a669ced665bbb3ef1a32c2f910141.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 116,
+  "tier": 2,
+  "xp": 27900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92001,
+      "user_id": 21333562,
+      "platform_id": "dc",
+      "platform_user_id": "rave_ting",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-19T21:26:24.000Z",
+      "updated_at": "2024-02-19T21:26:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21333562,
+    "rank_kc": 23327,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-12-27T12:02:01.000Z",
+    "rank_pc": 183171,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-27T12:02:04.000Z",
+    "rank_hs": 23892,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-27T12:02:07.000Z",
+    "created_at": "2023-12-27T12:20:43.000Z",
+    "updated_at": "2023-12-27T12:02:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:05:54.807Z"
+}
