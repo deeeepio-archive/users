@@ -1,0 +1,97 @@
+{
+  "id": 21344201,
+  "username": "Nuxi",
+  "description": "STOP POSTING ABOUT AMONG US, I'M TIRED OF SEEING IT! My friends on TikTok send me memes, on Discord it's fucking memes, i was in a server, right? and ALL of the channels are just Among Us stuff. I-I showed my Champion underwear to my girlfriend\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-19T14:31:21.000Z",
+  "date_last_played": "2024-12-22T16:43:10.000Z",
+  "profile_views": 111,
+  "kill_count": 149,
+  "play_count": 97,
+  "highest_score": 10068848,
+  "picture": "21344201-d27c1c1cacb3fd4dd51012dcfc102e27d1.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 115,
+  "tier": 2,
+  "xp": 58200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21344201,
+    "rank_kc": 90506,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-10T14:07:14.000Z",
+    "rank_pc": 83060,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-10T14:07:28.000Z",
+    "rank_hs": 2678,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-10T14:07:39.000Z",
+    "created_at": "2024-12-22T16:43:10.000Z",
+    "updated_at": "2024-12-22T16:43:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13248,
+          "user_id": 21344201,
+          "cloneof_id": null,
+          "string_id": "nuxi1",
+          "title": "Big map",
+          "description": "game map",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 61,
+          "created_at": "2023-12-23T00:39:34.000Z",
+          "updated_at": "2023-12-23T00:39:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21344201,
+            "username": "Nuxi",
+            "description": "STOP POSTING ABOUT AMONG US, I'M TIRED OF SEEING IT! My friends on TikTok send me memes, on Discord it's fucking memes, i was in a server, right? and ALL of the channels are just Among Us stuff. I-I showed my Champion underwear to my girlfriend\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-12-19T14:31:21.000Z",
+            "date_last_played": "2024-12-22T16:43:10.000Z",
+            "kill_count": 149,
+            "play_count": 97,
+            "highest_score": 10068848,
+            "picture": "21344201-d27c1c1cacb3fd4dd51012dcfc102e27d1.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 115,
+            "tier": 2,
+            "xp": 58200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "123"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:20:12.231Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": 21344180,
+  "username": "femdi",
+  "description": "👁️👄👁️",
+  "about": "🔥",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-19T10:29:31.000Z",
+  "date_last_played": "2025-04-20T21:10:21.000Z",
+  "profile_views": 1918,
+  "kill_count": 12525,
+  "play_count": 4163,
+  "highest_score": 10453940,
+  "picture": "21344180-499103fb89483be1119044205bb810a1094-92469535-460b-4c18-83e1-cce3af0a328f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1575,
+  "tier": 10,
+  "xp": 4116750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103339,
+      "user_id": 21344180,
+      "platform_id": "dc",
+      "platform_user_id": "Joe Goldberg",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-03-24T19:15:51.000Z",
+      "updated_at": "2025-03-24T19:15:51.000Z"
+    },
+    {
+      "id": 103340,
+      "user_id": 21344180,
+      "platform_id": "ig",
+      "platform_user_id": "Will betherhain",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-03-24T19:16:05.000Z",
+      "updated_at": "2025-03-24T19:16:05.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21344180,
+    "rank_kc": 14402,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-18T21:40:39.000Z",
+    "rank_pc": 19851,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-18T21:40:55.000Z",
+    "rank_hs": 5917,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-18T21:40:59.000Z",
+    "created_at": "2025-04-20T21:10:20.000Z",
+    "updated_at": "2025-04-20T21:10:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:20:05.733Z"
+}
