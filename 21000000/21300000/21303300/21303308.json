@@ -1,0 +1,61 @@
+{
+  "id": 21303308,
+  "username": "evilokijumi",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-01T22:40:59.000Z",
+  "date_last_played": "2024-12-14T01:29:16.000Z",
+  "profile_views": 3,
+  "kill_count": 25,
+  "play_count": 23,
+  "highest_score": 438765,
+  "picture": "21303308-59b53a481050c34e810c10f575aa1cbdbc7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 1,
+  "xp": 5250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21951,
+      "user_id": 21303308,
+      "platform_id": "tc",
+      "platform_user_id": "https://www.twitch.tv/lokijumi",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-01T22:44:18.000Z",
+      "updated_at": "2023-07-01T22:44:18.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21303308,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T01:46:01.352Z",
+    "updated_at": "2025-04-28T01:46:01.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:46:01.399Z"
+}
