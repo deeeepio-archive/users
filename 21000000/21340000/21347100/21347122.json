@@ -1,0 +1,61 @@
+{
+  "id": 21347122,
+  "username": "kat11k",
+  "description": "🥛",
+  "about": "я люблю косаток",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-07T11:30:56.000Z",
+  "date_last_played": "2024-01-07T19:30:40.000Z",
+  "profile_views": 35,
+  "kill_count": 26,
+  "play_count": 36,
+  "highest_score": 222683,
+  "picture": "21347122-8176ede2b641a729d89cf69d7ac92403.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 88,
+  "tier": 1,
+  "xp": 11700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31726,
+      "user_id": 21347122,
+      "platform_id": "vk",
+      "platform_user_id": "kat11kk",
+      "platform_user_url": "https://vk.com/kat11kk",
+      "verified": false,
+      "created_at": "2024-01-07T11:34:59.000Z",
+      "updated_at": "2024-01-07T11:34:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21347122,
+    "rank_kc": 192281,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2024-01-07T19:25:42.000Z",
+    "rank_pc": 133621,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-07T19:25:50.000Z",
+    "rank_hs": 244995,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-07T19:26:02.000Z",
+    "created_at": "2024-01-07T19:30:40.000Z",
+    "updated_at": "2024-01-07T19:30:40.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:38:29.382Z"
+}
