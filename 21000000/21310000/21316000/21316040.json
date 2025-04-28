@@ -1,0 +1,97 @@
+{
+  "id": 21316040,
+  "username": "MochiMochiMochi",
+  "description": "Sorry about that!",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-03T22:10:30.000Z",
+  "date_last_played": "2024-12-21T00:36:27.000Z",
+  "profile_views": 512,
+  "kill_count": 2856,
+  "play_count": 1936,
+  "highest_score": 2198514,
+  "picture": "21316040-1e11dce8d593e645ee80c6b88489d088-e3093810-c664-48a6-b0c0-1c697eb2f4b9.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 34,
+  "tier": 7,
+  "xp": 559500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21316040,
+    "rank_kc": 133729,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-25T13:56:01.000Z",
+    "rank_pc": 58174,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-25T13:56:02.000Z",
+    "rank_hs": 137134,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-25T03:07:00.000Z",
+    "created_at": "2024-12-21T00:36:26.000Z",
+    "updated_at": "2024-12-21T00:36:27.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244286,
+          "user_id": 21316040,
+          "cloneof_id": null,
+          "string_id": "popo",
+          "title": "yay",
+          "description": "s",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 7,
+          "created_at": "2024-05-23T01:19:52.000Z",
+          "updated_at": "2024-05-23T01:45:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21316040,
+            "username": "MochiMochiMochi",
+            "description": "Sorry about that!",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-09-03T22:10:30.000Z",
+            "date_last_played": "2024-12-21T00:36:27.000Z",
+            "kill_count": 2856,
+            "play_count": 1936,
+            "highest_score": 2198514,
+            "picture": "21316040-1e11dce8d593e645ee80c6b88489d088-e3093810-c664-48a6-b0c0-1c697eb2f4b9.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 34,
+            "tier": 7,
+            "xp": 559500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "s"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:10:25.806Z"
+}
