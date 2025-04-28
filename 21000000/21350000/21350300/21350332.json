@@ -1,0 +1,65 @@
+{
+  "id": 21350332,
+  "username": "747",
+  "description": "younger the soul, tighter the hole",
+  "about": "reppin triple k\nstraight outta the felony flats",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-29T05:21:57.000Z",
+  "date_last_played": "2025-04-18T20:09:33.000Z",
+  "profile_views": 8603,
+  "kill_count": 16714,
+  "play_count": 3871,
+  "highest_score": 28245646,
+  "picture": "21350332-9aef62ab2359926ff6aa1b265798bff0-39dd41ee-cb17-4868-b46b-7b11e35826e3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": "Client usage, banned until 19/05/25",
+  "ban_at": "2025-04-18T21:22:19.000Z",
+  "coins": 9094,
+  "tier": 10,
+  "xp": 4009200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102631,
+      "user_id": 21350332,
+      "platform_id": "dc",
+      "platform_user_id": ".chessdaddy.",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-02-14T21:17:00.000Z",
+      "updated_at": "2025-02-14T21:17:00.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21350332,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-18T20:09:33.000Z",
+    "updated_at": "2025-04-18T20:09:33.000Z",
+    "pd": {
+      "played": 21,
+      "won": 21,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:59:20.117Z"
+}
