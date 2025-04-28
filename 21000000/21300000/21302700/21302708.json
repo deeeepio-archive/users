@@ -1,0 +1,50 @@
+{
+  "id": 21302708,
+  "username": "BLUE7",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-28T19:11:55.000Z",
+  "date_last_played": "2023-09-15T23:30:18.000Z",
+  "profile_views": 28,
+  "kill_count": 11,
+  "play_count": 30,
+  "highest_score": 47200,
+  "picture": "21302708-4e96f69f667d2c5382f10df16893bb300.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 22,
+  "tier": 1,
+  "xp": 5550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21302708,
+    "rank_kc": 256474,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-29T19:02:27.000Z",
+    "rank_pc": 151051,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-29T19:02:27.000Z",
+    "rank_hs": 390949,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-29T19:02:28.000Z",
+    "created_at": "2023-09-15T23:30:18.000Z",
+    "updated_at": "2023-09-15T23:30:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:42:13.273Z"
+}
