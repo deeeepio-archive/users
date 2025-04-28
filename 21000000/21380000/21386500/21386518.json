@@ -1,0 +1,61 @@
+{
+  "id": 21386518,
+  "username": "KenyattaLeeFrazier",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-10-22T13:23:22.000Z",
+  "date_last_played": "2024-12-19T15:23:49.000Z",
+  "profile_views": 11,
+  "kill_count": 177,
+  "play_count": 183,
+  "highest_score": 1193259,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 139,
+  "tier": 2,
+  "xp": 35850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101013,
+      "user_id": 21386518,
+      "platform_id": "yt",
+      "platform_user_id": "https://www.youtube.com/c/kencarson",
+      "platform_user_url": "https://www.youtube.com/c/kencarson",
+      "verified": false,
+      "created_at": "2024-12-09T13:53:21.000Z",
+      "updated_at": "2024-12-09T13:53:21.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21386518,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T11:35:17.241Z",
+    "updated_at": "2025-04-28T11:35:17.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:35:17.297Z"
+}
