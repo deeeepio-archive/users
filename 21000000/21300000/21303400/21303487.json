@@ -1,0 +1,97 @@
+{
+  "id": 21303487,
+  "username": "broccoli2",
+  "description": "all your score are belong to us",
+  "about": "Alt account of broccoli",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-02T19:08:32.000Z",
+  "date_last_played": "2023-07-12T17:02:55.000Z",
+  "profile_views": 86,
+  "kill_count": 272,
+  "play_count": 105,
+  "highest_score": 2274758,
+  "picture": "21303487-2d399b2a3c378f213dec3e410729da7410.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 315,
+  "tier": 2,
+  "xp": 57000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21303487,
+    "rank_kc": 62367,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-08-29T11:11:15.000Z",
+    "rank_pc": 69186,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-08-29T11:11:17.000Z",
+    "rank_hs": 32151,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-29T11:11:20.000Z",
+    "created_at": "2023-09-17T20:50:54.000Z",
+    "updated_at": "2023-08-29T11:11:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12509,
+          "user_id": 21303487,
+          "cloneof_id": null,
+          "string_id": "broc_v1_modernish",
+          "title": "V1 Modern",
+          "description": "its supposed to mimic what v1 would be like but i lack braincells so it doesn't",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 12,
+          "created_at": "2023-07-02T19:30:19.000Z",
+          "updated_at": "2023-07-02T19:41:28.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21303487,
+            "username": "broccoli2",
+            "description": "all your score are belong to us",
+            "about": "Alt account of broccoli",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-07-02T19:08:32.000Z",
+            "date_last_played": "2023-07-12T17:02:55.000Z",
+            "kill_count": 272,
+            "play_count": 105,
+            "highest_score": 2274758,
+            "picture": "21303487-2d399b2a3c378f213dec3e410729da7410.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 315,
+            "tier": 2,
+            "xp": 57000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "v1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:47:03.557Z"
+}
