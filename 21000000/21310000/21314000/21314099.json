@@ -1,0 +1,97 @@
+{
+  "id": 21314099,
+  "username": "theholyangel",
+  "description": "mother F******************************",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-25T20:12:54.000Z",
+  "date_last_played": "2024-02-02T16:18:45.000Z",
+  "profile_views": 5,
+  "kill_count": 5,
+  "play_count": 25,
+  "highest_score": 176031,
+  "picture": "21314099-ae87857cfa0635ccc42de5d761610a526.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21314099,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T02:57:29.351Z",
+    "updated_at": "2025-04-28T02:57:29.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13178,
+          "user_id": 21314099,
+          "cloneof_id": null,
+          "string_id": "sa_as",
+          "title": "Untitled",
+          "description": "sda",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 16,
+          "created_at": "2023-12-04T16:22:34.000Z",
+          "updated_at": "2023-12-04T16:22:35.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21314099,
+            "username": "theholyangel",
+            "description": "mother F******************************",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-08-25T20:12:54.000Z",
+            "date_last_played": "2024-02-02T16:18:45.000Z",
+            "kill_count": 5,
+            "play_count": 25,
+            "highest_score": 176031,
+            "picture": "21314099-ae87857cfa0635ccc42de5d761610a526.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 15,
+            "tier": 1,
+            "xp": 750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ddsa"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:57:29.410Z"
+}

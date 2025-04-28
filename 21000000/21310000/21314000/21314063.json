@@ -1,0 +1,61 @@
+{
+  "id": 21314063,
+  "username": "Anybis",
+  "description": "perdon bro\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-25T17:13:58.000Z",
+  "date_last_played": "2024-01-13T00:15:36.000Z",
+  "profile_views": 6,
+  "kill_count": 0,
+  "play_count": 12,
+  "highest_score": 218844,
+  "picture": "21314063-a7bf2185b725810133edcde9fec2be641.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 25364,
+      "user_id": 21314063,
+      "platform_id": "dc",
+      "platform_user_id": "Anybis",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-25T17:15:26.000Z",
+      "updated_at": "2023-08-25T17:15:30.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21314063,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T02:57:24.568Z",
+    "updated_at": "2025-04-28T02:57:25.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:57:24.622Z"
+}
