@@ -1,0 +1,97 @@
+{
+  "id": 21299850,
+  "username": "Wolfmus",
+  "description": "You just got killed by death.\nyou got murdered by da iso.\nBtw If i kill you, you die.\nGood luck next time.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-16T07:34:50.000Z",
+  "date_last_played": "2023-12-08T08:27:20.000Z",
+  "profile_views": 14,
+  "kill_count": 14,
+  "play_count": 36,
+  "highest_score": 394485,
+  "picture": "21299850-1f3318597a9645bb350801854c807f2b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 5250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21299850,
+    "rank_kc": 246467,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-17T08:56:08.000Z",
+    "rank_pc": 132118,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-17T08:56:10.000Z",
+    "rank_hs": 179041,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-17T08:56:10.000Z",
+    "created_at": "2023-12-08T08:27:19.000Z",
+    "updated_at": "2023-12-08T08:27:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12456,
+          "user_id": 21299850,
+          "cloneof_id": null,
+          "string_id": "lets_try_to_stuck",
+          "title": "dont, try. 1",
+          "description": "just a test try of map making",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 81,
+          "created_at": "2023-06-20T07:32:25.000Z",
+          "updated_at": "2023-06-20T07:32:27.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21299850,
+            "username": "Wolfmus",
+            "description": "You just got killed by death.\nyou got murdered by da iso.\nBtw If i kill you, you die.\nGood luck next time.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-06-16T07:34:50.000Z",
+            "date_last_played": "2023-12-08T08:27:20.000Z",
+            "kill_count": 14,
+            "play_count": 36,
+            "highest_score": 394485,
+            "picture": "21299850-1f3318597a9645bb350801854c807f2b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 15,
+            "tier": 1,
+            "xp": 5250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "stuck"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:23:02.536Z"
+}
