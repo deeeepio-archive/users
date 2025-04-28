@@ -1,0 +1,61 @@
+{
+  "id": 21312195,
+  "username": "Tiger-Shoot",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-16T23:06:11.000Z",
+  "date_last_played": "2023-11-29T16:28:09.000Z",
+  "profile_views": 22,
+  "kill_count": 55,
+  "play_count": 127,
+  "highest_score": 457766,
+  "picture": "21312195-2af938da4310c7cfaa62c7b2883caebda.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 50,
+  "tier": 1,
+  "xp": 9750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 24787,
+      "user_id": 21312195,
+      "platform_id": "dc",
+      "platform_user_id": "floppatuvalette ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-16T23:08:53.000Z",
+      "updated_at": "2023-08-16T23:08:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21312195,
+    "rank_kc": 172115,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-18T01:46:54.000Z",
+    "rank_pc": 87288,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-18T01:46:56.000Z",
+    "rank_hs": 157750,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-18T01:46:57.000Z",
+    "created_at": "2023-11-29T16:28:09.000Z",
+    "updated_at": "2023-11-29T16:28:09.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:43:57.341Z"
+}

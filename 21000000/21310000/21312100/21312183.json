@@ -1,0 +1,143 @@
+{
+  "id": 21312183,
+  "username": "nprios5",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-16T20:42:00.000Z",
+  "date_last_played": "2024-01-04T20:49:58.000Z",
+  "profile_views": 11,
+  "kill_count": 9,
+  "play_count": 15,
+  "highest_score": 400376,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 26,
+  "tier": 1,
+  "xp": 2400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21312183,
+    "rank_kc": 288911,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-18T22:05:50.000Z",
+    "rank_pc": 233438,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-18T22:05:52.000Z",
+    "rank_hs": 170779,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-18T22:05:53.000Z",
+    "created_at": "2024-01-04T20:49:58.000Z",
+    "updated_at": "2024-01-04T20:49:58.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12720,
+          "user_id": 21312183,
+          "cloneof_id": 12711,
+          "string_id": "tyutrur6tur",
+          "title": "Untitledru6rur6u",
+          "description": "rurtutrutru",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 6,
+          "created_at": "2023-08-17T20:01:55.000Z",
+          "updated_at": "2023-08-17T20:01:56.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21312183,
+            "username": "nprios5",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-08-16T20:42:00.000Z",
+            "date_last_played": "2024-01-04T20:49:58.000Z",
+            "kill_count": 9,
+            "play_count": 15,
+            "highest_score": 400376,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26,
+            "tier": 1,
+            "xp": 2400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "trutrururu"
+            }
+          ]
+        },
+        {
+          "id": 12711,
+          "user_id": 21312183,
+          "cloneof_id": null,
+          "string_id": "ytjytjytjytjyt",
+          "title": "Untitledjytjytj",
+          "description": "ytjytjytjyt",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 6,
+          "created_at": "2023-08-17T09:37:29.000Z",
+          "updated_at": "2023-08-17T09:42:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21312183,
+            "username": "nprios5",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-08-16T20:42:00.000Z",
+            "date_last_played": "2024-01-04T20:49:58.000Z",
+            "kill_count": 9,
+            "play_count": 15,
+            "highest_score": 400376,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 26,
+            "tier": 1,
+            "xp": 2400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "jytjytjytj"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:43:55.833Z"
+}

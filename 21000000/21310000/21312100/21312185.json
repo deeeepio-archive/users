@@ -1,0 +1,97 @@
+{
+  "id": 21312185,
+  "username": "КingCrimsonfgvds",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-16T21:05:42.000Z",
+  "date_last_played": "2023-09-01T11:29:20.000Z",
+  "profile_views": 4,
+  "kill_count": 1,
+  "play_count": 12,
+  "highest_score": 141566,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21312185,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T02:43:56.050Z",
+    "updated_at": "2025-04-28T02:43:56.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12773,
+          "user_id": 21312185,
+          "cloneof_id": 10836,
+          "string_id": "ddadaad",
+          "title": "Untitled",
+          "description": "adad",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 2383,
+          "created_at": "2023-09-02T19:37:32.000Z",
+          "updated_at": "2023-09-02T19:37:33.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21312185,
+            "username": "КingCrimsonfgvds",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-08-16T21:05:42.000Z",
+            "date_last_played": "2023-09-01T11:29:20.000Z",
+            "kill_count": 1,
+            "play_count": 12,
+            "highest_score": 141566,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 14,
+            "tier": 1,
+            "xp": 600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "adada"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:43:56.109Z"
+}
