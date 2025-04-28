@@ -1,0 +1,481 @@
+{
+  "id": 21346509,
+  "username": "fxbrus",
+  "description": "Crabs are red,\nDolphins are gray.\nDeeeep.io is\nMy favorite game!\n\nDon't eat me,\nI'm not the best.\nI might reach 1m\nCan I get a yes!",
+  "about": "Deeeep.io is the b.e.s.t. game I have ever played! And I'm 8 yrs old. My real name is Isabelle Santiago Bagetti, and I love the ocean sooooo much! I'm maybe not the best at Deeeep.io, so don't you dare kill me!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-03T16:53:09.000Z",
+  "date_last_played": "2025-03-21T23:13:02.000Z",
+  "profile_views": 97,
+  "kill_count": 10,
+  "play_count": 166,
+  "highest_score": 504982,
+  "picture": "21346509-d33e959618941b013286e0263a258130.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 7,
+  "tier": 1,
+  "xp": 12900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31962,
+      "user_id": 21346509,
+      "platform_id": "rd",
+      "platform_user_id": "SpaceMuted8633",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-13T19:39:05.000Z",
+      "updated_at": "2024-01-31T20:29:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21346509,
+    "rank_kc": 453740,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-13T21:06:51.000Z",
+    "rank_pc": 263763,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-13T21:06:55.000Z",
+    "rank_hs": 605508,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-13T21:07:00.000Z",
+    "created_at": "2025-03-21T23:13:02.000Z",
+    "updated_at": "2025-03-21T23:13:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244857,
+          "user_id": 21346509,
+          "cloneof_id": null,
+          "string_id": "da_nonsense_map_v1",
+          "title": "Da Nonsense Map",
+          "description": "Lots of weird stuff here. And nonsense stuff too!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 76,
+          "created_at": "2024-11-02T22:47:09.000Z",
+          "updated_at": "2024-12-22T22:48:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21346509,
+            "username": "fxbrus",
+            "description": "Crabs are red,\nDolphins are gray.\nDeeeep.io is\nMy favorite game!\n\nDon't eat me,\nI'm not the best.\nI might reach 1m\nCan I get a yes!",
+            "about": "Deeeep.io is the b.e.s.t. game I have ever played! And I'm 8 yrs old. My real name is Isabelle Santiago Bagetti, and I love the ocean sooooo much! I'm maybe not the best at Deeeep.io, so don't you dare kill me!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-01-03T16:53:09.000Z",
+            "date_last_played": "2025-03-21T23:13:02.000Z",
+            "kill_count": 10,
+            "play_count": 166,
+            "highest_score": 504982,
+            "picture": "21346509-d33e959618941b013286e0263a258130.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 7,
+            "tier": 1,
+            "xp": 12900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 244838,
+          "user_id": 21346509,
+          "cloneof_id": null,
+          "string_id": "reefy_pd_v1",
+          "title": "Reefy Pearl Defense",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 6,
+          "created_at": "2024-10-26T17:50:03.000Z",
+          "updated_at": "2024-10-28T00:35:23.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21346509,
+            "username": "fxbrus",
+            "description": "Crabs are red,\nDolphins are gray.\nDeeeep.io is\nMy favorite game!\n\nDon't eat me,\nI'm not the best.\nI might reach 1m\nCan I get a yes!",
+            "about": "Deeeep.io is the b.e.s.t. game I have ever played! And I'm 8 yrs old. My real name is Isabelle Santiago Bagetti, and I love the ocean sooooo much! I'm maybe not the best at Deeeep.io, so don't you dare kill me!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-01-03T16:53:09.000Z",
+            "date_last_played": "2025-03-21T23:13:02.000Z",
+            "kill_count": 10,
+            "play_count": 166,
+            "highest_score": 504982,
+            "picture": "21346509-d33e959618941b013286e0263a258130.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 7,
+            "tier": 1,
+            "xp": 12900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 244836,
+          "user_id": 21346509,
+          "cloneof_id": null,
+          "string_id": "diorama_for_1v1",
+          "title": "Diorama For 1v1",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 7,
+          "created_at": "2024-10-25T21:56:46.000Z",
+          "updated_at": "2024-10-26T17:41:59.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21346509,
+            "username": "fxbrus",
+            "description": "Crabs are red,\nDolphins are gray.\nDeeeep.io is\nMy favorite game!\n\nDon't eat me,\nI'm not the best.\nI might reach 1m\nCan I get a yes!",
+            "about": "Deeeep.io is the b.e.s.t. game I have ever played! And I'm 8 yrs old. My real name is Isabelle Santiago Bagetti, and I love the ocean sooooo much! I'm maybe not the best at Deeeep.io, so don't you dare kill me!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-01-03T16:53:09.000Z",
+            "date_last_played": "2025-03-21T23:13:02.000Z",
+            "kill_count": 10,
+            "play_count": 166,
+            "highest_score": 504982,
+            "picture": "21346509-d33e959618941b013286e0263a258130.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 7,
+            "tier": 1,
+            "xp": 12900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 244824,
+          "user_id": 21346509,
+          "cloneof_id": null,
+          "string_id": "reef_out_there_v1",
+          "title": "Reef Out There",
+          "description": "This reef has lots of hiding spots!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 31,
+          "created_at": "2024-10-22T21:57:29.000Z",
+          "updated_at": "2024-10-25T00:09:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21346509,
+            "username": "fxbrus",
+            "description": "Crabs are red,\nDolphins are gray.\nDeeeep.io is\nMy favorite game!\n\nDon't eat me,\nI'm not the best.\nI might reach 1m\nCan I get a yes!",
+            "about": "Deeeep.io is the b.e.s.t. game I have ever played! And I'm 8 yrs old. My real name is Isabelle Santiago Bagetti, and I love the ocean sooooo much! I'm maybe not the best at Deeeep.io, so don't you dare kill me!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-01-03T16:53:09.000Z",
+            "date_last_played": "2025-03-21T23:13:02.000Z",
+            "kill_count": 10,
+            "play_count": 166,
+            "highest_score": 504982,
+            "picture": "21346509-d33e959618941b013286e0263a258130.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 7,
+            "tier": 1,
+            "xp": 12900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "coral"
+            },
+            {
+              "id": "coral map"
+            },
+            {
+              "id": "coral reef"
+            },
+            {
+              "id": "fishes"
+            },
+            {
+              "id": "hide"
+            },
+            {
+              "id": "hiding"
+            },
+            {
+              "id": "hiding map"
+            },
+            {
+              "id": "hiding spots"
+            },
+            {
+              "id": "lots of fishes"
+            },
+            {
+              "id": "map for TFFA"
+            },
+            {
+              "id": "reef"
+            },
+            {
+              "id": "reef map"
+            },
+            {
+              "id": "teaming map"
+            },
+            {
+              "id": "TFFA"
+            },
+            {
+              "id": "TFFA map"
+            }
+          ]
+        },
+        {
+          "id": 244818,
+          "user_id": 21346509,
+          "cloneof_id": null,
+          "string_id": "swamply_a_swamp_v1",
+          "title": "Swamply A Swamp",
+          "description": "A swamp with lots of things to do here!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 31,
+          "created_at": "2024-10-20T22:07:52.000Z",
+          "updated_at": "2024-10-22T00:54:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21346509,
+            "username": "fxbrus",
+            "description": "Crabs are red,\nDolphins are gray.\nDeeeep.io is\nMy favorite game!\n\nDon't eat me,\nI'm not the best.\nI might reach 1m\nCan I get a yes!",
+            "about": "Deeeep.io is the b.e.s.t. game I have ever played! And I'm 8 yrs old. My real name is Isabelle Santiago Bagetti, and I love the ocean sooooo much! I'm maybe not the best at Deeeep.io, so don't you dare kill me!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-01-03T16:53:09.000Z",
+            "date_last_played": "2025-03-21T23:13:02.000Z",
+            "kill_count": 10,
+            "play_count": 166,
+            "highest_score": 504982,
+            "picture": "21346509-d33e959618941b013286e0263a258130.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 7,
+            "tier": 1,
+            "xp": 12900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 244817,
+          "user_id": 21346509,
+          "cloneof_id": null,
+          "string_id": "habitat_switch_v1",
+          "title": "Habitat Switch",
+          "description": "Switch your habitats! (Inspired by \"fish tank\")",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-10-20T21:59:44.000Z",
+          "updated_at": "2024-10-20T21:59:45.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21346509,
+            "username": "fxbrus",
+            "description": "Crabs are red,\nDolphins are gray.\nDeeeep.io is\nMy favorite game!\n\nDon't eat me,\nI'm not the best.\nI might reach 1m\nCan I get a yes!",
+            "about": "Deeeep.io is the b.e.s.t. game I have ever played! And I'm 8 yrs old. My real name is Isabelle Santiago Bagetti, and I love the ocean sooooo much! I'm maybe not the best at Deeeep.io, so don't you dare kill me!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-01-03T16:53:09.000Z",
+            "date_last_played": "2025-03-21T23:13:02.000Z",
+            "kill_count": 10,
+            "play_count": 166,
+            "highest_score": 504982,
+            "picture": "21346509-d33e959618941b013286e0263a258130.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 7,
+            "tier": 1,
+            "xp": 12900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 244802,
+          "user_id": 21346509,
+          "cloneof_id": null,
+          "string_id": "out_in_the_reef_v1",
+          "title": "Out In The Reef",
+          "description": "You are in a lively coral reef with lots of coral!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 10,
+          "created_at": "2024-10-18T21:34:12.000Z",
+          "updated_at": "2024-10-23T21:55:10.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21346509,
+            "username": "fxbrus",
+            "description": "Crabs are red,\nDolphins are gray.\nDeeeep.io is\nMy favorite game!\n\nDon't eat me,\nI'm not the best.\nI might reach 1m\nCan I get a yes!",
+            "about": "Deeeep.io is the b.e.s.t. game I have ever played! And I'm 8 yrs old. My real name is Isabelle Santiago Bagetti, and I love the ocean sooooo much! I'm maybe not the best at Deeeep.io, so don't you dare kill me!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-01-03T16:53:09.000Z",
+            "date_last_played": "2025-03-21T23:13:02.000Z",
+            "kill_count": 10,
+            "play_count": 166,
+            "highest_score": 504982,
+            "picture": "21346509-d33e959618941b013286e0263a258130.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 7,
+            "tier": 1,
+            "xp": 12900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 244357,
+          "user_id": 21346509,
+          "cloneof_id": null,
+          "string_id": "3_habitats_map",
+          "title": "3 Habitats",
+          "description": "Every time you cross a habitat, a sign will show you the habitat you are going to!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 20,
+          "created_at": "2024-06-20T16:20:44.000Z",
+          "updated_at": "2024-10-23T21:53:48.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21346509,
+            "username": "fxbrus",
+            "description": "Crabs are red,\nDolphins are gray.\nDeeeep.io is\nMy favorite game!\n\nDon't eat me,\nI'm not the best.\nI might reach 1m\nCan I get a yes!",
+            "about": "Deeeep.io is the b.e.s.t. game I have ever played! And I'm 8 yrs old. My real name is Isabelle Santiago Bagetti, and I love the ocean sooooo much! I'm maybe not the best at Deeeep.io, so don't you dare kill me!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-01-03T16:53:09.000Z",
+            "date_last_played": "2025-03-21T23:13:02.000Z",
+            "kill_count": 10,
+            "play_count": 166,
+            "highest_score": 504982,
+            "picture": "21346509-d33e959618941b013286e0263a258130.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 7,
+            "tier": 1,
+            "xp": 12900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "3"
+            },
+            {
+              "id": "3 Habitats"
+            },
+            {
+              "id": "3 Three"
+            },
+            {
+              "id": "Fresh"
+            },
+            {
+              "id": "Habitat"
+            },
+            {
+              "id": "Habitats"
+            },
+            {
+              "id": "Map"
+            },
+            {
+              "id": "Salt"
+            },
+            {
+              "id": "Shallow"
+            },
+            {
+              "id": "Sign"
+            },
+            {
+              "id": "Three"
+            },
+            {
+              "id": "Three Habitats"
+            }
+          ]
+        }
+      ],
+      "count": 8
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:34:38.753Z"
+}
