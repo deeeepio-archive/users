@@ -1,0 +1,147 @@
+{
+  "id": 21291326,
+  "username": "liucan",
+  "description": ".",
+  "about": " HETEROO",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-14T01:03:06.000Z",
+  "date_last_played": "2025-04-14T18:30:30.000Z",
+  "profile_views": 591,
+  "kill_count": 5804,
+  "play_count": 1993,
+  "highest_score": 4726866,
+  "picture": "21291326-39b0c64636510aa28aa1d710257e89790b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 376,
+  "tier": 8,
+  "xp": 831000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21291326,
+    "rank_kc": 5541,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-14T00:47:42.000Z",
+    "rank_pc": 6285,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-14T00:47:43.000Z",
+    "rank_hs": 10499,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-14T00:47:44.000Z",
+    "created_at": "2025-04-14T18:30:30.000Z",
+    "updated_at": "2025-04-14T18:30:30.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13350,
+          "user_id": 21291326,
+          "cloneof_id": null,
+          "string_id": "232324",
+          "title": "ffa",
+          "description": "ffa",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-01-07T21:18:34.000Z",
+          "updated_at": "2024-01-07T21:18:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21291326,
+            "username": "liucan",
+            "description": ".",
+            "about": " HETEROO",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-14T01:03:06.000Z",
+            "date_last_played": "2025-04-14T18:30:30.000Z",
+            "kill_count": 5804,
+            "play_count": 1993,
+            "highest_score": 4726866,
+            "picture": "21291326-39b0c64636510aa28aa1d710257e89790b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 376,
+            "tier": 8,
+            "xp": 831000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ffa"
+            }
+          ]
+        },
+        {
+          "id": 13338,
+          "user_id": 21291326,
+          "cloneof_id": null,
+          "string_id": "stfhrfg",
+          "title": "tukyu",
+          "description": ".rthtr",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-01-05T21:39:55.000Z",
+          "updated_at": "2024-01-05T21:39:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21291326,
+            "username": "liucan",
+            "description": ".",
+            "about": " HETEROO",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-14T01:03:06.000Z",
+            "date_last_played": "2025-04-14T18:30:30.000Z",
+            "kill_count": 5804,
+            "play_count": 1993,
+            "highest_score": 4726866,
+            "picture": "21291326-39b0c64636510aa28aa1d710257e89790b.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 376,
+            "tier": 8,
+            "xp": 831000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "liucan"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:25:02.542Z"
+}

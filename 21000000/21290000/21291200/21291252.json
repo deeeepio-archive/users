@@ -1,0 +1,97 @@
+{
+  "id": 21291252,
+  "username": "MurasakiCZ",
+  "description": "a noob from czechia killed you",
+  "about": "Idk",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-13T18:58:09.000Z",
+  "date_last_played": "2024-04-03T10:39:07.000Z",
+  "profile_views": 602,
+  "kill_count": 1024,
+  "play_count": 424,
+  "highest_score": 524307,
+  "picture": "21291252-fea0e4f7cdcac162c77548bb359f7f810.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 340,
+  "tier": 5,
+  "xp": 268500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21291252,
+    "rank_kc": 28551,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-21T21:05:22.000Z",
+    "rank_pc": 29485,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-21T21:05:32.000Z",
+    "rank_hs": 152535,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-21T21:05:37.000Z",
+    "created_at": "2024-04-03T10:39:07.000Z",
+    "updated_at": "2024-04-03T10:39:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12411,
+          "user_id": 21291252,
+          "cloneof_id": null,
+          "string_id": "something_weird_123",
+          "title": "dont join",
+          "description": "something weird",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 16,
+          "created_at": "2023-06-10T14:41:51.000Z",
+          "updated_at": "2023-06-10T15:11:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21291252,
+            "username": "MurasakiCZ",
+            "description": "a noob from czechia killed you",
+            "about": "Idk",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-13T18:58:09.000Z",
+            "date_last_played": "2024-04-03T10:39:07.000Z",
+            "kill_count": 1024,
+            "play_count": 424,
+            "highest_score": 524307,
+            "picture": "21291252-fea0e4f7cdcac162c77548bb359f7f810.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 340,
+            "tier": 5,
+            "xp": 268500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#weird #map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:24:50.665Z"
+}
