@@ -1,0 +1,101 @@
+{
+  "id": 21397146,
+  "username": "أثممخ",
+  "description": "Ha, you died 🤮",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-01-13T00:38:38.000Z",
+  "date_last_played": "2025-04-16T21:19:07.000Z",
+  "profile_views": 58,
+  "kill_count": 154,
+  "play_count": 218,
+  "highest_score": 808624,
+  "picture": "21397146-2ec5523dd59210deb755d3810eaa3d58b-70f89b28-ce67-4195-9da1-e99732d24f48.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 38,
+  "tier": 2,
+  "xp": 57600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21397146,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-16T21:19:06.000Z",
+    "updated_at": "2025-04-16T21:19:07.000Z",
+    "pd": {
+      "played": 13,
+      "won": 4,
+      "ratio": 31
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245179,
+          "user_id": 21397146,
+          "cloneof_id": null,
+          "string_id": "10101911",
+          "title": "suicied run",
+          "description": "run to the end to win ",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 57,
+          "created_at": "2025-02-06T16:40:35.000Z",
+          "updated_at": "2025-02-06T16:56:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21397146,
+            "username": "أثممخ",
+            "description": "Ha, you died 🤮",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2025-01-13T00:38:38.000Z",
+            "date_last_played": "2025-04-16T21:19:07.000Z",
+            "kill_count": 154,
+            "play_count": 218,
+            "highest_score": 808624,
+            "picture": "21397146-2ec5523dd59210deb755d3810eaa3d58b-70f89b28-ce67-4195-9da1-e99732d24f48.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 38,
+            "tier": 2,
+            "xp": 57600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fun game "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:48:50.361Z"
+}
