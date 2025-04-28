@@ -1,0 +1,65 @@
+{
+  "id": 21364260,
+  "username": "Antifreeze",
+  "description": "I'm  loving it\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-04-22T18:25:32.000Z",
+  "date_last_played": "2025-04-19T20:29:47.000Z",
+  "profile_views": 130,
+  "kill_count": 554,
+  "play_count": 408,
+  "highest_score": 3345726,
+  "picture": "21364260-10437b22dbfea6ac6492539c6d53cb767-75864a2f-0ce5-4f91-87a1-2a14f9ee97aa.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 67,
+  "tier": 4,
+  "xp": 186600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101032,
+      "user_id": 21364260,
+      "platform_id": "dc",
+      "platform_user_id": "Plastics ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-10T01:44:38.000Z",
+      "updated_at": "2024-12-10T01:44:38.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21364260,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-19T20:29:46.000Z",
+    "updated_at": "2025-04-19T20:29:47.000Z",
+    "pd": {
+      "played": 8,
+      "won": 5,
+      "ratio": 63
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T08:43:43.976Z"
+}

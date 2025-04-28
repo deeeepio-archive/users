@@ -1,0 +1,61 @@
+{
+  "id": 21364267,
+  "username": "Joon",
+  "description": "ez\n",
+  "about": "I like orcas\n:)",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-04-22T18:52:35.000Z",
+  "date_last_played": "2025-02-04T22:53:48.000Z",
+  "profile_views": 229,
+  "kill_count": 1421,
+  "play_count": 1601,
+  "highest_score": 3861367,
+  "picture": "21364267-42da67ccfd61ac482fbfc2ca32aac1f7-52c4c818-b28d-4c5b-a922-96ed8a03b9e7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 1026,
+  "tier": 6,
+  "xp": 436650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 100999,
+      "user_id": 21364267,
+      "platform_id": "dc",
+      "platform_user_id": "yojoonstar",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-08T22:05:50.000Z",
+      "updated_at": "2024-12-13T04:31:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21364267,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-02-04T22:53:47.000Z",
+    "updated_at": "2025-02-04T22:53:48.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T08:43:44.950Z"
+}
