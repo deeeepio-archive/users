@@ -1,0 +1,65 @@
+{
+  "id": 21390882,
+  "username": "MasterChef",
+  "description": "Get cooked.",
+  "about": "Love cooking aliens.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-22T15:08:01.000Z",
+  "date_last_played": "2025-04-24T16:50:00.000Z",
+  "profile_views": 31,
+  "kill_count": 380,
+  "play_count": 228,
+  "highest_score": 1972520,
+  "picture": "21390882-a101326be174f9a24926a645539d19127-c94eca42-9f27-447d-9211-ee1dd84a6d20.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 460,
+  "tier": 3,
+  "xp": 80400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102988,
+      "user_id": 21390882,
+      "platform_id": "dc",
+      "platform_user_id": "masterchef0670",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-03-05T17:37:53.000Z",
+      "updated_at": "2025-03-05T17:37:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21390882,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-24T16:49:59.000Z",
+    "updated_at": "2025-04-24T16:50:00.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:04:39.223Z"
+}

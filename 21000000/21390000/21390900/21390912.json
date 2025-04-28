@@ -1,0 +1,97 @@
+{
+  "id": 21390912,
+  "username": "Ironman_floods",
+  "description": "In a footnote he mentions the evil 1x",
+  "about": "One word: Megamouth",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-22T17:00:41.000Z",
+  "date_last_played": "2025-04-22T16:11:52.000Z",
+  "profile_views": 46,
+  "kill_count": 682,
+  "play_count": 595,
+  "highest_score": 2601548,
+  "picture": "21390912-e3d9d10619f6ad796b45b4fa5e747d3c-5689b026-a97d-4aa6-975c-c200ef085f28.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 16,
+  "tier": 4,
+  "xp": 189900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21390912,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-22T16:11:52.000Z",
+    "updated_at": "2025-04-22T16:11:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245097,
+          "user_id": 21390912,
+          "cloneof_id": null,
+          "string_id": "big_team_battle",
+          "title": "big team battle",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 5,
+          "created_at": "2025-01-14T19:41:05.000Z",
+          "updated_at": "2025-01-14T19:41:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21390912,
+            "username": "Ironman_floods",
+            "description": "In a footnote he mentions the evil 1x",
+            "about": "One word: Megamouth",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-11-22T17:00:41.000Z",
+            "date_last_played": "2025-04-22T16:11:52.000Z",
+            "kill_count": 682,
+            "play_count": 595,
+            "highest_score": 2601548,
+            "picture": "21390912-e3d9d10619f6ad796b45b4fa5e747d3c-5689b026-a97d-4aa6-975c-c200ef085f28.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 16,
+            "tier": 4,
+            "xp": 189900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "tffa"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:04:43.139Z"
+}
