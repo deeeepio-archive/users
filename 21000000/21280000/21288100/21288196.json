@@ -1,0 +1,61 @@
+{
+  "id": 21288196,
+  "username": "ksxsay",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-03T15:20:26.000Z",
+  "date_last_played": "2023-06-04T21:41:42.000Z",
+  "profile_views": 7,
+  "kill_count": 15,
+  "play_count": 40,
+  "highest_score": 428065,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 43,
+  "tier": 1,
+  "xp": 4950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 19733,
+      "user_id": 21288196,
+      "platform_id": "dc",
+      "platform_user_id": "᲼᲻#0001",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-23T14:52:35.000Z",
+      "updated_at": "2023-05-23T14:52:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21288196,
+    "rank_kc": 226761,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-23T14:53:11.000Z",
+    "rank_pc": 129050,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-23T14:53:23.000Z",
+    "rank_hs": 185701,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-23T14:03:59.000Z",
+    "created_at": "2023-06-04T21:41:41.000Z",
+    "updated_at": "2023-06-04T21:41:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:04:04.998Z"
+}
