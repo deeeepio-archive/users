@@ -1,0 +1,101 @@
+{
+  "id": 21336271,
+  "username": "殘夢",
+  "description": "我不是故意殺死你的，可以加我好友嗎？\nSorry for killing you and can we be friend?",
+  "about": "我是台灣人，我喜歡交朋友和對打，所以請別討厭我\nHello,I am Taiwanese I like fighting so please don’t hate me\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-22T06:20:13.000Z",
+  "date_last_played": "2025-04-27T19:27:20.000Z",
+  "profile_views": 542,
+  "kill_count": 474,
+  "play_count": 464,
+  "highest_score": 947320,
+  "picture": "21336271-bd58d8d9b518cb104e755f7106a1e65405-d850ab41-2569-41cc-a5a6-3cf8d8842458.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 71,
+  "tier": 3,
+  "xp": 108750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21336271,
+    "rank_kc": 170610,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-19T01:27:05.000Z",
+    "rank_pc": 104371,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-19T01:27:06.000Z",
+    "rank_hs": 99238,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-19T01:27:07.000Z",
+    "created_at": "2025-04-27T19:27:19.000Z",
+    "updated_at": "2025-04-27T19:27:20.000Z",
+    "pd": {
+      "played": 4,
+      "won": 3,
+      "ratio": 75
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245071,
+          "user_id": 21336271,
+          "cloneof_id": null,
+          "string_id": "1235800",
+          "title": "It suck",
+          "description": "It not very good",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2025-01-09T17:26:50.000Z",
+          "updated_at": "2025-01-09T17:26:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21336271,
+            "username": "殘夢",
+            "description": "我不是故意殺死你的，可以加我好友嗎？\nSorry for killing you and can we be friend?",
+            "about": "我是台灣人，我喜歡交朋友和對打，所以請別討厭我\nHello,I am Taiwanese I like fighting so please don’t hate me\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-11-22T06:20:13.000Z",
+            "date_last_played": "2025-04-27T19:27:20.000Z",
+            "kill_count": 474,
+            "play_count": 464,
+            "highest_score": 947320,
+            "picture": "21336271-bd58d8d9b518cb104e755f7106a1e65405-d850ab41-2569-41cc-a5a6-3cf8d8842458.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 71,
+            "tier": 3,
+            "xp": 108750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Hi"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:24:28.209Z"
+}

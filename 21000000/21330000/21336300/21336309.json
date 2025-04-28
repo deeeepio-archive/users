@@ -1,0 +1,97 @@
+{
+  "id": 21336309,
+  "username": "riley7777777777",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-22T12:28:11.000Z",
+  "date_last_played": "2023-12-18T01:12:05.000Z",
+  "profile_views": 11,
+  "kill_count": 3,
+  "play_count": 27,
+  "highest_score": 144700,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 20,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21336309,
+    "rank_kc": 367723,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-25T15:21:09.000Z",
+    "rank_pc": 180348,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-25T15:21:25.000Z",
+    "rank_hs": 289611,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-25T15:21:28.000Z",
+    "created_at": "2023-12-18T01:12:04.000Z",
+    "updated_at": "2023-12-18T01:12:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13130,
+          "user_id": 21336309,
+          "cloneof_id": null,
+          "string_id": "mam",
+          "title": "mamd",
+          "description": "lol",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-11-25T13:59:13.000Z",
+          "updated_at": "2023-11-25T13:59:14.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21336309,
+            "username": "riley7777777777",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-11-22T12:28:11.000Z",
+            "date_last_played": "2023-12-18T01:12:05.000Z",
+            "kill_count": 3,
+            "play_count": 27,
+            "highest_score": 144700,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 20,
+            "tier": 1,
+            "xp": 1500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "yay"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:24:35.151Z"
+}
