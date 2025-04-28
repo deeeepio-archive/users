@@ -1,0 +1,50 @@
+{
+  "id": 21351134,
+  "username": "november1",
+  "description": "hi",
+  "about": "hello",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-02-03T07:42:48.000Z",
+  "date_last_played": "2024-02-05T11:35:09.000Z",
+  "profile_views": 3,
+  "kill_count": 5,
+  "play_count": 15,
+  "highest_score": 225534,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 17,
+  "tier": 1,
+  "xp": 1050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21351134,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T07:05:52.939Z",
+    "updated_at": "2025-04-28T07:05:53.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:05:53.032Z"
+}
