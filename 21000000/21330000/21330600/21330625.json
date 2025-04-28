@@ -1,0 +1,71 @@
+{
+  "id": 21330625,
+  "username": "shinings",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-09T15:03:36.000Z",
+  "date_last_played": "2023-11-09T15:18:10.000Z",
+  "profile_views": 1,
+  "kill_count": 2,
+  "play_count": 5,
+  "highest_score": 95691,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29212,
+      "user_id": 21330625,
+      "platform_id": "dc",
+      "platform_user_id": "__shinings",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-09T15:05:41.000Z",
+      "updated_at": "2023-11-09T15:05:41.000Z"
+    },
+    {
+      "id": 29211,
+      "user_id": 21330625,
+      "platform_id": "yt",
+      "platform_user_id": "shinings",
+      "platform_user_url": "https://www.youtube.com/@shinings",
+      "verified": false,
+      "created_at": "2023-11-09T15:05:18.000Z",
+      "updated_at": "2023-11-09T15:05:18.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21330625,
+    "rank_kc": 445652,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-09T15:06:06.000Z",
+    "rank_pc": 365415,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-09T15:06:11.000Z",
+    "rank_hs": 595051,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-09T15:06:25.000Z",
+    "created_at": "2023-11-09T15:18:10.000Z",
+    "updated_at": "2023-11-09T15:18:10.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:45:16.308Z"
+}
