@@ -1,0 +1,114 @@
+{
+  "id": 21333990,
+  "username": "Pyro_tf2",
+  "description": "https://docs.google.com/document/d/1LuPIb2e3DqV9OdfVN7wDQPGZQD-vwlhc5PmeWFoJr34/edit?usp=sharing\n\"Murr hurr mphuphurrur, hurr mph phrr.\"\n my game https://elzon.itch.io/interscapev001",
+  "about": "Im new and i dont know what im doing",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-13T15:14:21.000Z",
+  "date_last_played": "2025-03-27T16:57:08.000Z",
+  "profile_views": 148,
+  "kill_count": 963,
+  "play_count": 794,
+  "highest_score": 2105322,
+  "picture": "21333990-56dcb7444865e396487cca05d1920148-6e719908-63b0-4462-a609-0dab38929bba.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 839,
+  "tier": 4,
+  "xp": 213600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92333,
+      "user_id": 21333990,
+      "platform_id": "dc",
+      "platform_user_id": "https://www.pixilart.com/elzon/gallery",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-28T17:24:22.000Z",
+      "updated_at": "2024-04-09T15:59:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21333990,
+    "rank_kc": 86084,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-05T15:32:28.000Z",
+    "rank_pc": 41315,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-05T15:32:32.000Z",
+    "rank_hs": 72801,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-05T15:32:37.000Z",
+    "created_at": "2025-04-01T14:19:12.000Z",
+    "updated_at": "2025-04-01T14:19:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13108,
+          "user_id": 21333990,
+          "cloneof_id": null,
+          "string_id": "idk12345",
+          "title": "Kill the fish",
+          "description": "kill all your enamys",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 13,
+          "created_at": "2023-11-16T16:40:11.000Z",
+          "updated_at": "2023-11-16T16:40:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21333990,
+            "username": "Pyro_tf2",
+            "description": "https://docs.google.com/document/d/1LuPIb2e3DqV9OdfVN7wDQPGZQD-vwlhc5PmeWFoJr34/edit?usp=sharing\n\"Murr hurr mphuphurrur, hurr mph phrr.\"\n my game https://elzon.itch.io/interscapev001",
+            "about": "Im new and i dont know what im doing",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-11-13T15:14:21.000Z",
+            "date_last_played": "2025-03-27T16:57:08.000Z",
+            "kill_count": 963,
+            "play_count": 794,
+            "highest_score": 2105322,
+            "picture": "21333990-56dcb7444865e396487cca05d1920148-6e719908-63b0-4462-a609-0dab38929bba.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 839,
+            "tier": 4,
+            "xp": 213600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#chaos"
+            },
+            {
+              "id": "#death"
+            },
+            {
+              "id": "#easy"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:09:03.306Z"
+}
