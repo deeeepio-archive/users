@@ -1,0 +1,54 @@
+{
+  "id": 21400233,
+  "username": "a_corn",
+  "description": "Sorry.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-02-06T23:56:30.000Z",
+  "date_last_played": "2025-03-31T23:39:26.000Z",
+  "profile_views": 5,
+  "kill_count": 29,
+  "play_count": 32,
+  "highest_score": 998675,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 7050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21400233,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-31T23:39:25.000Z",
+    "updated_at": "2025-03-31T23:39:26.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T13:12:38.261Z"
+}
