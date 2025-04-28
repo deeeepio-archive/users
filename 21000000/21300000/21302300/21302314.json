@@ -1,0 +1,81 @@
+{
+  "id": 21302314,
+  "username": "Cooki",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-26T23:47:16.000Z",
+  "date_last_played": "2023-06-29T08:49:23.000Z",
+  "profile_views": 4,
+  "kill_count": 0,
+  "play_count": 3,
+  "highest_score": 49975,
+  "picture": "21302314-429fd68a8a1da1076eebd9fe104ce4bce4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21683,
+      "user_id": 21302314,
+      "platform_id": "yt",
+      "platform_user_id": "🍪",
+      "platform_user_url": "https://www.youtube.com/channel/UCBiFCHb68h5XKTNhk8nrvUA",
+      "verified": false,
+      "created_at": "2023-06-26T23:50:43.000Z",
+      "updated_at": "2023-06-26T23:51:08.000Z"
+    },
+    {
+      "id": 21685,
+      "user_id": 21302314,
+      "platform_id": "yt",
+      "platform_user_id": "For ice711",
+      "platform_user_url": "https://www.youtube.com/@airbus",
+      "verified": false,
+      "created_at": "2023-06-26T23:52:53.000Z",
+      "updated_at": "2023-06-26T23:52:53.000Z"
+    },
+    {
+      "id": 21684,
+      "user_id": 21302314,
+      "platform_id": "yt",
+      "platform_user_id": "GARUDAAAAAAAAAAAAAAAAAAAAAAAA",
+      "platform_user_url": "https://www.youtube.com/channel/UCtyx-CMf08jE8JvLcq2R41w",
+      "verified": false,
+      "created_at": "2023-06-26T23:52:13.000Z",
+      "updated_at": "2023-06-26T23:52:13.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21302314,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T01:39:39.018Z",
+    "updated_at": "2025-04-28T01:39:39.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:39:39.074Z"
+}
