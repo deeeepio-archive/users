@@ -1,0 +1,91 @@
+{
+  "id": 21319467,
+  "username": "PZ",
+  "description": "ez PZ",
+  "about": "not an alt!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-19T21:29:00.000Z",
+  "date_last_played": "2023-09-19T21:29:00.000Z",
+  "profile_views": 4,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": "21319467-973d4b41cc5f58e794ea599f06cf4c78.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26778,
+      "user_id": 21319467,
+      "platform_id": "dc",
+      "platform_user_id": "Get shit on",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-19T21:33:09.000Z",
+      "updated_at": "2023-09-19T21:33:09.000Z"
+    },
+    {
+      "id": 26781,
+      "user_id": 21319467,
+      "platform_id": "dc",
+      "platform_user_id": "Im better",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-19T21:34:57.000Z",
+      "updated_at": "2023-09-19T21:34:57.000Z"
+    },
+    {
+      "id": 26777,
+      "user_id": 21319467,
+      "platform_id": "tw",
+      "platform_user_id": "Fuck you ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-19T21:33:01.000Z",
+      "updated_at": "2023-09-19T21:33:01.000Z"
+    },
+    {
+      "id": 26780,
+      "user_id": 21319467,
+      "platform_id": "tw",
+      "platform_user_id": "why u even on my profile",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-19T21:34:35.000Z",
+      "updated_at": "2023-09-19T21:34:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21319467,
+    "rank_kc": 438290,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-09-19T21:35:12.000Z",
+    "rank_pc": 355533,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-09-19T21:35:14.000Z",
+    "rank_hs": 585489,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-19T21:35:15.000Z",
+    "created_at": "2023-09-19T21:35:10.000Z",
+    "updated_at": "2023-09-19T21:35:15.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:32:40.900Z"
+}
