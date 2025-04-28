@@ -1,0 +1,108 @@
+{
+  "id": 21331053,
+  "username": "1914",
+  "description": "「⋆⁺ ☽  𐓣𝗈𝗈ᑲ ☾⋆⁺」\n\n\n　",
+  "about": "                 уαмєтє кυ∂αѕαι  ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-09T18:15:33.000Z",
+  "date_last_played": "2024-04-12T11:55:58.000Z",
+  "profile_views": 1438,
+  "kill_count": 658,
+  "play_count": 589,
+  "highest_score": 1233331,
+  "picture": "21331053-e7014c2c-a6dd-4c29-b1ea-c0d10000f8e6-f6f6104a67e10553616bcfdf981948bb10.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6,
+  "tier": 4,
+  "xp": 175050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31652,
+      "user_id": 21331053,
+      "platform_id": "yt",
+      "platform_user_id": "My fav song :D",
+      "platform_user_url": "https://www.youtube.com/watch?v=OJrX3aNPsHM",
+      "verified": false,
+      "created_at": "2024-01-04T15:09:52.000Z",
+      "updated_at": "2024-01-04T15:09:52.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21331053,
+    "rank_kc": 42863,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T06:21:58.000Z",
+    "rank_pc": 25131,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T06:21:59.000Z",
+    "rank_hs": 76251,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-21T06:22:00.000Z",
+    "created_at": "2024-04-12T11:55:58.000Z",
+    "updated_at": "2024-04-12T11:55:58.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13280,
+          "user_id": 21331053,
+          "cloneof_id": null,
+          "string_id": "1914",
+          "title": "1914",
+          "description": "1914",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 125,
+          "created_at": "2023-12-28T22:02:52.000Z",
+          "updated_at": "2023-12-28T22:05:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21331053,
+            "username": "1914",
+            "description": "「⋆⁺ ☽  𐓣𝗈𝗈ᑲ ☾⋆⁺」\n\n\n　",
+            "about": "                 уαмєтє кυ∂αѕαι  ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-11-09T18:15:33.000Z",
+            "date_last_played": "2024-04-12T11:55:58.000Z",
+            "kill_count": 658,
+            "play_count": 589,
+            "highest_score": 1233331,
+            "picture": "21331053-e7014c2c-a6dd-4c29-b1ea-c0d10000f8e6-f6f6104a67e10553616bcfdf981948bb10.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6,
+            "tier": 4,
+            "xp": 175050,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1914"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:48:46.416Z"
+}
