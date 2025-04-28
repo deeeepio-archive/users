@@ -1,0 +1,75 @@
+{
+  "id": 21381878,
+  "username": "小咪QAQ",
+  "description": "嘤嘤嘤",
+  "about": "我是小菜鸟      大佬求带(凹凸粉)🙃\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-09-14T09:54:13.000Z",
+  "date_last_played": "2025-04-27T11:39:23.000Z",
+  "profile_views": 588,
+  "kill_count": 701,
+  "play_count": 1744,
+  "highest_score": 6059922,
+  "picture": "21381878-9a92f876f10414c00cc9adbde3a1b44bf-fa8d1eff-2ea3-4358-a7de-c50a41305bab.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 80,
+  "tier": 6,
+  "xp": 402000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 100438,
+      "user_id": 21381878,
+      "platform_id": "dc",
+      "platform_user_id": "韷鯔",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-11-20T23:12:42.000Z",
+      "updated_at": "2024-11-20T23:12:42.000Z"
+    },
+    {
+      "id": 103749,
+      "user_id": 21381878,
+      "platform_id": "wx",
+      "platform_user_id": "wxid_5miss4c4z5ya22",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-19T00:57:03.000Z",
+      "updated_at": "2025-04-19T00:57:03.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21381878,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-27T11:39:22.000Z",
+    "updated_at": "2025-04-27T11:39:23.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:03:43.933Z"
+}
