@@ -1,0 +1,71 @@
+{
+  "id": 21315570,
+  "username": "LILMEATT",
+  "description": "if ur reading this ur gay",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-01T14:27:26.000Z",
+  "date_last_played": "2024-03-19T13:09:26.000Z",
+  "profile_views": 13,
+  "kill_count": 113,
+  "play_count": 158,
+  "highest_score": 1100743,
+  "picture": "21315570-de3a2e171d9c6c3f7b2f9952f43b10432.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 73,
+  "tier": 1,
+  "xp": 17700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28578,
+      "user_id": 21315570,
+      "platform_id": "dc",
+      "platform_user_id": "alden#3654",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-25T13:41:51.000Z",
+      "updated_at": "2023-10-25T13:41:51.000Z"
+    },
+    {
+      "id": 28579,
+      "user_id": 21315570,
+      "platform_id": "tw",
+      "platform_user_id": "Alden Snipes",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-25T13:42:23.000Z",
+      "updated_at": "2023-10-25T13:42:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21315570,
+    "rank_kc": 116864,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-25T13:42:55.000Z",
+    "rank_pc": 75219,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-25T13:42:57.000Z",
+    "rank_hs": 83043,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-25T13:42:59.000Z",
+    "created_at": "2024-03-19T13:09:26.000Z",
+    "updated_at": "2024-03-19T13:09:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:07:26.095Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 21315561,
+  "username": "小號13",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-01T13:52:08.000Z",
+  "date_last_played": "2023-09-02T15:22:54.000Z",
+  "profile_views": 19,
+  "kill_count": 0,
+  "play_count": 12,
+  "highest_score": 47050,
+  "picture": "21315561-d9c18100eb50acd9451bbca210206b1bed.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 33,
+  "tier": 1,
+  "xp": 3450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21315561,
+    "rank_kc": 435628,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-09-01T13:53:32.000Z",
+    "rank_pc": 235461,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-02T05:01:16.000Z",
+    "rank_hs": 582071,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-01T13:53:44.000Z",
+    "created_at": "2023-09-02T15:22:53.000Z",
+    "updated_at": "2023-09-02T15:22:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:07:25.016Z"
+}
