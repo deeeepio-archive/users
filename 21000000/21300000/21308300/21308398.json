@@ -1,0 +1,71 @@
+{
+  "id": 21308398,
+  "username": "mugiwara07",
+  "description": "This is GEAR5. This is my PEAK.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-27T13:02:15.000Z",
+  "date_last_played": "2023-08-14T12:35:13.000Z",
+  "profile_views": 3,
+  "kill_count": 19,
+  "play_count": 80,
+  "highest_score": 426017,
+  "picture": "21308398-0fca1b537bbebf559b9d169f0c3b366b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 26,
+  "tier": 1,
+  "xp": 3900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 24516,
+      "user_id": 21308398,
+      "platform_id": "dc",
+      "platform_user_id": "itzraidon",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-13T11:16:19.000Z",
+      "updated_at": "2023-08-13T11:16:19.000Z"
+    },
+    {
+      "id": 24515,
+      "user_id": 21308398,
+      "platform_id": "ig",
+      "platform_user_id": "furkanpsnc",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-13T11:16:03.000Z",
+      "updated_at": "2023-08-13T11:16:03.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21308398,
+    "rank_kc": 205612,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-08-13T11:16:34.000Z",
+    "rank_pc": 94775,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-13T11:16:36.000Z",
+    "rank_hs": 164347,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-13T11:16:39.000Z",
+    "created_at": "2023-08-14T12:35:12.000Z",
+    "updated_at": "2023-08-14T12:35:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:19:20.081Z"
+}
