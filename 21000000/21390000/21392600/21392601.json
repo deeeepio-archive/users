@@ -1,0 +1,61 @@
+{
+  "id": 21392601,
+  "username": "OOKKEERRSS12317",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-12-05T21:14:02.000Z",
+  "date_last_played": "2025-03-22T03:25:59.000Z",
+  "profile_views": 28,
+  "kill_count": 252,
+  "play_count": 363,
+  "highest_score": 1243629,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 435,
+  "tier": 3,
+  "xp": 89250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102013,
+      "user_id": 21392601,
+      "platform_id": "dc",
+      "platform_user_id": "Macey",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-01-17T00:02:19.000Z",
+      "updated_at": "2025-01-17T00:02:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21392601,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-22T03:25:59.000Z",
+    "updated_at": "2025-03-22T03:25:59.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:16:44.788Z"
+}
