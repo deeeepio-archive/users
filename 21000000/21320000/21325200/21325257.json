@@ -1,0 +1,128 @@
+{
+  "id": 21325257,
+  "username": "Ivan123456",
+  "description": "haha loser your a badass\nsilly\nand go and wactch spider man\nor else\n\n",
+  "about": "hi i am ivan and i play and paly\nand sand a my mom\ni am a boy i play history\ni stats\nat 100 mienes\nfor the ivan\nmy \ngame is easy\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-17T13:13:06.000Z",
+  "date_last_played": "2025-01-12T05:13:08.000Z",
+  "profile_views": 170,
+  "kill_count": 56,
+  "play_count": 153,
+  "highest_score": 762727,
+  "picture": "21325257-0431f6c428da6600bbdf15faccf5f8f7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6,
+  "tier": 1,
+  "xp": 21150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31893,
+      "user_id": 21325257,
+      "platform_id": "dc",
+      "platform_user_id": "dino",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-12T04:01:17.000Z",
+      "updated_at": "2024-01-12T04:01:17.000Z"
+    },
+    {
+      "id": 31939,
+      "user_id": 21325257,
+      "platform_id": "dc",
+      "platform_user_id": "ivan",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-13T09:53:11.000Z",
+      "updated_at": "2024-01-13T09:53:11.000Z"
+    },
+    {
+      "id": 31430,
+      "user_id": 21325257,
+      "platform_id": "dc",
+      "platform_user_id": "ivan123456",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-29T04:16:59.000Z",
+      "updated_at": "2023-12-29T04:16:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21325257,
+    "rank_kc": 192861,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T04:14:05.000Z",
+    "rank_pc": 94749,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T04:14:06.000Z",
+    "rank_hs": 253665,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-19T04:14:07.000Z",
+    "created_at": "2025-01-12T05:13:07.000Z",
+    "updated_at": "2025-01-12T05:13:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245084,
+          "user_id": 21325257,
+          "cloneof_id": null,
+          "string_id": "ivan",
+          "title": "air",
+          "description": "by ivan",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 0,
+          "created_at": "2025-01-11T06:16:30.000Z",
+          "updated_at": "2025-01-11T06:16:31.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21325257,
+            "username": "Ivan123456",
+            "description": "haha loser your a badass\nsilly\nand go and wactch spider man\nor else\n\n",
+            "about": "hi i am ivan and i play and paly\nand sand a my mom\ni am a boy i play history\ni stats\nat 100 mienes\nfor the ivan\nmy \ngame is easy\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-17T13:13:06.000Z",
+            "date_last_played": "2025-01-12T05:13:08.000Z",
+            "kill_count": 56,
+            "play_count": 153,
+            "highest_score": 762727,
+            "picture": "21325257-0431f6c428da6600bbdf15faccf5f8f7.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6,
+            "tier": 1,
+            "xp": 21150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "ivAN"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:10:22.717Z"
+}
