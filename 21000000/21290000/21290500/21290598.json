@@ -1,0 +1,61 @@
+{
+  "id": 21290598,
+  "username": "JohnUnknown",
+  "description": "The French Revolution 1789-1799",
+  "about": "Clueless\nI make stuff",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-11T15:42:21.000Z",
+  "date_last_played": "2023-05-12T12:56:45.000Z",
+  "profile_views": 6,
+  "kill_count": 1,
+  "play_count": 25,
+  "highest_score": 52332,
+  "picture": "21290598-f6f5cb7fcb18fdec83ba1de11001381610.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 19038,
+      "user_id": 21290598,
+      "platform_id": "yt",
+      "platform_user_id": "John Unknown",
+      "platform_user_url": "https://www.youtube.com/channel/UCQfePv5hqdqXbL0LllJM0YA",
+      "verified": false,
+      "created_at": "2023-05-11T15:53:36.000Z",
+      "updated_at": "2023-05-11T15:53:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21290598,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T00:19:56.137Z",
+    "updated_at": "2025-04-28T00:19:56.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:19:56.228Z"
+}
