@@ -1,0 +1,61 @@
+{
+  "id": 21375875,
+  "username": "Nose1",
+  "description": "Gg",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-07-26T22:39:25.000Z",
+  "date_last_played": "2024-12-22T22:26:57.000Z",
+  "profile_views": 89,
+  "kill_count": 1499,
+  "play_count": 2456,
+  "highest_score": 1777259,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 303,
+  "tier": 7,
+  "xp": 586950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 96856,
+      "user_id": 21375875,
+      "platform_id": "ig",
+      "platform_user_id": "A",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-26T22:43:35.000Z",
+      "updated_at": "2024-07-26T22:43:35.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21375875,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-12-22T22:26:57.000Z",
+    "updated_at": "2024-12-22T22:26:57.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T10:20:21.925Z"
+}
