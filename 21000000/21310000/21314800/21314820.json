@@ -1,0 +1,97 @@
+{
+  "id": 21314820,
+  "username": "I-used-to-eat-fish",
+  "description": "ᥫᩣ",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-29T07:37:15.000Z",
+  "date_last_played": "2025-03-25T11:56:06.000Z",
+  "profile_views": 7714,
+  "kill_count": 8058,
+  "play_count": 4032,
+  "highest_score": 5123325,
+  "picture": "21314820-5ef9521b26cdccb3ba6c76774abbb48e-ff3c0b58-5d84-41da-bd31-18bab67535e6.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 242,
+  "tier": 10,
+  "xp": 2567700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21314820,
+    "rank_kc": 28822,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-09T14:34:32.000Z",
+    "rank_pc": 22627,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-09T14:34:35.000Z",
+    "rank_hs": 136674,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-09T13:39:06.000Z",
+    "created_at": "2025-03-28T15:00:05.000Z",
+    "updated_at": "2025-03-28T15:00:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244440,
+          "user_id": 21314820,
+          "cloneof_id": null,
+          "string_id": "cvxc",
+          "title": "PD 1v1",
+          "description": "For fun :)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 16,
+          "created_at": "2024-07-17T09:43:29.000Z",
+          "updated_at": "2024-09-07T02:38:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21314820,
+            "username": "I-used-to-eat-fish",
+            "description": "ᥫᩣ",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-08-29T07:37:15.000Z",
+            "date_last_played": "2025-03-25T11:56:06.000Z",
+            "kill_count": 8058,
+            "play_count": 4032,
+            "highest_score": 5123325,
+            "picture": "21314820-5ef9521b26cdccb3ba6c76774abbb48e-ff3c0b58-5d84-41da-bd31-18bab67535e6.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 242,
+            "tier": 10,
+            "xp": 2567700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Nothing enjoy!"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:02:33.680Z"
+}
