@@ -1,0 +1,61 @@
+{
+  "id": 21306111,
+  "username": "Molaf",
+  "description": "Sorry, you matter.",
+  "about": "am a boy and im normal",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-15T15:38:32.000Z",
+  "date_last_played": "2023-10-22T11:33:35.000Z",
+  "profile_views": 7,
+  "kill_count": 26,
+  "play_count": 79,
+  "highest_score": 406088,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 45,
+  "tier": 1,
+  "xp": 5250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23627,
+      "user_id": 21306111,
+      "platform_id": "dc",
+      "platform_user_id": "mesadelislam",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-31T14:33:12.000Z",
+      "updated_at": "2023-07-31T14:33:12.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21306111,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T02:04:26.023Z",
+    "updated_at": "2025-04-28T02:04:26.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:04:26.108Z"
+}
