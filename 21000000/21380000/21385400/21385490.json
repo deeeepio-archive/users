@@ -1,0 +1,61 @@
+{
+  "id": 21385490,
+  "username": "CaragGoldeneye",
+  "description": "smadge\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-10-14T13:32:11.000Z",
+  "date_last_played": "2024-10-27T00:17:27.000Z",
+  "profile_views": 10,
+  "kill_count": 44,
+  "play_count": 86,
+  "highest_score": 563172,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 32,
+  "tier": 1,
+  "xp": 7800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 99360,
+      "user_id": 21385490,
+      "platform_id": "dc",
+      "platform_user_id": "carag444",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-10-15T20:00:53.000Z",
+      "updated_at": "2024-10-15T20:00:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21385490,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T11:28:22.231Z",
+    "updated_at": "2025-04-28T11:28:22.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:28:22.286Z"
+}
