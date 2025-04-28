@@ -1,0 +1,85 @@
+{
+  "id": 21354901,
+  "username": "RingleManz",
+  "description": "Miss-input",
+  "about": "Formerly Enl2345",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-02-25T02:07:00.000Z",
+  "date_last_played": "2025-04-17T02:52:27.000Z",
+  "profile_views": 3180,
+  "kill_count": 15804,
+  "play_count": 7616,
+  "highest_score": 10790876,
+  "picture": "21354901-c8f1888eb51835a3997bfd84ec510cc2b-49400863-126d-4c19-81e4-e260272f966b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": "Client usage, banned until 19/05/25",
+  "ban_at": "2025-04-18T21:18:07.000Z",
+  "coins": 14653,
+  "tier": 10,
+  "xp": 5484300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 97575,
+      "user_id": 21354901,
+      "platform_id": "dc",
+      "platform_user_id": "ringlemanz",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-16T01:31:28.000Z",
+      "updated_at": "2024-08-16T01:31:28.000Z"
+    },
+    {
+      "id": 97577,
+      "user_id": 21354901,
+      "platform_id": "tc",
+      "platform_user_id": "ringlemanz1",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-16T01:32:06.000Z",
+      "updated_at": "2024-08-16T01:32:06.000Z"
+    },
+    {
+      "id": 97576,
+      "user_id": 21354901,
+      "platform_id": "yt",
+      "platform_user_id": "RingleManz",
+      "platform_user_url": "https://www.youtube.com/@ringlemanz",
+      "verified": false,
+      "created_at": "2024-08-16T01:31:57.000Z",
+      "updated_at": "2024-08-16T01:31:57.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21354901,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-17T02:52:26.000Z",
+    "updated_at": "2025-04-17T02:52:27.000Z",
+    "pd": {
+      "played": 4,
+      "won": 1,
+      "ratio": 25
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:33:34.538Z"
+}
