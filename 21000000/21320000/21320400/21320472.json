@@ -1,0 +1,61 @@
+{
+  "id": 21320472,
+  "username": "Wolfang",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-23T20:51:37.000Z",
+  "date_last_played": "2024-11-18T19:00:08.000Z",
+  "profile_views": 32,
+  "kill_count": 138,
+  "play_count": 239,
+  "highest_score": 2168081,
+  "picture": "21320472-82d0bf3faa07ebcb53ddd045e610d393.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 344,
+  "tier": 2,
+  "xp": 72600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 100369,
+      "user_id": 21320472,
+      "platform_id": "dc",
+      "platform_user_id": "Wolfnotlocking",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-11-18T18:28:46.000Z",
+      "updated_at": "2024-11-18T18:28:46.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21320472,
+    "rank_kc": 102393,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-15T19:46:50.000Z",
+    "rank_pc": 61118,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-15T19:46:52.000Z",
+    "rank_hs": 35392,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-15T19:46:55.000Z",
+    "created_at": "2024-11-18T19:00:08.000Z",
+    "updated_at": "2024-11-18T19:00:08.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:39:01.824Z"
+}
