@@ -1,0 +1,50 @@
+{
+  "id": 21321211,
+  "username": "Rick_Rolled60",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-27T14:30:06.000Z",
+  "date_last_played": "2023-09-27T15:48:52.000Z",
+  "profile_views": 5,
+  "kill_count": 3,
+  "play_count": 9,
+  "highest_score": 141877,
+  "picture": "21321211-b80ee6a6e704ee0ef96235f310747433c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21321211,
+    "rank_kc": 439477,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-27T14:31:03.000Z",
+    "rank_pc": 357090,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-27T14:31:07.000Z",
+    "rank_hs": 587008,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-27T14:31:09.000Z",
+    "created_at": "2023-09-27T15:48:51.000Z",
+    "updated_at": "2023-09-27T15:48:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:44:04.604Z"
+}
