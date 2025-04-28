@@ -1,0 +1,61 @@
+{
+  "id": 21323768,
+  "username": "Rivi_09",
+  "description": "Todos morremos um dia. Você também vai morrer :)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-09T21:27:48.000Z",
+  "date_last_played": "2023-10-27T12:07:24.000Z",
+  "profile_views": 4,
+  "kill_count": 21,
+  "play_count": 35,
+  "highest_score": 336196,
+  "picture": "21323768-b12e667d8af8910d284353e210a2f8b85a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 36,
+  "tier": 1,
+  "xp": 3900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28605,
+      "user_id": 21323768,
+      "platform_id": "yt",
+      "platform_user_id": "Rivi_09",
+      "platform_user_url": "https://www.youtube.com/@Rivi_09",
+      "verified": false,
+      "created_at": "2023-10-26T10:03:31.000Z",
+      "updated_at": "2023-10-26T10:03:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21323768,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T04:00:30.342Z",
+    "updated_at": "2025-04-28T04:00:30.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:00:30.403Z"
+}
