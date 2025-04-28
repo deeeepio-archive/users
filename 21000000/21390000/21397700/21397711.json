@@ -1,0 +1,151 @@
+{
+  "id": 21397711,
+  "username": "Average_Bot",
+  "description": "GG NOOB!!!!!!! This is what you get. Ha ha loser!\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-01-17T08:03:47.000Z",
+  "date_last_played": "2025-03-21T11:54:37.000Z",
+  "profile_views": 11,
+  "kill_count": 5,
+  "play_count": 72,
+  "highest_score": 834480,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 68,
+  "tier": 1,
+  "xp": 9450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21397711,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-21T11:54:37.000Z",
+    "updated_at": "2025-03-21T11:54:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245185,
+          "user_id": 21397711,
+          "cloneof_id": null,
+          "string_id": "averege_map_l1",
+          "title": "Layered Sandbox",
+          "description": "You can play any game mode except for PD in this map. After all, this is a sandbox map. Do whatever you please when playing on it.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 9,
+          "created_at": "2025-02-08T11:02:08.000Z",
+          "updated_at": "2025-02-08T11:06:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21397711,
+            "username": "Average_Bot",
+            "description": "GG NOOB!!!!!!! This is what you get. Ha ha loser!\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2025-01-17T08:03:47.000Z",
+            "date_last_played": "2025-03-21T11:54:37.000Z",
+            "kill_count": 5,
+            "play_count": 72,
+            "highest_score": 834480,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 68,
+            "tier": 1,
+            "xp": 9450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            },
+            {
+              "id": "Custom"
+            },
+            {
+              "id": "FFA"
+            },
+            {
+              "id": "Sandbox"
+            },
+            {
+              "id": "Team FFA"
+            }
+          ]
+        },
+        {
+          "id": 245115,
+          "user_id": 21397711,
+          "cloneof_id": null,
+          "string_id": "custom_map_v1",
+          "title": "my first map",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 70,
+          "created_at": "2025-01-18T12:39:25.000Z",
+          "updated_at": "2025-01-18T12:39:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21397711,
+            "username": "Average_Bot",
+            "description": "GG NOOB!!!!!!! This is what you get. Ha ha loser!\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2025-01-17T08:03:47.000Z",
+            "date_last_played": "2025-03-21T11:54:37.000Z",
+            "kill_count": 5,
+            "play_count": 72,
+            "highest_score": 834480,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 68,
+            "tier": 1,
+            "xp": 9450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:53:00.927Z"
+}

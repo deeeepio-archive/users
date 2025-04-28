@@ -1,0 +1,97 @@
+{
+  "id": 21397673,
+  "username": "jony12",
+  "description": "lo hisiste bien xD  odio a las aves ia",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-01-16T22:39:12.000Z",
+  "date_last_played": "2025-04-19T02:10:04.000Z",
+  "profile_views": 13,
+  "kill_count": 3,
+  "play_count": 85,
+  "highest_score": 339533,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 23,
+  "tier": 1,
+  "xp": 5850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21397673,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-19T02:10:03.000Z",
+    "updated_at": "2025-04-19T02:10:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245215,
+          "user_id": 21397673,
+          "cloneof_id": null,
+          "string_id": "my_map_pirana",
+          "title": "libertad",
+          "description": "lucha libre",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 82,
+          "created_at": "2025-02-22T21:32:59.000Z",
+          "updated_at": "2025-02-24T02:19:19.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21397673,
+            "username": "jony12",
+            "description": "lo hisiste bien xD  odio a las aves ia",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2025-01-16T22:39:12.000Z",
+            "date_last_played": "2025-04-19T02:10:04.000Z",
+            "kill_count": 3,
+            "play_count": 85,
+            "highest_score": 339533,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 23,
+            "tier": 1,
+            "xp": 5850,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "pd"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:52:53.494Z"
+}
