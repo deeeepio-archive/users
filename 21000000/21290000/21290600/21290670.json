@@ -1,0 +1,97 @@
+{
+  "id": 21290670,
+  "username": "usernameeeeeee",
+  "description": "",
+  "about": "i unironically suck at this game\n\n\nalso please delete piranhas\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-11T19:00:08.000Z",
+  "date_last_played": "2025-03-20T21:08:17.000Z",
+  "profile_views": 549,
+  "kill_count": 2534,
+  "play_count": 648,
+  "highest_score": 2999742,
+  "picture": "21290670-3fd9c37104b38c587820b6ab570d60a78-22cfbf38-6ec3-4954-9df3-283356c718de.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 266,
+  "tier": 6,
+  "xp": 431550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21290670,
+    "rank_kc": 15257,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-04T04:30:58.000Z",
+    "rank_pc": 26355,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-04T04:31:00.000Z",
+    "rank_hs": 21406,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-04T04:31:01.000Z",
+    "created_at": "2025-03-20T21:08:17.000Z",
+    "updated_at": "2025-03-20T21:08:17.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12477,
+          "user_id": 21290670,
+          "cloneof_id": null,
+          "string_id": "ghost_1v1",
+          "title": "ghost_1v1",
+          "description": "my first map, don't expect anything amazing :)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 31,
+          "created_at": "2023-06-24T10:45:40.000Z",
+          "updated_at": "2023-06-24T11:14:49.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21290670,
+            "username": "usernameeeeeee",
+            "description": "",
+            "about": "i unironically suck at this game\n\n\nalso please delete piranhas\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-11T19:00:08.000Z",
+            "date_last_played": "2025-03-20T21:08:17.000Z",
+            "kill_count": 2534,
+            "play_count": 648,
+            "highest_score": 2999742,
+            "picture": "21290670-3fd9c37104b38c587820b6ab570d60a78-22cfbf38-6ec3-4954-9df3-283356c718de.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 266,
+            "tier": 6,
+            "xp": 431550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:20:42.590Z"
+}

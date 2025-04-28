@@ -1,0 +1,233 @@
+{
+  "id": 21290652,
+  "username": "PorcelainTheBlackFish",
+  "description": "I might be breakable but I wont give up",
+  "about": "this game is wayyy too toxic but other than that It\"s a fun game.\nMy favorite Yt channels\n⬇",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-11T18:08:54.000Z",
+  "date_last_played": "2025-04-19T19:28:59.000Z",
+  "profile_views": 530,
+  "kill_count": 3797,
+  "play_count": 1707,
+  "highest_score": 2572378,
+  "picture": "21290652-c3c51ac2bd25bfd8c51f12b5c42d8334-43fe6cea-3d07-4f50-93b9-1f0daf4b2e20.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 284,
+  "tier": 7,
+  "xp": 632700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 93895,
+      "user_id": 21290652,
+      "platform_id": "yt",
+      "platform_user_id": "Daily dose of internet",
+      "platform_user_url": "http://www.youtube.com/@DailyDoseOfInternet",
+      "verified": false,
+      "created_at": "2024-04-16T17:02:57.000Z",
+      "updated_at": "2024-04-16T17:03:38.000Z"
+    },
+    {
+      "id": 93896,
+      "user_id": 21290652,
+      "platform_id": "yt",
+      "platform_user_id": "Let's game it out",
+      "platform_user_url": "http://www.youtube.com/@LetsGameItOut",
+      "verified": false,
+      "created_at": "2024-04-16T17:04:52.000Z",
+      "updated_at": "2024-04-16T17:04:52.000Z"
+    },
+    {
+      "id": 93897,
+      "user_id": 21290652,
+      "platform_id": "yt",
+      "platform_user_id": "Outdoor boys",
+      "platform_user_url": "http://www.youtube.com/@OutdoorBoys",
+      "verified": false,
+      "created_at": "2024-04-16T17:05:45.000Z",
+      "updated_at": "2024-04-16T17:05:45.000Z"
+    },
+    {
+      "id": 99625,
+      "user_id": 21290652,
+      "platform_id": "yt",
+      "platform_user_id": "UrbanRescueRanch",
+      "platform_user_url": "https://youtube.com/@theurbanrescueranch?si=LZ0CC9wPhL0lhsp2",
+      "verified": false,
+      "created_at": "2024-10-25T22:20:06.000Z",
+      "updated_at": "2024-10-25T22:20:06.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21290652,
+    "rank_kc": 17252,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-01T01:46:36.000Z",
+    "rank_pc": 12531,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-01T01:46:38.000Z",
+    "rank_hs": 30677,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-01T01:46:39.000Z",
+    "created_at": "2025-04-19T19:28:59.000Z",
+    "updated_at": "2025-04-19T19:28:59.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13278,
+          "user_id": 21290652,
+          "cloneof_id": null,
+          "string_id": "food_and_more_food",
+          "title": "FOOOOOOOOOD!!!",
+          "description": "SO MUCH FOOD",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 14,
+          "created_at": "2023-12-28T21:12:45.000Z",
+          "updated_at": "2023-12-28T21:12:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21290652,
+            "username": "PorcelainTheBlackFish",
+            "description": "I might be breakable but I wont give up",
+            "about": "this game is wayyy too toxic but other than that It\"s a fun game.\nMy favorite Yt channels\n⬇",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-11T18:08:54.000Z",
+            "date_last_played": "2025-04-19T19:28:59.000Z",
+            "kill_count": 3797,
+            "play_count": 1707,
+            "highest_score": 2572378,
+            "picture": "21290652-c3c51ac2bd25bfd8c51f12b5c42d8334-43fe6cea-3d07-4f50-93b9-1f0daf4b2e20.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 284,
+            "tier": 7,
+            "xp": 632700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "just food"
+            },
+            {
+              "id": "lots of food"
+            }
+          ]
+        },
+        {
+          "id": 13277,
+          "user_id": 21290652,
+          "cloneof_id": null,
+          "string_id": "not_sure3",
+          "title": "do you like it ?",
+          "description": "this is like the 2 map i've made",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 32,
+          "created_at": "2023-12-28T20:49:29.000Z",
+          "updated_at": "2023-12-28T20:50:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21290652,
+            "username": "PorcelainTheBlackFish",
+            "description": "I might be breakable but I wont give up",
+            "about": "this game is wayyy too toxic but other than that It\"s a fun game.\nMy favorite Yt channels\n⬇",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-11T18:08:54.000Z",
+            "date_last_played": "2025-04-19T19:28:59.000Z",
+            "kill_count": 3797,
+            "play_count": 1707,
+            "highest_score": 2572378,
+            "picture": "21290652-c3c51ac2bd25bfd8c51f12b5c42d8334-43fe6cea-3d07-4f50-93b9-1f0daf4b2e20.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 284,
+            "tier": 7,
+            "xp": 632700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "map"
+            }
+          ]
+        },
+        {
+          "id": 12793,
+          "user_id": 21290652,
+          "cloneof_id": null,
+          "string_id": "19828271",
+          "title": "ummmmm",
+          "description": "???",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 21,
+          "created_at": "2023-09-06T14:27:06.000Z",
+          "updated_at": "2023-09-06T14:27:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21290652,
+            "username": "PorcelainTheBlackFish",
+            "description": "I might be breakable but I wont give up",
+            "about": "this game is wayyy too toxic but other than that It\"s a fun game.\nMy favorite Yt channels\n⬇",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-11T18:08:54.000Z",
+            "date_last_played": "2025-04-19T19:28:59.000Z",
+            "kill_count": 3797,
+            "play_count": 1707,
+            "highest_score": 2572378,
+            "picture": "21290652-c3c51ac2bd25bfd8c51f12b5c42d8334-43fe6cea-3d07-4f50-93b9-1f0daf4b2e20.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 284,
+            "tier": 7,
+            "xp": 632700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:20:37.524Z"
+}
