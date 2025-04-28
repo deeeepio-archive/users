@@ -1,0 +1,61 @@
+{
+  "id": 21338683,
+  "username": "DWEEBOID",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-03T16:43:39.000Z",
+  "date_last_played": "2023-12-03T17:09:03.000Z",
+  "profile_views": 5,
+  "kill_count": 0,
+  "play_count": 4,
+  "highest_score": 51750,
+  "picture": "21338683-5a34a9b206975456197afa68ed42e198.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30314,
+      "user_id": 21338683,
+      "platform_id": "yt",
+      "platform_user_id": "about me",
+      "platform_user_url": "https://youtu.be/dQw4w9WgXcQ?si=c1y-xbFQeWUe_SPl",
+      "verified": false,
+      "created_at": "2023-12-03T16:49:32.000Z",
+      "updated_at": "2023-12-03T16:49:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21338683,
+    "rank_kc": 449082,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-12-03T16:49:44.000Z",
+    "rank_pc": 369898,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-03T16:49:46.000Z",
+    "rank_hs": 599429,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-03T16:49:48.000Z",
+    "created_at": "2023-12-03T17:09:02.000Z",
+    "updated_at": "2023-12-03T17:09:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:41:02.947Z"
+}
