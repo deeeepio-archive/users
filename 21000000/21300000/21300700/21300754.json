@@ -1,0 +1,61 @@
+{
+  "id": 21300754,
+  "username": "bebzik",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-19T18:42:20.000Z",
+  "date_last_played": "2023-07-03T19:53:56.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 14,
+  "highest_score": 47905,
+  "picture": "21300754-4cc1ec1092b3472926f325b5fbd41058f2.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21293,
+      "user_id": 21300754,
+      "platform_id": "dc",
+      "platform_user_id": "erykziko",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-19T18:48:11.000Z",
+      "updated_at": "2023-06-19T18:48:52.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21300754,
+    "rank_kc": 425703,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-19T18:47:44.000Z",
+    "rank_pc": 338502,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-19T18:47:45.000Z",
+    "rank_hs": 569229,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-19T18:47:45.000Z",
+    "created_at": "2023-07-03T19:53:56.000Z",
+    "updated_at": "2023-07-03T19:53:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:29:12.400Z"
+}
