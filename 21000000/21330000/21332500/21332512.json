@@ -1,0 +1,108 @@
+{
+  "id": 21332512,
+  "username": "MrRatKing666",
+  "description": "be better next time! and bro you can be better player :)",
+  "about": "Im pro I can kill you ezz:) but i dont kill my friends",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-10T09:02:01.000Z",
+  "date_last_played": "2024-10-29T16:06:51.000Z",
+  "profile_views": 148,
+  "kill_count": 550,
+  "play_count": 545,
+  "highest_score": 894923,
+  "picture": "21332512-cc18f7ab193042079577291011013410898.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19,
+  "tier": 3,
+  "xp": 90000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 93243,
+      "user_id": 21332512,
+      "platform_id": "dc",
+      "platform_user_id": "Gegemoya_BERATşahin?",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-26T13:40:22.000Z",
+      "updated_at": "2024-03-26T13:40:22.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21332512,
+    "rank_kc": 153138,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-27T13:56:06.000Z",
+    "rank_pc": 73651,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-27T13:56:10.000Z",
+    "rank_hs": 170574,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-27T13:56:15.000Z",
+    "created_at": "2024-10-29T16:06:50.000Z",
+    "updated_at": "2024-10-29T16:06:51.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 15573,
+          "user_id": 21332512,
+          "cloneof_id": null,
+          "string_id": "12312312386",
+          "title": "idk map",
+          "description": "this map is so trash",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 115,
+          "created_at": "2024-02-03T14:55:04.000Z",
+          "updated_at": "2024-02-03T15:15:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21332512,
+            "username": "MrRatKing666",
+            "description": "be better next time! and bro you can be better player :)",
+            "about": "Im pro I can kill you ezz:) but i dont kill my friends",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-11-10T09:02:01.000Z",
+            "date_last_played": "2024-10-29T16:06:51.000Z",
+            "kill_count": 550,
+            "play_count": 545,
+            "highest_score": 894923,
+            "picture": "21332512-cc18f7ab193042079577291011013410898.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 19,
+            "tier": 3,
+            "xp": 90000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "idk"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:58:10.145Z"
+}
