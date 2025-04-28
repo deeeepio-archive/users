@@ -1,0 +1,71 @@
+{
+  "id": 21302139,
+  "username": "ryanngz",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-26T03:27:24.000Z",
+  "date_last_played": "2023-07-26T02:05:45.000Z",
+  "profile_views": 5,
+  "kill_count": 54,
+  "play_count": 40,
+  "highest_score": 684785,
+  "picture": "21302139-102f27f81b29d59161916decd2d8131c8.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 79,
+  "tier": 1,
+  "xp": 10350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 22909,
+      "user_id": 21302139,
+      "platform_id": "dc",
+      "platform_user_id": "deboogieman",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-17T04:25:58.000Z",
+      "updated_at": "2023-07-17T04:25:58.000Z"
+    },
+    {
+      "id": 22910,
+      "user_id": 21302139,
+      "platform_id": "ig",
+      "platform_user_id": "ryan.n0927",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-17T04:26:50.000Z",
+      "updated_at": "2023-07-17T04:26:50.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21302139,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T01:38:33.993Z",
+    "updated_at": "2025-04-28T01:38:34.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:38:34.051Z"
+}

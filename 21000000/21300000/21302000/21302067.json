@@ -1,0 +1,206 @@
+{
+  "id": 21302067,
+  "username": "orca_addict_suga",
+  "description": "Have a good day",
+  "about": "I play this game.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-25T18:54:07.000Z",
+  "date_last_played": "2025-04-19T01:04:21.000Z",
+  "profile_views": 5788,
+  "kill_count": 5018,
+  "play_count": 2041,
+  "highest_score": 5372505,
+  "picture": "21302067-ff12c32ae310e3c2258a0b54102253e2c5-c575107d-2c57-4e85-9991-bea11c4430d2.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 71,
+  "tier": 8,
+  "xp": 805500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 98262,
+      "user_id": 21302067,
+      "platform_id": "yt",
+      "platform_user_id": "Zimb_Zomb_Suga",
+      "platform_user_url": "https://youtube.com/@deeeepsugashow?si=KAVC0-Pt67CoZoPo",
+      "verified": false,
+      "created_at": "2024-09-03T05:43:24.000Z",
+      "updated_at": "2024-09-03T05:43:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21302067,
+    "rank_kc": 10856,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T10:31:03.000Z",
+    "rank_pc": 9081,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T10:31:04.000Z",
+    "rank_hs": 8465,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-21T10:31:06.000Z",
+    "created_at": "2025-04-19T01:04:21.000Z",
+    "updated_at": "2025-04-19T01:04:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244931,
+          "user_id": 21302067,
+          "cloneof_id": 244925,
+          "string_id": "nogravityv1",
+          "title": "No Gravity",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 4,
+          "created_at": "2024-11-28T22:02:31.000Z",
+          "updated_at": "2024-11-28T22:11:13.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21302067,
+            "username": "orca_addict_suga",
+            "description": "Have a good day",
+            "about": "I play this game.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-06-25T18:54:07.000Z",
+            "date_last_played": "2025-04-19T01:04:21.000Z",
+            "kill_count": 5018,
+            "play_count": 2041,
+            "highest_score": 5372505,
+            "picture": "21302067-ff12c32ae310e3c2258a0b54102253e2c5-c575107d-2c57-4e85-9991-bea11c4430d2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 71,
+            "tier": 8,
+            "xp": 805500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "customs"
+            }
+          ]
+        },
+        {
+          "id": 244930,
+          "user_id": 21302067,
+          "cloneof_id": 7386,
+          "string_id": "sugashowmapv3",
+          "title": "Suga_Map",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 2461,
+          "created_at": "2024-11-28T21:57:13.000Z",
+          "updated_at": "2024-11-28T22:10:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21302067,
+            "username": "orca_addict_suga",
+            "description": "Have a good day",
+            "about": "I play this game.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-06-25T18:54:07.000Z",
+            "date_last_played": "2025-04-19T01:04:21.000Z",
+            "kill_count": 5018,
+            "play_count": 2041,
+            "highest_score": 5372505,
+            "picture": "21302067-ff12c32ae310e3c2258a0b54102253e2c5-c575107d-2c57-4e85-9991-bea11c4430d2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 71,
+            "tier": 8,
+            "xp": 805500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Customs"
+            }
+          ]
+        },
+        {
+          "id": 244427,
+          "user_id": 21302067,
+          "cloneof_id": 244222,
+          "string_id": "suga_map_v2",
+          "title": "Suga_Show",
+          "description": "You're welcome to check this out!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": -1,
+          "objects": 840,
+          "created_at": "2024-07-14T02:15:29.000Z",
+          "updated_at": "2024-07-21T01:21:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21302067,
+            "username": "orca_addict_suga",
+            "description": "Have a good day",
+            "about": "I play this game.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-06-25T18:54:07.000Z",
+            "date_last_played": "2025-04-19T01:04:21.000Z",
+            "kill_count": 5018,
+            "play_count": 2041,
+            "highest_score": 5372505,
+            "picture": "21302067-ff12c32ae310e3c2258a0b54102253e2c5-c575107d-2c57-4e85-9991-bea11c4430d2.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 71,
+            "tier": 8,
+            "xp": 805500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Custom"
+            },
+            {
+              "id": "Not Finished"
+            },
+            {
+              "id": "v2"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:38:23.343Z"
+}
