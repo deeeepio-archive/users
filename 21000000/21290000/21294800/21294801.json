@@ -1,0 +1,50 @@
+{
+  "id": 21294801,
+  "username": "초시니",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-26T07:33:15.000Z",
+  "date_last_played": "2023-05-28T06:42:37.000Z",
+  "profile_views": 5,
+  "kill_count": 0,
+  "play_count": 1,
+  "highest_score": 81625,
+  "picture": "21294801-4101d10bbf0ec1928e13f87a036b053265.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21294801,
+    "rank_kc": 421600,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-05-26T08:43:09.000Z",
+    "rank_pc": 333111,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-26T08:43:11.000Z",
+    "rank_hs": 563978,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-26T08:43:13.000Z",
+    "created_at": "2023-05-28T06:42:37.000Z",
+    "updated_at": "2023-05-28T06:42:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:49:19.933Z"
+}
