@@ -1,0 +1,108 @@
+{
+  "id": 21303841,
+  "username": "Besouro3656🇧🇷",
+  "description": "Se te matei quando tava upando desculpa preciso de dindin.\nSe eu te matei porque voçe me encheu o saco tomou otario ksksks.\n Mas se eu te matei sem querer  desculpe mesmo me perdoue.😥😥😰",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-04T15:02:04.000Z",
+  "date_last_played": "2024-11-02T20:19:43.000Z",
+  "profile_views": 202,
+  "kill_count": 1229,
+  "play_count": 2408,
+  "highest_score": 1426658,
+  "picture": "21303841-9ebab11036e2a74f7743cc1102f97085d0.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 104,
+  "tier": 5,
+  "xp": 358650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 27408,
+      "user_id": 21303841,
+      "platform_id": "dc",
+      "platform_user_id": "besorox3656",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-02T00:27:09.000Z",
+      "updated_at": "2023-10-02T00:27:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21303841,
+    "rank_kc": 27157,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-30T16:35:31.000Z",
+    "rank_pc": 5266,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-30T16:35:32.000Z",
+    "rank_hs": 61848,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-30T16:35:34.000Z",
+    "created_at": "2024-11-02T20:19:43.000Z",
+    "updated_at": "2024-11-02T20:19:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12586,
+          "user_id": 21303841,
+          "cloneof_id": null,
+          "string_id": "map_2_rt",
+          "title": "Untitled",
+          "description": "É um mapa",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-07-20T18:46:50.000Z",
+          "updated_at": "2023-07-20T18:48:06.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21303841,
+            "username": "Besouro3656🇧🇷",
+            "description": "Se te matei quando tava upando desculpa preciso de dindin.\nSe eu te matei porque voçe me encheu o saco tomou otario ksksks.\n Mas se eu te matei sem querer  desculpe mesmo me perdoue.😥😥😰",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-07-04T15:02:04.000Z",
+            "date_last_played": "2024-11-02T20:19:43.000Z",
+            "kill_count": 1229,
+            "play_count": 2408,
+            "highest_score": 1426658,
+            "picture": "21303841-9ebab11036e2a74f7743cc1102f97085d0.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 104,
+            "tier": 5,
+            "xp": 358650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Besouro3656"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:49:23.228Z"
+}
