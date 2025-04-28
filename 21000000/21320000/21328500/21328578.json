@@ -1,0 +1,103 @@
+{
+  "id": 21328578,
+  "username": "るいt",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-01T00:33:30.000Z",
+  "date_last_played": "2024-11-22T02:39:56.000Z",
+  "profile_views": 28,
+  "kill_count": 106,
+  "play_count": 96,
+  "highest_score": 1861401,
+  "picture": "21328578-1024ca1e33f23a21d461981687729f6bb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 20,
+  "tier": 2,
+  "xp": 33750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21328578,
+    "rank_kc": 135797,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-09T11:46:39.000Z",
+    "rank_pc": 113656,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-09T11:46:42.000Z",
+    "rank_hs": 76545,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-09T11:46:47.000Z",
+    "created_at": "2024-11-22T02:42:29.000Z",
+    "updated_at": "2024-11-22T02:42:29.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13115,
+          "user_id": 21328578,
+          "cloneof_id": null,
+          "string_id": "2v2limited",
+          "title": "2v2専用マップ",
+          "description": "これはチームを組んで2v2をするマップです。４人いるときは入らないでください",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 47,
+          "created_at": "2023-11-20T00:49:21.000Z",
+          "updated_at": "2023-11-20T01:05:28.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21328578,
+            "username": "るいt",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-11-01T00:33:30.000Z",
+            "date_last_played": "2024-11-22T02:39:56.000Z",
+            "kill_count": 106,
+            "play_count": 96,
+            "highest_score": 1861401,
+            "picture": "21328578-1024ca1e33f23a21d461981687729f6bb.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 20,
+            "tier": 2,
+            "xp": 33750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "2v2"
+            },
+            {
+              "id": "るいt"
+            },
+            {
+              "id": "日本人"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:32:39.762Z"
+}
