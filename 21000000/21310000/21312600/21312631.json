@@ -1,0 +1,71 @@
+{
+  "id": 21312631,
+  "username": "AndrikSJ",
+  "description": "Sorry! nothing personal, add insta @andrik_s_j ^^\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-19T01:15:16.000Z",
+  "date_last_played": "2024-02-13T23:31:36.000Z",
+  "profile_views": 8,
+  "kill_count": 24,
+  "play_count": 54,
+  "highest_score": 420958,
+  "picture": "21312631-66107d43b94b64b40e91b7ca61db23163.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 48,
+  "tier": 1,
+  "xp": 5700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 25002,
+      "user_id": 21312631,
+      "platform_id": "dc",
+      "platform_user_id": "zedeksj",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-20T20:14:47.000Z",
+      "updated_at": "2023-08-20T20:24:39.000Z"
+    },
+    {
+      "id": 25001,
+      "user_id": 21312631,
+      "platform_id": "ig",
+      "platform_user_id": "andrik_s_j",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-20T20:14:37.000Z",
+      "updated_at": "2023-08-20T20:24:33.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21312631,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-02-13T23:31:36.000Z",
+    "updated_at": "2024-02-13T23:31:36.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:47:21.005Z"
+}

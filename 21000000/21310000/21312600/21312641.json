@@ -1,0 +1,101 @@
+{
+  "id": 21312641,
+  "username": "Ruan176Br",
+  "description": "Hacker",
+  "about": "Kaique assina gamepass na minha conta.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-19T02:48:26.000Z",
+  "date_last_played": "2023-08-19T02:48:26.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": "21312641-7a7132110d361aae592e75c3bae9ae9bd.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 25019,
+      "user_id": 21312641,
+      "platform_id": "dc",
+      "platform_user_id": "ruan176br",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-21T01:45:09.000Z",
+      "updated_at": "2023-08-21T01:45:09.000Z"
+    },
+    {
+      "id": 25016,
+      "user_id": 21312641,
+      "platform_id": "ig",
+      "platform_user_id": "ruan176br",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-21T01:44:17.000Z",
+      "updated_at": "2023-08-21T01:44:17.000Z"
+    },
+    {
+      "id": 25018,
+      "user_id": 21312641,
+      "platform_id": "rd",
+      "platform_user_id": "ruan176br",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-21T01:44:43.000Z",
+      "updated_at": "2023-08-21T01:44:43.000Z"
+    },
+    {
+      "id": 25017,
+      "user_id": 21312641,
+      "platform_id": "tc",
+      "platform_user_id": "ruan176br",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-21T01:44:36.000Z",
+      "updated_at": "2023-08-21T01:44:36.000Z"
+    },
+    {
+      "id": 25015,
+      "user_id": 21312641,
+      "platform_id": "tw",
+      "platform_user_id": "https://twitter.com/RuanGamer555YT",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-21T01:44:07.000Z",
+      "updated_at": "2023-08-21T01:44:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21312641,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T02:47:22.152Z",
+    "updated_at": "2025-04-28T02:47:22.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:47:22.213Z"
+}
