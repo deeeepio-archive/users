@@ -1,0 +1,91 @@
+{
+  "id": 21326247,
+  "username": "EllaYunha",
+  "description": "You died!\ncongrats",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-22T00:15:58.000Z",
+  "date_last_played": "2024-07-02T11:08:29.000Z",
+  "profile_views": 6,
+  "kill_count": 20,
+  "play_count": 70,
+  "highest_score": 819106,
+  "picture": "21326247-15ac7d21bcb374d05986976aa2734b7e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 53,
+  "tier": 1,
+  "xp": 6450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29912,
+      "user_id": 21326247,
+      "platform_id": "dc",
+      "platform_user_id": "EllaYunha",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-25T00:02:31.000Z",
+      "updated_at": "2023-11-25T00:02:31.000Z"
+    },
+    {
+      "id": 29916,
+      "user_id": 21326247,
+      "platform_id": "fb",
+      "platform_user_id": "EllaYunha",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=61553481796926",
+      "verified": false,
+      "created_at": "2023-11-25T00:08:04.000Z",
+      "updated_at": "2023-11-25T00:08:04.000Z"
+    },
+    {
+      "id": 29914,
+      "user_id": 21326247,
+      "platform_id": "tc",
+      "platform_user_id": "EllaYunha",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-25T00:04:11.000Z",
+      "updated_at": "2023-11-25T00:04:11.000Z"
+    },
+    {
+      "id": 29915,
+      "user_id": 21326247,
+      "platform_id": "yt",
+      "platform_user_id": "EllaYunha",
+      "platform_user_url": "https://www.youtube.com/channel/UC_wGy2wH_dZ4H9HByqP1D0Q",
+      "verified": false,
+      "created_at": "2023-11-25T00:04:40.000Z",
+      "updated_at": "2023-11-25T00:04:40.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21326247,
+    "rank_kc": 212686,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-25T00:03:58.000Z",
+    "rank_pc": 92958,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-25T00:04:00.000Z",
+    "rank_hs": 109460,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-25T00:04:03.000Z",
+    "created_at": "2024-07-02T11:08:28.000Z",
+    "updated_at": "2024-07-02T11:08:29.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:16:42.011Z"
+}

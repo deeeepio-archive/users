@@ -1,0 +1,101 @@
+{
+  "id": 21326186,
+  "username": "Invoker",
+  "description": "извини так надо\n",
+  "about": "люблю меф на завтрак",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-21T17:40:05.000Z",
+  "date_last_played": "2025-04-23T18:42:20.000Z",
+  "profile_views": 32,
+  "kill_count": 142,
+  "play_count": 168,
+  "highest_score": 1453111,
+  "picture": "21326186-735db7ea8e1b1698459ac4f182d83526.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 7,
+  "tier": 2,
+  "xp": 32250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21326186,
+    "rank_kc": 95900,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-24T22:48:19.000Z",
+    "rank_pc": 62355,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-24T22:48:19.000Z",
+    "rank_hs": 61104,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-24T14:20:20.000Z",
+    "created_at": "2025-04-23T18:42:19.000Z",
+    "updated_at": "2025-04-23T18:42:20.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13007,
+          "user_id": 21326186,
+          "cloneof_id": 64,
+          "string_id": "my_mapold_v1",
+          "title": "Old FFA",
+          "description": "FFA OLD NO MY",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 1297,
+          "created_at": "2023-10-23T23:58:40.000Z",
+          "updated_at": "2023-10-23T23:58:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21326186,
+            "username": "Invoker",
+            "description": "извини так надо\n",
+            "about": "люблю меф на завтрак",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-21T17:40:05.000Z",
+            "date_last_played": "2025-04-23T18:42:20.000Z",
+            "kill_count": 142,
+            "play_count": 168,
+            "highest_score": 1453111,
+            "picture": "21326186-735db7ea8e1b1698459ac4f182d83526.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 7,
+            "tier": 2,
+            "xp": 32250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "FFA"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:16:32.739Z"
+}
