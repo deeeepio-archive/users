@@ -1,0 +1,61 @@
+{
+  "id": 21335260,
+  "username": "BasQuill",
+  "description": "Sorry I was hungry",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-18T01:32:58.000Z",
+  "date_last_played": "2025-03-26T01:49:58.000Z",
+  "profile_views": 102,
+  "kill_count": 897,
+  "play_count": 462,
+  "highest_score": 3220222,
+  "picture": "21335260-19d3806a8ddce9f506d3e552c0cab562.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 167,
+  "tier": 4,
+  "xp": 245550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 95671,
+      "user_id": 21335260,
+      "platform_id": "dc",
+      "platform_user_id": "bassquill",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-21T09:03:36.000Z",
+      "updated_at": "2024-06-21T09:03:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21335260,
+    "rank_kc": 32494,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-28T12:02:09.000Z",
+    "rank_pc": 32683,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-28T12:02:10.000Z",
+    "rank_hs": 19128,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-28T12:02:11.000Z",
+    "created_at": "2025-03-26T01:49:58.000Z",
+    "updated_at": "2025-03-26T01:49:58.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:18:04.658Z"
+}
