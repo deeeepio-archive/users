@@ -1,0 +1,108 @@
+{
+  "id": 21289821,
+  "username": "NeoTheKiller",
+  "description": "gg I was bad but now I'm good never give up never let yourself down also life a  beach",
+  "about": "I'm smart I'm athletic I am single and I have a lot of friends on the game so u might get teamed but I team because u can make friends have fun it isn't about impressing its about expressing.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-09T00:22:30.000Z",
+  "date_last_played": "2025-03-06T01:31:32.000Z",
+  "profile_views": 79,
+  "kill_count": 392,
+  "play_count": 666,
+  "highest_score": 1282205,
+  "picture": "21289821-11bba3d33fea67a1014b8fb109f08ee7cf.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 83,
+  "tier": 3,
+  "xp": 122700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26089,
+      "user_id": 21289821,
+      "platform_id": "dc",
+      "platform_user_id": "daddy",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-08T04:32:59.000Z",
+      "updated_at": "2023-09-08T04:32:59.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21289821,
+    "rank_kc": 54525,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-03T23:14:36.000Z",
+    "rank_pc": 21106,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-03T23:14:36.000Z",
+    "rank_hs": 71817,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-03T23:14:37.000Z",
+    "created_at": "2025-03-06T01:31:32.000Z",
+    "updated_at": "2025-03-06T01:31:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244958,
+          "user_id": 21289821,
+          "cloneof_id": null,
+          "string_id": "by_my_map_v1",
+          "title": "dont come back",
+          "description": "play anytime pookie",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-12-11T00:25:38.000Z",
+          "updated_at": "2024-12-11T00:25:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21289821,
+            "username": "NeoTheKiller",
+            "description": "gg I was bad but now I'm good never give up never let yourself down also life a  beach",
+            "about": "I'm smart I'm athletic I am single and I have a lot of friends on the game so u might get teamed but I team because u can make friends have fun it isn't about impressing its about expressing.",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-09T00:22:30.000Z",
+            "date_last_played": "2025-03-06T01:31:32.000Z",
+            "kill_count": 392,
+            "play_count": 666,
+            "highest_score": 1282205,
+            "picture": "21289821-11bba3d33fea67a1014b8fb109f08ee7cf.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 83,
+            "tier": 3,
+            "xp": 122700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "bloxfruits"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:14:35.265Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 21289799,
+  "username": "sanriofeind",
+  "description": "booooo!!",
+  "about": "im a girl\nim 16\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-08T22:49:36.000Z",
+  "date_last_played": "2024-02-05T16:13:24.000Z",
+  "profile_views": 13,
+  "kill_count": 2,
+  "play_count": 31,
+  "highest_score": 66370,
+  "picture": "21289799-0380ef3763278160fe2b9ee687534a2f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30400,
+      "user_id": 21289799,
+      "platform_id": "dc",
+      "platform_user_id": "sanriofeind",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-06T18:17:34.000Z",
+      "updated_at": "2023-12-06T18:17:34.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21289799,
+    "rank_kc": 369070,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-12-07T19:34:13.000Z",
+    "rank_pc": 156760,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-07T19:34:16.000Z",
+    "rank_hs": 379798,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-07T16:16:00.000Z",
+    "created_at": "2024-02-05T16:13:24.000Z",
+    "updated_at": "2024-02-05T16:13:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:14:28.741Z"
+}
