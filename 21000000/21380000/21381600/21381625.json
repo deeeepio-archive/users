@@ -1,0 +1,101 @@
+{
+  "id": 21381625,
+  "username": "jaidenaguilar",
+  "description": "you are to confident\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-09-12T17:25:34.000Z",
+  "date_last_played": "2025-04-25T17:43:45.000Z",
+  "profile_views": 155,
+  "kill_count": 1092,
+  "play_count": 1138,
+  "highest_score": 2803432,
+  "picture": "21381625-eabb58827710d9da2d14b9b79e76f9fd9-ff9c9ac6-f0a7-42ea-8762-6d7323419dbe.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 378,
+  "tier": 5,
+  "xp": 257850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21381625,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-25T17:43:44.000Z",
+    "updated_at": "2025-04-25T17:43:45.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244911,
+          "user_id": 21381625,
+          "cloneof_id": null,
+          "string_id": "8525852",
+          "title": "hunger fish",
+          "description": "hunger games",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 47,
+          "created_at": "2024-11-22T04:13:26.000Z",
+          "updated_at": "2024-11-22T04:17:57.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21381625,
+            "username": "jaidenaguilar",
+            "description": "you are to confident\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-09-12T17:25:34.000Z",
+            "date_last_played": "2025-04-25T17:43:45.000Z",
+            "kill_count": 1092,
+            "play_count": 1138,
+            "highest_score": 2803432,
+            "picture": "21381625-eabb58827710d9da2d14b9b79e76f9fd9-ff9c9ac6-f0a7-42ea-8762-6d7323419dbe.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 378,
+            "tier": 5,
+            "xp": 257850,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "stay alive"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:01:45.224Z"
+}
