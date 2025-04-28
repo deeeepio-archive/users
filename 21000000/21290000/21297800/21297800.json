@@ -1,0 +1,61 @@
+{
+  "id": 21297800,
+  "username": "Nova_da_gaymer",
+  "description": "L",
+  "about": "Gaymer",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-07T12:56:32.000Z",
+  "date_last_played": "2023-06-08T12:43:08.000Z",
+  "profile_views": 6,
+  "kill_count": 36,
+  "play_count": 7,
+  "highest_score": 2276649,
+  "picture": "21297800-72dfc93d63cbc7f85c92395008346695.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 65,
+  "tier": 1,
+  "xp": 8250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20508,
+      "user_id": 21297800,
+      "platform_id": "dc",
+      "platform_user_id": "Nove da gaymer#6216",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-07T12:59:58.000Z",
+      "updated_at": "2023-06-07T12:59:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21297800,
+    "rank_kc": 158330,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-06-08T12:43:24.000Z",
+    "rank_pc": 224063,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-08T12:43:25.000Z",
+    "rank_hs": 30804,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-08T12:38:21.000Z",
+    "created_at": "2023-12-27T08:52:33.000Z",
+    "updated_at": "2023-06-08T12:43:25.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:09:54.283Z"
+}

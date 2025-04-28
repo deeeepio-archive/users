@@ -1,0 +1,65 @@
+{
+  "id": 21297813,
+  "username": "Axelf4040",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-07T14:15:39.000Z",
+  "date_last_played": "2025-04-27T19:16:22.000Z",
+  "profile_views": 4621,
+  "kill_count": 19971,
+  "play_count": 9331,
+  "highest_score": 16690295,
+  "picture": "21297813-7c0d16aa9b99467984fba2108127d327a-4dc6dcfa-7350-4812-9be5-4a3b08b7b5e4.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 19663,
+  "tier": 10,
+  "xp": 5668350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92355,
+      "user_id": 21297813,
+      "platform_id": "dc",
+      "platform_user_id": "4xelf",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-29T18:44:32.000Z",
+      "updated_at": "2024-02-29T18:44:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21297813,
+    "rank_kc": 7577,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-18T12:37:52.000Z",
+    "rank_pc": 9090,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-18T12:37:56.000Z",
+    "rank_hs": 8232,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-18T12:37:57.000Z",
+    "created_at": "2025-04-27T19:16:22.000Z",
+    "updated_at": "2025-04-27T19:16:22.000Z",
+    "pd": {
+      "played": 15,
+      "won": 7,
+      "ratio": 47
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:09:55.751Z"
+}
