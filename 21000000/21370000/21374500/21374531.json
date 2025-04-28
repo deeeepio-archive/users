@@ -1,0 +1,97 @@
+{
+  "id": 21374531,
+  "username": "🤟ʙʟᴀʏsᴘ🔥",
+  "description": "Adivina quien ha vuelto\n\nGuess who's back ",
+  "about": "¿What are you doing reading here? \n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-07-14T01:45:33.000Z",
+  "date_last_played": "2025-03-22T06:03:43.000Z",
+  "profile_views": 816,
+  "kill_count": 2467,
+  "play_count": 1373,
+  "highest_score": 2266173,
+  "picture": "21374531-73fa762f89b1b9603b5c8aaad69dea9f-0bee7203-93e3-4660-82fa-595796aee751.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 134,
+  "tier": 7,
+  "xp": 586800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21374531,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-22T06:03:43.000Z",
+    "updated_at": "2025-03-22T06:03:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244706,
+          "user_id": 21374531,
+          "cloneof_id": null,
+          "string_id": "banquet_ffa",
+          "title": "Banquet",
+          "description": "Xd",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-10-02T07:24:45.000Z",
+          "updated_at": "2024-10-02T07:24:46.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21374531,
+            "username": "🤟ʙʟᴀʏsᴘ🔥",
+            "description": "Adivina quien ha vuelto\n\nGuess who's back ",
+            "about": "¿What are you doing reading here? \n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-07-14T01:45:33.000Z",
+            "date_last_played": "2025-03-22T06:03:43.000Z",
+            "kill_count": 2467,
+            "play_count": 1373,
+            "highest_score": 2266173,
+            "picture": "21374531-73fa762f89b1b9603b5c8aaad69dea9f-0bee7203-93e3-4660-82fa-595796aee751.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 134,
+            "tier": 7,
+            "xp": 586800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Xd"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T10:07:56.656Z"
+}
