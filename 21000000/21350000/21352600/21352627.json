@@ -1,0 +1,101 @@
+{
+  "id": 21352627,
+  "username": "Okrooki",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-02-12T14:44:08.000Z",
+  "date_last_played": "2024-02-12T16:11:28.000Z",
+  "profile_views": 3,
+  "kill_count": 3,
+  "play_count": 18,
+  "highest_score": 339082,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 18,
+  "tier": 1,
+  "xp": 1200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 91713,
+      "user_id": 21352627,
+      "platform_id": "dc",
+      "platform_user_id": "sir_rook03",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-12T14:53:13.000Z",
+      "updated_at": "2024-02-12T14:53:13.000Z"
+    },
+    {
+      "id": 91711,
+      "user_id": 21352627,
+      "platform_id": "ig",
+      "platform_user_id": "@stone_n_cold_03",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-12T14:50:42.000Z",
+      "updated_at": "2024-02-12T14:50:42.000Z"
+    },
+    {
+      "id": 91712,
+      "user_id": 21352627,
+      "platform_id": "rd",
+      "platform_user_id": "u/GhostlySpectater2803",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-12T14:52:14.000Z",
+      "updated_at": "2024-02-12T14:52:14.000Z"
+    },
+    {
+      "id": 91709,
+      "user_id": 21352627,
+      "platform_id": "tw",
+      "platform_user_id": "@SirAries03",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-02-12T14:49:11.000Z",
+      "updated_at": "2024-02-12T14:49:11.000Z"
+    },
+    {
+      "id": 91710,
+      "user_id": 21352627,
+      "platform_id": "yt",
+      "platform_user_id": "@Okrooki",
+      "platform_user_url": "https://www.youtube.com/channel/UCkGas9CX4xiTyPWlxggibQw",
+      "verified": false,
+      "created_at": "2024-02-12T14:50:04.000Z",
+      "updated_at": "2024-02-12T14:50:04.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21352627,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T07:17:33.405Z",
+    "updated_at": "2025-04-28T07:17:33.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:17:33.462Z"
+}
