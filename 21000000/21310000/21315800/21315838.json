@@ -1,0 +1,81 @@
+{
+  "id": 21315838,
+  "username": "imsonotandyy",
+  "description": null,
+  "about": "this gotta b a joke\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-02T20:40:44.000Z",
+  "date_last_played": "2023-10-01T02:14:19.000Z",
+  "profile_views": 41,
+  "kill_count": 269,
+  "play_count": 92,
+  "highest_score": 271983,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 147,
+  "tier": 2,
+  "xp": 45300,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26234,
+      "user_id": 21315838,
+      "platform_id": "dc",
+      "platform_user_id": "ez",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-10T14:48:08.000Z",
+      "updated_at": "2023-09-10T14:48:08.000Z"
+    },
+    {
+      "id": 26236,
+      "user_id": 21315838,
+      "platform_id": "dc",
+      "platform_user_id": "this is a joke",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-10T14:48:26.000Z",
+      "updated_at": "2023-09-10T14:48:26.000Z"
+    },
+    {
+      "id": 26235,
+      "user_id": 21315838,
+      "platform_id": "dc",
+      "platform_user_id": "ur actually bad",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-10T14:48:17.000Z",
+      "updated_at": "2023-09-10T14:48:17.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21315838,
+    "rank_kc": 65330,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-30T18:01:16.000Z",
+    "rank_pc": 81034,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-30T18:01:18.000Z",
+    "rank_hs": 213804,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-30T01:26:27.000Z",
+    "created_at": "2023-10-01T02:14:18.000Z",
+    "updated_at": "2023-10-01T02:14:19.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:09:15.900Z"
+}
