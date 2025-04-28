@@ -1,0 +1,61 @@
+{
+  "id": 21301101,
+  "username": "cosm0",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-21T05:38:25.000Z",
+  "date_last_played": "2023-06-21T06:24:54.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 16,
+  "highest_score": 180620,
+  "picture": "21301101-3e17ed6b2eac5f7c3137bb3282991835.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 1,
+  "xp": 600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21332,
+      "user_id": 21301101,
+      "platform_id": "dc",
+      "platform_user_id": "c smo",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-21T05:39:49.000Z",
+      "updated_at": "2023-06-21T05:39:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21301101,
+    "rank_kc": 425936,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-06-21T05:39:56.000Z",
+    "rank_pc": 338858,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-21T05:39:57.000Z",
+    "rank_hs": 569540,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-21T05:39:58.000Z",
+    "created_at": "2023-06-21T06:24:53.000Z",
+    "updated_at": "2023-06-21T06:24:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:31:26.410Z"
+}
