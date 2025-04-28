@@ -1,0 +1,61 @@
+{
+  "id": 21303443,
+  "username": "Danonek123",
+  "description": "gg\n",
+  "about": "im happy man\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-02T15:09:40.000Z",
+  "date_last_played": "2025-03-09T12:20:43.000Z",
+  "profile_views": 22,
+  "kill_count": 1039,
+  "play_count": 640,
+  "highest_score": 1570421,
+  "picture": "21303443-939dcae6a4af679bb106d64d3d434e89a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 54,
+  "tier": 4,
+  "xp": 151350,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 22038,
+      "user_id": 21303443,
+      "platform_id": "dc",
+      "platform_user_id": "_.danonek._",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-03T12:48:42.000Z",
+      "updated_at": "2023-07-03T12:48:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21303443,
+    "rank_kc": 33698,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-07T19:57:41.000Z",
+    "rank_pc": 26748,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-07T19:57:49.000Z",
+    "rank_hs": 57344,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-07T19:57:52.000Z",
+    "created_at": "2025-03-09T12:20:42.000Z",
+    "updated_at": "2025-03-09T12:20:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:46:37.143Z"
+}
