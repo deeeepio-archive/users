@@ -1,0 +1,61 @@
+{
+  "id": 21315875,
+  "username": "Mulip",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-03T01:39:07.000Z",
+  "date_last_played": "2025-02-12T03:51:56.000Z",
+  "profile_views": 94,
+  "kill_count": 83,
+  "play_count": 80,
+  "highest_score": 818743,
+  "picture": "21315875-7e55bfc961a4c83ffbfbf2b6a610e33a-032177ed-edb4-4cff-8656-4319f1b950c7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 197,
+  "tier": 2,
+  "xp": 28050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 94055,
+      "user_id": 21315875,
+      "platform_id": "ig",
+      "platform_user_id": "https://www.instagram.com/mulip_1213?igsh=N20wZm0xdHk3ZDVp",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-04-23T10:17:00.000Z",
+      "updated_at": "2024-04-23T10:17:00.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21315875,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-02-12T03:51:56.000Z",
+    "updated_at": "2025-02-12T03:51:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:09:41.338Z"
+}
