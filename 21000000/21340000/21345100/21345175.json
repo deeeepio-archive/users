@@ -1,0 +1,61 @@
+{
+  "id": 21345175,
+  "username": "KorovVva",
+  "description": "вот же сука а",
+  "about": "главное не сдохнуть",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-25T14:18:02.000Z",
+  "date_last_played": "2023-12-31T14:08:18.000Z",
+  "profile_views": 7,
+  "kill_count": 24,
+  "play_count": 31,
+  "highest_score": 315545,
+  "picture": "21345175-42cab114cb1061e1259d109e372d533948.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 28,
+  "tier": 1,
+  "xp": 2700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31275,
+      "user_id": 21345175,
+      "platform_id": "tc",
+      "platform_user_id": "korovvva",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-25T14:21:28.000Z",
+      "updated_at": "2023-12-25T14:21:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21345175,
+    "rank_kc": 214622,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-27T16:39:18.000Z",
+    "rank_pc": 161079,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-27T16:39:24.000Z",
+    "rank_hs": 277594,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-27T16:39:28.000Z",
+    "created_at": "2023-12-31T14:08:18.000Z",
+    "updated_at": "2023-12-31T14:08:18.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:26:29.197Z"
+}
