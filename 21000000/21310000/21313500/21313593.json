@@ -1,0 +1,61 @@
+{
+  "id": 21313593,
+  "username": "zubea",
+  "description": "Welcome to the goulaug...",
+  "about": "Ummm I don't really know...",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-23T15:08:34.000Z",
+  "date_last_played": "2025-01-05T16:44:11.000Z",
+  "profile_views": 13,
+  "kill_count": 79,
+  "play_count": 164,
+  "highest_score": 646906,
+  "picture": "21313593-e710a069ee7bf7886eb375ca0e8ddb1f1.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 21,
+  "tier": 1,
+  "xp": 24900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 101131,
+      "user_id": 21313593,
+      "platform_id": "dc",
+      "platform_user_id": " -Ализо-",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-14T17:35:31.000Z",
+      "updated_at": "2024-12-14T17:35:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21313593,
+    "rank_kc": 149632,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-14T17:58:01.000Z",
+    "rank_pc": 80633,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-14T17:58:02.000Z",
+    "rank_hs": 128369,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-14T17:58:04.000Z",
+    "created_at": "2025-01-05T16:44:10.000Z",
+    "updated_at": "2025-01-05T16:44:11.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:53:32.620Z"
+}
