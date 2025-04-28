@@ -1,0 +1,97 @@
+{
+  "id": 21323559,
+  "username": "RECEP",
+  "description": "go to hell mother fucker.\n\n",
+  "about": "pro",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-08T20:04:45.000Z",
+  "date_last_played": "2023-10-30T07:08:51.000Z",
+  "profile_views": 93,
+  "kill_count": 342,
+  "play_count": 289,
+  "highest_score": 1232880,
+  "picture": "21323559-3f87bcce35b775d10e10a55d5a6e634ed5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 121,
+  "tier": 3,
+  "xp": 89400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21323559,
+    "rank_kc": 56547,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-11-29T14:46:21.000Z",
+    "rank_pc": 37897,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-11-29T14:46:24.000Z",
+    "rank_hs": 74792,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-29T14:46:26.000Z",
+    "created_at": "2023-11-29T14:46:25.000Z",
+    "updated_at": "2023-11-29T14:46:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12942,
+          "user_id": 21323559,
+          "cloneof_id": null,
+          "string_id": "sefseesefe",
+          "title": "Untitledfses",
+          "description": "fesfsefes",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-10-11T15:56:57.000Z",
+          "updated_at": "2023-10-11T15:56:58.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21323559,
+            "username": "RECEP",
+            "description": "go to hell mother fucker.\n\n",
+            "about": "pro",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-08T20:04:45.000Z",
+            "date_last_played": "2023-10-30T07:08:51.000Z",
+            "kill_count": 342,
+            "play_count": 289,
+            "highest_score": 1232880,
+            "picture": "21323559-3f87bcce35b775d10e10a55d5a6e634ed5.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 121,
+            "tier": 3,
+            "xp": 89400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "fesfesfes"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:59:14.651Z"
+}
