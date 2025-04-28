@@ -1,0 +1,75 @@
+{
+  "id": 21382339,
+  "username": "Yangbacagay",
+  "description": "XD",
+  "about": "XD\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-09-17T22:37:33.000Z",
+  "date_last_played": "2025-04-20T11:49:29.000Z",
+  "profile_views": 3632,
+  "kill_count": 4589,
+  "play_count": 1742,
+  "highest_score": 6294381,
+  "picture": "21382339-f5e2847a9aa4b9875686da3d2de57b09-758b2a4a-5e0b-42cb-b279-038a5b40500c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 321,
+  "tier": 10,
+  "xp": 1688400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103329,
+      "user_id": 21382339,
+      "platform_id": "yt",
+      "platform_user_id": "Subscribe!",
+      "platform_user_url": "https://youtube.com/@alleta_cloudy18?si=jZVgyqK0KqcqAJnw",
+      "verified": false,
+      "created_at": "2025-03-24T01:27:48.000Z",
+      "updated_at": "2025-03-24T01:27:48.000Z"
+    },
+    {
+      "id": 101617,
+      "user_id": 21382339,
+      "platform_id": "yt",
+      "platform_user_id": "XD",
+      "platform_user_url": "https://youtu.be/qsJkFb7UW_g?si=LK2efgJaV5jFGBVI",
+      "verified": false,
+      "created_at": "2025-01-02T11:08:37.000Z",
+      "updated_at": "2025-03-16T22:36:23.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21382339,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-20T11:49:28.000Z",
+    "updated_at": "2025-04-20T11:49:29.000Z",
+    "pd": {
+      "played": 26,
+      "won": 13,
+      "ratio": 50
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:06:17.193Z"
+}
