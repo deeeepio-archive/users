@@ -1,0 +1,118 @@
+{
+  "id": 21343910,
+  "username": "Leon123-",
+  "description": "\n\nBest player NA\nSunfish: 2,5m\nOrca: 1,5m\nHalibut: 2,8m\nGoblin 2,5m\nElephant seal 2,3\n\n\n",
+  "about": "I will become a good orca Player!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-17T14:58:59.000Z",
+  "date_last_played": "2025-04-10T05:02:14.000Z",
+  "profile_views": 728,
+  "kill_count": 1675,
+  "play_count": 1254,
+  "highest_score": 4382929,
+  "picture": "21343910-bfc3e0a8eebed6fb4e857134101067141.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 158,
+  "tier": 7,
+  "xp": 641550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31085,
+      "user_id": 21343910,
+      "platform_id": "dc",
+      "platform_user_id": "lecker.keks",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-21T11:15:45.000Z",
+      "updated_at": "2023-12-21T11:15:45.000Z"
+    },
+    {
+      "id": 99672,
+      "user_id": 21343910,
+      "platform_id": "dc",
+      "platform_user_id": "risk087.",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-10-27T09:34:27.000Z",
+      "updated_at": "2024-10-27T09:35:05.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21343910,
+    "rank_kc": 56487,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-18T22:59:10.000Z",
+    "rank_pc": 35349,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-18T22:59:19.000Z",
+    "rank_hs": 85208,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-18T20:47:05.000Z",
+    "created_at": "2025-04-10T05:02:14.000Z",
+    "updated_at": "2025-04-10T05:02:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13243,
+          "user_id": 21343910,
+          "cloneof_id": null,
+          "string_id": "keks123",
+          "title": "Food",
+          "description": "FUNNY",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 113,
+          "created_at": "2023-12-21T14:50:01.000Z",
+          "updated_at": "2023-12-21T14:50:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21343910,
+            "username": "Leon123-",
+            "description": "\n\nBest player NA\nSunfish: 2,5m\nOrca: 1,5m\nHalibut: 2,8m\nGoblin 2,5m\nElephant seal 2,3\n\n\n",
+            "about": "I will become a good orca Player!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-12-17T14:58:59.000Z",
+            "date_last_played": "2025-04-10T05:02:14.000Z",
+            "kill_count": 1675,
+            "play_count": 1254,
+            "highest_score": 4382929,
+            "picture": "21343910-bfc3e0a8eebed6fb4e857134101067141.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 158,
+            "tier": 7,
+            "xp": 641550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "nice "
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:18:20.828Z"
+}

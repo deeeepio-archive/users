@@ -1,0 +1,61 @@
+{
+  "id": 21343947,
+  "username": "oildrinker",
+  "description": "I like drinking oil!",
+  "about": "I am the real Oil Drinker.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-17T22:01:21.000Z",
+  "date_last_played": "2024-12-07T19:52:21.000Z",
+  "profile_views": 22,
+  "kill_count": 29,
+  "play_count": 12,
+  "highest_score": 1056046,
+  "picture": "21343947-e28d1574ab55eca48911052a5a67f54bf.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 64,
+  "tier": 1,
+  "xp": 8100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30911,
+      "user_id": 21343947,
+      "platform_id": "dc",
+      "platform_user_id": "realoildrinker",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-17T22:02:32.000Z",
+      "updated_at": "2023-12-17T22:38:05.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21343947,
+    "rank_kc": 191445,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-19T07:44:12.000Z",
+    "rank_pc": 231573,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-19T07:44:15.000Z",
+    "rank_hs": 88635,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-19T07:44:16.000Z",
+    "created_at": "2024-12-07T19:52:20.000Z",
+    "updated_at": "2024-12-07T19:52:21.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:18:31.730Z"
+}
