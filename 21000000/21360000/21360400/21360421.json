@@ -1,0 +1,91 @@
+{
+  "id": 21360421,
+  "username": "JamSpam67",
+  "description": "Low salinity is the true killer",
+  "about": "I'm an IT nerd, nice to meet you.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-03-28T15:39:38.000Z",
+  "date_last_played": "2024-09-06T17:33:59.000Z",
+  "profile_views": 16,
+  "kill_count": 13,
+  "play_count": 11,
+  "highest_score": 431831,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 1,
+  "xp": 2250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 93294,
+      "user_id": 21360421,
+      "platform_id": "dc",
+      "platform_user_id": "jamspam_05",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-28T15:41:35.000Z",
+      "updated_at": "2024-03-28T15:41:35.000Z"
+    },
+    {
+      "id": 96322,
+      "user_id": 21360421,
+      "platform_id": "ig",
+      "platform_user_id": "jamspam_m05",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-10T16:47:27.000Z",
+      "updated_at": "2024-07-10T16:47:49.000Z"
+    },
+    {
+      "id": 93295,
+      "user_id": 21360421,
+      "platform_id": "rd",
+      "platform_user_id": "Swedish_Simp4859",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-28T15:52:33.000Z",
+      "updated_at": "2024-03-28T15:52:33.000Z"
+    },
+    {
+      "id": 93296,
+      "user_id": 21360421,
+      "platform_id": "yt",
+      "platform_user_id": "JamSpam",
+      "platform_user_url": "https://www.youtube.com/@jamspam7221",
+      "verified": false,
+      "created_at": "2024-03-28T15:53:37.000Z",
+      "updated_at": "2024-03-28T15:53:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21360421,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-09-06T17:33:59.000Z",
+    "updated_at": "2024-09-06T17:33:59.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T08:15:31.167Z"
+}
