@@ -1,0 +1,97 @@
+{
+  "id": 21325990,
+  "username": "tayzin",
+  "description": "vc n f\noi tao bom assim\n\n\n",
+  "about": "n sei oq escreever aq\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-20T20:38:55.000Z",
+  "date_last_played": "2025-04-26T20:33:47.000Z",
+  "profile_views": 93,
+  "kill_count": 957,
+  "play_count": 1034,
+  "highest_score": 2787197,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 27,
+  "tier": 5,
+  "xp": 372600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21325990,
+    "rank_kc": 134481,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-10T07:16:54.000Z",
+    "rank_pc": 96599,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-10T07:16:55.000Z",
+    "rank_hs": 79636,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-10T07:16:57.000Z",
+    "created_at": "2025-04-26T20:33:47.000Z",
+    "updated_at": "2025-04-26T20:33:47.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244869,
+          "user_id": 21325990,
+          "cloneof_id": null,
+          "string_id": "sjq903daq",
+          "title": "Untitled",
+          "description": "super perigoso",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 25,
+          "created_at": "2024-11-06T19:42:34.000Z",
+          "updated_at": "2024-11-06T19:42:34.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21325990,
+            "username": "tayzin",
+            "description": "vc n f\noi tao bom assim\n\n\n",
+            "about": "n sei oq escreever aq\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-20T20:38:55.000Z",
+            "date_last_played": "2025-04-26T20:33:47.000Z",
+            "kill_count": 957,
+            "play_count": 1034,
+            "highest_score": 2787197,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 27,
+            "tier": 5,
+            "xp": 372600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "periculos"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:15:29.771Z"
+}

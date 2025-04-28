@@ -1,0 +1,108 @@
+{
+  "id": 21325971,
+  "username": "Bdubz",
+  "description": "Just your friendly neighborhood orca\nP.S my cat says hi :)",
+  "about": "#1 God. #2 Family. #3 Friends. \nsubscribe to my YouTube channel \n@Journey_hcr2",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-20T18:57:02.000Z",
+  "date_last_played": "2025-04-26T16:31:01.000Z",
+  "profile_views": 440,
+  "kill_count": 1084,
+  "play_count": 911,
+  "highest_score": 2520255,
+  "picture": "21325971-9e95ab2aa87fbd4ea6123f3a823b5f77-2900a0fa-add3-4965-aa65-cf8845219fcc.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 116,
+  "tier": 4,
+  "xp": 234150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 98076,
+      "user_id": 21325971,
+      "platform_id": "yt",
+      "platform_user_id": "Journey HCR2",
+      "platform_user_url": "https://www.youtube.com/@Journey_hcr2",
+      "verified": false,
+      "created_at": "2024-08-28T14:32:28.000Z",
+      "updated_at": "2024-12-20T23:08:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21325971,
+    "rank_kc": 36271,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-10T14:39:09.000Z",
+    "rank_pc": 24363,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-10T14:39:15.000Z",
+    "rank_hs": 29037,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-10T14:39:18.000Z",
+    "created_at": "2025-04-26T16:31:00.000Z",
+    "updated_at": "2025-04-26T16:31:01.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13167,
+          "user_id": 21325971,
+          "cloneof_id": null,
+          "string_id": "yittlefish",
+          "title": "werid map",
+          "description": "very weird",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 11,
+          "created_at": "2023-12-01T18:09:01.000Z",
+          "updated_at": "2023-12-01T18:09:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21325971,
+            "username": "Bdubz",
+            "description": "Just your friendly neighborhood orca\nP.S my cat says hi :)",
+            "about": "#1 God. #2 Family. #3 Friends. \nsubscribe to my YouTube channel \n@Journey_hcr2",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-20T18:57:02.000Z",
+            "date_last_played": "2025-04-26T16:31:01.000Z",
+            "kill_count": 1084,
+            "play_count": 911,
+            "highest_score": 2520255,
+            "picture": "21325971-9e95ab2aa87fbd4ea6123f3a823b5f77-2900a0fa-add3-4965-aa65-cf8845219fcc.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 116,
+            "tier": 4,
+            "xp": 234150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "h"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:15:25.313Z"
+}
