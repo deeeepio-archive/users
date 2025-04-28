@@ -1,0 +1,97 @@
+{
+  "id": 21350162,
+  "username": "Unknown891",
+  "description": "01010100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01110101 01101110 01101011 01101110 01101111 01110111 01101110\nCan you know?",
+  "about": "01001110 01101001 01100011 01100101 00100000 01110100 01110010 01111001\nDid you know?\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-28T02:23:22.000Z",
+  "date_last_played": "2024-12-10T02:22:24.000Z",
+  "profile_views": 137,
+  "kill_count": 2374,
+  "play_count": 633,
+  "highest_score": 6614027,
+  "picture": "21350162-4a8add1fdf7f51c3210eb18ce5d683257.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 742,
+  "tier": 7,
+  "xp": 595800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21350162,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-12-10T02:22:24.000Z",
+    "updated_at": "2024-12-10T02:22:24.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 15644,
+          "user_id": 21350162,
+          "cloneof_id": null,
+          "string_id": "mymini1v1_0000",
+          "title": "My mini 1v1 by unknown",
+          "description": "Mini 1v1 (beach)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 40,
+          "created_at": "2024-02-16T22:22:00.000Z",
+          "updated_at": "2024-02-16T22:22:01.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21350162,
+            "username": "Unknown891",
+            "description": "01010100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01110101 01101110 01101011 01101110 01101111 01110111 01101110\nCan you know?",
+            "about": "01001110 01101001 01100011 01100101 00100000 01110100 01110010 01111001\nDid you know?\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-01-28T02:23:22.000Z",
+            "date_last_played": "2024-12-10T02:22:24.000Z",
+            "kill_count": 2374,
+            "play_count": 633,
+            "highest_score": 6614027,
+            "picture": "21350162-4a8add1fdf7f51c3210eb18ce5d683257.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 742,
+            "tier": 7,
+            "xp": 595800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:58:22.183Z"
+}
