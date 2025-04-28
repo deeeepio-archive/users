@@ -1,0 +1,97 @@
+{
+  "id": 21291791,
+  "username": "gfhw",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-15T21:05:38.000Z",
+  "date_last_played": "2024-05-12T19:51:46.000Z",
+  "profile_views": 30,
+  "kill_count": 64,
+  "play_count": 178,
+  "highest_score": 1004938,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 17,
+  "tier": 1,
+  "xp": 17550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21291791,
+    "rank_kc": 164457,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-05-17T16:38:33.000Z",
+    "rank_pc": 96168,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-05-17T16:38:36.000Z",
+    "rank_hs": 157361,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-05-17T16:38:37.000Z",
+    "created_at": "2024-05-12T19:51:46.000Z",
+    "updated_at": "2024-05-12T19:51:46.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13054,
+          "user_id": 21291791,
+          "cloneof_id": null,
+          "string_id": "b365lake25",
+          "title": "my wold",
+          "description": "fun",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 26,
+          "created_at": "2023-11-02T20:49:32.000Z",
+          "updated_at": "2023-11-02T20:49:32.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21291791,
+            "username": "gfhw",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-15T21:05:38.000Z",
+            "date_last_played": "2024-05-12T19:51:46.000Z",
+            "kill_count": 64,
+            "play_count": 178,
+            "highest_score": 1004938,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 17,
+            "tier": 1,
+            "xp": 17550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "mw"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:28:42.798Z"
+}
