@@ -1,0 +1,97 @@
+{
+  "id": 21344509,
+  "username": "nightcrawler",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-21T06:24:35.000Z",
+  "date_last_played": "2024-02-08T10:38:57.000Z",
+  "profile_views": 5,
+  "kill_count": 5,
+  "play_count": 8,
+  "highest_score": 385719,
+  "picture": "21344509-a451f7bdfd937431b28230d7a4ec301e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 27,
+  "tier": 1,
+  "xp": 2550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21344509,
+    "rank_kc": 451240,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-21T06:25:26.000Z",
+    "rank_pc": 372762,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-21T06:25:27.000Z",
+    "rank_hs": 602237,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-21T06:25:28.000Z",
+    "created_at": "2024-02-08T10:38:56.000Z",
+    "updated_at": "2024-02-08T10:38:57.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 15701,
+          "user_id": 21344509,
+          "cloneof_id": null,
+          "string_id": "toxiclake_wip",
+          "title": "Toxic Lake [WIP]",
+          "description": "survive inside the harsh ecosystem of a lake ruined by nuclear radiation",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 73,
+          "created_at": "2024-03-02T21:05:17.000Z",
+          "updated_at": "2024-03-02T22:00:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21344509,
+            "username": "nightcrawler",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-12-21T06:24:35.000Z",
+            "date_last_played": "2024-02-08T10:38:57.000Z",
+            "kill_count": 5,
+            "play_count": 8,
+            "highest_score": 385719,
+            "picture": "21344509-a451f7bdfd937431b28230d7a4ec301e.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 27,
+            "tier": 1,
+            "xp": 2550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "lake"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:22:13.955Z"
+}
