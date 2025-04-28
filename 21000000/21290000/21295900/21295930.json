@@ -1,0 +1,101 @@
+{
+  "id": 21295930,
+  "username": "Rain_phrog",
+  "description": "\"Why be skilled when you can be funny? \" -Albert Einstein 2010",
+  "about": "\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-30T15:01:04.000Z",
+  "date_last_played": "2025-04-27T19:24:49.000Z",
+  "profile_views": 1016,
+  "kill_count": 8966,
+  "play_count": 9417,
+  "highest_score": 4412314,
+  "picture": "21295930-68fcd79746f47dfab2db3abd00ea3cca-55f9fd1d-a817-49ff-8e7a-d17e0168bef5.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 5021,
+  "tier": 10,
+  "xp": 3566550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21295930,
+    "rank_kc": 8122,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T04:10:58.000Z",
+    "rank_pc": 3238,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T04:11:00.000Z",
+    "rank_hs": 24640,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-21T04:11:01.000Z",
+    "created_at": "2025-04-27T19:24:48.000Z",
+    "updated_at": "2025-04-27T19:24:49.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12352,
+          "user_id": 21295930,
+          "cloneof_id": null,
+          "string_id": "manta_v1",
+          "title": "Prodject M.A.N.T.A",
+          "description": "an unfiniished map that has has an acryonm that im to lazy to finish",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": -1,
+          "objects": 588,
+          "created_at": "2023-05-30T15:16:53.000Z",
+          "updated_at": "2023-06-07T14:26:50.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21295930,
+            "username": "Rain_phrog",
+            "description": "\"Why be skilled when you can be funny? \" -Albert Einstein 2010",
+            "about": "\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-30T15:01:04.000Z",
+            "date_last_played": "2025-04-27T19:24:49.000Z",
+            "kill_count": 8966,
+            "play_count": 9417,
+            "highest_score": 4412314,
+            "picture": "21295930-68fcd79746f47dfab2db3abd00ea3cca-55f9fd1d-a817-49ff-8e7a-d17e0168bef5.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 5021,
+            "tier": 10,
+            "xp": 3566550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#large map"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:57:23.330Z"
+}

@@ -1,0 +1,143 @@
+{
+  "id": 21295916,
+  "username": "Sulister",
+  "description": "I NEED TO EAT.",
+  "about": "VIEW MY CODING STUFF AT\nhttps://scratch.mit.edu/users/100130625",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-30T14:17:42.000Z",
+  "date_last_played": "2025-04-24T15:13:58.000Z",
+  "profile_views": 186,
+  "kill_count": 327,
+  "play_count": 559,
+  "highest_score": 1048014,
+  "picture": "21295916-3dc6519f107a01481034615dedb6a5d491.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 108,
+  "tier": 2,
+  "xp": 56700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21295916,
+    "rank_kc": 69902,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-20T07:14:34.000Z",
+    "rank_pc": 34694,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-20T07:14:35.000Z",
+    "rank_hs": 89324,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-20T07:14:35.000Z",
+    "created_at": "2025-04-24T15:13:57.000Z",
+    "updated_at": "2025-04-24T15:13:58.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244306,
+          "user_id": 21295916,
+          "cloneof_id": null,
+          "string_id": "crabisland_v1",
+          "title": "Crab Island",
+          "description": "Welcome to the land of crabs",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 11,
+          "created_at": "2024-05-31T16:52:41.000Z",
+          "updated_at": "2024-05-31T17:15:00.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21295916,
+            "username": "Sulister",
+            "description": "I NEED TO EAT.",
+            "about": "VIEW MY CODING STUFF AT\nhttps://scratch.mit.edu/users/100130625",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-30T14:17:42.000Z",
+            "date_last_played": "2025-04-24T15:13:58.000Z",
+            "kill_count": 327,
+            "play_count": 559,
+            "highest_score": 1048014,
+            "picture": "21295916-3dc6519f107a01481034615dedb6a5d491.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 108,
+            "tier": 2,
+            "xp": 56700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#crab"
+            }
+          ]
+        },
+        {
+          "id": 12364,
+          "user_id": 21295916,
+          "cloneof_id": null,
+          "string_id": "sulisters_map_1",
+          "title": "Deep World",
+          "description": "a deep world",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 18,
+          "created_at": "2023-06-01T13:05:47.000Z",
+          "updated_at": "2024-01-19T13:35:21.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21295916,
+            "username": "Sulister",
+            "description": "I NEED TO EAT.",
+            "about": "VIEW MY CODING STUFF AT\nhttps://scratch.mit.edu/users/100130625",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-30T14:17:42.000Z",
+            "date_last_played": "2025-04-24T15:13:58.000Z",
+            "kill_count": 327,
+            "play_count": 559,
+            "highest_score": 1048014,
+            "picture": "21295916-3dc6519f107a01481034615dedb6a5d491.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 108,
+            "tier": 2,
+            "xp": 56700,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "#deep"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:57:21.439Z"
+}
