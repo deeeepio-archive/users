@@ -1,0 +1,71 @@
+{
+  "id": 21390449,
+  "username": "Dwang-ML",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-19T23:25:03.000Z",
+  "date_last_played": "2024-11-21T18:00:04.000Z",
+  "profile_views": 18,
+  "kill_count": 20,
+  "play_count": 30,
+  "highest_score": 397336,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 26,
+  "tier": 1,
+  "xp": 2400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 100410,
+      "user_id": 21390449,
+      "platform_id": "dc",
+      "platform_user_id": "xxxxx.ml.xxxxx",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-11-19T23:28:07.000Z",
+      "updated_at": "2024-11-19T23:28:07.000Z"
+    },
+    {
+      "id": 100409,
+      "user_id": 21390449,
+      "platform_id": "yt",
+      "platform_user_id": "D王 [ML]",
+      "platform_user_url": "https://www.youtube.com/@Dwang-ML",
+      "verified": false,
+      "created_at": "2024-11-19T23:27:08.000Z",
+      "updated_at": "2024-11-19T23:27:08.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21390449,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-11-21T18:00:03.000Z",
+    "updated_at": "2024-11-21T18:00:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:02:06.219Z"
+}
