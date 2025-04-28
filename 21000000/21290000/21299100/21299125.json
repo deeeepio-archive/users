@@ -1,0 +1,61 @@
+{
+  "id": 21299125,
+  "username": "amin43",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-13T08:35:54.000Z",
+  "date_last_played": "2023-08-06T05:13:12.000Z",
+  "profile_views": 58,
+  "kill_count": 229,
+  "play_count": 687,
+  "highest_score": 1546001,
+  "picture": "21299125-c41021a2e3cab3ae6f610125bbcdfcf973.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 44,
+  "tier": 3,
+  "xp": 102000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21068,
+      "user_id": 21299125,
+      "platform_id": "tw",
+      "platform_user_id": "amin",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-15T11:34:52.000Z",
+      "updated_at": "2023-06-15T11:34:52.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21299125,
+    "rank_kc": 68802,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-09-02T03:36:08.000Z",
+    "rank_pc": 17790,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-02T03:36:09.000Z",
+    "rank_hs": 55345,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-02T03:36:09.000Z",
+    "created_at": "2023-10-04T00:35:46.000Z",
+    "updated_at": "2023-09-02T03:36:09.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:17:59.042Z"
+}
