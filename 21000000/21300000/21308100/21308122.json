@@ -1,0 +1,61 @@
+{
+  "id": 21308122,
+  "username": "vitor_hugo0079",
+  "description": "serio morreu pra mim ruim",
+  "about": "lgl",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-25T23:31:19.000Z",
+  "date_last_played": "2023-07-26T14:12:34.000Z",
+  "profile_views": 2,
+  "kill_count": 16,
+  "play_count": 30,
+  "highest_score": 309080,
+  "picture": "21308122-95bfd29113af4ee2637ba5d5a1ce2298.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 1,
+  "xp": 3750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23332,
+      "user_id": 21308122,
+      "platform_id": "dc",
+      "platform_user_id": "vitor_hugo0079#2232",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-26T00:36:37.000Z",
+      "updated_at": "2023-07-26T00:36:37.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21308122,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T02:17:33.421Z",
+    "updated_at": "2025-04-28T02:17:33.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:17:33.485Z"
+}
