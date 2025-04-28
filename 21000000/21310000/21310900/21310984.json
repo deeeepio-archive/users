@@ -1,0 +1,97 @@
+{
+  "id": 21310984,
+  "username": "for12",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-11T01:40:14.000Z",
+  "date_last_played": "2023-09-29T01:33:37.000Z",
+  "profile_views": 8,
+  "kill_count": 42,
+  "play_count": 66,
+  "highest_score": 449981,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 58,
+  "tier": 1,
+  "xp": 7200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21310984,
+    "rank_kc": 166280,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-29T00:49:55.000Z",
+    "rank_pc": 97713,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-29T00:49:55.000Z",
+    "rank_hs": 162324,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-09-29T00:49:56.000Z",
+    "created_at": "2023-09-29T01:33:36.000Z",
+    "updated_at": "2023-09-29T01:33:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12921,
+          "user_id": 21310984,
+          "cloneof_id": null,
+          "string_id": "663u374y",
+          "title": "COOL New Map",
+          "description": "PLAY",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 73,
+          "created_at": "2023-10-07T03:56:32.000Z",
+          "updated_at": "2023-10-07T03:56:38.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21310984,
+            "username": "for12",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-08-11T01:40:14.000Z",
+            "date_last_played": "2023-09-29T01:33:37.000Z",
+            "kill_count": 42,
+            "play_count": 66,
+            "highest_score": 449981,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 58,
+            "tier": 1,
+            "xp": 7200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "OK"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:35:50.586Z"
+}
