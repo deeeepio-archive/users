@@ -1,0 +1,61 @@
+{
+  "id": 21350105,
+  "username": "philbert2good",
+  "description": "",
+  "about": "I'm Phil\nThis is Phil's world\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-27T16:53:21.000Z",
+  "date_last_played": "2025-01-31T05:00:02.000Z",
+  "profile_views": 203,
+  "kill_count": 451,
+  "play_count": 68,
+  "highest_score": 8435950,
+  "picture": "21350105-e418876caeafb0e8108268d4fa5fe8783.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 457,
+  "tier": 3,
+  "xp": 112050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 91112,
+      "user_id": 21350105,
+      "platform_id": "dc",
+      "platform_user_id": "philbert.2",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-28T01:28:14.000Z",
+      "updated_at": "2024-01-28T01:28:14.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21350105,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-01-31T05:00:01.000Z",
+    "updated_at": "2025-01-31T05:00:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:57:57.878Z"
+}

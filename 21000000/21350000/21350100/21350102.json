@@ -1,0 +1,81 @@
+{
+  "id": 21350102,
+  "username": "Wav",
+  "description": "Call it mining fatigue",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-27T16:40:48.000Z",
+  "date_last_played": "2024-12-13T18:37:07.000Z",
+  "profile_views": 325,
+  "kill_count": 833,
+  "play_count": 161,
+  "highest_score": 6243000,
+  "picture": "21350102-b5510dbfeb097ab1d5105a89d10a6f2b1040-1d8b11ef-bd47-41bd-bf98-035f3c98bb48.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 175,
+  "tier": 4,
+  "xp": 156450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102005,
+      "user_id": 21350102,
+      "platform_id": "dc",
+      "platform_user_id": ".playerone._",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-01-16T17:28:29.000Z",
+      "updated_at": "2025-01-16T17:28:29.000Z"
+    },
+    {
+      "id": 100344,
+      "user_id": 21350102,
+      "platform_id": "rd",
+      "platform_user_id": "Few_Hedgehog_9936",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-11-17T16:51:30.000Z",
+      "updated_at": "2024-11-17T16:51:39.000Z"
+    },
+    {
+      "id": 100981,
+      "user_id": 21350102,
+      "platform_id": "tw",
+      "platform_user_id": "Waveform_file",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-12-08T11:08:08.000Z",
+      "updated_at": "2024-12-08T11:08:08.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21350102,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-12-13T18:37:06.000Z",
+    "updated_at": "2024-12-13T18:37:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:57:57.559Z"
+}
