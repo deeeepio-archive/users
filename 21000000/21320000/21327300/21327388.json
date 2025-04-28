@@ -1,0 +1,118 @@
+{
+  "id": 21327388,
+  "username": "SPATHYPHILLUM",
+  "description": "C'est ce qui s'appelle la chaîne alimentaire !\n\n( Je n'aime pas tuer mais c'est le jeu ! )",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-26T19:30:30.000Z",
+  "date_last_played": "2023-11-05T09:19:33.000Z",
+  "profile_views": 13,
+  "kill_count": 27,
+  "play_count": 148,
+  "highest_score": 547979,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 47,
+  "tier": 1,
+  "xp": 5550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21327388,
+    "rank_kc": 244838,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-28T16:01:02.000Z",
+    "rank_pc": 89302,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-28T16:01:05.000Z",
+    "rank_hs": 144772,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-28T16:01:06.000Z",
+    "created_at": "2023-11-05T09:19:33.000Z",
+    "updated_at": "2023-11-05T09:19:33.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13037,
+          "user_id": 21327388,
+          "cloneof_id": null,
+          "string_id": "carte_1",
+          "title": "Deeeep.io Carte 1",
+          "description": "Une grande carte, j'espère qu'elle vous plaira.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 1632,
+          "created_at": "2023-10-28T07:12:29.000Z",
+          "updated_at": "2024-09-21T10:32:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21327388,
+            "username": "SPATHYPHILLUM",
+            "description": "C'est ce qui s'appelle la chaîne alimentaire !\n\n( Je n'aime pas tuer mais c'est le jeu ! )",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-26T19:30:30.000Z",
+            "date_last_played": "2023-11-05T09:19:33.000Z",
+            "kill_count": 27,
+            "play_count": 148,
+            "highest_score": 547979,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 47,
+            "tier": 1,
+            "xp": 5550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "abysses"
+            },
+            {
+              "id": "Arctique"
+            },
+            {
+              "id": "grand"
+            },
+            {
+              "id": "marais"
+            },
+            {
+              "id": "océan"
+            },
+            {
+              "id": "océan froid"
+            },
+            {
+              "id": "profond"
+            },
+            {
+              "id": "récif"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:24:42.968Z"
+}
