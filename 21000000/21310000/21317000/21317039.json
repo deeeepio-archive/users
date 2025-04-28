@@ -1,0 +1,61 @@
+{
+  "id": 21317039,
+  "username": "yhd",
+  "description": "Im a rat and u die to rat",
+  "about": "rat",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-08T16:05:29.000Z",
+  "date_last_played": "2023-10-12T18:14:02.000Z",
+  "profile_views": 5,
+  "kill_count": 17,
+  "play_count": 33,
+  "highest_score": 345187,
+  "picture": "21317039-8970458040b0e10dca9ec5e71271122f3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 24,
+  "tier": 1,
+  "xp": 3600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26099,
+      "user_id": 21317039,
+      "platform_id": "dc",
+      "platform_user_id": "yhdzuim",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-08T16:07:32.000Z",
+      "updated_at": "2023-09-08T16:07:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21317039,
+    "rank_kc": 389243,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-11T18:11:46.000Z",
+    "rank_pc": 236771,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-11T18:11:47.000Z",
+    "rank_hs": 188832,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-11T18:11:49.000Z",
+    "created_at": "2023-10-12T18:14:02.000Z",
+    "updated_at": "2023-10-12T18:14:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:16:27.653Z"
+}

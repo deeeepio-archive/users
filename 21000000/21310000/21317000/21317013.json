@@ -1,0 +1,118 @@
+{
+  "id": 21317013,
+  "username": "Fishofdeath",
+  "description": "I truly respect you 🫡",
+  "about": "Im a fish but I’m not the original fish so plz stop asking.\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-08T14:26:50.000Z",
+  "date_last_played": "2023-12-22T19:12:44.000Z",
+  "profile_views": 75,
+  "kill_count": 481,
+  "play_count": 896,
+  "highest_score": 1265068,
+  "picture": "21317013-c3e6c3b3bcd5278b6947be1db3ec2279.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 3,
+  "xp": 98550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26912,
+      "user_id": 21317013,
+      "platform_id": "dc",
+      "platform_user_id": "Hedgehog of death ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-22T21:14:29.000Z",
+      "updated_at": "2023-09-22T21:14:29.000Z"
+    },
+    {
+      "id": 27061,
+      "user_id": 21317013,
+      "platform_id": "yt",
+      "platform_user_id": "Hedgehog of death",
+      "platform_user_url": "https://www.youtube.com/channel/UCMsPFjH1fuzEaBJvpgjVSGg",
+      "verified": false,
+      "created_at": "2023-09-25T18:35:45.000Z",
+      "updated_at": "2023-09-25T18:35:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21317013,
+    "rank_kc": 50800,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-23T11:54:45.000Z",
+    "rank_pc": 15864,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-23T11:54:46.000Z",
+    "rank_hs": 71576,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-23T11:54:47.000Z",
+    "created_at": "2023-12-22T19:12:43.000Z",
+    "updated_at": "2023-12-22T19:12:44.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12805,
+          "user_id": 21317013,
+          "cloneof_id": null,
+          "string_id": "696969420",
+          "title": "Blood sea",
+          "description": "Sea of blood",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2023-09-09T21:14:41.000Z",
+          "updated_at": "2023-09-09T21:14:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21317013,
+            "username": "Fishofdeath",
+            "description": "I truly respect you 🫡",
+            "about": "Im a fish but I’m not the original fish so plz stop asking.\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-09-08T14:26:50.000Z",
+            "date_last_played": "2023-12-22T19:12:44.000Z",
+            "kill_count": 481,
+            "play_count": 896,
+            "highest_score": 1265068,
+            "picture": "21317013-c3e6c3b3bcd5278b6947be1db3ec2279.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2,
+            "tier": 3,
+            "xp": 98550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Blood"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:16:24.235Z"
+}
