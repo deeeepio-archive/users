@@ -1,0 +1,97 @@
+{
+  "id": 21295090,
+  "username": "glitch_00908",
+  "description": "discupa mosso mas julo qui nao foi pessoal\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-27T03:57:04.000Z",
+  "date_last_played": "2025-01-29T03:21:56.000Z",
+  "profile_views": 26,
+  "kill_count": 654,
+  "play_count": 1015,
+  "highest_score": 1560588,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 135,
+  "tier": 4,
+  "xp": 226650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21295090,
+    "rank_kc": 49650,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-15T02:16:19.000Z",
+    "rank_pc": 17605,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-15T02:16:21.000Z",
+    "rank_hs": 54292,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-08-15T02:15:43.000Z",
+    "created_at": "2025-01-29T03:21:56.000Z",
+    "updated_at": "2025-01-29T03:21:56.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12729,
+          "user_id": 21295090,
+          "cloneof_id": null,
+          "string_id": "ia_ma_map_v1",
+          "title": "kkkkk",
+          "description": "kkkkkkkkkkkkkkkk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 18,
+          "created_at": "2023-08-21T03:16:02.000Z",
+          "updated_at": "2023-08-21T03:16:03.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21295090,
+            "username": "glitch_00908",
+            "description": "discupa mosso mas julo qui nao foi pessoal\n",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-05-27T03:57:04.000Z",
+            "date_last_played": "2025-01-29T03:21:56.000Z",
+            "kill_count": 654,
+            "play_count": 1015,
+            "highest_score": 1560588,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 135,
+            "tier": 4,
+            "xp": 226650,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "user"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:51:05.483Z"
+}
