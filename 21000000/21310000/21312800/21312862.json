@@ -1,0 +1,71 @@
+{
+  "id": 21312862,
+  "username": "Uta",
+  "description": ":0",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-20T01:27:19.000Z",
+  "date_last_played": "2024-08-14T17:58:43.000Z",
+  "profile_views": 1099,
+  "kill_count": 4737,
+  "play_count": 1276,
+  "highest_score": 14684164,
+  "picture": "21312862-bf76f69ed4cb31323c4cb2ddf569411f-7a69c086-cd92-4f87-bddd-ae87f6b3260c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2784,
+  "tier": 10,
+  "xp": 1215600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 96249,
+      "user_id": 21312862,
+      "platform_id": "dc",
+      "platform_user_id": "deeeep.io/u/Shanksss",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-07-07T18:58:16.000Z",
+      "updated_at": "2024-07-07T18:58:16.000Z"
+    },
+    {
+      "id": 95959,
+      "user_id": 21312862,
+      "platform_id": "dc",
+      "platform_user_id": "octo0001",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-28T15:48:51.000Z",
+      "updated_at": "2024-06-28T15:48:51.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21312862,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-08-14T17:58:42.000Z",
+    "updated_at": "2024-08-14T17:58:43.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:48:55.839Z"
+}
