@@ -1,0 +1,71 @@
+{
+  "id": 21297660,
+  "username": "SausageSwiper",
+  "description": "money doesn't grow on trees, but apples do,\nand you can sell them.",
+  "about": "A US player playing on a EU server. \n\nNot the best player, though.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-06T19:10:15.000Z",
+  "date_last_played": "2023-11-11T20:18:23.000Z",
+  "profile_views": 85,
+  "kill_count": 456,
+  "play_count": 375,
+  "highest_score": 1443813,
+  "picture": "21297660-6ca610841bc105675610e4c2912e678a84.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 4,
+  "tier": 2,
+  "xp": 55650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 21517,
+      "user_id": 21297660,
+      "platform_id": "dc",
+      "platform_user_id": "sausage_swipersalsa",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-24T15:22:54.000Z",
+      "updated_at": "2023-06-24T15:22:54.000Z"
+    },
+    {
+      "id": 21518,
+      "user_id": 21297660,
+      "platform_id": "yt",
+      "platform_user_id": "Sausage Swiper",
+      "platform_user_url": "https://youtube.com/@Sausage_Swiper",
+      "verified": false,
+      "created_at": "2023-06-24T15:25:15.000Z",
+      "updated_at": "2023-06-24T15:25:15.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21297660,
+    "rank_kc": 46665,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-01T16:02:49.000Z",
+    "rank_pc": 30367,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-01T16:02:51.000Z",
+    "rank_hs": 61002,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-01T16:02:52.000Z",
+    "created_at": "2023-11-11T20:18:22.000Z",
+    "updated_at": "2023-11-11T20:18:23.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:09:15.438Z"
+}
