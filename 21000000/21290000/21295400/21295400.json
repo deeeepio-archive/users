@@ -1,0 +1,71 @@
+{
+  "id": 21295400,
+  "username": "JanekWeebYT",
+  "description": "Jesus Christ is God ",
+  "about": "\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-28T11:35:40.000Z",
+  "date_last_played": "2025-02-10T23:01:02.000Z",
+  "profile_views": 20,
+  "kill_count": 454,
+  "play_count": 455,
+  "highest_score": 1198552,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 303,
+  "tier": 2,
+  "xp": 66450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20872,
+      "user_id": 21295400,
+      "platform_id": "dc",
+      "platform_user_id": "JanekWeeb#8973",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-11T17:20:03.000Z",
+      "updated_at": "2023-06-11T17:20:03.000Z"
+    },
+    {
+      "id": 20244,
+      "user_id": 21295400,
+      "platform_id": "yt",
+      "platform_user_id": "https://www.youtube.com/channel/UClUb3HQLUVFOuTyppABujJw",
+      "platform_user_url": "https://www.youtube.com/channel/UClUb3HQLUVFOuTyppABujJw",
+      "verified": false,
+      "created_at": "2023-06-02T12:11:54.000Z",
+      "updated_at": "2023-06-02T12:11:54.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21295400,
+    "rank_kc": 82310,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-11T08:13:06.000Z",
+    "rank_pc": 35092,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-11T08:13:07.000Z",
+    "rank_hs": 137557,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-06-11T08:13:08.000Z",
+    "created_at": "2025-02-10T23:01:01.000Z",
+    "updated_at": "2025-02-10T23:01:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:53:23.273Z"
+}
