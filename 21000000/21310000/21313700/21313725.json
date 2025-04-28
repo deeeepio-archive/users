@@ -1,0 +1,81 @@
+{
+  "id": 21313725,
+  "username": "koolman10",
+  "description": "hmmmmmm",
+  "about": "I pretty sure people that are sweats at this game are children",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-24T05:27:11.000Z",
+  "date_last_played": "2024-05-25T20:55:55.000Z",
+  "profile_views": 43,
+  "kill_count": 32,
+  "play_count": 110,
+  "highest_score": 471226,
+  "picture": "21313725-646e4c8e2a110e5edc37722863364dbba.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 48,
+  "tier": 1,
+  "xp": 10950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 25385,
+      "user_id": 21313725,
+      "platform_id": "dc",
+      "platform_user_id": "blanket3804",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-26T00:27:13.000Z",
+      "updated_at": "2023-08-26T00:27:13.000Z"
+    },
+    {
+      "id": 25386,
+      "user_id": 21313725,
+      "platform_id": "tc",
+      "platform_user_id": "twutch_boi",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-26T00:27:51.000Z",
+      "updated_at": "2023-08-26T00:27:51.000Z"
+    },
+    {
+      "id": 25387,
+      "user_id": 21313725,
+      "platform_id": "yt",
+      "platform_user_id": "RPT gaming",
+      "platform_user_url": "https://youtube.com/@RPTGaming-sbc?si=iRIXtgvH3kbEQG_8",
+      "verified": false,
+      "created_at": "2023-08-26T00:29:05.000Z",
+      "updated_at": "2023-08-26T00:29:05.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21313725,
+    "rank_kc": 175849,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-11-29T06:42:56.000Z",
+    "rank_pc": 72120,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-29T06:42:57.000Z",
+    "rank_hs": 162002,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-29T06:42:58.000Z",
+    "created_at": "2024-05-25T20:55:55.000Z",
+    "updated_at": "2024-05-25T20:55:55.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:54:24.464Z"
+}
