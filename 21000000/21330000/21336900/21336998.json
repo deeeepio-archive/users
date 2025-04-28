@@ -1,0 +1,71 @@
+{
+  "id": 21336998,
+  "username": "𝕊𝕡𝕒𝕣𝕜𝕪e",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-26T00:57:12.000Z",
+  "date_last_played": "2023-11-28T23:17:38.000Z",
+  "profile_views": 8,
+  "kill_count": 70,
+  "play_count": 64,
+  "highest_score": 578051,
+  "picture": "21336998-eeb7939fd38277b3e3b18e59b983b4fb.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 74,
+  "tier": 1,
+  "xp": 14100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30054,
+      "user_id": 21336998,
+      "platform_id": "dc",
+      "platform_user_id": "ker_nick",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-28T01:25:17.000Z",
+      "updated_at": "2023-11-28T01:25:17.000Z"
+    },
+    {
+      "id": 30055,
+      "user_id": 21336998,
+      "platform_id": "yt",
+      "platform_user_id": "@Ker_Nick",
+      "platform_user_url": "https://www.youtube.com/@Ker_Nick/videos",
+      "verified": false,
+      "created_at": "2023-11-28T01:26:53.000Z",
+      "updated_at": "2023-11-28T01:26:53.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21336998,
+    "rank_kc": 160728,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-28T01:23:15.000Z",
+    "rank_pc": 121593,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-28T01:23:17.000Z",
+    "rank_hs": 146437,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-28T01:23:18.000Z",
+    "created_at": "2023-11-28T23:17:38.000Z",
+    "updated_at": "2023-11-28T23:17:38.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:29:45.514Z"
+}
