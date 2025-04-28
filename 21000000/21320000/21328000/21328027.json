@@ -1,0 +1,71 @@
+{
+  "id": 21328027,
+  "username": "change_",
+  "description": "No death message.",
+  "about": "Beluga beluga beluga",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-29T17:49:38.000Z",
+  "date_last_played": "2023-11-20T02:54:29.000Z",
+  "profile_views": 234,
+  "kill_count": 23,
+  "play_count": 7,
+  "highest_score": 3825,
+  "picture": "21328027-0aa89d0cb87bd34293259cd5d61cbb93.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 42,
+  "tier": 1,
+  "xp": 4800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28741,
+      "user_id": 21328027,
+      "platform_id": "dc",
+      "platform_user_id": "QQIQQ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-29T17:53:09.000Z",
+      "updated_at": "2023-11-15T13:03:57.000Z"
+    },
+    {
+      "id": 28742,
+      "user_id": 21328027,
+      "platform_id": "vk",
+      "platform_user_id": "Hacked",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-29T17:53:22.000Z",
+      "updated_at": "2023-11-15T13:03:34.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21328027,
+    "rank_kc": 199890,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-12-13T11:36:49.000Z",
+    "rank_pc": 249487,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-12-13T11:36:52.000Z",
+    "rank_hs": 572220,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-13T11:36:55.000Z",
+    "created_at": "2023-12-13T11:36:54.000Z",
+    "updated_at": "2023-12-13T11:36:55.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:28:34.672Z"
+}
