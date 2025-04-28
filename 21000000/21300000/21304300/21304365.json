@@ -1,0 +1,61 @@
+{
+  "id": 21304365,
+  "username": "袁老师",
+  "description": "",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-07T09:13:00.000Z",
+  "date_last_played": "2023-07-17T03:06:02.000Z",
+  "profile_views": 11,
+  "kill_count": 96,
+  "play_count": 178,
+  "highest_score": 488884,
+  "picture": "21304365-0d09a835b15e5f72ff615dca257c79a7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 55,
+  "tier": 1,
+  "xp": 19500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 22323,
+      "user_id": 21304365,
+      "platform_id": "qq",
+      "platform_user_id": "2233 bilibili://article/14400826?ts=1688705887&spmid=333.341.click.awakePopup&h5_buvid=844F831B-E676-0F1C-D821-123D47D3505733777infoc&unique_k=&bsource=search_baidu",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-07T09:45:39.000Z",
+      "updated_at": "2023-07-07T09:45:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21304365,
+    "rank_kc": 105807,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-12T08:25:05.000Z",
+    "rank_pc": 49367,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-12T08:25:06.000Z",
+    "rank_hs": 149144,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-12T08:25:07.000Z",
+    "created_at": "2023-07-17T03:06:01.000Z",
+    "updated_at": "2023-07-17T03:06:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:53:04.377Z"
+}
