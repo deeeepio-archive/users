@@ -1,0 +1,65 @@
+{
+  "id": 21390313,
+  "username": "CN_lift",
+  "description": "Have a nice day:)",
+  "about": "You have reached an ocean of void.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-19T04:38:16.000Z",
+  "date_last_played": "2025-04-27T23:30:23.000Z",
+  "profile_views": 605,
+  "kill_count": 1774,
+  "play_count": 500,
+  "highest_score": 11918218,
+  "picture": "21390313-2d1c6a4a75e47ce910845b566d0b59f93-fbbaa2d5-2bfe-49de-9a72-703222ce1d0c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2989,
+  "tier": 7,
+  "xp": 677100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 100484,
+      "user_id": 21390313,
+      "platform_id": "dc",
+      "platform_user_id": "cn_lift_09555",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-11-22T07:32:54.000Z",
+      "updated_at": "2024-11-22T07:32:54.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21390313,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-27T23:30:23.000Z",
+    "updated_at": "2025-04-27T23:30:23.000Z",
+    "pd": {
+      "played": 31,
+      "won": 15,
+      "ratio": 48
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:00:48.754Z"
+}
