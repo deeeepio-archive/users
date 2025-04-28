@@ -1,0 +1,61 @@
+{
+  "id": 21349557,
+  "username": "clostone",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-01-21T07:56:52.000Z",
+  "date_last_played": "2024-01-31T05:11:19.000Z",
+  "profile_views": 4,
+  "kill_count": 45,
+  "play_count": 81,
+  "highest_score": 660689,
+  "picture": "21349557-b4c513944387ba6ef81bbc87085971d3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 68,
+  "tier": 1,
+  "xp": 8700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 32233,
+      "user_id": 21349557,
+      "platform_id": "qq",
+      "platform_user_id": "2701863626",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-21T07:58:19.000Z",
+      "updated_at": "2024-01-21T07:58:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21349557,
+    "rank_kc": 454545,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T07:57:19.000Z",
+    "rank_pc": 377235,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T07:57:20.000Z",
+    "rank_hs": 606575,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-21T07:57:21.000Z",
+    "created_at": "2024-01-31T05:11:19.000Z",
+    "updated_at": "2024-01-31T05:11:19.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:54:32.566Z"
+}
