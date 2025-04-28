@@ -1,0 +1,61 @@
+{
+  "id": 21317349,
+  "username": "mcsillyton",
+  "description": ":D",
+  "about": "yo",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-09T22:50:59.000Z",
+  "date_last_played": "2023-12-27T20:55:07.000Z",
+  "profile_views": 14,
+  "kill_count": 9,
+  "play_count": 107,
+  "highest_score": 226675,
+  "picture": "21317349-22527a4867dce8ed631024a80178962ac.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 4200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 27401,
+      "user_id": 21317349,
+      "platform_id": "dc",
+      "platform_user_id": "mcsillyton",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-01T19:40:29.000Z",
+      "updated_at": "2023-12-20T01:07:10.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21317349,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T03:18:44.968Z",
+    "updated_at": "2025-04-28T03:18:45.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:18:45.085Z"
+}
