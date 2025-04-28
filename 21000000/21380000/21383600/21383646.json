@@ -1,0 +1,197 @@
+{
+  "id": 21383646,
+  "username": "BobEaterOfSouls",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-09-27T14:01:24.000Z",
+  "date_last_played": "2025-01-12T22:14:03.000Z",
+  "profile_views": 27,
+  "kill_count": 38,
+  "play_count": 78,
+  "highest_score": 719789,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 96,
+  "tier": 1,
+  "xp": 12900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21383646,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-01-12T22:14:03.000Z",
+    "updated_at": "2025-01-12T22:14:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244702,
+          "user_id": 21383646,
+          "cloneof_id": null,
+          "string_id": "you_will_die",
+          "title": "you will die",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 8,
+          "created_at": "2024-10-01T17:10:16.000Z",
+          "updated_at": "2024-10-01T17:19:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21383646,
+            "username": "BobEaterOfSouls",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-09-27T14:01:24.000Z",
+            "date_last_played": "2025-01-12T22:14:03.000Z",
+            "kill_count": 38,
+            "play_count": 78,
+            "highest_score": 719789,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 96,
+            "tier": 1,
+            "xp": 12900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
+        {
+          "id": 244701,
+          "user_id": 21383646,
+          "cloneof_id": null,
+          "string_id": "ocean_trench",
+          "title": "ocean trench",
+          "description": "its a trench in the middle of the ocean",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 42,
+          "created_at": "2024-10-01T16:15:53.000Z",
+          "updated_at": "2024-10-01T16:23:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21383646,
+            "username": "BobEaterOfSouls",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-09-27T14:01:24.000Z",
+            "date_last_played": "2025-01-12T22:14:03.000Z",
+            "kill_count": 38,
+            "play_count": 78,
+            "highest_score": 719789,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 96,
+            "tier": 1,
+            "xp": 12900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Complete"
+            },
+            {
+              "id": "deeeep"
+            },
+            {
+              "id": "deep"
+            },
+            {
+              "id": "ocean"
+            }
+          ]
+        },
+        {
+          "id": 244699,
+          "user_id": 21383646,
+          "cloneof_id": null,
+          "string_id": "really_Deeeep",
+          "title": "Really Deeeep",
+          "description": "description",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 96,
+          "created_at": "2024-10-01T13:15:11.000Z",
+          "updated_at": "2024-10-01T15:32:05.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21383646,
+            "username": "BobEaterOfSouls",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-09-27T14:01:24.000Z",
+            "date_last_played": "2025-01-12T22:14:03.000Z",
+            "kill_count": 38,
+            "play_count": 78,
+            "highest_score": 719789,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 96,
+            "tier": 1,
+            "xp": 12900,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "deep"
+            },
+            {
+              "id": "semicomplete"
+            }
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:16:07.976Z"
+}
