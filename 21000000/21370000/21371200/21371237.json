@@ -1,0 +1,75 @@
+{
+  "id": 21371237,
+  "username": "Ragnarsson",
+  "description": "I am dead\n",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-06-15T08:36:14.000Z",
+  "date_last_played": "2025-04-27T15:31:57.000Z",
+  "profile_views": 214,
+  "kill_count": 430,
+  "play_count": 401,
+  "highest_score": 1582672,
+  "picture": "21371237-e1bf538619c909e310daf3164cc37b2f-097ae57b-baab-4163-97a5-b4d84c8e78c6.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 14,
+  "tier": 3,
+  "xp": 144450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 103907,
+      "user_id": 21371237,
+      "platform_id": "dc",
+      "platform_user_id": "https://deeeep.io/u/Ragnarsson",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-22T15:42:11.000Z",
+      "updated_at": "2025-04-22T15:42:11.000Z"
+    },
+    {
+      "id": 103905,
+      "user_id": 21371237,
+      "platform_id": "dc",
+      "platform_user_id": "Ragnarsson",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-22T15:41:32.000Z",
+      "updated_at": "2025-04-22T15:41:32.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21371237,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-27T15:31:56.000Z",
+    "updated_at": "2025-04-27T15:31:57.000Z",
+    "pd": {
+      "played": 3,
+      "won": 2,
+      "ratio": 67
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T09:38:17.149Z"
+}
