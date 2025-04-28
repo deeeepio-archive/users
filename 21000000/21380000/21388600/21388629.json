@@ -1,0 +1,65 @@
+{
+  "id": 21388629,
+  "username": "kontra",
+  "description": "moneyy",
+  "about": "You're a good man, Arthur Morgan. A good man.",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-07T00:16:17.000Z",
+  "date_last_played": "2025-04-26T13:42:21.000Z",
+  "profile_views": 103,
+  "kill_count": 323,
+  "play_count": 510,
+  "highest_score": 1110282,
+  "picture": "21388629-e5f7c9a279109dae1c8473f5f0d363d84-3a30f308-7426-4bc0-9462-ce7456a5edb6.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 128,
+  "tier": 3,
+  "xp": 85950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102477,
+      "user_id": 21388629,
+      "platform_id": "dc",
+      "platform_user_id": "chemical.34t3r",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-02-07T14:34:31.000Z",
+      "updated_at": "2025-02-07T14:34:31.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21388629,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-04-26T13:42:21.000Z",
+    "updated_at": "2025-04-26T13:42:21.000Z",
+    "pd": {
+      "played": 12,
+      "won": 3,
+      "ratio": 25
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T11:49:22.778Z"
+}
