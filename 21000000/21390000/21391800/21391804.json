@@ -1,0 +1,97 @@
+{
+  "id": 21391804,
+  "username": "fish32466",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-29T15:35:34.000Z",
+  "date_last_played": "2025-03-11T18:11:50.000Z",
+  "profile_views": 7,
+  "kill_count": 7,
+  "play_count": 85,
+  "highest_score": 160380,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6,
+  "tier": 1,
+  "xp": 2400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21391804,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-11T18:11:50.000Z",
+    "updated_at": "2025-03-11T18:11:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245206,
+          "user_id": 21391804,
+          "cloneof_id": null,
+          "string_id": "1234553",
+          "title": "map",
+          "description": "bla",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 26,
+          "created_at": "2025-02-21T11:11:31.000Z",
+          "updated_at": "2025-02-21T11:12:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21391804,
+            "username": "fish32466",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-11-29T15:35:34.000Z",
+            "date_last_played": "2025-03-11T18:11:50.000Z",
+            "kill_count": 7,
+            "play_count": 85,
+            "highest_score": 160380,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6,
+            "tier": 1,
+            "xp": 2400,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "food"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:11:00.086Z"
+}
