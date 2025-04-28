@@ -1,0 +1,71 @@
+{
+  "id": 21324734,
+  "username": "Kawesome100",
+  "description": "Never gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n-Rick Astley",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-14T13:50:29.000Z",
+  "date_last_played": "2024-09-02T18:41:31.000Z",
+  "profile_views": 41,
+  "kill_count": 225,
+  "play_count": 80,
+  "highest_score": 1087076,
+  "picture": "21324734-71995cd9910fb72d18052b283d3f3c9d1.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 50,
+  "tier": 2,
+  "xp": 39750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28014,
+      "user_id": 21324734,
+      "platform_id": "dc",
+      "platform_user_id": "Kawesome1",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-14T13:52:17.000Z",
+      "updated_at": "2023-10-14T13:52:17.000Z"
+    },
+    {
+      "id": 28015,
+      "user_id": 21324734,
+      "platform_id": "yt",
+      "platform_user_id": "My yt",
+      "platform_user_url": "https://www.youtube.com/@kawesome-rocketleague",
+      "verified": false,
+      "created_at": "2023-10-14T13:52:56.000Z",
+      "updated_at": "2023-10-14T13:53:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21324734,
+    "rank_kc": 88080,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-19T22:08:14.000Z",
+    "rank_pc": 105541,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-19T22:08:16.000Z",
+    "rank_hs": 83921,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-19T22:08:18.000Z",
+    "created_at": "2024-09-02T18:41:30.000Z",
+    "updated_at": "2024-09-02T18:41:31.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:06:16.380Z"
+}

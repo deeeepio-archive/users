@@ -1,0 +1,108 @@
+{
+  "id": 21324724,
+  "username": "PingCrimson",
+  "description": "Morto por um player cheio de lag\n",
+  "about": "ping muuuuuuuuuuuuuuuito ping\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-14T12:37:23.000Z",
+  "date_last_played": "2025-04-23T21:41:33.000Z",
+  "profile_views": 25,
+  "kill_count": 235,
+  "play_count": 139,
+  "highest_score": 2008022,
+  "picture": "21324724-8e2e4f277334b261149e39d5182a7778.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 97,
+  "tier": 3,
+  "xp": 91800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28195,
+      "user_id": 21324724,
+      "platform_id": "dc",
+      "platform_user_id": "suamae",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-17T13:52:24.000Z",
+      "updated_at": "2023-10-17T13:52:24.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21324724,
+    "rank_kc": 177834,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-18T12:28:58.000Z",
+    "rank_pc": 195969,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-18T12:28:59.000Z",
+    "rank_hs": 47991,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-18T12:29:00.000Z",
+    "created_at": "2025-04-23T21:41:32.000Z",
+    "updated_at": "2025-04-23T21:41:33.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 15802,
+          "user_id": 21324724,
+          "cloneof_id": null,
+          "string_id": "fooooooood_v1",
+          "title": "Untitled",
+          "description": "food :)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 27,
+          "created_at": "2024-03-23T19:14:06.000Z",
+          "updated_at": "2024-03-23T19:14:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21324724,
+            "username": "PingCrimson",
+            "description": "Morto por um player cheio de lag\n",
+            "about": "ping muuuuuuuuuuuuuuuito ping\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-14T12:37:23.000Z",
+            "date_last_played": "2025-04-23T21:41:33.000Z",
+            "kill_count": 235,
+            "play_count": 139,
+            "highest_score": 2008022,
+            "picture": "21324724-8e2e4f277334b261149e39d5182a7778.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 97,
+            "tier": 3,
+            "xp": 91800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "NO TAGS HERE"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:06:14.854Z"
+}
