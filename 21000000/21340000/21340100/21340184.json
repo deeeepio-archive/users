@@ -1,0 +1,61 @@
+{
+  "id": 21340184,
+  "username": "Thompson",
+  "description": "please have mercy",
+  "about": "i love pancakes!!!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-08T15:13:01.000Z",
+  "date_last_played": "2024-03-30T22:33:07.000Z",
+  "profile_views": 500,
+  "kill_count": 1524,
+  "play_count": 331,
+  "highest_score": 3144785,
+  "picture": "21340184-a2a1e1eecfb710eacb9fdaa9d37d3575c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 4,
+  "xp": 243450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31943,
+      "user_id": 21340184,
+      "platform_id": "dc",
+      "platform_user_id": "tommythompson#0000",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-13T11:58:44.000Z",
+      "updated_at": "2024-01-13T11:59:03.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21340184,
+    "rank_kc": 24627,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-17T19:00:34.000Z",
+    "rank_pc": 41429,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-17T19:00:52.000Z",
+    "rank_hs": 26641,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-17T19:01:00.000Z",
+    "created_at": "2024-03-30T22:33:07.000Z",
+    "updated_at": "2024-03-30T22:33:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:52:13.537Z"
+}
