@@ -1,0 +1,61 @@
+{
+  "id": 21345600,
+  "username": "chuchuonthatbeat",
+  "description": "sorry :(",
+  "about": "yurr",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-28T19:42:33.000Z",
+  "date_last_played": "2023-12-28T20:23:30.000Z",
+  "profile_views": 3,
+  "kill_count": 7,
+  "play_count": 4,
+  "highest_score": 535339,
+  "picture": "21345600-a1958109aef7b1fd8fefa7bf4ac103ff6c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 1500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31414,
+      "user_id": 21345600,
+      "platform_id": "dc",
+      "platform_user_id": "chuchuonthatbeat",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-28T19:45:19.000Z",
+      "updated_at": "2023-12-28T19:45:19.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21345600,
+    "rank_kc": 289911,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-12-28T20:24:25.000Z",
+    "rank_pc": 288203,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-12-28T20:24:27.000Z",
+    "rank_hs": 150802,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-12-28T20:24:29.000Z",
+    "created_at": "2023-12-28T20:24:22.000Z",
+    "updated_at": "2023-12-28T20:24:29.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T06:28:53.587Z"
+}
