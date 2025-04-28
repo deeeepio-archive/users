@@ -1,0 +1,61 @@
+{
+  "id": 21289668,
+  "username": "LeagueOfTuMama",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-08T16:06:19.000Z",
+  "date_last_played": "2023-09-30T16:24:11.000Z",
+  "profile_views": 24,
+  "kill_count": 224,
+  "play_count": 156,
+  "highest_score": 1412207,
+  "picture": "21289668-aead52bda10610539f10dfe107f9f2fc8961.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 176,
+  "tier": 2,
+  "xp": 49650,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 19006,
+      "user_id": 21289668,
+      "platform_id": "dc",
+      "platform_user_id": "LeagueOfTuMama#5399",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-10T13:08:26.000Z",
+      "updated_at": "2023-05-10T13:08:26.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21289668,
+    "rank_kc": 71967,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-11-30T21:58:47.000Z",
+    "rank_pc": 57804,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-11-30T21:58:48.000Z",
+    "rank_hs": 64227,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-30T21:58:52.000Z",
+    "created_at": "2023-11-30T21:58:51.000Z",
+    "updated_at": "2023-11-30T21:58:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:13:27.897Z"
+}
