@@ -1,0 +1,71 @@
+{
+  "id": 21288369,
+  "username": "Parakeet5",
+  "description": "i like digital art and animator plus sketching",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-04T03:41:29.000Z",
+  "date_last_played": "2023-05-15T13:55:48.000Z",
+  "profile_views": 7,
+  "kill_count": 9,
+  "play_count": 22,
+  "highest_score": 272594,
+  "picture": "21288369-403b63c24b92c0d7ed7104cdd0cbf522a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 23,
+  "tier": 1,
+  "xp": 1950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 18562,
+      "user_id": 21288369,
+      "platform_id": "dc",
+      "platform_user_id": "Parakeet5#6088",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-05-04T03:42:55.000Z",
+      "updated_at": "2023-05-04T03:42:55.000Z"
+    },
+    {
+      "id": 18563,
+      "user_id": 21288369,
+      "platform_id": "yt",
+      "platform_user_id": "Parakeet5",
+      "platform_user_url": "https://youtube.com/@parakeet51",
+      "verified": false,
+      "created_at": "2023-05-04T03:43:13.000Z",
+      "updated_at": "2023-05-04T03:43:13.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21288369,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T00:05:08.985Z",
+    "updated_at": "2025-04-28T00:05:09.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:05:09.085Z"
+}
