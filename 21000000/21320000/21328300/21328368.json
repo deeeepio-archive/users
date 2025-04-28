@@ -1,0 +1,71 @@
+{
+  "id": 21328368,
+  "username": "Bahlee101",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-31T04:44:09.000Z",
+  "date_last_played": "2023-11-15T04:48:45.000Z",
+  "profile_views": 7,
+  "kill_count": 0,
+  "play_count": 4,
+  "highest_score": 314705,
+  "picture": "21328368-58071013a3871011f3d28585570c1cc24a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 13,
+  "tier": 1,
+  "xp": 600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 28805,
+      "user_id": 21328368,
+      "platform_id": "dc",
+      "platform_user_id": "Bahlee101",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-31T05:39:09.000Z",
+      "updated_at": "2023-10-31T05:39:09.000Z"
+    },
+    {
+      "id": 28804,
+      "user_id": 21328368,
+      "platform_id": "tc",
+      "platform_user_id": "Bahlee101",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-31T05:39:00.000Z",
+      "updated_at": "2023-10-31T05:39:00.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21328368,
+    "rank_kc": 444232,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-10-31T04:47:33.000Z",
+    "rank_pc": 294916,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-31T06:03:14.000Z",
+    "rank_hs": 201060,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-31T05:59:21.000Z",
+    "created_at": "2023-11-15T04:48:44.000Z",
+    "updated_at": "2023-11-15T04:48:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:31:05.703Z"
+}

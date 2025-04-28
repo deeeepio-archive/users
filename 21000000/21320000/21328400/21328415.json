@@ -1,0 +1,97 @@
+{
+  "id": 21328415,
+  "username": "Aleatorio-fofo",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-31T12:34:53.000Z",
+  "date_last_played": "2023-10-31T14:27:45.000Z",
+  "profile_views": 7,
+  "kill_count": 2,
+  "play_count": 13,
+  "highest_score": 166542,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 1,
+  "xp": 450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21328415,
+    "rank_kc": 364722,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-10-31T23:26:46.000Z",
+    "rank_pc": 197684,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-10-31T23:26:49.000Z",
+    "rank_hs": 271494,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-10-31T23:26:52.000Z",
+    "created_at": "2023-11-09T08:45:14.000Z",
+    "updated_at": "2023-10-31T23:26:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13050,
+          "user_id": 21328415,
+          "cloneof_id": null,
+          "string_id": "rdjdjndr",
+          "title": "Untitled",
+          "description": "kmdjftk",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 125,
+          "created_at": "2023-10-31T23:03:39.000Z",
+          "updated_at": "2023-10-31T23:03:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21328415,
+            "username": "Aleatorio-fofo",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-10-31T12:34:53.000Z",
+            "date_last_played": "2023-10-31T14:27:45.000Z",
+            "kill_count": 2,
+            "play_count": 13,
+            "highest_score": 166542,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 8,
+            "tier": 1,
+            "xp": 450,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "scfdwsher"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:31:13.031Z"
+}
