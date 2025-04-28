@@ -1,0 +1,65 @@
+{
+  "id": 21327207,
+  "username": "おすぐっど",
+  "description": "👍",
+  "about": "@最&強",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-26T05:34:49.000Z",
+  "date_last_played": "2025-04-20T07:26:49.000Z",
+  "profile_views": 2379,
+  "kill_count": 2476,
+  "play_count": 784,
+  "highest_score": 5074501,
+  "picture": "21327207-5f96e60d10e31ddb68108a77fe8b115246-2cc68808-cf6c-4e28-ad59-83b3bd096e7e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 852,
+  "tier": 6,
+  "xp": 514950,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 102929,
+      "user_id": 21327207,
+      "platform_id": "dc",
+      "platform_user_id": "osssgood",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-03-02T05:21:28.000Z",
+      "updated_at": "2025-03-02T05:21:28.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21327207,
+    "rank_kc": 25293,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-18T04:23:25.000Z",
+    "rank_pc": 38810,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-18T04:23:26.000Z",
+    "rank_hs": 14164,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-18T04:23:27.000Z",
+    "created_at": "2025-04-20T07:26:49.000Z",
+    "updated_at": "2025-04-20T07:26:49.000Z",
+    "pd": {
+      "played": 3,
+      "won": 3,
+      "ratio": 100
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:23:28.944Z"
+}
