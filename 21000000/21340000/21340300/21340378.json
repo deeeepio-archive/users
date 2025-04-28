@@ -1,0 +1,100 @@
+{
+  "id": 21340378,
+  "username": "Monoto_Me",
+  "description": "Sorry but I had to. Looks like it's game over for you. Remember, it's all about skill and strategy. Rest in pixels.",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-09T12:58:38.000Z",
+  "date_last_played": "2025-02-23T19:16:09.000Z",
+  "profile_views": 101,
+  "kill_count": 319,
+  "play_count": 727,
+  "highest_score": 2129493,
+  "picture": "21340378-a00578948dc8f94cc86a415c44ae543d.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 266,
+  "tier": 3,
+  "xp": 124200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21340378,
+    "rank_kc": 140135,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-07T01:08:19.000Z",
+    "rank_pc": 48871,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-07T01:08:21.000Z",
+    "rank_hs": 65096,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-07T01:08:21.000Z",
+    "created_at": "2025-02-23T19:16:09.000Z",
+    "updated_at": "2025-02-23T19:16:09.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 13308,
+          "user_id": 21340378,
+          "cloneof_id": null,
+          "string_id": "DiE",
+          "title": "TRY TO SURVIVE",
+          "description": "try to survive",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 47,
+          "created_at": "2024-01-02T22:48:09.000Z",
+          "updated_at": "2024-05-08T11:37:47.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21340378,
+            "username": "Monoto_Me",
+            "description": "Sorry but I had to. Looks like it's game over for you. Remember, it's all about skill and strategy. Rest in pixels.",
+            "about": "",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-12-09T12:58:38.000Z",
+            "date_last_played": "2025-02-23T19:16:09.000Z",
+            "kill_count": 319,
+            "play_count": 727,
+            "highest_score": 2129493,
+            "picture": "21340378-a00578948dc8f94cc86a415c44ae543d.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 266,
+            "tier": 3,
+            "xp": 124200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "death"
+            },
+            {
+              "id": "ffa"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:53:22.454Z"
+}
