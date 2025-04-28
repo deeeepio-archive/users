@@ -1,0 +1,97 @@
+{
+  "id": 21363566,
+  "username": "HABER",
+  "description": "easy \nrecords:\n\nscore: stonefish 4.321",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-04-17T15:51:59.000Z",
+  "date_last_played": "2025-01-18T17:04:50.000Z",
+  "profile_views": 24,
+  "kill_count": 220,
+  "play_count": 158,
+  "highest_score": 1673827,
+  "picture": "21363566-60fc862749db54284ed32109f35e0b9bd-7be40e10-0f5a-4a77-8cf8-2049ab61dad0.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 42,
+  "tier": 2,
+  "xp": 40200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21363566,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-01-18T17:04:49.000Z",
+    "updated_at": "2025-01-18T17:04:50.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 244200,
+          "user_id": 21363566,
+          "cloneof_id": null,
+          "string_id": "wda",
+          "title": "Untitled",
+          "description": "adads",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-04-20T12:34:56.000Z",
+          "updated_at": "2024-04-20T12:35:04.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21363566,
+            "username": "HABER",
+            "description": "easy \nrecords:\n\nscore: stonefish 4.321",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-04-17T15:51:59.000Z",
+            "date_last_played": "2025-01-18T17:04:50.000Z",
+            "kill_count": 220,
+            "play_count": 158,
+            "highest_score": 1673827,
+            "picture": "21363566-60fc862749db54284ed32109f35e0b9bd-7be40e10-0f5a-4a77-8cf8-2049ab61dad0.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 42,
+            "tier": 2,
+            "xp": 40200,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "adasad"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T08:38:08.582Z"
+}
