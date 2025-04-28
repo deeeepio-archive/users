@@ -1,0 +1,149 @@
+{
+  "id": 21374246,
+  "username": "Realwhale",
+  "description": "Get eaten",
+  "about": "🐟🥩🍣",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-07-11T05:58:33.000Z",
+  "date_last_played": "2025-01-16T01:27:26.000Z",
+  "profile_views": 308,
+  "kill_count": 22,
+  "play_count": 208,
+  "highest_score": 19625,
+  "picture": "21374246-353eb10a10b44121ccc9d95bbe98104651f-d0e4ed72-ef89-4001-8249-29539620260c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 2,
+  "xp": 50850,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21374246,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-01-16T01:27:26.000Z",
+    "updated_at": "2025-01-16T01:27:26.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245018,
+          "user_id": 21374246,
+          "cloneof_id": 245006,
+          "string_id": "unhabitable",
+          "title": "Untitled",
+          "description": "4 000 000 000 yrs in the future",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-12-24T19:18:54.000Z",
+          "updated_at": "2024-12-24T19:18:55.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21374246,
+            "username": "Realwhale",
+            "description": "Get eaten",
+            "about": "🐟🥩🍣",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-07-11T05:58:33.000Z",
+            "date_last_played": "2025-01-16T01:27:26.000Z",
+            "kill_count": 22,
+            "play_count": 208,
+            "highest_score": 19625,
+            "picture": "21374246-353eb10a10b44121ccc9d95bbe98104651f-d0e4ed72-ef89-4001-8249-29539620260c.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 50850,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Extinction"
+            },
+            {
+              "id": "Mass"
+            }
+          ]
+        },
+        {
+          "id": 245006,
+          "user_id": 21374246,
+          "cloneof_id": null,
+          "string_id": "234234",
+          "title": "Unhabitable",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2024-12-22T20:01:29.000Z",
+          "updated_at": "2024-12-24T19:24:22.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21374246,
+            "username": "Realwhale",
+            "description": "Get eaten",
+            "about": "🐟🥩🍣",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-07-11T05:58:33.000Z",
+            "date_last_played": "2025-01-16T01:27:26.000Z",
+            "kill_count": 22,
+            "play_count": 208,
+            "highest_score": 19625,
+            "picture": "21374246-353eb10a10b44121ccc9d95bbe98104651f-d0e4ed72-ef89-4001-8249-29539620260c.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 50850,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "185"
+            },
+            {
+              "id": "234"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T10:05:08.974Z"
+}
