@@ -1,0 +1,50 @@
+{
+  "id": 21298569,
+  "username": "FancyFeet",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-10T15:43:04.000Z",
+  "date_last_played": "2023-06-13T11:12:52.000Z",
+  "profile_views": 9,
+  "kill_count": 36,
+  "play_count": 14,
+  "highest_score": 88445,
+  "picture": "21298569-9547cb0ccef86819210785db4a25e5fa.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 73,
+  "tier": 1,
+  "xp": 9450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21298569,
+    "rank_kc": 213805,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-06-11T14:12:09.000Z",
+    "rank_pc": 215678,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-11T14:12:11.000Z",
+    "rank_hs": 322055,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-11T14:12:13.000Z",
+    "created_at": "2023-06-13T11:12:52.000Z",
+    "updated_at": "2023-06-13T11:12:52.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:15:12.328Z"
+}
