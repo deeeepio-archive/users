@@ -1,0 +1,71 @@
+{
+  "id": 21338288,
+  "username": "Badger__",
+  "description": "Everything you hate, you'll become later on.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-12-01T21:52:04.000Z",
+  "date_last_played": "2023-12-18T01:49:13.000Z",
+  "profile_views": 2,
+  "kill_count": 2,
+  "play_count": 19,
+  "highest_score": 63805,
+  "picture": "21338288-b651613c9896bd7310c6d34a3fdae48ea.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 30244,
+      "user_id": 21338288,
+      "platform_id": "dc",
+      "platform_user_id": "badger7313",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-01T21:53:15.000Z",
+      "updated_at": "2023-12-01T21:53:15.000Z"
+    },
+    {
+      "id": 30245,
+      "user_id": 21338288,
+      "platform_id": "yt",
+      "platform_user_id": "Xexon",
+      "platform_user_url": "https://www.youtube.com/@Xenon-_-.",
+      "verified": false,
+      "created_at": "2023-12-01T21:58:45.000Z",
+      "updated_at": "2023-12-01T21:58:45.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21338288,
+    "rank_kc": 448815,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-12-01T22:02:51.000Z",
+    "rank_pc": 369550,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-12-01T22:02:57.000Z",
+    "rank_hs": 599088,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-12-01T22:03:03.000Z",
+    "created_at": "2023-12-18T01:49:12.000Z",
+    "updated_at": "2023-12-18T01:49:13.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:38:43.024Z"
+}
