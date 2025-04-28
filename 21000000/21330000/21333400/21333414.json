@@ -1,0 +1,71 @@
+{
+  "id": 21333414,
+  "username": "xCrazyy",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-10T20:13:37.000Z",
+  "date_last_played": "2023-11-12T10:58:14.000Z",
+  "profile_views": 5,
+  "kill_count": 63,
+  "play_count": 58,
+  "highest_score": 592622,
+  "picture": "21333414-8e10a87de93eaeb4614f73d15a2ee690c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 64,
+  "tier": 1,
+  "xp": 9600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 29296,
+      "user_id": 21333414,
+      "platform_id": "dc",
+      "platform_user_id": "myxares",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-11T15:06:42.000Z",
+      "updated_at": "2023-11-11T15:06:42.000Z"
+    },
+    {
+      "id": 29298,
+      "user_id": 21333414,
+      "platform_id": "ig",
+      "platform_user_id": "winstoniyara",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-11-11T15:07:04.000Z",
+      "updated_at": "2023-11-11T15:07:04.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21333414,
+    "rank_kc": 158303,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-11-11T16:50:43.000Z",
+    "rank_pc": 117600,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-11-11T16:50:46.000Z",
+    "rank_hs": 138156,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-11-11T16:50:52.000Z",
+    "created_at": "2023-11-12T10:58:13.000Z",
+    "updated_at": "2023-11-12T10:58:14.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:04:27.882Z"
+}
