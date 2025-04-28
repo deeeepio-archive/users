@@ -1,0 +1,71 @@
+{
+  "id": 21315062,
+  "username": "델리",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-30T09:10:51.000Z",
+  "date_last_played": "2025-03-29T09:41:20.000Z",
+  "profile_views": 2179,
+  "kill_count": 4983,
+  "play_count": 3251,
+  "highest_score": 7256257,
+  "picture": "21315062-10a0bccfca332eef2245cc3d218fa4868-f39e2adf-d25f-4dc0-b182-c08461ca815b.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 81,
+  "tier": 10,
+  "xp": 1446150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 91204,
+      "user_id": 21315062,
+      "platform_id": "dc",
+      "platform_user_id": "도넛가게",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-30T11:15:54.000Z",
+      "updated_at": "2024-01-30T11:16:10.000Z"
+    },
+    {
+      "id": 28565,
+      "user_id": 21315062,
+      "platform_id": "qq",
+      "platform_user_id": ":3",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-10-25T09:15:17.000Z",
+      "updated_at": "2023-10-25T11:44:29.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21315062,
+    "rank_kc": 6258,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-04T15:01:31.000Z",
+    "rank_pc": 2975,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-04T15:01:36.000Z",
+    "rank_hs": 4211,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-04T15:01:40.000Z",
+    "created_at": "2025-03-29T09:41:20.000Z",
+    "updated_at": "2025-03-29T09:41:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:03:59.439Z"
+}
