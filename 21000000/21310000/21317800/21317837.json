@@ -1,0 +1,61 @@
+{
+  "id": 21317837,
+  "username": "카페람쥐",
+  "description": "트위치에서 그림그리는(다른 사람들에 의한) 카페람쥐입니다\n리퀘 받아요",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-12T10:30:33.000Z",
+  "date_last_played": "2023-10-17T10:09:04.000Z",
+  "profile_views": 27,
+  "kill_count": 79,
+  "play_count": 243,
+  "highest_score": 1169912,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 41,
+  "tier": 2,
+  "xp": 27150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26355,
+      "user_id": 21317837,
+      "platform_id": "tc",
+      "platform_user_id": "caferamg_0408",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-12T10:49:34.000Z",
+      "updated_at": "2023-09-12T10:49:34.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21317837,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T03:21:23.756Z",
+    "updated_at": "2025-04-28T03:21:24.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:21:23.872Z"
+}
