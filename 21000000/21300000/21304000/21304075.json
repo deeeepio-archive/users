@@ -1,0 +1,61 @@
+{
+  "id": 21304075,
+  "username": "Momero26",
+  "description": "( ͡° ͜ʖ ͡°)",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-05T17:45:23.000Z",
+  "date_last_played": "2023-07-11T16:40:25.000Z",
+  "profile_views": 3,
+  "kill_count": 2,
+  "play_count": 29,
+  "highest_score": 175607,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 2,
+  "tier": 1,
+  "xp": 1050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 22139,
+      "user_id": 21304075,
+      "platform_id": "ig",
+      "platform_user_id": "ElPatoPatatoso",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-05T18:37:38.000Z",
+      "updated_at": "2023-07-05T18:37:38.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21304075,
+    "rank_kc": 381090,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-05T18:11:50.000Z",
+    "rank_pc": 249545,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-05T18:11:51.000Z",
+    "rank_hs": 252519,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-07-05T18:11:51.000Z",
+    "created_at": "2023-07-11T16:40:24.000Z",
+    "updated_at": "2023-07-11T16:40:25.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:51:15.838Z"
+}
