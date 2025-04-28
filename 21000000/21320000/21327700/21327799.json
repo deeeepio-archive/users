@@ -1,0 +1,71 @@
+{
+  "id": 21327799,
+  "username": "ranbyghurb",
+  "description": "ran by ghurb and mahdi",
+  "about": "ran by ghurb",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-10-28T17:39:26.000Z",
+  "date_last_played": "2024-01-19T14:50:33.000Z",
+  "profile_views": 349,
+  "kill_count": 2514,
+  "play_count": 1835,
+  "highest_score": 3341647,
+  "picture": "21327799-6478e536bb3d3bf23261610b9ccf9ab90.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 8,
+  "tier": 7,
+  "xp": 610050,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 32211,
+      "user_id": 21327799,
+      "platform_id": "dc",
+      "platform_user_id": "ghurblol",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-19T19:13:42.000Z",
+      "updated_at": "2024-01-19T19:13:42.000Z"
+    },
+    {
+      "id": 32212,
+      "user_id": 21327799,
+      "platform_id": "dc",
+      "platform_user_id": "mahdi1337",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-19T19:13:48.000Z",
+      "updated_at": "2024-01-19T19:13:48.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21327799,
+    "rank_kc": 13000,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-16T04:41:32.000Z",
+    "rank_pc": 6557,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-16T04:41:33.000Z",
+    "rank_hs": 18024,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-16T04:41:34.000Z",
+    "created_at": "2024-01-19T14:50:33.000Z",
+    "updated_at": "2024-01-19T14:50:33.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T04:27:12.765Z"
+}
