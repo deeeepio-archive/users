@@ -1,0 +1,97 @@
+{
+  "id": 21311832,
+  "username": "Cookie_Fish",
+  "description": "U mad bro ?\n",
+  "about": "I am a noob\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-08-15T11:01:01.000Z",
+  "date_last_played": "2023-12-02T15:43:33.000Z",
+  "profile_views": 89,
+  "kill_count": 1214,
+  "play_count": 1216,
+  "highest_score": 1330383,
+  "picture": "21311832-39a1082e199462e8cc96bba4f72a8d9b6.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 124,
+  "tier": 4,
+  "xp": 184500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21311832,
+    "rank_kc": 24353,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-10-30T11:01:03.000Z",
+    "rank_pc": 10726,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-10-30T11:01:04.000Z",
+    "rank_hs": 67827,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-10-29T12:14:35.000Z",
+    "created_at": "2023-12-02T15:43:32.000Z",
+    "updated_at": "2023-12-02T15:43:33.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12704,
+          "user_id": 21311832,
+          "cloneof_id": null,
+          "string_id": "my_map_isnt_cool",
+          "title": "PvPvPvP...",
+          "description": "a",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 75,
+          "created_at": "2023-08-15T12:06:59.000Z",
+          "updated_at": "2023-08-15T12:07:39.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21311832,
+            "username": "Cookie_Fish",
+            "description": "U mad bro ?\n",
+            "about": "I am a noob\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2023-08-15T11:01:01.000Z",
+            "date_last_played": "2023-12-02T15:43:33.000Z",
+            "kill_count": 1214,
+            "play_count": 1216,
+            "highest_score": 1330383,
+            "picture": "21311832-39a1082e199462e8cc96bba4f72a8d9b6.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 124,
+            "tier": 4,
+            "xp": 184500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "a"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:41:55.700Z"
+}
