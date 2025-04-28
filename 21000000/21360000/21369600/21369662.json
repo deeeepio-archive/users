@@ -1,0 +1,61 @@
+{
+  "id": 21369662,
+  "username": "SaltyFish",
+  "description": "好好吃:D",
+  "about": "恩 我很爛 :>",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-06-03T12:46:05.000Z",
+  "date_last_played": "2024-10-10T05:31:38.000Z",
+  "profile_views": 145,
+  "kill_count": 1002,
+  "play_count": 504,
+  "highest_score": 1595393,
+  "picture": "21369662-71d956c0940672d8339c12ca33868f21-23eb07ab-80cd-4e7f-8d55-782520c281af.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 57,
+  "tier": 4,
+  "xp": 200550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 95945,
+      "user_id": 21369662,
+      "platform_id": "dc",
+      "platform_user_id": "brt3726",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-06-28T08:53:47.000Z",
+      "updated_at": "2024-06-28T08:53:47.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21369662,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-10-10T05:31:38.000Z",
+    "updated_at": "2024-10-10T05:31:38.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T09:26:45.181Z"
+}
