@@ -1,0 +1,61 @@
+{
+  "id": 21289140,
+  "username": "broid",
+  "description": "i love u \n",
+  "about": "hi\n\n\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-05-06T16:28:36.000Z",
+  "date_last_played": "2024-12-18T20:07:05.000Z",
+  "profile_views": 247,
+  "kill_count": 1124,
+  "play_count": 838,
+  "highest_score": 3405371,
+  "picture": "21289140-2106c0a4fcfae4c9aa1747102191da840f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 309,
+  "tier": 5,
+  "xp": 259500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31926,
+      "user_id": 21289140,
+      "platform_id": "dc",
+      "platform_user_id": "zeewuga2.0",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-01-12T23:29:49.000Z",
+      "updated_at": "2024-01-12T23:29:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21289140,
+    "rank_kc": 47376,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-18T12:41:33.000Z",
+    "rank_pc": 30730,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-18T12:41:37.000Z",
+    "rank_hs": 81470,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-18T12:41:40.000Z",
+    "created_at": "2024-12-18T20:07:05.000Z",
+    "updated_at": "2024-12-18T20:07:05.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T00:09:47.962Z"
+}
