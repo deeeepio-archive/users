@@ -1,0 +1,50 @@
+{
+  "id": 21300883,
+  "username": "KILLJOY",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-20T10:22:04.000Z",
+  "date_last_played": "2023-06-27T11:36:07.000Z",
+  "profile_views": 5,
+  "kill_count": 2,
+  "play_count": 40,
+  "highest_score": 168893,
+  "picture": "21300883-b952bf3d1f19e3b70f784f1631c271ae.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21300883,
+    "rank_kc": 349724,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-06-22T11:25:15.000Z",
+    "rank_pc": 113007,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-06-22T11:25:18.000Z",
+    "rank_hs": 255265,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-06-22T11:25:22.000Z",
+    "created_at": "2023-06-27T11:36:07.000Z",
+    "updated_at": "2023-06-27T11:36:07.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:30:02.399Z"
+}
