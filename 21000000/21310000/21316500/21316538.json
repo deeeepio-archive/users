@@ -1,0 +1,61 @@
+{
+  "id": 21316538,
+  "username": "AkaneKurokawa",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-09-06T12:14:46.000Z",
+  "date_last_played": "2023-09-07T08:06:11.000Z",
+  "profile_views": 228,
+  "kill_count": 0,
+  "play_count": 1,
+  "highest_score": 22371393,
+  "picture": "21316538-c96b9898e14d5ef36c9bf15365e3526a.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 308,
+  "tier": 2,
+  "xp": 44700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 26036,
+      "user_id": 21316538,
+      "platform_id": "tw",
+      "platform_user_id": "akanecco2323",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-09-06T12:15:09.000Z",
+      "updated_at": "2023-09-06T12:15:09.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21316538,
+    "rank_kc": 444788,
+    "rank_kc_dirty": false,
+    "rank_kc_updated_at": "2023-11-03T14:34:31.000Z",
+    "rank_pc": 334398,
+    "rank_pc_dirty": false,
+    "rank_pc_updated_at": "2023-11-03T14:35:08.000Z",
+    "rank_hs": 1234,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-11-03T14:35:37.000Z",
+    "created_at": "2023-11-14T13:41:57.000Z",
+    "updated_at": "2023-11-03T14:35:37.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T03:13:11.142Z"
+}
