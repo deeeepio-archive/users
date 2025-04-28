@@ -1,0 +1,71 @@
+{
+  "id": 21306612,
+  "username": "Mohamedmath",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-18T12:33:08.000Z",
+  "date_last_played": "2024-08-30T11:05:42.000Z",
+  "profile_views": 148,
+  "kill_count": 151,
+  "play_count": 521,
+  "highest_score": 467721,
+  "picture": "21306612-5624ea920a66e9ba5f39c3b82d097699.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 153,
+  "tier": 2,
+  "xp": 40200,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 23846,
+      "user_id": 21306612,
+      "platform_id": "fb",
+      "platform_user_id": "Mohamed mathlouthi",
+      "platform_user_url": "https://www.facebook.com/profile.php?id=100032963103704&mibextid=ZbWKwL",
+      "verified": false,
+      "created_at": "2023-08-03T21:40:57.000Z",
+      "updated_at": "2023-08-03T21:40:57.000Z"
+    },
+    {
+      "id": 23848,
+      "user_id": 21306612,
+      "platform_id": "ig",
+      "platform_user_id": "Mohamed mathlouthi",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-08-03T21:52:39.000Z",
+      "updated_at": "2023-08-03T21:52:39.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21306612,
+    "rank_kc": 128611,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-08-04T00:54:38.000Z",
+    "rank_pc": 42202,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-08-04T00:54:39.000Z",
+    "rank_hs": 154799,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2023-08-04T00:54:40.000Z",
+    "created_at": "2024-08-30T11:05:42.000Z",
+    "updated_at": "2024-08-30T11:05:42.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T02:07:53.732Z"
+}
