@@ -1,0 +1,149 @@
+{
+  "id": 21390362,
+  "username": "WhaleOfATime",
+  "description": "So long, and thanks for all the fish.\n\n~ Douglas Adams",
+  "about": "Known As:\nSomethingFishy,\n\\>=<{{{{o> (this is an ASCII fish XD)\nWhaleOfATime (whales),\nPerchance to Dream (sleeper only)\nYeeeet.io (orca only)",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-11-19T14:14:24.000Z",
+  "date_last_played": "2025-03-24T19:00:20.000Z",
+  "profile_views": 405,
+  "kill_count": 907,
+  "play_count": 935,
+  "highest_score": 2283413,
+  "picture": "21390362-bea249d5b108c808a510bb1b11081910cd34-1fbd0d46-9079-4543-a1fd-7e1b0dd1ebd3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 263,
+  "tier": 5,
+  "xp": 303600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21390362,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-24T19:00:19.000Z",
+    "updated_at": "2025-03-24T19:00:20.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245058,
+          "user_id": 21390362,
+          "cloneof_id": 245053,
+          "string_id": "crab_haven_v2a",
+          "title": "Crab Haven v2a",
+          "description": "A haven for all crabs. Feedback appreciated.",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 73,
+          "created_at": "2025-01-06T18:19:07.000Z",
+          "updated_at": "2025-01-07T15:49:29.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21390362,
+            "username": "WhaleOfATime",
+            "description": "So long, and thanks for all the fish.\n\n~ Douglas Adams",
+            "about": "Known As:\nSomethingFishy,\n\\>=<{{{{o> (this is an ASCII fish XD)\nWhaleOfATime (whales),\nPerchance to Dream (sleeper only)\nYeeeet.io (orca only)",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-11-19T14:14:24.000Z",
+            "date_last_played": "2025-03-24T19:00:20.000Z",
+            "kill_count": 907,
+            "play_count": 935,
+            "highest_score": 2283413,
+            "picture": "21390362-bea249d5b108c808a510bb1b11081910cd34-1fbd0d46-9079-4543-a1fd-7e1b0dd1ebd3.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 263,
+            "tier": 5,
+            "xp": 303600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Crabs"
+            }
+          ]
+        },
+        {
+          "id": 244957,
+          "user_id": 21390362,
+          "cloneof_id": 244954,
+          "string_id": "crab_haven_public",
+          "title": "Crab Haven (public)",
+          "description": "Designed as a haven for all varieties of crab (First map)",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 90,
+          "created_at": "2024-12-11T00:02:57.000Z",
+          "updated_at": "2025-01-07T15:50:11.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21390362,
+            "username": "WhaleOfATime",
+            "description": "So long, and thanks for all the fish.\n\n~ Douglas Adams",
+            "about": "Known As:\nSomethingFishy,\n\\>=<{{{{o> (this is an ASCII fish XD)\nWhaleOfATime (whales),\nPerchance to Dream (sleeper only)\nYeeeet.io (orca only)",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-11-19T14:14:24.000Z",
+            "date_last_played": "2025-03-24T19:00:20.000Z",
+            "kill_count": 907,
+            "play_count": 935,
+            "highest_score": 2283413,
+            "picture": "21390362-bea249d5b108c808a510bb1b11081910cd34-1fbd0d46-9079-4543-a1fd-7e1b0dd1ebd3.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 263,
+            "tier": 5,
+            "xp": 303600,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Crab"
+            },
+            {
+              "id": "First"
+            },
+            {
+              "id": "Reef"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T12:01:22.430Z"
+}
