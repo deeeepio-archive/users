@@ -1,0 +1,61 @@
+{
+  "id": 21337733,
+  "username": "SelfishOriginal",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-11-29T22:45:37.000Z",
+  "date_last_played": "2024-12-19T00:57:22.000Z",
+  "profile_views": 415,
+  "kill_count": 2830,
+  "play_count": 364,
+  "highest_score": 911629,
+  "picture": "21337733-e568b710d72c64fa34dbbe7e4641b1eb7.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 80,
+  "tier": 4,
+  "xp": 246750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 31049,
+      "user_id": 21337733,
+      "platform_id": "dc",
+      "platform_user_id": "Brayan Maier#0773",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-12-21T00:12:58.000Z",
+      "updated_at": "2023-12-21T00:12:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21337733,
+    "rank_kc": 14959,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-19T16:26:50.000Z",
+    "rank_pc": 44742,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-19T16:27:15.000Z",
+    "rank_hs": 102248,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-19T15:48:25.000Z",
+    "created_at": "2024-12-19T00:57:21.000Z",
+    "updated_at": "2024-12-19T00:57:22.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T05:34:52.800Z"
+}
