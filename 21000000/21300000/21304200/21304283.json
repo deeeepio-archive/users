@@ -1,0 +1,61 @@
+{
+  "id": 21304283,
+  "username": "Instagram",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-07-06T21:04:21.000Z",
+  "date_last_played": "2023-12-16T22:36:34.000Z",
+  "profile_views": 8,
+  "kill_count": 1,
+  "play_count": 5,
+  "highest_score": 103180,
+  "picture": "21304283-1de7bbfb9f206ba682c3ba5ef850018c.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 11,
+  "tier": 1,
+  "xp": 150,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 22296,
+      "user_id": 21304283,
+      "platform_id": "ig",
+      "platform_user_id": "Instagram",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-07-06T21:04:36.000Z",
+      "updated_at": "2023-07-06T21:04:36.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21304283,
+    "rank_kc": 428123,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-07-06T21:05:35.000Z",
+    "rank_pc": 341830,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-07-06T21:05:36.000Z",
+    "rank_hs": 572386,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-07-06T21:05:38.000Z",
+    "created_at": "2023-12-16T22:36:34.000Z",
+    "updated_at": "2023-12-16T22:36:34.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:52:25.749Z"
+}
