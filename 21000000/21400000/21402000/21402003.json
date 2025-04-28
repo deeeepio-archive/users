@@ -1,0 +1,97 @@
+{
+  "id": 21402003,
+  "username": "DiNo🦖🦕",
+  "description": ":(\n",
+  "about": "привет всем! hi all!",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-02-22T18:41:07.000Z",
+  "date_last_played": "2025-02-22T20:36:54.000Z",
+  "profile_views": 10,
+  "kill_count": 11,
+  "play_count": 14,
+  "highest_score": 282476,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 3000,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21402003,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T13:25:34.707Z",
+    "updated_at": "2025-04-28T13:25:35.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 245214,
+          "user_id": 21402003,
+          "cloneof_id": null,
+          "string_id": "12bdf",
+          "title": "world мир",
+          "description": "survival выживание",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 18,
+          "created_at": "2025-02-22T19:37:56.000Z",
+          "updated_at": "2025-02-23T10:38:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21402003,
+            "username": "DiNo🦖🦕",
+            "description": ":(\n",
+            "about": "привет всем! hi all!",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2025-02-22T18:41:07.000Z",
+            "date_last_played": "2025-02-22T20:36:54.000Z",
+            "kill_count": 11,
+            "play_count": 14,
+            "highest_score": 282476,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 3000,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": ":)"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T13:25:34.760Z"
+}
