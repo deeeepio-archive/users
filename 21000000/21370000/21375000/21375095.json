@@ -1,0 +1,50 @@
+{
+  "id": 21375095,
+  "username": "Skeegull",
+  "description": "You are most likely trying to survive or reach a higher level. Well, so am I, and everyone else, and sometimes, in Deeeep.io, we have to kill to achieve that. Be more careful next time.",
+  "about": "<!doctype html>\n<html style = \"background:#006464\">\n<head>\n<title> About Me </title>\n<head>\n<body>\n<script>\nfunction reveal() {\nalert(\"I Like Fish\");\nsetTimeout(reveal, 1)\n}\n</script>\n<button type = \"button\" onclick = reveal()>Click Me</button>\n</html>",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-07-19T20:08:08.000Z",
+  "date_last_played": "2025-03-22T12:53:54.000Z",
+  "profile_views": 107,
+  "kill_count": 82,
+  "play_count": 621,
+  "highest_score": 852030,
+  "picture": "21375095-34529554cd5ecab6d4d1b4bed1c10c86-5f782413-06a4-44f1-aaac-0ee10a7b2c67.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 29,
+  "tier": 2,
+  "xp": 47100,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21375095,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-03-22T12:53:53.000Z",
+    "updated_at": "2025-03-22T12:53:54.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T10:13:29.216Z"
+}
