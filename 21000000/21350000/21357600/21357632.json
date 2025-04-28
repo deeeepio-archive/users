@@ -1,0 +1,61 @@
+{
+  "id": 21357632,
+  "username": "lznyx_",
+  "description": "",
+  "about": "",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-03-10T01:51:22.000Z",
+  "date_last_played": "2024-04-02T01:06:03.000Z",
+  "profile_views": 913,
+  "kill_count": 1035,
+  "play_count": 152,
+  "highest_score": 22227126,
+  "picture": "21357632-6ea53da63e7c841364910ed99b82ead100.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 117,
+  "tier": 5,
+  "xp": 290550,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 93389,
+      "user_id": 21357632,
+      "platform_id": "yt",
+      "platform_user_id": "@@",
+      "platform_user_url": "https://www.youtube.com/watch?v=iGrN7Gb8DtI",
+      "verified": false,
+      "created_at": "2024-03-31T15:20:12.000Z",
+      "updated_at": "2024-03-31T22:30:02.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21357632,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-04-02T03:00:03.000Z",
+    "updated_at": "2024-04-02T03:00:04.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:51:40.352Z"
+}
