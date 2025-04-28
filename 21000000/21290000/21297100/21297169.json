@@ -1,0 +1,71 @@
+{
+  "id": 21297169,
+  "username": "CoraComics",
+  "description": "gg.",
+  "about": "Follow me here: https://comic.studio/u/CoraCreatingComics\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-04T17:17:29.000Z",
+  "date_last_played": "2023-06-04T17:38:10.000Z",
+  "profile_views": 2,
+  "kill_count": 0,
+  "play_count": 5,
+  "highest_score": 74545,
+  "picture": "21297169-266cddeba1e7a91d10a6ad71f413d2e2f.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 20367,
+      "user_id": 21297169,
+      "platform_id": "dc",
+      "platform_user_id": "@CoraComics#0561",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-04T17:24:37.000Z",
+      "updated_at": "2023-06-04T17:24:37.000Z"
+    },
+    {
+      "id": 20366,
+      "user_id": 21297169,
+      "platform_id": "yt",
+      "platform_user_id": "CoraCreates",
+      "platform_user_url": "https://www.youtube.com/channel/UCPehh6WLmBp-baPxZFJk4lg",
+      "verified": false,
+      "created_at": "2023-06-04T17:23:49.000Z",
+      "updated_at": "2023-06-04T17:23:49.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21297169,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-04-28T01:05:52.417Z",
+    "updated_at": "2025-04-28T01:05:52.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:05:52.504Z"
+}
