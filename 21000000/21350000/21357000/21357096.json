@@ -1,0 +1,61 @@
+{
+  "id": 21357096,
+  "username": "ThatOtherAlex",
+  "description": "The silly orang goober has murdered you",
+  "about": "silly goober",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2024-03-07T08:08:56.000Z",
+  "date_last_played": "2024-04-25T14:09:32.000Z",
+  "profile_views": 61,
+  "kill_count": 111,
+  "play_count": 107,
+  "highest_score": 3013663,
+  "picture": "21357096-8e4a95410bd7aed4a15c1ab8044cb10017.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 31,
+  "tier": 2,
+  "xp": 41400,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 92731,
+      "user_id": 21357096,
+      "platform_id": "dc",
+      "platform_user_id": "ThatOtherAlex",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-03-10T13:49:18.000Z",
+      "updated_at": "2024-03-10T13:49:18.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21357096,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2024-04-25T14:09:32.000Z",
+    "updated_at": "2024-04-25T14:09:32.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T07:48:09.947Z"
+}
