@@ -1,0 +1,71 @@
+{
+  "id": 21301163,
+  "username": "__X__",
+  "description": "X",
+  "about": "JS所屬？",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2023-06-21T12:00:27.000Z",
+  "date_last_played": "2024-09-05T10:13:03.000Z",
+  "profile_views": 2718,
+  "kill_count": 3806,
+  "play_count": 2196,
+  "highest_score": 7641121,
+  "picture": "21301163-1b59ab4f3e19b199eb8a677daf4b288f-3428425c-5ae8-4ae0-b8ce-9d85b6ae051e.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 21,
+  "tier": 10,
+  "xp": 1446450,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 98091,
+      "user_id": 21301163,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.gg/pGw4C7sJBX",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-29T04:04:45.000Z",
+      "updated_at": "2024-08-29T04:04:45.000Z"
+    },
+    {
+      "id": 98301,
+      "user_id": 21301163,
+      "platform_id": "dc",
+      "platform_user_id": "souji2011_72557",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-09-04T14:22:07.000Z",
+      "updated_at": "2024-09-04T14:22:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21301163,
+    "rank_kc": 24064,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-21T05:55:20.000Z",
+    "rank_pc": 14751,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-21T05:55:22.000Z",
+    "rank_hs": 9909,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2024-01-21T05:55:23.000Z",
+    "created_at": "2024-09-05T10:13:03.000Z",
+    "updated_at": "2024-09-05T10:13:03.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-04-28T01:32:00.611Z"
+}
