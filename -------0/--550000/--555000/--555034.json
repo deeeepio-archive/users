@@ -1,13 +1,13 @@
 {
   "id": 555034,
-  "username": "kamilb_784",
+  "username": "Jika",
   "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2019-01-25T23:38:28.000Z",
   "date_last_played": "2021-01-12T20:42:14.000Z",
-  "profile_views": 0,
+  "profile_views": 7,
   "kill_count": 402,
   "play_count": 0,
   "highest_score": 1371975,
@@ -26,17 +26,17 @@
   "social_networks": [],
   "user_stats": {
     "user_id": 555034,
-    "rank_kc_dirty": true,
-    "rank_pc_dirty": true,
-    "rank_hs_dirty": true,
-    "created_at": "2025-04-24T06:18:26.830Z",
-    "updated_at": "2025-04-24T06:18:27.000Z",
     "rank_kc": null,
+    "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
     "rank_pc": null,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
+    "created_at": "2025-04-24T06:18:27.000Z",
+    "updated_at": "2025-04-24T06:18:27.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-24T06:18:26.889Z"
+  "archived_at": "2025-05-02T08:26:13.833Z"
 }
