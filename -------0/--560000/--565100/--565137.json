@@ -2,23 +2,23 @@
   "id": 565137,
   "username": "GooDragon",
   "description": "Roses are red\nViolets are blue\nYou have been .....",
-  "about": "Been playing since 2017. (I still suck tho.)\nKnow how to tiger solo. (don't defend fr.)\n1000 views!!!  🎉🎉🎉\nYou can tell when it's not my day. I play horribly\nHighest Score: AST 1249.241m on PD.",
+  "about": "Been playing since 2017. (I still suck tho.)\nKnow how to tiger solo. (don't defend fr.)\n1000 views!!!  🎉🎉🎉\nYou can tell when it's not my day. I play horribly\nHighest Score: AST 1249.241m on PD.\nTF happened with my social networks... (can't edit them)",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-03-17T23:03:40.000Z",
-  "date_last_played": "2025-04-23T01:31:02.000Z",
-  "profile_views": 1132,
-  "kill_count": 4487,
-  "play_count": 1757,
+  "date_last_played": "2025-05-02T03:32:40.000Z",
+  "profile_views": 1140,
+  "kill_count": 4493,
+  "play_count": 1761,
   "highest_score": 3315180,
   "picture": "565137.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1243,
+  "coins": 1283,
   "tier": 7,
-  "xp": 595650,
+  "xp": 601650,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -33,26 +33,6 @@
       "verified": false,
       "created_at": "2025-01-18T01:14:53.000Z",
       "updated_at": "2025-02-03T18:25:02.000Z"
-    },
-    {
-      "id": 102842,
-      "user_id": 565137,
-      "platform_id": "dc",
-      "platform_user_id": "Fun Fact: I've never had a 100% winrate on PD that is higher than 7 games. Another fun fact: I was a former conda main back when it released. Same goes for croc, except i still play it.",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-02-25T20:52:15.000Z",
-      "updated_at": "2025-02-28T20:05:34.000Z"
-    },
-    {
-      "id": 96860,
-      "user_id": 565137,
-      "platform_id": "dc",
-      "platform_user_id": "I accept all FFA 1v1 requests. (unless im not tier 10)",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2024-07-27T02:53:14.000Z",
-      "updated_at": "2025-02-25T20:39:58.000Z"
     },
     {
       "id": 96859,
@@ -73,6 +53,26 @@
       "verified": false,
       "created_at": "2024-07-27T02:50:02.000Z",
       "updated_at": "2025-04-21T02:10:08.000Z"
+    },
+    {
+      "id": 104224,
+      "user_id": 565137,
+      "platform_id": "dc",
+      "platform_user_id": "Ok, I think I might need to start playing the other gamemodes more LMAO",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-02T02:19:17.000Z",
+      "updated_at": "2025-05-02T02:19:17.000Z"
+    },
+    {
+      "id": 104223,
+      "user_id": 565137,
+      "platform_id": "dc",
+      "platform_user_id": "Ok, I think I might need to start playing the other gamemodes more LMAO.",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-02T02:18:25.000Z",
+      "updated_at": "2025-05-02T02:18:25.000Z"
     },
     {
       "id": 18657,
@@ -96,12 +96,12 @@
     "rank_hs": 45531,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-20T00:29:38.000Z",
-    "created_at": "2025-04-23T01:31:01.000Z",
-    "updated_at": "2025-04-23T01:31:02.000Z",
+    "created_at": "2025-05-02T03:32:39.000Z",
+    "updated_at": "2025-05-02T03:32:40.000Z",
     "pd": {
-      "played": 19,
-      "won": 13,
-      "ratio": 68
+      "played": 15,
+      "won": 10,
+      "ratio": 67
     }
   },
   "creations": {
@@ -111,5 +111,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-24T07:22:14.201Z"
+  "archived_at": "2025-05-02T10:04:35.062Z"
 }
