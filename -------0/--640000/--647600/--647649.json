@@ -1,17 +1,17 @@
 {
   "id": 647649,
-  "username": "_kat",
-  "description": "Isaiah 26:3 ✞",
-  "about": "retired",
+  "username": "HANU_GLAZER",
+  "description": "I only glaze my one and only Hanu.",
+  "about": "#1 HANU GLAZER",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-10-24T20:55:03.000Z",
   "date_last_played": "2025-04-14T19:42:54.000Z",
-  "profile_views": 6533,
+  "profile_views": 6657,
   "kill_count": 19233,
   "play_count": 2707,
   "highest_score": 4529426,
-  "picture": "647649-3108618c5ddf3a8e602fd43a1624520de-fd6338c1-b80d-4c57-9c4d-1915670f39de.png",
+  "picture": "647649-a45103c1a3b44f4c5e6cfb137e25d6b510-e4d0afaf-cd78-44fe-8642-bf7727d7f7cb.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
@@ -25,14 +25,34 @@
   "badges": [],
   "social_networks": [
     {
-      "id": 94383,
+      "id": 104061,
       "user_id": 647649,
-      "platform_id": "dc",
-      "platform_user_id": "_loque_",
+      "platform_id": "ig",
+      "platform_user_id": "i",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2024-05-02T19:53:21.000Z",
-      "updated_at": "2024-05-02T19:53:21.000Z"
+      "created_at": "2025-04-27T02:53:12.000Z",
+      "updated_at": "2025-04-27T20:41:27.000Z"
+    },
+    {
+      "id": 104060,
+      "user_id": 647649,
+      "platform_id": "tw",
+      "platform_user_id": "love",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-27T02:51:58.000Z",
+      "updated_at": "2025-04-27T20:41:32.000Z"
+    },
+    {
+      "id": 104062,
+      "user_id": 647649,
+      "platform_id": "wb",
+      "platform_user_id": "hanu",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-27T02:53:24.000Z",
+      "updated_at": "2025-04-27T02:53:24.000Z"
     }
   ],
   "user_stats": {
@@ -49,9 +69,9 @@
     "created_at": "2025-04-14T19:42:54.000Z",
     "updated_at": "2025-04-14T19:42:54.000Z",
     "pd": {
-      "played": 6,
-      "won": 3,
-      "ratio": 50
+      "played": 1,
+      "won": 0,
+      "ratio": 0
     }
   },
   "creations": {
@@ -61,5 +81,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-24T15:39:40.112Z"
+  "archived_at": "2025-05-02T23:14:12.285Z"
 }
