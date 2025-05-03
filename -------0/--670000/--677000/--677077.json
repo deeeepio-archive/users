@@ -1,24 +1,24 @@
 {
   "id": 677077,
   "username": "oxid",
-  "description": "nigger",
+  "description": "mad?",
   "about": "oxidated\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-01-01T07:19:27.000Z",
-  "date_last_played": "2025-04-12T00:00:05.000Z",
-  "profile_views": 266,
-  "kill_count": 4791,
-  "play_count": 1688,
+  "date_last_played": "2025-05-03T02:15:05.000Z",
+  "profile_views": 279,
+  "kill_count": 5028,
+  "play_count": 1794,
   "highest_score": 4104322,
   "picture": "677077-8f13144de026631cd2ab3897364e47bd-d3f320ab-ceb7-49dc-bc1a-e2eea8f95faf.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 239,
+  "coins": 418,
   "tier": 8,
-  "xp": 759900,
+  "xp": 839250,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -35,13 +35,9 @@
     "rank_hs": 12105,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-12-16T17:12:32.000Z",
-    "created_at": "2025-04-12T00:00:05.000Z",
-    "updated_at": "2025-04-12T00:00:05.000Z",
-    "pd": {
-      "played": 15,
-      "won": 8,
-      "ratio": 53
-    }
+    "created_at": "2025-05-03T02:15:05.000Z",
+    "updated_at": "2025-05-03T02:15:05.000Z",
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -50,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-24T18:44:50.228Z"
+  "archived_at": "2025-05-03T03:58:21.405Z"
 }
