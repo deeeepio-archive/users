@@ -1,15 +1,15 @@
 {
   "id": 680012,
   "username": "Classic",
-  "description": "sorry bb ly <3 :3",
+  "description": "aww man nice try, you did your best",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2020-01-11T00:06:58.000Z",
-  "date_last_played": "2025-01-06T17:31:05.000Z",
-  "profile_views": 12,
+  "date_last_played": "2025-05-01T17:46:08.000Z",
+  "profile_views": 14,
   "kill_count": 215,
-  "play_count": 188,
+  "play_count": 189,
   "highest_score": 657533,
   "picture": "680012-a96bc0c306fa5f42f6f2d8dd43a1f1e5.png",
   "displayPicture": false,
@@ -26,17 +26,17 @@
   "social_networks": [],
   "user_stats": {
     "user_id": 680012,
-    "rank_kc_dirty": true,
-    "rank_pc_dirty": true,
-    "rank_hs_dirty": true,
-    "created_at": "2025-04-24T19:04:02.026Z",
-    "updated_at": "2025-04-24T19:04:02.000Z",
     "rank_kc": null,
+    "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
     "rank_pc": null,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
+    "created_at": "2025-05-01T17:46:08.000Z",
+    "updated_at": "2025-05-01T17:46:08.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-24T19:04:02.083Z"
+  "archived_at": "2025-05-03T04:22:00.150Z"
 }
