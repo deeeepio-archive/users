@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2020-09-04T20:36:13.000Z",
   "date_last_played": "2025-01-15T17:40:01.000Z",
-  "profile_views": 66,
+  "profile_views": 67,
   "kill_count": 5335,
   "play_count": 1243,
   "highest_score": 3050391,
@@ -801,7 +801,7 @@
         "season": "valentines",
         "on_sale": true,
         "price": 25,
-        "sales": 1897,
+        "sales": 1912,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -852,7 +852,7 @@
         "season": "easter",
         "on_sale": true,
         "price": 10,
-        "sales": 1252,
+        "sales": 1282,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -888,5 +888,5 @@
       }
     ]
   },
-  "archived_at": "2025-04-25T04:57:08.304Z"
+  "archived_at": "2025-05-03T19:02:21.642Z"
 }

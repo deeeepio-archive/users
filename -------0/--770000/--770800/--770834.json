@@ -1,24 +1,24 @@
 {
   "id": 770834,
-  "username": "까를로스",
-  "description": "",
-  "about": null,
+  "username": "TRΩPICΔL",
+  "description": "𝚑𝚊𝚛𝚖𝚘𝚗𝚒𝚘𝚞𝚜",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-09-04T23:40:14.000Z",
-  "date_last_played": "2025-04-21T13:30:25.000Z",
-  "profile_views": 113,
-  "kill_count": 185,
-  "play_count": 75,
+  "date_last_played": "2025-05-03T15:00:06.000Z",
+  "profile_views": 163,
+  "kill_count": 279,
+  "play_count": 115,
   "highest_score": 3615316,
-  "picture": "770834.jpg",
+  "picture": "770834-3152eabef410914669da6e8ba9756347e-6f89e139-22ef-45c3-b53d-f6b7a5f4ded4.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 329,
+  "coins": 154,
   "tier": 2,
-  "xp": 46200,
+  "xp": 72450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-21T13:30:25.000Z",
-    "updated_at": "2025-04-21T13:30:25.000Z",
-    "pd": null
+    "created_at": "2025-05-03T15:00:06.000Z",
+    "updated_at": "2025-05-03T15:00:06.000Z",
+    "pd": {
+      "played": 4,
+      "won": 4,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T04:57:12.065Z"
+  "archived_at": "2025-05-03T19:02:24.553Z"
 }
