@@ -2,23 +2,23 @@
   "id": 662678,
   "username": "Rubydal",
   "description": "im sorri :\">",
-  "about": "I'm a Vietnamese player who mostly enjoys Pearl Defense :>\nBeing not a great player myself so i am still practisting ^^`\nAlligator Gar, Anaconda and Thresher are mainly used by me\nSorry if i seems clumsy sometimes TvT, my internet connection is not gud",
+  "about": "- I'm a Vietnamese player who mostly enjoys Pearl Defense :>\n- Im just coming back after awhile ^^`\n- Alligator Gar, Anaconda are mainly used by me\n- Sorry if i seems clumsy sometimes TvT, my internet connection is not gud",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-11-25T06:00:14.000Z",
-  "date_last_played": "2024-11-02T13:20:06.000Z",
-  "profile_views": 389,
-  "kill_count": 2198,
-  "play_count": 573,
+  "date_last_played": "2025-05-02T14:39:06.000Z",
+  "profile_views": 412,
+  "kill_count": 2289,
+  "play_count": 591,
   "highest_score": 1982541,
   "picture": "662678-fa18f5fcf3eb55d465ffb7c4c259bf6a-6595ba8d-c780-4865-88f1-c44f02efe814.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 9,
-  "tier": 4,
-  "xp": 238500,
+  "coins": 105,
+  "tier": 5,
+  "xp": 252900,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 84152,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-04-09T14:38:00.000Z",
-    "created_at": "2024-11-02T13:20:06.000Z",
-    "updated_at": "2024-11-02T13:20:06.000Z",
-    "pd": null
+    "created_at": "2025-05-02T14:39:05.000Z",
+    "updated_at": "2025-05-02T14:39:06.000Z",
+    "pd": {
+      "played": 18,
+      "won": 11,
+      "ratio": 61
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-24T17:11:52.077Z"
+  "archived_at": "2025-05-03T01:35:11.321Z"
 }
