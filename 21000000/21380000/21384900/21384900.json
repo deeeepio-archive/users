@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-09T16:57:13.000Z",
-  "date_last_played": "2025-04-25T16:23:37.000Z",
-  "profile_views": 1452,
-  "kill_count": 407,
-  "play_count": 979,
+  "date_last_played": "2025-05-08T15:29:12.000Z",
+  "profile_views": 1559,
+  "kill_count": 410,
+  "play_count": 993,
   "highest_score": 1074701,
   "picture": "21384900-4d68f6f56ed1012d6f105104f0c2b146881-092551aa-8bed-4e9e-8daf-6437535731d0.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 152,
+  "coins": 151,
   "tier": 3,
-  "xp": 89250,
+  "xp": 89850,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104524,
+      "user_id": 21384900,
+      "platform_id": "yt",
+      "platform_user_id": "Peak music",
+      "platform_user_url": "https://youtube.com/@chonnyjash?si=jX3I4ysOK6dDNaV9",
+      "verified": false,
+      "created_at": "2025-05-08T19:55:50.000Z",
+      "updated_at": "2025-05-08T19:55:50.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21384900,
     "rank_kc": null,
@@ -35,12 +46,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-25T16:23:36.000Z",
-    "updated_at": "2025-04-25T16:23:37.000Z",
+    "created_at": "2025-05-08T15:29:12.000Z",
+    "updated_at": "2025-05-08T15:29:12.000Z",
     "pd": {
-      "played": 10,
-      "won": 4,
-      "ratio": 40
+      "played": 8,
+      "won": 0,
+      "ratio": 0
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T11:24:37.636Z"
+  "archived_at": "2025-05-09T06:41:07.453Z"
 }
