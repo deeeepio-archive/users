@@ -1,24 +1,24 @@
 {
   "id": 20777900,
-  "username": "ㅤㅤㅤㅤFantahㅤㅤㅤㅤㅤ",
+  "username": "cetia",
   "description": "",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-11-11T07:44:50.000Z",
-  "date_last_played": "2025-04-25T18:45:29.000Z",
-  "profile_views": 1580,
-  "kill_count": 7697,
-  "play_count": 1242,
+  "date_last_played": "2025-05-03T02:24:57.000Z",
+  "profile_views": 1838,
+  "kill_count": 9061,
+  "play_count": 1378,
   "highest_score": 12908678,
   "picture": "20777900-3deed5a91a28eb9b0fe7164710ed6bb27-e1fd5372-c187-4c57-a9f9-c3b61820bbfb.png",
   "displayPicture": true,
   "active": true,
-  "ban_message": null,
-  "ban_at": null,
-  "coins": 1933,
+  "ban_message": "Client usage, banned until 03/06/25",
+  "ban_at": "2025-05-03T15:48:08.000Z",
+  "coins": 3934,
   "tier": 10,
-  "xp": 1835250,
+  "xp": 2210400,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": 1917,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-11T21:11:52.000Z",
-    "created_at": "2025-04-25T18:45:28.000Z",
-    "updated_at": "2025-04-25T18:45:29.000Z",
+    "created_at": "2025-05-03T02:24:57.000Z",
+    "updated_at": "2025-05-03T02:24:57.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T19:05:22.968Z"
+  "archived_at": "2025-05-09T02:32:37.049Z"
 }
