@@ -1,29 +1,40 @@
 {
   "id": 21362340,
   "username": "savaş",
-  "description": "Bye",
+  "description": "YO DEAD- EZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZES\n\n\n\n\n\n\nEZ... ",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-04-08T18:05:26.000Z",
-  "date_last_played": "2025-04-22T07:06:37.000Z",
-  "profile_views": 244,
-  "kill_count": 2808,
-  "play_count": 2614,
+  "date_last_played": "2025-05-02T06:46:17.000Z",
+  "profile_views": 256,
+  "kill_count": 2830,
+  "play_count": 2618,
   "highest_score": 2829230,
   "picture": "21362340-4189523c3ee10bb6eed4a13b7977f223c-f5ef6010-9b46-4299-ab35-d03acd4b6811.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 75,
+  "coins": 82,
   "tier": 8,
-  "xp": 871500,
+  "xp": 872550,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104287,
+      "user_id": 21362340,
+      "platform_id": "ig",
+      "platform_user_id": "Kadirozgurtaylan",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-03T15:42:13.000Z",
+      "updated_at": "2025-05-03T15:42:13.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21362340,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-22T07:06:36.000Z",
-    "updated_at": "2025-04-22T07:06:37.000Z",
+    "created_at": "2025-05-02T06:46:17.000Z",
+    "updated_at": "2025-05-02T06:46:17.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T08:27:50.278Z"
+  "archived_at": "2025-05-09T06:33:25.349Z"
 }
