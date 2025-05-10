@@ -1,12 +1,12 @@
 {
-  "id": 859980,
-  "username": "5284700_840",
+  "id": 859986,
+  "username": "8434432_375",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2021-01-11T16:21:51.000Z",
-  "date_last_played": "2021-01-11T16:21:51.000Z",
+  "date_created": "2021-01-11T16:22:53.000Z",
+  "date_last_played": "2021-01-11T16:22:53.000Z",
   "profile_views": 0,
   "kill_count": 0,
   "play_count": 0,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 859980,
-    "rank_kc": null,
+    "user_id": 859986,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-05-10T00:52:41.186Z",
+    "updated_at": "2025-05-10T00:52:41.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-03T23:59:30.000Z",
-    "updated_at": "2025-05-03T23:59:30.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-10T00:52:40.592Z"
+  "archived_at": "2025-05-10T00:52:41.247Z"
 }
