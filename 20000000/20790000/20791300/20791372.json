@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2022-01-12T11:00:16.000Z",
-  "date_last_played": "2025-03-06T11:28:39.000Z",
-  "profile_views": 1137,
-  "kill_count": 13897,
-  "play_count": 4745,
+  "date_last_played": "2025-05-10T12:03:35.000Z",
+  "profile_views": 1153,
+  "kill_count": 13916,
+  "play_count": 4754,
   "highest_score": 4401656,
   "picture": "20791372-3ba7b932b6834234658ac102b829417b6.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 294,
+  "coins": 331,
   "tier": 10,
-  "xp": 2100450,
+  "xp": 2106000,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,16 +33,6 @@
       "verified": false,
       "created_at": "2024-10-05T09:14:33.000Z",
       "updated_at": "2024-10-05T09:14:33.000Z"
-    },
-    {
-      "id": 99068,
-      "user_id": 20791372,
-      "platform_id": "rd",
-      "platform_user_id": "u/LashawndaGandara",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2024-10-05T09:14:51.000Z",
-      "updated_at": "2024-10-05T09:14:51.000Z"
     }
   ],
   "user_stats": {
@@ -56,9 +46,13 @@
     "rank_hs": 8336,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2022-10-17T04:07:53.000Z",
-    "created_at": "2025-03-06T11:28:39.000Z",
-    "updated_at": "2025-03-06T11:28:39.000Z",
-    "pd": null
+    "created_at": "2025-05-10T12:03:35.000Z",
+    "updated_at": "2025-05-10T12:03:35.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -67,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T20:26:44.623Z"
+  "archived_at": "2025-05-11T22:23:08.129Z"
 }
