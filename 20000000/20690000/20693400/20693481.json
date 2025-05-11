@@ -6,24 +6,34 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-02-16T12:35:13.000Z",
-  "date_last_played": "2025-04-24T18:53:02.000Z",
-  "profile_views": 703,
-  "kill_count": 5470,
-  "play_count": 3504,
+  "date_last_played": "2025-05-11T03:57:02.000Z",
+  "profile_views": 714,
+  "kill_count": 5499,
+  "play_count": 3543,
   "highest_score": 4556975,
   "picture": "20693481-daf63ca25dc28810cd6975879cecf36d4-c78e4dae-2e5a-48ba-9ae1-7b744fbeabcf.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1249,
+  "coins": 360,
   "tier": 10,
-  "xp": 1547700,
+  "xp": 1564350,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
+    {
+      "id": 104305,
+      "user_id": 20693481,
+      "platform_id": "dc",
+      "platform_user_id": "<BLU>💎VIB Beast💎",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-03T17:58:18.000Z",
+      "updated_at": "2025-05-06T03:16:21.000Z"
+    },
     {
       "id": 103093,
       "user_id": 20693481,
@@ -56,13 +66,9 @@
     "rank_hs": 44057,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-07-22T10:12:31.000Z",
-    "created_at": "2025-04-24T18:53:02.000Z",
-    "updated_at": "2025-04-24T18:53:02.000Z",
-    "pd": {
-      "played": 30,
-      "won": 14,
-      "ratio": 47
-    }
+    "created_at": "2025-05-11T03:57:01.000Z",
+    "updated_at": "2025-05-11T03:57:02.000Z",
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -71,5 +77,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T10:18:18.982Z"
+  "archived_at": "2025-05-11T10:10:39.519Z"
 }
