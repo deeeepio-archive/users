@@ -1,0 +1,97 @@
+{
+  "id": 14005371,
+  "username": "Rusty_Cage",
+  "description": "dude don't be upset okay?\r\nI'm sorry it's just that i'm learning to become aggressive in this game still so that i get more coins and survive longer so i'm sorry.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-18T17:23:33.000Z",
+  "date_last_played": "2021-01-30T22:07:58.000Z",
+  "profile_views": 0,
+  "kill_count": 312,
+  "play_count": 236,
+  "highest_score": 697312,
+  "picture": "14005371.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 25,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 14005371,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-05-11T04:06:15.571Z",
+    "updated_at": "2025-05-11T04:06:16.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5627,
+          "user_id": 14005371,
+          "cloneof_id": null,
+          "string_id": "re101_ttl83873",
+          "title": "NONODON'TTOUCHMETHERE",
+          "description": "HEHEHE NO TOUCHIES",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 64,
+          "created_at": "2021-01-19T18:58:15.000Z",
+          "updated_at": "2021-01-19T21:38:18.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 14005371,
+            "username": "Rusty_Cage",
+            "description": "dude don't be upset okay?\r\nI'm sorry it's just that i'm learning to become aggressive in this game still so that i get more coins and survive longer so i'm sorry.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-18T17:23:33.000Z",
+            "date_last_played": "2021-01-30T22:07:58.000Z",
+            "kill_count": 312,
+            "play_count": 236,
+            "highest_score": 697312,
+            "picture": "14005371.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 25,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "MOM/DAD"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-05-11T04:06:15.633Z"
+}
