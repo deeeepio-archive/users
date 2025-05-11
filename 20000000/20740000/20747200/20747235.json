@@ -2,39 +2,28 @@
   "id": 20747235,
   "username": "Vhayy",
   "description": "",
-  "about": "Locked in Alien",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-07-29T13:07:56.000Z",
-  "date_last_played": "2025-04-25T13:43:30.000Z",
-  "profile_views": 7043,
-  "kill_count": 25826,
-  "play_count": 7940,
+  "date_last_played": "2025-05-08T13:29:01.000Z",
+  "profile_views": 7092,
+  "kill_count": 25870,
+  "play_count": 7954,
   "highest_score": 16000245,
   "picture": "20747235-0345a52dabb978cd4f105ef4535831239-c44a30e3-b55d-45b6-ba53-c3f3b02b5f99.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 22169,
+  "coins": 22279,
   "tier": 10,
-  "xp": 6625950,
+  "xp": 6642450,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 101346,
-      "user_id": 20747235,
-      "platform_id": "dc",
-      "platform_user_id": "zolax2106",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2024-12-23T01:27:49.000Z",
-      "updated_at": "2024-12-23T01:27:49.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 20747235,
     "rank_kc": 745,
@@ -46,8 +35,8 @@
     "rank_hs": 1594,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T09:17:51.000Z",
-    "created_at": "2025-04-25T13:43:30.000Z",
-    "updated_at": "2025-04-25T13:43:30.000Z",
+    "created_at": "2025-05-08T13:29:00.000Z",
+    "updated_at": "2025-05-08T13:29:01.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T15:46:04.675Z"
+  "archived_at": "2025-05-11T16:57:50.483Z"
 }
