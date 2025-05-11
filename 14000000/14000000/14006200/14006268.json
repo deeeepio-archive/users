@@ -1,0 +1,118 @@
+{
+  "id": 14006268,
+  "username": "BoomMagic",
+  "description": "Boom you died\" \n-by the hands of magic",
+  "about": "So what if I am bad? ",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-20T22:29:46.000Z",
+  "date_last_played": "2025-05-11T02:54:54.000Z",
+  "profile_views": 610,
+  "kill_count": 14653,
+  "play_count": 3966,
+  "highest_score": 9564748,
+  "picture": "14006268.jpg",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 3096,
+  "tier": 10,
+  "xp": 2740800,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 97878,
+      "user_id": 14006268,
+      "platform_id": "dc",
+      "platform_user_id": "boommagic",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-24T02:20:09.000Z",
+      "updated_at": "2024-08-24T02:20:09.000Z"
+    },
+    {
+      "id": 97877,
+      "user_id": 14006268,
+      "platform_id": "rd",
+      "platform_user_id": "Boomgoesmagic",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2024-08-24T02:19:26.000Z",
+      "updated_at": "2024-08-24T02:19:58.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 14006268,
+    "rank_kc": 3556,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2023-09-15T21:36:12.000Z",
+    "rank_pc": 6363,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2023-09-15T21:36:13.000Z",
+    "rank_hs": 3797,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": "2023-09-15T21:36:14.000Z",
+    "created_at": "2025-05-11T02:57:44.000Z",
+    "updated_at": "2025-05-11T02:57:45.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 12665,
+          "user_id": 14006268,
+          "cloneof_id": null,
+          "string_id": "prehistoric_cave",
+          "title": "Prehistoric Cave 1v1",
+          "description": "A prehistoric themed 1v1 map!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 38,
+          "created_at": "2023-08-04T14:09:01.000Z",
+          "updated_at": "2023-08-04T15:44:51.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 14006268,
+            "username": "BoomMagic",
+            "description": "Boom you died\" \n-by the hands of magic",
+            "about": "So what if I am bad? ",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-20T22:29:46.000Z",
+            "date_last_played": "2025-05-11T02:54:54.000Z",
+            "kill_count": 14653,
+            "play_count": 3966,
+            "highest_score": 9564748,
+            "picture": "14006268.jpg",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 3096,
+            "tier": 10,
+            "xp": 2740800,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "1v1"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "skins": []
+  },
+  "archived_at": "2025-05-11T04:16:41.157Z"
+}
