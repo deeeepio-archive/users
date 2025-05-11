@@ -1,24 +1,24 @@
 {
   "id": 20799109,
-  "username": "Ferca",
-  "description": "Older player",
+  "username": "Greco_",
+  "description": "",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-02-10T16:05:20.000Z",
-  "date_last_played": "2025-04-25T03:56:54.000Z",
-  "profile_views": 1082,
-  "kill_count": 4025,
-  "play_count": 2672,
+  "date_last_played": "2025-05-11T22:23:25.000Z",
+  "profile_views": 1103,
+  "kill_count": 4164,
+  "play_count": 2842,
   "highest_score": 9243350,
-  "picture": "20799109-102a261d743f33867c4f59b8533391e37-8461f7b0-fdd6-4037-96f7-6cc1afa3a3f2.png",
+  "picture": "20799109-9c7a9c9543c38c2d72c272856c008570-23423a03-cce4-4abe-aeb7-6a23a92edf8f.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1413,
+  "coins": 1867,
   "tier": 9,
-  "xp": 934500,
+  "xp": 1002600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": 4786,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-29T22:06:32.000Z",
-    "created_at": "2025-04-25T03:56:54.000Z",
-    "updated_at": "2025-04-25T03:56:54.000Z",
+    "created_at": "2025-05-11T22:23:24.000Z",
+    "updated_at": "2025-05-11T22:23:25.000Z",
     "pd": {
-      "played": 1,
-      "won": 0,
-      "ratio": 0
+      "played": 3,
+      "won": 1,
+      "ratio": 33
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T21:19:41.277Z"
+  "archived_at": "2025-05-11T23:14:38.727Z"
 }
