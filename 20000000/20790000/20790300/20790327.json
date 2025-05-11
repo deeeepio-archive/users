@@ -1,40 +1,29 @@
 {
   "id": 20790327,
   "username": "Blue_face",
-  "description": "if you see this answer this question, whats 1+1?\noh right you cant, your dead HAHA.",
+  "description": "pretend this is something motivational...\n\nanyways add me, i need more idiots to play with.",
   "about": "11/28/08\n\nyou might see me yelling alot in pearl def 😭🤣",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-01-06T17:27:49.000Z",
-  "date_last_played": "2025-04-23T01:16:33.000Z",
-  "profile_views": 564,
-  "kill_count": 2939,
-  "play_count": 3783,
+  "date_last_played": "2025-05-08T20:17:29.000Z",
+  "profile_views": 594,
+  "kill_count": 2977,
+  "play_count": 3864,
   "highest_score": 1797734,
   "picture": "20790327-6ad575259d3edb5a75f5862718a210748.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 524,
+  "coins": 558,
   "tier": 5,
-  "xp": 322200,
+  "xp": 340350,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 102918,
-      "user_id": 20790327,
-      "platform_id": "ig",
-      "platform_user_id": "ask for em.",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-03-01T14:03:37.000Z",
-      "updated_at": "2025-03-01T14:03:37.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 20790327,
     "rank_kc": 13221,
@@ -46,9 +35,13 @@
     "rank_hs": 48186,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-18T01:44:19.000Z",
-    "created_at": "2025-04-24T02:06:17.000Z",
-    "updated_at": "2025-04-24T02:06:18.000Z",
-    "pd": null
+    "created_at": "2025-05-08T20:17:29.000Z",
+    "updated_at": "2025-05-08T20:17:29.000Z",
+    "pd": {
+      "played": 8,
+      "won": 2,
+      "ratio": 25
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T20:20:24.748Z"
+  "archived_at": "2025-05-11T22:17:15.717Z"
 }
