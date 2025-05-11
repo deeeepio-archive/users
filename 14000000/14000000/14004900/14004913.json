@@ -1,0 +1,82 @@
+{
+  "id": 14004913,
+  "username": "Rem2",
+  "description": "cool death message",
+  "about": "\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-16T22:56:55.000Z",
+  "date_last_played": "2025-05-10T19:32:27.000Z",
+  "profile_views": 22737,
+  "kill_count": 131013,
+  "play_count": 9886,
+  "highest_score": 22372277,
+  "picture": "14004913-a60006e627fbc9d601068f5e014aeebe3.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 67069,
+  "tier": 10,
+  "xp": 10169700,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [
+    {
+      "id": 3,
+      "slug": "harmony-member",
+      "title": "Harmony Member"
+    },
+    {
+      "id": 7,
+      "slug": "crabinet-member",
+      "title": "Crabinet Member"
+    },
+    {
+      "id": 12,
+      "slug": "beta-tester",
+      "title": "Beta Tester"
+    },
+    {
+      "id": 13,
+      "slug": "forum-moderator",
+      "title": "Forum Moderator"
+    }
+  ],
+  "social_networks": [
+    {
+      "id": 21102,
+      "user_id": 14004913,
+      "platform_id": "dc",
+      "platform_user_id": "remmyremmington",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2023-06-16T06:40:38.000Z",
+      "updated_at": "2023-08-24T07:28:22.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 14004913,
+    "rank_kc": 8,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": "2024-01-20T02:59:29.000Z",
+    "rank_pc": 500,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": "2024-01-20T02:59:29.000Z",
+    "rank_hs": 1239,
+    "rank_hs_dirty": false,
+    "rank_hs_updated_at": "2024-01-20T02:59:31.000Z",
+    "created_at": "2025-05-10T19:32:27.000Z",
+    "updated_at": "2025-05-10T19:32:27.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-05-11T04:03:55.811Z"
+}
