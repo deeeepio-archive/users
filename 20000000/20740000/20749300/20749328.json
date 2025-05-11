@@ -6,10 +6,10 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-08-08T04:38:48.000Z",
-  "date_last_played": "2025-04-20T05:30:33.000Z",
-  "profile_views": 3100,
+  "date_last_played": "2025-04-27T09:19:18.000Z",
+  "profile_views": 3104,
   "kill_count": 5290,
-  "play_count": 1884,
+  "play_count": 1885,
   "highest_score": 5093444,
   "picture": "20749328-07c8817369a6dc43bfcc8785dde8870a-9a0681d2-b275-4a55-9cb6-c398a70cbd82.png",
   "displayPicture": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-20T05:30:32.000Z",
-    "updated_at": "2025-04-20T05:30:33.000Z",
+    "created_at": "2025-04-27T09:19:18.000Z",
+    "updated_at": "2025-04-27T09:19:18.000Z",
     "pd": {
-      "played": 28,
-      "won": 14,
-      "ratio": 50
+      "played": 19,
+      "won": 11,
+      "ratio": 58
     }
   },
   "creations": {
@@ -70,9 +70,9 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2021-08-08T04:38:48.000Z",
-            "date_last_played": "2025-04-20T05:30:33.000Z",
+            "date_last_played": "2025-04-27T09:19:18.000Z",
             "kill_count": 5290,
-            "play_count": 1884,
+            "play_count": 1885,
             "highest_score": 5093444,
             "picture": "20749328-07c8817369a6dc43bfcc8785dde8870a-9a0681d2-b275-4a55-9cb6-c398a70cbd82.png",
             "displayPicture": false,
@@ -112,9 +112,9 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2021-08-08T04:38:48.000Z",
-            "date_last_played": "2025-04-20T05:30:33.000Z",
+            "date_last_played": "2025-04-27T09:19:18.000Z",
             "kill_count": 5290,
-            "play_count": 1884,
+            "play_count": 1885,
             "highest_score": 5093444,
             "picture": "20749328-07c8817369a6dc43bfcc8785dde8870a-9a0681d2-b275-4a55-9cb6-c398a70cbd82.png",
             "displayPicture": false,
@@ -135,5 +135,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T16:01:00.100Z"
+  "archived_at": "2025-05-11T17:16:21.274Z"
 }
