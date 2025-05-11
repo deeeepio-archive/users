@@ -1,24 +1,24 @@
 {
   "id": 20758972,
   "username": "ShuVN",
-  "description": "",
-  "about": "im quit but\nthanks yall for being friend and playing with me it was fun\ni love yall c:\n",
+  "description": "gg ",
+  "about": "hi ua",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-09-15T13:14:49.000Z",
-  "date_last_played": "2025-01-11T08:56:33.000Z",
-  "profile_views": 19008,
-  "kill_count": 26761,
-  "play_count": 8323,
+  "date_last_played": "2025-05-09T08:59:12.000Z",
+  "profile_views": 19047,
+  "kill_count": 26788,
+  "play_count": 8333,
   "highest_score": 8017166,
   "picture": "20758972-aced1b73a6b391027da9c9c526de8121c-8abcccc0-801b-4b2c-bc0b-d27838ea9913.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 13263,
+  "coins": 13300,
   "tier": 10,
-  "xp": 4077150,
+  "xp": 4082700,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 3668,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-19T15:06:03.000Z",
-    "created_at": "2025-01-11T08:56:32.000Z",
-    "updated_at": "2025-01-11T08:56:33.000Z",
-    "pd": null
+    "created_at": "2025-05-09T08:59:11.000Z",
+    "updated_at": "2025-05-09T08:59:12.000Z",
+    "pd": {
+      "played": 10,
+      "won": 4,
+      "ratio": 40
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T17:01:51.333Z"
+  "archived_at": "2025-05-11T18:24:26.690Z"
 }
