@@ -1,17 +1,17 @@
 {
-  "id": 19225620,
-  "username": "BobbyJOEEEE",
-  "description": "Hi i am joe. Billy joe. meet me after school and die. Welcome to my life. Girly guys.",
+  "id": 19225661,
+  "username": "vaporcat",
+  "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2021-01-28T16:54:53.000Z",
-  "date_last_played": "2021-01-28T17:18:22.000Z",
+  "date_created": "2021-01-28T18:13:52.000Z",
+  "date_last_played": "2021-01-28T18:43:29.000Z",
   "profile_views": 0,
-  "kill_count": 0,
-  "play_count": 1,
-  "highest_score": 0,
-  "picture": null,
+  "kill_count": 9,
+  "play_count": 12,
+  "highest_score": 48292,
+  "picture": "19225661.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 19225620,
-    "rank_kc": null,
+    "user_id": 19225661,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-05-11T08:42:52.426Z",
+    "updated_at": "2025-05-11T08:42:52.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-08T16:25:20.000Z",
-    "updated_at": "2025-05-08T16:25:20.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-11T08:42:48.035Z"
+  "archived_at": "2025-05-11T08:42:52.474Z"
 }
