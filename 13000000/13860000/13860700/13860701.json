@@ -1,0 +1,152 @@
+{
+  "id": 13860701,
+  "username": "soupy",
+  "description": "Sorry I killed you! team with me if you want, or just kill me back. It's ok.",
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-14T14:57:55.000Z",
+  "date_last_played": "2023-02-24T21:21:37.000Z",
+  "profile_views": 6,
+  "kill_count": 36,
+  "play_count": 209,
+  "highest_score": 147290,
+  "picture": "13860701-c2287691f3936326de1fc8b1624451ac.png",
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 6,
+  "tier": 1,
+  "xp": 750,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 13860701,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-05-10T20:24:02.000Z",
+    "updated_at": "2025-05-10T20:24:02.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5648,
+          "user_id": 13860701,
+          "cloneof_id": null,
+          "string_id": "amsterdam_point_b",
+          "title": "point b",
+          "description": "new map!",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 74,
+          "created_at": "2021-01-21T19:06:06.000Z",
+          "updated_at": "2021-01-21T19:06:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 13860701,
+            "username": "soupy",
+            "description": "Sorry I killed you! team with me if you want, or just kill me back. It's ok.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-14T14:57:55.000Z",
+            "date_last_played": "2023-02-24T21:21:37.000Z",
+            "kill_count": 36,
+            "play_count": 209,
+            "highest_score": 147290,
+            "picture": "13860701-c2287691f3936326de1fc8b1624451ac.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6,
+            "tier": 1,
+            "xp": 750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": " teamFFA"
+            },
+            {
+              "id": "free for all"
+            },
+            {
+              "id": "Team FFA"
+            },
+            {
+              "id": "TeamFFA"
+            }
+          ]
+        },
+        {
+          "id": 5565,
+          "user_id": 13860701,
+          "cloneof_id": null,
+          "string_id": "the_new_map",
+          "title": "the new map",
+          "description": "the new pap",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 27,
+          "created_at": "2021-01-14T15:20:00.000Z",
+          "updated_at": "2021-01-14T15:45:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 13860701,
+            "username": "soupy",
+            "description": "Sorry I killed you! team with me if you want, or just kill me back. It's ok.",
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-14T14:57:55.000Z",
+            "date_last_played": "2023-02-24T21:21:37.000Z",
+            "kill_count": 36,
+            "play_count": 209,
+            "highest_score": 147290,
+            "picture": "13860701-c2287691f3936326de1fc8b1624451ac.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 6,
+            "tier": 1,
+            "xp": 750,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "free for all"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-05-11T03:56:20.243Z"
+}
