@@ -1,24 +1,24 @@
 {
   "id": 20801308,
-  "username": "Turkish",
+  "username": "Snowyxzz",
   "description": "Aze is king:) ",
   "about": "My life my rules\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-02-18T08:34:16.000Z",
-  "date_last_played": "2023-03-25T21:00:05.000Z",
-  "profile_views": 50,
-  "kill_count": 595,
-  "play_count": 1765,
+  "date_last_played": "2025-05-11T14:52:48.000Z",
+  "profile_views": 56,
+  "kill_count": 603,
+  "play_count": 1791,
   "highest_score": 998164,
-  "picture": null,
+  "picture": "20801308-867abd7a90feac710ac5f4fefaf8162c7-c0fb282d-3ea0-447b-958d-47fe8f330873.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 129,
+  "coins": 173,
   "tier": 3,
-  "xp": 92400,
+  "xp": 99000,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 75800,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2022-10-09T06:05:25.000Z",
-    "created_at": "2023-09-20T17:53:52.000Z",
-    "updated_at": "2023-03-25T21:00:05.000Z",
-    "pd": null
+    "created_at": "2025-05-11T14:52:47.000Z",
+    "updated_at": "2025-05-11T14:52:48.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -71,24 +75,24 @@
           "deleted_at": null,
           "user": {
             "id": 20801308,
-            "username": "Turkish",
+            "username": "Snowyxzz",
             "description": "Aze is king:) ",
             "about": "My life my rules\n",
             "team_id": null,
             "team_role": null,
             "date_created": "2022-02-18T08:34:16.000Z",
-            "date_last_played": "2023-03-25T21:00:05.000Z",
-            "kill_count": 595,
-            "play_count": 1765,
+            "date_last_played": "2025-05-11T14:52:48.000Z",
+            "kill_count": 603,
+            "play_count": 1791,
             "highest_score": 998164,
-            "picture": null,
+            "picture": "20801308-867abd7a90feac710ac5f4fefaf8162c7-c0fb282d-3ea0-447b-958d-47fe8f330873.png",
             "displayPicture": false,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 129,
+            "coins": 173,
             "tier": 3,
-            "xp": 92400,
+            "xp": 99000,
             "migrated": true,
             "verified": false,
             "beta": false
@@ -104,5 +108,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T21:32:43.817Z"
+  "archived_at": "2025-05-11T23:31:59.545Z"
 }
