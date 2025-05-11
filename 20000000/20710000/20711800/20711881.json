@@ -6,45 +6,24 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-04-02T12:49:25.000Z",
-  "date_last_played": "2025-04-25T12:08:42.000Z",
-  "profile_views": 4173,
-  "kill_count": 17669,
-  "play_count": 5753,
+  "date_last_played": "2025-05-11T00:30:12.000Z",
+  "profile_views": 4205,
+  "kill_count": 17779,
+  "play_count": 5787,
   "highest_score": 7039837,
   "picture": "20711881-1b8b2aeb3934eebd82d8d5481aa2de5a-307f3d42-d2f3-4915-b5e1-f6a81e462a4a.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 6713,
+  "coins": 6926,
   "tier": 10,
-  "xp": 3291300,
+  "xp": 3323250,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 95745,
-      "user_id": 20711881,
-      "platform_id": "yt",
-      "platform_user_id": "Shark Party",
-      "platform_user_url": "https://www.youtube.com/shorts/J38La9S92ow",
-      "verified": false,
-      "created_at": "2024-06-23T12:37:08.000Z",
-      "updated_at": "2024-06-27T17:54:07.000Z"
-    },
-    {
-      "id": 96545,
-      "user_id": 20711881,
-      "platform_id": "yt",
-      "platform_user_id": "SKELETON TRUMPET",
-      "platform_user_url": "https://www.youtube.com/watch?v=ZWO6TQHw7is",
-      "verified": false,
-      "created_at": "2024-07-17T16:25:38.000Z",
-      "updated_at": "2024-07-17T18:08:24.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 20711881,
     "rank_kc": 2207,
@@ -56,12 +35,12 @@
     "rank_hs": 4496,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-18T23:38:08.000Z",
-    "created_at": "2025-04-25T12:08:41.000Z",
-    "updated_at": "2025-04-25T12:08:42.000Z",
+    "created_at": "2025-05-11T00:30:11.000Z",
+    "updated_at": "2025-05-11T00:30:12.000Z",
     "pd": {
-      "played": 55,
-      "won": 29,
-      "ratio": 53
+      "played": 26,
+      "won": 19,
+      "ratio": 73
     }
   },
   "creations": {
@@ -71,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T12:08:56.462Z"
+  "archived_at": "2025-05-11T12:43:29.856Z"
 }
