@@ -1,24 +1,24 @@
 {
   "id": 20733615,
-  "username": "미네_minne",
+  "username": "minne",
   "description": "dreamer\n3514665_837",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-06-02T08:15:30.000Z",
-  "date_last_played": "2025-04-13T03:14:20.000Z",
-  "profile_views": 20062,
-  "kill_count": 42004,
-  "play_count": 12332,
-  "highest_score": 2641319,
+  "date_last_played": "2025-05-03T11:03:14.000Z",
+  "profile_views": 20113,
+  "kill_count": 42095,
+  "play_count": 12351,
+  "highest_score": 3491930,
   "picture": "20733615-cbec0a0fb15399710681048e8c6e349737.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1795,
+  "coins": 1967,
   "tier": 10,
-  "xp": 5717850,
+  "xp": 5743650,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -44,14 +44,14 @@
     "rank_pc_dirty": true,
     "rank_pc_updated_at": "2024-01-21T06:14:06.000Z",
     "rank_hs": 27058,
-    "rank_hs_dirty": false,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T04:26:17.000Z",
-    "created_at": "2025-04-13T03:14:20.000Z",
-    "updated_at": "2025-04-13T03:14:20.000Z",
+    "created_at": "2025-05-03T11:03:14.000Z",
+    "updated_at": "2025-05-03T11:03:14.000Z",
     "pd": {
-      "played": 1,
-      "won": 1,
-      "ratio": 100
+      "played": 9,
+      "won": 8,
+      "ratio": 89
     }
   },
   "creations": {
@@ -61,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T14:23:39.142Z"
+  "archived_at": "2025-05-11T15:23:26.067Z"
 }
