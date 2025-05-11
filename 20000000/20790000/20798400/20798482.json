@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2022-02-08T16:01:48.000Z",
-  "date_last_played": "2025-04-24T16:10:11.000Z",
-  "profile_views": 1190,
-  "kill_count": 3296,
-  "play_count": 4952,
+  "date_last_played": "2025-05-11T14:36:26.000Z",
+  "profile_views": 1219,
+  "kill_count": 3354,
+  "play_count": 5014,
   "highest_score": 8254200,
   "picture": "20798482-aee3f9e49c86c6e09cfcf756665667c1-768678c3-fec7-4d48-bab4-242a24c9e073.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 4271,
+  "coins": 4382,
   "tier": 10,
-  "xp": 1270950,
+  "xp": 1287600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -28,11 +28,11 @@
       "id": 100583,
       "user_id": 20798482,
       "platform_id": "dc",
-      "platform_user_id": "contareal9",
+      "platform_user_id": "enviesu",
       "platform_user_url": null,
       "verified": false,
       "created_at": "2024-11-25T23:12:10.000Z",
-      "updated_at": "2024-11-25T23:12:10.000Z"
+      "updated_at": "2025-05-04T00:16:41.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +46,8 @@
     "rank_hs": 19072,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-11-13T22:27:08.000Z",
-    "created_at": "2025-04-24T16:10:10.000Z",
-    "updated_at": "2025-04-24T16:10:11.000Z",
+    "created_at": "2025-05-11T14:36:26.000Z",
+    "updated_at": "2025-05-11T14:36:26.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T21:15:10.835Z"
+  "archived_at": "2025-05-11T23:09:52.059Z"
 }
