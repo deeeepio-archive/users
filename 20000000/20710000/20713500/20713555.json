@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-04-07T15:09:18.000Z",
-  "date_last_played": "2025-04-18T16:23:35.000Z",
-  "profile_views": 759,
-  "kill_count": 1462,
-  "play_count": 1013,
+  "date_last_played": "2025-05-09T19:00:03.000Z",
+  "profile_views": 772,
+  "kill_count": 1491,
+  "play_count": 1022,
   "highest_score": 2065586,
   "picture": "20713555-41e2f320d91dec4beb8e3ba1034b167be-6ac65ba8-026d-46d2-8cd6-4e5ee1e3d4d4.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 50,
+  "coins": 59,
   "tier": 4,
-  "xp": 198750,
+  "xp": 200100,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -96,9 +96,13 @@
     "rank_hs": 144998,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-03-04T04:13:45.000Z",
-    "created_at": "2025-04-23T16:39:35.000Z",
-    "updated_at": "2025-04-23T16:39:36.000Z",
-    "pd": null
+    "created_at": "2025-05-09T19:00:03.000Z",
+    "updated_at": "2025-05-09T19:00:03.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -127,18 +131,18 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2021-04-07T15:09:18.000Z",
-            "date_last_played": "2025-04-18T16:23:35.000Z",
-            "kill_count": 1462,
-            "play_count": 1013,
+            "date_last_played": "2025-05-09T19:00:03.000Z",
+            "kill_count": 1491,
+            "play_count": 1022,
             "highest_score": 2065586,
             "picture": "20713555-41e2f320d91dec4beb8e3ba1034b167be-6ac65ba8-026d-46d2-8cd6-4e5ee1e3d4d4.png",
             "displayPicture": false,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 50,
+            "coins": 59,
             "tier": 4,
-            "xp": 198750,
+            "xp": 200100,
             "migrated": true,
             "verified": false,
             "beta": false
@@ -154,5 +158,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T12:19:50.091Z"
+  "archived_at": "2025-05-11T12:58:38.577Z"
 }
