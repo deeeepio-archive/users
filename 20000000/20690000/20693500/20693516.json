@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-02-16T14:45:29.000Z",
-  "date_last_played": "2025-04-24T16:39:09.000Z",
-  "profile_views": 226,
-  "kill_count": 13758,
-  "play_count": 9482,
-  "highest_score": 2410844,
+  "date_last_played": "2025-05-10T20:01:14.000Z",
+  "profile_views": 254,
+  "kill_count": 14038,
+  "play_count": 9870,
+  "highest_score": 3842021,
   "picture": "20693516.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 222,
+  "coins": 80,
   "tier": 8,
-  "xp": 722250,
+  "xp": 850950,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104139,
+      "user_id": 20693516,
+      "platform_id": "ig",
+      "platform_user_id": "sajid_gaf1c",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-29T17:57:00.000Z",
+      "updated_at": "2025-04-29T17:57:00.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20693516,
     "rank_kc": 1545,
@@ -35,8 +46,8 @@
     "rank_hs": 27410,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-04-28T16:36:39.000Z",
-    "created_at": "2025-04-24T16:39:08.000Z",
-    "updated_at": "2025-04-24T16:39:09.000Z",
+    "created_at": "2025-05-10T20:01:14.000Z",
+    "updated_at": "2025-05-10T20:01:14.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T10:18:23.491Z"
+  "archived_at": "2025-05-11T10:11:05.634Z"
 }
