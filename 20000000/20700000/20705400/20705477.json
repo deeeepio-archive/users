@@ -1,24 +1,24 @@
 {
   "id": 20705477,
   "username": "애플파이",
-  "description": "애플파이 존맛탱",
+  "description": "",
   "about": "ㅇㅍㅍㅇ_ :)",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-03-17T12:45:01.000Z",
-  "date_last_played": "2024-11-08T13:18:14.000Z",
-  "profile_views": 1501,
-  "kill_count": 7918,
-  "play_count": 2313,
+  "date_last_played": "2025-05-11T11:31:05.000Z",
+  "profile_views": 1509,
+  "kill_count": 7932,
+  "play_count": 2324,
   "highest_score": 4886241,
   "picture": "20705477-dd5da87b94de6c74d10320b19991ab0f5-d9fbcb71-6a79-442d-9daf-19542b545f24.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 140,
+  "coins": 183,
   "tier": 7,
-  "xp": 680850,
+  "xp": 687300,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 8881,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-12T15:18:00.000Z",
-    "created_at": "2024-11-08T13:18:13.000Z",
-    "updated_at": "2024-11-08T13:18:14.000Z",
-    "pd": null
+    "created_at": "2025-05-11T11:31:04.000Z",
+    "updated_at": "2025-05-11T11:31:05.000Z",
+    "pd": {
+      "played": 7,
+      "won": 5,
+      "ratio": 71
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T11:29:33.296Z"
+  "archived_at": "2025-05-11T11:44:33.309Z"
 }
