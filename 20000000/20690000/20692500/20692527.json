@@ -1,15 +1,15 @@
 {
   "id": 20692527,
   "username": "1381250_531",
-  "description": "tranqui es un juego se feliz ;D  ",
+  "description": "tranqui es un juego,\nse feliz ;D  ",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2021-02-12T23:48:02.000Z",
-  "date_last_played": "2021-10-31T01:32:12.000Z",
-  "profile_views": 0,
+  "date_last_played": "2025-04-26T23:24:35.000Z",
+  "profile_views": 1,
   "kill_count": 30,
-  "play_count": 373,
+  "play_count": 374,
   "highest_score": 102663,
   "picture": "20692527.jpg",
   "displayPicture": false,
@@ -26,17 +26,17 @@
   "social_networks": [],
   "user_stats": {
     "user_id": 20692527,
-    "rank_kc_dirty": true,
-    "rank_pc_dirty": true,
-    "rank_hs_dirty": true,
-    "created_at": "2025-04-25T10:12:48.966Z",
-    "updated_at": "2025-04-25T10:12:49.000Z",
     "rank_kc": null,
+    "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
     "rank_pc": null,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
+    "created_at": "2025-04-26T23:24:34.000Z",
+    "updated_at": "2025-04-26T23:24:35.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T10:12:49.050Z"
+  "archived_at": "2025-05-11T10:05:39.687Z"
 }
