@@ -1,0 +1,149 @@
+{
+  "id": 14006590,
+  "username": "2ushehdhhd",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2021-01-21T19:28:44.000Z",
+  "date_last_played": "2021-01-21T19:53:05.000Z",
+  "profile_views": 0,
+  "kill_count": 0,
+  "play_count": 1,
+  "highest_score": 3075,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 0,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 14006590,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-05-11T04:18:41.345Z",
+    "updated_at": "2025-05-11T04:18:41.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [
+        {
+          "id": 5651,
+          "user_id": 14006590,
+          "cloneof_id": 5618,
+          "string_id": "help_mem_e129",
+          "title": "Strange map i created",
+          "description": "Why",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 262,
+          "created_at": "2021-01-21T21:42:09.000Z",
+          "updated_at": "2021-01-21T21:42:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 14006590,
+            "username": "2ushehdhhd",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-21T19:28:44.000Z",
+            "date_last_played": "2021-01-21T19:53:05.000Z",
+            "kill_count": 0,
+            "play_count": 1,
+            "highest_score": 3075,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "Pearl defense"
+            },
+            {
+              "id": "Strange"
+            },
+            {
+              "id": "Wth"
+            }
+          ]
+        },
+        {
+          "id": 5650,
+          "user_id": 14006590,
+          "cloneof_id": null,
+          "string_id": "yu_will_die129",
+          "title": "You'll probably die playing this",
+          "description": "What have i done?",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 0,
+          "objects": 49,
+          "created_at": "2021-01-21T19:47:58.000Z",
+          "updated_at": "2021-01-21T20:22:41.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 14006590,
+            "username": "2ushehdhhd",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2021-01-21T19:28:44.000Z",
+            "date_last_played": "2021-01-21T19:53:05.000Z",
+            "kill_count": 0,
+            "play_count": 1,
+            "highest_score": 3075,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 0,
+            "tier": 1,
+            "xp": 0,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "hard"
+            }
+          ]
+        }
+      ],
+      "count": 2
+    },
+    "skins": []
+  },
+  "archived_at": "2025-05-11T04:18:41.406Z"
+}
