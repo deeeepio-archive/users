@@ -1,24 +1,24 @@
 {
   "id": 20699055,
   "username": "-threshy-",
-  "description": ":crimsonfullfish:",
-  "about": "thresher ",
+  "description": "简单",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-03-01T03:55:06.000Z",
-  "date_last_played": "2025-04-21T05:50:54.000Z",
-  "profile_views": 4592,
-  "kill_count": 32264,
-  "play_count": 5393,
+  "date_last_played": "2025-05-11T05:18:44.000Z",
+  "profile_views": 4809,
+  "kill_count": 33135,
+  "play_count": 5490,
   "highest_score": 12418943,
   "picture": "20699055-b310de7e7a8ed71dfdd70252d57606ed8-c586a040-aee7-4a95-a03f-7ef5c8c3a337.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 8889,
+  "coins": 10039,
   "tier": 10,
-  "xp": 6338400,
+  "xp": 6540900,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,12 +46,12 @@
     "rank_hs": 11808,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-30T02:29:31.000Z",
-    "created_at": "2025-04-21T05:50:53.000Z",
-    "updated_at": "2025-04-21T05:50:54.000Z",
+    "created_at": "2025-05-11T05:18:43.000Z",
+    "updated_at": "2025-05-11T05:18:44.000Z",
     "pd": {
-      "played": 166,
-      "won": 120,
-      "ratio": 72
+      "played": 54,
+      "won": 40,
+      "ratio": 74
     }
   },
   "creations": {
@@ -61,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T10:51:03.801Z"
+  "archived_at": "2025-05-11T10:53:53.510Z"
 }
