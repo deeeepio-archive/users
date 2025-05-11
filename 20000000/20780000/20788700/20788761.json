@@ -6,10 +6,10 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-12-28T09:30:14.000Z",
-  "date_last_played": "2025-04-24T13:04:01.000Z",
-  "profile_views": 5985,
-  "kill_count": 14793,
-  "play_count": 3927,
+  "date_last_played": "2025-05-05T08:16:21.000Z",
+  "profile_views": 5992,
+  "kill_count": 14801,
+  "play_count": 3928,
   "highest_score": 15009813,
   "picture": "20788761-610b105c110aa9f0d73458e1d8c837996c8-efc1e6e5-42c9-4abf-b9b9-7976ad1a6754.png",
   "displayPicture": true,
@@ -35,12 +35,12 @@
     "rank_hs": 1695,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-19T18:30:42.000Z",
-    "created_at": "2025-04-24T13:04:01.000Z",
-    "updated_at": "2025-04-24T13:04:01.000Z",
+    "created_at": "2025-05-05T08:16:21.000Z",
+    "updated_at": "2025-05-05T08:16:21.000Z",
     "pd": {
-      "played": 10,
-      "won": 8,
-      "ratio": 80
+      "played": 6,
+      "won": 5,
+      "ratio": 83
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T20:11:02.730Z"
+  "archived_at": "2025-05-11T22:06:37.152Z"
 }
