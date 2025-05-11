@@ -1,24 +1,24 @@
 {
   "id": 20782867,
-  "username": "Poseidon❄",
+  "username": "hvghuiub",
   "description": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYouNOOB",
-  "about": "mgggggggggggggggggggggggggggggggggggggggggggggggggg",
+  "about": "...",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-12-01T09:36:02.000Z",
-  "date_last_played": "2025-01-27T05:52:56.000Z",
-  "profile_views": 5552,
-  "kill_count": 28675,
-  "play_count": 11067,
-  "highest_score": 6759106,
-  "picture": "20782867-2b33228590e55de510f84d962d26f19bc-32f3537f-9f22-450f-b835-2a0618541076.png",
+  "date_last_played": "2025-05-11T13:53:28.000Z",
+  "profile_views": 5716,
+  "kill_count": 28846,
+  "play_count": 11141,
+  "highest_score": 11179382,
+  "picture": "20782867-fd9690c87e7f3eb6855e05fbf13ef7c9-96dc8045-71be-439f-8d6e-61cb48705f3c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 5128,
+  "coins": 5295,
   "tier": 10,
-  "xp": 4430250,
+  "xp": 4515300,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,11 +33,15 @@
     "rank_pc_dirty": true,
     "rank_pc_updated_at": "2024-01-10T10:13:08.000Z",
     "rank_hs": 4793,
-    "rank_hs_dirty": false,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-10T10:13:11.000Z",
-    "created_at": "2025-01-27T08:00:03.000Z",
-    "updated_at": "2025-01-27T08:00:03.000Z",
-    "pd": null
+    "created_at": "2025-05-11T13:53:27.000Z",
+    "updated_at": "2025-05-11T13:53:28.000Z",
+    "pd": {
+      "played": 18,
+      "won": 12,
+      "ratio": 67
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T19:35:15.480Z"
+  "archived_at": "2025-05-11T21:27:41.546Z"
 }
