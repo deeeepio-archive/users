@@ -1,24 +1,24 @@
 {
   "id": 20787654,
   "username": "catzlegend",
-  "description": "I enjoy existing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlay some Bopl Battle with me",
-  "about": "Just a legendary cat",
+  "description": "I enjoy existing",
+  "about": "I main eagle, spider crab, bull shark, and humpback\nStill a noob though, I play for fun",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-12-21T18:17:22.000Z",
-  "date_last_played": "2024-08-14T01:21:19.000Z",
-  "profile_views": 240,
-  "kill_count": 2817,
-  "play_count": 939,
+  "date_last_played": "2025-05-11T17:36:52.000Z",
+  "profile_views": 258,
+  "kill_count": 2959,
+  "play_count": 1012,
   "highest_score": 5144959,
-  "picture": "20787654-4328d4ca49e10ee5f927efc0ea4d9b446.png",
+  "picture": "20787654-9759463ee568df7e65f6591210d4d82a10-d2fb6b17-aaa3-48f1-baed-19fccf96cbfb.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 57,
-  "tier": 6,
-  "xp": 500250,
+  "coins": 103,
+  "tier": 7,
+  "xp": 549150,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 7783,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-03T02:34:42.000Z",
-    "created_at": "2024-08-14T01:21:19.000Z",
-    "updated_at": "2024-08-14T01:21:19.000Z",
-    "pd": null
+    "created_at": "2025-05-11T17:36:51.000Z",
+    "updated_at": "2025-05-11T17:36:52.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T20:04:34.340Z"
+  "archived_at": "2025-05-11T22:00:38.406Z"
 }
