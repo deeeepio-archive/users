@@ -2,28 +2,39 @@
   "id": 20739830,
   "username": "DinerGate",
   "description": "I bear-ly won, bear-ly lived.\n",
-  "about": "I love deeeep.io",
+  "about": "As the bear I am, I got Coel in my snowballs. \nGet it? 'Coel' cuz I play Coelacanth often aswell like that's a great joke def 100% laugh guaranteed joke very nice good real sigma joke Idfk what I'm saying anymore.",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-06-24T12:34:16.000Z",
-  "date_last_played": "2025-04-12T20:37:56.000Z",
-  "profile_views": 36,
-  "kill_count": 528,
-  "play_count": 342,
-  "highest_score": 2664349,
+  "date_last_played": "2025-05-11T10:46:05.000Z",
+  "profile_views": 49,
+  "kill_count": 621,
+  "play_count": 389,
+  "highest_score": 3585855,
   "picture": "20739830-5bfa9104b73346379f0179e9aeac2e64b-8474ec21-7ba2-4a84-803b-88064c2b3f76.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 337,
+  "coins": 402,
   "tier": 4,
-  "xp": 163050,
+  "xp": 211050,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104477,
+      "user_id": 20739830,
+      "platform_id": "dc",
+      "platform_user_id": "DinerGaete",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-07T22:54:46.000Z",
+      "updated_at": "2025-05-07T22:54:46.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20739830,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-12T20:37:55.000Z",
-    "updated_at": "2025-04-12T20:37:56.000Z",
+    "created_at": "2025-05-11T10:46:04.000Z",
+    "updated_at": "2025-05-11T10:46:05.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T15:01:18.663Z"
+  "archived_at": "2025-05-11T16:09:32.088Z"
 }
