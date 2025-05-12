@@ -1,24 +1,24 @@
 {
   "id": 20980363,
-  "username": "音夢",
-  "description": "　꧁神࿆聖꧂\n音໊<BLU>夢̤̼<RED>\n\n    fﾆヽ\n    |_||\n    |= |\n    |_ |\n  /⌒|~ |⌒i-、\n  /| | | | ｜\n ｜( ( ( ( ｜\n ｜      ｜\n  ＼     /\n   ＼    ｜\b",
+  "username": "JS-音夢",
+  "description": "''Brain issue''\n    fﾆヽ\n    |_||\n    |= |\n    |_ |\n  /⌒|~ |⌒i-、\n  /| | | | ｜\n ｜( ( ( ( ｜\n ｜      ｜\n  ＼     /\n   ＼    ｜\b",
   "about": "poor boy\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-10-22T01:04:38.000Z",
-  "date_last_played": "2025-04-24T15:37:10.000Z",
-  "profile_views": 1936,
-  "kill_count": 5774,
-  "play_count": 2596,
+  "date_last_played": "2025-05-12T13:28:17.000Z",
+  "profile_views": 2218,
+  "kill_count": 6437,
+  "play_count": 2824,
   "highest_score": 10099775,
   "picture": "20980363-8101aff47b67f423c4929fb29cf25a642-b6065eb3-da93-406b-81ba-83a45f5d9d92.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 303,
+  "coins": 537,
   "tier": 10,
-  "xp": 1445100,
+  "xp": 1708200,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 12163,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-10T08:59:18.000Z",
-    "created_at": "2025-04-24T15:37:10.000Z",
-    "updated_at": "2025-04-24T15:37:10.000Z",
-    "pd": null
+    "created_at": "2025-05-12T13:28:16.000Z",
+    "updated_at": "2025-05-12T13:28:17.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T15:48:20.117Z"
+  "archived_at": "2025-05-12T21:32:12.217Z"
 }
