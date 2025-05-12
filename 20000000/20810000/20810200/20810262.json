@@ -1,29 +1,40 @@
 {
   "id": 20810262,
   "username": "Pablo232",
-  "description": "you tried ",
-  "about": "is hellnah, pablo, sad, emo, huh?, hellyeah , fun",
+  "description": "you tried \nI main Moray eel and Snek\n\nSeriously FUCK V-shred\nalso fuck kenga",
+  "about": "i played before this beta\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-03-27T02:43:13.000Z",
-  "date_last_played": "2025-04-25T09:58:18.000Z",
-  "profile_views": 163,
-  "kill_count": 1850,
-  "play_count": 1463,
-  "highest_score": 2596384,
+  "date_last_played": "2025-05-10T10:59:34.000Z",
+  "profile_views": 194,
+  "kill_count": 2340,
+  "play_count": 1909,
+  "highest_score": 4388381,
   "picture": "20810262-c5db94f32ec728fb10149654525bd6b96.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 32,
-  "tier": 5,
-  "xp": 269100,
+  "coins": 49,
+  "tier": 6,
+  "xp": 483150,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104031,
+      "user_id": 20810262,
+      "platform_id": "dc",
+      "platform_user_id": "____pablo___",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-25T22:56:10.000Z",
+      "updated_at": "2025-04-25T22:56:10.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20810262,
     "rank_kc": 15603,
@@ -33,10 +44,10 @@
     "rank_pc_dirty": true,
     "rank_pc_updated_at": "2023-03-28T13:08:56.000Z",
     "rank_hs": 23934,
-    "rank_hs_dirty": false,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-03-28T13:09:08.000Z",
-    "created_at": "2025-04-25T09:58:18.000Z",
-    "updated_at": "2025-04-25T09:58:18.000Z",
+    "created_at": "2025-05-10T10:59:33.000Z",
+    "updated_at": "2025-05-10T10:59:34.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T22:25:48.550Z"
+  "archived_at": "2025-05-12T00:40:04.475Z"
 }
