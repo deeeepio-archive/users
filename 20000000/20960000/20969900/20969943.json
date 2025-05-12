@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2022-09-11T18:43:51.000Z",
-  "date_last_played": "2024-11-09T22:32:27.000Z",
-  "profile_views": 394,
-  "kill_count": 604,
-  "play_count": 1071,
+  "date_last_played": "2025-05-12T10:56:17.000Z",
+  "profile_views": 398,
+  "kill_count": 605,
+  "play_count": 1073,
   "highest_score": 1474543,
   "picture": "20969943-632fc3a63ef24599f37bf8e301d96fe10-2d2c5b83-70a5-42c9-b4a6-495d424d6a76.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 247,
+  "coins": 213,
   "tier": 3,
-  "xp": 110550,
+  "xp": 111450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,16 +33,6 @@
       "verified": false,
       "created_at": "2023-01-30T21:47:14.000Z",
       "updated_at": "2023-01-30T21:47:14.000Z"
-    },
-    {
-      "id": 14223,
-      "user_id": 20969943,
-      "platform_id": "ig",
-      "platform_user_id": "gghtry",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2023-01-30T21:47:37.000Z",
-      "updated_at": "2023-01-30T21:52:18.000Z"
     }
   ],
   "user_stats": {
@@ -56,8 +46,8 @@
     "rank_hs": 62172,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-17T00:34:48.000Z",
-    "created_at": "2024-11-09T22:32:27.000Z",
-    "updated_at": "2024-11-09T22:32:27.000Z",
+    "created_at": "2025-05-12T10:56:16.000Z",
+    "updated_at": "2025-05-12T10:56:17.000Z",
     "pd": null
   },
   "creations": {
@@ -67,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T14:39:07.948Z"
+  "archived_at": "2025-05-12T20:23:37.621Z"
 }
