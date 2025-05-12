@@ -6,24 +6,45 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2022-01-22T23:37:49.000Z",
-  "date_last_played": "2025-04-25T21:12:49.000Z",
-  "profile_views": 583,
-  "kill_count": 7563,
-  "play_count": 3663,
+  "date_last_played": "2025-05-11T17:40:17.000Z",
+  "profile_views": 642,
+  "kill_count": 8630,
+  "play_count": 4104,
   "highest_score": 6398880,
   "picture": "20831948-a12749d2158e4ab756328b1610dc64876-1ad280bd-937e-4030-b8e7-8474c39a3009.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 5067,
+  "coins": 6850,
   "tier": 10,
-  "xp": 2261700,
+  "xp": 2616900,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104444,
+      "user_id": 20831948,
+      "platform_id": "ig",
+      "platform_user_id": "@thegrefg",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-06T11:56:02.000Z",
+      "updated_at": "2025-05-06T11:56:02.000Z"
+    },
+    {
+      "id": 104443,
+      "user_id": 20831948,
+      "platform_id": "ig",
+      "platform_user_id": "https://www.instagram.com/TheGrefg/",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-06T11:55:15.000Z",
+      "updated_at": "2025-05-06T11:55:15.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20831948,
     "rank_kc": 22607,
@@ -35,13 +56,9 @@
     "rank_hs": 3987,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2022-07-11T18:09:35.000Z",
-    "created_at": "2025-04-25T21:12:48.000Z",
-    "updated_at": "2025-04-25T21:12:49.000Z",
-    "pd": {
-      "played": 21,
-      "won": 15,
-      "ratio": 71
-    }
+    "created_at": "2025-05-11T17:40:16.000Z",
+    "updated_at": "2025-05-11T17:40:17.000Z",
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -50,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T00:36:20.854Z"
+  "archived_at": "2025-05-12T03:22:24.236Z"
 }
