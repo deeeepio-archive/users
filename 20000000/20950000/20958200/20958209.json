@@ -2,28 +2,39 @@
   "id": 20958209,
   "username": "incog",
   "description": "Pride comes before destruction",
-  "about": "nito ",
+  "about": "Incognito",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-07-28T18:10:01.000Z",
-  "date_last_played": "2025-04-22T17:54:10.000Z",
-  "profile_views": 1403,
-  "kill_count": 9203,
-  "play_count": 631,
-  "highest_score": 9854098,
+  "date_last_played": "2025-05-11T23:36:45.000Z",
+  "profile_views": 1495,
+  "kill_count": 9673,
+  "play_count": 657,
+  "highest_score": 11039048,
   "picture": "20958209-4eeb4c8b1c10f51f2c44962fc3a1084a2.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 11364,
+  "coins": 12571,
   "tier": 10,
-  "xp": 2075100,
+  "xp": 2256150,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104522,
+      "user_id": 20958209,
+      "platform_id": "dc",
+      "platform_user_id": "incog1nito",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-08T17:23:58.000Z",
+      "updated_at": "2025-05-08T17:23:58.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20958209,
     "rank_kc": 3194,
@@ -35,8 +46,8 @@
     "rank_hs": 5331,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-18T01:09:04.000Z",
-    "created_at": "2025-04-22T17:54:10.000Z",
-    "updated_at": "2025-04-22T17:54:10.000Z",
+    "created_at": "2025-05-11T23:36:44.000Z",
+    "updated_at": "2025-05-11T23:36:45.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T13:28:58.892Z"
+  "archived_at": "2025-05-12T18:47:00.906Z"
 }
