@@ -197,17 +197,17 @@
   ],
   "user_stats": {
     "user_id": 20968246,
-    "rank_kc_dirty": true,
-    "rank_pc_dirty": true,
-    "rank_hs_dirty": true,
-    "created_at": "2025-04-26T14:27:58.974Z",
-    "updated_at": "2025-04-26T14:27:59.000Z",
     "rank_kc": null,
+    "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
     "rank_pc": null,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
+    "created_at": "2025-04-26T14:27:59.000Z",
+    "updated_at": "2025-04-26T14:27:59.000Z",
     "pd": null
   },
   "creations": {
@@ -217,5 +217,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T14:27:59.074Z"
+  "archived_at": "2025-05-12T20:02:49.004Z"
 }
