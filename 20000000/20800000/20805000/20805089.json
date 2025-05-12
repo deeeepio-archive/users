@@ -1,24 +1,24 @@
 {
   "id": 20805089,
   "username": "해초",
-  "description": "그쪽보다 더 화난 사람이 있어요",
+  "description": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore, Dream. Discover.",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-03-05T02:19:35.000Z",
-  "date_last_played": "2025-03-08T13:49:34.000Z",
-  "profile_views": 951,
-  "kill_count": 2034,
-  "play_count": 876,
+  "date_last_played": "2025-05-09T08:24:37.000Z",
+  "profile_views": 958,
+  "kill_count": 2038,
+  "play_count": 880,
   "highest_score": 2203683,
-  "picture": "20805089-919b9b354d2ef291b26b4cfa930ffbc2-4883e17a-1cc5-4744-a754-bf693f4c1e99.png",
+  "picture": "20805089-e83179447bcfb4378b29793e6c0280e8-c2f5433a-23a1-4859-b3e5-a6d5e149ff17.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 45,
+  "coins": 56,
   "tier": 5,
-  "xp": 332100,
+  "xp": 333750,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 35992,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-18T12:51:32.000Z",
-    "created_at": "2025-03-08T13:49:34.000Z",
-    "updated_at": "2025-03-08T13:49:34.000Z",
-    "pd": null
+    "created_at": "2025-05-09T08:24:37.000Z",
+    "updated_at": "2025-05-09T08:24:37.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T21:55:07.797Z"
+  "archived_at": "2025-05-12T00:04:54.410Z"
 }
