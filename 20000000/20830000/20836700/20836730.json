@@ -6,10 +6,10 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2022-04-18T22:02:21.000Z",
-  "date_last_played": "2025-04-01T05:39:55.000Z",
-  "profile_views": 379,
+  "date_last_played": "2025-05-02T00:46:57.000Z",
+  "profile_views": 383,
   "kill_count": 2417,
-  "play_count": 1268,
+  "play_count": 1269,
   "highest_score": 3850080,
   "picture": "20836730-25c60428d6d3d116e41102da3af34747c.png",
   "displayPicture": true,
@@ -25,14 +25,14 @@
   "badges": [],
   "social_networks": [
     {
-      "id": 96455,
+      "id": 104222,
       "user_id": 20836730,
-      "platform_id": "rd",
-      "platform_user_id": "Susssy_catt",
-      "platform_user_url": null,
+      "platform_id": "yt",
+      "platform_user_id": "dat_child",
+      "platform_user_url": "https://www.youtube.com/@dat_child",
       "verified": false,
-      "created_at": "2024-07-15T10:09:52.000Z",
-      "updated_at": "2024-07-15T10:09:52.000Z"
+      "created_at": "2025-05-02T00:47:38.000Z",
+      "updated_at": "2025-05-02T00:47:38.000Z"
     },
     {
       "id": 102389,
@@ -56,8 +56,8 @@
     "rank_hs": 12795,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-08-01T00:53:02.000Z",
-    "created_at": "2025-04-01T05:39:55.000Z",
-    "updated_at": "2025-04-01T05:39:55.000Z",
+    "created_at": "2025-05-02T00:46:56.000Z",
+    "updated_at": "2025-05-02T00:46:57.000Z",
     "pd": null
   },
   "creations": {
@@ -67,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T01:06:41.981Z"
+  "archived_at": "2025-05-12T03:49:54.206Z"
 }
