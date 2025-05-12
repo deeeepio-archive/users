@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2022-06-11T21:18:00.000Z",
-  "date_last_played": "2025-03-09T21:40:21.000Z",
-  "profile_views": 303,
-  "kill_count": 2242,
-  "play_count": 1240,
+  "date_last_played": "2025-05-12T05:23:33.000Z",
+  "profile_views": 306,
+  "kill_count": 2246,
+  "play_count": 1243,
   "highest_score": 2995289,
   "picture": "20945972-067ae752c588f35ca6fb2588554f6e4a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 413,
+  "coins": 444,
   "tier": 6,
-  "xp": 511800,
+  "xp": 516450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 21311,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-10-19T18:55:42.000Z",
-    "created_at": "2025-03-09T21:40:21.000Z",
-    "updated_at": "2025-03-09T21:40:21.000Z",
-    "pd": null
+    "created_at": "2025-05-12T05:23:32.000Z",
+    "updated_at": "2025-05-12T05:23:33.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -77,18 +81,18 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2022-06-11T21:18:00.000Z",
-            "date_last_played": "2025-03-09T21:40:21.000Z",
-            "kill_count": 2242,
-            "play_count": 1240,
+            "date_last_played": "2025-05-12T05:23:33.000Z",
+            "kill_count": 2246,
+            "play_count": 1243,
             "highest_score": 2995289,
             "picture": "20945972-067ae752c588f35ca6fb2588554f6e4a.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 413,
+            "coins": 444,
             "tier": 6,
-            "xp": 511800,
+            "xp": 516450,
             "migrated": false,
             "verified": false,
             "beta": false
@@ -100,5 +104,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T12:16:54.931Z"
+  "archived_at": "2025-05-12T17:05:06.268Z"
 }
