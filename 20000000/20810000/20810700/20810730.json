@@ -1,29 +1,40 @@
 {
   "id": 20810730,
   "username": "49",
-  "description": "sorry if I killed u when 1v1\nfuck you if you're a teamer\n\nbtw gg\nhave a great day",
-  "about": "fuck the stupid teamers",
+  "description": "sorry if I killed u when 1v1\ngg\nhave a great day",
+  "about": "be.fucking.kind.right.now.",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-03-29T11:18:56.000Z",
-  "date_last_played": "2025-04-24T21:54:00.000Z",
-  "profile_views": 2053,
-  "kill_count": 4633,
-  "play_count": 848,
+  "date_last_played": "2025-05-07T21:19:17.000Z",
+  "profile_views": 2129,
+  "kill_count": 4717,
+  "play_count": 875,
   "highest_score": 7564042,
-  "picture": "20810730-516ee4483cacea5192f95810c5d527978.png",
+  "picture": "20810730-957d6e02eefe66b141931ae5cce4956f-20a0a2d8-4b60-4925-86cc-cb94bdced33d.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 401,
+  "coins": 23,
   "tier": 9,
-  "xp": 945300,
+  "xp": 980850,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104232,
+      "user_id": 20810730,
+      "platform_id": "rd",
+      "platform_user_id": "49n1",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-02T09:52:20.000Z",
+      "updated_at": "2025-05-02T09:52:20.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20810730,
     "rank_kc": 12001,
@@ -35,8 +46,8 @@
     "rank_hs": 3962,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-08T18:49:08.000Z",
-    "created_at": "2025-04-24T21:53:59.000Z",
-    "updated_at": "2025-04-24T21:54:00.000Z",
+    "created_at": "2025-05-07T21:19:17.000Z",
+    "updated_at": "2025-05-07T21:19:17.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T22:28:29.937Z"
+  "archived_at": "2025-05-12T00:42:44.627Z"
 }
