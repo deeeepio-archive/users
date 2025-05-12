@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2022-06-06T22:31:58.000Z",
-  "date_last_played": "2025-02-14T00:16:42.000Z",
-  "profile_views": 3258,
-  "kill_count": 4611,
-  "play_count": 1492,
+  "date_last_played": "2025-05-07T00:25:43.000Z",
+  "profile_views": 3269,
+  "kill_count": 4627,
+  "play_count": 1499,
   "highest_score": 4622997,
   "picture": "20944222-10f186881d7cc86a1f2102d21056760e2a8-b6b0e3bd-3963-4a8e-8ef4-48a4b7be4f1a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 471,
+  "coins": 506,
   "tier": 10,
-  "xp": 1182000,
+  "xp": 1187250,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 9633,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-22T23:04:10.000Z",
-    "created_at": "2025-02-14T00:16:41.000Z",
-    "updated_at": "2025-02-14T00:16:42.000Z",
-    "pd": null
+    "created_at": "2025-05-07T00:25:42.000Z",
+    "updated_at": "2025-05-07T00:25:43.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -66,18 +70,18 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2022-06-06T22:31:58.000Z",
-            "date_last_played": "2025-02-14T00:16:42.000Z",
-            "kill_count": 4611,
-            "play_count": 1492,
+            "date_last_played": "2025-05-07T00:25:43.000Z",
+            "kill_count": 4627,
+            "play_count": 1499,
             "highest_score": 4622997,
             "picture": "20944222-10f186881d7cc86a1f2102d21056760e2a8-b6b0e3bd-3963-4a8e-8ef4-48a4b7be4f1a.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 471,
+            "coins": 506,
             "tier": 10,
-            "xp": 1182000,
+            "xp": 1187250,
             "migrated": false,
             "verified": false,
             "beta": false
@@ -96,5 +100,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T12:05:25.879Z"
+  "archived_at": "2025-05-12T16:54:53.305Z"
 }
