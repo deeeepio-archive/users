@@ -1,24 +1,24 @@
 {
   "id": 20938335,
-  "username": "VENxi",
-  "description": "buh",
-  "about": "",
+  "username": "denzelcrocker",
+  "description": "adivina cuanto sacaste timmy turner...\n\n0!",
+  "about": "Buscando a los padrinos magicos\n\nalt de moby",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-05-18T02:21:39.000Z",
-  "date_last_played": "2025-03-24T01:56:34.000Z",
-  "profile_views": 877,
-  "kill_count": 3426,
-  "play_count": 919,
+  "date_last_played": "2025-05-11T23:13:06.000Z",
+  "profile_views": 908,
+  "kill_count": 3430,
+  "play_count": 925,
   "highest_score": 5868611,
-  "picture": "20938335-eba92e78e95d1eef321845a025341b49.png",
+  "picture": "20938335-92e103884c621910c587708547b5676582-d07c6b83-d2af-473c-927e-db92ea860826.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2148,
+  "coins": 2149,
   "tier": 7,
-  "xp": 664350,
+  "xp": 664500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 9982,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-10-15T18:33:02.000Z",
-    "created_at": "2025-03-24T02:15:33.000Z",
-    "updated_at": "2025-03-24T02:15:33.000Z",
-    "pd": null
+    "created_at": "2025-05-11T23:13:06.000Z",
+    "updated_at": "2025-05-11T23:13:06.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T11:30:10.321Z"
+  "archived_at": "2025-05-12T16:11:57.551Z"
 }
