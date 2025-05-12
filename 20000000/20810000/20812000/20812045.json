@@ -1,24 +1,24 @@
 {
   "id": 20812045,
-  "username": "S神",
-  "description": "對不起，我不應該殺了你",
+  "username": "starsy",
+  "description": "對不起寶貝",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-04-04T03:37:45.000Z",
-  "date_last_played": "2025-04-25T05:52:45.000Z",
-  "profile_views": 1011,
-  "kill_count": 3099,
-  "play_count": 1515,
+  "date_last_played": "2025-05-09T12:01:16.000Z",
+  "profile_views": 1047,
+  "kill_count": 3155,
+  "play_count": 1543,
   "highest_score": 2050009,
   "picture": null,
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 86,
+  "coins": 3,
   "tier": 8,
-  "xp": 705900,
+  "xp": 724950,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -46,12 +46,12 @@
     "rank_hs": 51225,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T06:11:45.000Z",
-    "created_at": "2025-04-25T05:52:45.000Z",
-    "updated_at": "2025-04-25T05:52:45.000Z",
+    "created_at": "2025-05-09T12:01:15.000Z",
+    "updated_at": "2025-05-09T12:01:16.000Z",
     "pd": {
-      "played": 33,
-      "won": 15,
-      "ratio": 45
+      "played": 46,
+      "won": 26,
+      "ratio": 57
     }
   },
   "creations": {
@@ -61,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T22:35:50.269Z"
+  "archived_at": "2025-05-12T00:52:11.265Z"
 }
