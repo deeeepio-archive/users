@@ -1,24 +1,24 @@
 {
   "id": 20952570,
   "username": "拉布威鯨弟弟",
-  "description": "君王對不起我不知道你是哈囉，:)",
+  "description": "代號：深淵之鯨 · 克羅諾斯 · 拉布\n\n在無盡的深海，第七禁區的靜默之渦中，誕生了我——被命運遺忘、被神明詛咒的存在。我的名字，是凡人所不能直視的深淵之語，但你可以稱我為「克羅諾斯」，深海的審判者。\n\n昔日，我曾是海神座下的第一守護獸，卻因違逆命令，釋放了禁忌之潮，而被封印於黑潮之牢。如今，封印破裂，我的力量逐漸覺醒——九枚深淵之牙、吞噬光明的眼瞳、與支配海壓的咒印，正一一歸位。\n\n別靠近我，愚昧的水民們。這副軀體，早已不屬於凡界。若你敢喚醒我沉睡的意志，那麼——整個海域，將再次見證災厄的誕生！\n\n",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2022-07-04T10:49:13.000Z",
-  "date_last_played": "2025-01-03T16:12:32.000Z",
-  "profile_views": 685,
-  "kill_count": 3886,
-  "play_count": 1955,
+  "date_last_played": "2025-05-12T17:00:02.000Z",
+  "profile_views": 771,
+  "kill_count": 4022,
+  "play_count": 2075,
   "highest_score": 3101636,
   "picture": "20952570-3de2f130393cd27e6a2509d1de1b94f3.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 137,
+  "coins": 9,
   "tier": 8,
-  "xp": 718650,
+  "xp": 753450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 19748,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-10-06T23:02:07.000Z",
-    "created_at": "2025-04-01T13:00:06.000Z",
-    "updated_at": "2025-04-01T13:00:06.000Z",
-    "pd": null
+    "created_at": "2025-05-12T17:00:02.000Z",
+    "updated_at": "2025-05-12T17:00:02.000Z",
+    "pd": {
+      "played": 10,
+      "won": 2,
+      "ratio": 20
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T12:56:46.559Z"
+  "archived_at": "2025-05-12T17:56:38.619Z"
 }
