@@ -2,23 +2,23 @@
   "id": 20815532,
   "username": "yenyu",
   "description": "༺炎༒獄༻   𝔂𝓮𝓷𝔂𝓾\n\n可憐 (～￣▽￣)～       ",
-  "about": "一隻愛好和平的熊 ( ?\n",
+  "about": "屁眼獵人-𝓝3\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-04-15T08:25:45.000Z",
-  "date_last_played": "2025-02-28T14:12:33.000Z",
-  "profile_views": 3138,
-  "kill_count": 18845,
-  "play_count": 4027,
+  "date_last_played": "2025-05-10T05:22:59.000Z",
+  "profile_views": 3187,
+  "kill_count": 18994,
+  "play_count": 4071,
   "highest_score": 8538290,
   "picture": "20815532-d352cf0cb106a0c7ece388d33cfbb11910.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1660,
+  "coins": 1909,
   "tier": 10,
-  "xp": 2906100,
+  "xp": 2943450,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 3343,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-21T04:48:33.000Z",
-    "created_at": "2025-02-28T14:12:32.000Z",
-    "updated_at": "2025-02-28T14:12:33.000Z",
-    "pd": null
+    "created_at": "2025-05-10T05:22:59.000Z",
+    "updated_at": "2025-05-10T05:22:59.000Z",
+    "pd": {
+      "played": 21,
+      "won": 16,
+      "ratio": 76
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T22:56:46.602Z"
+  "archived_at": "2025-05-12T01:20:15.927Z"
 }
