@@ -1,24 +1,24 @@
 {
   "id": 20973826,
-  "username": "Sidtk",
-  "description": "",
-  "about": "",
+  "username": "fatigue",
+  "description": "fatigue",
+  "about": "niggers sybau",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-09-25T11:55:40.000Z",
-  "date_last_played": "2025-04-25T01:12:52.000Z",
-  "profile_views": 15581,
-  "kill_count": 24575,
-  "play_count": 8736,
+  "date_last_played": "2025-05-11T21:23:18.000Z",
+  "profile_views": 15634,
+  "kill_count": 24750,
+  "play_count": 8780,
   "highest_score": 11148913,
-  "picture": "20973826-7e041069cdf810810760be77f46697f310-c71dbdf5-b6c3-4b41-ad97-3a407ce25226.png",
+  "picture": "20973826-7b410d43921221c303fe6b379331e2c04-cd1ac211-e160-4f46-af4e-ebacd7a80115.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 130,
+  "coins": 151,
   "tier": 10,
-  "xp": 4422750,
+  "xp": 4474650,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 2266,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-17T03:49:55.000Z",
-    "created_at": "2025-04-25T01:12:52.000Z",
-    "updated_at": "2025-04-25T01:12:52.000Z",
-    "pd": null
+    "created_at": "2025-05-11T21:23:18.000Z",
+    "updated_at": "2025-05-11T21:23:18.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T15:08:11.011Z"
+  "archived_at": "2025-05-12T20:53:01.135Z"
 }
