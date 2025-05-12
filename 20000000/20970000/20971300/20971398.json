@@ -1,39 +1,29 @@
 {
   "id": 20971398,
-  "username": "justleminouu",
-  "description": "ASTRAPHOBIA MY KING",
+  "username": "B1gT0ny",
+  "description": "",
   "about": "ASTRAPHOBIA MY KING",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-09-16T16:49:55.000Z",
-  "date_last_played": "2025-04-25T01:14:19.000Z",
-  "profile_views": 14535,
-  "kill_count": 55771,
-  "play_count": 19217,
+  "date_last_played": "2025-04-30T01:10:28.000Z",
+  "profile_views": 14551,
+  "kill_count": 55793,
+  "play_count": 19223,
   "highest_score": 15641942,
-  "picture": "20971398-7e3f1f62580f8a0541b03e37103dc4ef2-6ae3376d-5b33-4eaf-96c1-283cc218da11.png",
+  "picture": "20971398-7fc10157cbcb92b5cf9e13107e17289ecf-e55b7f2f-5e35-445b-85ed-673e423dd0b0.png",
   "displayPicture": true,
   "active": true,
-  "ban_message": null,
-  "ban_at": null,
-  "coins": 72,
+  "ban_message": "Client usage, banned until 30/05/25",
+  "ban_at": "2025-04-30T06:51:20.000Z",
+  "coins": 121,
   "tier": 10,
-  "xp": 12975450,
+  "xp": 12982800,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
-    {
-      "id": 103868,
-      "user_id": 20971398,
-      "platform_id": "dc",
-      "platform_user_id": "ASTRAPHOBIA MY KING",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-04-20T16:02:40.000Z",
-      "updated_at": "2025-04-20T16:02:40.000Z"
-    },
     {
       "id": 103082,
       "user_id": 20971398,
@@ -56,8 +46,8 @@
     "rank_hs": 1614,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T04:10:16.000Z",
-    "created_at": "2025-04-25T01:14:18.000Z",
-    "updated_at": "2025-04-25T01:14:19.000Z",
+    "created_at": "2025-04-30T01:10:27.000Z",
+    "updated_at": "2025-04-30T01:10:28.000Z",
     "pd": null
   },
   "creations": {
@@ -67,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T14:53:14.801Z"
+  "archived_at": "2025-05-12T20:32:19.155Z"
 }
