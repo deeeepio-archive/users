@@ -1,24 +1,24 @@
 {
   "id": 20954937,
   "username": "🦑gwimWeaper",
-  "description": "i got 187  kills in pearl defense once and i am now scared of my self..........☠😶‍🌫",
+  "description": "hey man\n",
   "about": "my real account age is over 5 years old and my b day is july 5th not july 14\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-07-14T20:47:24.000Z",
-  "date_last_played": "2023-09-28T02:56:41.000Z",
-  "profile_views": 172,
-  "kill_count": 192,
-  "play_count": 157,
+  "date_last_played": "2025-05-12T16:50:03.000Z",
+  "profile_views": 189,
+  "kill_count": 210,
+  "play_count": 189,
   "highest_score": 667888,
   "picture": "20954937-8d310e0a5da34e29b7718a93f84e2e672.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 115,
+  "coins": 136,
   "tier": 2,
-  "xp": 41400,
+  "xp": 44550,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 124572,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-09-27T04:12:29.000Z",
-    "created_at": "2023-09-28T02:56:40.000Z",
-    "updated_at": "2023-09-28T02:56:41.000Z",
-    "pd": null
+    "created_at": "2025-05-12T16:50:02.000Z",
+    "updated_at": "2025-05-12T16:50:03.000Z",
+    "pd": {
+      "played": 5,
+      "won": 2,
+      "ratio": 40
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-26T13:10:42.845Z"
+  "archived_at": "2025-05-12T18:21:08.336Z"
 }
