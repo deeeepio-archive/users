@@ -1,24 +1,24 @@
 {
   "id": 21182642,
   "username": "Vengence",
-  "description": "\"Who am I? One name you might have for me is The World, or you might call me The Universe, or perhaps God, or perhaps the Truth. I am all and I am one, so of course this also means that I am you. I am the truth of your despair.\"\n",
+  "description": "Love Yourz\n",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2022-11-25T00:29:47.000Z",
-  "date_last_played": "2025-04-27T05:33:34.000Z",
-  "profile_views": 76,
-  "kill_count": 1581,
-  "play_count": 1376,
-  "highest_score": 2890963,
+  "date_last_played": "2025-05-13T05:22:38.000Z",
+  "profile_views": 116,
+  "kill_count": 1941,
+  "play_count": 1694,
+  "highest_score": 4186794,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 81,
-  "tier": 5,
-  "xp": 309300,
+  "coins": 124,
+  "tier": 6,
+  "xp": 439500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": 28594,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-19T01:24:47.000Z",
-    "created_at": "2025-04-27T05:33:33.000Z",
-    "updated_at": "2025-04-27T05:33:34.000Z",
+    "created_at": "2025-05-13T05:22:38.000Z",
+    "updated_at": "2025-05-13T05:22:38.000Z",
     "pd": {
-      "played": 1,
-      "won": 0,
-      "ratio": 0
+      "played": 3,
+      "won": 2,
+      "ratio": 67
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-27T12:36:12.435Z"
+  "archived_at": "2025-05-13T21:30:46.349Z"
 }
