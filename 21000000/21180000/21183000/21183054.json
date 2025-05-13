@@ -1,24 +1,24 @@
 {
   "id": 21183054,
   "username": "𝕻𝖍𝖔𝖓𝖌𝕲𝖆𝖒𝖎𝖓𝖌GG",
-  "description": "hii",
+  "description": "lòng người còn có gì ngoài đắng và cay?‼💀\n",
   "about": "haizzz...",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-11-26T13:42:39.000Z",
-  "date_last_played": "2025-03-30T05:29:56.000Z",
-  "profile_views": 2068,
-  "kill_count": 10781,
-  "play_count": 6253,
+  "date_last_played": "2025-05-13T13:29:07.000Z",
+  "profile_views": 2124,
+  "kill_count": 10911,
+  "play_count": 6334,
   "highest_score": 4447154,
   "picture": "21183054-dec108bc13b1b7aa644132281044facaee-65e3ca4a-925e-482f-af20-5ca415ebfa41.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2351,
+  "coins": 2624,
   "tier": 10,
-  "xp": 2504250,
+  "xp": 2545200,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 10462,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-13T12:43:49.000Z",
-    "created_at": "2025-03-30T05:29:56.000Z",
-    "updated_at": "2025-03-30T05:29:56.000Z",
-    "pd": null
+    "created_at": "2025-05-13T13:29:07.000Z",
+    "updated_at": "2025-05-13T13:29:07.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-27T12:39:07.544Z"
+  "archived_at": "2025-05-13T21:33:08.621Z"
 }
