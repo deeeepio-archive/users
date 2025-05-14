@@ -2,23 +2,23 @@
   "id": 21357207,
   "username": "98214808",
   "description": "GG\nTimes getting max score (2.002 billion) in PD: 3",
-  "about": "",
+  "about": "Trying to get 10 kill/play ratio by playing PD. ",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-03-07T23:06:58.000Z",
-  "date_last_played": "2025-04-28T00:04:55.000Z",
-  "profile_views": 1343,
-  "kill_count": 14338,
-  "play_count": 1755,
+  "date_last_played": "2025-05-13T23:49:10.000Z",
+  "profile_views": 1527,
+  "kill_count": 15364,
+  "play_count": 1877,
   "highest_score": 4391951,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 4079,
+  "coins": 4782,
   "tier": 10,
-  "xp": 1252350,
+  "xp": 1357800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T00:04:55.000Z",
-    "updated_at": "2025-04-28T00:04:55.000Z",
+    "created_at": "2025-05-13T23:49:10.000Z",
+    "updated_at": "2025-05-13T23:49:10.000Z",
     "pd": {
-      "played": 105,
-      "won": 53,
-      "ratio": 50
+      "played": 145,
+      "won": 74,
+      "ratio": 51
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T07:48:56.252Z"
+  "archived_at": "2025-05-14T16:37:16.218Z"
 }
