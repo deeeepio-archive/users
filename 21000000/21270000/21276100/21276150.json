@@ -1,29 +1,40 @@
 {
   "id": 21276150,
   "username": "xuntara",
-  "description": null,
-  "about": null,
+  "description": "bro got killed by unskill\nwell well well",
+  "about": "Оооооооооооооооооооооо\nspacehey: xuntara\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-03-19T14:48:41.000Z",
-  "date_last_played": "2024-04-06T20:20:57.000Z",
-  "profile_views": 5,
-  "kill_count": 3,
-  "play_count": 13,
-  "highest_score": 25915,
+  "date_last_played": "2025-05-02T15:05:35.000Z",
+  "profile_views": 37,
+  "kill_count": 13,
+  "play_count": 44,
+  "highest_score": 329725,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 10,
+  "coins": 41,
   "tier": 1,
-  "xp": 0,
+  "xp": 4650,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104190,
+      "user_id": 21276150,
+      "platform_id": "dc",
+      "platform_user_id": "xuntara",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-01T15:16:36.000Z",
+      "updated_at": "2025-05-01T15:16:36.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21276150,
     "rank_kc": null,
@@ -35,9 +46,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2024-04-06T20:20:57.000Z",
-    "updated_at": "2024-04-06T20:20:57.000Z",
-    "pd": null
+    "created_at": "2025-05-02T15:05:35.000Z",
+    "updated_at": "2025-05-02T15:05:35.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-27T22:48:22.317Z"
+  "archived_at": "2025-05-14T07:13:54.697Z"
 }
