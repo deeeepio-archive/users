@@ -1,24 +1,24 @@
 {
   "id": 21407841,
   "username": "4xzn",
-  "description": null,
-  "about": null,
+  "description": "fawk, fawk",
+  "about": "hi",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-23T12:29:10.000Z",
-  "date_last_played": "2025-04-28T18:14:32.000Z",
-  "profile_views": 4,
-  "kill_count": 17,
-  "play_count": 52,
-  "highest_score": 600354,
-  "picture": null,
+  "date_last_played": "2025-05-13T12:52:59.000Z",
+  "profile_views": 31,
+  "kill_count": 109,
+  "play_count": 163,
+  "highest_score": 2082266,
+  "picture": "21407841-3aed2a8e5e102493d817b52128710a45ad-c85c4303-3659-4909-9ead-ae4b066a74f3.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 38,
-  "tier": 1,
-  "xp": 10200,
+  "coins": 112,
+  "tier": 2,
+  "xp": 43800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -26,21 +26,21 @@
   "social_networks": [],
   "user_stats": {
     "user_id": 21407841,
-    "rank_kc_dirty": true,
-    "rank_pc_dirty": true,
-    "rank_hs_dirty": true,
-    "created_at": "2025-04-28T19:55:29.735Z",
-    "updated_at": "2025-04-28T19:55:30.000Z",
     "rank_kc": null,
+    "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
     "rank_pc": null,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
+    "created_at": "2025-05-13T12:52:59.000Z",
+    "updated_at": "2025-05-13T12:52:59.000Z",
     "pd": {
-      "played": 4,
-      "won": 4,
-      "ratio": 100
+      "played": 12,
+      "won": 8,
+      "ratio": 67
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:55:29.832Z"
+  "archived_at": "2025-05-14T22:39:13.059Z"
 }
