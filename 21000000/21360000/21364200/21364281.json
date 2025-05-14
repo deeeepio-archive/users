@@ -1,40 +1,29 @@
 {
   "id": 21364281,
-  "username": "celtic-Yautja",
+  "username": "podo",
   "description": "",
-  "about": "@oosa22",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-04-22T21:37:15.000Z",
-  "date_last_played": "2025-04-28T05:13:03.000Z",
-  "profile_views": 727,
-  "kill_count": 1586,
-  "play_count": 320,
+  "date_last_played": "2025-05-14T05:15:16.000Z",
+  "profile_views": 826,
+  "kill_count": 1935,
+  "play_count": 378,
   "highest_score": 9294966,
-  "picture": "21364281-f0bd43a10f415a9e8bde9c912337f10e15-e6f3667f-eb0a-462f-80ba-679ec3f8aa4a.png",
+  "picture": "21364281-07b7a7d1e284db32a5109f88c73ea602a-30322605-2e1a-4c9c-a054-0c52c64f8832.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 235,
-  "tier": 6,
-  "xp": 494850,
+  "coins": 774,
+  "tier": 7,
+  "xp": 616950,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 104064,
-      "user_id": 21364281,
-      "platform_id": "yt",
-      "platform_user_id": "osa",
-      "platform_user_url": "https://www.youtube.com/@oosa22",
-      "verified": false,
-      "created_at": "2025-04-27T06:02:04.000Z",
-      "updated_at": "2025-04-27T06:02:04.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 21364281,
     "rank_kc": null,
@@ -46,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T07:00:02.000Z",
-    "updated_at": "2025-04-28T07:00:03.000Z",
+    "created_at": "2025-05-14T05:15:15.000Z",
+    "updated_at": "2025-05-14T05:15:16.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T08:43:46.938Z"
+  "archived_at": "2025-05-14T17:26:05.148Z"
 }
