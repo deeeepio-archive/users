@@ -2,16 +2,16 @@
   "id": 21360516,
   "username": "cute-fox",
   "description": "sorry about killing you bc im friendly one",
-  "about": " member of team called :{fox}\n<RED>Unnamed\n",
+  "about": " member of team called :{fox}\n and colored unnameds ;<RED>Unnamed\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-03-29T10:15:14.000Z",
-  "date_last_played": "2025-02-04T12:41:45.000Z",
-  "profile_views": 1377,
+  "date_last_played": "2025-05-13T13:36:56.000Z",
+  "profile_views": 1387,
   "kill_count": 489,
-  "play_count": 423,
+  "play_count": 430,
   "highest_score": 7597108,
-  "picture": "21360516-a5f8155f99e3265a6ed11c715d1b7df1-33993931-67bd-46a2-85bb-44c43da90b2a.png",
+  "picture": "21360516-cdbb1510905a55e71ba71e5deda2e71b6-1add1f77-1acc-47b2-b0e0-7ec1b931c343.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
@@ -76,9 +76,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-02-04T12:41:44.000Z",
-    "updated_at": "2025-02-04T12:41:45.000Z",
-    "pd": null
+    "created_at": "2025-05-13T13:36:56.000Z",
+    "updated_at": "2025-05-13T13:36:56.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -87,5 +91,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T08:16:21.704Z"
+  "archived_at": "2025-05-14T16:59:29.830Z"
 }
