@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2025-02-04T21:20:11.000Z",
-  "date_last_played": "2025-02-21T17:05:23.000Z",
-  "profile_views": 1,
-  "kill_count": 45,
-  "play_count": 103,
+  "date_last_played": "2025-05-01T14:12:06.000Z",
+  "profile_views": 4,
+  "kill_count": 62,
+  "play_count": 107,
   "highest_score": 2952117,
-  "picture": null,
+  "picture": "21399984-cb542c9a517925687f6b8bccce10fda24-3aae7054-5263-4b03-be80-87337279521e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 199,
+  "coins": 54,
   "tier": 2,
-  "xp": 48300,
+  "xp": 55050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -28,11 +28,11 @@
       "id": 102442,
       "user_id": 21399984,
       "platform_id": "dc",
-      "platform_user_id": "imrahilcik",
+      "platform_user_id": "yae.mikoo",
       "platform_user_url": null,
       "verified": false,
       "created_at": "2025-02-05T22:28:59.000Z",
-      "updated_at": "2025-02-05T22:28:59.000Z"
+      "updated_at": "2025-05-01T12:54:37.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-02-21T17:05:22.000Z",
-    "updated_at": "2025-02-21T17:05:23.000Z",
+    "created_at": "2025-05-01T14:12:05.000Z",
+    "updated_at": "2025-05-01T14:12:06.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T13:10:59.915Z"
+  "archived_at": "2025-05-14T21:33:05.362Z"
 }
