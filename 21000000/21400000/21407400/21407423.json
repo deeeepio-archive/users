@@ -1,24 +1,24 @@
 {
   "id": 21407423,
   "username": "fallenstar",
-  "description": null,
+  "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-18T08:14:49.000Z",
-  "date_last_played": "2025-04-27T17:29:50.000Z",
-  "profile_views": 7,
-  "kill_count": 64,
-  "play_count": 87,
+  "date_last_played": "2025-05-14T19:23:37.000Z",
+  "profile_views": 42,
+  "kill_count": 161,
+  "play_count": 223,
   "highest_score": 1927646,
-  "picture": null,
+  "picture": "21407423-27a2cdab0402306c22428aa3cd88eb38-2f45d7ee-829c-4c50-bdf0-ca5b2eba64ce.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 77,
-  "tier": 2,
-  "xp": 34950,
+  "coins": 66,
+  "tier": 3,
+  "xp": 80550,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-27T17:29:50.000Z",
-    "updated_at": "2025-04-27T17:29:50.000Z",
-    "pd": null
+    "created_at": "2025-05-14T19:23:37.000Z",
+    "updated_at": "2025-05-14T19:23:37.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:51:59.834Z"
+  "archived_at": "2025-05-14T22:36:10.768Z"
 }

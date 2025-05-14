@@ -1,24 +1,24 @@
 {
   "id": 21407428,
-  "username": "🌿Momonga🌿",
+  "username": "🌸Momonga🌸",
   "description": "Sorry 😟",
-  "about": "🇨🇳",
+  "about": "👾",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-18T09:41:43.000Z",
-  "date_last_played": "2025-04-28T15:12:02.000Z",
-  "profile_views": 102,
-  "kill_count": 756,
-  "play_count": 246,
-  "highest_score": 4885172,
+  "date_last_played": "2025-05-14T14:18:52.000Z",
+  "profile_views": 184,
+  "kill_count": 1487,
+  "play_count": 527,
+  "highest_score": 6155661,
   "picture": "21407428-6a8f4932850e9bcc931f1bf1af5fb582-75dde8a0-01b7-4b73-b0b3-84b1902d6e33.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 85,
-  "tier": 4,
-  "xp": 223050,
+  "coins": 340,
+  "tier": 6,
+  "xp": 457950,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T15:12:02.000Z",
-    "updated_at": "2025-04-28T15:12:02.000Z",
+    "created_at": "2025-05-14T14:18:52.000Z",
+    "updated_at": "2025-05-14T14:18:52.000Z",
     "pd": {
-      "played": 21,
-      "won": 9,
-      "ratio": 43
+      "played": 58,
+      "won": 31,
+      "ratio": 53
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:52:01.275Z"
+  "archived_at": "2025-05-14T22:36:12.070Z"
 }
