@@ -1,0 +1,75 @@
+{
+  "id": 21408386,
+  "username": "Suno",
+  "description": "🫠",
+  "about": "普通電競人",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-04-29T10:26:31.000Z",
+  "date_last_played": "2025-05-14T02:57:35.000Z",
+  "profile_views": 90,
+  "kill_count": 174,
+  "play_count": 105,
+  "highest_score": 708839,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 71,
+  "tier": 1,
+  "xp": 21900,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 104445,
+      "user_id": 21408386,
+      "platform_id": "dc",
+      "platform_user_id": "Suno213510",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-06T12:39:18.000Z",
+      "updated_at": "2025-05-06T12:39:18.000Z"
+    },
+    {
+      "id": 104446,
+      "user_id": 21408386,
+      "platform_id": "yt",
+      "platform_user_id": "撅Suno",
+      "platform_user_url": "https://youtube.com/@suno_youtube?si=OouMpn55h47uC0G7",
+      "verified": false,
+      "created_at": "2025-05-06T12:40:05.000Z",
+      "updated_at": "2025-05-06T12:40:05.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21408386,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-05-14T10:00:03.000Z",
+    "updated_at": "2025-05-14T10:00:03.000Z",
+    "pd": {
+      "played": 4,
+      "won": 1,
+      "ratio": 25
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-05-14T22:43:28.155Z"
+}
