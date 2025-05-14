@@ -1,29 +1,40 @@
 {
   "id": 21358305,
-  "username": "Gorilla_",
-  "description": "sry i killed you but what did you expect fighting a gorilla!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ᕦ( ͡° ͜ʖ ͡°)ᕤ",
-  "about": "i am a gorilla chilling in the congo come and visit some time. also plz donate to Dian Fossey Gorilla Fund International. thank you",
+  "username": "G0rilla",
+  "description": "don't eat my bananas or i'll eat your banana🍌",
+  "about": "I’m just a chill gorilla vibin’ in the Congo. Swing by sometime, we’ll share a banana. Oh, and toss some love (and cash) to the Dian Fossey Gorilla Fund. Help a homie out. 🦍💸🍌",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-03-13T12:21:05.000Z",
-  "date_last_played": "2025-04-28T04:06:44.000Z",
-  "profile_views": 134,
-  "kill_count": 2401,
-  "play_count": 1227,
+  "date_last_played": "2025-05-14T16:05:47.000Z",
+  "profile_views": 162,
+  "kill_count": 2869,
+  "play_count": 1509,
   "highest_score": 5436580,
-  "picture": "21358305-a6c11012a49b5d8acfbed3ed98d5e9994-52e7eb12-e066-4131-a2e2-73b20cb0f087.png",
+  "picture": "21358305-40261ddfeb71563f58da2332f2426a80-abc7a726-4374-4bea-a86d-456ed3734bd7.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 74,
-  "tier": 7,
-  "xp": 641850,
+  "coins": 37,
+  "tier": 8,
+  "xp": 818550,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104383,
+      "user_id": 21358305,
+      "platform_id": "dc",
+      "platform_user_id": "hungrygoryia",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-05T13:44:52.000Z",
+      "updated_at": "2025-05-05T13:44:52.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21358305,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T04:06:43.000Z",
-    "updated_at": "2025-04-28T04:06:44.000Z",
+    "created_at": "2025-05-14T16:05:47.000Z",
+    "updated_at": "2025-05-14T16:05:47.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T07:56:39.615Z"
+  "archived_at": "2025-05-14T16:44:44.759Z"
 }
