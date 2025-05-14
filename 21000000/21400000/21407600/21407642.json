@@ -2,23 +2,23 @@
   "id": 21407642,
   "username": "Jogi_",
   "description": "you'd get em next time.",
-  "about": "ion even playn' whicho ahh\n(i gotta fill yu buuns)",
+  "about": "yur jt corny 🥷🏿🥷🏿",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-20T18:28:05.000Z",
-  "date_last_played": "2025-04-27T17:16:42.000Z",
-  "profile_views": 15,
-  "kill_count": 36,
-  "play_count": 8,
+  "date_last_played": "2025-05-13T21:19:10.000Z",
+  "profile_views": 50,
+  "kill_count": 204,
+  "play_count": 73,
   "highest_score": 2383576,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 88,
-  "tier": 1,
-  "xp": 11700,
+  "coins": 274,
+  "tier": 2,
+  "xp": 39600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -26,18 +26,22 @@
   "social_networks": [],
   "user_stats": {
     "user_id": 21407642,
-    "rank_kc_dirty": true,
-    "rank_pc_dirty": true,
-    "rank_hs_dirty": true,
-    "created_at": "2025-04-28T19:53:47.872Z",
-    "updated_at": "2025-04-28T19:53:48.000Z",
     "rank_kc": null,
+    "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
     "rank_pc": null,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "pd": null
+    "created_at": "2025-05-14T00:00:05.000Z",
+    "updated_at": "2025-05-14T00:00:05.000Z",
+    "pd": {
+      "played": 19,
+      "won": 6,
+      "ratio": 32
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:53:47.953Z"
+  "archived_at": "2025-05-14T22:37:46.775Z"
 }
