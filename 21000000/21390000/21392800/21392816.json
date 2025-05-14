@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-12-07T14:09:00.000Z",
-  "date_last_played": "2025-04-24T15:01:31.000Z",
-  "profile_views": 695,
-  "kill_count": 3263,
-  "play_count": 1097,
-  "highest_score": 14734768,
+  "date_last_played": "2025-05-14T13:11:41.000Z",
+  "profile_views": 935,
+  "kill_count": 3996,
+  "play_count": 1279,
+  "highest_score": 15701950,
   "picture": "21392816-d69962427abad0b94a33010457c0d8526-c61ca86e-4fbd-4bb0-af4d-0a306cc3cb1b.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 3305,
-  "tier": 9,
-  "xp": 1064250,
+  "coins": 5166,
+  "tier": 10,
+  "xp": 1373400,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104105,
+      "user_id": 21392816,
+      "platform_id": "dc",
+      "platform_user_id": "watagon7342",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-29T16:23:35.000Z",
+      "updated_at": "2025-04-29T19:02:13.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21392816,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-24T18:00:03.000Z",
-    "updated_at": "2025-04-24T18:00:04.000Z",
+    "created_at": "2025-05-14T13:11:41.000Z",
+    "updated_at": "2025-05-14T13:11:41.000Z",
     "pd": {
       "played": 1,
       "won": 1,
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T12:18:10.817Z"
+  "archived_at": "2025-05-14T20:38:09.442Z"
 }
