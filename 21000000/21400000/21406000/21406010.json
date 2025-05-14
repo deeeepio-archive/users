@@ -2,28 +2,59 @@
   "id": 21406010,
   "username": "llllllllllllllllllllllll",
   "description": "lol ",
-  "about": "",
+  "about": "lag.io\n\n80ping and 1fps",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-29T10:29:44.000Z",
-  "date_last_played": "2025-04-18T12:15:52.000Z",
-  "profile_views": 148,
-  "kill_count": 42,
-  "play_count": 13,
+  "date_last_played": "2025-05-14T02:15:35.000Z",
+  "profile_views": 280,
+  "kill_count": 124,
+  "play_count": 39,
   "highest_score": 246860,
-  "picture": null,
+  "picture": "21406010-558d2bf3af2378f092c30285e433dfb2-92d65273-0b0d-4ba3-af4b-853e42065034.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 52,
-  "tier": 1,
-  "xp": 7800,
+  "coins": 194,
+  "tier": 2,
+  "xp": 29100,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104647,
+      "user_id": 21406010,
+      "platform_id": "dc",
+      "platform_user_id": "🖕",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-12T06:33:43.000Z",
+      "updated_at": "2025-05-12T06:33:43.000Z"
+    },
+    {
+      "id": 104519,
+      "user_id": 21406010,
+      "platform_id": "dc",
+      "platform_user_id": "client thresher",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-08T15:12:30.000Z",
+      "updated_at": "2025-05-08T15:12:30.000Z"
+    },
+    {
+      "id": 104518,
+      "user_id": 21406010,
+      "platform_id": "dc",
+      "platform_user_id": "pipi019022",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-08T15:12:23.000Z",
+      "updated_at": "2025-05-08T15:12:23.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21406010,
     "rank_kc": null,
@@ -35,12 +66,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-18T12:15:52.000Z",
-    "updated_at": "2025-04-18T12:15:52.000Z",
+    "created_at": "2025-05-14T02:15:34.000Z",
+    "updated_at": "2025-05-14T02:15:35.000Z",
     "pd": {
-      "played": 12,
-      "won": 7,
-      "ratio": 58
+      "played": 29,
+      "won": 19,
+      "ratio": 66
     }
   },
   "creations": {
@@ -50,5 +81,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:41:21.396Z"
+  "archived_at": "2025-05-14T22:21:11.327Z"
 }
