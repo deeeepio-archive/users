@@ -1,24 +1,24 @@
 {
   "id": 21386499,
-  "username": "slow-1",
+  "username": "slow-",
   "description": "HEHEHEHEH >:D\n",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-22T10:59:29.000Z",
-  "date_last_played": "2025-04-22T11:32:19.000Z",
-  "profile_views": 78,
-  "kill_count": 81,
-  "play_count": 20,
+  "date_last_played": "2025-05-14T06:05:10.000Z",
+  "profile_views": 98,
+  "kill_count": 98,
+  "play_count": 26,
   "highest_score": 1686322,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 120,
-  "tier": 1,
-  "xp": 16500,
+  "coins": 149,
+  "tier": 2,
+  "xp": 26850,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-22T11:32:18.000Z",
-    "updated_at": "2025-04-22T11:32:19.000Z",
-    "pd": null
+    "created_at": "2025-05-14T06:05:10.000Z",
+    "updated_at": "2025-05-14T06:05:10.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T11:35:14.755Z"
+  "archived_at": "2025-05-14T19:57:19.349Z"
 }
