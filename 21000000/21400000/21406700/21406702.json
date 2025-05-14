@@ -1,29 +1,40 @@
 {
   "id": 21406702,
   "username": "☪4𝕭",
-  "description": "guys i am real 4B",
+  "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-03T11:12:08.000Z",
-  "date_last_played": "2025-04-26T16:01:40.000Z",
-  "profile_views": 266,
-  "kill_count": 2747,
-  "play_count": 319,
-  "highest_score": 2302312,
-  "picture": "21406702-08c5f988aa139fd21c674adfb3f5cabd-2cf07e31-b900-48f8-987a-b39502d027f2.png",
+  "date_last_played": "2025-05-06T14:21:49.000Z",
+  "profile_views": 414,
+  "kill_count": 3337,
+  "play_count": 551,
+  "highest_score": 2985649,
+  "picture": "21406702-726f25dc6ecf4c39d614436772fe8281-80a7a3e7-79a3-4a15-8565-1c380f7408ad.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 353,
-  "tier": 4,
-  "xp": 166200,
+  "coins": 228,
+  "tier": 5,
+  "xp": 289950,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104389,
+      "user_id": 21406702,
+      "platform_id": "yt",
+      "platform_user_id": "WASSIM . 4B",
+      "platform_user_url": "https://youtube.com/@wassim_b4?si=w9mZlpVBIVvLK_NF",
+      "verified": false,
+      "created_at": "2025-05-05T18:42:11.000Z",
+      "updated_at": "2025-05-05T18:42:11.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21406702,
     "rank_kc": null,
@@ -35,13 +46,9 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-26T16:01:40.000Z",
-    "updated_at": "2025-04-26T16:01:40.000Z",
-    "pd": {
-      "played": 12,
-      "won": 6,
-      "ratio": 50
-    }
+    "created_at": "2025-05-06T16:00:04.000Z",
+    "updated_at": "2025-05-06T16:00:05.000Z",
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -50,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:46:19.342Z"
+  "archived_at": "2025-05-14T22:26:06.297Z"
 }
