@@ -1,24 +1,24 @@
 {
   "id": 21407542,
-  "username": "BALCKGOKU",
+  "username": "SUKNA",
   "description": "WHO WANTS TO FIGHT ME",
   "about": "THIS GAME SUCKS",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-19T16:17:56.000Z",
-  "date_last_played": "2025-04-28T11:24:27.000Z",
-  "profile_views": 26,
-  "kill_count": 26,
-  "play_count": 65,
-  "highest_score": 912419,
-  "picture": null,
+  "date_last_played": "2025-05-14T01:28:02.000Z",
+  "profile_views": 84,
+  "kill_count": 151,
+  "play_count": 170,
+  "highest_score": 1036639,
+  "picture": "21407542-69d6ad1a854dfe37d9a8842921462e9d-99bd0a3e-5d45-441c-ad03-c8c63504fee4.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 84,
-  "tier": 1,
-  "xp": 14850,
+  "coins": 244,
+  "tier": 2,
+  "xp": 40350,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T11:24:27.000Z",
-    "updated_at": "2025-04-28T11:24:27.000Z",
+    "created_at": "2025-05-14T01:28:02.000Z",
+    "updated_at": "2025-05-14T01:28:02.000Z",
     "pd": {
-      "played": 1,
-      "won": 1,
-      "ratio": 100
+      "played": 26,
+      "won": 8,
+      "ratio": 31
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:52:42.935Z"
+  "archived_at": "2025-05-14T22:37:04.920Z"
 }
