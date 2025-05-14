@@ -1,24 +1,24 @@
 {
   "id": 21252626,
   "username": "FRANK123",
-  "description": "我是台灣人\n不是外國人\nI am Taiwan!\nIs not China\n該死",
+  "description": "Noob lol\n傻逼💩",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2023-01-01T06:13:08.000Z",
-  "date_last_played": "2023-02-03T10:05:50.000Z",
-  "profile_views": 28,
-  "kill_count": 121,
-  "play_count": 135,
+  "date_last_played": "2025-05-11T12:28:54.000Z",
+  "profile_views": 32,
+  "kill_count": 136,
+  "play_count": 160,
   "highest_score": 2446678,
   "picture": "21252626-5eac25583408ee239d9fe2243d9e44f8.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 203,
+  "coins": 259,
   "tier": 2,
-  "xp": 36450,
+  "xp": 46350,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 79868,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-01-30T06:51:38.000Z",
-    "created_at": "2023-02-03T10:22:55.000Z",
-    "updated_at": "2023-02-03T10:22:56.000Z",
-    "pd": null
+    "created_at": "2025-05-11T12:28:53.000Z",
+    "updated_at": "2025-05-11T12:28:54.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-27T20:12:22.348Z"
+  "archived_at": "2025-05-14T04:47:28.338Z"
 }
