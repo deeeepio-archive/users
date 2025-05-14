@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-06T07:36:02.000Z",
-  "date_last_played": "2025-04-28T08:09:38.000Z",
-  "profile_views": 41,
-  "kill_count": 124,
-  "play_count": 330,
-  "highest_score": 771206,
+  "date_last_played": "2025-05-14T10:43:28.000Z",
+  "profile_views": 55,
+  "kill_count": 140,
+  "play_count": 357,
+  "highest_score": 2164498,
   "picture": "21403247-1eb74f610965272f81dd5f74cd183bbad-05a5d389-a5cf-4dcc-afc7-753f67e04ddf.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 4,
+  "coins": 11,
   "tier": 2,
-  "xp": 33000,
+  "xp": 48300,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104572,
+      "user_id": 21403247,
+      "platform_id": "dc",
+      "platform_user_id": "pongpingmaster122",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-10T17:19:57.000Z",
+      "updated_at": "2025-05-10T17:19:57.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21403247,
     "rank_kc": null,
@@ -35,16 +46,59 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T08:09:38.000Z",
-    "updated_at": "2025-04-28T08:09:38.000Z",
+    "created_at": "2025-05-14T10:43:27.000Z",
+    "updated_at": "2025-05-14T10:43:28.000Z",
     "pd": null
   },
   "creations": {
     "maps": {
-      "items": [],
-      "count": 0
+      "items": [
+        {
+          "id": 245315,
+          "user_id": 21403247,
+          "cloneof_id": null,
+          "string_id": "2763land",
+          "title": "hide ands seek/ adventure ",
+          "description": "hideandseek",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 137,
+          "created_at": "2025-05-07T17:01:05.000Z",
+          "updated_at": "2025-05-08T16:47:07.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21403247,
+            "username": "andiwand",
+            "description": "im sorry for killing you, i just need coins, dont rage, ok?\n",
+            "about": "frog",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2025-03-06T07:36:02.000Z",
+            "date_last_played": "2025-05-14T10:43:28.000Z",
+            "kill_count": 140,
+            "play_count": 357,
+            "highest_score": 2164498,
+            "picture": "21403247-1eb74f610965272f81dd5f74cd183bbad-05a5d389-a5cf-4dcc-afc7-753f67e04ddf.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 2,
+            "xp": 48300,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        }
+      ],
+      "count": 1
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:20:13.957Z"
+  "archived_at": "2025-05-14T21:56:19.913Z"
 }
