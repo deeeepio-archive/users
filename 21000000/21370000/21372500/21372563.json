@@ -1,24 +1,24 @@
 {
   "id": 21372563,
   "username": "Tidbits",
-  "description": "Asphalt Legends unite player (all time star!)\nRoblox: Wh4tIsYourFavors0nly - Urfavor11\nIm not tweaking \n\n\n",
+  "description": "Im hi tidbits or i suck :< in 1v1, \n\"If you lose, its best not to rage and say hurtful things which doesnt do anything, its best to know that, Hey! it was still a gg battle.\" I ignore hurtful comments so dont ask why i didnt answer. U suck if u say\n",
   "about": "Uh just ignore my tier\nAND ITS AUGUST 26\nMy number: 443 477 9684\nI will answer call\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-06-26T01:24:35.000Z",
-  "date_last_played": "2025-04-28T00:01:13.000Z",
-  "profile_views": 168,
-  "kill_count": 98,
-  "play_count": 178,
+  "date_last_played": "2025-05-10T21:31:06.000Z",
+  "profile_views": 450,
+  "kill_count": 186,
+  "play_count": 246,
   "highest_score": 1303812,
-  "picture": null,
+  "picture": "21372563-52cd84733e8662e3d89b5c65fb106af42-6a6c6ae0-4619-42f5-8aad-eec8fd48205c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 5,
-  "tier": 1,
-  "xp": 21000,
+  "coins": 13,
+  "tier": 2,
+  "xp": 27900,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -43,6 +43,16 @@
       "verified": false,
       "created_at": "2024-08-18T06:15:19.000Z",
       "updated_at": "2024-08-18T06:15:19.000Z"
+    },
+    {
+      "id": 104546,
+      "user_id": 21372563,
+      "platform_id": "dc",
+      "platform_user_id": "Https://slither.io",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-09T11:34:25.000Z",
+      "updated_at": "2025-05-09T11:34:25.000Z"
     }
   ],
   "user_stats": {
@@ -56,9 +66,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T00:01:12.000Z",
-    "updated_at": "2025-04-28T00:01:13.000Z",
-    "pd": null
+    "created_at": "2025-05-10T21:42:04.000Z",
+    "updated_at": "2025-05-10T21:42:04.000Z",
+    "pd": {
+      "played": 3,
+      "won": 1,
+      "ratio": 33
+    }
   },
   "creations": {
     "maps": {
@@ -67,5 +81,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T09:51:06.252Z"
+  "archived_at": "2025-05-14T18:25:27.715Z"
 }
