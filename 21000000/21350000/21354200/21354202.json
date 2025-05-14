@@ -1,24 +1,24 @@
 {
   "id": 21354202,
   "username": "Dkan",
-  "description": "You got WHALED ON\n\n\n",
+  "description": "Glhf for your next run\n\n\n",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-02-21T15:45:47.000Z",
-  "date_last_played": "2024-11-27T05:42:33.000Z",
-  "profile_views": 18,
-  "kill_count": 110,
-  "play_count": 164,
+  "date_last_played": "2025-05-08T18:54:16.000Z",
+  "profile_views": 23,
+  "kill_count": 153,
+  "play_count": 207,
   "highest_score": 951903,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 3,
+  "coins": 103,
   "tier": 2,
-  "xp": 25200,
+  "xp": 40200,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2024-11-27T05:42:33.000Z",
-    "updated_at": "2024-11-27T05:42:33.000Z",
-    "pd": null
+    "created_at": "2025-05-08T18:54:16.000Z",
+    "updated_at": "2025-05-08T18:54:16.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T07:28:49.113Z"
+  "archived_at": "2025-05-14T16:17:32.549Z"
 }
