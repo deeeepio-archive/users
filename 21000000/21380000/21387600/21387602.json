@@ -1,29 +1,50 @@
 {
   "id": 21387602,
-  "username": "ₘₐDᵣᵤGₐᴱᴺˢᵁᴍᴏᴅᴏˢᴱᴿᴵᴼ",
+  "username": "𝐃𝐄𝐄𝐄𝐄𝐏-𝐈𝐎",
   "description": null,
   "about": "Se nós não perdoar, Deus não perdoa \nSi no perdonamos, Dios no perdona\nIf we don't forgive, God doesn't forgive",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-30T12:56:10.000Z",
-  "date_last_played": "2025-03-31T19:48:20.000Z",
-  "profile_views": 267,
-  "kill_count": 452,
-  "play_count": 613,
+  "date_last_played": "2025-05-14T19:25:36.000Z",
+  "profile_views": 332,
+  "kill_count": 572,
+  "play_count": 739,
   "highest_score": 7457323,
-  "picture": "21387602-860407d69df1d9a8c11b4252a48be241-be107ad3-7d4a-4da1-b7f4-c73efa098c93.png",
+  "picture": "21387602-faa823a69e8690ec96219d410ba06dd55-bc117daa-6f9e-4f49-a3b6-4db078c8b0a1.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 140,
-  "tier": 5,
-  "xp": 330900,
+  "coins": 233,
+  "tier": 6,
+  "xp": 446100,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104738,
+      "user_id": 21387602,
+      "platform_id": "dc",
+      "platform_user_id": "U  grande sAbIdO",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-14T19:45:09.000Z",
+      "updated_at": "2025-05-14T19:45:09.000Z"
+    },
+    {
+      "id": 104735,
+      "user_id": 21387602,
+      "platform_id": "dc",
+      "platform_user_id": "U ' grande SaBiDo",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-14T19:44:36.000Z",
+      "updated_at": "2025-05-14T19:44:36.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21387602,
     "rank_kc": null,
@@ -35,9 +56,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-03-31T19:48:19.000Z",
-    "updated_at": "2025-03-31T19:48:20.000Z",
-    "pd": null
+    "created_at": "2025-05-14T19:25:36.000Z",
+    "updated_at": "2025-05-14T19:25:36.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T11:42:59.373Z"
+  "archived_at": "2025-05-14T20:05:08.954Z"
 }
