@@ -1,24 +1,24 @@
 {
   "id": 21388986,
   "username": "可莉想炸魚",
-  "description": null,
+  "description": "可莉想家了",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-11-09T10:17:27.000Z",
-  "date_last_played": "2025-04-22T10:37:28.000Z",
-  "profile_views": 8,
-  "kill_count": 4,
-  "play_count": 8,
-  "highest_score": 6205,
+  "date_last_played": "2025-05-05T02:55:55.000Z",
+  "profile_views": 26,
+  "kill_count": 5,
+  "play_count": 39,
+  "highest_score": 184475,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 16,
+  "coins": 20,
   "tier": 1,
-  "xp": 900,
+  "xp": 1500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,10 +35,10 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-22T10:53:07.000Z",
-    "updated_at": "2025-04-22T10:53:07.000Z",
+    "created_at": "2025-05-05T02:55:55.000Z",
+    "updated_at": "2025-05-05T02:55:55.000Z",
     "pd": {
-      "played": 1,
+      "played": 4,
       "won": 0,
       "ratio": 0
     }
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T11:51:59.471Z"
+  "archived_at": "2025-05-14T20:13:33.742Z"
 }
