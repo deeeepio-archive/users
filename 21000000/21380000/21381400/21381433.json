@@ -1,29 +1,40 @@
 {
   "id": 21381433,
-  "username": "melon_musk",
-  "description": "                   ╱▔╲\n     ▕┃ ┃▏\n     ▕╰━╯▏\n     ▕   ▏\n     ▕ ┈ ▏\n  ╱╲ ▕   ▏\n ╱╱ ▏▕ ┈ ▏\n╱▔ ╱▔▕ ┈ ▏▔╲\n▏ ┈▏ ▕   ▏ ▕▔╲\n\nN\n　 O\n　　　 O\n　　　　 o\n　　　　　o\n　　　　　 o\n　　　　　o\n　　　　 。\n　　　 。\n　　　.\n　　　.\n　　　 .\n　　　　.\n.\n.\n.\n.\n.\"pai pai",
-  "about": "uiia",
+  "username": "bố_chuột",
+  "description": "bố chuột",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-09-11T10:44:33.000Z",
-  "date_last_played": "2025-04-27T04:04:38.000Z",
-  "profile_views": 428,
-  "kill_count": 1703,
-  "play_count": 689,
+  "date_last_played": "2025-05-14T15:03:00.000Z",
+  "profile_views": 444,
+  "kill_count": 1796,
+  "play_count": 741,
   "highest_score": 4277120,
-  "picture": "21381433-40413ebe5f2988faf6310b758eb1d256f-91329ca9-7488-4aec-8977-34a016ec188a.png",
+  "picture": "21381433-136f3ef46f0dbe4f1463e2a66f214852-de2c08d5-9ce2-489b-b74d-af4f8b5a23d4.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 26,
+  "coins": 200,
   "tier": 6,
-  "xp": 416700,
+  "xp": 445050,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104674,
+      "user_id": 21381433,
+      "platform_id": "yt",
+      "platform_user_id": "bố chuột",
+      "platform_user_url": "https://www.youtube.com/watch?v=FVYElnhmsKY&list=RDFVYElnhmsKY&start_radio=1",
+      "verified": false,
+      "created_at": "2025-05-13T14:18:41.000Z",
+      "updated_at": "2025-05-13T14:18:41.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21381433,
     "rank_kc": null,
@@ -35,12 +46,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-27T04:04:38.000Z",
-    "updated_at": "2025-04-27T04:04:38.000Z",
+    "created_at": "2025-05-14T18:00:04.000Z",
+    "updated_at": "2025-05-14T18:00:04.000Z",
     "pd": {
-      "played": 18,
-      "won": 11,
-      "ratio": 61
+      "played": 8,
+      "won": 6,
+      "ratio": 75
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T11:00:04.412Z"
+  "archived_at": "2025-05-14T19:24:24.224Z"
 }
