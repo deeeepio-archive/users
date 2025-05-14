@@ -1,24 +1,24 @@
 {
   "id": 21377908,
   "username": "Grilled_Cheese",
-  "description": "Womp womp. . .\nI know, I can't win every fight either",
+  "description": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\" – Winston Churchill",
   "about": "Snow leopards are cool, and uh, ya- their cool, so. . . yay\n[IF YOU MAIN AS ANY OF THESE, I HATE YOU :} ]\nℬℯ𝒶𝓀ℯ𝒹\nℰ𝒶𝑔𝓁ℯ\n𝒪𝒶𝓇\n𝒮𝓉ℴ𝓃ℯ ℱ𝒾𝓈𝒽\n[IF YOU ARE ANY OF THESE PEOPLE, YOU ARE MY TOP FAVS <3 ]\n𝕎𝕠𝕝𝕗𝕧𝕚𝕠𝕦𝕤\n𝕆𝕧𝕖𝕣𝕤𝕒𝕝𝕥𝕖𝕕 𝕄𝕒𝕕𝕟𝕖𝕤𝕤\n𝕋𝕙𝕣𝕖𝕤𝕙𝕪\n\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-08-15T14:40:18.000Z",
-  "date_last_played": "2025-03-09T17:01:13.000Z",
-  "profile_views": 166,
-  "kill_count": 384,
-  "play_count": 590,
+  "date_last_played": "2025-05-05T22:47:38.000Z",
+  "profile_views": 198,
+  "kill_count": 413,
+  "play_count": 610,
   "highest_score": 2340921,
-  "picture": "21377908-810c61e43a894d4b549238e28a5359a0c-3a8fbb4a-ac52-45b4-8403-98e29bc8e287.png",
+  "picture": "21377908-f572b1012d9282ce2b2d8137269118e57-6c418061-29a7-4de5-9402-4331f0b810c8.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 238,
+  "coins": 333,
   "tier": 3,
-  "xp": 101850,
+  "xp": 116100,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-03-09T17:01:13.000Z",
-    "updated_at": "2025-03-09T17:01:13.000Z",
-    "pd": null
+    "created_at": "2025-05-06T00:00:02.000Z",
+    "updated_at": "2025-05-06T00:00:02.000Z",
+    "pd": {
+      "played": 6,
+      "won": 4,
+      "ratio": 67
+    }
   },
   "creations": {
     "maps": {
@@ -61,23 +65,23 @@
           "user": {
             "id": 21377908,
             "username": "Grilled_Cheese",
-            "description": "Womp womp. . .\nI know, I can't win every fight either",
+            "description": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\" – Winston Churchill",
             "about": "Snow leopards are cool, and uh, ya- their cool, so. . . yay\n[IF YOU MAIN AS ANY OF THESE, I HATE YOU :} ]\nℬℯ𝒶𝓀ℯ𝒹\nℰ𝒶𝑔𝓁ℯ\n𝒪𝒶𝓇\n𝒮𝓉ℴ𝓃ℯ ℱ𝒾𝓈𝒽\n[IF YOU ARE ANY OF THESE PEOPLE, YOU ARE MY TOP FAVS <3 ]\n𝕎𝕠𝕝𝕗𝕧𝕚𝕠𝕦𝕤\n𝕆𝕧𝕖𝕣𝕤𝕒𝕝𝕥𝕖𝕕 𝕄𝕒𝕕𝕟𝕖𝕤𝕤\n𝕋𝕙𝕣𝕖𝕤𝕙𝕪\n\n",
             "team_id": null,
             "team_role": null,
             "date_created": "2024-08-15T14:40:18.000Z",
-            "date_last_played": "2025-03-09T17:01:13.000Z",
-            "kill_count": 384,
-            "play_count": 590,
+            "date_last_played": "2025-05-05T22:47:38.000Z",
+            "kill_count": 413,
+            "play_count": 610,
             "highest_score": 2340921,
-            "picture": "21377908-810c61e43a894d4b549238e28a5359a0c-3a8fbb4a-ac52-45b4-8403-98e29bc8e287.png",
+            "picture": "21377908-f572b1012d9282ce2b2d8137269118e57-6c418061-29a7-4de5-9402-4331f0b810c8.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 238,
+            "coins": 333,
             "tier": 3,
-            "xp": 101850,
+            "xp": 116100,
             "migrated": false,
             "verified": false,
             "beta": false
@@ -89,5 +93,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T10:35:54.369Z"
+  "archived_at": "2025-05-14T19:01:53.631Z"
 }
