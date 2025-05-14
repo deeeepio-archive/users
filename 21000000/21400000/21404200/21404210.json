@@ -1,24 +1,24 @@
 {
   "id": 21404210,
   "username": "Nightdigger",
-  "description": "If you liked me i will not have killed you.......\n",
+  "description": "The world is a bad place becasue of you that's why I had to kill you:)\n",
   "about": "I play Brawl Star, All out, and super sus. So, if you play them too tell me on discord!",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-14T02:25:28.000Z",
-  "date_last_played": "2025-03-24T22:40:34.000Z",
-  "profile_views": 22,
-  "kill_count": 49,
-  "play_count": 194,
+  "date_last_played": "2025-05-14T04:10:48.000Z",
+  "profile_views": 66,
+  "kill_count": 78,
+  "play_count": 229,
   "highest_score": 371980,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 19,
+  "coins": 70,
   "tier": 1,
-  "xp": 11100,
+  "xp": 21750,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-03-24T22:40:34.000Z",
-    "updated_at": "2025-03-24T22:40:34.000Z",
-    "pd": null
+    "created_at": "2025-05-14T06:00:04.000Z",
+    "updated_at": "2025-05-14T06:00:05.000Z",
+    "pd": {
+      "played": 26,
+      "won": 10,
+      "ratio": 38
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:28:07.373Z"
+  "archived_at": "2025-05-14T22:08:34.565Z"
 }
