@@ -1,24 +1,24 @@
 {
   "id": 21334968,
   "username": "蔚藍",
-  "description": "好吃 \n",
+  "description": "嗯\n好好吃喔！！！\n帥吧☠️\n\n",
   "about": "来て@-@",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-11-17T12:25:52.000Z",
-  "date_last_played": "2025-02-22T04:16:13.000Z",
-  "profile_views": 237,
-  "kill_count": 83,
-  "play_count": 142,
+  "date_last_played": "2025-05-11T09:29:19.000Z",
+  "profile_views": 289,
+  "kill_count": 110,
+  "play_count": 171,
   "highest_score": 833645,
-  "picture": "21334968-ceb5ecaf53d6e6c9e1a2a1f8bce41065e.png",
+  "picture": "21334968-66a9705d77e79e16cd9abd101a90f9fc9-00725602-1ed2-4430-b587-906ef0cd9734.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 118,
+  "coins": 182,
   "tier": 2,
-  "xp": 27300,
+  "xp": 36900,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -56,9 +56,13 @@
     "rank_hs": 110137,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-19T12:48:32.000Z",
-    "created_at": "2025-02-22T04:16:13.000Z",
-    "updated_at": "2025-02-22T04:16:13.000Z",
-    "pd": null
+    "created_at": "2025-05-11T09:29:19.000Z",
+    "updated_at": "2025-05-11T09:29:19.000Z",
+    "pd": {
+      "played": 11,
+      "won": 5,
+      "ratio": 45
+    }
   },
   "creations": {
     "maps": {
@@ -67,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T05:15:36.685Z"
+  "archived_at": "2025-05-14T14:05:01.862Z"
 }
