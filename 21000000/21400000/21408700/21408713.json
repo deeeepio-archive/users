@@ -1,31 +1,31 @@
 {
-  "id": 21408780,
-  "username": "edoudou",
-  "description": null,
+  "id": 21408713,
+  "username": "Nick_",
+  "description": "You werent my enemy.... just in my way\n\n\n",
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2025-05-03T14:49:00.000Z",
-  "date_last_played": "2025-05-09T00:17:04.000Z",
-  "profile_views": 0,
-  "kill_count": 37,
-  "play_count": 91,
-  "highest_score": 1024775,
+  "date_created": "2025-05-02T22:15:23.000Z",
+  "date_last_played": "2025-05-14T22:33:59.000Z",
+  "profile_views": 12,
+  "kill_count": 211,
+  "play_count": 96,
+  "highest_score": 2425594,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 127,
-  "tier": 1,
-  "xp": 19050,
+  "coins": 64,
+  "tier": 2,
+  "xp": 56100,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 21408780,
+    "user_id": 21408713,
     "rank_kc": null,
     "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-09T06:48:46.000Z",
-    "updated_at": "2025-05-09T06:48:46.000Z",
+    "created_at": "2025-05-14T22:33:58.000Z",
+    "updated_at": "2025-05-14T22:33:59.000Z",
     "pd": {
-      "played": 1,
-      "won": 0,
-      "ratio": 0
+      "played": 5,
+      "won": 3,
+      "ratio": 60
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:46:06.065Z"
+  "archived_at": "2025-05-14T22:45:56.332Z"
 }
