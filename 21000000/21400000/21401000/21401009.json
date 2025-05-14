@@ -1,78 +1,48 @@
 {
   "id": 21401009,
-  "username": "FAILUR",
-  "description": "\"When I went to school, I had to walk 20 miles. Uphill. Both ways.  Every morning I had to fight two lions\"Steven He \n\" I'M THE CEO OF BEIJING CORN!!\"Steven He",
-  "about": "YOU STUPIDDDDDDDDDDD",
+  "username": "Kim-Jong-Un",
+  "description": "The days are gone forever when our enemies could blackmail us with nuclear bombs.\n\nKim Jong-un\n\n",
+  "about": "The days are gone forever when our enemies could blackmail us with nuclear bombs.\n\nKim Jong-un\n\n\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-02-13T23:40:52.000Z",
-  "date_last_played": "2025-04-27T21:15:22.000Z",
-  "profile_views": 263,
-  "kill_count": 802,
-  "play_count": 1013,
+  "date_last_played": "2025-05-14T21:38:26.000Z",
+  "profile_views": 326,
+  "kill_count": 1015,
+  "play_count": 1321,
   "highest_score": 2570968,
-  "picture": "21401009-bc10881101059b322411c410acea1d3d68fd-3b26de4a-174a-4039-82cf-3c7495d8b5bc.png",
+  "picture": "21401009-6f8eb561085eb10880a3beb2f8610f6138c-c3677d8b-79c6-49b6-a91a-07af510bf34d.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 81,
-  "tier": 4,
-  "xp": 245550,
+  "coins": 225,
+  "tier": 5,
+  "xp": 327150,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 103135,
+      "id": 104509,
       "user_id": 21401009,
       "platform_id": "dc",
-      "platform_user_id": "FAILUR",
+      "platform_user_id": "Kim-Jong-Un",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2025-03-13T00:38:43.000Z",
-      "updated_at": "2025-03-14T12:51:40.000Z"
+      "created_at": "2025-05-08T10:49:09.000Z",
+      "updated_at": "2025-05-08T10:49:09.000Z"
     },
     {
-      "id": 103138,
-      "user_id": 21401009,
-      "platform_id": "rd",
-      "platform_user_id": "STEVEN HE",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-03-13T00:39:26.000Z",
-      "updated_at": "2025-03-13T00:39:26.000Z"
-    },
-    {
-      "id": 103137,
-      "user_id": 21401009,
-      "platform_id": "tc",
-      "platform_user_id": "Steven",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-03-13T00:39:09.000Z",
-      "updated_at": "2025-03-13T00:39:34.000Z"
-    },
-    {
-      "id": 103136,
+      "id": 104510,
       "user_id": 21401009,
       "platform_id": "tw",
-      "platform_user_id": "WHat DA HAILL",
+      "platform_user_id": "Kim-Jong-Un",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2025-03-13T00:38:55.000Z",
-      "updated_at": "2025-03-14T12:52:01.000Z"
-    },
-    {
-      "id": 103134,
-      "user_id": 21401009,
-      "platform_id": "yt",
-      "platform_user_id": "Steven He",
-      "platform_user_url": "https://www.youtube.com/@StevenHe",
-      "verified": false,
-      "created_at": "2025-03-13T00:38:34.000Z",
-      "updated_at": "2025-03-13T00:38:34.000Z"
+      "created_at": "2025-05-08T10:49:35.000Z",
+      "updated_at": "2025-05-08T10:49:35.000Z"
     }
   ],
   "user_stats": {
@@ -86,12 +56,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-27T21:15:22.000Z",
-    "updated_at": "2025-04-27T21:15:22.000Z",
+    "created_at": "2025-05-14T21:38:25.000Z",
+    "updated_at": "2025-05-14T21:38:26.000Z",
     "pd": {
-      "played": 15,
-      "won": 7,
-      "ratio": 47
+      "played": 10,
+      "won": 3,
+      "ratio": 30
     }
   },
   "creations": {
@@ -101,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T13:18:57.876Z"
+  "archived_at": "2025-05-14T21:41:02.790Z"
 }
