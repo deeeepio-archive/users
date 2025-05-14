@@ -1,24 +1,24 @@
 {
   "id": 21397167,
-  "username": "재접",
-  "description": "아기새 목자르기",
+  "username": "2일차",
+  "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-01-13T06:08:02.000Z",
-  "date_last_played": "2025-02-25T11:02:57.000Z",
-  "profile_views": 104,
-  "kill_count": 483,
-  "play_count": 149,
-  "highest_score": 5937781,
+  "date_last_played": "2025-05-06T08:00:01.000Z",
+  "profile_views": 136,
+  "kill_count": 579,
+  "play_count": 160,
+  "highest_score": 7377524,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 752,
-  "tier": 3,
-  "xp": 145050,
+  "coins": 909,
+  "tier": 4,
+  "xp": 168600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-02-25T11:02:57.000Z",
-    "updated_at": "2025-02-25T11:02:57.000Z",
+    "created_at": "2025-05-06T08:00:02.000Z",
+    "updated_at": "2025-05-06T08:00:03.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T12:49:13.834Z"
+  "archived_at": "2025-05-14T21:13:29.897Z"
 }
