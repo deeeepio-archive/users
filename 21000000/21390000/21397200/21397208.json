@@ -1,24 +1,24 @@
 {
   "id": 21397208,
   "username": "Qfish",
-  "description": "Quiet... Fish.",
-  "about": "Random something i typed.",
+  "description": "Good Game, Good Times :)\n\nUnless if i hate you.",
+  "about": "Q stand for Quiet cuz idk im edgy.\nI'm also a dick like everyone else.\nThat squid art is not my art i stole lit ike a bastard.\n\nQuiet fish mains these boi's:\nSawfish,\nBullshark,\nStonefish (Yes im a dick,)\nNapoleon Wrasse,\nMarlin,\nElephant seal.",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-01-13T15:50:16.000Z",
-  "date_last_played": "2025-04-27T17:23:11.000Z",
-  "profile_views": 125,
-  "kill_count": 407,
-  "play_count": 200,
-  "highest_score": 2749700,
+  "date_last_played": "2025-05-05T07:47:04.000Z",
+  "profile_views": 157,
+  "kill_count": 522,
+  "play_count": 263,
+  "highest_score": 3677922,
   "picture": "21397208-b535494a2463e1095f76e10d7be7cb97fb-54c27db8-5717-46c5-ba36-5eb5bfd43b68.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 67,
-  "tier": 3,
-  "xp": 130050,
+  "coins": 49,
+  "tier": 4,
+  "xp": 168600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-27T17:23:11.000Z",
-    "updated_at": "2025-04-27T17:23:11.000Z",
-    "pd": null
+    "created_at": "2025-05-05T07:47:03.000Z",
+    "updated_at": "2025-05-05T07:47:04.000Z",
+    "pd": {
+      "played": 3,
+      "won": 1,
+      "ratio": 33
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T12:49:19.147Z"
+  "archived_at": "2025-05-14T21:13:59.108Z"
 }
