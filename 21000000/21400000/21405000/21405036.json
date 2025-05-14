@@ -1,24 +1,24 @@
 {
   "id": 21405036,
-  "username": "징징이",
-  "description": null,
+  "username": "jingjingi",
+  "description": "we are friends :)",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-21T11:52:01.000Z",
-  "date_last_played": "2025-04-20T09:14:08.000Z",
-  "profile_views": 33,
-  "kill_count": 585,
-  "play_count": 328,
+  "date_last_played": "2025-05-14T14:00:17.000Z",
+  "profile_views": 51,
+  "kill_count": 958,
+  "play_count": 574,
   "highest_score": 4270253,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1718,
-  "tier": 5,
-  "xp": 257700,
+  "coins": 1145,
+  "tier": 6,
+  "xp": 457500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-20T09:14:07.000Z",
-    "updated_at": "2025-04-20T09:14:08.000Z",
+    "created_at": "2025-05-14T14:00:17.000Z",
+    "updated_at": "2025-05-14T14:00:17.000Z",
     "pd": {
-      "played": 5,
-      "won": 3,
-      "ratio": 60
+      "played": 6,
+      "won": 5,
+      "ratio": 83
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:33:51.048Z"
+  "archived_at": "2025-05-14T22:14:21.460Z"
 }
