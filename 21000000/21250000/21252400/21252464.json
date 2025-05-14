@@ -1,24 +1,24 @@
 {
   "id": 21252464,
   "username": "Arjen",
-  "description": "\"For plunger\"",
+  "description": "",
   "about": "\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-12-31T12:34:34.000Z",
-  "date_last_played": "2025-03-18T18:15:45.000Z",
-  "profile_views": 12199,
-  "kill_count": 33109,
-  "play_count": 12096,
+  "date_last_played": "2025-05-11T12:41:37.000Z",
+  "profile_views": 12235,
+  "kill_count": 33138,
+  "play_count": 12118,
   "highest_score": 7783444,
   "picture": "21252464-8222b7f7496109794835157d9878cd557-ef26a284-9e04-4276-aed7-6c1e2fc068e8.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 138,
+  "coins": 232,
   "tier": 10,
-  "xp": 6448650,
+  "xp": 6462750,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": 3835,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-21T10:17:13.000Z",
-    "created_at": "2025-03-18T18:15:44.000Z",
-    "updated_at": "2025-03-18T18:15:45.000Z",
+    "created_at": "2025-05-11T12:41:36.000Z",
+    "updated_at": "2025-05-11T12:41:37.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-27T20:11:39.847Z"
+  "archived_at": "2025-05-14T04:45:52.624Z"
 }
