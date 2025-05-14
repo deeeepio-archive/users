@@ -1,29 +1,40 @@
 {
   "id": 21380306,
   "username": "Premordial_Soup_ketsueki",
-  "description": "🍷🐊\"\n\n\"Gambling Gambling Gambling.",
+  "description": " 🐊 🍷\"\n\n\n\"gambling, gambling, gambling",
   "about": "Jack of all trades\n\nEnglish + French\n\n( SD & TSE )",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-09-02T18:59:43.000Z",
-  "date_last_played": "2025-04-25T16:31:26.000Z",
-  "profile_views": 1493,
-  "kill_count": 1288,
-  "play_count": 1123,
+  "date_last_played": "2025-05-14T18:13:33.000Z",
+  "profile_views": 1691,
+  "kill_count": 1350,
+  "play_count": 1214,
   "highest_score": 1306920,
-  "picture": "21380306-988962a10ea10aa1ff825b289cd7938c21-e1dec642-7990-4452-be0b-3af82b261ec0.png",
+  "picture": "21380306-82c0ab03799f8a74a0b10c2f5f51c9059-fce8c5b0-c9c8-4ef9-86a4-3df6a9bd8c93.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 101,
+  "coins": 148,
   "tier": 7,
-  "xp": 557400,
+  "xp": 591450,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104101,
+      "user_id": 21380306,
+      "platform_id": "dc",
+      "platform_user_id": "ketsueki___",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-04-29T13:31:40.000Z",
+      "updated_at": "2025-04-29T13:31:40.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21380306,
     "rank_kc": null,
@@ -35,12 +46,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-25T16:31:26.000Z",
-    "updated_at": "2025-04-25T16:31:26.000Z",
+    "created_at": "2025-05-14T18:13:33.000Z",
+    "updated_at": "2025-05-14T18:13:33.000Z",
     "pd": {
-      "played": 115,
-      "won": 59,
-      "ratio": 51
+      "played": 122,
+      "won": 56,
+      "ratio": 46
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T10:52:18.520Z"
+  "archived_at": "2025-05-14T19:16:59.418Z"
 }
