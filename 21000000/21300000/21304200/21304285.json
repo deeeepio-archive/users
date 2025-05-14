@@ -1,13 +1,13 @@
 {
   "id": 21304285,
   "username": "Twitter",
-  "description": null,
-  "about": null,
+  "description": "owned by designated",
+  "about": "dm to buy",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-07-06T21:10:16.000Z",
   "date_last_played": "2024-08-15T03:07:02.000Z",
-  "profile_views": 53,
+  "profile_views": 57,
   "kill_count": 44,
   "play_count": 20,
   "highest_score": 251909,
@@ -24,6 +24,16 @@
   "beta": false,
   "badges": [],
   "social_networks": [
+    {
+      "id": 104184,
+      "user_id": 21304285,
+      "platform_id": "dc",
+      "platform_user_id": "im.designated",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-01T04:19:16.000Z",
+      "updated_at": "2025-05-01T04:19:16.000Z"
+    },
     {
       "id": 22297,
       "user_id": 21304285,
@@ -57,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T01:52:26.277Z"
+  "archived_at": "2025-05-14T10:27:37.796Z"
 }
