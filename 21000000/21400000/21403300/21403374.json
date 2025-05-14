@@ -2,23 +2,23 @@
   "id": 21403374,
   "username": "OIIA",
   "description": "",
-  "about": "gs main",
+  "about": "gs main\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-07T11:24:11.000Z",
-  "date_last_played": "2025-04-28T16:36:48.000Z",
-  "profile_views": 2174,
-  "kill_count": 978,
-  "play_count": 527,
-  "highest_score": 3456896,
-  "picture": "21403374-9876cef5100167228399c41b984e5e4cc-785ef93c-9151-4766-b637-a1960b533bce.png",
+  "date_last_played": "2025-05-14T21:26:09.000Z",
+  "profile_views": 4292,
+  "kill_count": 1627,
+  "play_count": 871,
+  "highest_score": 6055060,
+  "picture": "21403374-bd35833a253a0dd1db1343d79a79822f-a42916a7-18b2-4ae6-9492-0000b294e99e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1259,
-  "tier": 5,
-  "xp": 321600,
+  "coins": 2327,
+  "tier": 7,
+  "xp": 530550,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T16:36:47.000Z",
-    "updated_at": "2025-04-28T16:36:48.000Z",
+    "created_at": "2025-05-14T21:40:40.000Z",
+    "updated_at": "2025-05-14T21:40:40.000Z",
     "pd": {
-      "played": 23,
-      "won": 15,
-      "ratio": 65
+      "played": 64,
+      "won": 46,
+      "ratio": 72
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:21:58.465Z"
+  "archived_at": "2025-05-14T21:56:57.894Z"
 }
