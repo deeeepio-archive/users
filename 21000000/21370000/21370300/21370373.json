@@ -1,24 +1,24 @@
 {
   "id": 21370373,
   "username": "islander",
-  "description": null,
+  "description": "it was luck",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-06-09T04:51:33.000Z",
-  "date_last_played": "2025-04-17T10:02:03.000Z",
-  "profile_views": 19,
-  "kill_count": 253,
-  "play_count": 239,
+  "date_last_played": "2025-05-05T13:39:19.000Z",
+  "profile_views": 37,
+  "kill_count": 380,
+  "play_count": 312,
   "highest_score": 1426446,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 562,
+  "coins": 321,
   "tier": 3,
-  "xp": 82800,
+  "xp": 121650,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-17T10:02:02.000Z",
-    "updated_at": "2025-04-17T10:02:03.000Z",
+    "created_at": "2025-05-05T13:39:19.000Z",
+    "updated_at": "2025-05-05T13:39:19.000Z",
     "pd": {
-      "played": 13,
-      "won": 4,
-      "ratio": 31
+      "played": 31,
+      "won": 13,
+      "ratio": 42
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T09:31:55.236Z"
+  "archived_at": "2025-05-14T18:09:32.553Z"
 }
