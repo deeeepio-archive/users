@@ -1,15 +1,15 @@
 {
   "id": 21353525,
-  "username": "범고주챔",
+  "username": "요ㅛㅛㅛㅛ",
   "description": "한입베어물기\n\nㅉㅉ",
   "about": "주겅\n\n구라고 ㅎ 나도 앵무새 프사할래ㅐ\nㅋ",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-02-17T10:58:54.000Z",
-  "date_last_played": "2024-04-27T09:37:08.000Z",
-  "profile_views": 318,
-  "kill_count": 568,
-  "play_count": 201,
+  "date_last_played": "2025-05-10T09:14:10.000Z",
+  "profile_views": 321,
+  "kill_count": 570,
+  "play_count": 203,
   "highest_score": 840698,
   "picture": "21353525-72f9c2b332ed8e760d1dcc70b2a1b3f7.png",
   "displayPicture": true,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2024-04-27T09:37:08.000Z",
-    "updated_at": "2024-04-27T09:37:08.000Z",
-    "pd": null
+    "created_at": "2025-05-10T09:14:09.000Z",
+    "updated_at": "2025-05-10T09:14:10.000Z",
+    "pd": {
+      "played": 2,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T07:24:11.873Z"
+  "archived_at": "2025-05-14T16:13:01.023Z"
 }
