@@ -1,40 +1,29 @@
 {
   "id": 21286730,
   "username": "유랑🥹",
-  "description": "🥵",
-  "about": "헤엑. .  허접 딥 유저들이란 . .❗",
+  "description": "좆 밥",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-04-29T01:50:54.000Z",
-  "date_last_played": "2025-01-08T06:30:32.000Z",
-  "profile_views": 378,
-  "kill_count": 703,
-  "play_count": 402,
+  "date_last_played": "2025-05-12T17:00:02.000Z",
+  "profile_views": 403,
+  "kill_count": 736,
+  "play_count": 421,
   "highest_score": 2700942,
-  "picture": "21286730-976878b83b71c44942acd67ae3c13677.png",
+  "picture": "21286730-3b942c1e439d8495c0d4375d56638376-111ac849-4020-4c69-8c64-e436158a48f1.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 66,
+  "coins": 113,
   "tier": 4,
-  "xp": 177900,
+  "xp": 184950,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 92291,
-      "user_id": 21286730,
-      "platform_id": "ig",
-      "platform_user_id": "lxte._",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2024-02-27T11:09:50.000Z",
-      "updated_at": "2024-02-27T11:09:50.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 21286730,
     "rank_kc": 42385,
@@ -46,9 +35,13 @@
     "rank_hs": 25077,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-10-16T00:34:01.000Z",
-    "created_at": "2025-01-08T06:30:31.000Z",
-    "updated_at": "2025-01-08T06:30:32.000Z",
-    "pd": null
+    "created_at": "2025-05-12T17:00:02.000Z",
+    "updated_at": "2025-05-12T17:00:02.000Z",
+    "pd": {
+      "played": 4,
+      "won": 2,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-27T23:54:35.889Z"
+  "archived_at": "2025-05-14T08:26:33.361Z"
 }
