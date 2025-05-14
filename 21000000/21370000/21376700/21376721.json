@@ -2,23 +2,23 @@
   "id": 21376721,
   "username": "小淚",
   "description": "加朋友吧牢弟不講武德",
-  "about": null,
+  "about": "頭像是我婆",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-08-04T07:43:14.000Z",
-  "date_last_played": "2025-04-02T13:25:14.000Z",
-  "profile_views": 304,
-  "kill_count": 525,
-  "play_count": 572,
+  "date_last_played": "2025-05-12T14:28:03.000Z",
+  "profile_views": 327,
+  "kill_count": 528,
+  "play_count": 576,
   "highest_score": 767803,
-  "picture": "21376721-7c62de2fb91078d249a52f65fc3fa8133-fe019579-d2ae-4881-bb83-e91b5c865941.png",
+  "picture": "21376721-9a3a1ec6108a8e5280be664ec8cf614f5-69b8f5aa-852a-404c-8bf4-7396615b18c7.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 48,
+  "coins": 7,
   "tier": 3,
-  "xp": 140850,
+  "xp": 142200,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-02T13:25:14.000Z",
-    "updated_at": "2025-04-02T13:25:14.000Z",
+    "created_at": "2025-05-12T14:28:02.000Z",
+    "updated_at": "2025-05-12T14:28:03.000Z",
     "pd": {
       "played": 4,
-      "won": 2,
-      "ratio": 50
+      "won": 1,
+      "ratio": 25
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T10:27:23.207Z"
+  "archived_at": "2025-05-14T18:53:07.431Z"
 }
