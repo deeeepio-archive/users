@@ -1,24 +1,24 @@
 {
   "id": 21403030,
-  "username": "0763129986",
+  "username": "haibinh",
   "description": "sorry",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-04T15:19:32.000Z",
-  "date_last_played": "2025-04-28T08:45:21.000Z",
-  "profile_views": 84,
-  "kill_count": 404,
-  "play_count": 416,
+  "date_last_played": "2025-05-14T14:29:19.000Z",
+  "profile_views": 96,
+  "kill_count": 448,
+  "play_count": 476,
   "highest_score": 2380885,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 238,
-  "tier": 3,
-  "xp": 134700,
+  "coins": 342,
+  "tier": 4,
+  "xp": 150300,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T08:45:21.000Z",
-    "updated_at": "2025-04-28T08:45:21.000Z",
+    "created_at": "2025-05-14T14:29:19.000Z",
+    "updated_at": "2025-05-14T14:29:19.000Z",
     "pd": {
-      "played": 11,
+      "played": 16,
       "won": 2,
-      "ratio": 18
+      "ratio": 13
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:18:35.888Z"
+  "archived_at": "2025-05-14T21:54:46.678Z"
 }
