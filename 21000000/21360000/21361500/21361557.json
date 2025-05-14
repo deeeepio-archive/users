@@ -1,24 +1,24 @@
 {
   "id": 21361557,
-  "username": "aguy12",
+  "username": "billyclark232",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-04-04T13:41:05.000Z",
-  "date_last_played": "2025-01-09T06:37:56.000Z",
-  "profile_views": 36,
-  "kill_count": 653,
-  "play_count": 674,
+  "date_last_played": "2025-05-14T15:27:45.000Z",
+  "profile_views": 44,
+  "kill_count": 742,
+  "play_count": 812,
   "highest_score": 1162121,
-  "picture": null,
+  "picture": "21361557-e91c1a9c3e83cc9714ee4db2dbc7e9a9-7a546b35-c191-4fc2-bf83-e26f34a02e7f.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 56,
+  "coins": 203,
   "tier": 3,
-  "xp": 127200,
+  "xp": 149250,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-01-09T06:37:56.000Z",
-    "updated_at": "2025-01-09T06:37:56.000Z",
-    "pd": null
+    "created_at": "2025-05-14T15:27:44.000Z",
+    "updated_at": "2025-05-14T15:27:45.000Z",
+    "pd": {
+      "played": 3,
+      "won": 1,
+      "ratio": 33
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T08:23:12.799Z"
+  "archived_at": "2025-05-14T17:06:20.861Z"
 }
