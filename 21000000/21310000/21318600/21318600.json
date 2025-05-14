@@ -1,24 +1,24 @@
 {
   "id": 21318600,
   "username": "khai0",
-  "description": "Has anyone taken the time to ask you\nHow you're doing today? ツ\n\n\n\n\n\n\nholy shit i missed so much there's fucking badges now?\n",
+  "description": "Has anyone taken the time to ask you\nHow you're doing today? ツ\n\n\n\n\n\n\n",
   "about": "khairi♡\n<tribe>khai?",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-09-15T16:42:32.000Z",
-  "date_last_played": "2025-02-11T22:38:27.000Z",
-  "profile_views": 4607,
-  "kill_count": 12295,
-  "play_count": 1680,
+  "date_last_played": "2025-05-09T15:19:15.000Z",
+  "profile_views": 4618,
+  "kill_count": 12301,
+  "play_count": 1681,
   "highest_score": 834648,
   "picture": "21318600-aa634d8785161d02f5afb0298c2d59ac-d45ddf2b-f330-4a60-9af7-7ce2f3020f4a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2463,
+  "coins": 2470,
   "tier": 10,
-  "xp": 1253100,
+  "xp": 1254150,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 159930,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-19T16:13:22.000Z",
-    "created_at": "2025-02-11T22:38:26.000Z",
-    "updated_at": "2025-02-11T22:38:27.000Z",
-    "pd": null
+    "created_at": "2025-05-09T15:19:14.000Z",
+    "updated_at": "2025-05-09T15:19:15.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-09T06:18:36.947Z"
+  "archived_at": "2025-05-14T12:09:32.326Z"
 }
