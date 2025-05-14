@@ -1,0 +1,75 @@
+{
+  "id": 21409053,
+  "username": "Juanito_Maravilla",
+  "description": "no me mates hdp hagamos team",
+  "about": "tengo 12 años\nhago esgrima \ncumplo el 8 de agosto no el 6\n",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-05-07T00:36:21.000Z",
+  "date_last_played": "2025-05-13T21:37:32.000Z",
+  "profile_views": 5,
+  "kill_count": 17,
+  "play_count": 93,
+  "highest_score": 1627681,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 99,
+  "tier": 1,
+  "xp": 13500,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 104624,
+      "user_id": 21409053,
+      "platform_id": "dc",
+      "platform_user_id": "el_insan0_goloso",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-11T23:17:39.000Z",
+      "updated_at": "2025-05-11T23:17:39.000Z"
+    },
+    {
+      "id": 104623,
+      "user_id": 21409053,
+      "platform_id": "ig",
+      "platform_user_id": "juan_alvarado_h",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-11T23:15:02.000Z",
+      "updated_at": "2025-05-11T23:15:02.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21409053,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-05-13T21:37:32.000Z",
+    "updated_at": "2025-05-13T21:37:32.000Z",
+    "pd": {
+      "played": 3,
+      "won": 1,
+      "ratio": 33
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-05-14T22:48:37.714Z"
+}

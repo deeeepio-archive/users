@@ -1,0 +1,85 @@
+{
+  "id": 21409092,
+  "username": "llllllllllllllllllllli",
+  "description": null,
+  "about": "https://deeeep.io/u/______P",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-05-07T14:25:19.000Z",
+  "date_last_played": "2025-05-08T14:56:07.000Z",
+  "profile_views": 26,
+  "kill_count": 8,
+  "play_count": 2,
+  "highest_score": 0,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 104520,
+      "user_id": 21409092,
+      "platform_id": "dc",
+      "platform_user_id": "client thresher",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-08T15:12:49.000Z",
+      "updated_at": "2025-05-08T15:12:49.000Z"
+    },
+    {
+      "id": 104517,
+      "user_id": 21409092,
+      "platform_id": "dc",
+      "platform_user_id": "pipi019022",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-08T15:12:01.000Z",
+      "updated_at": "2025-05-08T15:12:01.000Z"
+    },
+    {
+      "id": 104468,
+      "user_id": 21409092,
+      "platform_id": "yt",
+      "platform_user_id": "︎",
+      "platform_user_url": "https://www.youtube.com/watch?v=Vk5-c_v4gMU&list=RDkzCmGrlQJzk&index=3",
+      "verified": false,
+      "created_at": "2025-05-07T16:09:12.000Z",
+      "updated_at": "2025-05-07T16:09:12.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21409092,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-05-08T14:56:06.000Z",
+    "updated_at": "2025-05-08T14:56:07.000Z",
+    "pd": {
+      "played": 2,
+      "won": 0,
+      "ratio": 0
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-05-14T22:48:43.768Z"
+}
