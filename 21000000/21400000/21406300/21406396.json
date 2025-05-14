@@ -1,24 +1,24 @@
 {
   "id": 21406396,
   "username": "亞きんぐ",
-  "description": "カバは、哺乳綱偶蹄目カバ科カバ属に分類される偶蹄類。猛獣でもある。\n速度\n30 km​/​h\n襲歩",
+  "description": "頭部が左右に張り出してその先端に目と鼻孔があり、鐘や鉦（和楽器）を打ち鳴らす丁字形の撞木（しゅもく）のような頭の形をしていることから「撞木鮫」、英語では頭を金槌に見立てて「Hammerhead shark」（金槌頭のサメ）と呼ばれている。この横に張り出た部分にはロレンチーニ瓶と呼ばれる微弱な電気を感知する器官があり、シュモクザメは他種のサメに比べて非常に発達したロレンチーニ器官を持っている。しかしシュモクザメの目は離れすぎているため真正面は死角になってしまっている。",
   "about": "私は使っている魚などの情報を書いています。一日ごとに変えたりするので食べられた人は、みたりしてください。",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-01T03:18:46.000Z",
-  "date_last_played": "2025-04-22T11:18:24.000Z",
-  "profile_views": 104,
-  "kill_count": 158,
-  "play_count": 290,
+  "date_last_played": "2025-05-14T12:03:43.000Z",
+  "profile_views": 146,
+  "kill_count": 197,
+  "play_count": 376,
   "highest_score": 2334203,
-  "picture": null,
+  "picture": "21406396-6a5e3405363549363b54844275d71722-1d07d7e2-64d3-43b3-94c8-bf7aea1ad583.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 7,
+  "coins": 8,
   "tier": 3,
-  "xp": 95250,
+  "xp": 119400,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-22T11:18:23.000Z",
-    "updated_at": "2025-04-22T11:18:24.000Z",
-    "pd": null
+    "created_at": "2025-05-14T12:03:43.000Z",
+    "updated_at": "2025-05-14T12:03:43.000Z",
+    "pd": {
+      "played": 3,
+      "won": 1,
+      "ratio": 33
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:44:21.632Z"
+  "archived_at": "2025-05-14T22:23:34.790Z"
 }
