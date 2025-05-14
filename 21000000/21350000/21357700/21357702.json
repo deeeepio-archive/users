@@ -1,38 +1,38 @@
 {
   "id": 21357702,
-  "username": "Gabimaroo",
-  "description": "Help me, I don't know what to do\nI found myself in the ocean, help ",
-  "about": "I stink of fun",
+  "username": "LeviAckerman",
+  "description": "I luv you Sp\n\n\noooke\n\n",
+  "about": "Hehehe :>",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-03-10T14:07:29.000Z",
-  "date_last_played": "2025-04-19T05:45:07.000Z",
-  "profile_views": 3310,
-  "kill_count": 4015,
-  "play_count": 2411,
+  "date_last_played": "2025-05-12T10:31:36.000Z",
+  "profile_views": 3367,
+  "kill_count": 4018,
+  "play_count": 2420,
   "highest_score": 5350605,
-  "picture": "21357702-b8cef1a8d9fa55f695bdc0e42110e9847-b8d6b04e-c123-4983-a485-cfce2377d084.png",
+  "picture": "21357702-34aaa9aca11510d0b69fa04ee7cabf364-010f095e-71e7-4733-9128-6093dff08e51.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 123,
+  "coins": 140,
   "tier": 9,
-  "xp": 940950,
+  "xp": 943500,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 103359,
+      "id": 104649,
       "user_id": 21357702,
-      "platform_id": "rd",
-      "platform_user_id": "S҉Y҉S҉T҉E҉M҉ ",
+      "platform_id": "dc",
+      "platform_user_id": "ngaa11092005",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2025-03-25T16:07:51.000Z",
-      "updated_at": "2025-03-25T16:07:51.000Z"
+      "created_at": "2025-05-12T12:33:01.000Z",
+      "updated_at": "2025-05-12T12:33:01.000Z"
     }
   ],
   "user_stats": {
@@ -46,9 +46,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-19T05:45:07.000Z",
-    "updated_at": "2025-04-19T05:45:07.000Z",
-    "pd": null
+    "created_at": "2025-05-14T01:00:02.000Z",
+    "updated_at": "2025-05-14T01:00:03.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T07:52:12.727Z"
+  "archived_at": "2025-05-14T16:40:38.224Z"
 }
