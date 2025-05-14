@@ -1,24 +1,24 @@
 {
   "id": 21400932,
-  "username": "ℂ𝕖𝕝𝕖𝕤𝕥𝕠𝕣𝕔𝕒",
-  "description": "I am death and the end",
-  "about": "atk clan member\n\nBorn in 🇺🇸 \nLiving in 🇰🇷 \n\nAim to kill\n",
+  "username": "Mongpang_",
+  "description": "",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-02-13T13:52:54.000Z",
-  "date_last_played": "2025-04-27T22:52:12.000Z",
-  "profile_views": 468,
-  "kill_count": 1021,
-  "play_count": 438,
+  "date_last_played": "2025-05-11T16:26:15.000Z",
+  "profile_views": 539,
+  "kill_count": 1093,
+  "play_count": 494,
   "highest_score": 8822825,
-  "picture": "21400932-f7b26bfd2326a785710f9473e2378af81-1720e0e9-34ff-4fb8-a826-48b2130f0c2e.png",
+  "picture": "21400932-356861fb57cdb7bce101dd55c1e3e70c-c1cc5967-898d-4e33-88e3-d505fe1c3365.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 701,
+  "coins": 593,
   "tier": 6,
-  "xp": 440400,
+  "xp": 461700,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-27T22:52:12.000Z",
-    "updated_at": "2025-04-27T22:52:12.000Z",
-    "pd": null
+    "created_at": "2025-05-11T16:26:15.000Z",
+    "updated_at": "2025-05-11T16:26:15.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T13:18:24.135Z"
+  "archived_at": "2025-05-14T21:39:57.271Z"
 }
