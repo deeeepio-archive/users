@@ -1,24 +1,24 @@
 {
   "id": 21312056,
-  "username": "五郎",
-  "description": "ぴぃ",
+  "username": "QEQ",
+  "description": "🫠",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-08-16T07:01:47.000Z",
-  "date_last_played": "2025-01-06T05:04:25.000Z",
-  "profile_views": 3093,
-  "kill_count": 4713,
-  "play_count": 1063,
+  "date_last_played": "2025-05-10T09:57:47.000Z",
+  "profile_views": 3207,
+  "kill_count": 4805,
+  "play_count": 1081,
   "highest_score": 8658414,
-  "picture": "21312056-568948bc7856af4a109fd33e97173c88b-8794194a-d9f9-41dc-8c09-466e044c121a.png",
+  "picture": "21312056-1010ae2a2e724d9610103a10fbebda10a1029b-bdb535a2-dd9a-49c0-a3ce-94a9384f272f.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 345,
+  "coins": 245,
   "tier": 8,
-  "xp": 790950,
+  "xp": 805950,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 3238,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-12-26T09:48:57.000Z",
-    "created_at": "2025-01-06T05:04:25.000Z",
-    "updated_at": "2025-01-06T05:04:25.000Z",
-    "pd": null
+    "created_at": "2025-05-10T09:57:47.000Z",
+    "updated_at": "2025-05-10T09:57:47.000Z",
+    "pd": {
+      "played": 16,
+      "won": 11,
+      "ratio": 69
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T02:43:20.816Z"
+  "archived_at": "2025-05-14T11:21:00.890Z"
 }
