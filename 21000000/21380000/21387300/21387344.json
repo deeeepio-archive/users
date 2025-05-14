@@ -1,24 +1,24 @@
 {
   "id": 21387344,
   "username": "あさﾀﾞﾖ",
-  "description": "",
-  "about": "◀︎ Affiliation JS ▶︎",
+  "description": "過疎",
+  "about": "◀︎ Affiliation JS ▶︎\n       -所属JS-",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-28T07:26:57.000Z",
-  "date_last_played": "2025-04-28T10:00:32.000Z",
-  "profile_views": 9340,
-  "kill_count": 11201,
-  "play_count": 1839,
+  "date_last_played": "2025-05-12T13:28:40.000Z",
+  "profile_views": 10322,
+  "kill_count": 12249,
+  "play_count": 2025,
   "highest_score": 19672052,
   "picture": "21387344-5072e81a6a8de1f38ef726d8c32f099c-acf7b9b3-c290-440d-9118-7488979570c8.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 23,
+  "coins": 159,
   "tier": 10,
-  "xp": 3055500,
+  "xp": 3399150,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,12 +46,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T10:50:07.000Z",
-    "updated_at": "2025-04-28T10:50:08.000Z",
+    "created_at": "2025-05-14T12:00:00.000Z",
+    "updated_at": "2025-05-14T12:00:01.000Z",
     "pd": {
-      "played": 4,
-      "won": 2,
-      "ratio": 50
+      "played": 2,
+      "won": 0,
+      "ratio": 0
     }
   },
   "creations": {
@@ -61,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T11:41:10.435Z"
+  "archived_at": "2025-05-14T20:02:57.512Z"
 }
