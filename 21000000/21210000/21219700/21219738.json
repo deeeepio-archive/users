@@ -1,38 +1,38 @@
 {
   "id": 21219738,
-  "username": "474",
+  "username": "varsha",
   "description": "nice try friend! you did your best <3",
-  "about": "reppin triple k",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-12-04T03:32:29.000Z",
-  "date_last_played": "2025-04-26T04:39:23.000Z",
-  "profile_views": 10832,
-  "kill_count": 33090,
-  "play_count": 4556,
+  "date_last_played": "2025-05-01T23:49:41.000Z",
+  "profile_views": 10987,
+  "kill_count": 33196,
+  "play_count": 4609,
   "highest_score": 13239134,
-  "picture": "21219738-3524a585f135100881d6ec9ed77213534-345ad086-506e-4dff-80b5-9f6d26824434.png",
+  "picture": "21219738-6ece6ba2acfed442e8c8aca9ea695989-5460d363-4f22-4744-afc4-4928f758b351.png",
   "displayPicture": true,
   "active": true,
-  "ban_message": null,
-  "ban_at": null,
-  "coins": 537,
+  "ban_message": "Client usage, banned until 02/06/25",
+  "ban_at": "2025-05-02T03:17:09.000Z",
+  "coins": 786,
   "tier": 10,
-  "xp": 5474100,
+  "xp": 5511450,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 103871,
+      "id": 104179,
       "user_id": 21219738,
       "platform_id": "dc",
-      "platform_user_id": ".chessdaddy.",
+      "platform_user_id": "vdrizzy42069",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2025-04-20T18:54:13.000Z",
-      "updated_at": "2025-04-20T18:54:13.000Z"
+      "created_at": "2025-05-01T03:22:27.000Z",
+      "updated_at": "2025-05-01T03:22:27.000Z"
     }
   ],
   "user_stats": {
@@ -46,12 +46,12 @@
     "rank_hs": 1873,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-21T03:06:58.000Z",
-    "created_at": "2025-04-26T08:00:07.000Z",
-    "updated_at": "2025-04-26T08:00:08.000Z",
+    "created_at": "2025-05-01T23:49:41.000Z",
+    "updated_at": "2025-05-01T23:49:41.000Z",
     "pd": {
-      "played": 6,
-      "won": 5,
-      "ratio": 83
+      "played": 9,
+      "won": 6,
+      "ratio": 67
     }
   },
   "creations": {
@@ -61,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-27T16:29:33.512Z"
+  "archived_at": "2025-05-14T01:17:32.355Z"
 }
