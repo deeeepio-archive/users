@@ -2,23 +2,23 @@
   "id": 21368145,
   "username": "horiszon",
   "description": "",
-  "about": "",
+  "about": "Jay is love",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-05-23T14:44:15.000Z",
-  "date_last_played": "2025-04-28T08:34:57.000Z",
-  "profile_views": 1173,
-  "kill_count": 1812,
-  "play_count": 237,
+  "date_last_played": "2025-05-12T15:03:40.000Z",
+  "profile_views": 1618,
+  "kill_count": 2293,
+  "play_count": 301,
   "highest_score": 7018018,
-  "picture": "21368145-32d1293da3774e108f1571c6249d4a685-7c3171ea-7265-4cc1-9f9e-dd602e0594a0.png",
+  "picture": "21368145-192da28c73ae2ae6489445f30e3778d9-f46583a4-a0b9-489b-b678-0a1281b7d7d3.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 147,
-  "tier": 4,
-  "xp": 238050,
+  "coins": 182,
+  "tier": 6,
+  "xp": 385050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T08:34:57.000Z",
-    "updated_at": "2025-04-28T08:34:57.000Z",
+    "created_at": "2025-05-12T15:03:39.000Z",
+    "updated_at": "2025-05-12T15:03:40.000Z",
     "pd": {
-      "played": 7,
-      "won": 1,
-      "ratio": 14
+      "played": 13,
+      "won": 6,
+      "ratio": 46
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T09:14:27.156Z"
+  "archived_at": "2025-05-14T17:51:46.775Z"
 }
