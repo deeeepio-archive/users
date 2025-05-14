@@ -1,24 +1,24 @@
 {
   "id": 21408268,
-  "username": "Hows",
+  "username": "α-",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-27T20:53:52.000Z",
-  "date_last_played": "2025-04-27T21:32:57.000Z",
-  "profile_views": 3,
-  "kill_count": 8,
-  "play_count": 5,
+  "date_last_played": "2025-05-12T23:04:33.000Z",
+  "profile_views": 6,
+  "kill_count": 19,
+  "play_count": 9,
   "highest_score": 978220,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 40,
+  "coins": 48,
   "tier": 1,
-  "xp": 4500,
+  "xp": 5700,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -26,18 +26,22 @@
   "social_networks": [],
   "user_stats": {
     "user_id": 21408268,
-    "rank_kc_dirty": true,
-    "rank_pc_dirty": true,
-    "rank_hs_dirty": true,
-    "created_at": "2025-04-28T19:58:44.844Z",
-    "updated_at": "2025-04-28T19:58:45.000Z",
     "rank_kc": null,
+    "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
     "rank_pc": null,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "pd": null
+    "created_at": "2025-05-12T23:04:32.000Z",
+    "updated_at": "2025-05-12T23:04:33.000Z",
+    "pd": {
+      "played": 4,
+      "won": 1,
+      "ratio": 25
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:58:44.908Z"
+  "archived_at": "2025-05-14T22:42:33.926Z"
 }
