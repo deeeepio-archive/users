@@ -1,15 +1,15 @@
 {
   "id": 21404737,
   "username": "systemofadown",
-  "description": "Faking the moon landing was so expensive they had to shoot on location",
+  "description": "tylko jedno Gdzie blowie mam  bitch",
   "about": "i like nu metal and I speak a lot of languages\nI'm also german",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-18T17:20:41.000Z",
-  "date_last_played": "2025-03-20T17:26:52.000Z",
-  "profile_views": 7,
+  "date_last_played": "2025-05-02T18:01:13.000Z",
+  "profile_views": 8,
   "kill_count": 2,
-  "play_count": 18,
+  "play_count": 26,
   "highest_score": 258730,
   "picture": null,
   "displayPicture": true,
@@ -25,6 +25,16 @@
   "badges": [],
   "social_networks": [
     {
+      "id": 104241,
+      "user_id": 21404737,
+      "platform_id": "ig",
+      "platform_user_id": "510.kameel",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-02T17:54:19.000Z",
+      "updated_at": "2025-05-02T17:54:19.000Z"
+    },
+    {
       "id": 103228,
       "user_id": 21404737,
       "platform_id": "rd",
@@ -37,17 +47,17 @@
   ],
   "user_stats": {
     "user_id": 21404737,
-    "rank_kc_dirty": true,
-    "rank_pc_dirty": true,
-    "rank_hs_dirty": true,
-    "created_at": "2025-04-28T19:31:16.940Z",
-    "updated_at": "2025-04-28T19:31:17.000Z",
     "rank_kc": null,
+    "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
     "rank_pc": null,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
+    "created_at": "2025-05-02T18:01:13.000Z",
+    "updated_at": "2025-05-02T18:01:13.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:31:17.010Z"
+  "archived_at": "2025-05-14T22:12:06.999Z"
 }
