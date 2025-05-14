@@ -1,24 +1,24 @@
 {
   "id": 21275468,
   "username": "moodboom",
-  "description": "I love Marlin🤭",
-  "about": "\n",
+  "description": "hey evb...",
+  "about": "I used to be real obsessed with this game like two years ago\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-03-16T12:26:40.000Z",
-  "date_last_played": "2023-12-12T21:07:08.000Z",
-  "profile_views": 4191,
-  "kill_count": 8426,
-  "play_count": 2968,
+  "date_last_played": "2025-05-11T03:34:46.000Z",
+  "profile_views": 4216,
+  "kill_count": 8460,
+  "play_count": 2986,
   "highest_score": 14179395,
   "picture": "21275468-0115e39ed290983317871085a7f68b37e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 329,
+  "coins": 187,
   "tier": 10,
-  "xp": 1587150,
+  "xp": 1599600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -41,14 +41,18 @@
     "rank_kc_dirty": true,
     "rank_kc_updated_at": "2024-01-11T02:32:39.000Z",
     "rank_pc": 3261,
-    "rank_pc_dirty": false,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": "2024-01-11T02:32:40.000Z",
     "rank_hs": 1775,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-11T02:32:42.000Z",
-    "created_at": "2024-01-15T20:12:07.000Z",
-    "updated_at": "2024-01-11T02:32:42.000Z",
-    "pd": null
+    "created_at": "2025-05-11T21:48:03.000Z",
+    "updated_at": "2025-05-11T21:48:04.000Z",
+    "pd": {
+      "played": 3,
+      "won": 2,
+      "ratio": 67
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-27T22:44:00.145Z"
+  "archived_at": "2025-05-14T07:09:54.710Z"
 }
