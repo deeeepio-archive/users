@@ -1,29 +1,39 @@
 {
   "id": 21406944,
-  "username": "riprainbow2009",
+  "username": "biigfoot5",
   "description": "nothing personal but thanks for dying",
-  "about": "Salut, je m'appelle Big foot5, j'aime l'intimidation.",
+  "about": "commonly known as (biigfoot5) ",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-11T23:42:26.000Z",
-  "date_last_played": "2025-04-28T13:27:42.000Z",
-  "profile_views": 52,
-  "kill_count": 230,
-  "play_count": 422,
-  "highest_score": 3739429,
+  "date_last_played": "2025-05-14T12:18:07.000Z",
+  "profile_views": 95,
+  "kill_count": 599,
+  "play_count": 1080,
+  "highest_score": 4437390,
   "picture": "21406944-a342316f7cf237a1f06d2fe8661629cb-f8a6aac7-231c-46a2-a5cb-1873c11addf4.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 180,
-  "tier": 3,
-  "xp": 93900,
+  "coins": 86,
+  "tier": 4,
+  "xp": 249300,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
+    {
+      "id": 104726,
+      "user_id": 21406944,
+      "platform_id": "yt",
+      "platform_user_id": "a song",
+      "platform_user_url": "https://www.youtube.com/watch?v=hsr0dKcz7tM&list=PLCPJisiNv_2YuGmDMj1yzjiEOcBrPUKhn&index=46",
+      "verified": false,
+      "created_at": "2025-05-14T09:52:09.000Z",
+      "updated_at": "2025-05-14T09:52:09.000Z"
+    },
     {
       "id": 103630,
       "user_id": 21406944,
@@ -46,8 +56,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T13:27:41.000Z",
-    "updated_at": "2025-04-28T13:27:42.000Z",
+    "created_at": "2025-05-14T12:18:06.000Z",
+    "updated_at": "2025-05-14T12:18:07.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:48:26.460Z"
+  "archived_at": "2025-05-14T22:27:30.648Z"
 }

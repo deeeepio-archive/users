@@ -1,13 +1,13 @@
 {
   "id": 21406997,
-  "username": "floz10",
+  "username": "塔利亞",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-13T09:54:19.000Z",
   "date_last_played": "2025-04-15T14:15:21.000Z",
-  "profile_views": 37,
+  "profile_views": 42,
   "kill_count": 104,
   "play_count": 18,
   "highest_score": 2250415,
@@ -37,11 +37,7 @@
     "rank_hs_updated_at": null,
     "created_at": "2025-04-15T14:15:20.000Z",
     "updated_at": "2025-04-15T14:15:21.000Z",
-    "pd": {
-      "played": 4,
-      "won": 4,
-      "ratio": 100
-    }
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -50,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:49:03.867Z"
+  "archived_at": "2025-05-14T22:27:36.541Z"
 }
