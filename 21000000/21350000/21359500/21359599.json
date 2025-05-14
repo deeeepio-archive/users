@@ -2,23 +2,23 @@
   "id": 21359599,
   "username": "_LONBIEN_FAKE",
   "description": "ngu thì chết lag chó gì\nIf you're stupid, you'll die",
-  "about": "",
+  "about": "8==D",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-03-22T13:21:21.000Z",
-  "date_last_played": "2025-04-27T06:07:08.000Z",
-  "profile_views": 200,
-  "kill_count": 269,
-  "play_count": 328,
+  "date_last_played": "2025-05-04T06:13:01.000Z",
+  "profile_views": 216,
+  "kill_count": 284,
+  "play_count": 340,
   "highest_score": 5151373,
   "picture": "21359599-72ac2109db03234dfd5d1a8b68c2639b7-0827f6f7-5a52-41e9-b820-1d94c7c864d4.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 113,
-  "tier": 2,
-  "xp": 73200,
+  "coins": 130,
+  "tier": 3,
+  "xp": 81000,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-27T06:07:07.000Z",
-    "updated_at": "2025-04-27T06:07:08.000Z",
-    "pd": null
+    "created_at": "2025-05-04T09:00:07.000Z",
+    "updated_at": "2025-05-04T09:00:07.000Z",
+    "pd": {
+      "played": 3,
+      "won": 1,
+      "ratio": 33
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T08:08:01.057Z"
+  "archived_at": "2025-05-14T16:52:39.043Z"
 }
