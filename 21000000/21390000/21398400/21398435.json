@@ -1,24 +1,24 @@
 {
   "id": 21398435,
   "username": "shark-bait",
-  "description": "To win, you've gotta have an edge over stealth, brute strength, speed or skill - or dogness like me\nbetter luck next time👍 :)",
+  "description": "To win, you've gotta have an edge over stealth, brute strength, speed or skill - or flatout dogness like what i just did to you\nbetter luck next time👍 :)",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-01-23T09:05:55.000Z",
-  "date_last_played": "2025-04-28T09:19:52.000Z",
-  "profile_views": 56,
-  "kill_count": 580,
-  "play_count": 191,
+  "date_last_played": "2025-05-14T09:40:50.000Z",
+  "profile_views": 79,
+  "kill_count": 680,
+  "play_count": 270,
   "highest_score": 4105855,
-  "picture": null,
+  "picture": "21398435-546c422893089f225d741027911c2454a-8130766b-5393-460e-9bb5-0e21d0ee3f1f.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2,
+  "coins": 193,
   "tier": 4,
-  "xp": 183300,
+  "xp": 232950,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T09:19:51.000Z",
-    "updated_at": "2025-04-28T09:19:52.000Z",
-    "pd": null
+    "created_at": "2025-05-14T09:40:50.000Z",
+    "updated_at": "2025-05-14T09:40:50.000Z",
+    "pd": {
+      "played": 3,
+      "won": 2,
+      "ratio": 67
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T12:58:08.608Z"
+  "archived_at": "2025-05-14T21:22:45.940Z"
 }
