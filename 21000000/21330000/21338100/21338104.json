@@ -1,24 +1,24 @@
 {
   "id": 21338104,
   "username": "SUNK_VN",
-  "description": " hi im from VietNamese \nlag vãi chó\nnghỉ game\n ",
+  "description": " hi im from VietNamese \ni am newbie because i haven't played for 4 months\nlag",
   "about": "có ai chơi wolvesville ko\nI was banned from the forum :<\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-12-01T05:07:08.000Z",
-  "date_last_played": "2025-02-26T05:20:47.000Z",
-  "profile_views": 2378,
-  "kill_count": 5989,
-  "play_count": 4256,
+  "date_last_played": "2025-05-11T16:16:36.000Z",
+  "profile_views": 2454,
+  "kill_count": 6026,
+  "play_count": 4306,
   "highest_score": 5733033,
   "picture": "21338104-10792eb4a24dd7cd36cc610daa107a5cfc1-49f4034e-e95a-4ba2-969a-075cc4f927f9.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 315,
+  "coins": 403,
   "tier": 10,
-  "xp": 1638000,
+  "xp": 1651200,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -38,11 +38,11 @@
       "id": 100139,
       "user_id": 21338104,
       "platform_id": "yt",
-      "platform_user_id": "2 phút hơn funk",
-      "platform_user_url": "https://www.youtube.com/watch?v=dwattiWiacs",
+      "platform_user_id": "Newjeans",
+      "platform_user_url": "https://www.youtube.com/watch?v=Acj_kh5IH-E",
       "verified": false,
       "created_at": "2024-11-11T05:18:12.000Z",
-      "updated_at": "2025-02-12T05:21:10.000Z"
+      "updated_at": "2025-05-04T04:28:43.000Z"
     }
   ],
   "user_stats": {
@@ -56,9 +56,13 @@
     "rank_hs": 35629,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-18T06:49:08.000Z",
-    "created_at": "2025-02-26T05:20:47.000Z",
-    "updated_at": "2025-02-26T05:20:47.000Z",
-    "pd": null
+    "created_at": "2025-05-11T16:16:36.000Z",
+    "updated_at": "2025-05-11T16:16:36.000Z",
+    "pd": {
+      "played": 13,
+      "won": 6,
+      "ratio": 46
+    }
   },
   "creations": {
     "maps": {
@@ -67,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T05:37:32.412Z"
+  "archived_at": "2025-05-14T14:27:45.093Z"
 }
