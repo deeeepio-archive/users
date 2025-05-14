@@ -1,24 +1,24 @@
 {
   "id": 21382851,
   "username": "ᚱᛖᛈᛖᚾᛏᚨᚾᚲᛖ",
-  "description": "\"This is my commandment: Love each other as I have loved you. There is no greater sacrifice than to lay down one's life for one's friends.\" John 15: 12-13\nLet us love one another and let go of hatred :)",
-  "about": "I just want to be friends with everyone, so why must you make that difficult for me?\nI just want to have fun in this little fish game, but you're sucking the joy out of it.\n\"Why can't we all just get along?\"",
+  "description": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.\n- John 13:16",
+  "about": "\"Why can't we all just get along?\"",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-09-21T18:05:55.000Z",
-  "date_last_played": "2025-04-28T04:38:12.000Z",
-  "profile_views": 656,
-  "kill_count": 3767,
-  "play_count": 2571,
+  "date_last_played": "2025-05-14T16:21:04.000Z",
+  "profile_views": 673,
+  "kill_count": 3921,
+  "play_count": 2694,
   "highest_score": 5827718,
   "picture": "21382851-08911243c88a547ed76b428d360ad1bc-624949c4-c6b2-4972-b5b8-b0f73d04da1a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 166,
+  "coins": 48,
   "tier": 10,
-  "xp": 1369500,
+  "xp": 1435050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,6 +33,16 @@
       "verified": false,
       "created_at": "2025-03-30T20:57:00.000Z",
       "updated_at": "2025-03-30T20:57:00.000Z"
+    },
+    {
+      "id": 104347,
+      "user_id": 21382851,
+      "platform_id": "yt",
+      "platform_user_id": "On Thin Ice",
+      "platform_user_url": "https://www.youtube.com/watch?v=Z68hEIbua6g ",
+      "verified": false,
+      "created_at": "2025-05-04T21:09:30.000Z",
+      "updated_at": "2025-05-04T21:09:30.000Z"
     },
     {
       "id": 103613,
@@ -56,12 +66,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T04:38:11.000Z",
-    "updated_at": "2025-04-28T04:38:12.000Z",
+    "created_at": "2025-05-14T16:21:03.000Z",
+    "updated_at": "2025-05-14T16:21:04.000Z",
     "pd": {
-      "played": 13,
-      "won": 6,
-      "ratio": 46
+      "played": 3,
+      "won": 1,
+      "ratio": 33
     }
   },
   "creations": {
@@ -71,5 +81,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T11:10:46.296Z"
+  "archived_at": "2025-05-14T19:33:46.655Z"
 }
