@@ -1,29 +1,40 @@
 {
   "id": 21377000,
   "username": "OuO_",
-  "description": "If you play paima, you 𝐀𝐫𝐞 my first target.",
+  "description": "If you play paima, you 𝐀𝐫𝐞 my first target.\nIf you play Conda just fucking quit everyone hates you",
   "about": "I make art and stuff\n\nCs, coco, and beginner gs main.\n\nMy high scores are just coin grinding so ignore them.\n\nDr Pepper outclasses any soda\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-08-07T05:03:47.000Z",
-  "date_last_played": "2025-05-09T05:40:29.000Z",
-  "profile_views": 5477,
-  "kill_count": 5498,
-  "play_count": 2533,
+  "date_last_played": "2025-05-14T02:34:17.000Z",
+  "profile_views": 5583,
+  "kill_count": 5556,
+  "play_count": 2563,
   "highest_score": 13678333,
   "picture": "21377000-e32a2bb10b11d104384b71a06505931043b-7e6f954e-8865-40f7-b5b5-bdb502da7018.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1149,
+  "coins": 1156,
   "tier": 10,
-  "xp": 1630500,
+  "xp": 1654050,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104718,
+      "user_id": 21377000,
+      "platform_id": "dc",
+      "platform_user_id": "1372071683816685568",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-14T06:37:13.000Z",
+      "updated_at": "2025-05-14T06:37:13.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21377000,
     "rank_kc": null,
@@ -35,12 +46,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-09T05:40:29.000Z",
-    "updated_at": "2025-05-09T05:40:29.000Z",
+    "created_at": "2025-05-14T02:34:17.000Z",
+    "updated_at": "2025-05-14T02:34:17.000Z",
     "pd": {
-      "played": 23,
-      "won": 9,
-      "ratio": 39
+      "played": 20,
+      "won": 8,
+      "ratio": 40
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-09T06:38:09.388Z"
+  "archived_at": "2025-05-14T18:54:36.102Z"
 }
