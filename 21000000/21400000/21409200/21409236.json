@@ -1,31 +1,31 @@
 {
-  "id": 21409220,
-  "username": "RAJIV",
-  "description": "brr brr patapim",
+  "id": 21409236,
+  "username": "Skyfles",
+  "description": "My bad (._.)\n",
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2025-05-09T00:54:25.000Z",
-  "date_last_played": "2025-05-13T00:31:56.000Z",
-  "profile_views": 2,
-  "kill_count": 10,
-  "play_count": 35,
-  "highest_score": 184941,
+  "date_created": "2025-05-09T05:51:13.000Z",
+  "date_last_played": "2025-05-12T05:49:09.000Z",
+  "profile_views": 7,
+  "kill_count": 5,
+  "play_count": 15,
+  "highest_score": 443477,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 22,
+  "coins": 28,
   "tier": 1,
-  "xp": 1800,
+  "xp": 2700,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 21409220,
+    "user_id": 21409236,
     "rank_kc": null,
     "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-13T00:31:55.000Z",
-    "updated_at": "2025-05-13T00:31:56.000Z",
-    "pd": null
+    "created_at": "2025-05-12T05:49:08.000Z",
+    "updated_at": "2025-05-12T05:49:09.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:49:35.045Z"
+  "archived_at": "2025-05-14T22:49:37.119Z"
 }
