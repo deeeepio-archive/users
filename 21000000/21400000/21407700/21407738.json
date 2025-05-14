@@ -1,24 +1,24 @@
 {
   "id": 21407738,
-  "username": "Widia-QWN",
-  "description": "Nice try bg👏🏻",
-  "about": "Hello im mwah✋🏻",
+  "username": "ValentCloudy",
+  "description": "U get cloud☁️",
+  "about": "Hello:b🙌\n\n\n\nIm she/her♀️\n10 year old👧\nI likee clouddds very muchh💙💙☁️☁️☁️",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-21T23:33:04.000Z",
-  "date_last_played": "2025-04-27T23:26:00.000Z",
-  "profile_views": 6,
-  "kill_count": 30,
-  "play_count": 19,
-  "highest_score": 2028200,
-  "picture": null,
+  "date_last_played": "2025-05-10T21:57:32.000Z",
+  "profile_views": 49,
+  "kill_count": 103,
+  "play_count": 59,
+  "highest_score": 4530245,
+  "picture": "21407738-38dce6dde5a16d07ed39e6612c134439-0034f17b-40e7-475a-9773-c663006908c8.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 50,
-  "tier": 1,
-  "xp": 19500,
+  "coins": 341,
+  "tier": 2,
+  "xp": 63150,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -26,18 +26,22 @@
   "social_networks": [],
   "user_stats": {
     "user_id": 21407738,
-    "rank_kc_dirty": true,
-    "rank_pc_dirty": true,
-    "rank_hs_dirty": true,
-    "created_at": "2025-04-28T19:54:35.704Z",
-    "updated_at": "2025-04-28T19:54:36.000Z",
     "rank_kc": null,
+    "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
     "rank_pc": null,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "pd": null
+    "created_at": "2025-05-10T21:57:31.000Z",
+    "updated_at": "2025-05-10T21:57:32.000Z",
+    "pd": {
+      "played": 3,
+      "won": 2,
+      "ratio": 67
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:54:35.801Z"
+  "archived_at": "2025-05-14T22:38:27.512Z"
 }
