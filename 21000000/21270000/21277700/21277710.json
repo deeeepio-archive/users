@@ -1,24 +1,24 @@
 {
   "id": 21277710,
-  "username": "akutou",
+  "username": "konnitihaREDBLU",
   "description": "美味しかったです！！あなたとのバトルは私にとって良いものでした！！さようなら！！\n\n",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2023-03-26T05:53:16.000Z",
-  "date_last_played": "2024-01-21T06:43:42.000Z",
-  "profile_views": 580,
-  "kill_count": 4017,
-  "play_count": 1022,
+  "date_last_played": "2025-05-11T07:47:24.000Z",
+  "profile_views": 611,
+  "kill_count": 4167,
+  "play_count": 1065,
   "highest_score": 7842704,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 233,
-  "tier": 8,
-  "xp": 861450,
+  "coins": 159,
+  "tier": 9,
+  "xp": 903600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 3794,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-21T06:05:13.000Z",
-    "created_at": "2024-01-21T06:43:41.000Z",
-    "updated_at": "2024-01-21T06:43:42.000Z",
-    "pd": null
+    "created_at": "2025-05-11T07:47:23.000Z",
+    "updated_at": "2025-05-11T07:47:24.000Z",
+    "pd": {
+      "played": 10,
+      "won": 7,
+      "ratio": 70
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-27T22:58:07.025Z"
+  "archived_at": "2025-05-14T07:25:33.734Z"
 }
