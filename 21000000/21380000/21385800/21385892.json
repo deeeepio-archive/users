@@ -1,24 +1,24 @@
 {
   "id": 21385892,
-  "username": "inchworm-",
-  "description": null,
-  "about": null,
+  "username": "taser0",
+  "description": "light work",
+  "about": "keep yourself safe †⠀ 󠁝󠀠󠁝‍ \ntaz\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-17T16:51:39.000Z",
-  "date_last_played": "2024-10-17T16:51:39.000Z",
-  "profile_views": 5,
-  "kill_count": 0,
-  "play_count": 0,
-  "highest_score": 0,
-  "picture": null,
+  "date_last_played": "2025-05-14T19:05:50.000Z",
+  "profile_views": 298,
+  "kill_count": 388,
+  "play_count": 67,
+  "highest_score": 2396631,
+  "picture": "21385892-d7b9e626c1ad589a8cd3423e7d02e1fe-e8ef0df7-8596-4f1a-8336-f73f1bd98dce.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 10,
-  "tier": 1,
-  "xp": 0,
+  "coins": 302,
+  "tier": 2,
+  "xp": 43800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -26,18 +26,22 @@
   "social_networks": [],
   "user_stats": {
     "user_id": 21385892,
-    "rank_kc_dirty": true,
-    "rank_pc_dirty": true,
-    "rank_hs_dirty": true,
-    "created_at": "2025-04-28T11:30:57.365Z",
-    "updated_at": "2025-04-28T11:30:57.000Z",
     "rank_kc": null,
+    "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
     "rank_pc": null,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "pd": null
+    "created_at": "2025-05-14T19:05:50.000Z",
+    "updated_at": "2025-05-14T19:05:50.000Z",
+    "pd": {
+      "played": 58,
+      "won": 24,
+      "ratio": 41
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T11:30:57.458Z"
+  "archived_at": "2025-05-14T19:52:54.650Z"
 }
