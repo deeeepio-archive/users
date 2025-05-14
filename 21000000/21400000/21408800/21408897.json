@@ -1,31 +1,31 @@
 {
-  "id": 21408900,
-  "username": "pi_6",
-  "description": null,
+  "id": 21408897,
+  "username": "narme",
+  "description": "si te gane fue por suerte suerte la proxima ves",
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2025-05-05T00:46:24.000Z",
-  "date_last_played": "2025-05-08T03:24:12.000Z",
-  "profile_views": 29,
-  "kill_count": 191,
-  "play_count": 44,
-  "highest_score": 3659184,
-  "picture": "21408900-64c01e5824fe3a2fd78dd6f0599cd386-8c9ee776-6aad-4623-94a8-be5f36e66a51.png",
+  "date_created": "2025-05-04T23:55:49.000Z",
+  "date_last_played": "2025-05-14T00:24:01.000Z",
+  "profile_views": 30,
+  "kill_count": 1379,
+  "play_count": 407,
+  "highest_score": 5290671,
+  "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 28,
-  "tier": 2,
-  "xp": 55200,
+  "coins": 85,
+  "tier": 6,
+  "xp": 504000,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 21408900,
+    "user_id": 21408897,
     "rank_kc": null,
     "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-08T03:24:11.000Z",
-    "updated_at": "2025-05-08T03:24:12.000Z",
+    "created_at": "2025-05-14T00:24:00.000Z",
+    "updated_at": "2025-05-14T00:24:01.000Z",
     "pd": {
-      "played": 3,
-      "won": 2,
-      "ratio": 67
+      "played": 10,
+      "won": 3,
+      "ratio": 30
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:46:40.921Z"
+  "archived_at": "2025-05-14T22:46:40.580Z"
 }
