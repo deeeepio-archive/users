@@ -1,29 +1,50 @@
 {
   "id": 21371083,
   "username": "Enn",
-  "description": "\n\"⣸⣷⣄⠀⠀⠀⢀⠠⠴⠶⣶⣤⡀⠀⠀⠀⠀⠀⣀⣤⣤⡀\n⠀⣙⣡⣀⣬⣿⠗⠁⣠⣴⣶⣶⣝⣿⣿⣷⣾⣿⣾⣿⣿⣿⣯⣀\n⠘⢻⣿⣿⣿⡏⠀⢰⣿⣿⣿⣿⣿⣿⠘⠟⣻⣿⣿⣿⣿⣿⣿⣯\n⠰⢼⣿⣿⣿⡇⠀⢸⣿⣿⣿⣿⣿⣶⢀⣌⣻⣿⣿⣿⣿⣿⣿⣿⡂\n⠀⢘⣿⣿⣿⣿⣄⠀⠻⢿⣿⣿⢟⣿⣾⣿⣿⣿⣿⡿⠿⠿⠛⠛⠓\n⠀⠀⠈⠉⠿⠿⠉⠑⢤⣤⡤⠂⠛⣹⠙\"",
+  "description": "support me \n\n<---\n\n\n",
   "about": "\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-06-14T05:01:49.000Z",
-  "date_last_played": "2025-04-26T08:46:12.000Z",
-  "profile_views": 583,
-  "kill_count": 4586,
-  "play_count": 3514,
+  "date_last_played": "2025-05-14T17:14:01.000Z",
+  "profile_views": 617,
+  "kill_count": 4781,
+  "play_count": 3751,
   "highest_score": 8838139,
   "picture": "21371083-dc437b5aedbf23e1a35ddcc9aae7aa73-4cdbf047-38bc-418d-bdac-013a5d66ff60.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1965,
+  "coins": 272,
   "tier": 10,
-  "xp": 1767000,
+  "xp": 1843800,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104688,
+      "user_id": 21371083,
+      "platform_id": "yt",
+      "platform_user_id": "icardi edit",
+      "platform_user_url": "https://youtube.com/shorts/_ebIbrhY5XE?si=yvskBbcduGopeJvW",
+      "verified": false,
+      "created_at": "2025-05-13T15:33:27.000Z",
+      "updated_at": "2025-05-13T15:33:27.000Z"
+    },
+    {
+      "id": 104682,
+      "user_id": 21371083,
+      "platform_id": "yt",
+      "platform_user_id": "youtube",
+      "platform_user_url": "https://www.youtube.com/@gameedit9",
+      "verified": false,
+      "created_at": "2025-05-13T15:28:10.000Z",
+      "updated_at": "2025-05-13T15:28:10.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21371083,
     "rank_kc": null,
@@ -35,13 +56,9 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-26T08:46:11.000Z",
-    "updated_at": "2025-04-26T08:46:12.000Z",
-    "pd": {
-      "played": 2,
-      "won": 1,
-      "ratio": 50
-    }
+    "created_at": "2025-05-14T17:14:00.000Z",
+    "updated_at": "2025-05-14T17:14:01.000Z",
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -50,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T09:37:21.347Z"
+  "archived_at": "2025-05-14T18:15:49.435Z"
 }
