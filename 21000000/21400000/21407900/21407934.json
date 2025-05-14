@@ -1,24 +1,24 @@
 {
   "id": 21407934,
   "username": "jayIguess",
-  "description": null,
-  "about": null,
+  "description": "The strongest emotion is fear",
+  "about": "nothing",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-24T02:27:49.000Z",
-  "date_last_played": "2025-04-28T01:55:20.000Z",
-  "profile_views": 10,
-  "kill_count": 40,
-  "play_count": 30,
-  "highest_score": 1073715,
-  "picture": null,
+  "date_last_played": "2025-05-14T01:33:09.000Z",
+  "profile_views": 38,
+  "kill_count": 337,
+  "play_count": 155,
+  "highest_score": 1990768,
+  "picture": "21407934-f9abeb8b2ff1ec56a1c6f4810889d24810-ec2a3535-ccbc-4364-a4f0-bdb01871b0bc.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 59,
-  "tier": 1,
-  "xp": 14100,
+  "coins": 81,
+  "tier": 3,
+  "xp": 115650,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T01:55:20.000Z",
-    "updated_at": "2025-04-28T01:55:20.000Z",
+    "created_at": "2025-05-14T01:33:09.000Z",
+    "updated_at": "2025-05-14T01:33:09.000Z",
     "pd": {
-      "played": 4,
-      "won": 1,
-      "ratio": 25
+      "played": 41,
+      "won": 21,
+      "ratio": 51
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:56:06.291Z"
+  "archived_at": "2025-05-14T22:39:41.687Z"
 }
