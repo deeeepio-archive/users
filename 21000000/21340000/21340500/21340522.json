@@ -1,15 +1,15 @@
 {
   "id": 21340522,
   "username": "鮮鮮來遲",
-  "description": "頑張ってね",
-  "about": "あなたの鮮鮮雅加特です……コッコッコ♪",
+  "description": "池塘裡有十朵蓮，我採了十朵蓮，所以你採九朵蓮",
+  "about": "嘻嘻嘻",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-12-10T05:52:59.000Z",
-  "date_last_played": "2024-03-04T02:58:52.000Z",
-  "profile_views": 32,
+  "date_last_played": "2025-05-10T06:32:21.000Z",
+  "profile_views": 41,
   "kill_count": 15,
-  "play_count": 6,
+  "play_count": 7,
   "highest_score": 542979,
   "picture": "21340522-22316dac79e104d10cddfc46f766e5b18b.png",
   "displayPicture": true,
@@ -25,14 +25,24 @@
   "badges": [],
   "social_networks": [
     {
-      "id": 91324,
+      "id": 104562,
       "user_id": 21340522,
-      "platform_id": "fb",
-      "platform_user_id": "阿瑪鮮鮮",
-      "platform_user_url": "https://www.facebook.com/ama0730sen?mibextid=ZbWKwL",
+      "platform_id": "ig",
+      "platform_user_id": "ama_0730_sen",
+      "platform_user_url": null,
       "verified": false,
-      "created_at": "2024-02-02T14:44:59.000Z",
-      "updated_at": "2024-02-02T14:44:59.000Z"
+      "created_at": "2025-05-10T06:24:40.000Z",
+      "updated_at": "2025-05-10T06:24:40.000Z"
+    },
+    {
+      "id": 104561,
+      "user_id": 21340522,
+      "platform_id": "tw",
+      "platform_user_id": "ama0730sen",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-10T06:24:28.000Z",
+      "updated_at": "2025-05-10T06:24:28.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +56,8 @@
     "rank_hs": 578957,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-10T06:17:18.000Z",
-    "created_at": "2024-03-04T02:58:52.000Z",
-    "updated_at": "2024-03-04T02:58:52.000Z",
+    "created_at": "2025-05-10T06:32:21.000Z",
+    "updated_at": "2025-05-10T06:32:21.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T05:54:04.483Z"
+  "archived_at": "2025-05-14T14:44:50.898Z"
 }
