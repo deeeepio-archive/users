@@ -2,23 +2,23 @@
   "id": 21386650,
   "username": "Mrdoritos",
   "description": "Here have a  chicken 🐔 😋 dinner, anyway Sorry for killing you, have a nice day :) \n",
-  "about": "Things I like:\nLego\nI play Lordz.io, paper.io, lurkers.io, diep.io and taming.io\nReading\nMinecraft\nWriting story’s\nParkour\nI love listening to imagine dragons\nMusic \nFitness \nI love qld\nAnd I am a boy",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-23T06:24:33.000Z",
-  "date_last_played": "2024-11-27T05:37:58.000Z",
-  "profile_views": 132,
-  "kill_count": 141,
-  "play_count": 429,
-  "highest_score": 1339040,
+  "date_last_played": "2025-05-14T06:56:07.000Z",
+  "profile_views": 151,
+  "kill_count": 201,
+  "play_count": 570,
+  "highest_score": 2341374,
   "picture": "21386650-3a1b20f49577e5190f5e8cdb3fb105e12-6ba79488-54ae-4223-b2a0-16b89e1a5b0d.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 143,
-  "tier": 2,
-  "xp": 72450,
+  "coins": 466,
+  "tier": 3,
+  "xp": 120900,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2024-11-27T05:37:58.000Z",
-    "updated_at": "2024-11-27T05:37:58.000Z",
-    "pd": null
+    "created_at": "2025-05-14T06:56:06.000Z",
+    "updated_at": "2025-05-14T06:56:07.000Z",
+    "pd": {
+      "played": 9,
+      "won": 4,
+      "ratio": 44
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T11:36:30.226Z"
+  "archived_at": "2025-05-14T19:58:52.926Z"
 }
