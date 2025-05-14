@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-05-20T14:42:19.000Z",
-  "date_last_played": "2025-04-27T11:08:52.000Z",
-  "profile_views": 1074,
-  "kill_count": 2231,
-  "play_count": 2233,
+  "date_last_played": "2025-05-08T14:39:20.000Z",
+  "profile_views": 1109,
+  "kill_count": 2248,
+  "play_count": 2265,
   "highest_score": 5724407,
   "picture": "21367658-2fe62fbf47681001de43bca436ed71461-9ceef598-290c-43af-b623-f7c1beb9211a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2458,
+  "coins": 2495,
   "tier": 8,
-  "xp": 719100,
+  "xp": 726150,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -76,13 +76,59 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-27T11:08:52.000Z",
-    "updated_at": "2025-04-27T11:08:52.000Z",
+    "created_at": "2025-05-08T14:39:19.000Z",
+    "updated_at": "2025-05-08T14:39:20.000Z",
     "pd": null
   },
   "creations": {
     "maps": {
       "items": [
+        {
+          "id": 245325,
+          "user_id": 21367658,
+          "cloneof_id": null,
+          "string_id": "ddos",
+          "title": "Untitled",
+          "description": "ashb",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 0,
+          "created_at": "2025-05-11T09:47:52.000Z",
+          "updated_at": "2025-05-11T09:47:53.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21367658,
+            "username": "🏯𝒟𝑜𝒹𝑜-𝐸𝓂𝓅𝒾𝓇e🏰",
+            "description": "Money is nothing in this world, you can't buy a title deed to the afterlife, money is just a piece of paper, you can buy what you want, but you can't buy everything you want, you lost your health, you can't even buy your health with money.",
+            "about": "\"Arabs are the richest in the world. I am proud to be an Arab, just like our family. Prophet HZ. Muhammad (SAV) when the Kaaba was demolished and its stones were thrown into the sea. Then terrible signs occur.\".",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-05-20T14:42:19.000Z",
+            "date_last_played": "2025-05-08T14:39:20.000Z",
+            "kill_count": 2248,
+            "play_count": 2265,
+            "highest_score": 5724407,
+            "picture": "21367658-2fe62fbf47681001de43bca436ed71461-9ceef598-290c-43af-b623-f7c1beb9211a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 2495,
+            "tier": 8,
+            "xp": 726150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "dooa"
+            }
+          ]
+        },
         {
           "id": 244282,
           "user_id": 21367658,
@@ -107,18 +153,18 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2024-05-20T14:42:19.000Z",
-            "date_last_played": "2025-04-27T11:08:52.000Z",
-            "kill_count": 2231,
-            "play_count": 2233,
+            "date_last_played": "2025-05-08T14:39:20.000Z",
+            "kill_count": 2248,
+            "play_count": 2265,
             "highest_score": 5724407,
             "picture": "21367658-2fe62fbf47681001de43bca436ed71461-9ceef598-290c-43af-b623-f7c1beb9211a.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 2458,
+            "coins": 2495,
             "tier": 8,
-            "xp": 719100,
+            "xp": 726150,
             "migrated": false,
             "verified": false,
             "beta": false
@@ -130,9 +176,9 @@
           ]
         }
       ],
-      "count": 1
+      "count": 2
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T09:11:01.319Z"
+  "archived_at": "2025-05-14T17:48:37.690Z"
 }
