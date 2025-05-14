@@ -1,0 +1,71 @@
+{
+  "id": 21409589,
+  "username": "Kattsapal",
+  "description": "Lo siento tengo que comer 🥺",
+  "about": "Me gustan los jueguitos 😜",
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-05-13T01:31:33.000Z",
+  "date_last_played": "2025-05-13T01:31:33.000Z",
+  "profile_views": 3,
+  "kill_count": 0,
+  "play_count": 0,
+  "highest_score": 0,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 10,
+  "tier": 1,
+  "xp": 0,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 104667,
+      "user_id": 21409589,
+      "platform_id": "dc",
+      "platform_user_id": "Katt_s",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-13T01:33:22.000Z",
+      "updated_at": "2025-05-13T01:33:22.000Z"
+    },
+    {
+      "id": 104664,
+      "user_id": 21409589,
+      "platform_id": "dc",
+      "platform_user_id": "Kattt_s",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-13T01:33:07.000Z",
+      "updated_at": "2025-05-13T01:33:07.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21409589,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-05-13T01:32:19.000Z",
+    "updated_at": "2025-05-13T01:32:19.000Z",
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-05-14T22:52:10.118Z"
+}
