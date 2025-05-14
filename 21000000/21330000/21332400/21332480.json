@@ -1,24 +1,24 @@
 {
   "id": 21332480,
-  "username": "10610",
+  "username": "欸淇欸",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2023-11-10T03:00:22.000Z",
-  "date_last_played": "2025-05-09T04:00:04.000Z",
-  "profile_views": 23,
-  "kill_count": 268,
-  "play_count": 267,
+  "date_last_played": "2025-05-14T10:49:18.000Z",
+  "profile_views": 31,
+  "kill_count": 277,
+  "play_count": 298,
   "highest_score": 2331876,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 17,
+  "coins": 37,
   "tier": 2,
-  "xp": 56550,
+  "xp": 61800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 84365,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-06T11:33:13.000Z",
-    "created_at": "2025-05-09T04:00:03.000Z",
-    "updated_at": "2025-05-09T04:00:04.000Z",
-    "pd": null
+    "created_at": "2025-05-14T10:49:17.000Z",
+    "updated_at": "2025-05-14T10:49:18.000Z",
+    "pd": {
+      "played": 3,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-09T06:22:57.566Z"
+  "archived_at": "2025-05-14T13:46:56.722Z"
 }
