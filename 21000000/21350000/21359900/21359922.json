@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-03-24T17:08:35.000Z",
-  "date_last_played": "2025-04-27T17:16:55.000Z",
-  "profile_views": 213,
-  "kill_count": 2586,
-  "play_count": 1640,
-  "highest_score": 6370721,
+  "date_last_played": "2025-05-14T13:08:12.000Z",
+  "profile_views": 250,
+  "kill_count": 2809,
+  "play_count": 1749,
+  "highest_score": 7796219,
   "picture": "21359922-f4a4fe36892eb9c3b278c4a3ec3d4fdc-b73dac95-af23-498b-8074-a29e29c0918a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 216,
+  "coins": 252,
   "tier": 9,
-  "xp": 903150,
+  "xp": 1019550,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,16 +35,63 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-27T17:16:54.000Z",
-    "updated_at": "2025-04-27T17:16:55.000Z",
+    "created_at": "2025-05-14T13:08:12.000Z",
+    "updated_at": "2025-05-14T13:08:12.000Z",
     "pd": null
   },
   "creations": {
     "maps": {
-      "items": [],
-      "count": 0
+      "items": [
+        {
+          "id": 245323,
+          "user_id": 21359922,
+          "cloneof_id": null,
+          "string_id": "yunusbaba0",
+          "title": "elprimoooooooooo",
+          "description": "oyna",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 20,
+          "created_at": "2025-05-10T16:51:31.000Z",
+          "updated_at": "2025-05-10T16:56:16.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21359922,
+            "username": "YuNuSbAbA0",
+            "description": "''bedava0913 un ANISINA'' İntikamımı almadan durmam! Ama sen beni yendiğinde ÖLMÜŞ olacaksın \"yunusbaba0'ın ANISINA\"  Saygılar            \"Unutma gerçek güç KALBİNDE\n\"Masa 0 Anısınıa Saygılar\n",
+            "about": "bedava0913Xyunusbaba0 CAMGÖZÜ SİZ NE ZANNEDİOSUNUZ? ONU BENDEN AYIRAN FARKLAR BENİM ONUNLA AYNI OLMAM. HİÇBİR BALIK ONUN GİBİ OLAMAZ (HELE HELE ESKİ CAMGÖZDEN) G G \"Masa 0 Anısına Saygılar\n\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-03-24T17:08:35.000Z",
+            "date_last_played": "2025-05-14T13:08:12.000Z",
+            "kill_count": 2809,
+            "play_count": 1749,
+            "highest_score": 7796219,
+            "picture": "21359922-f4a4fe36892eb9c3b278c4a3ec3d4fdc-b73dac95-af23-498b-8074-a29e29c0918a.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 252,
+            "tier": 9,
+            "xp": 1019550,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "gh"
+            }
+          ]
+        }
+      ],
+      "count": 1
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T08:11:00.286Z"
+  "archived_at": "2025-05-14T16:54:50.688Z"
 }
