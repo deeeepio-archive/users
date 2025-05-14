@@ -1,16 +1,16 @@
 {
-  "id": 21409200,
-  "username": "The_one_leviathan",
+  "id": 21409109,
+  "username": "mhrly",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2025-05-08T20:31:28.000Z",
-  "date_last_played": "2025-05-08T21:15:28.000Z",
-  "profile_views": 1,
-  "kill_count": 2,
-  "play_count": 6,
-  "highest_score": 384040,
+  "date_created": "2025-05-07T18:03:45.000Z",
+  "date_last_played": "2025-05-07T20:33:52.000Z",
+  "profile_views": 7,
+  "kill_count": 3,
+  "play_count": 13,
+  "highest_score": 249845,
   "picture": null,
   "displayPicture": true,
   "active": true,
@@ -25,7 +25,7 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 21409200,
+    "user_id": 21409109,
     "rank_kc": null,
     "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-09T06:48:52.000Z",
-    "updated_at": "2025-05-09T06:48:52.000Z",
+    "created_at": "2025-05-07T20:33:52.000Z",
+    "updated_at": "2025-05-07T20:33:52.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:49:15.593Z"
+  "archived_at": "2025-05-14T22:49:02.948Z"
 }
