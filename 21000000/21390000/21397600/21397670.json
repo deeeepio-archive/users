@@ -1,24 +1,24 @@
 {
   "id": 21397670,
   "username": "unknown-333",
-  "description": "",
+  "description": "thanks for the free coin",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-01-16T21:52:51.000Z",
-  "date_last_played": "2025-04-28T12:49:38.000Z",
-  "profile_views": 128,
-  "kill_count": 392,
-  "play_count": 336,
+  "date_last_played": "2025-05-09T21:54:26.000Z",
+  "profile_views": 130,
+  "kill_count": 417,
+  "play_count": 352,
   "highest_score": 1191557,
   "picture": "21397670-ddb8b7d52d949bc9d7e12c11dd25e356-114916ad-8216-460a-ab8f-5ffb9e5442a5.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 266,
+  "coins": 323,
   "tier": 3,
-  "xp": 103350,
+  "xp": 111900,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T12:49:38.000Z",
-    "updated_at": "2025-04-28T12:49:38.000Z",
+    "created_at": "2025-05-09T21:58:09.000Z",
+    "updated_at": "2025-05-09T21:58:10.000Z",
     "pd": {
-      "played": 10,
+      "played": 5,
       "won": 2,
-      "ratio": 20
+      "ratio": 40
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T12:52:52.958Z"
+  "archived_at": "2025-05-14T21:17:16.997Z"
 }
