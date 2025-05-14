@@ -1,24 +1,24 @@
 {
   "id": 21397970,
-  "username": "日本兵",
-  "description": "天皇陛下万歳\nフェミは死ね",
-  "about": "現在二等兵目指すは中佐\n",
+  "username": "マイクロ",
+  "description": "どうもすいません",
+  "about": "こんにちは初めましてさようなら",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-01-19T07:05:33.000Z",
-  "date_last_played": "2025-04-03T05:04:13.000Z",
-  "profile_views": 104,
-  "kill_count": 452,
-  "play_count": 162,
-  "highest_score": 4674856,
-  "picture": "21397970-f0107d10105d609de95e2a128f265f35124-e28c3c0b-3c55-48b4-9c35-3ecf71d5f681.png",
+  "date_last_played": "2025-05-14T12:03:17.000Z",
+  "profile_views": 174,
+  "kill_count": 633,
+  "play_count": 236,
+  "highest_score": 5669273,
+  "picture": "21397970-2ce872296260f4ef0f210e5e14697f910d-eaae906a-b46e-45bc-a6b2-45663857775d.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 301,
+  "coins": 269,
   "tier": 4,
-  "xp": 180900,
+  "xp": 248100,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-03T05:04:13.000Z",
-    "updated_at": "2025-04-03T05:04:13.000Z",
-    "pd": null
+    "created_at": "2025-05-14T12:03:17.000Z",
+    "updated_at": "2025-05-14T12:03:17.000Z",
+    "pd": {
+      "played": 3,
+      "won": 2,
+      "ratio": 67
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T12:54:55.936Z"
+  "archived_at": "2025-05-14T21:19:20.094Z"
 }
