@@ -1,24 +1,24 @@
 {
   "id": 21362569,
   "username": "Test2022",
-  "description": "I'm noob",
-  "about": "🤦🏿",
+  "description": "Anyone pls teach me how to do cs.",
+  "about": "I'm noob.",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-04-10T04:21:44.000Z",
-  "date_last_played": "2025-04-28T07:52:59.000Z",
-  "profile_views": 586,
-  "kill_count": 719,
-  "play_count": 1460,
+  "date_last_played": "2025-05-14T13:48:28.000Z",
+  "profile_views": 1141,
+  "kill_count": 1131,
+  "play_count": 1670,
   "highest_score": 3056402,
-  "picture": "21362569-a8e108c1280cf223b6b32d8af07110dddf-84047368-f384-40b9-8d78-9e2660b01a43.png",
+  "picture": "21362569-9caeb50b217a1bc8b107c43722595bade-22fd45f8-0a4e-40b0-9bc2-f5fc8e08da5f.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 98,
-  "tier": 6,
-  "xp": 420000,
+  "coins": 250,
+  "tier": 7,
+  "xp": 545550,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,11 +35,11 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T07:52:59.000Z",
-    "updated_at": "2025-04-28T07:52:59.000Z",
+    "created_at": "2025-05-14T13:48:27.000Z",
+    "updated_at": "2025-05-14T13:48:28.000Z",
     "pd": {
-      "played": 52,
-      "won": 23,
+      "played": 172,
+      "won": 75,
       "ratio": 44
     }
   },
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T08:29:25.568Z"
+  "archived_at": "2025-05-14T17:13:43.300Z"
 }
