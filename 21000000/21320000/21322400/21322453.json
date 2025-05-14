@@ -1,24 +1,24 @@
 {
   "id": 21322453,
   "username": "saviorclownn",
-  "description": "pls donate coins to the poor",
+  "description": "meow",
   "about": "live love laugh cats",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-10-03T13:55:13.000Z",
-  "date_last_played": "2024-10-01T02:54:33.000Z",
-  "profile_views": 332,
-  "kill_count": 1758,
-  "play_count": 812,
+  "date_last_played": "2025-05-05T15:57:50.000Z",
+  "profile_views": 343,
+  "kill_count": 1765,
+  "play_count": 815,
   "highest_score": 6148297,
-  "picture": "21322453-66da6def6465e32565d9fddeb1f71ce8-e3e59e8d-da02-4c34-84d8-ae93b7a9cf16.png",
+  "picture": "21322453-efc8d16638cbe780a7cc7324c902eadc-e771f5ed-a80d-4eed-a073-78bdf80086ac.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 84,
+  "coins": 104,
   "tier": 6,
-  "xp": 399600,
+  "xp": 402600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 5609,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-07T00:23:46.000Z",
-    "created_at": "2024-10-01T02:54:32.000Z",
-    "updated_at": "2024-10-01T02:54:33.000Z",
-    "pd": null
+    "created_at": "2025-05-05T15:57:49.000Z",
+    "updated_at": "2025-05-05T15:57:50.000Z",
+    "pd": {
+      "played": 3,
+      "won": 2,
+      "ratio": 67
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T03:52:20.736Z"
+  "archived_at": "2025-05-14T12:37:30.655Z"
 }
