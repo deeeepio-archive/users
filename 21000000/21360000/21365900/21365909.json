@@ -1,24 +1,24 @@
 {
   "id": 21365909,
   "username": "__AֆAP",
-  "description": "wa$ted",
-  "about": "★",
+  "description": "",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-05-05T17:39:47.000Z",
-  "date_last_played": "2025-04-22T19:54:35.000Z",
-  "profile_views": 1919,
-  "kill_count": 1065,
-  "play_count": 280,
+  "date_last_played": "2025-05-09T19:31:11.000Z",
+  "profile_views": 1966,
+  "kill_count": 1073,
+  "play_count": 286,
   "highest_score": 4703094,
-  "picture": "21365909-d561010b33a81010c5ed27bc8ee109bdfd97-6e1408ad-be8c-46d7-b18a-9ea910d2edb6.png",
+  "picture": "21365909-1c625bf53f631085915c9087f25ac2b99-029696ac-7814-462b-b53f-d3ce8795b3ae.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 180,
+  "coins": 194,
   "tier": 4,
-  "xp": 208500,
+  "xp": 210600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-22T19:54:35.000Z",
-    "updated_at": "2025-04-22T19:54:35.000Z",
+    "created_at": "2025-05-09T19:31:10.000Z",
+    "updated_at": "2025-05-09T19:31:11.000Z",
     "pd": {
-      "played": 2,
-      "won": 1,
-      "ratio": 50
+      "played": 4,
+      "won": 3,
+      "ratio": 75
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T08:56:16.768Z"
+  "archived_at": "2025-05-14T17:37:49.562Z"
 }
