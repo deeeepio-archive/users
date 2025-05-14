@@ -1,24 +1,24 @@
 {
   "id": 21293093,
-  "username": "Username85",
-  "description": "gg",
+  "username": "Toaster85",
+  "description": "the eagle rapes everything that it grabs",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2023-05-20T00:58:38.000Z",
-  "date_last_played": "2025-04-27T22:17:41.000Z",
-  "profile_views": 39,
-  "kill_count": 40,
-  "play_count": 197,
-  "highest_score": 847999,
-  "picture": "21293093-751dd1016c4696042635851bfdeb8c534.png",
+  "date_last_played": "2025-05-14T02:16:30.000Z",
+  "profile_views": 67,
+  "kill_count": 74,
+  "play_count": 289,
+  "highest_score": 899711,
+  "picture": "21293093-22ac10f2b7eb1bc0f64f8424cf4342fb5-0344e4de-e0a3-4297-bfc0-758f330a0a44.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 77,
-  "tier": 1,
-  "xp": 17550,
+  "coins": 27,
+  "tier": 2,
+  "xp": 35550,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 181631,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-09-17T21:00:11.000Z",
-    "created_at": "2025-04-27T22:17:40.000Z",
-    "updated_at": "2025-04-27T22:17:41.000Z",
-    "pd": null
+    "created_at": "2025-05-14T02:16:29.000Z",
+    "updated_at": "2025-05-14T02:16:30.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T00:37:19.244Z"
+  "archived_at": "2025-05-14T09:10:52.208Z"
 }
