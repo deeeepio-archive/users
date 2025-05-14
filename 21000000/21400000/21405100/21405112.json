@@ -2,23 +2,23 @@
   "id": 21405112,
   "username": "베벱",
   "description": "이런,죽으셨군요.고기는 잘먹겠어요:)",
-  "about": null,
+  "about": ":)",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-22T00:23:00.000Z",
-  "date_last_played": "2025-04-26T08:38:33.000Z",
-  "profile_views": 146,
-  "kill_count": 940,
-  "play_count": 270,
-  "highest_score": 3361968,
-  "picture": "21405112-1d7b777413b9456929e74430ea0b2c2f-f8ef439b-d75f-4e81-b425-0a0254a495a8.png",
+  "date_last_played": "2025-05-14T12:18:16.000Z",
+  "profile_views": 215,
+  "kill_count": 1548,
+  "play_count": 445,
+  "highest_score": 3586455,
+  "picture": "21405112-632dadd6fdad5cad89d205783e070adb-adc32a9d-d5e0-4f32-8df1-006b781b4b45.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 68,
-  "tier": 4,
-  "xp": 222150,
+  "coins": 122,
+  "tier": 6,
+  "xp": 408000,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-26T08:38:33.000Z",
-    "updated_at": "2025-04-26T08:38:33.000Z",
+    "created_at": "2025-05-14T12:18:16.000Z",
+    "updated_at": "2025-05-14T12:18:16.000Z",
     "pd": {
-      "played": 81,
-      "won": 44,
-      "ratio": 54
+      "played": 75,
+      "won": 39,
+      "ratio": 52
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:34:31.821Z"
+  "archived_at": "2025-05-14T22:14:57.495Z"
 }
