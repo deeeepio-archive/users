@@ -2,23 +2,23 @@
   "id": 21379976,
   "username": "killaur",
   "description": "Gg you good!",
-  "about": "Я могу попасть в топ 1 мира меня ничто не остановит!",
+  "about": ".My good team-Loves.",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-08-31T04:28:47.000Z",
-  "date_last_played": "2025-04-27T16:27:00.000Z",
-  "profile_views": 102,
-  "kill_count": 216,
-  "play_count": 484,
+  "date_last_played": "2025-05-12T15:43:54.000Z",
+  "profile_views": 139,
+  "kill_count": 342,
+  "play_count": 769,
   "highest_score": 8307928,
-  "picture": "21379976-a6937c91aeb9657f9968107b6a58af617-dfe4414f-9cf1-4bd6-bb3d-ef4c3e08781e.png",
+  "picture": "21379976-cca583b75b927d5770eee516baf82dae-19c060fa-736b-4b51-bcda-a0be55464b64.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 94,
-  "tier": 3,
-  "xp": 136800,
+  "coins": 50,
+  "tier": 4,
+  "xp": 219450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-27T16:26:59.000Z",
-    "updated_at": "2025-04-27T16:27:00.000Z",
-    "pd": null
+    "created_at": "2025-05-12T15:43:54.000Z",
+    "updated_at": "2025-05-12T15:43:54.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T10:50:18.289Z"
+  "archived_at": "2025-05-14T19:14:40.556Z"
 }
