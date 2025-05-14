@@ -1,29 +1,40 @@
 {
   "id": 21384427,
-  "username": "aWafflee",
+  "username": "AcidWafflee",
   "description": "Sorry, it's for coins ",
-  "about": "+10k trophies in brawl stars lol\nI'm from LatinAmerica🤑\n",
+  "about": "+10k trophies in brawl stars lol\nidk\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-06T02:27:00.000Z",
-  "date_last_played": "2025-04-28T06:23:55.000Z",
-  "profile_views": 691,
-  "kill_count": 3260,
-  "play_count": 1284,
+  "date_last_played": "2025-05-14T07:02:09.000Z",
+  "profile_views": 865,
+  "kill_count": 3678,
+  "play_count": 1422,
   "highest_score": 5108005,
   "picture": "21384427-3f20e185a5ec28c59c94dc752d6f203b-211bb621-4341-4213-bf88-3b70085d159c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1946,
+  "coins": 2276,
   "tier": 9,
-  "xp": 912000,
+  "xp": 1053000,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104414,
+      "user_id": 21384427,
+      "platform_id": "rd",
+      "platform_user_id": "AcidWafflee",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-06T02:35:10.000Z",
+      "updated_at": "2025-05-06T02:35:10.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21384427,
     "rank_kc": null,
@@ -35,12 +46,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T06:23:54.000Z",
-    "updated_at": "2025-04-28T06:23:55.000Z",
+    "created_at": "2025-05-14T07:02:09.000Z",
+    "updated_at": "2025-05-14T07:02:09.000Z",
     "pd": {
-      "played": 54,
-      "won": 33,
-      "ratio": 61
+      "played": 78,
+      "won": 43,
+      "ratio": 55
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T11:21:26.355Z"
+  "archived_at": "2025-05-14T19:43:49.288Z"
 }
