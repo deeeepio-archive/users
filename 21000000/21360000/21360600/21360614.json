@@ -1,24 +1,24 @@
 {
   "id": 21360614,
   "username": "whatnot",
-  "description": "别气啦～老公亲亲～～",
+  "description": "哥们！给我水！",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-03-29T23:42:03.000Z",
-  "date_last_played": "2025-01-12T09:02:53.000Z",
-  "profile_views": 159,
-  "kill_count": 379,
-  "play_count": 646,
+  "date_last_played": "2025-05-03T04:36:29.000Z",
+  "profile_views": 163,
+  "kill_count": 384,
+  "play_count": 653,
   "highest_score": 1002855,
-  "picture": "21360614-3ad54d99863b95e0f730fc43246718c6-329fbaf0-3a09-433b-9ead-9e15146f7c4b.png",
+  "picture": "21360614-8ffbe8fcca27246375aa15f4a41d7dc2-bf30b531-5b0b-43db-97be-e071de54531d.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 17,
+  "coins": 36,
   "tier": 3,
-  "xp": 110550,
+  "xp": 113400,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,6 +33,16 @@
       "verified": false,
       "created_at": "2024-08-23T05:33:48.000Z",
       "updated_at": "2024-08-23T05:33:48.000Z"
+    },
+    {
+      "id": 104429,
+      "user_id": 21360614,
+      "platform_id": "qq",
+      "platform_user_id": "3790290932",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-06T09:31:59.000Z",
+      "updated_at": "2025-05-06T09:31:59.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +56,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-01-12T09:02:52.000Z",
-    "updated_at": "2025-01-12T09:02:53.000Z",
+    "created_at": "2025-05-03T04:36:29.000Z",
+    "updated_at": "2025-05-03T04:36:29.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T08:17:27.224Z"
+  "archived_at": "2025-05-14T17:00:17.796Z"
 }
