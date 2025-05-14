@@ -1,15 +1,15 @@
 {
   "id": 21334568,
-  "username": "LEGENDMAGGIESMITH",
+  "username": "MAGGIESMITH",
   "description": "LONG LIVE BELUGA",
   "about": "Formerly known as THEALT\nTHE?'s Alt\n\nmy main account\n-https://beta.deeeep.io/u/MAGGIE_SMITH",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-11-16T02:08:03.000Z",
-  "date_last_played": "2024-09-15T21:30:29.000Z",
-  "profile_views": 391,
+  "date_last_played": "2025-05-06T01:21:14.000Z",
+  "profile_views": 397,
   "kill_count": 1271,
-  "play_count": 438,
+  "play_count": 440,
   "highest_score": 6554398,
   "picture": "21334568-414164b8734d6c4ed99c098555747103d.png",
   "displayPicture": true,
@@ -35,9 +35,13 @@
     "rank_hs": 15611,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-11-19T23:34:27.000Z",
-    "created_at": "2024-09-15T21:30:28.000Z",
-    "updated_at": "2024-09-15T21:30:29.000Z",
-    "pd": null
+    "created_at": "2025-05-06T01:21:14.000Z",
+    "updated_at": "2025-05-06T01:21:14.000Z",
+    "pd": {
+      "played": 2,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T05:13:04.417Z"
+  "archived_at": "2025-05-14T14:01:13.674Z"
 }
