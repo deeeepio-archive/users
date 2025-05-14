@@ -1,24 +1,24 @@
 {
   "id": 21347285,
   "username": "Fish4life",
-  "description": "Sorry, need coins.",
-  "about": "Professional coin spender. ",
+  "description": "Fish",
+  "about": "Fish",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-01-08T14:31:12.000Z",
-  "date_last_played": "2025-04-17T18:00:04.000Z",
-  "profile_views": 644,
-  "kill_count": 5554,
-  "play_count": 1493,
+  "date_last_played": "2025-05-14T12:13:44.000Z",
+  "profile_views": 662,
+  "kill_count": 5685,
+  "play_count": 1530,
   "highest_score": 2575735,
   "picture": "21347285-4da8992a40cb3fb5c1af17fc8b9a491a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 20,
+  "coins": 206,
   "tier": 8,
-  "xp": 848700,
+  "xp": 876600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": 67701,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-17T17:32:54.000Z",
-    "created_at": "2025-04-17T20:00:06.000Z",
-    "updated_at": "2025-04-17T20:00:06.000Z",
+    "created_at": "2025-05-14T12:13:43.000Z",
+    "updated_at": "2025-05-14T12:13:44.000Z",
     "pd": {
-      "played": 8,
-      "won": 3,
-      "ratio": 38
+      "played": 24,
+      "won": 16,
+      "ratio": 67
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T06:39:46.315Z"
+  "archived_at": "2025-05-14T15:29:44.738Z"
 }
