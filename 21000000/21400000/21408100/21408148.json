@@ -1,24 +1,24 @@
 {
   "id": 21408148,
   "username": "Piguinn",
-  "description": null,
+  "description": "You lose and I win",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-26T10:46:55.000Z",
-  "date_last_played": "2025-04-28T19:10:13.000Z",
-  "profile_views": 2,
-  "kill_count": 150,
-  "play_count": 143,
-  "highest_score": 2037594,
+  "date_last_played": "2025-05-11T17:07:23.000Z",
+  "profile_views": 32,
+  "kill_count": 712,
+  "play_count": 537,
+  "highest_score": 2946063,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 200,
-  "tier": 2,
-  "xp": 51000,
+  "coins": 43,
+  "tier": 4,
+  "xp": 216450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T19:10:13.000Z",
-    "updated_at": "2025-04-28T19:10:13.000Z",
+    "created_at": "2025-05-11T17:07:22.000Z",
+    "updated_at": "2025-05-11T17:07:23.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:57:38.271Z"
+  "archived_at": "2025-05-14T22:40:45.156Z"
 }
