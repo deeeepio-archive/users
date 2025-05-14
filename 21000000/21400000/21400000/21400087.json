@@ -1,24 +1,24 @@
 {
   "id": 21400087,
-  "username": "DragonkI",
+  "username": "SUNGJINWOO12",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-02-05T18:03:11.000Z",
-  "date_last_played": "2025-04-25T15:13:55.000Z",
-  "profile_views": 28,
-  "kill_count": 33,
-  "play_count": 123,
-  "highest_score": 296591,
-  "picture": null,
+  "date_last_played": "2025-05-06T15:43:42.000Z",
+  "profile_views": 38,
+  "kill_count": 77,
+  "play_count": 240,
+  "highest_score": 1233951,
+  "picture": "21400087-f233ef439e901085cdcf6e227c66d772c-e058d78d-b9eb-4cda-94e9-0d408610e554.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 9,
-  "tier": 1,
-  "xp": 10050,
+  "coins": 53,
+  "tier": 2,
+  "xp": 25350,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-25T15:13:55.000Z",
-    "updated_at": "2025-04-25T15:13:55.000Z",
+    "created_at": "2025-05-06T15:43:41.000Z",
+    "updated_at": "2025-05-06T15:43:42.000Z",
     "pd": {
-      "played": 1,
-      "won": 0,
-      "ratio": 0
+      "played": 2,
+      "won": 1,
+      "ratio": 50
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T13:11:39.246Z"
+  "archived_at": "2025-05-14T21:33:37.792Z"
 }
