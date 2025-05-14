@@ -1,29 +1,39 @@
 {
   "id": 21252539,
   "username": "Thesa",
-  "description": "Bitch number 19925 eliminated.\n\nhttps://discord.gg/vtnwajyW",
-  "about": "https://discord.gg/vtnwajyW\njoin my discord server!",
+  "description": "Bitch number 19925 eliminated.",
+  "about": "➛ Queen of orcas\n➛ Join my discord server: https://discord.gg/FhpETBCU",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-12-31T19:47:28.000Z",
-  "date_last_played": "2025-04-27T01:40:37.000Z",
-  "profile_views": 9487,
-  "kill_count": 21368,
-  "play_count": 12455,
+  "date_last_played": "2025-05-14T04:00:02.000Z",
+  "profile_views": 9869,
+  "kill_count": 21744,
+  "play_count": 12631,
   "highest_score": 15058273,
-  "picture": "21252539-cd3cc9d634fdfded8c61423dae83ec7e-d3076d38-2e13-4a00-98a5-eb16d46fdab6.png",
+  "picture": "21252539-933ce108c9af308ff5aa81055dc7206851-de16555d-e27f-49d6-9552-e1c8b6eeac02.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 35584,
+  "coins": 36423,
   "tier": 10,
-  "xp": 6149850,
+  "xp": 6275700,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
+    {
+      "id": 104698,
+      "user_id": 21252539,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.gg/FhpETBCU",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-13T22:08:15.000Z",
+      "updated_at": "2025-05-13T22:08:15.000Z"
+    },
     {
       "id": 103278,
       "user_id": 21252539,
@@ -46,12 +56,12 @@
     "rank_hs": 2618,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T03:23:42.000Z",
-    "created_at": "2025-04-27T01:40:37.000Z",
-    "updated_at": "2025-04-27T01:40:37.000Z",
+    "created_at": "2025-05-14T04:00:02.000Z",
+    "updated_at": "2025-05-14T04:00:02.000Z",
     "pd": {
-      "played": 13,
-      "won": 8,
-      "ratio": 62
+      "played": 15,
+      "won": 11,
+      "ratio": 73
     }
   },
   "creations": {
@@ -61,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-27T20:11:49.934Z"
+  "archived_at": "2025-05-14T04:46:34.182Z"
 }
