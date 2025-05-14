@@ -2,23 +2,23 @@
   "id": 21358677,
   "username": "Fire-Breathing-Fish",
   "description": null,
-  "about": "",
+  "about": "My name changes every session. If you catch me using a repeated name, it's a darn good name.\n\nI mainly play PD, and I main every animal. I'm not a pro though, so sorry if I get in your way...",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-03-16T02:43:36.000Z",
-  "date_last_played": "2025-04-27T20:52:07.000Z",
-  "profile_views": 88,
-  "kill_count": 642,
-  "play_count": 132,
-  "highest_score": 200920,
+  "date_last_played": "2025-05-13T23:15:19.000Z",
+  "profile_views": 119,
+  "kill_count": 785,
+  "play_count": 163,
+  "highest_score": 313926,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 312,
+  "coins": 258,
   "tier": 3,
-  "xp": 87000,
+  "xp": 110400,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-27T20:52:06.000Z",
-    "updated_at": "2025-04-27T20:52:07.000Z",
+    "created_at": "2025-05-13T23:15:19.000Z",
+    "updated_at": "2025-05-13T23:15:19.000Z",
     "pd": {
-      "played": 53,
-      "won": 23,
-      "ratio": 43
+      "played": 71,
+      "won": 33,
+      "ratio": 46
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T07:59:17.708Z"
+  "archived_at": "2025-05-14T16:47:00.467Z"
 }
