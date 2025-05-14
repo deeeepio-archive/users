@@ -1,24 +1,24 @@
 {
   "id": 21403813,
-  "username": "Wudi",
+  "username": "巨鲸神人",
   "description": "oh for Thor sake, you really need to improve your skills,tut tut \n",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-11T03:49:08.000Z",
-  "date_last_played": "2025-04-28T10:49:53.000Z",
-  "profile_views": 9,
-  "kill_count": 31,
-  "play_count": 169,
-  "highest_score": 619216,
-  "picture": null,
+  "date_last_played": "2025-05-14T10:45:39.000Z",
+  "profile_views": 91,
+  "kill_count": 121,
+  "play_count": 330,
+  "highest_score": 1278996,
+  "picture": "21403813-fb010391fc517288ea9673a56102100c8c2-48f969fc-8e02-46ca-b4f7-e9bcef4f8b26.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 78,
-  "tier": 1,
-  "xp": 13200,
+  "coins": 77,
+  "tier": 2,
+  "xp": 50550,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T10:49:53.000Z",
-    "updated_at": "2025-04-28T10:49:53.000Z",
-    "pd": null
+    "created_at": "2025-05-14T10:45:38.000Z",
+    "updated_at": "2025-05-14T10:45:39.000Z",
+    "pd": {
+      "played": 39,
+      "won": 12,
+      "ratio": 31
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:25:18.355Z"
+  "archived_at": "2025-05-14T22:05:47.005Z"
 }
