@@ -1,29 +1,40 @@
 {
   "id": 21350617,
   "username": "Gunsandpizza",
-  "description": "you never stood a chance",
+  "description": "im sorry im not sorry",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-01-30T23:51:54.000Z",
-  "date_last_played": "2025-02-06T19:47:48.000Z",
-  "profile_views": 18,
-  "kill_count": 89,
-  "play_count": 212,
+  "date_last_played": "2025-05-09T16:50:36.000Z",
+  "profile_views": 26,
+  "kill_count": 180,
+  "play_count": 386,
   "highest_score": 755987,
-  "picture": null,
+  "picture": "21350617-a1f9610ab68c9584943b185993bb1051b2-012010bc-4e3a-4284-8f83-cae224c3e2dc.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 158,
-  "tier": 1,
-  "xp": 22200,
+  "coins": 327,
+  "tier": 2,
+  "xp": 47550,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104259,
+      "user_id": 21350617,
+      "platform_id": "dc",
+      "platform_user_id": "Gunsandpizza",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-03T03:59:45.000Z",
+      "updated_at": "2025-05-03T03:59:45.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21350617,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-02-06T19:47:47.000Z",
-    "updated_at": "2025-02-06T19:47:48.000Z",
+    "created_at": "2025-05-09T16:50:35.000Z",
+    "updated_at": "2025-05-09T16:50:36.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T07:01:43.329Z"
+  "archived_at": "2025-05-14T15:52:19.262Z"
 }
