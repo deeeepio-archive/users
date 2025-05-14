@@ -1,24 +1,24 @@
 {
   "id": 21402787,
   "username": "德意志战车",
-  "description": null,
-  "about": null,
+  "description": "如果我不小心杀了你🐸🐸🐸，那么对不起。。。我真的很需要你的那个金币，谢谢你们的肉，真的很香🌹🌹🌹请不要记仇啦，相信你以后会有更好的运气的，加油🐣",
+  "about": "(◐‿◑)﻿一只儒雅随和不会玩乌贼还就喜欢玩乌贼的菜鸡\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-02T09:57:15.000Z",
-  "date_last_played": "2025-04-26T08:39:48.000Z",
-  "profile_views": 1,
-  "kill_count": 25,
-  "play_count": 34,
-  "highest_score": 902295,
-  "picture": null,
+  "date_last_played": "2025-05-14T18:00:04.000Z",
+  "profile_views": 73,
+  "kill_count": 165,
+  "play_count": 200,
+  "highest_score": 1524055,
+  "picture": "21402787-f22add0bac932146b06c10823b47702bf-65aa268c-daf0-4273-8ed4-c7e2d3bc9858.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 80,
-  "tier": 1,
-  "xp": 15000,
+  "coins": 136,
+  "tier": 3,
+  "xp": 79650,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-26T08:39:47.000Z",
-    "updated_at": "2025-04-26T08:39:48.000Z",
-    "pd": null
+    "created_at": "2025-05-14T18:00:04.000Z",
+    "updated_at": "2025-05-14T18:00:04.000Z",
+    "pd": {
+      "played": 3,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-28T19:16:55.575Z"
+  "archived_at": "2025-05-14T21:53:05.038Z"
 }
