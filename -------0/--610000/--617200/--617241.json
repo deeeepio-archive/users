@@ -2,23 +2,23 @@
   "id": 617241,
   "username": "-ARES",
   "description": "Eskiden olsa ipe dizerdi ares...",
-  "about": "",
+  "about": "avarage laggy anatolian player",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-07-25T20:38:29.000Z",
-  "date_last_played": "2025-04-29T20:23:52.000Z",
-  "profile_views": 1702,
-  "kill_count": 19748,
-  "play_count": 6525,
+  "date_last_played": "2025-05-17T20:46:48.000Z",
+  "profile_views": 1713,
+  "kill_count": 19860,
+  "play_count": 6571,
   "highest_score": 8619933,
   "picture": "617241-cdf9759dae539b441d5931d27de77778-0ebf4db6-f45a-4e3c-83c8-9df8c5e68288.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 153,
+  "coins": 486,
   "tier": 10,
-  "xp": 1393800,
+  "xp": 1443750,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,11 +35,11 @@
     "rank_hs": 7543,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-11-29T08:51:57.000Z",
-    "created_at": "2025-04-29T20:23:51.000Z",
-    "updated_at": "2025-04-29T20:23:52.000Z",
+    "created_at": "2025-05-17T20:46:47.000Z",
+    "updated_at": "2025-05-17T20:46:48.000Z",
     "pd": {
-      "played": 3,
-      "won": 3,
+      "played": 2,
+      "won": 2,
       "ratio": 100
     }
   },
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-02T18:08:03.482Z"
+  "archived_at": "2025-05-18T15:06:42.488Z"
 }
