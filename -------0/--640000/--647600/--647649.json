@@ -1,58 +1,38 @@
 {
   "id": 647649,
-  "username": "HANU_GLAZER",
-  "description": "I only glaze my one and only Hanu.",
-  "about": "#1 HANU GLAZER",
+  "username": "_kat",
+  "description": "Ps. 46:1 ✞",
+  "about": "retired",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-10-24T20:55:03.000Z",
-  "date_last_played": "2025-04-14T19:42:54.000Z",
-  "profile_views": 6657,
-  "kill_count": 19233,
-  "play_count": 2707,
+  "date_last_played": "2025-05-12T02:32:42.000Z",
+  "profile_views": 6683,
+  "kill_count": 19250,
+  "play_count": 2709,
   "highest_score": 4529426,
-  "picture": "647649-a45103c1a3b44f4c5e6cfb137e25d6b510-e4d0afaf-cd78-44fe-8642-bf7727d7f7cb.png",
+  "picture": "647649-0c458dae31b5dc149e33f11010d9b95dfe-19f8ced5-a09b-4124-b9f8-2fdc61440ded.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 152,
+  "coins": 171,
   "tier": 10,
-  "xp": 2141250,
+  "xp": 2144100,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 104061,
+      "id": 104352,
       "user_id": 647649,
-      "platform_id": "ig",
-      "platform_user_id": "i",
+      "platform_id": "dc",
+      "platform_user_id": "loque",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2025-04-27T02:53:12.000Z",
-      "updated_at": "2025-04-27T20:41:27.000Z"
-    },
-    {
-      "id": 104060,
-      "user_id": 647649,
-      "platform_id": "tw",
-      "platform_user_id": "love",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-04-27T02:51:58.000Z",
-      "updated_at": "2025-04-27T20:41:32.000Z"
-    },
-    {
-      "id": 104062,
-      "user_id": 647649,
-      "platform_id": "wb",
-      "platform_user_id": "hanu",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-04-27T02:53:24.000Z",
-      "updated_at": "2025-04-27T02:53:24.000Z"
+      "created_at": "2025-05-05T00:38:00.000Z",
+      "updated_at": "2025-05-05T00:38:00.000Z"
     }
   ],
   "user_stats": {
@@ -66,12 +46,12 @@
     "rank_hs": 10141,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-18T00:11:12.000Z",
-    "created_at": "2025-04-14T19:42:54.000Z",
-    "updated_at": "2025-04-14T19:42:54.000Z",
+    "created_at": "2025-05-12T02:32:41.000Z",
+    "updated_at": "2025-05-12T02:32:42.000Z",
     "pd": {
-      "played": 1,
-      "won": 0,
-      "ratio": 0
+      "played": 2,
+      "won": 2,
+      "ratio": 100
     }
   },
   "creations": {
@@ -81,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-02T23:14:12.285Z"
+  "archived_at": "2025-05-18T19:50:02.846Z"
 }
