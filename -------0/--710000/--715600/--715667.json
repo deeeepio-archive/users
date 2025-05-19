@@ -1,24 +1,24 @@
 {
   "id": 715667,
-  "username": "3656316_683",
-  "description": "Get shrekt to the top and back to the bottom kid",
+  "username": "fred-derf",
+  "description": "go do some olympiad math buddy",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2020-03-23T13:02:11.000Z",
-  "date_last_played": "2020-06-18T16:56:29.000Z",
-  "profile_views": 0,
-  "kill_count": 55,
-  "play_count": 30,
+  "date_last_played": "2025-05-11T01:34:11.000Z",
+  "profile_views": 5,
+  "kill_count": 60,
+  "play_count": 36,
   "highest_score": 987028,
   "picture": null,
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 36,
+  "coins": 64,
   "tier": 1,
-  "xp": 0,
+  "xp": 4200,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-24T23:13:54.000Z",
-    "updated_at": "2025-04-24T23:13:54.000Z",
-    "pd": null
+    "created_at": "2025-05-11T02:44:36.000Z",
+    "updated_at": "2025-05-11T02:44:36.000Z",
+    "pd": {
+      "played": 4,
+      "won": 4,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-03T10:07:01.876Z"
+  "archived_at": "2025-05-19T06:04:00.043Z"
 }
