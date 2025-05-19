@@ -1,24 +1,24 @@
 {
   "id": 705651,
-  "username": "makaira",
-  "description": "",
-  "about": "definitely not smurfing ",
+  "username": "gypaetus",
+  "description": "revel in it",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-02-29T19:29:10.000Z",
-  "date_last_played": "2025-04-27T04:55:37.000Z",
-  "profile_views": 28,
-  "kill_count": 425,
-  "play_count": 256,
+  "date_last_played": "2025-05-17T02:43:01.000Z",
+  "profile_views": 49,
+  "kill_count": 674,
+  "play_count": 308,
   "highest_score": 4615164,
-  "picture": "705651.jpg",
+  "picture": "705651-2a246110bdc225607a7949eb594c103ce5-ee3464f3-9168-495e-a042-ef24750096ae.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 139,
-  "tier": 1,
-  "xp": 12600,
+  "coins": 204,
+  "tier": 2,
+  "xp": 64350,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": 118299,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-09-06T01:22:09.000Z",
-    "created_at": "2025-04-27T04:55:37.000Z",
-    "updated_at": "2025-04-27T04:55:37.000Z",
+    "created_at": "2025-05-17T02:43:00.000Z",
+    "updated_at": "2025-05-17T02:43:01.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-03T08:33:30.568Z"
+  "archived_at": "2025-05-19T04:34:58.420Z"
 }
