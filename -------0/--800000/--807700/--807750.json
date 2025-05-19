@@ -1,29 +1,40 @@
 {
   "id": 807750,
   "username": "luhhswisha",
-  "description": "$teppin",
+  "description": "bomb threat",
   "about": "⃟\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-12-30T00:26:51.000Z",
-  "date_last_played": "2025-04-24T15:14:30.000Z",
-  "profile_views": 3551,
-  "kill_count": 16409,
-  "play_count": 6583,
+  "date_last_played": "2025-05-19T04:32:48.000Z",
+  "profile_views": 3797,
+  "kill_count": 17625,
+  "play_count": 6877,
   "highest_score": 11423957,
-  "picture": "807750-286a1266a1c4e10e5bd59a8bead129fda-75b61edc-ae52-4542-9aee-f7c2013b2bb1.png",
+  "picture": "807750-47af0805b74da9a54ed10106db826cec8a-0aa22fbc-0519-4739-9ef3-a9abdc6ce5d1.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 9061,
+  "coins": 10921,
   "tier": 10,
-  "xp": 2642250,
+  "xp": 3051750,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104363,
+      "user_id": 807750,
+      "platform_id": "dc",
+      "platform_user_id": "luhhswisha",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-05T07:40:29.000Z",
+      "updated_at": "2025-05-05T07:40:29.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 807750,
     "rank_kc": 1664,
@@ -35,12 +46,12 @@
     "rank_hs": 2192,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-20T20:13:28.000Z",
-    "created_at": "2025-04-24T15:14:29.000Z",
-    "updated_at": "2025-04-24T15:14:30.000Z",
+    "created_at": "2025-05-19T04:32:48.000Z",
+    "updated_at": "2025-05-19T04:32:48.000Z",
     "pd": {
-      "played": 13,
-      "won": 7,
-      "ratio": 54
+      "played": 5,
+      "won": 2,
+      "ratio": 40
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-04-25T09:13:22.351Z"
+  "archived_at": "2025-05-19T19:58:16.851Z"
 }
