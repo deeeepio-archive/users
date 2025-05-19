@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2020-04-15T07:09:53.000Z",
   "date_last_played": "2025-04-18T09:57:08.000Z",
-  "profile_views": 2422,
+  "profile_views": 2423,
   "kill_count": 38562,
   "play_count": 6353,
   "highest_score": 397245,
@@ -37,11 +37,7 @@
     "rank_hs_updated_at": "2024-01-19T08:58:58.000Z",
     "created_at": "2025-04-18T09:57:08.000Z",
     "updated_at": "2025-04-18T09:57:08.000Z",
-    "pd": {
-      "played": 5,
-      "won": 4,
-      "ratio": 80
-    }
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -50,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-03T11:34:22.504Z"
+  "archived_at": "2025-05-19T07:28:00.848Z"
 }
