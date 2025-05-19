@@ -1,29 +1,40 @@
 {
   "id": 736270,
-  "username": "4969954_734",
-  "description": "used to play this game\n",
+  "username": "snorlaxwastaken",
+  "description": "COVID19s saltiest player ",
   "about": "exclusively a pd player and i rarely do anything else\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-05-07T18:56:33.000Z",
-  "date_last_played": "2025-04-19T01:00:02.000Z",
-  "profile_views": 29,
-  "kill_count": 4079,
-  "play_count": 4866,
+  "date_last_played": "2025-05-18T23:39:14.000Z",
+  "profile_views": 121,
+  "kill_count": 4262,
+  "play_count": 4918,
   "highest_score": 4147210,
-  "picture": "736270.gif",
+  "picture": "736270-af91f101af135b298fcd845310dc12f184-046f6625-9cc0-4d43-99ce-52dfada8f8a6.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 439,
-  "tier": 1,
-  "xp": 17550,
+  "coins": 299,
+  "tier": 2,
+  "xp": 49050,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104731,
+      "user_id": 736270,
+      "platform_id": "dc",
+      "platform_user_id": "ultimatesnorlax",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-14T15:19:01.000Z",
+      "updated_at": "2025-05-14T15:19:01.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 736270,
     "rank_kc": 6579,
@@ -35,12 +46,12 @@
     "rank_hs": 10156,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-03-02T22:24:30.000Z",
-    "created_at": "2025-04-19T01:00:01.000Z",
-    "updated_at": "2025-04-19T01:00:02.000Z",
+    "created_at": "2025-05-18T23:52:34.000Z",
+    "updated_at": "2025-05-18T23:52:34.000Z",
     "pd": {
-      "played": 2,
-      "won": 0,
-      "ratio": 0
+      "played": 29,
+      "won": 15,
+      "ratio": 52
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-03T13:25:50.262Z"
+  "archived_at": "2025-05-19T09:06:19.827Z"
 }
