@@ -1,24 +1,24 @@
 {
   "id": 716597,
-  "username": "5093795_695",
-  "description": "Whoops",
+  "username": "fred_derf",
+  "description": "go do some olympiad math buddy",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2020-03-25T15:29:08.000Z",
-  "date_last_played": "2021-12-27T23:09:38.000Z",
-  "profile_views": 0,
-  "kill_count": 364,
-  "play_count": 297,
+  "date_last_played": "2025-05-17T17:05:35.000Z",
+  "profile_views": 7,
+  "kill_count": 369,
+  "play_count": 304,
   "highest_score": 2714895,
   "picture": null,
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 90,
+  "coins": 105,
   "tier": 1,
-  "xp": 0,
+  "xp": 2250,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-24T23:19:36.000Z",
-    "updated_at": "2025-04-24T23:19:36.000Z",
-    "pd": null
+    "created_at": "2025-05-17T17:05:34.000Z",
+    "updated_at": "2025-05-17T17:05:35.000Z",
+    "pd": {
+      "played": 3,
+      "won": 1,
+      "ratio": 33
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-03T10:13:34.883Z"
+  "archived_at": "2025-05-19T06:10:44.031Z"
 }
