@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2020-09-01T09:21:38.000Z",
-  "date_last_played": "2025-01-13T13:57:46.000Z",
-  "profile_views": 17660,
-  "kill_count": 50108,
-  "play_count": 16045,
-  "highest_score": 4669988,
+  "date_last_played": "2025-05-18T13:10:50.000Z",
+  "profile_views": 17720,
+  "kill_count": 50292,
+  "play_count": 16072,
+  "highest_score": 5032157,
   "picture": "769810-0e89466eee4c3bd4326fb4201eaa7e84-5a293a29-b3f0-4937-a228-73f99bbeb7ee.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2111,
+  "coins": 2388,
   "tier": 10,
-  "xp": 3313050,
+  "xp": 3362100,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -86,9 +86,13 @@
     "rank_hs": 9593,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-17T12:57:02.000Z",
-    "created_at": "2025-01-13T13:57:45.000Z",
-    "updated_at": "2025-01-13T13:57:46.000Z",
-    "pd": null
+    "created_at": "2025-05-18T13:10:49.000Z",
+    "updated_at": "2025-05-18T13:10:50.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -117,18 +121,18 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2020-09-01T09:21:38.000Z",
-            "date_last_played": "2025-01-13T13:57:46.000Z",
-            "kill_count": 50108,
-            "play_count": 16045,
-            "highest_score": 4669988,
+            "date_last_played": "2025-05-18T13:10:50.000Z",
+            "kill_count": 50292,
+            "play_count": 16072,
+            "highest_score": 5032157,
             "picture": "769810-0e89466eee4c3bd4326fb4201eaa7e84-5a293a29-b3f0-4937-a228-73f99bbeb7ee.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 2111,
+            "coins": 2388,
             "tier": 10,
-            "xp": 3313050,
+            "xp": 3362100,
             "migrated": false,
             "verified": false,
             "beta": false
@@ -144,5 +148,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-03T18:55:34.937Z"
+  "archived_at": "2025-05-19T13:57:00.825Z"
 }
