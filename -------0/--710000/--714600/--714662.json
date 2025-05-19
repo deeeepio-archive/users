@@ -1,29 +1,40 @@
 {
   "id": 714662,
-  "username": "Mariannn",
+  "username": "Marrian_",
   "description": "Be brave! Stay wild!",
-  "about": "I like eagle\n",
+  "about": "I like Anaconda !\nAnaconda THE BEST !\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-03-20T19:52:45.000Z",
-  "date_last_played": "2025-03-22T17:41:14.000Z",
-  "profile_views": 109,
-  "kill_count": 8864,
-  "play_count": 1033,
+  "date_last_played": "2025-05-08T20:44:48.000Z",
+  "profile_views": 122,
+  "kill_count": 8930,
+  "play_count": 1046,
   "highest_score": 65039541,
   "picture": "714662-b30982a6b106728bde1c97eb43740d6108.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 763,
+  "coins": 865,
   "tier": 7,
-  "xp": 567000,
+  "xp": 582300,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104402,
+      "user_id": 714662,
+      "platform_id": "yt",
+      "platform_user_id": "pretzel",
+      "platform_user_url": "https://www.youtube.com/channel/UCsQ3pHCxSzQjTWeOqoonPKA",
+      "verified": false,
+      "created_at": "2025-05-05T20:04:31.000Z",
+      "updated_at": "2025-05-05T20:04:31.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 714662,
     "rank_kc": 4030,
@@ -35,8 +46,8 @@
     "rank_hs": 682,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-09-17T08:57:20.000Z",
-    "created_at": "2025-03-22T17:41:14.000Z",
-    "updated_at": "2025-03-22T17:41:14.000Z",
+    "created_at": "2025-05-08T20:44:48.000Z",
+    "updated_at": "2025-05-08T20:44:48.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-03T10:00:18.862Z"
+  "archived_at": "2025-05-19T05:51:06.725Z"
 }
