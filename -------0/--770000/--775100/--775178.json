@@ -2,23 +2,23 @@
   "id": 775178,
   "username": "AGHL",
   "description": "You always have to try your best no matter what. ",
-  "about": "Terraria is the best sandbox type game.\n\nMarlin is my favourite animal but I'm not the best at it.\nWhoever tf D: is\n\nThresher is the highest skill animal, it's on another level.",
+  "about": "Terraria is the best sandbox type game.\n\nMarlin is my favourite animal but I'm not the best at it.\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-09-21T00:08:43.000Z",
-  "date_last_played": "2024-04-14T02:41:28.000Z",
-  "profile_views": 580,
-  "kill_count": 4793,
-  "play_count": 1570,
+  "date_last_played": "2025-05-18T23:09:26.000Z",
+  "profile_views": 585,
+  "kill_count": 4807,
+  "play_count": 1574,
   "highest_score": 2534814,
   "picture": "775178-40b94ed4e61010b43da9486571c10c1100e8.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 69,
+  "coins": 89,
   "tier": 6,
-  "xp": 425550,
+  "xp": 428550,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 27761,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-10-19T17:56:38.000Z",
-    "created_at": "2024-04-14T02:41:27.000Z",
-    "updated_at": "2024-04-14T02:41:28.000Z",
-    "pd": null
+    "created_at": "2025-05-18T23:09:25.000Z",
+    "updated_at": "2025-05-18T23:09:26.000Z",
+    "pd": {
+      "played": 3,
+      "won": 3,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-03T19:52:42.701Z"
+  "archived_at": "2025-05-19T15:01:32.406Z"
 }
