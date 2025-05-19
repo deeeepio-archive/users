@@ -1,24 +1,24 @@
 {
   "id": 763575,
-  "username": "50352_026",
-  "description": "死亡是1分的技術加上99分的運氣、ping值和設備值造成的\n包括你把我殺死也是",
-  "about": "這遊戲最不缺的就是小丑和優越小孩\n",
+  "username": "LaplaceㅤTransform",
+  "description": "隨遇而安",
+  "about": "ㅤㅤㅤㅤㅤㅤDP最大的秘密，Ping多的輸少的贏\nㅤㅤㅤㅤㅤㅤㅤ隨便玩玩，沒壓力的玩也不錯\nㅤㅤ你是不是覺得PD送珍珠贏了很爽?抱歉i don't fucking care\nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-08-05T00:45:13.000Z",
-  "date_last_played": "2025-05-03T15:47:08.000Z",
-  "profile_views": 26755,
-  "kill_count": 56310,
-  "play_count": 4871,
+  "date_last_played": "2025-05-18T11:06:45.000Z",
+  "profile_views": 27358,
+  "kill_count": 57193,
+  "play_count": 4897,
   "highest_score": 16845095,
-  "picture": "763575-696af6848e29182e8b31ffbf52aca7b6-788fc32e-c12e-4ec4-a6ed-ac837ebe27e5.png",
+  "picture": "763575-59a9fa2acdd0e2a782d10b6aa5b94069f-7f462788-3bbf-4cfa-938e-4e10f66a2b2b.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 17537,
+  "coins": 18788,
   "tier": 10,
-  "xp": 7424100,
+  "xp": 7611750,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -34,7 +34,18 @@
       "title": "Crabinet Member"
     }
   ],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104566,
+      "user_id": 763575,
+      "platform_id": "dc",
+      "platform_user_id": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-10T11:50:11.000Z",
+      "updated_at": "2025-05-10T11:50:11.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 763575,
     "rank_kc": 626,
@@ -46,12 +57,12 @@
     "rank_hs": 1864,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T05:09:29.000Z",
-    "created_at": "2025-05-03T15:47:07.000Z",
-    "updated_at": "2025-05-03T15:47:08.000Z",
+    "created_at": "2025-05-18T11:06:44.000Z",
+    "updated_at": "2025-05-18T11:06:45.000Z",
     "pd": {
-      "played": 5,
-      "won": 5,
-      "ratio": 100
+      "played": 12,
+      "won": 6,
+      "ratio": 50
     }
   },
   "creations": {
@@ -61,5 +72,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-03T17:50:12.547Z"
+  "archived_at": "2025-05-19T13:03:02.066Z"
 }
