@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2020-04-30T19:15:31.000Z",
-  "date_last_played": "2025-04-10T21:49:59.000Z",
-  "profile_views": 55,
-  "kill_count": 6558,
-  "play_count": 2428,
+  "date_last_played": "2025-05-11T19:56:54.000Z",
+  "profile_views": 66,
+  "kill_count": 6629,
+  "play_count": 2458,
   "highest_score": 7546446,
   "picture": "732936.jpg",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 4116,
+  "coins": 3926,
   "tier": 4,
-  "xp": 187800,
+  "xp": 204300,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 7538,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2022-06-30T20:26:47.000Z",
-    "created_at": "2025-04-10T21:49:58.000Z",
-    "updated_at": "2025-04-10T21:49:59.000Z",
-    "pd": null
+    "created_at": "2025-05-11T19:56:53.000Z",
+    "updated_at": "2025-05-11T19:56:54.000Z",
+    "pd": {
+      "played": 9,
+      "won": 5,
+      "ratio": 56
+    }
   },
   "creations": {
     "maps": {
@@ -66,18 +70,18 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2020-04-30T19:15:31.000Z",
-            "date_last_played": "2025-04-10T21:49:59.000Z",
-            "kill_count": 6558,
-            "play_count": 2428,
+            "date_last_played": "2025-05-11T19:56:54.000Z",
+            "kill_count": 6629,
+            "play_count": 2458,
             "highest_score": 7546446,
             "picture": "732936.jpg",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 4116,
+            "coins": 3926,
             "tier": 4,
-            "xp": 187800,
+            "xp": 204300,
             "migrated": false,
             "verified": false,
             "beta": false
@@ -89,5 +93,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-03T12:49:04.820Z"
+  "archived_at": "2025-05-19T08:41:14.817Z"
 }
