@@ -1,24 +1,24 @@
 {
   "id": 774931,
   "username": "ϻѶƤ",
-  "description": "im bored",
+  "description": "no",
   "about": "My mommy says i'm special, but who's ed?\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-09-19T22:03:08.000Z",
-  "date_last_played": "2025-05-03T19:47:08.000Z",
-  "profile_views": 5264,
-  "kill_count": 45138,
-  "play_count": 17450,
+  "date_last_played": "2025-05-17T19:29:55.000Z",
+  "profile_views": 5378,
+  "kill_count": 45794,
+  "play_count": 17720,
   "highest_score": 17371838,
   "picture": "774931.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 3648,
+  "coins": 4893,
   "tier": 10,
-  "xp": 4914600,
+  "xp": 5146350,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 1490,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-17T08:38:45.000Z",
-    "created_at": "2025-05-03T19:47:07.000Z",
-    "updated_at": "2025-05-03T19:47:08.000Z",
-    "pd": null
+    "created_at": "2025-05-17T19:29:55.000Z",
+    "updated_at": "2025-05-17T19:29:55.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-03T19:51:23.442Z"
+  "archived_at": "2025-05-19T14:54:15.332Z"
 }
