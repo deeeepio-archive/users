@@ -1,24 +1,24 @@
 {
   "id": 20718208,
-  "username": "Yellow_Clod",
+  "username": "Yellow_Diamond",
   "description": "CLODDDDDDDDD",
   "about": "I´m a Diamond",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-04-20T14:36:54.000Z",
-  "date_last_played": "2025-05-07T20:51:24.000Z",
-  "profile_views": 39,
-  "kill_count": 241,
-  "play_count": 269,
+  "date_last_played": "2025-05-21T17:54:42.000Z",
+  "profile_views": 69,
+  "kill_count": 263,
+  "play_count": 297,
   "highest_score": 1076818,
   "picture": "20718208-86387afa3d642945ed4b9cfdf5b29c53-49e88f8a-4644-4f2b-a760-d0ebda21afe6.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 57,
+  "coins": 144,
   "tier": 2,
-  "xp": 46050,
+  "xp": 59100,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 80204,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-06-16T02:37:22.000Z",
-    "created_at": "2025-05-07T20:51:23.000Z",
-    "updated_at": "2025-05-07T20:51:24.000Z",
-    "pd": null
+    "created_at": "2025-05-21T17:54:42.000Z",
+    "updated_at": "2025-05-21T17:54:42.000Z",
+    "pd": {
+      "played": 16,
+      "won": 8,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-11T13:32:12.337Z"
+  "archived_at": "2025-05-21T19:16:21.625Z"
 }
