@@ -2,28 +2,59 @@
   "id": 20741230,
   "username": "cashshit",
   "description": "shit on nigga 🤣😭",
-  "about": "",
+  "about": "Fu‎cking N‎ig‎g‎e‎r‎s",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-06-30T23:20:33.000Z",
-  "date_last_played": "2025-05-02T14:55:09.000Z",
-  "profile_views": 12939,
-  "kill_count": 83505,
-  "play_count": 21412,
+  "date_last_played": "2025-05-17T19:51:16.000Z",
+  "profile_views": 12962,
+  "kill_count": 83619,
+  "play_count": 21445,
   "highest_score": 19006556,
   "picture": "20741230-b8451054494be642fe420ae048c697103b-c414e817-55ac-44c5-a84e-d323af04c230.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 233,
+  "coins": 506,
   "tier": 10,
-  "xp": 12178800,
+  "xp": 12219750,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104769,
+      "user_id": 20741230,
+      "platform_id": "dc",
+      "platform_user_id": "Fu‎cking N‎ig‎g‎e‎r‎s",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-17T00:36:25.000Z",
+      "updated_at": "2025-05-17T00:36:25.000Z"
+    },
+    {
+      "id": 104770,
+      "user_id": 20741230,
+      "platform_id": "rd",
+      "platform_user_id": "Fu‎cking N‎ig‎g‎e‎r‎s",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-17T00:36:28.000Z",
+      "updated_at": "2025-05-17T00:36:28.000Z"
+    },
+    {
+      "id": 104771,
+      "user_id": 20741230,
+      "platform_id": "tc",
+      "platform_user_id": "Fu‎cking N‎ig‎g‎e‎r‎s",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-17T00:36:34.000Z",
+      "updated_at": "2025-05-17T00:36:34.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20741230,
     "rank_kc": 25,
@@ -35,8 +66,8 @@
     "rank_hs": 1421,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-19T16:52:34.000Z",
-    "created_at": "2025-05-02T14:55:08.000Z",
-    "updated_at": "2025-05-02T14:55:09.000Z",
+    "created_at": "2025-05-17T19:51:16.000Z",
+    "updated_at": "2025-05-17T19:51:16.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +77,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-11T16:17:26.240Z"
+  "archived_at": "2025-05-21T21:52:54.905Z"
 }
