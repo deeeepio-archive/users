@@ -6,34 +6,24 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-02-07T17:30:41.000Z",
-  "date_last_played": "2025-05-10T02:36:14.000Z",
-  "profile_views": 882,
-  "kill_count": 39644,
-  "play_count": 11184,
+  "date_last_played": "2025-05-19T13:44:43.000Z",
+  "profile_views": 932,
+  "kill_count": 39909,
+  "play_count": 11270,
   "highest_score": 15809056,
   "picture": "20690361.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 509,
+  "coins": 1019,
   "tier": 9,
-  "xp": 1047600,
+  "xp": 1124100,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
-    {
-      "id": 157,
-      "user_id": 20690361,
-      "platform_id": "dc",
-      "platform_user_id": "cheems#1889",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2022-05-18T03:39:26.000Z",
-      "updated_at": "2022-05-18T03:39:26.000Z"
-    },
     {
       "id": 158,
       "user_id": 20690361,
@@ -56,12 +46,12 @@
     "rank_hs": 2763,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-15T03:19:49.000Z",
-    "created_at": "2025-05-10T02:36:14.000Z",
-    "updated_at": "2025-05-10T02:36:14.000Z",
+    "created_at": "2025-05-19T13:44:43.000Z",
+    "updated_at": "2025-05-19T13:44:43.000Z",
     "pd": {
-      "played": 26,
-      "won": 14,
-      "ratio": 54
+      "played": 51,
+      "won": 30,
+      "ratio": 59
     }
   },
   "creations": {
@@ -71,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-11T09:46:51.467Z"
+  "archived_at": "2025-05-21T16:08:58.325Z"
 }
