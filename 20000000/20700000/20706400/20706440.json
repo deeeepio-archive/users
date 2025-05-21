@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-03-19T16:24:37.000Z",
-  "date_last_played": "2025-05-10T20:15:05.000Z",
-  "profile_views": 3994,
-  "kill_count": 15683,
-  "play_count": 5456,
+  "date_last_played": "2025-05-20T15:42:58.000Z",
+  "profile_views": 4019,
+  "kill_count": 16028,
+  "play_count": 5764,
   "highest_score": 4483041,
   "picture": "20706440-d9351896d5402115b268fc9561221c27.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 4238,
+  "coins": 5268,
   "tier": 10,
-  "xp": 2700600,
+  "xp": 2855100,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104644,
+      "user_id": 20706440,
+      "platform_id": "dc",
+      "platform_user_id": "cavemanof2023",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-12T06:22:36.000Z",
+      "updated_at": "2025-05-12T06:22:36.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20706440,
     "rank_kc": 3250,
@@ -35,12 +46,12 @@
     "rank_hs": 120657,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T05:59:01.000Z",
-    "created_at": "2025-05-10T20:15:05.000Z",
-    "updated_at": "2025-05-10T20:15:05.000Z",
+    "created_at": "2025-05-20T15:42:57.000Z",
+    "updated_at": "2025-05-20T15:42:58.000Z",
     "pd": {
-      "played": 2,
-      "won": 0,
-      "ratio": 0
+      "played": 6,
+      "won": 1,
+      "ratio": 17
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-11T11:55:34.256Z"
+  "archived_at": "2025-05-21T17:57:47.674Z"
 }
