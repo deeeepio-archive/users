@@ -2,23 +2,23 @@
   "id": 20752443,
   "username": "El_Macho",
   "description": "𝒦𝒾𝒹𝓈 ℯ𝒶𝓉 𝒻𝓇ℯℯ ℴ𝓃 𝒯𝓊ℯ𝓈𝒹𝒶𝓎𝓈",
-  "about": "𝒯𝒽ℯ 𝓂ℴ𝓈𝓉 ℳ𝒶𝒸𝒽ℴℯ𝓈𝓉 𝓂𝒶𝒸𝒽ℴ. ",
+  "about": "𝒯𝒽ℯ 𝓂ℴ𝓈𝓉 ℳ𝒶𝒸𝒽ℴℯ𝓈𝓉 𝓂𝒶𝒸𝒽ℴ. \nRan by Macho & Grudges.",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-08-20T23:44:56.000Z",
-  "date_last_played": "2025-05-11T08:34:47.000Z",
-  "profile_views": 820,
-  "kill_count": 2982,
-  "play_count": 2519,
-  "highest_score": 10271077,
-  "picture": "20752443-da6758d8e6810c109237de99376958b918-f7bfb763-1146-4c42-be5f-ef22101f10f4.png",
+  "date_last_played": "2025-05-19T20:41:48.000Z",
+  "profile_views": 902,
+  "kill_count": 3047,
+  "play_count": 2551,
+  "highest_score": 10532487,
+  "picture": "20752443-b1cb4eef1ddf9b175d7b223caa32cfb2-f96e9c1c-63d1-481f-88fa-301782f9d699.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 85,
+  "coins": 162,
   "tier": 9,
-  "xp": 1040550,
+  "xp": 1082100,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-11T08:34:47.000Z",
-    "updated_at": "2025-05-11T08:34:47.000Z",
-    "pd": null
+    "created_at": "2025-05-21T15:53:21.000Z",
+    "updated_at": "2025-05-21T15:53:22.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-11T17:40:39.200Z"
+  "archived_at": "2025-05-21T23:09:19.320Z"
 }
