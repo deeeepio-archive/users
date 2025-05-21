@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-04-21T16:18:32.000Z",
-  "date_last_played": "2025-03-19T04:52:11.000Z",
-  "profile_views": 23,
-  "kill_count": 223,
-  "play_count": 464,
+  "date_last_played": "2025-05-13T20:43:33.000Z",
+  "profile_views": 31,
+  "kill_count": 224,
+  "play_count": 469,
   "highest_score": 1206535,
   "picture": "20718746-c9e2838b210be8bfbf6b5f2af5e9b8974.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 177,
+  "coins": 188,
   "tier": 1,
-  "xp": 19650,
+  "xp": 21300,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104694,
+      "user_id": 20718746,
+      "platform_id": "dc",
+      "platform_user_id": "drakar1",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-13T20:06:24.000Z",
+      "updated_at": "2025-05-13T20:06:24.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20718746,
     "rank_kc": 70518,
@@ -35,8 +46,8 @@
     "rank_hs": 73990,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-09-09T05:26:57.000Z",
-    "created_at": "2025-03-19T04:52:11.000Z",
-    "updated_at": "2025-03-19T04:52:11.000Z",
+    "created_at": "2025-05-13T20:43:33.000Z",
+    "updated_at": "2025-05-13T20:43:33.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-11T13:35:58.117Z"
+  "archived_at": "2025-05-21T19:18:52.554Z"
 }
