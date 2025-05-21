@@ -1,24 +1,24 @@
 {
   "id": 20725191,
   "username": "Imperio",
-  "description": "Blank for now",
+  "description": "Comparison is the thief of joy",
   "about": "Alias: imperio\n──────⚪─────────────────────────────────────────\n ◄◄⠀▐▐ ⠀►► \nHippo\nAST\nAnaconda\nShark\nCleintless gob😛",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-05-07T19:57:16.000Z",
-  "date_last_played": "2025-05-11T03:52:19.000Z",
-  "profile_views": 1310,
-  "kill_count": 15659,
-  "play_count": 7891,
-  "highest_score": 5063987,
-  "picture": "20725191-868fe2463a8fb9ccb3cb4ef210147e662-d30180a5-5106-4c18-ba65-76778cd33028.png",
+  "date_last_played": "2025-05-21T16:30:11.000Z",
+  "profile_views": 1457,
+  "kill_count": 16013,
+  "play_count": 8089,
+  "highest_score": 7000257,
+  "picture": "20725191-4ffaa7d4d1080fae8e0a264a393a6774e-d76ec08d-535e-45a6-a79d-8bcdf329bb2e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 349,
+  "coins": 1020,
   "tier": 10,
-  "xp": 2059500,
+  "xp": 2217900,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -44,14 +44,14 @@
     "rank_pc_dirty": true,
     "rank_pc_updated_at": "2024-01-21T10:59:37.000Z",
     "rank_hs": 8250,
-    "rank_hs_dirty": false,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T07:10:20.000Z",
-    "created_at": "2025-05-11T03:52:18.000Z",
-    "updated_at": "2025-05-11T03:52:19.000Z",
+    "created_at": "2025-05-21T19:00:02.000Z",
+    "updated_at": "2025-05-21T19:00:03.000Z",
     "pd": {
-      "played": 1,
-      "won": 1,
-      "ratio": 100
+      "played": 6,
+      "won": 2,
+      "ratio": 33
     }
   },
   "creations": {
@@ -61,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-11T14:23:32.549Z"
+  "archived_at": "2025-05-21T20:02:17.028Z"
 }
