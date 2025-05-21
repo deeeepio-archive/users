@@ -6,35 +6,24 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-06-16T19:25:30.000Z",
-  "date_last_played": "2025-03-17T01:40:32.000Z",
-  "profile_views": 474,
-  "kill_count": 3768,
-  "play_count": 707,
+  "date_last_played": "2025-05-14T17:50:55.000Z",
+  "profile_views": 478,
+  "kill_count": 3776,
+  "play_count": 711,
   "highest_score": 1928327,
   "picture": "20737801-5baf0c58c723a296d910f27961ce96154-f8261631-2947-4e68-b8ee-a484a46ca4db.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 414,
+  "coins": 431,
   "tier": 6,
-  "xp": 381450,
+  "xp": 384000,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 102947,
-      "user_id": 20737801,
-      "platform_id": "ig",
-      "platform_user_id": "alejandroferrerti",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-03-02T22:54:53.000Z",
-      "updated_at": "2025-03-02T22:54:53.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 20737801,
     "rank_kc": 8300,
@@ -46,9 +35,13 @@
     "rank_hs": 135070,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-05-27T03:20:54.000Z",
-    "created_at": "2025-03-17T01:40:31.000Z",
-    "updated_at": "2025-03-17T01:40:32.000Z",
-    "pd": null
+    "created_at": "2025-05-14T17:50:54.000Z",
+    "updated_at": "2025-05-14T17:50:55.000Z",
+    "pd": {
+      "played": 4,
+      "won": 3,
+      "ratio": 75
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-11T15:52:34.297Z"
+  "archived_at": "2025-05-21T21:29:24.989Z"
 }
