@@ -1,24 +1,24 @@
 {
   "id": 20940994,
-  "username": "Dayukk",
+  "username": "NUO",
   "description": "",
-  "about": "뭐지",
+  "about": "NUO~",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-05-28T04:29:29.000Z",
-  "date_last_played": "2025-05-12T11:05:58.000Z",
-  "profile_views": 1875,
-  "kill_count": 7825,
-  "play_count": 1666,
+  "date_last_played": "2025-05-20T14:00:50.000Z",
+  "profile_views": 1905,
+  "kill_count": 7848,
+  "play_count": 1672,
   "highest_score": 4081109,
-  "picture": "20940994-ac77332b3591fec51be0a7c72abbd1f3.png",
+  "picture": "20940994-bab8dc10e8ff68d6d5f456b329464bb0d-be346b4d-a6d4-44ba-a9d1-1e12d3733e70.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2,
+  "coins": 31,
   "tier": 10,
-  "xp": 1227150,
+  "xp": 1231500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,11 +35,11 @@
     "rank_hs": 12471,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-21T05:02:38.000Z",
-    "created_at": "2025-05-12T11:05:58.000Z",
-    "updated_at": "2025-05-12T11:05:58.000Z",
+    "created_at": "2025-05-20T14:00:49.000Z",
+    "updated_at": "2025-05-20T14:00:50.000Z",
     "pd": {
-      "played": 4,
-      "won": 2,
+      "played": 10,
+      "won": 5,
       "ratio": 50
     }
   },
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-12T16:29:16.741Z"
+  "archived_at": "2025-05-22T21:03:25.034Z"
 }
