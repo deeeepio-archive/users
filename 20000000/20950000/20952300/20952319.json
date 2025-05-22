@@ -1,24 +1,24 @@
 {
   "id": 20952319,
-  "username": "------------------",
-  "description": "",
-  "about": "",
+  "username": "MBWO",
+  "description": "仰不傀於天俯不怍於人\nSorry to kill you....have a nice day brother\n죽여서 죄송해요 용서부탁드려요 ㅎ",
+  "about": "안녕하세요 MBWO입니다.\n좋은하루가 되세요!\n\n仰不傀於天俯不怍於人",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-07-03T08:39:03.000Z",
-  "date_last_played": "2025-02-14T07:40:37.000Z",
-  "profile_views": 612,
-  "kill_count": 865,
-  "play_count": 593,
-  "highest_score": 3856669,
+  "date_last_played": "2025-05-21T12:18:30.000Z",
+  "profile_views": 641,
+  "kill_count": 927,
+  "play_count": 689,
+  "highest_score": 6165225,
   "picture": "20952319-945158613691017a13ced7328351051c12.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 985,
+  "coins": 541,
   "tier": 5,
-  "xp": 264300,
+  "xp": 317700,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 19266,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-11T08:02:30.000Z",
-    "created_at": "2025-02-14T07:40:36.000Z",
-    "updated_at": "2025-02-14T07:40:37.000Z",
-    "pd": null
+    "created_at": "2025-05-21T12:18:30.000Z",
+    "updated_at": "2025-05-21T12:18:30.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-12T17:55:06.875Z"
+  "archived_at": "2025-05-22T22:29:55.991Z"
 }
