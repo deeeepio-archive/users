@@ -2,23 +2,23 @@
   "id": 20938542,
   "username": "0n_line",
   "description": null,
-  "about": null,
+  "about": "Im <GRE> GET GOT and <RED>YO<BLU>WH<GRE>O \nbeen playing for 7 years\nfriends with ET Jacob m, Haus,  Masn",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-05-19T13:02:32.000Z",
-  "date_last_played": "2025-05-12T12:09:58.000Z",
-  "profile_views": 80,
-  "kill_count": 601,
-  "play_count": 452,
+  "date_last_played": "2025-05-22T18:27:49.000Z",
+  "profile_views": 134,
+  "kill_count": 872,
+  "play_count": 663,
   "highest_score": 2678790,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 133,
-  "tier": 3,
-  "xp": 108900,
+  "coins": 21,
+  "tier": 4,
+  "xp": 186600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 174042,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-10-27T18:44:22.000Z",
-    "created_at": "2025-05-12T12:09:58.000Z",
-    "updated_at": "2025-05-12T12:09:58.000Z",
-    "pd": null
+    "created_at": "2025-05-22T18:27:49.000Z",
+    "updated_at": "2025-05-22T18:27:49.000Z",
+    "pd": {
+      "played": 24,
+      "won": 13,
+      "ratio": 54
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-12T16:13:06.095Z"
+  "archived_at": "2025-05-22T20:46:47.281Z"
 }
