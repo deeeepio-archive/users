@@ -1,24 +1,24 @@
 {
   "id": 20792067,
   "username": "zerm",
-  "description": "sorry about that\n",
-  "about": "yo",
+  "description": "Keep your head up.",
+  "about": "Jesus is the light.\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-01-15T12:41:28.000Z",
-  "date_last_played": "2025-05-11T22:29:31.000Z",
-  "profile_views": 261,
-  "kill_count": 2487,
-  "play_count": 1151,
-  "highest_score": 6150066,
+  "date_last_played": "2025-05-21T23:00:41.000Z",
+  "profile_views": 301,
+  "kill_count": 2819,
+  "play_count": 1281,
+  "highest_score": 12741153,
   "picture": "20792067-23886453cb8b91f208fc1f5c61a1b91d-d288a8fd-d0e6-4f0c-ae62-b5d35c321cf0.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 169,
-  "tier": 8,
-  "xp": 873000,
+  "coins": 403,
+  "tier": 9,
+  "xp": 1043100,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 28228,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-03-24T11:04:51.000Z",
-    "created_at": "2025-05-11T22:29:30.000Z",
-    "updated_at": "2025-05-11T22:29:31.000Z",
-    "pd": null
+    "created_at": "2025-05-21T23:00:40.000Z",
+    "updated_at": "2025-05-21T23:00:41.000Z",
+    "pd": {
+      "played": 10,
+      "won": 7,
+      "ratio": 70
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-11T22:32:07.937Z"
+  "archived_at": "2025-05-22T03:40:20.978Z"
 }
