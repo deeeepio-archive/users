@@ -1,24 +1,24 @@
 {
   "id": 20806784,
-  "username": "lamort",
-  "description": "memento mori",
-  "about": "lament",
+  "username": "calliope",
+  "description": "猿も木から落ちる",
+  "about": "fav animals\nmarlin\nsleeper shark\ngs\nbeaked\nhumpback\ngar",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-03-12T03:18:18.000Z",
-  "date_last_played": "2025-05-11T21:10:30.000Z",
-  "profile_views": 1679,
-  "kill_count": 11237,
-  "play_count": 4099,
+  "date_last_played": "2025-05-18T20:58:55.000Z",
+  "profile_views": 1717,
+  "kill_count": 11279,
+  "play_count": 4129,
   "highest_score": 10056229,
-  "picture": "20806784-7ff6a10e9c7a5d101c636b977e1db291026-df56c82e-b3a8-45e7-b045-7412cf73c7ef.png",
+  "picture": "20806784-2dcf7f3a3fbed6c106cb72318964145e0-fee01b84-1f0a-4fe7-8c2a-16abaa573938.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 885,
+  "coins": 877,
   "tier": 10,
-  "xp": 2232150,
+  "xp": 2250450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": 4094,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-19T01:35:06.000Z",
-    "created_at": "2025-05-11T21:10:30.000Z",
-    "updated_at": "2025-05-11T21:10:30.000Z",
+    "created_at": "2025-05-18T20:58:55.000Z",
+    "updated_at": "2025-05-18T20:58:55.000Z",
     "pd": {
-      "played": 11,
-      "won": 7,
-      "ratio": 64
+      "played": 6,
+      "won": 4,
+      "ratio": 67
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-12T00:14:40.195Z"
+  "archived_at": "2025-05-22T05:22:17.894Z"
 }
