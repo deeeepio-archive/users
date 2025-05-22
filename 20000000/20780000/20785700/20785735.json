@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-12-14T14:17:02.000Z",
-  "date_last_played": "2025-05-11T20:24:02.000Z",
-  "profile_views": 2223,
-  "kill_count": 19341,
-  "play_count": 10536,
+  "date_last_played": "2025-05-21T20:44:32.000Z",
+  "profile_views": 2342,
+  "kill_count": 19785,
+  "play_count": 10789,
   "highest_score": 5356309,
   "picture": "20785735-8f10a2566fac7b4e7ccc432d854dc3557-66e4236e-b9d2-4f26-978a-be14be447c0e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 17807,
+  "coins": 18871,
   "tier": 10,
-  "xp": 4144350,
+  "xp": 4303950,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,6 +33,26 @@
       "verified": false,
       "created_at": "2024-02-23T14:31:39.000Z",
       "updated_at": "2024-02-23T14:31:39.000Z"
+    },
+    {
+      "id": 104760,
+      "user_id": 20785735,
+      "platform_id": "yt",
+      "platform_user_id": "channel",
+      "platform_user_url": "https://www.youtube.com/@ÂngêlØfGødx",
+      "verified": false,
+      "created_at": "2025-05-16T18:03:14.000Z",
+      "updated_at": "2025-05-16T18:03:14.000Z"
+    },
+    {
+      "id": 104765,
+      "user_id": 20785735,
+      "platform_id": "yt",
+      "platform_user_id": "rape orca",
+      "platform_user_url": "https://www.youtube.com/watch?v=UJIWGcum5DI",
+      "verified": false,
+      "created_at": "2025-05-16T18:13:36.000Z",
+      "updated_at": "2025-05-16T18:13:36.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +66,8 @@
     "rank_hs": 10098,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T07:04:54.000Z",
-    "created_at": "2025-05-11T20:24:01.000Z",
-    "updated_at": "2025-05-11T20:24:02.000Z",
+    "created_at": "2025-05-21T20:44:32.000Z",
+    "updated_at": "2025-05-21T20:44:32.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +77,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-11T21:45:07.857Z"
+  "archived_at": "2025-05-22T02:58:04.354Z"
 }
