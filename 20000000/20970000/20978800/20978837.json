@@ -1,24 +1,24 @@
 {
   "id": 20978837,
   "username": "Regirock",
-  "description": "\"I'm not seeing enough movement\" - Ninja",
+  "description": "\"Ts pmo fr I litrlly cnt ply ts gm nm fr\" lowkey lowkey trsh ah",
   "about": "The best deeeep.io player ever.",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-10-15T17:22:46.000Z",
-  "date_last_played": "2025-05-12T13:47:53.000Z",
-  "profile_views": 69,
-  "kill_count": 133,
-  "play_count": 99,
+  "date_last_played": "2025-05-22T13:42:44.000Z",
+  "profile_views": 80,
+  "kill_count": 277,
+  "play_count": 207,
   "highest_score": 3907357,
   "picture": "20978837-103f6da2f7f010e977eda1b4325c18225e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 62,
+  "coins": 92,
   "tier": 2,
-  "xp": 39300,
+  "xp": 73800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 121671,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-11-28T12:50:53.000Z",
-    "created_at": "2025-05-12T13:47:52.000Z",
-    "updated_at": "2025-05-12T13:47:53.000Z",
-    "pd": null
+    "created_at": "2025-05-22T13:42:44.000Z",
+    "updated_at": "2025-05-22T13:42:44.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-12T21:23:21.948Z"
+  "archived_at": "2025-05-23T01:36:56.858Z"
 }
