@@ -6,35 +6,24 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2022-10-20T12:49:35.000Z",
-  "date_last_played": "2024-09-12T09:14:30.000Z",
-  "profile_views": 655,
-  "kill_count": 1419,
-  "play_count": 1118,
+  "date_last_played": "2025-05-19T09:37:40.000Z",
+  "profile_views": 668,
+  "kill_count": 1423,
+  "play_count": 1133,
   "highest_score": 3915767,
   "picture": "20979964-339610945609d32d243116787684d43108.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 466,
+  "coins": 486,
   "tier": 6,
-  "xp": 412500,
+  "xp": 415500,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 10866,
-      "user_id": 20979964,
-      "platform_id": "ig",
-      "platform_user_id": "the0.lc",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2022-12-05T14:32:48.000Z",
-      "updated_at": "2022-12-05T14:32:48.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 20979964,
     "rank_kc": 20364,
@@ -46,8 +35,8 @@
     "rank_hs": 18375,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-06-14T08:23:02.000Z",
-    "created_at": "2024-09-12T09:14:30.000Z",
-    "updated_at": "2024-09-12T09:14:30.000Z",
+    "created_at": "2025-05-19T09:37:40.000Z",
+    "updated_at": "2025-05-19T09:37:40.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-12T21:30:11.041Z"
+  "archived_at": "2025-05-23T01:43:58.010Z"
 }
