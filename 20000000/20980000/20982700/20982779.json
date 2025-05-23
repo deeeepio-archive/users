@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2022-10-30T19:01:10.000Z",
   "date_last_played": "2025-02-06T22:38:24.000Z",
-  "profile_views": 5,
+  "profile_views": 6,
   "kill_count": 0,
   "play_count": 7,
   "highest_score": 143705,
@@ -42,6 +42,48 @@
   "creations": {
     "maps": {
       "items": [
+        {
+          "id": 245335,
+          "user_id": 20982779,
+          "cloneof_id": null,
+          "string_id": "randomahhmap",
+          "title": "just a map",
+          "description": "hi",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 9,
+          "created_at": "2025-05-15T22:17:54.000Z",
+          "updated_at": "2025-05-15T22:30:30.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 20982779,
+            "username": "SHARKPRO24",
+            "description": null,
+            "about": null,
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2022-10-30T19:01:10.000Z",
+            "date_last_played": "2025-02-06T22:38:24.000Z",
+            "kill_count": 0,
+            "play_count": 7,
+            "highest_score": 143705,
+            "picture": null,
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 11,
+            "tier": 1,
+            "xp": 150,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
         {
           "id": 244845,
           "user_id": 20982779,
@@ -85,9 +127,9 @@
           "tags": []
         }
       ],
-      "count": 1
+      "count": 2
     },
     "skins": []
   },
-  "archived_at": "2025-05-12T21:46:19.484Z"
+  "archived_at": "2025-05-23T02:02:09.370Z"
 }
