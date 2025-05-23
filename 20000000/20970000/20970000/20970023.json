@@ -1,24 +1,24 @@
 {
   "id": 20970023,
-  "username": "Bombus",
+  "username": "ombsub",
   "description": "",
-  "about": "",
+  "about": "Not a gs main",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-09-12T00:18:08.000Z",
-  "date_last_played": "2025-05-10T04:32:36.000Z",
-  "profile_views": 3928,
-  "kill_count": 14476,
-  "play_count": 5719,
+  "date_last_played": "2025-05-22T07:53:43.000Z",
+  "profile_views": 3968,
+  "kill_count": 14561,
+  "play_count": 5761,
   "highest_score": 5624431,
-  "picture": "20970023-69e5637c3651267fa99c3ff049611b4f-3b47bab8-785d-4420-a592-db20269539fa.png",
+  "picture": "20970023-986b7588fb526dfe7a8458643fb1796e-27626702-85ad-4dec-8d6a-7746df18163a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 140,
+  "coins": 23,
   "tier": 10,
-  "xp": 3911250,
+  "xp": 3946200,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 6708,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-17T10:48:00.000Z",
-    "created_at": "2025-05-10T04:32:36.000Z",
-    "updated_at": "2025-05-10T04:32:36.000Z",
-    "pd": null
+    "created_at": "2025-05-22T07:53:43.000Z",
+    "updated_at": "2025-05-22T07:53:43.000Z",
+    "pd": {
+      "played": 5,
+      "won": 4,
+      "ratio": 80
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-12T20:24:14.997Z"
+  "archived_at": "2025-05-23T00:32:48.014Z"
 }
