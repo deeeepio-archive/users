@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2024-06-09T10:08:27.000Z",
   "date_last_played": "2025-04-11T08:40:39.000Z",
-  "profile_views": 1240,
+  "profile_views": 1255,
   "kill_count": 17705,
   "play_count": 96,
   "highest_score": 7418998,
@@ -25,24 +25,14 @@
   "badges": [],
   "social_networks": [
     {
-      "id": 95327,
-      "user_id": 21370398,
-      "platform_id": "dc",
-      "platform_user_id": "echdeathofficial",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2024-06-09T11:05:54.000Z",
-      "updated_at": "2024-06-09T11:05:54.000Z"
-    },
-    {
       "id": 95328,
       "user_id": 21370398,
       "platform_id": "yt",
-      "platform_user_id": "subscribe",
+      "platform_user_id": "subscribe to my channel",
       "platform_user_url": "https://www.youtube.com/@echdeathofficial",
       "verified": false,
       "created_at": "2024-06-09T11:06:13.000Z",
-      "updated_at": "2024-06-09T11:06:13.000Z"
+      "updated_at": "2025-05-18T05:43:05.000Z"
     }
   ],
   "user_stats": {
@@ -67,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T18:09:38.987Z"
+  "archived_at": "2025-05-24T22:45:48.619Z"
 }
