@@ -1,24 +1,24 @@
 {
   "id": 21347574,
-  "username": "再见",
+  "username": "飛天沙丁",
   "description": "",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-01-09T21:15:02.000Z",
-  "date_last_played": "2025-03-08T04:17:15.000Z",
-  "profile_views": 20619,
-  "kill_count": 483,
-  "play_count": 110,
+  "date_last_played": "2025-05-20T17:37:06.000Z",
+  "profile_views": 20649,
+  "kill_count": 495,
+  "play_count": 114,
   "highest_score": 3556768,
-  "picture": "21347574-aa1ffca71dacc12beefd6f0b0ae37667-b2bbe0cc-4bd9-4563-a17e-9407985cfafa.png",
+  "picture": "21347574-79a3c821066ef7b345609f982550b6621-c1321882-1fde-43c8-aca7-859ad5cd6138.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 612,
+  "coins": 642,
   "tier": 3,
-  "xp": 116550,
+  "xp": 121050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 605386,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-13T01:39:58.000Z",
-    "created_at": "2025-03-08T04:17:14.000Z",
-    "updated_at": "2025-03-08T04:17:15.000Z",
-    "pd": null
+    "created_at": "2025-05-20T17:37:06.000Z",
+    "updated_at": "2025-05-20T17:37:06.000Z",
+    "pd": {
+      "played": 4,
+      "won": 4,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T15:31:57.356Z"
+  "archived_at": "2025-05-24T20:08:03.918Z"
 }
