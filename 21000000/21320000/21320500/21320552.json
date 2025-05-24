@@ -1,24 +1,24 @@
 {
   "id": 21320552,
-  "username": "小冰鯊",
-  "description": "謝謝你的肉給冰鯊吃～\nùwú",
-  "about": "小鯊鯊wrrrr!!! :>\n\n",
+  "username": "鯊Sa",
+  "description": "謝謝你的肉\nùwú",
+  "about": "wrrrr!!! :>\n\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-09-24T07:40:32.000Z",
-  "date_last_played": "2025-04-10T14:08:16.000Z",
-  "profile_views": 1772,
-  "kill_count": 1372,
-  "play_count": 1102,
+  "date_last_played": "2025-05-24T14:58:37.000Z",
+  "profile_views": 1788,
+  "kill_count": 1381,
+  "play_count": 1107,
   "highest_score": 983228,
-  "picture": "21320552-8f6b662f89e0a710e69e41d36610d101c4f-db843fba-b616-4153-a52c-95af4c1a281d.png",
+  "picture": "21320552-10cf7737a277ea8de6fe4af12563845dd-647a5b60-20e3-49a7-a9ef-1ef3a8cee802.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 65,
+  "coins": 87,
   "tier": 5,
-  "xp": 293700,
+  "xp": 297000,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 96061,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-21T09:43:40.000Z",
-    "created_at": "2025-04-10T14:08:16.000Z",
-    "updated_at": "2025-04-10T14:08:16.000Z",
-    "pd": null
+    "created_at": "2025-05-24T14:58:36.000Z",
+    "updated_at": "2025-05-24T14:58:37.000Z",
+    "pd": {
+      "played": 4,
+      "won": 3,
+      "ratio": 75
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T12:24:45.229Z"
+  "archived_at": "2025-05-24T17:07:00.067Z"
 }
