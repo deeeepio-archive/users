@@ -1,29 +1,39 @@
 {
   "id": 21329429,
   "username": "♡-Rana-♡",
-  "description": "Perdon asi es el juego mama guevo",
-  "about": "Soi fredi fasver",
+  "description": "Perdon si te mate .mamaguevo hojo no e un insulto 🤩",
+  "about": "Soy preciosa",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-11-03T19:14:54.000Z",
-  "date_last_played": "2025-05-05T00:12:59.000Z",
-  "profile_views": 284,
-  "kill_count": 4181,
-  "play_count": 2179,
+  "date_last_played": "2025-05-23T05:50:19.000Z",
+  "profile_views": 285,
+  "kill_count": 4192,
+  "play_count": 2191,
   "highest_score": 2705463,
   "picture": "21329429-441eabedb5322a6c8ca6ce7f7f6573b1-2635c9e4-a594-47c5-8d50-1363824c4370.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 88,
+  "coins": 121,
   "tier": 8,
-  "xp": 824100,
+  "xp": 829050,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
+    {
+      "id": 104926,
+      "user_id": 21329429,
+      "platform_id": "dc",
+      "platform_user_id": "meh",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-23T04:44:40.000Z",
+      "updated_at": "2025-05-23T04:44:40.000Z"
+    },
     {
       "id": 101407,
       "user_id": 21329429,
@@ -56,8 +66,8 @@
     "rank_hs": 31032,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-28T14:49:03.000Z",
-    "created_at": "2025-05-05T00:12:58.000Z",
-    "updated_at": "2025-05-05T00:12:59.000Z",
+    "created_at": "2025-05-23T05:50:18.000Z",
+    "updated_at": "2025-05-23T05:50:19.000Z",
     "pd": null
   },
   "creations": {
@@ -67,5 +77,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T13:25:27.239Z"
+  "archived_at": "2025-05-24T18:06:45.544Z"
 }
