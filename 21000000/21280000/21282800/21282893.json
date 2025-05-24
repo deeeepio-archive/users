@@ -6,24 +6,45 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2023-04-16T10:54:03.000Z",
-  "date_last_played": "2025-05-11T04:27:05.000Z",
-  "profile_views": 4406,
-  "kill_count": 48326,
-  "play_count": 9628,
+  "date_last_played": "2025-05-20T18:26:50.000Z",
+  "profile_views": 4445,
+  "kill_count": 48557,
+  "play_count": 9662,
   "highest_score": 15094066,
   "picture": "21282893-555931107f1b4895ec41bcde8628ceeaa.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 25592,
+  "coins": 25926,
   "tier": 10,
-  "xp": 7823550,
+  "xp": 7873650,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104733,
+      "user_id": 21282893,
+      "platform_id": "dc",
+      "platform_user_id": "Theunstopable",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-14T16:45:26.000Z",
+      "updated_at": "2025-05-14T16:45:26.000Z"
+    },
+    {
+      "id": 104734,
+      "user_id": 21282893,
+      "platform_id": "dc",
+      "platform_user_id": "theunstopable0753",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-14T16:50:26.000Z",
+      "updated_at": "2025-05-14T16:50:26.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21282893,
     "rank_kc": 291,
@@ -35,12 +56,12 @@
     "rank_hs": 1669,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-21T03:58:07.000Z",
-    "created_at": "2025-05-11T04:27:04.000Z",
-    "updated_at": "2025-05-11T04:27:05.000Z",
+    "created_at": "2025-05-20T18:26:49.000Z",
+    "updated_at": "2025-05-20T18:26:50.000Z",
     "pd": {
-      "played": 42,
-      "won": 26,
-      "ratio": 62
+      "played": 17,
+      "won": 8,
+      "ratio": 47
     }
   },
   "creations": {
@@ -50,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T07:59:36.015Z"
+  "archived_at": "2025-05-24T12:52:52.385Z"
 }
