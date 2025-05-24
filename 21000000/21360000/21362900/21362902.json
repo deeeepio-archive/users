@@ -1,24 +1,24 @@
 {
   "id": 21362902,
   "username": "Grippy",
-  "description": "#1 Gripper NA\n\nDiscord: grippiestgripper34",
+  "description": "#1 Gripper NA\n\nWorst good player NA",
   "about": "I play most animals but I'm bad at all of them",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-04-12T21:47:20.000Z",
-  "date_last_played": "2025-05-14T03:58:29.000Z",
-  "profile_views": 932,
-  "kill_count": 5556,
-  "play_count": 3115,
+  "date_last_played": "2025-05-24T21:23:15.000Z",
+  "profile_views": 1115,
+  "kill_count": 6113,
+  "play_count": 3319,
   "highest_score": 7203424,
-  "picture": "21362902-719c71c6834b915710447562ebf6bde99.png",
+  "picture": "21362902-a1654103223a99034dfcaf7560dd363aa-856bebe0-ca3f-4a63-ba01-cfc1efa4bcc3.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 99,
+  "coins": 62,
   "tier": 10,
-  "xp": 1682850,
+  "xp": 1808550,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,6 +33,16 @@
       "verified": false,
       "created_at": "2025-05-01T21:39:16.000Z",
       "updated_at": "2025-05-01T21:39:16.000Z"
+    },
+    {
+      "id": 104876,
+      "user_id": 21362902,
+      "platform_id": "yt",
+      "platform_user_id": "GrippyThanGlue",
+      "platform_user_url": "https://www.youtube.com/@GrippierThanGlue",
+      "verified": false,
+      "created_at": "2025-05-21T00:33:43.000Z",
+      "updated_at": "2025-05-21T00:33:43.000Z"
     }
   ],
   "user_stats": {
@@ -46,12 +56,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T05:00:05.000Z",
-    "updated_at": "2025-05-14T05:00:06.000Z",
+    "created_at": "2025-05-24T21:23:15.000Z",
+    "updated_at": "2025-05-24T21:23:15.000Z",
     "pd": {
-      "played": 7,
-      "won": 5,
-      "ratio": 71
+      "played": 48,
+      "won": 31,
+      "ratio": 65
     }
   },
   "creations": {
@@ -61,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T17:15:56.826Z"
+  "archived_at": "2025-05-24T21:52:31.502Z"
 }
