@@ -1,24 +1,24 @@
 {
   "id": 21310108,
-  "username": "WXW2",
-  "description": "Bye",
-  "about": "dldld",
+  "username": "JP19",
+  "description": "",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-08-06T06:36:55.000Z",
-  "date_last_played": "2024-11-15T08:46:38.000Z",
-  "profile_views": 475,
-  "kill_count": 523,
-  "play_count": 212,
+  "date_last_played": "2025-05-24T12:13:52.000Z",
+  "profile_views": 509,
+  "kill_count": 537,
+  "play_count": 218,
   "highest_score": 484459,
-  "picture": "21310108-ec24cc11fa4f3c5c495f2dba06a1b465.png",
+  "picture": "21310108-74539d9267f29debd93625861be2c053-04df171a-f24b-4a2a-b14b-5453edd7b37a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 68,
+  "coins": 77,
   "tier": 3,
-  "xp": 126600,
+  "xp": 127950,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 276399,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T11:16:24.000Z",
-    "created_at": "2024-11-15T08:46:38.000Z",
-    "updated_at": "2024-11-15T08:46:38.000Z",
-    "pd": null
+    "created_at": "2025-05-24T12:13:52.000Z",
+    "updated_at": "2025-05-24T12:13:52.000Z",
+    "pd": {
+      "played": 6,
+      "won": 2,
+      "ratio": 33
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T11:08:10.896Z"
+  "archived_at": "2025-05-24T15:58:44.118Z"
 }
