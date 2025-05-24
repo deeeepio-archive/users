@@ -1,29 +1,40 @@
 {
   "id": 21366932,
-  "username": "kazzidy",
-  "description": "oops you died, try again",
+  "username": "dolli",
+  "description": "dolly ><",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-05-15T02:51:27.000Z",
-  "date_last_played": "2024-05-15T02:51:27.000Z",
-  "profile_views": 4,
-  "kill_count": 0,
-  "play_count": 0,
-  "highest_score": 0,
+  "date_last_played": "2025-05-17T04:40:29.000Z",
+  "profile_views": 6,
+  "kill_count": 1,
+  "play_count": 6,
+  "highest_score": 343801,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 10,
+  "coins": 15,
   "tier": 1,
-  "xp": 0,
+  "xp": 750,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104774,
+      "user_id": 21366932,
+      "platform_id": "dc",
+      "platform_user_id": "k.kassidy",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-17T03:46:56.000Z",
+      "updated_at": "2025-05-17T03:46:56.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21366932,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T09:04:48.000Z",
-    "updated_at": "2025-04-28T09:04:48.000Z",
+    "created_at": "2025-05-17T04:40:28.000Z",
+    "updated_at": "2025-05-17T04:40:29.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T17:44:00.468Z"
+  "archived_at": "2025-05-24T22:21:42.070Z"
 }
