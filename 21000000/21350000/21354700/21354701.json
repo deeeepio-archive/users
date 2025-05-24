@@ -6,34 +6,24 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-02-24T01:06:31.000Z",
-  "date_last_played": "2025-05-11T16:38:31.000Z",
-  "profile_views": 1353,
-  "kill_count": 1974,
-  "play_count": 1195,
+  "date_last_played": "2025-05-23T19:49:17.000Z",
+  "profile_views": 1379,
+  "kill_count": 1977,
+  "play_count": 1202,
   "highest_score": 3220088,
-  "picture": "21354701-93a35aa5ea21d94310710377a1060787cf-43d46708-b5ed-4ff6-b9b7-a4bd087ae729.png",
+  "picture": "21354701-54cca100a2a1557c103d103076f5299bedb-b0b33c4b-9bcf-47d0-a5a8-e11134a81d3c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 137,
+  "coins": 1,
   "tier": 6,
-  "xp": 430200,
+  "xp": 432300,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
-    {
-      "id": 104095,
-      "user_id": 21354701,
-      "platform_id": "dc",
-      "platform_user_id": "2628462847",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-04-28T21:40:19.000Z",
-      "updated_at": "2025-04-28T21:40:19.000Z"
-    },
     {
       "id": 104094,
       "user_id": 21354701,
@@ -86,12 +76,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T00:32:04.000Z",
-    "updated_at": "2025-05-14T00:32:05.000Z",
+    "created_at": "2025-05-24T19:00:02.000Z",
+    "updated_at": "2025-05-24T19:00:02.000Z",
     "pd": {
-      "played": 2,
-      "won": 2,
-      "ratio": 100
+      "played": 4,
+      "won": 3,
+      "ratio": 75
     }
   },
   "creations": {
@@ -121,18 +111,18 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2024-02-24T01:06:31.000Z",
-            "date_last_played": "2025-05-11T16:38:31.000Z",
-            "kill_count": 1974,
-            "play_count": 1195,
+            "date_last_played": "2025-05-23T19:49:17.000Z",
+            "kill_count": 1977,
+            "play_count": 1202,
             "highest_score": 3220088,
-            "picture": "21354701-93a35aa5ea21d94310710377a1060787cf-43d46708-b5ed-4ff6-b9b7-a4bd087ae729.png",
+            "picture": "21354701-54cca100a2a1557c103d103076f5299bedb-b0b33c4b-9bcf-47d0-a5a8-e11134a81d3c.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 137,
+            "coins": 1,
             "tier": 6,
-            "xp": 430200,
+            "xp": 432300,
             "migrated": false,
             "verified": false,
             "beta": false
@@ -148,5 +138,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T16:21:06.372Z"
+  "archived_at": "2025-05-24T20:57:00.742Z"
 }
