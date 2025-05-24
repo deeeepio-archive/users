@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-06-17T15:05:22.000Z",
-  "date_last_played": "2025-05-13T00:45:05.000Z",
-  "profile_views": 537,
-  "kill_count": 1322,
-  "play_count": 299,
+  "date_last_played": "2025-05-21T21:52:21.000Z",
+  "profile_views": 555,
+  "kill_count": 1330,
+  "play_count": 301,
   "highest_score": 7499807,
   "picture": "21371506-453710baf9bcec418ab2fa310cc4f0e369-4b39fe22-2467-44fd-b17f-fd989849b20c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 719,
+  "coins": 520,
   "tier": 5,
-  "xp": 254850,
+  "xp": 266250,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104872,
+      "user_id": 21371506,
+      "platform_id": "yt",
+      "platform_user_id": "yuh uh",
+      "platform_user_url": "https://www.youtube.com/watch?v=nzkqfMtoBls",
+      "verified": false,
+      "created_at": "2025-05-21T00:09:40.000Z",
+      "updated_at": "2025-05-21T00:09:40.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21371506,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-13T00:45:05.000Z",
-    "updated_at": "2025-05-13T00:45:05.000Z",
+    "created_at": "2025-05-21T21:52:20.000Z",
+    "updated_at": "2025-05-21T21:52:21.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T18:19:20.116Z"
+  "archived_at": "2025-05-24T22:52:58.448Z"
 }
