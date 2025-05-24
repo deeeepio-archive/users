@@ -1,24 +1,24 @@
 {
   "id": 21182577,
   "username": "Chase123ope",
-  "description": "GG! You put up a good fight, but in the end, the deadliest predator in the ocean prevailed. Better luck next time! -asdf\n\nPUT UR HANDS BEHIND UR KNEES AND GET DOWN ON UR HEAD",
+  "description": "GG! You put up a good fight, but in the end, the deadliest predator in the ocean prevailed. Better luck next time!\n\nPUT UR HANDS BEHIND UR KNEES AND GET DOWN ON UR HEAD",
   "about": "I play roblox my username is \"chase123ope\". I am very interested in space travel and SpaceX.",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-11-24T18:01:26.000Z",
-  "date_last_played": "2025-04-12T20:25:06.000Z",
-  "profile_views": 597,
-  "kill_count": 934,
-  "play_count": 606,
+  "date_last_played": "2025-05-24T00:57:26.000Z",
+  "profile_views": 641,
+  "kill_count": 1001,
+  "play_count": 635,
   "highest_score": 1580102,
   "picture": "21182577-ae9d4e5ed78e89456f513c5dcebba368.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 614,
-  "tier": 4,
-  "xp": 233700,
+  "coins": 748,
+  "tier": 5,
+  "xp": 253800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -56,9 +56,13 @@
     "rank_hs": 105440,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-09-08T18:41:35.000Z",
-    "created_at": "2025-04-12T20:25:06.000Z",
-    "updated_at": "2025-04-12T20:25:06.000Z",
-    "pd": null
+    "created_at": "2025-05-24T00:57:25.000Z",
+    "updated_at": "2025-05-24T00:57:26.000Z",
+    "pd": {
+      "played": 28,
+      "won": 14,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -82,23 +86,23 @@
           "user": {
             "id": 21182577,
             "username": "Chase123ope",
-            "description": "GG! You put up a good fight, but in the end, the deadliest predator in the ocean prevailed. Better luck next time! -asdf\n\nPUT UR HANDS BEHIND UR KNEES AND GET DOWN ON UR HEAD",
+            "description": "GG! You put up a good fight, but in the end, the deadliest predator in the ocean prevailed. Better luck next time!\n\nPUT UR HANDS BEHIND UR KNEES AND GET DOWN ON UR HEAD",
             "about": "I play roblox my username is \"chase123ope\". I am very interested in space travel and SpaceX.",
             "team_id": null,
             "team_role": null,
             "date_created": "2022-11-24T18:01:26.000Z",
-            "date_last_played": "2025-04-12T20:25:06.000Z",
-            "kill_count": 934,
-            "play_count": 606,
+            "date_last_played": "2025-05-24T00:57:26.000Z",
+            "kill_count": 1001,
+            "play_count": 635,
             "highest_score": 1580102,
             "picture": "21182577-ae9d4e5ed78e89456f513c5dcebba368.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 614,
-            "tier": 4,
-            "xp": 233700,
+            "coins": 748,
+            "tier": 5,
+            "xp": 253800,
             "migrated": false,
             "verified": false,
             "beta": false
@@ -123,5 +127,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-13T21:30:19.489Z"
+  "archived_at": "2025-05-24T01:37:12.379Z"
 }
