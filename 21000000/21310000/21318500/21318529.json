@@ -1,24 +1,24 @@
 {
   "id": 21318529,
   "username": "harry2357",
-  "description": "???????????????????????????????????????????\n(번역:나 초본데 나한테 죽노 ㅋ 어쨌든 초밥은 감사~)",
+  "description": "죄송sorry",
   "about": "???",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-09-15T12:03:52.000Z",
-  "date_last_played": "2025-05-14T11:52:41.000Z",
-  "profile_views": 85,
-  "kill_count": 563,
-  "play_count": 933,
+  "date_last_played": "2025-05-24T13:53:21.000Z",
+  "profile_views": 135,
+  "kill_count": 732,
+  "play_count": 1039,
   "highest_score": 2341232,
   "picture": "21318529-62d0193547610ca5ad6fb10b64acf17e8-16dfce43-72ec-4702-ac21-7eaeb5854e4a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 223,
+  "coins": 82,
   "tier": 5,
-  "xp": 256650,
+  "xp": 310500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T11:52:40.000Z",
-    "updated_at": "2025-05-14T11:52:41.000Z",
-    "pd": null
+    "created_at": "2025-05-24T13:53:20.000Z",
+    "updated_at": "2025-05-24T13:53:21.000Z",
+    "pd": {
+      "played": 34,
+      "won": 18,
+      "ratio": 53
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T12:09:15.666Z"
+  "archived_at": "2025-05-24T16:54:11.468Z"
 }
