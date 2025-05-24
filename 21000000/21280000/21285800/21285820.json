@@ -1,24 +1,24 @@
 {
   "id": 21285820,
   "username": "💝kat💕",
-  "description": " òwó",
-  "about": "just a boi with purple squid\n\nтг: creatorofthekatness\n",
+  "description": "eat shark, become the fish",
+  "about": "shark\n\nname: <RED>hоrny sKATe💅\nтелега: creatorofthekatness\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-04-26T13:47:51.000Z",
-  "date_last_played": "2025-05-13T19:40:20.000Z",
-  "profile_views": 633,
-  "kill_count": 2505,
-  "play_count": 2544,
+  "date_last_played": "2025-05-24T13:09:57.000Z",
+  "profile_views": 712,
+  "kill_count": 2725,
+  "play_count": 2730,
   "highest_score": 7472384,
-  "picture": "21285820-0d9186c183d567388841711a78494d01-41dad8d4-5115-4191-ace4-ed7373c1eca5.png",
+  "picture": "21285820-bedaa13719c5fbedf5af9f8a3952969e-9fda97b4-6237-46e7-a0e6-97f7f20443b3.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 28,
-  "tier": 9,
-  "xp": 1099650,
+  "coins": 58,
+  "tier": 10,
+  "xp": 1251150,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,6 +33,16 @@
       "verified": false,
       "created_at": "2025-05-01T20:18:13.000Z",
       "updated_at": "2025-05-01T20:18:13.000Z"
+    },
+    {
+      "id": 104750,
+      "user_id": 21285820,
+      "platform_id": "rd",
+      "platform_user_id": "katnessboi",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-15T13:58:10.000Z",
+      "updated_at": "2025-05-15T13:58:10.000Z"
     }
   ],
   "user_stats": {
@@ -46,12 +56,12 @@
     "rank_hs": 236969,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-11-28T11:46:17.000Z",
-    "created_at": "2025-05-13T19:40:19.000Z",
-    "updated_at": "2025-05-13T19:40:20.000Z",
+    "created_at": "2025-05-24T13:09:56.000Z",
+    "updated_at": "2025-05-24T13:09:57.000Z",
     "pd": {
-      "played": 3,
+      "played": 2,
       "won": 1,
-      "ratio": 33
+      "ratio": 50
     }
   },
   "creations": {
@@ -61,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T08:20:04.364Z"
+  "archived_at": "2025-05-24T13:13:38.383Z"
 }
