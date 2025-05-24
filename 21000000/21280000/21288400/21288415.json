@@ -1,24 +1,24 @@
 {
   "id": 21288415,
-  "username": "황금잉어",
+  "username": "PDuser",
   "description": ".",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-05-04T10:27:43.000Z",
-  "date_last_played": "2025-05-10T16:21:18.000Z",
-  "profile_views": 162,
-  "kill_count": 1634,
-  "play_count": 670,
-  "highest_score": 3885051,
+  "date_last_played": "2025-05-24T12:12:45.000Z",
+  "profile_views": 185,
+  "kill_count": 1707,
+  "play_count": 695,
+  "highest_score": 5591035,
   "picture": "21288415-4a3e2f9d610182de06e4ebdf6a30c6efc.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 50,
+  "coins": 154,
   "tier": 6,
-  "xp": 469500,
+  "xp": 524850,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": 15449,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-09-27T10:32:30.000Z",
-    "created_at": "2025-05-10T16:21:18.000Z",
-    "updated_at": "2025-05-10T16:21:18.000Z",
+    "created_at": "2025-05-24T12:12:45.000Z",
+    "updated_at": "2025-05-24T12:12:45.000Z",
     "pd": {
-      "played": 1,
-      "won": 1,
-      "ratio": 100
+      "played": 6,
+      "won": 4,
+      "ratio": 67
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T08:38:31.548Z"
+  "archived_at": "2025-05-24T13:31:43.748Z"
 }
