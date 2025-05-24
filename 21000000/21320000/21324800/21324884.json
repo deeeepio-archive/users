@@ -1,15 +1,15 @@
 {
   "id": 21324884,
-  "username": "星火",
-  "description": "當世界拋棄你時,來找我,我一直都在  \n半退游了\n\n",
+  "username": "碎星",
+  "description": "當世界拋棄你時,來找我,我一直都在  \n\n\n",
   "about": "喜歡白色\n有時候我也叫：白色惡魔,碎星,松心\n別想加我社群\n\n\n\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-10-15T06:17:30.000Z",
-  "date_last_played": "2025-03-22T08:43:02.000Z",
-  "profile_views": 766,
-  "kill_count": 3162,
-  "play_count": 854,
+  "date_last_played": "2025-05-20T09:59:09.000Z",
+  "profile_views": 772,
+  "kill_count": 3164,
+  "play_count": 855,
   "highest_score": 5325894,
   "picture": "21324884-a9ee7931a101f79f93c48cd6fd3961eb2.png",
   "displayPicture": true,
@@ -35,9 +35,13 @@
     "rank_hs": 40120,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-15T10:25:58.000Z",
-    "created_at": "2025-03-22T08:43:02.000Z",
-    "updated_at": "2025-03-22T08:43:02.000Z",
-    "pd": null
+    "created_at": "2025-05-20T09:59:09.000Z",
+    "updated_at": "2025-05-20T09:59:09.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T12:54:29.775Z"
+  "archived_at": "2025-05-24T17:36:10.247Z"
 }
