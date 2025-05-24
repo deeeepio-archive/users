@@ -1,24 +1,24 @@
 {
   "id": 21345522,
   "username": "RedMouse",
-  "description": "okay",
+  "description": "December 27th",
   "about": "⠀⠀⠀⠀⣶⣄⠀⠀⠀⠀⠀⠀⢀⣶⡆⠀⠀⠀\n⠀⠀⠀⢸⣿⣿⡆⠀⠀⠀⠀⢀⣾⣿⡇⠀⠀⠀\n⠀⠀⠀⠘⣿⣿⣿⠀⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀\n⠀⠀⠀⠀⢿⣿⣿⣤⣤⣤⣤⣼⣿⡿⠃⠀⠀⠀\n⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀\n⠀⠀⢠⣿⡃⣦⢹⣿⣟⣙⣿⣿⠰⡀⣿⣇⠀⠀\n⠠⠬⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⡭⠤\n⠀⣼⣿⣿⣿⣿⠿⠛⠛⠛⠛⠻⢿⣿⣿⣿⣿⡀\n⢰⣿⣿⣿⠋⠀⠀⠀⢀⣀⠀⠀⠀⠉⢿⣿⣿⣧\n⢸⣿⣿⠃⠜⠛⠂⠀⠋⠉⠃⠐⠛⠻⠄⢿⣿⣿\n⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿\n⠘⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⡏\n⠀⠈⠻⠿⣤⣀⡀⠀⠀⠀⠀⠀⣀⣠⠾⠟⠋⠀",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-12-28T05:17:07.000Z",
-  "date_last_played": "2025-05-14T06:56:53.000Z",
-  "profile_views": 4627,
-  "kill_count": 19763,
-  "play_count": 8138,
+  "date_last_played": "2025-05-22T04:42:42.000Z",
+  "profile_views": 4714,
+  "kill_count": 20172,
+  "play_count": 8357,
   "highest_score": 16901358,
-  "picture": "21345522-610d777c10110c868218212d1c49eaec351-87c3b42a-a3bd-4bc4-b4db-a5d502497bf0.png",
+  "picture": "21345522-19942d13a45b0d102f5f1ed6310829cec7-8d7c4e39-180e-419a-aee5-e6405de48e2c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 21665,
+  "coins": 21196,
   "tier": 10,
-  "xp": 7104300,
+  "xp": 7298700,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,13 +35,9 @@
     "rank_hs": 3236,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-19T19:28:34.000Z",
-    "created_at": "2025-05-14T06:56:53.000Z",
-    "updated_at": "2025-05-14T06:56:53.000Z",
-    "pd": {
-      "played": 4,
-      "won": 2,
-      "ratio": 50
-    }
+    "created_at": "2025-05-22T04:42:41.000Z",
+    "updated_at": "2025-05-22T04:42:42.000Z",
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -50,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T15:19:01.345Z"
+  "archived_at": "2025-05-24T19:55:20.792Z"
 }
