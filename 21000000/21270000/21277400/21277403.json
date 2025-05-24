@@ -1,24 +1,24 @@
 {
   "id": 21277403,
   "username": "Protein",
-  "description": "언행은 그 사람의 전부를 보여줍니다.\n되돌아 볼 떄 나 자신이 부끄럽지 않은지 생각해 봅시다.\n여기서 열심히 키보드 두드려도 사람들에겐 그저 어린 아이처럼 보일 뿐,  애초에 정신적으로 성숙한 사람은 말을 자주 하지 않습니다.\n+ 씁... 신고 기능 좀 만들어주세요, 핵이 좀 많네요\n\n\n\n",
+  "description": "언행은 그 사람의 전부를 보여줍니다.\n나 자신을 대하는 것 처럼, 타인에게.",
   "about": "Tutel ~",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-03-25T01:21:13.000Z",
-  "date_last_played": "2025-04-01T15:09:11.000Z",
-  "profile_views": 2622,
-  "kill_count": 6150,
-  "play_count": 1255,
+  "date_last_played": "2025-05-18T14:02:55.000Z",
+  "profile_views": 2642,
+  "kill_count": 6156,
+  "play_count": 1257,
   "highest_score": 3530455,
   "picture": "21277403-6d1681be332d21df1bdc87745de2e151-8e584356-e6ee-49f8-a6c1-7543382ae461.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 181,
+  "coins": 192,
   "tier": 9,
-  "xp": 1083600,
+  "xp": 1085250,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 62770,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-17T08:24:03.000Z",
-    "created_at": "2025-04-01T15:09:11.000Z",
-    "updated_at": "2025-04-01T15:09:11.000Z",
-    "pd": null
+    "created_at": "2025-05-19T17:00:02.000Z",
+    "updated_at": "2025-05-19T17:00:03.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T07:23:52.232Z"
+  "archived_at": "2025-05-24T12:15:27.412Z"
 }
