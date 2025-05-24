@@ -6,33 +6,33 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-03-11T23:42:01.000Z",
-  "date_last_played": "2025-05-14T04:38:40.000Z",
-  "profile_views": 251,
+  "date_last_played": "2025-05-17T03:11:39.000Z",
+  "profile_views": 257,
   "kill_count": 444,
-  "play_count": 477,
+  "play_count": 487,
   "highest_score": 4611673,
-  "picture": "21358002-bf4e8d6295133498548c5e3b50101441-3e449b71-d95a-4830-9544-bd0ef5a11854.png",
+  "picture": "21358002-104e3c7310cfb0913f44610d5102c7c9b29a-53a56c0f-b617-47d9-9a20-0f82ab5329db.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 177,
+  "coins": 187,
   "tier": 4,
-  "xp": 166500,
+  "xp": 168000,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 101537,
+      "id": 104877,
       "user_id": 21358002,
       "platform_id": "dc",
-      "platform_user_id": "crys1092",
+      "platform_user_id": "cryssxzz",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2024-12-30T03:06:39.000Z",
-      "updated_at": "2024-12-30T03:06:39.000Z"
+      "created_at": "2025-05-21T01:03:50.000Z",
+      "updated_at": "2025-05-21T01:03:50.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T07:00:07.000Z",
-    "updated_at": "2025-05-14T07:00:08.000Z",
+    "created_at": "2025-05-17T03:11:39.000Z",
+    "updated_at": "2025-05-17T03:11:39.000Z",
     "pd": {
       "played": 1,
       "won": 1,
@@ -61,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T16:42:53.208Z"
+  "archived_at": "2025-05-24T21:18:55.646Z"
 }
