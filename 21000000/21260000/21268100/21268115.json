@@ -1,29 +1,40 @@
 {
   "id": 21268115,
-  "username": "beastii",
-  "description": "you did well.",
-  "about": "im decent",
+  "username": "Nightreign",
+  "description": "",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-02-13T02:31:09.000Z",
-  "date_last_played": "2025-01-03T21:46:33.000Z",
-  "profile_views": 45,
-  "kill_count": 383,
-  "play_count": 311,
+  "date_last_played": "2025-05-23T17:25:45.000Z",
+  "profile_views": 67,
+  "kill_count": 430,
+  "play_count": 384,
   "highest_score": 1432438,
-  "picture": "21268115-78540fc72e8a9babfac1cbe10387f9166-2263b30d-a365-4a44-b5b1-dc1bf4ea44f7.png",
+  "picture": "21268115-93d4dfd10d607a979ad27bbfd250c39e7-c35cc5af-76d2-48b8-ae1b-b408e4af0265.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 28,
-  "tier": 2,
-  "xp": 60450,
+  "coins": 160,
+  "tier": 3,
+  "xp": 81750,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104785,
+      "user_id": 21268115,
+      "platform_id": "dc",
+      "platform_user_id": "nonchalantpinetree",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-17T23:01:03.000Z",
+      "updated_at": "2025-05-17T23:01:03.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21268115,
     "rank_kc": 50961,
@@ -35,8 +46,8 @@
     "rank_hs": 59624,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-07-22T01:58:44.000Z",
-    "created_at": "2025-01-03T21:46:32.000Z",
-    "updated_at": "2025-01-03T21:46:33.000Z",
+    "created_at": "2025-05-23T17:30:30.000Z",
+    "updated_at": "2025-05-23T17:30:30.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T06:22:18.777Z"
+  "archived_at": "2025-05-24T11:10:48.011Z"
 }
