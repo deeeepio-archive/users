@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-01-03T22:35:01.000Z",
-  "date_last_played": "2025-05-07T14:17:01.000Z",
-  "profile_views": 148,
+  "date_last_played": "2025-05-23T13:22:37.000Z",
+  "profile_views": 157,
   "kill_count": 351,
-  "play_count": 206,
+  "play_count": 207,
   "highest_score": 797541,
   "picture": "21346556-f25c42182d2d33fdf71984c743c67985.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 164,
+  "coins": 165,
   "tier": 3,
-  "xp": 79350,
+  "xp": 79500,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104944,
+      "user_id": 21346556,
+      "platform_id": "dc",
+      "platform_user_id": "Vaseline_eater.",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-23T13:05:56.000Z",
+      "updated_at": "2025-05-23T13:05:56.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21346556,
     "rank_kc": 159697,
@@ -35,8 +46,8 @@
     "rank_hs": 214473,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-17T13:49:08.000Z",
-    "created_at": "2025-05-07T14:17:01.000Z",
-    "updated_at": "2025-05-07T14:17:01.000Z",
+    "created_at": "2025-05-23T16:00:05.000Z",
+    "updated_at": "2025-05-23T16:00:06.000Z",
     "pd": {
       "played": 2,
       "won": 1,
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T15:25:06.254Z"
+  "archived_at": "2025-05-24T20:01:35.561Z"
 }
