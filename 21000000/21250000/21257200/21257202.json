@@ -1,24 +1,24 @@
 {
   "id": 21257202,
   "username": "ziggy1",
-  "description": "imagine dying to anaconda and sunfish main\nhttps://discord.com/channels/1249124425442267187/1249124425442267190\n\n\n \nhttps://discord.gg/XUtpRe6SVv Hey! Join this if you want me to stop killing you. And maybe we can do raids together. ",
+  "description": "highest scores:\nsunfish: 5.001 mil\ngiant pacific octopus: 4.205 mil\nanaconda: 2.632 mil\noctopus: 1.072 mil\n",
   "about": "\n⠀my names (ghost) for most things.",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-01-20T15:45:09.000Z",
-  "date_last_played": "2025-05-13T20:57:50.000Z",
-  "profile_views": 224,
-  "kill_count": 1238,
-  "play_count": 1594,
+  "date_last_played": "2025-05-23T19:07:50.000Z",
+  "profile_views": 246,
+  "kill_count": 1546,
+  "play_count": 1754,
   "highest_score": 5001268,
   "picture": "21257202-2e1510e6cad436b14b5ff6b534f5f925e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 104,
-  "tier": 5,
-  "xp": 360150,
+  "coins": 8,
+  "tier": 6,
+  "xp": 447750,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,6 +33,16 @@
       "verified": false,
       "created_at": "2023-03-09T03:41:40.000Z",
       "updated_at": "2023-04-04T04:49:07.000Z"
+    },
+    {
+      "id": 104906,
+      "user_id": 21257202,
+      "platform_id": "dc",
+      "platform_user_id": "ghost085086",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-22T17:33:15.000Z",
+      "updated_at": "2025-05-22T17:33:15.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +56,8 @@
     "rank_hs": 8079,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-09-24T00:03:09.000Z",
-    "created_at": "2025-05-13T20:57:50.000Z",
-    "updated_at": "2025-05-13T20:57:50.000Z",
+    "created_at": "2025-05-23T19:07:50.000Z",
+    "updated_at": "2025-05-23T19:07:50.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T05:15:21.820Z"
+  "archived_at": "2025-05-24T09:57:04.098Z"
 }
