@@ -2,28 +2,38 @@
   "id": 21315154,
   "username": "______P",
   "description": "",
-  "about": "https://www.instagram.com/reel/DIqZm_HuL_m/?utm_source=ig_web_copy_link",
+  "about": "几乎在PD没怎么认真玩  和垃圾队友一起摆烂",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-08-30T17:40:47.000Z",
-  "date_last_played": "2025-05-14T11:35:51.000Z",
-  "profile_views": 13036,
-  "kill_count": 9049,
-  "play_count": 3254,
+  "date_last_played": "2025-05-24T05:19:05.000Z",
+  "profile_views": 13524,
+  "kill_count": 9296,
+  "play_count": 3317,
   "highest_score": 16104562,
-  "picture": "21315154-1954aab10e1c839e58d6ba2ba259c1aea-64bbcd1f-aae7-4fc4-aa7c-e8516446f1c9.png",
+  "picture": "21315154-33ac78b4d2c1a3dd2688ec360d715c103-00de8c44-d0f9-4151-a3b6-ca7d6961a8fa.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2552,
+  "coins": 2582,
   "tier": 10,
-  "xp": 2244150,
+  "xp": 2323650,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
+    {
+      "id": 104732,
+      "user_id": 21315154,
+      "platform_id": "dc",
+      "platform_user_id": "⠁?小〫可爱〫¿่่่่ؑؑؑؑ⠐ ้ؑؑ",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-14T16:26:08.000Z",
+      "updated_at": "2025-05-20T13:24:44.000Z"
+    },
     {
       "id": 104442,
       "user_id": 21315154,
@@ -43,16 +53,6 @@
       "verified": false,
       "created_at": "2025-05-08T12:05:33.000Z",
       "updated_at": "2025-05-08T12:05:33.000Z"
-    },
-    {
-      "id": 104488,
-      "user_id": 21315154,
-      "platform_id": "dc",
-      "platform_user_id": "fuc.k JS",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-05-08T02:58:26.000Z",
-      "updated_at": "2025-05-08T02:58:26.000Z"
     },
     {
       "id": 103599,
@@ -86,12 +86,12 @@
     "rank_hs": 64143,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-11-05T10:45:51.000Z",
-    "created_at": "2025-05-14T11:35:51.000Z",
-    "updated_at": "2025-05-14T11:35:51.000Z",
+    "created_at": "2025-05-24T05:19:05.000Z",
+    "updated_at": "2025-05-24T05:19:05.000Z",
     "pd": {
-      "played": 176,
-      "won": 83,
-      "ratio": 47
+      "played": 157,
+      "won": 80,
+      "ratio": 51
     }
   },
   "creations": {
@@ -101,5 +101,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T11:44:25.700Z"
+  "archived_at": "2025-05-24T16:31:34.828Z"
 }
