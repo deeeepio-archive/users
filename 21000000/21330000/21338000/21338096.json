@@ -1,40 +1,29 @@
 {
   "id": 21338096,
-  "username": "MiIky",
+  "username": "decemberowo",
   "description": ":3",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2023-12-01T04:03:30.000Z",
-  "date_last_played": "2023-12-04T12:30:28.000Z",
-  "profile_views": 5,
-  "kill_count": 20,
-  "play_count": 33,
-  "highest_score": 600844,
+  "date_last_played": "2025-05-24T02:43:15.000Z",
+  "profile_views": 8,
+  "kill_count": 31,
+  "play_count": 58,
+  "highest_score": 853826,
   "picture": "21338096-3e623cc5f5b41024cdb49d8bf19a7854f.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 53,
+  "coins": 12,
   "tier": 1,
-  "xp": 6450,
+  "xp": 12300,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 30299,
-      "user_id": 21338096,
-      "platform_id": "dc",
-      "platform_user_id": "milksupremacy1",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2023-12-03T07:59:48.000Z",
-      "updated_at": "2023-12-03T07:59:48.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 21338096,
     "rank_kc": null,
@@ -46,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T05:37:31.000Z",
-    "updated_at": "2025-04-28T05:37:31.000Z",
+    "created_at": "2025-05-24T02:43:15.000Z",
+    "updated_at": "2025-05-24T02:43:15.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T14:27:21.111Z"
+  "archived_at": "2025-05-24T19:06:22.377Z"
 }
