@@ -1,13 +1,13 @@
 {
   "id": 21304156,
   "username": "Gxdly_alt",
-  "description": "subscribe to @gxdlydeeeepio on youtube",
+  "description": "999",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-07-06T02:53:33.000Z",
   "date_last_played": "2024-03-22T10:32:29.000Z",
-  "profile_views": 64,
+  "profile_views": 66,
   "kill_count": 129,
   "play_count": 25,
   "highest_score": 1546665,
@@ -23,7 +23,18 @@
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104936,
+      "user_id": 21304156,
+      "platform_id": "dc",
+      "platform_user_id": "im.designated",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-23T10:48:15.000Z",
+      "updated_at": "2025-05-23T10:48:15.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21304156,
     "rank_kc": null,
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T10:26:52.152Z"
+  "archived_at": "2025-05-24T15:18:06.707Z"
 }
