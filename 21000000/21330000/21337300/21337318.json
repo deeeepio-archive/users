@@ -1,24 +1,24 @@
 {
   "id": 21337318,
   "username": "Anti-Timo",
-  "description": "There are only two things guaranteed in life, death and taxes. And you're out of money. ",
+  "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2023-11-27T19:36:51.000Z",
-  "date_last_played": "2025-05-13T18:45:21.000Z",
-  "profile_views": 42,
-  "kill_count": 343,
-  "play_count": 694,
-  "highest_score": 1540983,
+  "date_last_played": "2025-05-22T21:31:24.000Z",
+  "profile_views": 54,
+  "kill_count": 405,
+  "play_count": 731,
+  "highest_score": 2094306,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 166,
-  "tier": 3,
-  "xp": 147900,
+  "coins": 189,
+  "tier": 4,
+  "xp": 181350,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-13T18:45:21.000Z",
-    "updated_at": "2025-05-13T18:45:21.000Z",
-    "pd": null
+    "created_at": "2025-05-22T21:31:24.000Z",
+    "updated_at": "2025-05-22T21:31:24.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T14:22:05.742Z"
+  "archived_at": "2025-05-24T19:00:37.594Z"
 }
