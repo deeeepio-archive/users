@@ -2,23 +2,23 @@
   "id": 21327207,
   "username": "おすぐっど",
   "description": "👍",
-  "about": "@最&強",
+  "about": "@最&強\nなんでPDって不人気なん",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-10-26T05:34:49.000Z",
-  "date_last_played": "2025-04-20T07:26:49.000Z",
-  "profile_views": 2390,
-  "kill_count": 2476,
-  "play_count": 784,
+  "date_last_played": "2025-05-18T13:09:22.000Z",
+  "profile_views": 2403,
+  "kill_count": 2486,
+  "play_count": 786,
   "highest_score": 5074501,
-  "picture": "21327207-5f96e60d10e31ddb68108a77fe8b115246-2cc68808-cf6c-4e28-ad59-83b3bd096e7e.png",
+  "picture": "21327207-655994fb2c863c8e7b53f237cf8f52b7-53335687-9590-473f-96fd-b3b44840efe9.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 852,
+  "coins": 862,
   "tier": 6,
-  "xp": 514950,
+  "xp": 516450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 14164,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-18T04:23:27.000Z",
-    "created_at": "2025-04-20T07:26:49.000Z",
-    "updated_at": "2025-04-20T07:26:49.000Z",
-    "pd": null
+    "created_at": "2025-05-18T13:09:21.000Z",
+    "updated_at": "2025-05-18T13:09:22.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T13:11:14.085Z"
+  "archived_at": "2025-05-24T17:52:05.738Z"
 }
