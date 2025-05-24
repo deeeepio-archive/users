@@ -6,55 +6,24 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-02-09T00:16:31.000Z",
-  "date_last_played": "2025-05-09T20:10:20.000Z",
-  "profile_views": 1267,
-  "kill_count": 1333,
-  "play_count": 441,
+  "date_last_played": "2025-05-20T16:40:34.000Z",
+  "profile_views": 1281,
+  "kill_count": 1350,
+  "play_count": 447,
   "highest_score": 2014604,
   "picture": "21352061-d27d1a05ec8e9d63c951059ff267f8533-e73b4c21-0d00-4cdc-b31e-28e63f48695f.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 523,
+  "coins": 104,
   "tier": 5,
-  "xp": 250500,
+  "xp": 255150,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 104552,
-      "user_id": 21352061,
-      "platform_id": "yt",
-      "platform_user_id": "GFS",
-      "platform_user_url": "https://youtu.be/b0TiAgk3fjU?si=T3dnuVaWqZJsLChV",
-      "verified": false,
-      "created_at": "2025-05-10T00:01:00.000Z",
-      "updated_at": "2025-05-10T00:01:00.000Z"
-    },
-    {
-      "id": 104554,
-      "user_id": 21352061,
-      "platform_id": "yt",
-      "platform_user_id": "Wels",
-      "platform_user_url": "https://youtu.be/ZxEfnyOjkuc?si=EleyEocBDSP_eO6m",
-      "verified": false,
-      "created_at": "2025-05-10T00:01:58.000Z",
-      "updated_at": "2025-05-10T00:01:58.000Z"
-    },
-    {
-      "id": 104553,
-      "user_id": 21352061,
-      "platform_id": "yt",
-      "platform_user_id": "Wels 1v1",
-      "platform_user_url": "https://youtu.be/-BtfvPSmNls?si=S1kta2cGw4EpsAxK",
-      "verified": false,
-      "created_at": "2025-05-10T00:01:43.000Z",
-      "updated_at": "2025-05-10T00:01:43.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 21352061,
     "rank_kc": null,
@@ -66,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-09T20:10:20.000Z",
-    "updated_at": "2025-05-09T20:10:20.000Z",
+    "created_at": "2025-05-20T16:40:33.000Z",
+    "updated_at": "2025-05-20T16:40:34.000Z",
     "pd": {
-      "played": 5,
+      "played": 6,
       "won": 4,
-      "ratio": 80
+      "ratio": 67
     }
   },
   "creations": {
@@ -81,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T16:02:16.135Z"
+  "archived_at": "2025-05-24T20:39:13.431Z"
 }
