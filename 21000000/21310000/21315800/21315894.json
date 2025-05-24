@@ -6,65 +6,24 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2023-09-03T03:33:18.000Z",
-  "date_last_played": "2025-05-13T19:34:19.000Z",
-  "profile_views": 1474,
-  "kill_count": 2619,
-  "play_count": 627,
+  "date_last_played": "2025-05-20T14:42:02.000Z",
+  "profile_views": 1487,
+  "kill_count": 2686,
+  "play_count": 640,
   "highest_score": 341518,
   "picture": "21315894-a2e2447d6b99aacd3d6660f894aefc26-3f683286-7a41-4ca2-a598-43f9b263f596.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 483,
+  "coins": 368,
   "tier": 6,
-  "xp": 446400,
+  "xp": 451650,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 94406,
-      "user_id": 21315894,
-      "platform_id": "dc",
-      "platform_user_id": "menacingly_sweet",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2024-05-04T01:48:25.000Z",
-      "updated_at": "2025-02-05T21:05:11.000Z"
-    },
-    {
-      "id": 100422,
-      "user_id": 21315894,
-      "platform_id": "ig",
-      "platform_user_id": "sw33t.m3nac3",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2024-11-20T16:29:09.000Z",
-      "updated_at": "2024-11-20T16:29:09.000Z"
-    },
-    {
-      "id": 101351,
-      "user_id": 21315894,
-      "platform_id": "yt",
-      "platform_user_id": "Please listen to this :)",
-      "platform_user_url": "https://youtu.be/fUn1Ucz20jc?si=5LdtklJpgYjTImqN",
-      "verified": false,
-      "created_at": "2024-12-23T05:00:24.000Z",
-      "updated_at": "2024-12-23T05:00:24.000Z"
-    },
-    {
-      "id": 101350,
-      "user_id": 21315894,
-      "platform_id": "yt",
-      "platform_user_id": "YT Channel",
-      "platform_user_url": "https://www.youtube.com/@nightglow1286/featured",
-      "verified": false,
-      "created_at": "2024-12-23T04:59:31.000Z",
-      "updated_at": "2024-12-23T04:59:31.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 21315894,
     "rank_kc": 90675,
@@ -76,12 +35,12 @@
     "rank_hs": 604116,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-04T20:34:16.000Z",
-    "created_at": "2025-05-13T19:34:18.000Z",
-    "updated_at": "2025-05-13T19:34:19.000Z",
+    "created_at": "2025-05-20T14:42:01.000Z",
+    "updated_at": "2025-05-20T14:42:02.000Z",
     "pd": {
-      "played": 66,
-      "won": 37,
-      "ratio": 56
+      "played": 53,
+      "won": 29,
+      "ratio": 55
     }
   },
   "creations": {
@@ -91,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T11:48:17.126Z"
+  "archived_at": "2025-05-24T16:36:19.343Z"
 }
