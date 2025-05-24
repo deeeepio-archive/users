@@ -1,24 +1,24 @@
 {
   "id": 21348844,
-  "username": "Otodus",
+  "username": "Stuk",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-01-16T20:45:10.000Z",
-  "date_last_played": "2025-05-11T22:35:47.000Z",
-  "profile_views": 32,
-  "kill_count": 1332,
-  "play_count": 745,
-  "highest_score": 2523028,
+  "date_last_played": "2025-05-21T17:30:26.000Z",
+  "profile_views": 42,
+  "kill_count": 1482,
+  "play_count": 796,
+  "highest_score": 4106793,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 505,
-  "tier": 5,
-  "xp": 349500,
+  "coins": 387,
+  "tier": 6,
+  "xp": 394050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-11T22:35:46.000Z",
-    "updated_at": "2025-05-11T22:35:47.000Z",
+    "created_at": "2025-05-21T17:30:26.000Z",
+    "updated_at": "2025-05-21T17:30:26.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T15:40:45.896Z"
+  "archived_at": "2025-05-24T20:17:42.848Z"
 }
