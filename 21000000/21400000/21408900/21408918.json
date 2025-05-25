@@ -1,29 +1,60 @@
 {
   "id": 21408918,
   "username": "JS-someone",
-  "description": null,
-  "about": null,
+  "description": "𝙄'𝙢 𝙖 𝙢𝙚𝙢𝙗𝙚𝙧 𝙤𝙛 𝙅𝙎 「𝙅𝙖𝙥𝙖𝙣 𝙎𝙚𝙖」\n𝙗𝙪𝙩 𝙪𝙣𝙞𝙙𝙚𝙣𝙩𝙞𝙛𝙞𝙚𝙙.\n𝙇𝙤𝙣𝙜 𝙡𝙞𝙫𝙚 𝙅𝙎!\n𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳𝙅𝙎万歳",
+  "about": "JS-someone\n𝑨𝒏𝒐𝒏𝒚𝒎𝒐𝒖𝒔",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-05-05T05:29:05.000Z",
-  "date_last_played": "2025-05-14T10:09:04.000Z",
-  "profile_views": 30,
-  "kill_count": 67,
-  "play_count": 29,
-  "highest_score": 6403535,
-  "picture": null,
+  "date_last_played": "2025-05-22T06:14:24.000Z",
+  "profile_views": 247,
+  "kill_count": 288,
+  "play_count": 57,
+  "highest_score": 10039867,
+  "picture": "21408918-effa8e49ba72e6b7761bb5e7e10596098-37cfdb0f-4f3a-487d-8310-23f99b82551e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 358,
-  "tier": 2,
-  "xp": 68700,
+  "coins": 370,
+  "tier": 4,
+  "xp": 162750,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104743,
+      "user_id": 21408918,
+      "platform_id": "dc",
+      "platform_user_id": "𝑨𝒏𝒐𝒏𝒚𝒎𝒐𝒖𝒔",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-15T09:39:17.000Z",
+      "updated_at": "2025-05-15T09:39:17.000Z"
+    },
+    {
+      "id": 104748,
+      "user_id": 21408918,
+      "platform_id": "dc",
+      "platform_user_id": "JS-someone",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-15T09:40:05.000Z",
+      "updated_at": "2025-05-15T09:40:05.000Z"
+    },
+    {
+      "id": 104744,
+      "user_id": 21408918,
+      "platform_id": "ig",
+      "platform_user_id": "𝑨𝒏𝒐𝒏𝒚𝒎𝒐𝒖𝒔",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-15T09:39:32.000Z",
+      "updated_at": "2025-05-15T09:39:32.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21408918,
     "rank_kc": null,
@@ -35,8 +66,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T10:09:03.000Z",
-    "updated_at": "2025-05-14T10:09:04.000Z",
+    "created_at": "2025-05-22T06:14:23.000Z",
+    "updated_at": "2025-05-22T06:14:24.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +77,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:47:06.663Z"
+  "archived_at": "2025-05-25T03:14:04.871Z"
 }
