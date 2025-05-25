@@ -1,24 +1,24 @@
 {
   "id": 21403511,
   "username": "ФИСТАШКА",
-  "description": null,
+  "description": "sorry",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-08T11:18:44.000Z",
-  "date_last_played": "2025-05-14T10:56:10.000Z",
-  "profile_views": 5,
-  "kill_count": 144,
-  "play_count": 131,
-  "highest_score": 1285409,
-  "picture": null,
+  "date_last_played": "2025-05-24T19:55:11.000Z",
+  "profile_views": 24,
+  "kill_count": 722,
+  "play_count": 558,
+  "highest_score": 2173647,
+  "picture": "21403511-fea257b426105c1ac87bd79a181b3dca5-33540e48-9c30-4725-94b0-f3612885dd67.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 191,
-  "tier": 2,
-  "xp": 46650,
+  "coins": 99,
+  "tier": 4,
+  "xp": 241350,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T10:56:09.000Z",
-    "updated_at": "2025-05-14T10:56:10.000Z",
+    "created_at": "2025-05-24T19:55:10.000Z",
+    "updated_at": "2025-05-24T19:55:11.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:03:34.485Z"
+  "archived_at": "2025-05-25T02:35:59.795Z"
 }
