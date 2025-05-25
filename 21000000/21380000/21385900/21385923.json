@@ -2,23 +2,23 @@
   "id": 21385923,
   "username": "BadPDPlayer",
   "description": "💀\n",
-  "about": "I like to play random animals and see how it turns out\n",
+  "about": "I like to play random animals and see how it turns out",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-17T20:23:19.000Z",
-  "date_last_played": "2025-04-03T23:23:04.000Z",
-  "profile_views": 208,
-  "kill_count": 390,
-  "play_count": 388,
-  "highest_score": 718592,
+  "date_last_played": "2025-05-22T22:57:19.000Z",
+  "profile_views": 254,
+  "kill_count": 519,
+  "play_count": 473,
+  "highest_score": 943958,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 281,
-  "tier": 3,
-  "xp": 126150,
+  "coins": 539,
+  "tier": 4,
+  "xp": 164850,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-03T23:23:04.000Z",
-    "updated_at": "2025-04-03T23:23:04.000Z",
-    "pd": null
+    "created_at": "2025-05-22T22:57:19.000Z",
+    "updated_at": "2025-05-22T22:57:19.000Z",
+    "pd": {
+      "played": 64,
+      "won": 22,
+      "ratio": 34
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T19:53:20.121Z"
+  "archived_at": "2025-05-25T00:34:02.879Z"
 }
