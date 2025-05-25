@@ -1,24 +1,24 @@
 {
   "id": 21402708,
-  "username": "The_black_cat",
+  "username": "The_cat",
   "description": "Sorry, it's for coins.",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-01T15:07:02.000Z",
-  "date_last_played": "2025-05-10T14:54:15.000Z",
-  "profile_views": 32,
-  "kill_count": 73,
-  "play_count": 301,
-  "highest_score": 617459,
-  "picture": null,
+  "date_last_played": "2025-05-17T12:07:29.000Z",
+  "profile_views": 36,
+  "kill_count": 75,
+  "play_count": 311,
+  "highest_score": 1362265,
+  "picture": "21402708-cfcf8c25dada428d2c6aee1569fb058e-8ebc11ca-02c8-4744-a3f3-81d5e9a1edfc.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 93,
-  "tier": 1,
-  "xp": 21900,
+  "coins": 121,
+  "tier": 2,
+  "xp": 26850,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-10T14:54:14.000Z",
-    "updated_at": "2025-05-10T14:54:15.000Z",
+    "created_at": "2025-05-17T12:07:29.000Z",
+    "updated_at": "2025-05-17T12:07:29.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T21:52:44.087Z"
+  "archived_at": "2025-05-25T02:30:24.027Z"
 }
