@@ -1,38 +1,58 @@
 {
   "id": 21381433,
-  "username": "bố_chuột",
-  "description": "bố chuột",
-  "about": "",
+  "username": "jack_Hartmann_KidsMusic",
+  "description": "jack Hartmann Kids Music",
+  "about": " All of Jack’s songs and videos engage children with not only great educational content, but with cool beats kids love and fun movements.",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-09-11T10:44:33.000Z",
-  "date_last_played": "2025-05-14T15:03:00.000Z",
-  "profile_views": 444,
-  "kill_count": 1796,
-  "play_count": 741,
+  "date_last_played": "2025-05-24T10:55:49.000Z",
+  "profile_views": 484,
+  "kill_count": 1880,
+  "play_count": 790,
   "highest_score": 4277120,
-  "picture": "21381433-136f3ef46f0dbe4f1463e2a66f214852-de2c08d5-9ce2-489b-b74d-af4f8b5a23d4.png",
+  "picture": "21381433-1bfaab1e9eafce9cab9210ccf3e845e8c-a3de9162-ca0d-4b62-894c-20ce00cb332c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 200,
+  "coins": 176,
   "tier": 6,
-  "xp": 445050,
+  "xp": 478950,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 104674,
+      "id": 104960,
+      "user_id": 21381433,
+      "platform_id": "fb",
+      "platform_user_id": "Jack Hartmann Kids Music Channel",
+      "platform_user_url": "https://www.facebook.com/hop2itmusic/",
+      "verified": false,
+      "created_at": "2025-05-24T05:23:39.000Z",
+      "updated_at": "2025-05-24T05:23:39.000Z"
+    },
+    {
+      "id": 104959,
+      "user_id": 21381433,
+      "platform_id": "tw",
+      "platform_user_id": "https://x.com/Jack_Hartmann",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-24T05:22:34.000Z",
+      "updated_at": "2025-05-24T05:22:34.000Z"
+    },
+    {
+      "id": 104961,
       "user_id": 21381433,
       "platform_id": "yt",
-      "platform_user_id": "bố chuột",
-      "platform_user_url": "https://www.youtube.com/watch?v=FVYElnhmsKY&list=RDFVYElnhmsKY&start_radio=1",
+      "platform_user_id": "https://www.youtube.com/watch?v=ea4TVg0_8Dk",
+      "platform_user_url": "https://www.youtube.com/watch?v=ea4TVg0_8Dk",
       "verified": false,
-      "created_at": "2025-05-13T14:18:41.000Z",
-      "updated_at": "2025-05-13T14:18:41.000Z"
+      "created_at": "2025-05-24T05:25:25.000Z",
+      "updated_at": "2025-05-24T05:25:25.000Z"
     }
   ],
   "user_stats": {
@@ -46,13 +66,9 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T18:00:04.000Z",
-    "updated_at": "2025-05-14T18:00:04.000Z",
-    "pd": {
-      "played": 8,
-      "won": 6,
-      "ratio": 75
-    }
+    "created_at": "2025-05-24T12:00:02.000Z",
+    "updated_at": "2025-05-24T12:00:03.000Z",
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -61,5 +77,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T19:24:24.224Z"
+  "archived_at": "2025-05-25T00:03:05.119Z"
 }

@@ -6,12 +6,12 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-09-11T13:37:47.000Z",
-  "date_last_played": "2025-05-11T18:15:10.000Z",
-  "profile_views": 1369,
+  "date_last_played": "2025-05-17T17:21:06.000Z",
+  "profile_views": 1373,
   "kill_count": 1614,
-  "play_count": 2483,
+  "play_count": 2484,
   "highest_score": 5410735,
-  "picture": "21381451-738ce183e97dc6afa1cd789953ae1085d-2a5ba320-35cd-4955-b1c7-833d28df58f0.png",
+  "picture": "21381451-0298c78fbbb633c527a32ff6ca58e72b-155efeec-76b2-48dc-84b2-ba2794c03250.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
@@ -56,8 +56,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-11T18:15:09.000Z",
-    "updated_at": "2025-05-11T18:15:10.000Z",
+    "created_at": "2025-05-17T17:21:06.000Z",
+    "updated_at": "2025-05-17T17:21:06.000Z",
     "pd": null
   },
   "creations": {
@@ -87,11 +87,11 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2024-09-11T13:37:47.000Z",
-            "date_last_played": "2025-05-11T18:15:10.000Z",
+            "date_last_played": "2025-05-17T17:21:06.000Z",
             "kill_count": 1614,
-            "play_count": 2483,
+            "play_count": 2484,
             "highest_score": 5410735,
-            "picture": "21381451-738ce183e97dc6afa1cd789953ae1085d-2a5ba320-35cd-4955-b1c7-833d28df58f0.png",
+            "picture": "21381451-0298c78fbbb633c527a32ff6ca58e72b-155efeec-76b2-48dc-84b2-ba2794c03250.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
@@ -114,5 +114,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T19:24:26.121Z"
+  "archived_at": "2025-05-25T00:03:07.002Z"
 }
