@@ -1,24 +1,24 @@
 {
   "id": 21406689,
   "username": "허니버터칩",
-  "description": "범고",
+  "description": "범고를 찬양해라!",
   "about": "ㅎ헿\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-03T08:02:43.000Z",
-  "date_last_played": "2025-05-13T12:09:17.000Z",
-  "profile_views": 157,
-  "kill_count": 355,
-  "play_count": 151,
-  "highest_score": 3305700,
+  "date_last_played": "2025-05-25T02:28:13.000Z",
+  "profile_views": 242,
+  "kill_count": 659,
+  "play_count": 307,
+  "highest_score": 4086015,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 54,
-  "tier": 3,
-  "xp": 91350,
+  "coins": 277,
+  "tier": 4,
+  "xp": 177300,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-13T14:00:02.000Z",
-    "updated_at": "2025-05-13T14:00:02.000Z",
+    "created_at": "2025-05-25T02:33:35.000Z",
+    "updated_at": "2025-05-25T02:33:35.000Z",
     "pd": {
-      "played": 7,
-      "won": 2,
-      "ratio": 29
+      "played": 5,
+      "won": 5,
+      "ratio": 100
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:25:44.260Z"
+  "archived_at": "2025-05-25T02:57:32.351Z"
 }
