@@ -1,24 +1,24 @@
 {
   "id": 21391964,
   "username": "Elseñordelostanques",
-  "description": "",
-  "about": "",
+  "description": "Buenas tardes",
+  "about": "hola chikoz soy el experto en tankes!!!",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-11-30T21:48:31.000Z",
-  "date_last_played": "2025-05-07T02:22:05.000Z",
-  "profile_views": 248,
-  "kill_count": 619,
-  "play_count": 279,
+  "date_last_played": "2025-05-24T03:50:42.000Z",
+  "profile_views": 290,
+  "kill_count": 690,
+  "play_count": 332,
   "highest_score": 4344608,
   "picture": "21391964-bba99ead9f5854ae197b6f9069d7318d-21ca0e77-448a-424c-b7fe-f93f760f9d7a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 383,
+  "coins": 532,
   "tier": 4,
-  "xp": 202950,
+  "xp": 225300,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-07T02:22:04.000Z",
-    "updated_at": "2025-05-07T02:22:05.000Z",
-    "pd": null
+    "created_at": "2025-05-24T03:50:41.000Z",
+    "updated_at": "2025-05-24T03:50:42.000Z",
+    "pd": {
+      "played": 8,
+      "won": 3,
+      "ratio": 38
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T20:33:04.561Z"
+  "archived_at": "2025-05-25T01:16:39.733Z"
 }
