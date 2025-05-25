@@ -1,0 +1,54 @@
+{
+  "id": 21410433,
+  "username": "kie",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-05-21T11:25:37.000Z",
+  "date_last_played": "2025-05-23T10:58:43.000Z",
+  "profile_views": 29,
+  "kill_count": 23,
+  "play_count": 17,
+  "highest_score": 238479,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 74,
+  "tier": 1,
+  "xp": 9600,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [],
+  "user_stats": {
+    "user_id": 21410433,
+    "rank_kc": null,
+    "rank_kc_dirty": true,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_dirty": true,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_dirty": true,
+    "rank_hs_updated_at": null,
+    "created_at": "2025-05-23T10:58:42.000Z",
+    "updated_at": "2025-05-23T10:58:43.000Z",
+    "pd": {
+      "played": 12,
+      "won": 7,
+      "ratio": 58
+    }
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-05-25T03:23:56.779Z"
+}
