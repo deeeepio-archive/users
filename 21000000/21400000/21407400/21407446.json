@@ -1,29 +1,40 @@
 {
   "id": 21407446,
-  "username": "Wasaaaaaa",
-  "description": null,
+  "username": "✵Northstar✵",
+  "description": "You have been banished by the northstar no idea how though because I’m not that good. ",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-18T15:24:00.000Z",
-  "date_last_played": "2025-05-07T03:18:02.000Z",
-  "profile_views": 8,
-  "kill_count": 3,
-  "play_count": 1,
-  "highest_score": 0,
+  "date_last_played": "2025-05-19T02:23:44.000Z",
+  "profile_views": 30,
+  "kill_count": 18,
+  "play_count": 7,
+  "highest_score": 2450,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 12,
+  "coins": 21,
   "tier": 1,
-  "xp": 300,
+  "xp": 1650,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104756,
+      "user_id": 21407446,
+      "platform_id": "yt",
+      "platform_user_id": "Phantom_boy82",
+      "platform_user_url": "http://www.youtube.com/@Phantom_boy82",
+      "verified": false,
+      "created_at": "2025-05-16T02:06:48.000Z",
+      "updated_at": "2025-05-16T02:06:48.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21407446,
     "rank_kc": null,
@@ -35,12 +46,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-07T03:18:02.000Z",
-    "updated_at": "2025-05-07T03:18:02.000Z",
+    "created_at": "2025-05-19T02:23:43.000Z",
+    "updated_at": "2025-05-19T02:23:44.000Z",
     "pd": {
-      "played": 1,
-      "won": 0,
-      "ratio": 0
+      "played": 3,
+      "won": 2,
+      "ratio": 67
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:36:16.670Z"
+  "archived_at": "2025-05-25T03:02:38.782Z"
 }
