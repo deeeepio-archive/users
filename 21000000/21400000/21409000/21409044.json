@@ -1,24 +1,24 @@
 {
   "id": 21409044,
-  "username": "ctrl1",
+  "username": "snipper",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-05-06T22:49:14.000Z",
-  "date_last_played": "2025-05-09T00:15:26.000Z",
-  "profile_views": 5,
-  "kill_count": 75,
-  "play_count": 49,
-  "highest_score": 1164492,
-  "picture": null,
+  "date_last_played": "2025-05-22T00:37:56.000Z",
+  "profile_views": 27,
+  "kill_count": 400,
+  "play_count": 163,
+  "highest_score": 2496386,
+  "picture": "21409044-d8291001b389cb4626d3276dcb97cd87d-17eb9e15-1c84-47db-92c5-22641118d011.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 171,
-  "tier": 1,
-  "xp": 24150,
+  "coins": 165,
+  "tier": 3,
+  "xp": 113250,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-09T00:15:25.000Z",
-    "updated_at": "2025-05-09T00:15:26.000Z",
+    "created_at": "2025-05-22T00:37:56.000Z",
+    "updated_at": "2025-05-22T00:37:56.000Z",
     "pd": {
-      "played": 1,
-      "won": 1,
-      "ratio": 100
+      "played": 7,
+      "won": 2,
+      "ratio": 29
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:48:36.483Z"
+  "archived_at": "2025-05-25T03:14:49.383Z"
 }
