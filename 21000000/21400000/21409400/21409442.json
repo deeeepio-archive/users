@@ -1,46 +1,67 @@
 {
   "id": 21409442,
-  "username": "VMAKER",
-  "description": null,
-  "about": null,
+  "username": "PLUTONIUM",
+  "description": "You're welcome",
+  "about": "I'm stupid unlike you.\nI'll have to think about that too.",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-05-11T14:14:41.000Z",
-  "date_last_played": "2025-05-14T13:35:33.000Z",
-  "profile_views": 8,
-  "kill_count": 24,
-  "play_count": 16,
-  "highest_score": 1392940,
-  "picture": null,
+  "date_last_played": "2025-05-25T00:54:23.000Z",
+  "profile_views": 44,
+  "kill_count": 127,
+  "play_count": 88,
+  "highest_score": 2083718,
+  "picture": "21409442-c5bfd14b9f4481045b6c56dc7e9fc3b2a-7ec6f892-f820-4415-bd6c-70d02b87b151.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 59,
-  "tier": 1,
-  "xp": 7350,
+  "coins": 69,
+  "tier": 2,
+  "xp": 34350,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104883,
+      "user_id": 21409442,
+      "platform_id": "dc",
+      "platform_user_id": "big",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-21T13:39:05.000Z",
+      "updated_at": "2025-05-21T13:39:05.000Z"
+    },
+    {
+      "id": 104875,
+      "user_id": 21409442,
+      "platform_id": "dc",
+      "platform_user_id": "missile_prac",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-21T00:20:13.000Z",
+      "updated_at": "2025-05-21T00:20:13.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21409442,
-    "rank_kc_dirty": true,
-    "rank_pc_dirty": true,
-    "rank_hs_dirty": true,
-    "created_at": "2025-05-14T22:51:16.805Z",
-    "updated_at": "2025-05-14T22:51:17.000Z",
     "rank_kc": null,
+    "rank_kc_dirty": true,
     "rank_kc_updated_at": null,
     "rank_pc": null,
+    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
+    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
+    "created_at": "2025-05-25T00:54:22.000Z",
+    "updated_at": "2025-05-25T00:54:23.000Z",
     "pd": {
-      "played": 3,
-      "won": 0,
-      "ratio": 0
+      "played": 9,
+      "won": 3,
+      "ratio": 33
     }
   },
   "creations": {
@@ -50,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:51:16.904Z"
+  "archived_at": "2025-05-25T03:17:42.345Z"
 }
