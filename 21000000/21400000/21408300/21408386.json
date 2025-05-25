@@ -1,24 +1,24 @@
 {
   "id": 21408386,
-  "username": "Suno",
-  "description": "🫠",
+  "username": "SunoYT",
+  "description": "像幾何一樣把你摺起來",
   "about": "普通電競人",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-29T10:26:31.000Z",
-  "date_last_played": "2025-05-14T02:57:35.000Z",
-  "profile_views": 90,
-  "kill_count": 174,
-  "play_count": 105,
-  "highest_score": 708839,
-  "picture": null,
+  "date_last_played": "2025-05-22T08:00:03.000Z",
+  "profile_views": 118,
+  "kill_count": 243,
+  "play_count": 121,
+  "highest_score": 1428824,
+  "picture": "21408386-1041f342480bebec110b955f25bdfee439-1c93bd62-2a0c-4a87-8563-2a02076ced7c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 71,
-  "tier": 1,
-  "xp": 21900,
+  "coins": 155,
+  "tier": 2,
+  "xp": 34500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -38,11 +38,11 @@
       "id": 104446,
       "user_id": 21408386,
       "platform_id": "yt",
-      "platform_user_id": "撅Suno",
+      "platform_user_id": "SunoYT",
       "platform_user_url": "https://youtube.com/@suno_youtube?si=OouMpn55h47uC0G7",
       "verified": false,
       "created_at": "2025-05-06T12:40:05.000Z",
-      "updated_at": "2025-05-06T12:40:05.000Z"
+      "updated_at": "2025-05-16T05:28:38.000Z"
     }
   ],
   "user_stats": {
@@ -56,8 +56,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T10:00:03.000Z",
-    "updated_at": "2025-05-14T10:00:03.000Z",
+    "created_at": "2025-05-22T08:00:03.000Z",
+    "updated_at": "2025-05-22T08:00:03.000Z",
     "pd": {
       "played": 4,
       "won": 1,
@@ -71,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:43:28.155Z"
+  "archived_at": "2025-05-25T03:09:33.576Z"
 }
