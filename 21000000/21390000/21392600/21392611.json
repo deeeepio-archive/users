@@ -2,28 +2,39 @@
   "id": 21392611,
   "username": "RadishXVII",
   "description": "Good game. Sorry for killing you. I you were a friend I am doubly sorry. I have to keep the resolution low so it is hard to read names and messages.",
-  "about": "Pearl Defense player. I like to play with most creature, however I am better with some than others. Having fun is fun. No need to be rude or toxic. Using lungfish for PD is cheating. I go by Radish, King Radish and others. \n\nMy best PD games: (2/0/3/2)",
+  "about": "Pearl Defense player. I can do pretty well with most creatures. Having fun is fun. No need to be rude or toxic. I think using using lungfish to get the pearl in PD is cheating. I like to make up new names but they all include \"Radish\" in them.",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-12-05T23:45:44.000Z",
-  "date_last_played": "2025-05-14T19:48:34.000Z",
-  "profile_views": 541,
-  "kill_count": 1229,
-  "play_count": 533,
+  "date_last_played": "2025-05-24T23:10:24.000Z",
+  "profile_views": 636,
+  "kill_count": 1481,
+  "play_count": 637,
   "highest_score": 2143319,
   "picture": "21392611-ffb810afbd2484a47291610155f8e10d5c5-e93211c3-10ad-4198-89d5-14b00db2523d.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1124,
+  "coins": 1163,
   "tier": 5,
-  "xp": 307500,
+  "xp": 367350,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104913,
+      "user_id": 21392611,
+      "platform_id": "dc",
+      "platform_user_id": " My best PD games: (2/0/3/2), (0/0/8/0)",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-23T01:50:20.000Z",
+      "updated_at": "2025-05-23T01:50:20.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21392611,
     "rank_kc": null,
@@ -35,12 +46,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T19:48:34.000Z",
-    "updated_at": "2025-05-14T19:48:34.000Z",
+    "created_at": "2025-05-24T23:10:23.000Z",
+    "updated_at": "2025-05-24T23:10:24.000Z",
     "pd": {
-      "played": 119,
-      "won": 68,
-      "ratio": 57
+      "played": 186,
+      "won": 94,
+      "ratio": 51
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T20:37:10.386Z"
+  "archived_at": "2025-05-25T01:21:20.509Z"
 }
