@@ -1,24 +1,24 @@
 {
   "id": 21402395,
   "username": "태대moon",
-  "description": "",
+  "description": "그저 tㅐdㅐmoon",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-02-26T23:24:24.000Z",
-  "date_last_played": "2025-05-14T12:38:38.000Z",
-  "profile_views": 222,
-  "kill_count": 1280,
-  "play_count": 951,
-  "highest_score": 3510843,
+  "date_last_played": "2025-05-25T02:26:13.000Z",
+  "profile_views": 268,
+  "kill_count": 1517,
+  "play_count": 1104,
+  "highest_score": 7698183,
   "picture": "21402395-46d76a3a7c24c91179222d4a2ee7c64a-69c1a9de-afe5-4b3b-8c34-a5d7f35c63e7.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 107,
-  "tier": 6,
-  "xp": 456300,
+  "coins": 102,
+  "tier": 7,
+  "xp": 559050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T12:38:38.000Z",
-    "updated_at": "2025-05-14T12:38:38.000Z",
+    "created_at": "2025-05-25T02:26:13.000Z",
+    "updated_at": "2025-05-25T02:26:13.000Z",
     "pd": {
       "played": 50,
-      "won": 35,
-      "ratio": 70
+      "won": 33,
+      "ratio": 66
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T21:50:12.898Z"
+  "archived_at": "2025-05-25T02:28:29.432Z"
 }
