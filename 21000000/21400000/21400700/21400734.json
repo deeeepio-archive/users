@@ -2,23 +2,23 @@
   "id": 21400734,
   "username": "nihilego",
   "description": "are you dead? :0\n\n\n",
-  "about": "follow my insta bitc",
+  "about": "follow my insta bitc\nusernames,nitemkare,nite,herdice",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-02-11T19:09:56.000Z",
-  "date_last_played": "2025-05-14T21:36:57.000Z",
-  "profile_views": 90,
-  "kill_count": 819,
-  "play_count": 1079,
-  "highest_score": 2250082,
+  "date_last_played": "2025-05-23T18:53:20.000Z",
+  "profile_views": 98,
+  "kill_count": 920,
+  "play_count": 1210,
+  "highest_score": 2624901,
   "picture": "21400734-9d75212ca4d4f1e57f3d1c1d69b0ac10d-894307f5-f991-4aa7-9676-4c3e0de64a95.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 101,
-  "tier": 5,
-  "xp": 351150,
+  "coins": 27,
+  "tier": 6,
+  "xp": 403050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -56,9 +56,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T21:36:56.000Z",
-    "updated_at": "2025-05-14T21:36:57.000Z",
-    "pd": null
+    "created_at": "2025-05-23T18:53:20.000Z",
+    "updated_at": "2025-05-23T18:53:20.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -67,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T21:38:41.949Z"
+  "archived_at": "2025-05-25T02:17:08.903Z"
 }
