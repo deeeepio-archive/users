@@ -1,24 +1,24 @@
 {
   "id": 21407084,
-  "username": "문in",
-  "description": null,
+  "username": "아앙기모찌",
+  "description": "sorry noob^^\n",
   "about": "인생은 기모찌하게\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-04-14T10:55:32.000Z",
-  "date_last_played": "2025-05-14T16:16:46.000Z",
-  "profile_views": 19,
-  "kill_count": 110,
-  "play_count": 278,
+  "date_last_played": "2025-05-24T11:56:29.000Z",
+  "profile_views": 28,
+  "kill_count": 165,
+  "play_count": 408,
   "highest_score": 1007085,
-  "picture": null,
+  "picture": "21407084-063a4969e275fbfae4faeef2b10c34375-9641e732-832c-4687-99e1-f1a4f6f4bbc4.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 27,
+  "coins": 151,
   "tier": 2,
-  "xp": 34050,
+  "xp": 52650,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T16:16:46.000Z",
-    "updated_at": "2025-05-14T16:16:46.000Z",
+    "created_at": "2025-05-24T11:56:28.000Z",
+    "updated_at": "2025-05-24T11:56:29.000Z",
     "pd": {
-      "played": 6,
-      "won": 3,
-      "ratio": 50
+      "played": 5,
+      "won": 2,
+      "ratio": 40
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:28:10.370Z"
+  "archived_at": "2025-05-25T03:00:32.392Z"
 }
