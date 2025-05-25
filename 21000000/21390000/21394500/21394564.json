@@ -1,24 +1,24 @@
 {
   "id": 21394564,
   "username": "rat_attack",
-  "description": "ratatouille\njust a pd player",
-  "about": "\nmain: cs, basking, marlin",
+  "description": "i hold a lot of hate\n",
+  "about": "\nmain: cs, basking, marlin, leatherback",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-12-20T03:58:17.000Z",
-  "date_last_played": "2025-05-14T04:10:48.000Z",
-  "profile_views": 354,
-  "kill_count": 1516,
-  "play_count": 911,
+  "date_last_played": "2025-05-25T01:21:52.000Z",
+  "profile_views": 372,
+  "kill_count": 1587,
+  "play_count": 959,
   "highest_score": 2877810,
   "picture": "21394564-92966cd4392e3f3d4794369ae46c11a1-4246d235-dd09-4af7-bff0-1c34e908389e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 186,
+  "coins": 109,
   "tier": 7,
-  "xp": 532650,
+  "xp": 560850,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T04:10:48.000Z",
-    "updated_at": "2025-05-14T04:10:48.000Z",
+    "created_at": "2025-05-25T01:21:51.000Z",
+    "updated_at": "2025-05-25T01:21:52.000Z",
     "pd": {
-      "played": 75,
-      "won": 43,
-      "ratio": 57
+      "played": 44,
+      "won": 29,
+      "ratio": 66
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T20:52:00.172Z"
+  "archived_at": "2025-05-25T01:34:39.021Z"
 }
