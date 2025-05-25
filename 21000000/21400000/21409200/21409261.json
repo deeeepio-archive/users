@@ -1,24 +1,24 @@
 {
   "id": 21409261,
-  "username": "echatsowat",
+  "username": "ᏠᎮღtsasukeღ",
   "description": "chán qué bay ơi cho xin tí kill đi\n",
   "about": "tôi là trường sinh ngày 1/4/2011 tôi mới lev 2 thôi xin tạ ơn khi đã xem trang cá nhân của tôi tôi pv cũng gà thôi nhưng cũng tạm được các bạn đừng chê tôi nha thankkkk!!!!!!!!!!!!!!!!!!!!!!!!!!!\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-05-09T13:42:47.000Z",
-  "date_last_played": "2025-05-14T14:17:53.000Z",
-  "profile_views": 27,
-  "kill_count": 46,
-  "play_count": 82,
+  "date_last_played": "2025-05-21T05:49:42.000Z",
+  "profile_views": 62,
+  "kill_count": 107,
+  "play_count": 131,
   "highest_score": 2843589,
-  "picture": "21409261-c96732b2b65186983146102c58b1eb257-01a69b30-c3be-4080-90c7-74b97f46e096.png",
+  "picture": "21409261-169b627a2c4329d2cd41c9701890714e-4184e48d-ac2f-4168-b227-85f8d72956c6.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 56,
+  "coins": 25,
   "tier": 2,
-  "xp": 29550,
+  "xp": 59400,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -56,9 +56,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T14:17:52.000Z",
-    "updated_at": "2025-05-14T14:17:53.000Z",
-    "pd": null
+    "created_at": "2025-05-21T05:49:41.000Z",
+    "updated_at": "2025-05-21T05:49:42.000Z",
+    "pd": {
+      "played": 18,
+      "won": 11,
+      "ratio": 61
+    }
   },
   "creations": {
     "maps": {
@@ -67,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T22:49:40.558Z"
+  "archived_at": "2025-05-25T03:16:00.335Z"
 }
