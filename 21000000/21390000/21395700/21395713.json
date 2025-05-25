@@ -1,24 +1,24 @@
 {
   "id": 21395713,
   "username": "chipper",
-  "description": "A big fat screw you to all the gpo players out there",
+  "description": "A big fat screw you to all the toxic noobs",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-12-31T05:52:54.000Z",
-  "date_last_played": "2025-05-14T13:26:55.000Z",
-  "profile_views": 78,
-  "kill_count": 757,
-  "play_count": 1701,
+  "date_last_played": "2025-05-25T00:48:31.000Z",
+  "profile_views": 112,
+  "kill_count": 852,
+  "play_count": 1874,
   "highest_score": 2821182,
-  "picture": "21395713-77451a7075d52bef8497fbb55058b473-395d1385-0143-426e-b11f-56ad209d61b6.png",
+  "picture": "21395713-ca7b6f1ff75010451083c10ecc5cc747e78-90ef4cd1-efb8-45ce-a52f-1ab21ed2c4fe.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 156,
+  "coins": 41,
   "tier": 6,
-  "xp": 419550,
+  "xp": 466050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-14T13:26:54.000Z",
-    "updated_at": "2025-05-14T13:26:55.000Z",
-    "pd": null
+    "created_at": "2025-05-25T00:48:30.000Z",
+    "updated_at": "2025-05-25T00:48:31.000Z",
+    "pd": {
+      "played": 15,
+      "won": 6,
+      "ratio": 40
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T21:00:53.309Z"
+  "archived_at": "2025-05-25T01:42:12.322Z"
 }
