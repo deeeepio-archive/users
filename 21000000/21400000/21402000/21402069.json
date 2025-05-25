@@ -1,38 +1,58 @@
 {
   "id": 21402069,
-  "username": "ShokedGuy",
-  "description": "Fiquei chocado com seu péssimo desempenho…\n",
-  "about": "Se você ganhasse um real pra cada vez que alguém ficou chocado/surpreso com seu humor ou inteligência, quantos reais você teria?\n\n\n\n",
+  "username": "𝖙𝖊𝖗𝖗𝖎𝖋𝖎𝖊𝖗☠🔪",
+  "description": "\nDoes anyone remember what he said when I killed him? \"Please help me! I'm going to die\" haha, wasn't that it?,ah, I remembered! \"I'm not going to die!\n",
+  "about": "You should never ask, 'Who's there?' Don't you watch horror movies? It's a death wish.\n\n\n\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-02-23T15:38:25.000Z",
-  "date_last_played": "2025-04-01T02:13:28.000Z",
-  "profile_views": 217,
-  "kill_count": 305,
-  "play_count": 189,
+  "date_last_played": "2025-05-25T02:15:27.000Z",
+  "profile_views": 311,
+  "kill_count": 422,
+  "play_count": 236,
   "highest_score": 1718893,
-  "picture": "21402069-b5a2816c8b2870716ee9b3e48122cfea-27af0107-5d09-44b8-a88f-8240e15397f1.png",
+  "picture": "21402069-ac52ab898111081474b32995d5bdaacea-595994fb-c6b7-4cd4-8585-24efc58ac2a0.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 99,
+  "coins": 306,
   "tier": 3,
-  "xp": 101100,
+  "xp": 134400,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 103092,
+      "id": 104983,
       "user_id": 21402069,
-      "platform_id": "rd",
-      "platform_user_id": "MY1STERY0",
+      "platform_id": "dc",
+      "platform_user_id": "l04d._32863",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2025-03-09T22:31:26.000Z",
-      "updated_at": "2025-03-09T22:31:26.000Z"
+      "created_at": "2025-05-24T23:49:04.000Z",
+      "updated_at": "2025-05-24T23:49:04.000Z"
+    },
+    {
+      "id": 104982,
+      "user_id": 21402069,
+      "platform_id": "yt",
+      "platform_user_id": "Deeeepio,news",
+      "platform_user_url": "https://www.youtube.com/@deeeepionews",
+      "verified": false,
+      "created_at": "2025-05-24T23:48:23.000Z",
+      "updated_at": "2025-05-24T23:48:23.000Z"
+    },
+    {
+      "id": 104781,
+      "user_id": 21402069,
+      "platform_id": "yt",
+      "platform_user_id": "Wall",
+      "platform_user_url": "https://www.youtube.com/watch?v=cxbBLWrw4Fg",
+      "verified": false,
+      "created_at": "2025-05-17T18:24:26.000Z",
+      "updated_at": "2025-05-17T18:24:26.000Z"
     }
   ],
   "user_stats": {
@@ -46,9 +66,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-01T02:13:28.000Z",
-    "updated_at": "2025-04-01T02:13:28.000Z",
-    "pd": null
+    "created_at": "2025-05-25T02:15:26.000Z",
+    "updated_at": "2025-05-25T02:15:27.000Z",
+    "pd": {
+      "played": 17,
+      "won": 10,
+      "ratio": 59
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +81,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T21:48:23.128Z"
+  "archived_at": "2025-05-25T02:25:37.379Z"
 }
