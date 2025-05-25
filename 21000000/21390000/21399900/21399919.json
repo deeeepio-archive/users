@@ -2,23 +2,23 @@
   "id": 21399919,
   "username": "not_a_robot",
   "description": "killed by a robot lol\n",
-  "about": null,
+  "about": "not a robot\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-02-04T00:20:25.000Z",
-  "date_last_played": "2025-05-01T10:59:40.000Z",
-  "profile_views": 68,
-  "kill_count": 155,
-  "play_count": 36,
+  "date_last_played": "2025-05-24T10:45:51.000Z",
+  "profile_views": 75,
+  "kill_count": 209,
+  "play_count": 54,
   "highest_score": 586428,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 18,
+  "coins": 98,
   "tier": 2,
-  "xp": 28050,
+  "xp": 40050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-01T10:59:40.000Z",
-    "updated_at": "2025-05-01T10:59:40.000Z",
+    "created_at": "2025-05-24T10:45:50.000Z",
+    "updated_at": "2025-05-24T10:45:51.000Z",
     "pd": {
-      "played": 8,
-      "won": 5,
-      "ratio": 63
+      "played": 22,
+      "won": 12,
+      "ratio": 55
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T21:32:58.564Z"
+  "archived_at": "2025-05-25T02:11:13.302Z"
 }
