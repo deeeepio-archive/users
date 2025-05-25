@@ -1,24 +1,24 @@
 {
   "id": 21391843,
   "username": "yeet29",
-  "description": "hahahahahaha",
+  "description": "ggs no hard feelings",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-11-29T22:54:57.000Z",
-  "date_last_played": "2025-01-02T23:24:20.000Z",
-  "profile_views": 47,
-  "kill_count": 253,
-  "play_count": 112,
+  "date_last_played": "2025-05-24T22:01:29.000Z",
+  "profile_views": 53,
+  "kill_count": 272,
+  "play_count": 133,
   "highest_score": 2170050,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 156,
+  "coins": 63,
   "tier": 2,
-  "xp": 53400,
+  "xp": 61950,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-01-02T23:24:19.000Z",
-    "updated_at": "2025-01-02T23:24:20.000Z",
-    "pd": null
+    "created_at": "2025-05-24T22:01:28.000Z",
+    "updated_at": "2025-05-24T22:01:29.000Z",
+    "pd": {
+      "played": 4,
+      "won": 2,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T20:32:20.194Z"
+  "archived_at": "2025-05-25T01:15:59.145Z"
 }
