@@ -1,24 +1,24 @@
 {
   "id": 21391517,
   "username": "rayquaza0429",
-  "description": null,
-  "about": null,
+  "description": "you are good at it but, i'm better\n\nlife is hard so do betternext time\n",
+  "about": "aaravos \nnothing really much\n i love deep ocean\nI like to play PD",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-11-27T05:05:30.000Z",
-  "date_last_played": "2024-11-27T05:10:44.000Z",
-  "profile_views": 8,
-  "kill_count": 0,
-  "play_count": 1,
-  "highest_score": 16615,
+  "date_last_played": "2025-05-24T04:56:16.000Z",
+  "profile_views": 74,
+  "kill_count": 25,
+  "play_count": 47,
+  "highest_score": 1273800,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 10,
+  "coins": 133,
   "tier": 1,
-  "xp": 0,
+  "xp": 21450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T12:09:00.000Z",
-    "updated_at": "2025-04-28T12:09:00.000Z",
-    "pd": null
+    "created_at": "2025-05-24T04:56:16.000Z",
+    "updated_at": "2025-05-24T04:56:16.000Z",
+    "pd": {
+      "played": 30,
+      "won": 15,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-14T20:30:32.208Z"
+  "archived_at": "2025-05-25T01:13:55.515Z"
 }
