@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2019-04-30T22:14:05.000Z",
   "date_last_played": "2025-04-03T23:11:48.000Z",
-  "profile_views": 3278,
+  "profile_views": 3291,
   "kill_count": 82763,
   "play_count": 16578,
   "highest_score": 15272692,
@@ -48,6 +48,48 @@
   "creations": {
     "maps": {
       "items": [
+        {
+          "id": 245344,
+          "user_id": 583491,
+          "cloneof_id": null,
+          "string_id": "maybe",
+          "title": "concept exploration",
+          "description": "i miss docffa",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 1,
+          "objects": 201,
+          "created_at": "2025-05-19T04:29:15.000Z",
+          "updated_at": "2025-05-26T02:50:26.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 583491,
+            "username": "Rh_4m",
+            "description": "Imagine making an entirely new animal and getting ZERO acknowledgement for it. But tournament winners who have done nothing for the game get a unique badge, get credited as \"contributors\", and get A CUSTOM PET.\n\nhttps://arab.org/click-to-help/palestine/",
+            "about": "She/Her\ncreator of arapaima\nhttps://bye2.co.uk/\nhttps://mapmaker.deeeep.io/map/Rh_4m\n",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2019-04-30T22:14:05.000Z",
+            "date_last_played": "2025-04-03T23:11:48.000Z",
+            "kill_count": 82763,
+            "play_count": 16578,
+            "highest_score": 15272692,
+            "picture": "583491-d2d29b1108fd8bfa2e0b244c982ab4443.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 38203,
+            "tier": 10,
+            "xp": 8215500,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": []
+        },
         {
           "id": 245254,
           "user_id": 583491,
@@ -642,51 +684,9 @@
             "beta": false
           },
           "tags": []
-        },
-        {
-          "id": 13422,
-          "user_id": 583491,
-          "cloneof_id": null,
-          "string_id": "agr",
-          "title": "sht",
-          "description": "",
-          "public": true,
-          "locked": false,
-          "clonable": false,
-          "permissions": 1,
-          "likes": 1,
-          "objects": 73,
-          "created_at": "2024-01-26T21:53:49.000Z",
-          "updated_at": "2024-02-06T19:32:41.000Z",
-          "deleted_at": null,
-          "user": {
-            "id": 583491,
-            "username": "Rh_4m",
-            "description": "Imagine making an entirely new animal and getting ZERO acknowledgement for it. But tournament winners who have done nothing for the game get a unique badge, get credited as \"contributors\", and get A CUSTOM PET.\n\nhttps://arab.org/click-to-help/palestine/",
-            "about": "She/Her\ncreator of arapaima\nhttps://bye2.co.uk/\nhttps://mapmaker.deeeep.io/map/Rh_4m\n",
-            "team_id": null,
-            "team_role": null,
-            "date_created": "2019-04-30T22:14:05.000Z",
-            "date_last_played": "2025-04-03T23:11:48.000Z",
-            "kill_count": 82763,
-            "play_count": 16578,
-            "highest_score": 15272692,
-            "picture": "583491-d2d29b1108fd8bfa2e0b244c982ab4443.png",
-            "displayPicture": true,
-            "active": true,
-            "ban_message": null,
-            "ban_at": null,
-            "coins": 38203,
-            "tier": 10,
-            "xp": 8215500,
-            "migrated": false,
-            "verified": false,
-            "beta": false
-          },
-          "tags": []
         }
       ],
-      "count": 78
+      "count": 79
     },
     "skins": [
       {
@@ -706,7 +706,7 @@
         "season": null,
         "on_sale": true,
         "price": 45,
-        "sales": 201,
+        "sales": 209,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -742,5 +742,5 @@
       }
     ]
   },
-  "archived_at": "2025-05-18T09:54:10.921Z"
+  "archived_at": "2025-05-28T02:18:06.117Z"
 }
