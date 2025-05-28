@@ -1,40 +1,29 @@
 {
   "id": 723354,
-  "username": "❌DaiQAQ",
-  "description": "喔好喔\n",
+  "username": "imout",
+  "description": "sorry\n",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2020-04-11T04:29:38.000Z",
-  "date_last_played": "2024-10-09T08:25:33.000Z",
-  "profile_views": 142,
-  "kill_count": 7866,
-  "play_count": 7961,
+  "date_last_played": "2025-05-26T10:51:56.000Z",
+  "profile_views": 153,
+  "kill_count": 7941,
+  "play_count": 7983,
   "highest_score": 7162315,
-  "picture": "723354-8c8545ca15024348a86d49560ee103e87.png",
+  "picture": "723354-547caf140ebbbba94eb10810f79a3685fe-b1ca90fc-0944-45d4-b7b8-de6e7d89434e.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 115,
+  "coins": 65,
   "tier": 2,
-  "xp": 31350,
+  "xp": 55350,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 1240,
-      "user_id": 723354,
-      "platform_id": "dc",
-      "platform_user_id": "✔Dai",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2022-06-01T00:59:31.000Z",
-      "updated_at": "2022-06-01T00:59:31.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 723354,
     "rank_kc": 3434,
@@ -46,8 +35,8 @@
     "rank_hs": 4296,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-12-28T12:22:04.000Z",
-    "created_at": "2024-10-09T08:25:33.000Z",
-    "updated_at": "2024-10-09T08:25:33.000Z",
+    "created_at": "2025-05-26T10:51:55.000Z",
+    "updated_at": "2025-05-26T10:51:56.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T07:06:56.484Z"
+  "archived_at": "2025-05-28T19:07:53.884Z"
 }
