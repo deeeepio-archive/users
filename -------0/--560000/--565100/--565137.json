@@ -2,23 +2,23 @@
   "id": 565137,
   "username": "GooDragon",
   "description": "Roses are red\nViolets are blue\nYou have been .....",
-  "about": "Been playing since 2017. (I still suck tho.)\nKnow how to tiger solo. (don't defend fr.)\n1000 views!!!  🎉🎉🎉\nAs a Tiger main, i hate those currents with a passion\nHighest Score: AST 1249.241m on PD.\nTF happened with my social networks... (can't edit them)",
+  "about": "Been playing since 2017. (I still suck tho.)\nKnow how to tiger solo. (don't defend fr.)\n1000 views!!!  🎉🎉🎉\nAnimal roulette in PD, dont blame me if I suck with that animal.\nHighest Score: AST 1249.241m on PD.",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-03-17T23:03:40.000Z",
-  "date_last_played": "2025-05-14T19:05:51.000Z",
-  "profile_views": 1159,
-  "kill_count": 4566,
-  "play_count": 1775,
+  "date_last_played": "2025-05-24T03:08:40.000Z",
+  "profile_views": 1202,
+  "kill_count": 4643,
+  "play_count": 1795,
   "highest_score": 3315180,
   "picture": "565137.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1337,
+  "coins": 1158,
   "tier": 7,
-  "xp": 609750,
+  "xp": 620400,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -73,6 +73,16 @@
       "verified": false,
       "created_at": "2023-05-05T21:05:03.000Z",
       "updated_at": "2025-01-18T01:14:36.000Z"
+    },
+    {
+      "id": 104816,
+      "user_id": 565137,
+      "platform_id": "rd",
+      "platform_user_id": "Animal Roulette in PD.",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-18T16:28:05.000Z",
+      "updated_at": "2025-05-24T02:01:51.000Z"
     }
   ],
   "user_stats": {
@@ -86,12 +96,12 @@
     "rank_hs": 45531,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-20T00:29:38.000Z",
-    "created_at": "2025-05-14T19:05:51.000Z",
-    "updated_at": "2025-05-14T19:05:51.000Z",
+    "created_at": "2025-05-24T03:08:39.000Z",
+    "updated_at": "2025-05-24T03:08:40.000Z",
     "pd": {
-      "played": 25,
+      "played": 33,
       "won": 13,
-      "ratio": 52
+      "ratio": 39
     }
   },
   "creations": {
@@ -101,5 +111,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-18T07:18:59.009Z"
+  "archived_at": "2025-05-28T00:10:25.753Z"
 }
