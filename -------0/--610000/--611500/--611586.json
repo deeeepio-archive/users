@@ -1,29 +1,40 @@
 {
   "id": 611586,
   "username": "TheStrongest",
-  "description": "Don't give up, respawn and try again",
-  "about": null,
+  "description": "Nah, I'd Win.",
+  "about": "My in-game name is Nik.",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-06-29T00:11:21.000Z",
-  "date_last_played": "2025-05-18T08:57:31.000Z",
-  "profile_views": 28,
-  "kill_count": 4862,
-  "play_count": 1466,
+  "date_last_played": "2025-05-28T04:54:50.000Z",
+  "profile_views": 44,
+  "kill_count": 4972,
+  "play_count": 1566,
   "highest_score": 4079666,
-  "picture": "611586-9d8ff310fe24fc46210711af6d7d4565a7-502e480e-986d-44c2-a006-89d64da543ca.png",
+  "picture": "611586-cfde5fdb23f378b1190cab7104c29ad3f-11d2c308-5486-45a4-b0a6-704f7ce6a75c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 454,
-  "tier": 3,
-  "xp": 100200,
+  "coins": 355,
+  "tier": 4,
+  "xp": 166350,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104855,
+      "user_id": 611586,
+      "platform_id": "dc",
+      "platform_user_id": "nik50",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-19T05:51:25.000Z",
+      "updated_at": "2025-05-19T05:51:25.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 611586,
     "rank_kc": 4864,
@@ -35,8 +46,8 @@
     "rank_hs": 19809,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2022-09-03T16:14:21.000Z",
-    "created_at": "2025-05-18T08:57:30.000Z",
-    "updated_at": "2025-05-18T08:57:31.000Z",
+    "created_at": "2025-05-28T04:54:49.000Z",
+    "updated_at": "2025-05-28T04:54:50.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-18T14:17:29.281Z"
+  "archived_at": "2025-05-28T06:32:26.607Z"
 }
