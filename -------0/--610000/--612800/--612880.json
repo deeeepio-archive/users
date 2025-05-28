@@ -1,24 +1,24 @@
 {
   "id": 612880,
-  "username": "TheUkiBRT",
+  "username": "sigmaboss",
   "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2019-07-05T18:01:05.000Z",
-  "date_last_played": "2020-09-09T16:34:42.000Z",
-  "profile_views": 1,
-  "kill_count": 165,
-  "play_count": 26,
+  "date_last_played": "2025-05-24T01:27:11.000Z",
+  "profile_views": 3,
+  "kill_count": 166,
+  "play_count": 28,
   "highest_score": 712934,
   "picture": "612880.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 71,
+  "coins": 73,
   "tier": 1,
-  "xp": 0,
+  "xp": 300,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-24T12:11:40.000Z",
-    "updated_at": "2025-04-24T12:11:40.000Z",
+    "created_at": "2025-05-24T01:31:47.000Z",
+    "updated_at": "2025-05-24T01:31:48.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-18T14:26:27.572Z"
+  "archived_at": "2025-05-28T06:40:40.639Z"
 }
