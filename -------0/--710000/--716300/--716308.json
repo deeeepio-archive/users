@@ -1,24 +1,24 @@
 {
   "id": 716308,
   "username": "LeDeliJelly",
-  "description": "uwu",
+  "description": "game peaked 2020",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2020-03-24T22:39:47.000Z",
-  "date_last_played": "2024-04-07T05:15:58.000Z",
-  "profile_views": 49,
-  "kill_count": 8871,
-  "play_count": 1923,
+  "date_last_played": "2025-05-24T22:55:30.000Z",
+  "profile_views": 53,
+  "kill_count": 8891,
+  "play_count": 1929,
   "highest_score": 5283010,
   "picture": "716308.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 87,
-  "tier": 2,
-  "xp": 73650,
+  "coins": 108,
+  "tier": 3,
+  "xp": 76800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 7084,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-09-10T05:14:20.000Z",
-    "created_at": "2024-04-07T05:15:58.000Z",
-    "updated_at": "2024-04-07T05:15:58.000Z",
-    "pd": null
+    "created_at": "2025-05-24T22:55:29.000Z",
+    "updated_at": "2025-05-24T22:55:30.000Z",
+    "pd": {
+      "played": 5,
+      "won": 3,
+      "ratio": 60
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T06:09:38.767Z"
+  "archived_at": "2025-05-28T18:19:44.727Z"
 }
