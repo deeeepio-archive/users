@@ -1,17 +1,17 @@
 {
   "id": 754164,
-  "username": "Lancelot",
+  "username": "Acnologia",
   "description": "\nWhat's special about you?",
   "about": ".",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-06-28T00:37:32.000Z",
-  "date_last_played": "2025-05-17T20:48:45.000Z",
-  "profile_views": 4336,
+  "date_last_played": "2025-05-27T13:26:15.000Z",
+  "profile_views": 4348,
   "kill_count": 34350,
-  "play_count": 15164,
+  "play_count": 15172,
   "highest_score": 11233804,
-  "picture": "754164-4add0a161b9f1061b0d5d9cbec7809abf-9f5b0d13-406c-4c3d-bd0a-b3ad80074ebf.png",
+  "picture": "754164-081d2152baf3ac2a876717c9ae7b43e1-05752a7e-751c-4ec7-9265-3b0f755f4ca4.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
@@ -35,13 +35,9 @@
     "rank_hs": 2241,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-21T02:51:52.000Z",
-    "created_at": "2025-05-17T20:48:45.000Z",
-    "updated_at": "2025-05-17T20:48:45.000Z",
-    "pd": {
-      "played": 2,
-      "won": 1,
-      "ratio": 50
-    }
+    "created_at": "2025-05-27T13:26:15.000Z",
+    "updated_at": "2025-05-27T13:26:15.000Z",
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -50,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T11:43:27.685Z"
+  "archived_at": "2025-05-28T22:34:38.378Z"
 }
