@@ -1,24 +1,24 @@
 {
   "id": 621062,
   "username": "InfinityQ",
-  "description": "Watch out! The power of the Orbit is legendary!",
+  "description": "Q: How many times can you subtract 10 from 25?\nA: Once. Then it becomes 15 :D",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2019-08-09T00:27:45.000Z",
-  "date_last_played": "2020-03-28T20:44:29.000Z",
-  "profile_views": 0,
-  "kill_count": 63,
-  "play_count": 121,
+  "date_last_played": "2025-05-24T23:05:00.000Z",
+  "profile_views": 9,
+  "kill_count": 65,
+  "play_count": 123,
   "highest_score": 1795734,
   "picture": "621062.gif",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 152,
+  "coins": 162,
   "tier": 1,
-  "xp": 0,
+  "xp": 1500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-24T12:59:29.000Z",
-    "updated_at": "2025-04-24T12:59:29.000Z",
-    "pd": null
+    "created_at": "2025-05-24T23:04:59.000Z",
+    "updated_at": "2025-05-24T23:05:00.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-18T15:34:25.216Z"
+  "archived_at": "2025-05-28T07:39:03.835Z"
 }
