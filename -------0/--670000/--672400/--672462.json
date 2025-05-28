@@ -2,14 +2,14 @@
   "id": 672462,
   "username": "fatstacks",
   "description": "😬",
-  "about": "Sushi chef\n\nCheck out my 8th cousin ⬇",
+  "about": "Sushi chef",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-12-16T21:42:35.000Z",
-  "date_last_played": "2025-04-26T03:17:24.000Z",
-  "profile_views": 275,
+  "date_last_played": "2025-05-23T04:34:14.000Z",
+  "profile_views": 278,
   "kill_count": 16196,
-  "play_count": 2394,
+  "play_count": 2395,
   "highest_score": 5599571,
   "picture": "672462.png",
   "displayPicture": true,
@@ -25,14 +25,14 @@
   "badges": [],
   "social_networks": [
     {
-      "id": 20437,
+      "id": 104925,
       "user_id": 672462,
-      "platform_id": "ig",
-      "platform_user_id": "katyperry",
+      "platform_id": "dc",
+      "platform_user_id": "timmy.06",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2023-06-06T05:09:19.000Z",
-      "updated_at": "2023-06-06T05:09:30.000Z"
+      "created_at": "2025-05-23T04:31:53.000Z",
+      "updated_at": "2025-05-23T04:31:53.000Z"
     }
   ],
   "user_stats": {
@@ -46,13 +46,9 @@
     "rank_hs": 6713,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-02T01:29:04.000Z",
-    "created_at": "2025-04-26T03:17:24.000Z",
-    "updated_at": "2025-04-26T03:17:24.000Z",
-    "pd": {
-      "played": 2,
-      "won": 1,
-      "ratio": 50
-    }
+    "created_at": "2025-05-23T04:34:14.000Z",
+    "updated_at": "2025-05-23T04:34:14.000Z",
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -77,13 +73,13 @@
             "id": 672462,
             "username": "fatstacks",
             "description": "😬",
-            "about": "Sushi chef\n\nCheck out my 8th cousin ⬇",
+            "about": "Sushi chef",
             "team_id": null,
             "team_role": null,
             "date_created": "2019-12-16T21:42:35.000Z",
-            "date_last_played": "2025-04-26T03:17:24.000Z",
+            "date_last_played": "2025-05-23T04:34:14.000Z",
             "kill_count": 16196,
-            "play_count": 2394,
+            "play_count": 2395,
             "highest_score": 5599571,
             "picture": "672462.png",
             "displayPicture": true,
@@ -104,5 +100,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-18T23:37:27.370Z"
+  "archived_at": "2025-05-28T13:23:09.674Z"
 }
