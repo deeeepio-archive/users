@@ -1,29 +1,40 @@
 {
   "id": 719158,
   "username": "ImNotAMute",
-  "description": "Killing the boredom, Sorry mane",
-  "about": "Play \"The coffin of Andy and Leyley\", trust me.",
+  "description": "No hard feelings, unless there were hard feelings.\n|Sorry Mane|                                       |Get destroyed|",
+  "about": "Play \"The coffin of Andy and Leyley\", trust me.\nI play around 9 Am to 2 Pm AEST and 10 pm to 1 am AEST, usually around those hours.",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-03-31T19:36:09.000Z",
-  "date_last_played": "2025-05-16T11:41:32.000Z",
-  "profile_views": 35,
-  "kill_count": 506,
-  "play_count": 334,
+  "date_last_played": "2025-05-28T14:24:39.000Z",
+  "profile_views": 77,
+  "kill_count": 616,
+  "play_count": 409,
   "highest_score": 4126526,
   "picture": "719158-d4784df093735e651e102d49d20527bef-09c5beea-0d21-4d78-8596-7f0564b70955.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 134,
-  "tier": 3,
-  "xp": 96450,
+  "coins": 213,
+  "tier": 4,
+  "xp": 158550,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105063,
+      "user_id": 719158,
+      "platform_id": "dc",
+      "platform_user_id": "anonymouspokemon",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-28T06:46:03.000Z",
+      "updated_at": "2025-05-28T11:30:52.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 719158,
     "rank_kc": 48765,
@@ -35,8 +46,8 @@
     "rank_hs": 12297,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-03-10T22:09:25.000Z",
-    "created_at": "2025-05-16T11:41:31.000Z",
-    "updated_at": "2025-05-16T11:41:32.000Z",
+    "created_at": "2025-05-28T14:24:39.000Z",
+    "updated_at": "2025-05-28T14:24:39.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T06:33:38.718Z"
+  "archived_at": "2025-05-28T18:39:26.456Z"
 }
