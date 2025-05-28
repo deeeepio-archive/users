@@ -1,24 +1,24 @@
 {
   "id": 674752,
   "username": "Springtrap1993",
-  "description": "",
+  "description": "You Just die by William Afton >:)",
   "about": "I ALWAYS COMEBACK",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-12-22T23:26:27.000Z",
-  "date_last_played": "2025-04-29T22:38:13.000Z",
-  "profile_views": 1580,
-  "kill_count": 8048,
-  "play_count": 2438,
+  "date_last_played": "2025-05-26T19:47:10.000Z",
+  "profile_views": 1660,
+  "kill_count": 8175,
+  "play_count": 2471,
   "highest_score": 541964,
   "picture": "674752-aa21080ae2b8472c4fc2a89ff54ec437c-142aa5e9-0ed5-46c3-95cb-a2f5af16bb32.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 136,
+  "coins": 58,
   "tier": 10,
-  "xp": 1177050,
+  "xp": 1201350,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": 110090,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2022-05-20T21:58:24.000Z",
-    "created_at": "2025-04-29T22:38:13.000Z",
-    "updated_at": "2025-04-29T22:38:13.000Z",
+    "created_at": "2025-05-26T19:47:10.000Z",
+    "updated_at": "2025-05-26T19:47:10.000Z",
     "pd": {
-      "played": 12,
-      "won": 4,
-      "ratio": 33
+      "played": 34,
+      "won": 20,
+      "ratio": 59
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-18T23:55:55.152Z"
+  "archived_at": "2025-05-28T13:39:23.456Z"
 }
