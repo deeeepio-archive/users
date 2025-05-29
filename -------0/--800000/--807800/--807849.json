@@ -6,24 +6,34 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2020-12-30T08:50:36.000Z",
-  "date_last_played": "2025-05-18T07:03:31.000Z",
-  "profile_views": 247,
-  "kill_count": 2268,
-  "play_count": 3321,
+  "date_last_played": "2025-05-28T08:24:15.000Z",
+  "profile_views": 260,
+  "kill_count": 2332,
+  "play_count": 3329,
   "highest_score": 2026276,
   "picture": "807849-329f1111a5a110d79e3a7b860f26eb9ba-269c3a84-2524-48a5-890c-8ad25a9bb20f.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 474,
+  "coins": 520,
   "tier": 4,
-  "xp": 215250,
+  "xp": 222150,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
+    {
+      "id": 104880,
+      "user_id": 807849,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.com/channels/724319281990336542/724340254395465800",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-21T05:22:06.000Z",
+      "updated_at": "2025-05-21T05:22:06.000Z"
+    },
     {
       "id": 4091,
       "user_id": 807849,
@@ -56,12 +66,12 @@
     "rank_hs": 36338,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-05-15T04:20:51.000Z",
-    "created_at": "2025-05-18T07:03:31.000Z",
-    "updated_at": "2025-05-18T07:03:31.000Z",
+    "created_at": "2025-05-28T08:24:15.000Z",
+    "updated_at": "2025-05-28T08:24:15.000Z",
     "pd": {
-      "played": 19,
-      "won": 11,
-      "ratio": 58
+      "played": 24,
+      "won": 13,
+      "ratio": 54
     }
   },
   "creations": {
@@ -91,18 +101,18 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2020-12-30T08:50:36.000Z",
-            "date_last_played": "2025-05-18T07:03:31.000Z",
-            "kill_count": 2268,
-            "play_count": 3321,
+            "date_last_played": "2025-05-28T08:24:15.000Z",
+            "kill_count": 2332,
+            "play_count": 3329,
             "highest_score": 2026276,
             "picture": "807849-329f1111a5a110d79e3a7b860f26eb9ba-269c3a84-2524-48a5-890c-8ad25a9bb20f.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 474,
+            "coins": 520,
             "tier": 4,
-            "xp": 215250,
+            "xp": 222150,
             "migrated": false,
             "verified": false,
             "beta": false
@@ -118,5 +128,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T19:58:50.575Z"
+  "archived_at": "2025-05-29T04:37:54.105Z"
 }
