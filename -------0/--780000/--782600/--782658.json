@@ -1,24 +1,24 @@
 {
   "id": 782658,
   "username": "Touch-Me",
-  "description": "\"We're getting better every day\"\n\n\n",
+  "description": "I only feel pity for you\"\n\n\n",
   "about": "Best male friend:Artasia\nBest orca:Artasia\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-10-16T15:51:18.000Z",
-  "date_last_played": "2025-05-19T13:05:20.000Z",
-  "profile_views": 1037,
-  "kill_count": 5898,
-  "play_count": 5452,
+  "date_last_played": "2025-05-28T13:51:24.000Z",
+  "profile_views": 1117,
+  "kill_count": 6356,
+  "play_count": 5593,
   "highest_score": 9996228,
   "picture": "782658-ce522f60bee8fc32fa310f4525d8f29a3-7154d399-df78-4f40-9c04-dab7dbb21777.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 7266,
+  "coins": 7644,
   "tier": 10,
-  "xp": 1972050,
+  "xp": 2037750,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 39901,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-23T16:32:43.000Z",
-    "created_at": "2025-05-19T13:05:20.000Z",
-    "updated_at": "2025-05-19T13:05:20.000Z",
-    "pd": null
+    "created_at": "2025-05-28T13:51:24.000Z",
+    "updated_at": "2025-05-28T13:51:24.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T16:05:42.477Z"
+  "archived_at": "2025-05-29T01:45:51.672Z"
 }
