@@ -1,24 +1,24 @@
 {
   "id": 800290,
-  "username": "Asmetry",
+  "username": "Asmmetry",
   "description": "we're no strangers to love a full comitments what im thinking of you wouldnt get this from any other guy i just want to tell you how im feeling gunna make you understand",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2020-12-09T02:49:39.000Z",
-  "date_last_played": "2023-05-15T19:59:58.000Z",
-  "profile_views": 0,
-  "kill_count": 243,
-  "play_count": 254,
+  "date_last_played": "2025-05-27T17:25:27.000Z",
+  "profile_views": 6,
+  "kill_count": 245,
+  "play_count": 259,
   "highest_score": 1006313,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 95,
+  "coins": 99,
   "tier": 1,
-  "xp": 0,
+  "xp": 600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-25T08:20:40.000Z",
-    "updated_at": "2025-04-25T08:20:40.000Z",
+    "created_at": "2025-05-27T17:25:27.000Z",
+    "updated_at": "2025-05-27T17:25:27.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T18:32:31.720Z"
+  "archived_at": "2025-05-29T03:46:32.280Z"
 }
