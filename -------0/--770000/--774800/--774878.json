@@ -1,24 +1,24 @@
 {
   "id": 774878,
-  "username": "far_fetched",
+  "username": "dealgonewrong",
   "description": "",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-09-19T18:12:57.000Z",
-  "date_last_played": "2025-05-09T23:41:10.000Z",
-  "profile_views": 172,
-  "kill_count": 143,
-  "play_count": 23,
+  "date_last_played": "2025-05-28T18:59:51.000Z",
+  "profile_views": 208,
+  "kill_count": 213,
+  "play_count": 29,
   "highest_score": 317693,
-  "picture": null,
+  "picture": "774878-418ab3c5564aaf5c7e1673d10f584f9ff-60a312bd-c12c-4b2e-a014-d0d402d2899e.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 97,
-  "tier": 1,
-  "xp": 18900,
+  "coins": 145,
+  "tier": 2,
+  "xp": 26100,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": 595991,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-11-14T15:55:14.000Z",
-    "created_at": "2025-05-09T23:41:09.000Z",
-    "updated_at": "2025-05-09T23:41:10.000Z",
+    "created_at": "2025-05-28T18:59:51.000Z",
+    "updated_at": "2025-05-28T18:59:51.000Z",
     "pd": {
-      "played": 17,
-      "won": 14,
-      "ratio": 82
+      "played": 10,
+      "won": 8,
+      "ratio": 80
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T14:53:51.691Z"
+  "archived_at": "2025-05-29T00:55:12.030Z"
 }
