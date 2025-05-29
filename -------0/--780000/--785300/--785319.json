@@ -1,17 +1,17 @@
 {
   "id": 785319,
-  "username": "AaDDapt",
-  "description": "teamers in ffa = faggots and dykes",
-  "about": null,
+  "username": "CR0MLECH",
+  "description": "be nice\n",
+  "about": "be nice\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-10-24T22:29:07.000Z",
   "date_last_played": "2024-08-07T15:00:13.000Z",
-  "profile_views": 14,
+  "profile_views": 17,
   "kill_count": 2095,
   "play_count": 784,
   "highest_score": 3680566,
-  "picture": "785319.gif",
+  "picture": "785319-efde0f391030e139b7fbd42284f953e77-16ce2729-2ec1-40fb-a68a-0e757d676361.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
@@ -23,7 +23,28 @@
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104902,
+      "user_id": 785319,
+      "platform_id": "dc",
+      "platform_user_id": "860262086747488266",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-22T14:39:36.000Z",
+      "updated_at": "2025-05-22T14:39:36.000Z"
+    },
+    {
+      "id": 104901,
+      "user_id": 785319,
+      "platform_id": "dc",
+      "platform_user_id": "CR0MLECH",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-22T14:39:12.000Z",
+      "updated_at": "2025-05-22T14:39:12.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 785319,
     "rank_kc": 16502,
@@ -46,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T16:38:01.020Z"
+  "archived_at": "2025-05-29T02:05:06.676Z"
 }
