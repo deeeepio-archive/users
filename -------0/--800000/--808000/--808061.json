@@ -1,38 +1,48 @@
 {
   "id": 808061,
   "username": "Hitta",
-  "description": "",
+  "description": "Washed and still better",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-12-31T02:11:22.000Z",
-  "date_last_played": "2025-03-21T02:35:29.000Z",
-  "profile_views": 6667,
-  "kill_count": 47720,
-  "play_count": 11526,
+  "date_last_played": "2025-05-29T03:59:11.000Z",
+  "profile_views": 6726,
+  "kill_count": 47848,
+  "play_count": 11575,
   "highest_score": 21402589,
-  "picture": "808061-861a3f5955d1a576111603546a1d9f72-e0a30db8-6994-4c82-9f05-c3aa0a7cb364.png",
+  "picture": "808061-eb7b319cacab6fe0dca3edd2b7918381-d358a147-7360-41cb-a26e-8ea2546548cf.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 38094,
+  "coins": 38408,
   "tier": 10,
-  "xp": 5305050,
+  "xp": 5352150,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 101230,
+      "id": 104895,
       "user_id": 808061,
       "platform_id": "dc",
-      "platform_user_id": "i hate niggers",
+      "platform_user_id": "1cxd",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2024-12-17T23:35:13.000Z",
-      "updated_at": "2025-05-16T11:00:01.000Z"
+      "created_at": "2025-05-22T07:28:26.000Z",
+      "updated_at": "2025-05-22T07:28:26.000Z"
+    },
+    {
+      "id": 104894,
+      "user_id": 808061,
+      "platform_id": "tc",
+      "platform_user_id": "i love tiddies",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-22T07:28:02.000Z",
+      "updated_at": "2025-05-22T07:28:02.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +56,8 @@
     "rank_hs": 1276,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-16T16:49:50.000Z",
-    "created_at": "2025-05-16T11:09:07.000Z",
-    "updated_at": "2025-05-16T11:09:07.000Z",
+    "created_at": "2025-05-29T03:59:11.000Z",
+    "updated_at": "2025-05-29T03:59:11.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T20:02:30.339Z"
+  "archived_at": "2025-05-29T04:38:52.399Z"
 }
