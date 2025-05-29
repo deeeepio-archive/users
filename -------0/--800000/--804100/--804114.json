@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2020-12-18T19:17:16.000Z",
   "date_last_played": "2025-05-19T01:01:38.000Z",
-  "profile_views": 1231,
+  "profile_views": 1235,
   "kill_count": 16772,
   "play_count": 8138,
   "highest_score": 10001116,
@@ -53,16 +53,6 @@
       "verified": false,
       "created_at": "2025-04-26T22:06:34.000Z",
       "updated_at": "2025-04-26T22:06:34.000Z"
-    },
-    {
-      "id": 102824,
-      "user_id": 804114,
-      "platform_id": "yt",
-      "platform_user_id": "Snuggles16",
-      "platform_user_url": "https://www.youtube.com/@snuggles-x4",
-      "verified": false,
-      "created_at": "2025-02-25T00:43:02.000Z",
-      "updated_at": "2025-02-25T00:43:02.000Z"
     }
   ],
   "user_stats": {
@@ -79,9 +69,9 @@
     "created_at": "2025-05-19T01:01:38.000Z",
     "updated_at": "2025-05-19T01:01:38.000Z",
     "pd": {
-      "played": 14,
-      "won": 8,
-      "ratio": 57
+      "played": 11,
+      "won": 7,
+      "ratio": 64
     }
   },
   "creations": {
@@ -218,5 +208,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T19:20:16.011Z"
+  "archived_at": "2025-05-29T04:11:51.475Z"
 }
