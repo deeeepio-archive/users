@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2020-12-13T08:20:14.000Z",
-  "date_last_played": "2025-05-19T02:11:48.000Z",
-  "profile_views": 630,
-  "kill_count": 10567,
-  "play_count": 6826,
+  "date_last_played": "2025-05-28T12:04:42.000Z",
+  "profile_views": 634,
+  "kill_count": 10624,
+  "play_count": 6890,
   "highest_score": 3556433,
   "picture": "801964-ae12c39a24d4f8addc71c13df48ac552.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 173,
+  "coins": 343,
   "tier": 10,
-  "xp": 1955550,
+  "xp": 1981050,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105065,
+      "user_id": 801964,
+      "platform_id": "yt",
+      "platform_user_id": "Am_snek",
+      "platform_user_url": "https://www.youtube.com/channel/UCuePJMAZ0rJbezmapA1tuVA",
+      "verified": false,
+      "created_at": "2025-05-28T11:16:35.000Z",
+      "updated_at": "2025-05-28T11:16:35.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 801964,
     "rank_kc": 2936,
@@ -35,8 +46,8 @@
     "rank_hs": 15160,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-09-11T12:50:03.000Z",
-    "created_at": "2025-05-19T02:11:47.000Z",
-    "updated_at": "2025-05-19T02:11:48.000Z",
+    "created_at": "2025-05-28T12:04:41.000Z",
+    "updated_at": "2025-05-28T12:04:42.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-19T18:52:42.479Z"
+  "archived_at": "2025-05-29T03:57:55.019Z"
 }
