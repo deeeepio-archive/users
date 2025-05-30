@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-05-30T02:08:22.000Z",
-  "date_last_played": "2025-05-21T14:38:35.000Z",
-  "profile_views": 1209,
-  "kill_count": 12953,
-  "play_count": 4159,
-  "highest_score": 5723653,
+  "date_last_played": "2025-05-29T04:25:19.000Z",
+  "profile_views": 1282,
+  "kill_count": 13487,
+  "play_count": 4206,
+  "highest_score": 7097983,
   "picture": "20732742-a0794d14859df10fc99cc136ce764d1b6-990f8ab9-bf58-42f6-a085-34783ec39e6f.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 611,
+  "coins": 139,
   "tier": 10,
-  "xp": 1172700,
+  "xp": 1263900,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -35,11 +35,11 @@
     "rank_hs": 12717,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-05-17T09:58:34.000Z",
-    "created_at": "2025-05-21T14:38:34.000Z",
-    "updated_at": "2025-05-21T14:38:35.000Z",
+    "created_at": "2025-05-29T04:25:18.000Z",
+    "updated_at": "2025-05-29T04:25:19.000Z",
     "pd": {
-      "played": 145,
-      "won": 98,
+      "played": 150,
+      "won": 102,
       "ratio": 68
     }
   },
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-21T20:55:18.825Z"
+  "archived_at": "2025-05-30T22:17:48.002Z"
 }
