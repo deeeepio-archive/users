@@ -1,29 +1,40 @@
 {
   "id": 20734773,
   "username": "ぽくぁtheぁぁ",
-  "description": "",
-  "about": "",
+  "description": "I came from Asia.",
+  "about": "Assassin from Asia\n\n\nHello, people from NA\nIt's late at night in our time, so I'm really sleepy.(˘ω˘)\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-06-06T02:57:43.000Z",
-  "date_last_played": "2025-05-21T21:00:03.000Z",
-  "profile_views": 12281,
-  "kill_count": 41377,
-  "play_count": 8387,
+  "date_last_played": "2025-05-30T13:01:13.000Z",
+  "profile_views": 12367,
+  "kill_count": 41823,
+  "play_count": 8449,
   "highest_score": 26724677,
   "picture": "20734773-5d10ae9e0b3fe47843b143c1051eecf2f6-6bf2bb4c-5ada-4777-9d3e-976459195d89.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 48918,
+  "coins": 49790,
   "tier": 10,
-  "xp": 10787250,
+  "xp": 10918050,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104976,
+      "user_id": 20734773,
+      "platform_id": "dc",
+      "platform_user_id": "pokuatheaa",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-24T16:18:29.000Z",
+      "updated_at": "2025-05-24T16:18:29.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20734773,
     "rank_kc": 3676,
@@ -35,12 +46,12 @@
     "rank_hs": 2482,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-17T03:13:14.000Z",
-    "created_at": "2025-05-21T21:00:03.000Z",
-    "updated_at": "2025-05-21T21:00:03.000Z",
+    "created_at": "2025-05-30T13:01:12.000Z",
+    "updated_at": "2025-05-30T13:01:13.000Z",
     "pd": {
       "played": 6,
-      "won": 4,
-      "ratio": 67
+      "won": 3,
+      "ratio": 50
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-21T21:09:07.899Z"
+  "archived_at": "2025-05-30T22:31:28.637Z"
 }
