@@ -1,24 +1,24 @@
 {
   "id": 20790309,
-  "username": "Schizophrenic_Fish",
-  "description": "The sweet embrace of Death.",
-  "about": null,
+  "username": "Solid_Snake",
+  "description": "No one hears a word they say\nHas the memory gone? Are you feelin' numb?\nNot a word they say\nBut a voiceless crowd isn't backin' down\nWhen the air turns red\nWith a loaded hesitation\nCan you say my name?",
+  "about": "Box*",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-01-06T15:50:55.000Z",
-  "date_last_played": "2025-05-21T17:39:14.000Z",
-  "profile_views": 12,
-  "kill_count": 6,
-  "play_count": 20,
-  "highest_score": 5300,
+  "date_last_played": "2025-05-30T18:00:36.000Z",
+  "profile_views": 49,
+  "kill_count": 32,
+  "play_count": 35,
+  "highest_score": 583551,
   "picture": "20790309.gif",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 18,
+  "coins": 45,
   "tier": 1,
-  "xp": 1650,
+  "xp": 7200,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-21T17:39:14.000Z",
-    "updated_at": "2025-05-21T17:39:14.000Z",
+    "created_at": "2025-05-30T18:00:35.000Z",
+    "updated_at": "2025-05-30T18:00:36.000Z",
     "pd": {
-      "played": 8,
-      "won": 3,
-      "ratio": 38
+      "played": 12,
+      "won": 4,
+      "ratio": 33
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T03:27:32.041Z"
+  "archived_at": "2025-05-31T04:44:19.486Z"
 }
