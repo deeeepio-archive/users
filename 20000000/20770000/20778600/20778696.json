@@ -1,24 +1,24 @@
 {
   "id": 20778696,
-  "username": "極光aurora",
+  "username": "極光",
   "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2021-11-14T02:59:17.000Z",
-  "date_last_played": "2025-05-22T01:22:11.000Z",
-  "profile_views": 94,
-  "kill_count": 524,
-  "play_count": 606,
-  "highest_score": 811741,
+  "date_last_played": "2025-05-29T07:10:16.000Z",
+  "profile_views": 109,
+  "kill_count": 607,
+  "play_count": 712,
+  "highest_score": 1188091,
   "picture": "20778696-20e776f7c10ef71dd3ee6d239f8a1fab10.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 5,
-  "tier": 2,
-  "xp": 59550,
+  "coins": 63,
+  "tier": 3,
+  "xp": 87000,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 92473,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2022-06-15T03:28:34.000Z",
-    "created_at": "2025-05-22T01:22:10.000Z",
-    "updated_at": "2025-05-22T01:22:11.000Z",
-    "pd": null
+    "created_at": "2025-05-29T07:10:15.000Z",
+    "updated_at": "2025-05-29T07:10:16.000Z",
+    "pd": {
+      "played": 5,
+      "won": 2,
+      "ratio": 40
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T02:10:00.781Z"
+  "archived_at": "2025-05-31T03:27:40.107Z"
 }
