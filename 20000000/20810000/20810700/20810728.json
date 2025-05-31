@@ -1,24 +1,24 @@
 {
   "id": 20810728,
   "username": "黑毛色狼",
-  "description": "",
+  "description": "天上天下，唯我獨尊",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-03-29T10:52:14.000Z",
-  "date_last_played": "2023-02-02T13:47:23.000Z",
-  "profile_views": 217,
-  "kill_count": 682,
-  "play_count": 107,
+  "date_last_played": "2025-05-25T14:44:26.000Z",
+  "profile_views": 266,
+  "kill_count": 817,
+  "play_count": 121,
   "highest_score": 4748261,
-  "picture": "20810728-09087ff1b016ba4fd24238dc96b1e31b.png",
+  "picture": "20810728-c8147eb26fc7046353bb944748aa8134-7c562067-f72f-434f-b872-d18712050068.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 233,
+  "coins": 379,
   "tier": 3,
-  "xp": 107550,
+  "xp": 129450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 7751,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-02-08T02:22:51.000Z",
-    "created_at": "2023-08-26T07:36:11.000Z",
-    "updated_at": "2023-02-08T02:22:51.000Z",
-    "pd": null
+    "created_at": "2025-05-25T16:00:03.000Z",
+    "updated_at": "2025-05-25T16:00:04.000Z",
+    "pd": {
+      "played": 9,
+      "won": 7,
+      "ratio": 78
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T05:50:06.083Z"
+  "archived_at": "2025-05-31T07:03:48.731Z"
 }
