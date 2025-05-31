@@ -1,29 +1,50 @@
 {
   "id": 20765359,
-  "username": "Frye",
-  "description": "Wow. You died to.... ME?? That's a whole new level of pathetic. You must absolutely suck at the game to have gotten clapped by little ol' me.",
-  "about": "Seaweed is delicious ",
+  "username": "Nepuchun",
+  "description": "Why don't you tell me what the afterlife is like once you join back? Unless you decide to avoid me.\n\n(If I murdered you without reason I need the coins, Sorry!)",
+  "about": "I am a chill guy unless provoked. I like to main the GS And LBT. I enjoy playing with my friends and the comrades I meet along the way.\n\nAdd me on discord!: turtledaman\n\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-10-08T19:25:42.000Z",
-  "date_last_played": "2025-05-22T00:23:34.000Z",
-  "profile_views": 31,
-  "kill_count": 280,
-  "play_count": 731,
-  "highest_score": 1247800,
+  "date_last_played": "2025-05-28T12:52:21.000Z",
+  "profile_views": 36,
+  "kill_count": 318,
+  "play_count": 781,
+  "highest_score": 3657581,
   "picture": "20765359-712f66ff9529cfa21f6a1013ecfac2b25-b4d2c097-a665-4cc7-bb79-a6852f07728d.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 97,
+  "coins": 19,
   "tier": 3,
-  "xp": 84450,
+  "xp": 106500,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104947,
+      "user_id": 20765359,
+      "platform_id": "dc",
+      "platform_user_id": "turtledaman",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-23T21:01:51.000Z",
+      "updated_at": "2025-05-23T21:01:51.000Z"
+    },
+    {
+      "id": 104948,
+      "user_id": 20765359,
+      "platform_id": "yt",
+      "platform_user_id": "@kelp180",
+      "platform_user_url": "https://www.youtube.com/@Kelp180",
+      "verified": false,
+      "created_at": "2025-05-23T21:02:43.000Z",
+      "updated_at": "2025-05-23T21:02:43.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20765359,
     "rank_kc": 126830,
@@ -35,8 +56,8 @@
     "rank_hs": 116260,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-08-24T12:16:05.000Z",
-    "created_at": "2025-05-22T00:23:33.000Z",
-    "updated_at": "2025-05-22T00:23:34.000Z",
+    "created_at": "2025-05-28T12:52:21.000Z",
+    "updated_at": "2025-05-28T12:52:21.000Z",
     "pd": {
       "played": 2,
       "won": 0,
@@ -50,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T00:38:34.835Z"
+  "archived_at": "2025-05-31T01:58:37.005Z"
 }
