@@ -1,39 +1,29 @@
 {
   "id": 20767565,
-  "username": "ExtI23",
-  "description": "好的",
-  "about": "Steam friend code:1065887743\n",
+  "username": "阿卜杜勒迈吉德",
+  "description": "",
+  "about": "奥斯曼帝国第三十一任苏丹兼任哈里发\n坚定不移的改革者",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-10-16T07:03:21.000Z",
-  "date_last_played": "2025-05-18T03:10:35.000Z",
-  "profile_views": 5465,
-  "kill_count": 13680,
-  "play_count": 2350,
+  "date_last_played": "2025-05-25T04:03:19.000Z",
+  "profile_views": 5488,
+  "kill_count": 13719,
+  "play_count": 2360,
   "highest_score": 8460549,
-  "picture": "20767565-316bc135ec3bf2eada52a4595da6a653-9ab2280e-8650-4f06-bf7c-549653af728c.png",
+  "picture": "20767565-8958734ef6eab96ad10e964f217725bab-1076702a-317d-4e13-aeb7-18ee83099412.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 608,
+  "coins": 638,
   "tier": 10,
-  "xp": 1819200,
+  "xp": 1823700,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
-    {
-      "id": 23217,
-      "user_id": 20767565,
-      "platform_id": "dc",
-      "platform_user_id": "extn9099",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2023-07-24T01:53:00.000Z",
-      "updated_at": "2024-02-26T02:48:27.000Z"
-    },
     {
       "id": 103750,
       "user_id": 20767565,
@@ -56,12 +46,12 @@
     "rank_hs": 3380,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-19T05:09:41.000Z",
-    "created_at": "2025-05-18T03:10:34.000Z",
-    "updated_at": "2025-05-18T03:10:35.000Z",
+    "created_at": "2025-05-25T04:03:18.000Z",
+    "updated_at": "2025-05-25T04:03:19.000Z",
     "pd": {
-      "played": 4,
-      "won": 4,
-      "ratio": 100
+      "played": 8,
+      "won": 5,
+      "ratio": 63
     }
   },
   "creations": {
@@ -71,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T00:54:03.578Z"
+  "archived_at": "2025-05-31T02:13:10.743Z"
 }
