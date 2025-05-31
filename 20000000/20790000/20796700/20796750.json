@@ -1,29 +1,40 @@
 {
   "id": 20796750,
   "username": "♪♬Symphony♬♪",
-  "description": "Play for the love of the game, not the hatred of the players",
+  "description": "I bomb fngas for breakfast",
   "about": "bomboclat\n𝕯⓵丨ꃅόõ𝐩ꪖ",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-02-02T19:53:24.000Z",
-  "date_last_played": "2025-05-20T18:26:20.000Z",
-  "profile_views": 3283,
-  "kill_count": 18022,
-  "play_count": 5901,
+  "date_last_played": "2025-05-30T20:44:21.000Z",
+  "profile_views": 3537,
+  "kill_count": 18323,
+  "play_count": 6144,
   "highest_score": 11355569,
-  "picture": "20796750-846550b476736fd4afca0acaaa43fe64-b6fe229b-4036-4239-8a2b-fb98f19aff8d.png",
+  "picture": "20796750-5a7bf193a10dd0716c356e7c3d39ea10c7-709ee3f6-18a9-47f6-9604-6087a91cff3b.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2544,
+  "coins": 2497,
   "tier": 10,
-  "xp": 3271200,
+  "xp": 3372900,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105062,
+      "user_id": 20796750,
+      "platform_id": "dc",
+      "platform_user_id": "d.1_h00pa",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-28T06:40:17.000Z",
+      "updated_at": "2025-05-28T06:40:17.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20796750,
     "rank_kc": 1505,
@@ -35,8 +46,8 @@
     "rank_hs": 2147,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-09-16T14:39:12.000Z",
-    "created_at": "2025-05-21T22:00:01.000Z",
-    "updated_at": "2025-05-21T22:00:01.000Z",
+    "created_at": "2025-05-30T20:44:21.000Z",
+    "updated_at": "2025-05-30T20:44:21.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T04:12:32.549Z"
+  "archived_at": "2025-05-31T05:28:46.964Z"
 }
