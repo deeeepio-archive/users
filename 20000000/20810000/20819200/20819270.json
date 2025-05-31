@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2022-04-26T19:52:47.000Z",
-  "date_last_played": "2024-11-29T05:48:49.000Z",
-  "profile_views": 823,
-  "kill_count": 3929,
-  "play_count": 1977,
+  "date_last_played": "2025-05-28T06:29:57.000Z",
+  "profile_views": 834,
+  "kill_count": 3938,
+  "play_count": 1986,
   "highest_score": 5712201,
-  "picture": "20819270-09db610f2101669bd0ae6b1682c7e1236f-dfc25f8c-d53c-47fc-a09f-39b69b1a9b34.png",
+  "picture": "20819270-f94396e8e35f38d7a035771d95093b9c-ad122720-f9e9-4458-82af-1e1addbaee80.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 34,
+  "coins": 74,
   "tier": 8,
-  "xp": 705450,
+  "xp": 718950,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -78,11 +78,11 @@
       "id": 22854,
       "user_id": 20819270,
       "platform_id": "yt",
-      "platform_user_id": "Fly me to the moon",
-      "platform_user_url": "https://youtu.be/YzYdM0nUkTQ",
+      "platform_user_id": "get 999999999 coins",
+      "platform_user_url": "https://youtu.be/xvFZjo5PgG0?si=Awde7hG7bCpwQqD8",
       "verified": false,
       "created_at": "2023-07-15T22:25:52.000Z",
-      "updated_at": "2023-07-15T22:25:52.000Z"
+      "updated_at": "2025-05-25T06:27:52.000Z"
     }
   ],
   "user_stats": {
@@ -96,9 +96,13 @@
     "rank_hs": 6266,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-10-22T12:33:33.000Z",
-    "created_at": "2024-11-29T05:48:49.000Z",
-    "updated_at": "2024-11-29T05:48:49.000Z",
-    "pd": null
+    "created_at": "2025-05-28T06:29:56.000Z",
+    "updated_at": "2025-05-28T06:29:57.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -107,5 +111,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T06:48:44.913Z"
+  "archived_at": "2025-05-31T08:01:49.052Z"
 }
