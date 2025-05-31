@@ -1,24 +1,24 @@
 {
   "id": 20784740,
-  "username": "yubyub",
+  "username": "yubbyyubberton",
   "description": "",
   "about": "swyb:<took'im off tha market\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-12-10T06:47:53.000Z",
-  "date_last_played": "2025-05-14T13:42:13.000Z",
-  "profile_views": 51990,
-  "kill_count": 38918,
-  "play_count": 13286,
+  "date_last_played": "2025-05-25T11:26:07.000Z",
+  "profile_views": 52196,
+  "kill_count": 39000,
+  "play_count": 13309,
   "highest_score": 21596186,
-  "picture": "20784740-1aa0be1085d107b5414b34636e818133ac-937b5673-5431-4732-85f2-e2662cd4b4c9.png",
+  "picture": "20784740-47d9533c623fd8e8de31d9bb10a607728-4e01226c-cf79-4b75-9cb4-d7221e69b5ac.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 63636,
+  "coins": 63800,
   "tier": 10,
-  "xp": 10862250,
+  "xp": 10886850,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -38,11 +38,11 @@
       "id": 31379,
       "user_id": 20784740,
       "platform_id": "dc",
-      "platform_user_id": "BalooIsChill=Hero",
+      "platform_user_id": "don'tbadisgustoidlikeh&dino",
       "platform_user_url": null,
       "verified": false,
       "created_at": "2023-12-27T19:22:53.000Z",
-      "updated_at": "2024-12-30T07:28:04.000Z"
+      "updated_at": "2025-05-27T11:14:35.000Z"
     },
     {
       "id": 25153,
@@ -106,12 +106,12 @@
     "rank_hs": 1267,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-21T09:36:25.000Z",
-    "created_at": "2025-05-14T13:42:12.000Z",
-    "updated_at": "2025-05-14T13:42:13.000Z",
+    "created_at": "2025-05-25T11:26:07.000Z",
+    "updated_at": "2025-05-25T11:26:07.000Z",
     "pd": {
-      "played": 163,
-      "won": 124,
-      "ratio": 76
+      "played": 121,
+      "won": 93,
+      "ratio": 77
     }
   },
   "creations": {
@@ -121,5 +121,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T02:51:09.726Z"
+  "archived_at": "2025-05-31T04:07:42.219Z"
 }
