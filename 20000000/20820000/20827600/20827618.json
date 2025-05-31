@@ -2,23 +2,23 @@
   "id": 20827618,
   "username": "WhipLash",
   "description": "\n\n",
-  "about": "eXtinctioN",
+  "about": "[𝐬συℓ]eXtinctioN",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-12-31T17:49:38.000Z",
-  "date_last_played": "2025-05-20T19:58:58.000Z",
-  "profile_views": 207,
-  "kill_count": 2793,
-  "play_count": 963,
-  "highest_score": 4059207,
-  "picture": "20827618-58497308a322721e2dd61709fa6c42fa.png",
+  "date_last_played": "2025-05-29T11:57:46.000Z",
+  "profile_views": 274,
+  "kill_count": 3055,
+  "play_count": 1022,
+  "highest_score": 10000207,
+  "picture": "20827618-0df491fc991ae2e5b4116f3cef99bac3-731f218a-a93a-4084-b45a-38a77bdec887.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 219,
+  "coins": 415,
   "tier": 8,
-  "xp": 715350,
+  "xp": 809250,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 99388,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-06-27T20:02:39.000Z",
-    "created_at": "2025-05-20T19:58:57.000Z",
-    "updated_at": "2025-05-20T19:58:58.000Z",
-    "pd": null
+    "created_at": "2025-05-29T11:57:45.000Z",
+    "updated_at": "2025-05-29T11:57:46.000Z",
+    "pd": {
+      "played": 5,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T07:45:38.166Z"
+  "archived_at": "2025-05-31T08:58:04.132Z"
 }
