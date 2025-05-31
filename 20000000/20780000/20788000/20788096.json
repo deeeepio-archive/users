@@ -6,33 +6,33 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-12-24T04:25:11.000Z",
-  "date_last_played": "2024-11-25T17:07:35.000Z",
-  "profile_views": 702,
-  "kill_count": 6049,
-  "play_count": 3425,
+  "date_last_played": "2025-05-30T00:57:14.000Z",
+  "profile_views": 727,
+  "kill_count": 6356,
+  "play_count": 3559,
   "highest_score": 3683688,
-  "picture": "20788096-f8d46d87c659cff78ccfffb379732f23-9446e1d0-c3f3-453e-82b6-fd4b651df611.png",
+  "picture": "20788096-cce641a5aff3fb12133ade328a6537d9-01ae757d-d944-4d43-a67b-81b07617da82.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 5785,
+  "coins": 6451,
   "tier": 10,
-  "xp": 1765350,
+  "xp": 1865250,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 99608,
+      "id": 104905,
       "user_id": 20788096,
       "platform_id": "dc",
-      "platform_user_id": "notpangu.",
+      "platform_user_id": "rpji",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2024-10-25T08:29:14.000Z",
-      "updated_at": "2024-10-25T08:29:14.000Z"
+      "created_at": "2025-05-22T17:05:06.000Z",
+      "updated_at": "2025-05-22T17:05:06.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2024-11-25T17:07:35.000Z",
-    "updated_at": "2024-11-25T17:07:35.000Z",
+    "created_at": "2025-05-30T00:57:13.000Z",
+    "updated_at": "2025-05-30T00:57:14.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T03:13:26.906Z"
+  "archived_at": "2025-05-31T04:29:57.657Z"
 }
