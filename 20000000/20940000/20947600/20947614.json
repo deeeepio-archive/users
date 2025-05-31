@@ -1,24 +1,24 @@
 {
   "id": 20947614,
-  "username": "KRL_redbull",
-  "description": "나를 보았다면 이 일은 굉장히 귀한 장면이 될 것입니다",
+  "username": "Soviet1991",
+  "description": "Seo Taiji and Boys",
   "about": "아스팔트 레전드 유나이트 랭커, 딥 거의 안함",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-06-17T02:36:45.000Z",
-  "date_last_played": "2025-05-11T09:05:37.000Z",
-  "profile_views": 15128,
-  "kill_count": 27971,
-  "play_count": 10887,
+  "date_last_played": "2025-05-25T08:40:43.000Z",
+  "profile_views": 15150,
+  "kill_count": 28053,
+  "play_count": 10925,
   "highest_score": 5877311,
-  "picture": "20947614-32625fcd87ff393942fefaf809cd510e7-635cdb0d-f336-4648-b7b8-35028630a72d.png",
+  "picture": "20947614-80c796046bf3c8b07b91083a71910ed5b7-c91d3e65-296b-4b8d-b7f1-26f91385c5ba.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 117,
+  "coins": 247,
   "tier": 10,
-  "xp": 4400850,
+  "xp": 4420350,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 6224,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-17T13:29:45.000Z",
-    "created_at": "2025-05-11T09:05:37.000Z",
-    "updated_at": "2025-05-11T09:05:37.000Z",
-    "pd": null
+    "created_at": "2025-05-25T10:00:05.000Z",
+    "updated_at": "2025-05-25T10:00:05.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T21:54:30.140Z"
+  "archived_at": "2025-05-31T22:47:00.278Z"
 }
