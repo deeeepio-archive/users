@@ -1,24 +1,24 @@
 {
   "id": 20814006,
   "username": "Lacostess",
-  "description": "Esse e o preço que se paga por me matar (Rex master)\nValeu pela comida kkkkk\nVocê joga bem mas morreu boa sorte amg ",
+  "description": "Você não tem odio ",
   "about": "15 anos \nBr né pai",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-04-11T19:38:43.000Z",
-  "date_last_played": "2025-02-28T23:37:50.000Z",
-  "profile_views": 525,
-  "kill_count": 3547,
-  "play_count": 1673,
+  "date_last_played": "2025-05-27T17:55:39.000Z",
+  "profile_views": 538,
+  "kill_count": 3584,
+  "play_count": 1686,
   "highest_score": 1941491,
   "picture": "20814006-8fb772c82110b4aeaeb342cce5a046c95.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 94,
+  "coins": 135,
   "tier": 6,
-  "xp": 425550,
+  "xp": 431700,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 39680,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-06-27T19:33:36.000Z",
-    "created_at": "2025-02-28T23:37:50.000Z",
-    "updated_at": "2025-02-28T23:37:50.000Z",
-    "pd": null
+    "created_at": "2025-05-27T17:55:39.000Z",
+    "updated_at": "2025-05-27T17:55:39.000Z",
+    "pd": {
+      "played": 7,
+      "won": 3,
+      "ratio": 43
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T06:12:32.668Z"
+  "archived_at": "2025-05-31T07:26:54.130Z"
 }
