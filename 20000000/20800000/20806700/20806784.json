@@ -1,24 +1,24 @@
 {
   "id": 20806784,
-  "username": "calliope",
+  "username": "okoro",
   "description": "猿も木から落ちる",
   "about": "fav animals\nmarlin\nsleeper shark\ngs\nbeaked\nhumpback\ngar",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-03-12T03:18:18.000Z",
-  "date_last_played": "2025-05-18T20:58:55.000Z",
-  "profile_views": 1717,
-  "kill_count": 11279,
-  "play_count": 4129,
+  "date_last_played": "2025-05-29T16:19:13.000Z",
+  "profile_views": 1769,
+  "kill_count": 11624,
+  "play_count": 4215,
   "highest_score": 10056229,
-  "picture": "20806784-2dcf7f3a3fbed6c106cb72318964145e0-fee01b84-1f0a-4fe7-8c2a-16abaa573938.png",
+  "picture": "20806784-267e8a32a1d72fdfefbc2714ef6df41f-d44fb89c-865a-49ab-b5ec-261c01e2babf.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 877,
+  "coins": 1465,
   "tier": 10,
-  "xp": 2250450,
+  "xp": 2358150,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": 4094,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-19T01:35:06.000Z",
-    "created_at": "2025-05-18T20:58:55.000Z",
-    "updated_at": "2025-05-18T20:58:55.000Z",
+    "created_at": "2025-05-29T16:19:12.000Z",
+    "updated_at": "2025-05-29T16:19:13.000Z",
     "pd": {
-      "played": 6,
-      "won": 4,
-      "ratio": 67
+      "played": 14,
+      "won": 10,
+      "ratio": 71
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T05:22:17.894Z"
+  "archived_at": "2025-05-31T06:36:38.901Z"
 }
