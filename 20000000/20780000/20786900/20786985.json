@@ -1,24 +1,24 @@
 {
   "id": 20786985,
-  "username": "trappa",
+  "username": "user11",
   "description": "",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2021-12-18T17:23:08.000Z",
-  "date_last_played": "2025-05-21T18:26:28.000Z",
-  "profile_views": 31,
-  "kill_count": 183,
-  "play_count": 202,
+  "date_last_played": "2025-05-27T19:58:02.000Z",
+  "profile_views": 47,
+  "kill_count": 248,
+  "play_count": 292,
   "highest_score": 2962278,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 123,
+  "coins": 337,
   "tier": 3,
-  "xp": 85950,
+  "xp": 118050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-21T18:26:28.000Z",
-    "updated_at": "2025-05-21T18:26:28.000Z",
+    "created_at": "2025-05-27T19:58:01.000Z",
+    "updated_at": "2025-05-27T19:58:02.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T03:05:12.712Z"
+  "archived_at": "2025-05-31T04:22:40.742Z"
 }

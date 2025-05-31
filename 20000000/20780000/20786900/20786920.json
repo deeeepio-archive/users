@@ -6,43 +6,33 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-12-18T11:45:23.000Z",
-  "date_last_played": "2025-05-20T14:51:49.000Z",
-  "profile_views": 4167,
-  "kill_count": 10468,
-  "play_count": 1842,
+  "date_last_played": "2025-05-28T11:59:21.000Z",
+  "profile_views": 4201,
+  "kill_count": 10493,
+  "play_count": 1848,
   "highest_score": 1393145,
   "picture": "20786920-8187a03bd372a15b1769d4ebfb6cce101-288b0e3d-cc4d-4717-bdb1-2fec5e296e27.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 41,
+  "coins": 49,
   "tier": 10,
-  "xp": 1232100,
+  "xp": 1233300,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 101762,
+      "id": 105049,
       "user_id": 20786920,
       "platform_id": "yt",
-      "platform_user_id": "「何者」",
-      "platform_user_url": "https://youtu.be/3ZFrYKdQqUc?si=epka9mBsn9o-z-YK",
+      "platform_user_id": "不虛此行",
+      "platform_user_url": "https://youtu.be/GdBLXGUy2C0?si=6i1JnptUDlOtwEDK",
       "verified": false,
-      "created_at": "2025-01-08T12:46:27.000Z",
-      "updated_at": "2025-01-08T12:49:05.000Z"
-    },
-    {
-      "id": 104865,
-      "user_id": 20786920,
-      "platform_id": "yt",
-      "platform_user_id": "刀和刀還有刀",
-      "platform_user_url": "https://youtu.be/OSnfCNqPDMI?si=gjq13wj3BWeFDX-9",
-      "verified": false,
-      "created_at": "2025-05-19T15:08:55.000Z",
-      "updated_at": "2025-05-19T15:08:55.000Z"
+      "created_at": "2025-05-27T14:00:12.000Z",
+      "updated_at": "2025-05-27T14:00:12.000Z"
     },
     {
       "id": 104864,
@@ -66,12 +56,12 @@
     "rank_hs": 65983,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-12-28T15:09:12.000Z",
-    "created_at": "2025-05-20T14:51:48.000Z",
-    "updated_at": "2025-05-20T14:51:49.000Z",
+    "created_at": "2025-05-28T11:59:20.000Z",
+    "updated_at": "2025-05-28T11:59:21.000Z",
     "pd": {
-      "played": 4,
-      "won": 3,
-      "ratio": 75
+      "played": 10,
+      "won": 4,
+      "ratio": 40
     }
   },
   "creations": {
@@ -81,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-22T03:05:05.019Z"
+  "archived_at": "2025-05-31T04:22:30.625Z"
 }
