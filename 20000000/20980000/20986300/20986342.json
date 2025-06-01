@@ -1,24 +1,24 @@
 {
   "id": 20986342,
   "username": "Milky✨",
-  "description": "",
+  "description": "u suck lol\n",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2022-11-12T13:38:47.000Z",
-  "date_last_played": "2024-05-11T17:21:44.000Z",
-  "profile_views": 373,
-  "kill_count": 562,
-  "play_count": 555,
+  "date_last_played": "2025-05-25T17:52:08.000Z",
+  "profile_views": 380,
+  "kill_count": 565,
+  "play_count": 560,
   "highest_score": 673718,
   "picture": "20986342-c50fa5c410ab5487f1a27f3211e6bd69b.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 413,
+  "coins": 416,
   "tier": 3,
-  "xp": 105750,
+  "xp": 106200,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 128099,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-12-17T01:54:52.000Z",
-    "created_at": "2024-05-11T17:21:43.000Z",
-    "updated_at": "2024-05-11T17:21:44.000Z",
-    "pd": null
+    "created_at": "2025-05-25T17:52:08.000Z",
+    "updated_at": "2025-05-25T17:52:08.000Z",
+    "pd": {
+      "played": 3,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-23T02:26:26.363Z"
+  "archived_at": "2025-06-01T03:24:35.325Z"
 }
