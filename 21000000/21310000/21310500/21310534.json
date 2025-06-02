@@ -1,24 +1,24 @@
 {
   "id": 21310534,
-  "username": "BONG0",
+  "username": "BAOBAB",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2023-08-08T16:25:26.000Z",
-  "date_last_played": "2025-05-23T22:55:50.000Z",
-  "profile_views": 34,
-  "kill_count": 176,
-  "play_count": 257,
+  "date_last_played": "2025-05-28T16:56:43.000Z",
+  "profile_views": 67,
+  "kill_count": 449,
+  "play_count": 413,
   "highest_score": 4199530,
-  "picture": null,
+  "picture": "21310534-1d385272a1d8bda1fc26de6bd19610ba7-19acf604-9505-4fc9-a7f6-87d46d5f6d35.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 210,
+  "coins": 425,
   "tier": 3,
-  "xp": 84000,
+  "xp": 138750,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-23T22:55:49.000Z",
-    "updated_at": "2025-05-23T22:55:50.000Z",
+    "created_at": "2025-05-28T16:56:43.000Z",
+    "updated_at": "2025-05-28T16:56:43.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T16:01:06.442Z"
+  "archived_at": "2025-06-02T18:40:40.115Z"
 }
