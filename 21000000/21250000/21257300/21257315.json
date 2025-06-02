@@ -1,29 +1,40 @@
 {
   "id": 21257315,
   "username": "로라ㅤㅤㅤㅤㅤㅤㅤ",
-  "description": "",
-  "about": "",
+  "description": "f",
+  "about": "접음 지금은 단사람이 씀\n\n보고싶으면 디코로 연락ㄱ",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-01-21T00:16:46.000Z",
-  "date_last_played": "2025-05-23T09:03:22.000Z",
-  "profile_views": 8729,
-  "kill_count": 32952,
-  "play_count": 11855,
+  "date_last_played": "2025-05-28T09:24:49.000Z",
+  "profile_views": 8751,
+  "kill_count": 32992,
+  "play_count": 11874,
   "highest_score": 10513626,
   "picture": "21257315-313eaf910ea798665d98b6e4f49f5d102c-d897475b-ac11-4501-a5f6-e1b7651657f0.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 222,
+  "coins": 309,
   "tier": 10,
-  "xp": 7237500,
+  "xp": 7250550,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 104987,
+      "user_id": 21257315,
+      "platform_id": "dc",
+      "platform_user_id": "yeoreum09311",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-25T00:10:28.000Z",
+      "updated_at": "2025-05-25T00:10:28.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21257315,
     "rank_kc": 1439,
@@ -35,12 +46,12 @@
     "rank_hs": 2438,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-21T06:11:04.000Z",
-    "created_at": "2025-05-23T09:03:22.000Z",
-    "updated_at": "2025-05-23T09:03:22.000Z",
+    "created_at": "2025-05-28T09:24:48.000Z",
+    "updated_at": "2025-05-28T09:24:49.000Z",
     "pd": {
-      "played": 4,
+      "played": 3,
       "won": 2,
-      "ratio": 50
+      "ratio": 67
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T09:57:31.550Z"
+  "archived_at": "2025-06-02T12:09:17.308Z"
 }
