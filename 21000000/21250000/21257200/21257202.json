@@ -1,24 +1,24 @@
 {
   "id": 21257202,
   "username": "ziggy1",
-  "description": "highest scores:\nsunfish: 5.001 mil\ngiant pacific octopus: 4.205 mil\nanaconda: 2.632 mil\noctopus: 1.072 mil\n",
+  "description": "highest scores:     (FFA)\nsunfish: 5.001 mil\ngiant pacific octopus: 4.205 mil\nanaconda: 2.632 mil\nmanta ray: 1.754 mil\n\nhonerable mentions: \nmoray eel: 838 k\noctopus: 1.072 mil\n",
   "about": "\n⠀my names (ghost) for most things.",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-01-20T15:45:09.000Z",
-  "date_last_played": "2025-05-23T19:07:50.000Z",
-  "profile_views": 246,
-  "kill_count": 1546,
-  "play_count": 1754,
+  "date_last_played": "2025-05-30T19:38:01.000Z",
+  "profile_views": 276,
+  "kill_count": 1695,
+  "play_count": 1877,
   "highest_score": 5001268,
   "picture": "21257202-2e1510e6cad436b14b5ff6b534f5f925e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 8,
+  "coins": 36,
   "tier": 6,
-  "xp": 447750,
+  "xp": 508350,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -56,9 +56,13 @@
     "rank_hs": 8079,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-09-24T00:03:09.000Z",
-    "created_at": "2025-05-23T19:07:50.000Z",
-    "updated_at": "2025-05-23T19:07:50.000Z",
-    "pd": null
+    "created_at": "2025-05-30T19:38:00.000Z",
+    "updated_at": "2025-05-30T19:38:01.000Z",
+    "pd": {
+      "played": 14,
+      "won": 6,
+      "ratio": 43
+    }
   },
   "creations": {
     "maps": {
@@ -67,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T09:57:04.098Z"
+  "archived_at": "2025-06-02T12:08:43.450Z"
 }
