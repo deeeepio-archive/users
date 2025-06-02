@@ -1,38 +1,38 @@
 {
   "id": 21346807,
   "username": "Cevir",
-  "description": "error 1000-7",
-  "about": "Я ДеД ИНсаЙд МНе ДЕвяТЬ ЛеТ Я хОЧу в ПсИХкиДС",
+  "description": "1000-7 я умер прости этот ёбаный дождь нагоняет тоски...",
+  "about": "эта ёлка это я сегодня первое января традиционные поздравления всем хорошего настроения ой бля сейчас же лето просто вырвалось",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-01-05T16:02:30.000Z",
-  "date_last_played": "2025-05-24T16:40:42.000Z",
-  "profile_views": 495,
-  "kill_count": 3292,
-  "play_count": 3679,
+  "date_last_played": "2025-06-02T10:44:47.000Z",
+  "profile_views": 522,
+  "kill_count": 3331,
+  "play_count": 3767,
   "highest_score": 3664966,
   "picture": "21346807-db697544cfb59dc1d2af638aa9ed9867-61fbba80-9033-4f41-8bd0-d07e792a9c10.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 213,
+  "coins": 48,
   "tier": 9,
-  "xp": 904050,
+  "xp": 927300,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 104749,
+      "id": 105043,
       "user_id": 21346807,
       "platform_id": "dc",
-      "platform_user_id": "когда друзьям больно ты им помогаешь, но когда тебе больно... у тебя нет друзей",
+      "platform_user_id": "когда друзьям плохо ты им помогаешь, но когда тебе плохо... у тебя нет друзей",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2025-05-15T12:00:45.000Z",
-      "updated_at": "2025-05-15T12:00:45.000Z"
+      "created_at": "2025-05-27T09:29:20.000Z",
+      "updated_at": "2025-05-27T09:29:20.000Z"
     }
   ],
   "user_stats": {
@@ -46,9 +46,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-24T16:40:42.000Z",
-    "updated_at": "2025-05-24T16:40:42.000Z",
-    "pd": null
+    "created_at": "2025-06-02T10:44:46.000Z",
+    "updated_at": "2025-06-02T10:44:47.000Z",
+    "pd": {
+      "played": 4,
+      "won": 2,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T20:02:57.838Z"
+  "archived_at": "2025-06-02T23:51:16.990Z"
 }
