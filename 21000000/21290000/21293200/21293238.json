@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2023-05-20T15:47:51.000Z",
-  "date_last_played": "2025-05-24T02:00:07.000Z",
-  "profile_views": 2235,
-  "kill_count": 8251,
-  "play_count": 6067,
+  "date_last_played": "2025-05-31T10:02:12.000Z",
+  "profile_views": 2245,
+  "kill_count": 8262,
+  "play_count": 6092,
   "highest_score": 4490495,
   "picture": "21293238-b96ef3d3ccd8788f3a96d65d4af521002-9217dfa1-2c7f-45f3-9f48-b3e97686c433.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 86,
+  "coins": 136,
   "tier": 10,
-  "xp": 2329950,
+  "xp": 2337450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,6 +33,16 @@
       "verified": false,
       "created_at": "2025-05-23T10:53:52.000Z",
       "updated_at": "2025-05-23T10:53:52.000Z"
+    },
+    {
+      "id": 105133,
+      "user_id": 21293238,
+      "platform_id": "dc",
+      "platform_user_id": "fucked by unholy and gxdly",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-30T15:28:14.000Z",
+      "updated_at": "2025-05-30T15:28:14.000Z"
     },
     {
       "id": 104928,
@@ -66,12 +76,12 @@
     "rank_hs": 12533,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-10-11T22:56:24.000Z",
-    "created_at": "2025-05-24T02:00:06.000Z",
-    "updated_at": "2025-05-24T02:00:07.000Z",
+    "created_at": "2025-05-31T10:02:11.000Z",
+    "updated_at": "2025-05-31T10:02:12.000Z",
     "pd": {
-      "played": 6,
-      "won": 3,
-      "ratio": 50
+      "played": 1,
+      "won": 0,
+      "ratio": 0
     }
   },
   "creations": {
@@ -81,5 +91,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T14:04:01.406Z"
+  "archived_at": "2025-06-02T16:37:56.185Z"
 }
