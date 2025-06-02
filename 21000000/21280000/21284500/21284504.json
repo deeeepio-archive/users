@@ -1,29 +1,40 @@
 {
   "id": 21284504,
-  "username": "TheDeathstalker",
-  "description": "Really, git gud.\n\nTFFA:\n2.782m Coelclanth\n2.08m Stonefish\n1.503m Sawfish\n1.157m Sawfish\n1.104m Marlin\n1.040m Basking\n\nPD:\n12.21m Sawfish\n2.571m Sawfish\n\nAnd flip off.",
+  "username": "Deathstalker_",
+  "description": "「 ✦ ᴅᴇᴀᴛʜsᴛᴀʟᴋᴇʀ ✦ 」\n\nCoelclanth main\n\nTFFA:\n#1: 2.782m Coelclanth\n#2: 2.08m Stonefish\n#3: 2.033m Sunfish\n#4: 1.503m Sawfish\n#5: 1.495m Coelclanth\n\n#6: 962.3k Icefish\n\n\n\n",
   "about": "Deez Nuts",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-04-21T20:10:35.000Z",
-  "date_last_played": "2025-01-26T20:50:24.000Z",
-  "profile_views": 48,
-  "kill_count": 459,
-  "play_count": 342,
+  "date_last_played": "2025-06-01T19:22:39.000Z",
+  "profile_views": 63,
+  "kill_count": 519,
+  "play_count": 421,
   "highest_score": 2782206,
   "picture": "21284504-21804c41b4c898f78cc3ae2931f3c8f6.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 133,
+  "coins": 90,
   "tier": 3,
-  "xp": 97950,
+  "xp": 138750,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105015,
+      "user_id": 21284504,
+      "platform_id": "yt",
+      "platform_user_id": "Deathstalker",
+      "platform_user_url": "https://youtube.com/@therealdeathstalker_",
+      "verified": false,
+      "created_at": "2025-05-26T03:48:35.000Z",
+      "updated_at": "2025-05-26T03:48:35.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21284504,
     "rank_kc": 48763,
@@ -35,8 +46,8 @@
     "rank_hs": 23641,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-09-20T00:12:01.000Z",
-    "created_at": "2025-01-26T20:50:23.000Z",
-    "updated_at": "2025-01-26T20:50:24.000Z",
+    "created_at": "2025-06-01T19:22:39.000Z",
+    "updated_at": "2025-06-01T19:22:39.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T13:04:15.319Z"
+  "archived_at": "2025-06-02T15:38:51.016Z"
 }
