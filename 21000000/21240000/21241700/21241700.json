@@ -1,29 +1,40 @@
 {
   "id": 21241700,
-  "username": "nathanuplandz",
-  "description": "Nothing personal just buisiness.",
-  "about": null,
+  "username": "PlagueDoc049",
+  "description": "Damn, well thats too bad then",
+  "about": "Depressed... yes thats it.",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-12-28T16:00:54.000Z",
-  "date_last_played": "2022-12-30T17:48:59.000Z",
-  "profile_views": 1,
-  "kill_count": 58,
-  "play_count": 133,
-  "highest_score": 243810,
+  "date_last_played": "2025-05-25T18:31:15.000Z",
+  "profile_views": 4,
+  "kill_count": 62,
+  "play_count": 137,
+  "highest_score": 268049,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 27,
+  "coins": 31,
   "tier": 1,
-  "xp": 2550,
+  "xp": 3150,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105006,
+      "user_id": 21241700,
+      "platform_id": "dc",
+      "platform_user_id": "plague_doctor0049",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-25T18:27:43.000Z",
+      "updated_at": "2025-05-25T18:27:43.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21241700,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-27T18:58:03.000Z",
-    "updated_at": "2025-04-27T18:58:03.000Z",
+    "created_at": "2025-05-25T18:31:15.000Z",
+    "updated_at": "2025-05-25T18:31:15.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T08:12:54.155Z"
+  "archived_at": "2025-06-02T10:15:38.086Z"
 }
