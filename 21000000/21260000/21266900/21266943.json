@@ -1,29 +1,40 @@
 {
   "id": 21266943,
-  "username": "👑💀PRINCE-VIRUSO💀👑",
-  "description": "VOTRE PRINCE VOUS A DÉJÀ INFECTÉ 🔥🔥🗣️🗣️",
-  "about": "💎DIY Beast💎 FANTASTIQUE. MES MEILLEURS ANIMAUX( ͡° ͜ʖ ͡°) :\n• CACHALOT : JE SUIS D'ACCORD AVEC ÇA (15.559m)\n• CRABE DE COCOTIER : UN TRÈS BON ANIMAL (10.469m)\n• ARAIGNÉE DE CRABE JAPONAISE : TRÈS CASSÉE (10.173m)",
+  "username": "gokublackㅤ",
+  "description": "goku black",
+  "about": "goku black",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-02-08T01:24:04.000Z",
-  "date_last_played": "2025-05-24T03:05:22.000Z",
-  "profile_views": 2362,
-  "kill_count": 16155,
-  "play_count": 4568,
+  "date_last_played": "2025-06-01T23:03:09.000Z",
+  "profile_views": 2479,
+  "kill_count": 16248,
+  "play_count": 4587,
   "highest_score": 15955202,
-  "picture": "21266943-21f6fcf73d0e8bb8cb332fd2ed07bee2-9dacccb0-8153-4708-a8a3-225790be74df.png",
+  "picture": "21266943-fc63c3c439f2edcfce6ed33fa0771b1c-1aaa3afe-a5a9-43e1-88a1-3664272f6304.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 292,
+  "coins": 440,
   "tier": 10,
-  "xp": 4010550,
+  "xp": 4046250,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105186,
+      "user_id": 21266943,
+      "platform_id": "dc",
+      "platform_user_id": "gokublack736",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-01T23:04:11.000Z",
+      "updated_at": "2025-06-01T23:04:11.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21266943,
     "rank_kc": null,
@@ -35,12 +46,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-24T03:05:22.000Z",
-    "updated_at": "2025-05-24T03:05:22.000Z",
+    "created_at": "2025-06-01T23:03:08.000Z",
+    "updated_at": "2025-06-01T23:03:09.000Z",
     "pd": {
-      "played": 9,
-      "won": 6,
-      "ratio": 67
+      "played": 10,
+      "won": 7,
+      "ratio": 70
     }
   },
   "creations": {
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T11:01:12.959Z"
+  "archived_at": "2025-06-02T13:21:27.505Z"
 }
