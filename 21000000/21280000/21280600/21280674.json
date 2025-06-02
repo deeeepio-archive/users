@@ -1,24 +1,24 @@
 {
   "id": 21280674,
   "username": "Loucaon",
-  "description": "Hello ajoute me in your friends .\nI am french",
+  "description": "Hello ad me in  friends .\nI am 🇫🇷 \nYou are not a noob I have just 🍀 ",
   "about": "Subscribe to loucaon-bs on yt \n",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-04-07T13:52:50.000Z",
-  "date_last_played": "2025-05-18T13:55:27.000Z",
-  "profile_views": 291,
-  "kill_count": 1301,
-  "play_count": 1484,
+  "date_last_played": "2025-05-31T13:33:13.000Z",
+  "profile_views": 307,
+  "kill_count": 1351,
+  "play_count": 1544,
   "highest_score": 2526286,
   "picture": "21280674-ea3c10bbb794385be1e9b7fddfa82b204.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 49,
+  "coins": 40,
   "tier": 5,
-  "xp": 313650,
+  "xp": 334800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 40388,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-05-01T08:50:59.000Z",
-    "created_at": "2025-05-18T13:55:26.000Z",
-    "updated_at": "2025-05-18T13:55:27.000Z",
-    "pd": null
+    "created_at": "2025-05-31T13:33:13.000Z",
+    "updated_at": "2025-05-31T13:33:13.000Z",
+    "pd": {
+      "played": 4,
+      "won": 2,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T12:38:24.058Z"
+  "archived_at": "2025-06-02T15:09:58.236Z"
 }
