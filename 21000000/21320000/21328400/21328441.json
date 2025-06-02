@@ -1,29 +1,40 @@
 {
   "id": 21328441,
   "username": "zub",
-  "description": "sjudhegsbf,njdr\nGiant HHOOOOODY",
+  "description": "I am a stupid no skill person in real life. And if you die to me, you are just a person that is worse than me. In other words you are nothing but less than an idiotic faliyer.",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2023-10-31T13:51:40.000Z",
-  "date_last_played": "2025-05-22T19:09:42.000Z",
-  "profile_views": 52,
-  "kill_count": 603,
-  "play_count": 630,
+  "date_last_played": "2025-06-02T18:53:22.000Z",
+  "profile_views": 55,
+  "kill_count": 630,
+  "play_count": 649,
   "highest_score": 1797626,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 214,
-  "tier": 3,
-  "xp": 148500,
+  "coins": 262,
+  "tier": 4,
+  "xp": 155700,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105068,
+      "user_id": 21328441,
+      "platform_id": "dc",
+      "platform_user_id": "Soob_gaming",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-28T15:14:02.000Z",
+      "updated_at": "2025-05-28T15:14:02.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21328441,
     "rank_kc": 48969,
@@ -35,8 +46,8 @@
     "rank_hs": 85319,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-08T13:59:15.000Z",
-    "created_at": "2025-05-22T19:09:42.000Z",
-    "updated_at": "2025-05-22T19:09:42.000Z",
+    "created_at": "2025-06-02T21:00:02.000Z",
+    "updated_at": "2025-06-02T21:00:03.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T17:59:49.479Z"
+  "archived_at": "2025-06-02T21:22:12.182Z"
 }
