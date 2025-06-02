@@ -1,24 +1,24 @@
 {
   "id": 21256217,
   "username": "Terrifying",
-  "description": "Reasons I might have killed you:\nYou were teaming in FFA, everyone hates you if you team and TFFA exists for a reason.\nYou killed or attacked me\nI was playing for coins",
+  "description": "I have returned.",
   "about": "Mains: Humpback(1.016m), Marlin(2.101m & main main), Pancake(1.499m), Moray(1.399m), in FFA\nPracticing Orca(1.387m)\nCan do double, triple, reverse grab so idk if I'm maining or practicing.\nAnyways, I'm not that much of a pro.\nAlso a math nerd",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-01-16T14:55:01.000Z",
-  "date_last_played": "2025-03-06T19:03:17.000Z",
-  "profile_views": 1215,
-  "kill_count": 2966,
-  "play_count": 1683,
+  "date_last_played": "2025-06-01T16:02:06.000Z",
+  "profile_views": 1240,
+  "kill_count": 3025,
+  "play_count": 1720,
   "highest_score": 2441592,
   "picture": "21256217-3eaeaca7492484f8392f38011b1e1001a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1299,
+  "coins": 1441,
   "tier": 8,
-  "xp": 792900,
+  "xp": 814200,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 30415,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-24T08:12:59.000Z",
-    "created_at": "2025-03-06T19:03:16.000Z",
-    "updated_at": "2025-03-06T19:03:17.000Z",
-    "pd": null
+    "created_at": "2025-06-01T16:02:06.000Z",
+    "updated_at": "2025-06-01T16:02:06.000Z",
+    "pd": {
+      "played": 8,
+      "won": 4,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T09:50:06.664Z"
+  "archived_at": "2025-06-02T12:01:53.767Z"
 }
