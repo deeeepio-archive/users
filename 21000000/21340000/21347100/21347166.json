@@ -1,24 +1,24 @@
 {
   "id": 21347166,
   "username": "moai446",
-  "description": "COCOTRON IS ATTACKING \n\n\n",
+  "description": "COCOTRON IS ATTACKING \n\nAlso sorry if i made you mad\n",
   "about": "the noob of all noobs\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-01-07T18:41:43.000Z",
-  "date_last_played": "2025-05-05T19:30:27.000Z",
-  "profile_views": 43,
-  "kill_count": 164,
-  "play_count": 283,
-  "highest_score": 1640628,
+  "date_last_played": "2025-06-02T19:41:33.000Z",
+  "profile_views": 51,
+  "kill_count": 204,
+  "play_count": 396,
+  "highest_score": 1697875,
   "picture": "21347166-2f89692e7914d104faccae315aa942d33-2d52a2fb-66d6-43bf-8efa-7cfa15c58e92.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 95,
-  "tier": 2,
-  "xp": 57300,
+  "coins": 202,
+  "tier": 3,
+  "xp": 92100,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 136841,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-18T20:57:10.000Z",
-    "created_at": "2025-05-05T19:30:26.000Z",
-    "updated_at": "2025-05-05T19:30:27.000Z",
-    "pd": null
+    "created_at": "2025-06-02T19:41:33.000Z",
+    "updated_at": "2025-06-02T19:41:33.000Z",
+    "pd": {
+      "played": 3,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T20:05:59.605Z"
+  "archived_at": "2025-06-02T23:53:44.587Z"
 }
