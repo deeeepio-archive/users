@@ -1,24 +1,24 @@
 {
   "id": 21396312,
-  "username": "Toast3",
-  "description": "I feed on your soul\n\nOh now, don't be mad😏\n\nToast2 Alt\n\n",
-  "about": "Practising food control and am getting better so watch out!!.\n\n\n\n\n",
+  "username": "Toast2",
+  "description": "One of the worst eagle mains <3",
+  "about": "Old me New me\n\n\n\n\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-01-06T16:27:48.000Z",
-  "date_last_played": "2025-03-27T15:04:22.000Z",
-  "profile_views": 1126,
-  "kill_count": 757,
-  "play_count": 534,
+  "date_last_played": "2025-06-01T20:33:40.000Z",
+  "profile_views": 1243,
+  "kill_count": 844,
+  "play_count": 610,
   "highest_score": 8191775,
-  "picture": "21396312-156cccf171e88a33db1102627accf22e-81aaf2d7-a084-4dc0-88d4-a67fce429a16.png",
+  "picture": "21396312-938f9e210ffe6235f7887a71c7f6126c2-516ff270-af7e-40a6-bd03-c8d3ff28a66a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 185,
+  "coins": 206,
   "tier": 5,
-  "xp": 260250,
+  "xp": 288900,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-03-27T15:04:22.000Z",
-    "updated_at": "2025-03-27T15:04:22.000Z",
-    "pd": null
+    "created_at": "2025-06-01T20:33:39.000Z",
+    "updated_at": "2025-06-01T20:33:40.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T01:46:01.773Z"
+  "archived_at": "2025-06-03T06:31:05.696Z"
 }
