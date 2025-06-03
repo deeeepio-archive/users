@@ -1,24 +1,24 @@
 {
   "id": 21353019,
   "username": "WORLDWARS",
-  "description": "I win fair and square(smtimes)\nDidnt know if u knew this but youre so ugly youre the reason why makeup was invented\nITS A GAME ABT DIFFERENT FISH DONT GET MAD MF\n\n\n",
+  "description": "The taste of flesh is the only thing that quenches my insatiable hunger for chaos\n",
   "about": "Unless peace is restored no one will know true joy",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-02-14T18:43:00.000Z",
-  "date_last_played": "2025-01-26T16:51:56.000Z",
-  "profile_views": 338,
-  "kill_count": 1202,
-  "play_count": 853,
+  "date_last_played": "2025-06-01T14:52:58.000Z",
+  "profile_views": 348,
+  "kill_count": 1224,
+  "play_count": 897,
   "highest_score": 1125203,
   "picture": "21353019-9706caf5c54ee2e29c43f0c66920d7eb.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 125,
-  "tier": 4,
-  "xp": 243900,
+  "coins": 149,
+  "tier": 5,
+  "xp": 253500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-01-26T16:51:56.000Z",
-    "updated_at": "2025-01-26T16:51:56.000Z",
-    "pd": null
+    "created_at": "2025-06-01T14:52:58.000Z",
+    "updated_at": "2025-06-01T14:52:58.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T20:45:37.266Z"
+  "archived_at": "2025-06-03T00:36:03.584Z"
 }
