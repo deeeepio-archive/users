@@ -1,29 +1,50 @@
 {
   "id": 21361157,
   "username": "MUSKET",
-  "description": "Did u know the meat in this game is actually sushi if u look close?",
+  "description": "Did you know the meat in this game is actually sushi if u look close?\n\n\n\n\n\nIf you're ever sad, just remember that the T-Rex got the worst nerf ever (It evolved into a chicken)\n\n\n\n\n",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-04-02T00:30:26.000Z",
-  "date_last_played": "2025-05-24T21:29:07.000Z",
-  "profile_views": 169,
-  "kill_count": 497,
-  "play_count": 475,
-  "highest_score": 1132583,
+  "date_last_played": "2025-06-02T01:05:38.000Z",
+  "profile_views": 196,
+  "kill_count": 585,
+  "play_count": 593,
+  "highest_score": 1756268,
   "picture": "21361157-103ce1e107692dad5e4d6bccf100dae75a4-974739d8-e8d1-46f3-b5eb-1a603de4862a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 105,
+  "coins": 84,
   "tier": 4,
-  "xp": 151500,
+  "xp": 200850,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105014,
+      "user_id": 21361157,
+      "platform_id": "dc",
+      "platform_user_id": "canvss_fish",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-26T00:36:01.000Z",
+      "updated_at": "2025-05-26T00:36:01.000Z"
+    },
+    {
+      "id": 105013,
+      "user_id": 21361157,
+      "platform_id": "dc",
+      "platform_user_id": "RSFFDVGDF",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-26T00:35:46.000Z",
+      "updated_at": "2025-05-26T00:35:46.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21361157,
     "rank_kc": null,
@@ -35,11 +56,11 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-24T21:29:07.000Z",
-    "updated_at": "2025-05-24T21:29:07.000Z",
+    "created_at": "2025-06-02T01:05:37.000Z",
+    "updated_at": "2025-06-02T01:05:38.000Z",
     "pd": {
-      "played": 16,
-      "won": 9,
+      "played": 25,
+      "won": 14,
       "ratio": 56
     }
   },
@@ -50,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T21:41:25.543Z"
+  "archived_at": "2025-06-03T01:33:50.881Z"
 }
