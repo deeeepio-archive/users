@@ -2,28 +2,39 @@
   "id": 21369223,
   "username": "PICKLES109",
   "description": "PUT SOME PICKLES ON THAT CHEESE SANDWICH OF YOURS BRUTHA!!!!",
-  "about": null,
+  "about": "IM VERY FUCKING COOL OK? DON'T QUESTION ANYTHING OK BUDDY? DON'T EVER DO THAT1",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-05-31T03:07:00.000Z",
-  "date_last_played": "2024-05-31T03:07:00.000Z",
-  "profile_views": 2,
-  "kill_count": 0,
-  "play_count": 0,
-  "highest_score": 0,
+  "date_last_played": "2025-05-30T05:05:22.000Z",
+  "profile_views": 12,
+  "kill_count": 46,
+  "play_count": 53,
+  "highest_score": 724473,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 10,
+  "coins": 89,
   "tier": 1,
-  "xp": 0,
+  "xp": 11850,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105120,
+      "user_id": 21369223,
+      "platform_id": "rd",
+      "platform_user_id": "ljdimaio@icloud.com",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-30T04:55:15.000Z",
+      "updated_at": "2025-05-30T04:55:15.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21369223,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T09:23:01.000Z",
-    "updated_at": "2025-04-28T09:23:01.000Z",
+    "created_at": "2025-05-30T05:05:22.000Z",
+    "updated_at": "2025-05-30T05:05:22.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T22:38:01.104Z"
+  "archived_at": "2025-06-03T02:43:40.742Z"
 }
