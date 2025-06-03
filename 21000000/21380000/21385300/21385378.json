@@ -1,24 +1,24 @@
 {
   "id": 21385378,
   "username": "DanielX",
-  "description": "Hola! 😃 Vevale verga si te mate solo te voy a desir que fue un accidente chau y cuida a tu prima 😃👍🏻 \n",
+  "description": "Creé en Dios, Dios es nuestro padre y salvador creé en el y será mejor para tí 💓\n",
   "about": "No sé jugar xd 😐",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-13T08:52:57.000Z",
-  "date_last_played": "2025-04-19T23:48:54.000Z",
-  "profile_views": 595,
-  "kill_count": 4483,
-  "play_count": 4124,
+  "date_last_played": "2025-05-31T12:34:32.000Z",
+  "profile_views": 618,
+  "kill_count": 4553,
+  "play_count": 4185,
   "highest_score": 2579907,
-  "picture": "21385378-7be738529550890f7433824552f1089e5-3c430a72-6206-4b45-ba92-01a44db8b235.png",
+  "picture": "21385378-796e38389e1b4da10772befca07265710d-eb323800-2645-445c-9377-e6ec0ee5cf8c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 213,
+  "coins": 267,
   "tier": 10,
-  "xp": 1730850,
+  "xp": 1767450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-19T23:48:53.000Z",
-    "updated_at": "2025-04-19T23:48:54.000Z",
-    "pd": null
+    "created_at": "2025-05-31T12:34:31.000Z",
+    "updated_at": "2025-05-31T12:34:32.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T00:30:28.564Z"
+  "archived_at": "2025-06-03T04:44:20.643Z"
 }
