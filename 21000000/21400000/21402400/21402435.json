@@ -2,23 +2,23 @@
   "id": 21402435,
   "username": "Piboum",
   "description": "Sry\ncan yu add me to yur friends pls?\n",
-  "about": null,
+  "about": "Do you know narrow one? It's wonderfull\nI like this:\nhttps://youtu.be/6OoglRuT0jY?feature=shared\n(Russian hardbas)🫡🇷🇺",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-02-27T10:09:37.000Z",
-  "date_last_played": "2025-05-23T14:13:08.000Z",
-  "profile_views": 86,
-  "kill_count": 117,
-  "play_count": 301,
+  "date_last_played": "2025-06-02T17:14:35.000Z",
+  "profile_views": 145,
+  "kill_count": 171,
+  "play_count": 348,
   "highest_score": 1621820,
-  "picture": null,
+  "picture": "21402435-623e5208e4ee21276a79115e6f195317-5346adf2-7bd9-45e5-9223-5020a68a60c4.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 18,
+  "coins": 95,
   "tier": 2,
-  "xp": 41100,
+  "xp": 55650,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-23T15:00:07.000Z",
-    "updated_at": "2025-05-23T15:00:07.000Z",
-    "pd": null
+    "created_at": "2025-06-02T17:14:34.000Z",
+    "updated_at": "2025-06-02T17:14:35.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T02:28:54.942Z"
+  "archived_at": "2025-06-03T07:24:32.262Z"
 }
