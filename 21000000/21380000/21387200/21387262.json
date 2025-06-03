@@ -6,33 +6,33 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-27T11:48:53.000Z",
-  "date_last_played": "2025-05-24T18:13:22.000Z",
-  "profile_views": 380,
-  "kill_count": 199,
-  "play_count": 628,
+  "date_last_played": "2025-06-02T16:06:05.000Z",
+  "profile_views": 386,
+  "kill_count": 201,
+  "play_count": 635,
   "highest_score": 1558258,
   "picture": "21387262-0b15491b39916810bc3b0ad633fe23535-4f5e0655-7226-432f-8656-c4229c1fae34.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 137,
+  "coins": 149,
   "tier": 4,
-  "xp": 216750,
+  "xp": 218550,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
     {
-      "id": 100045,
+      "id": 105196,
       "user_id": 21387262,
       "platform_id": "yt",
-      "platform_user_id": "SHYAAN PLAZ",
-      "platform_user_url": "https://www.youtube.com/@Shayaanplayz-f8b",
+      "platform_user_id": "jazi and jumi",
+      "platform_user_url": "http://www.youtube.com/@Sumeerasheik",
       "verified": false,
-      "created_at": "2024-11-08T10:08:27.000Z",
-      "updated_at": "2024-11-25T12:44:32.000Z"
+      "created_at": "2025-06-02T09:07:36.000Z",
+      "updated_at": "2025-06-02T09:07:36.000Z"
     }
   ],
   "user_stats": {
@@ -46,11 +46,11 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-24T18:13:21.000Z",
-    "updated_at": "2025-05-24T18:13:22.000Z",
+    "created_at": "2025-06-02T16:06:05.000Z",
+    "updated_at": "2025-06-02T16:06:05.000Z",
     "pd": {
-      "played": 1,
-      "won": 1,
+      "played": 2,
+      "won": 2,
       "ratio": 100
     }
   },
@@ -61,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T00:43:05.371Z"
+  "archived_at": "2025-06-03T05:01:46.307Z"
 }
