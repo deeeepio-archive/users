@@ -1,24 +1,24 @@
 {
   "id": 21391677,
   "username": "Saibot",
-  "description": "Fatality.\n\n\n\n",
+  "description": "GG\n\n\n\n",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-11-28T16:14:20.000Z",
-  "date_last_played": "2025-05-24T20:46:15.000Z",
-  "profile_views": 1088,
-  "kill_count": 2319,
-  "play_count": 915,
+  "date_last_played": "2025-06-02T19:02:09.000Z",
+  "profile_views": 1122,
+  "kill_count": 2493,
+  "play_count": 1018,
   "highest_score": 3643472,
   "picture": "21391677-abd106e55e12e2311c2b44fae4d6cc35d-a0876c10-23f5-459e-88bc-8cb67dfba4b9.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 662,
+  "coins": 714,
   "tier": 7,
-  "xp": 625800,
+  "xp": 678600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,6 +33,16 @@
       "verified": false,
       "created_at": "2025-05-01T18:21:49.000Z",
       "updated_at": "2025-05-01T18:21:49.000Z"
+    },
+    {
+      "id": 105032,
+      "user_id": 21391677,
+      "platform_id": "yt",
+      "platform_user_id": "My channel",
+      "platform_user_url": "https://www.youtube.com/channel/UCgR7GIf3ovnWf84qW7gkugg",
+      "verified": false,
+      "created_at": "2025-05-26T20:52:58.000Z",
+      "updated_at": "2025-05-26T20:52:58.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +56,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-24T20:46:14.000Z",
-    "updated_at": "2025-05-24T20:46:15.000Z",
+    "created_at": "2025-06-02T19:02:09.000Z",
+    "updated_at": "2025-06-02T19:02:09.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T01:14:31.716Z"
+  "archived_at": "2025-06-03T05:49:00.600Z"
 }
