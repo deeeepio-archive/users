@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-04-04T12:44:13.000Z",
-  "date_last_played": "2025-05-05T18:13:24.000Z",
-  "profile_views": 89,
-  "kill_count": 451,
-  "play_count": 628,
+  "date_last_played": "2025-06-02T21:55:01.000Z",
+  "profile_views": 90,
+  "kill_count": 453,
+  "play_count": 640,
   "highest_score": 1398603,
   "picture": "21361545-b276ad6aedb79daca6f3162d2b1ca683.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 107,
+  "coins": 115,
   "tier": 3,
-  "xp": 141150,
+  "xp": 142350,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -28,11 +28,11 @@
       "id": 102216,
       "user_id": 21361545,
       "platform_id": "tw",
-      "platform_user_id": "@RATGANG25",
+      "platform_user_id": "@RATGANG255",
       "platform_user_url": null,
       "verified": false,
       "created_at": "2025-01-25T15:30:36.000Z",
-      "updated_at": "2025-01-25T15:30:36.000Z"
+      "updated_at": "2025-06-02T21:27:53.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-05T18:13:24.000Z",
-    "updated_at": "2025-05-05T18:13:24.000Z",
+    "created_at": "2025-06-02T21:55:01.000Z",
+    "updated_at": "2025-06-02T21:55:01.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T21:44:05.908Z"
+  "archived_at": "2025-06-03T01:40:31.960Z"
 }
