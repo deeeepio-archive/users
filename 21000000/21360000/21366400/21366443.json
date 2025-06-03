@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-05-10T20:57:45.000Z",
-  "date_last_played": "2025-04-15T00:11:57.000Z",
-  "profile_views": 46,
-  "kill_count": 71,
-  "play_count": 234,
+  "date_last_played": "2025-06-01T21:57:48.000Z",
+  "profile_views": 49,
+  "kill_count": 76,
+  "play_count": 245,
   "highest_score": 1799365,
   "picture": "21366443-749b103e4803c37f0a12952c7378f3dcb-5e51a974-4810-45ed-b034-1fd9b663633c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 216,
+  "coins": 234,
   "tier": 2,
-  "xp": 38550,
+  "xp": 41250,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-15T00:11:57.000Z",
-    "updated_at": "2025-04-15T00:11:57.000Z",
-    "pd": null
+    "created_at": "2025-06-01T21:57:47.000Z",
+    "updated_at": "2025-06-01T21:57:48.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -66,18 +70,18 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2024-05-10T20:57:45.000Z",
-            "date_last_played": "2025-04-15T00:11:57.000Z",
-            "kill_count": 71,
-            "play_count": 234,
+            "date_last_played": "2025-06-01T21:57:48.000Z",
+            "kill_count": 76,
+            "play_count": 245,
             "highest_score": 1799365,
             "picture": "21366443-749b103e4803c37f0a12952c7378f3dcb-5e51a974-4810-45ed-b034-1fd9b663633c.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 216,
+            "coins": 234,
             "tier": 2,
-            "xp": 38550,
+            "xp": 41250,
             "migrated": false,
             "verified": false,
             "beta": false
@@ -93,5 +97,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T22:18:46.546Z"
+  "archived_at": "2025-06-03T02:18:33.377Z"
 }
