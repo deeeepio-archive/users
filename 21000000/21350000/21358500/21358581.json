@@ -1,24 +1,24 @@
 {
   "id": 21358581,
   "username": "Sr_rex",
-  "description": "Voltei um ano depois \n",
-  "about": "Um baiano normal",
+  "description": "Interessante,perder no jogo é algo comum mas perder para mim é algo incrível,já pode abrir a porta e ir pro canto dos humilhados🤣💯🔥🔥",
+  "about": "Um baiano normal\nSe inscreve no meu canal pfvr\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-03-15T12:41:08.000Z",
-  "date_last_played": "2025-03-19T23:08:13.000Z",
-  "profile_views": 35,
-  "kill_count": 2,
-  "play_count": 82,
-  "highest_score": 259305,
+  "date_last_played": "2025-05-29T14:20:22.000Z",
+  "profile_views": 54,
+  "kill_count": 16,
+  "play_count": 115,
+  "highest_score": 593555,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1,
+  "coins": 22,
   "tier": 1,
-  "xp": 3150,
+  "xp": 9300,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-03-19T23:08:12.000Z",
-    "updated_at": "2025-03-19T23:08:13.000Z",
-    "pd": null
+    "created_at": "2025-05-29T14:20:21.000Z",
+    "updated_at": "2025-05-29T14:20:22.000Z",
+    "pd": {
+      "played": 4,
+      "won": 1,
+      "ratio": 25
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T21:22:31.561Z"
+  "archived_at": "2025-06-03T01:17:25.171Z"
 }
