@@ -2,23 +2,23 @@
   "id": 21386045,
   "username": "Better_",
   "description": "Base. Money. Fancy Clothes.\nOpps and coppers I dispose.\nTalk slow, low your tone.\nIf you need an illegal loan.",
-  "about": null,
+  "about": "I always have been.",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-18T17:59:00.000Z",
-  "date_last_played": "2024-10-18T17:59:00.000Z",
-  "profile_views": 2,
-  "kill_count": 0,
-  "play_count": 0,
+  "date_last_played": "2025-05-29T07:07:36.000Z",
+  "profile_views": 8,
+  "kill_count": 2148,
+  "play_count": 1,
   "highest_score": 0,
-  "picture": null,
+  "picture": "21386045-79e31e67a2664886bffed269910a029d-be67b2f1-f400-4df7-bff5-01e5d375076d.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 10,
-  "tier": 1,
-  "xp": 0,
+  "coins": 234,
+  "tier": 2,
+  "xp": 33600,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T11:31:49.000Z",
-    "updated_at": "2025-04-28T11:31:49.000Z",
-    "pd": null
+    "created_at": "2025-05-29T07:07:35.000Z",
+    "updated_at": "2025-05-29T07:07:36.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T00:34:34.328Z"
+  "archived_at": "2025-06-03T04:48:50.120Z"
 }
