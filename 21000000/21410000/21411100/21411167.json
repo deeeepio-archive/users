@@ -1,0 +1,61 @@
+{
+  "id": 21411167,
+  "username": "SlipsGames",
+  "description": null,
+  "about": null,
+  "team_id": null,
+  "team_role": null,
+  "date_created": "2025-05-28T17:16:00.000Z",
+  "date_last_played": "2025-06-02T22:26:07.000Z",
+  "profile_views": 7,
+  "kill_count": 12,
+  "play_count": 71,
+  "highest_score": 395299,
+  "picture": null,
+  "displayPicture": true,
+  "active": true,
+  "ban_message": null,
+  "ban_at": null,
+  "coins": 15,
+  "tier": 1,
+  "xp": 2250,
+  "migrated": false,
+  "verified": false,
+  "beta": false,
+  "badges": [],
+  "social_networks": [
+    {
+      "id": 105212,
+      "user_id": 21411167,
+      "platform_id": "tc",
+      "platform_user_id": "SlipsGames",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-02T22:09:42.000Z",
+      "updated_at": "2025-06-02T22:09:42.000Z"
+    }
+  ],
+  "user_stats": {
+    "user_id": 21411167,
+    "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-06-03T08:26:32.739Z",
+    "updated_at": "2025-06-03T08:26:33.000Z",
+    "rank_kc": null,
+    "rank_kc_updated_at": null,
+    "rank_pc": null,
+    "rank_pc_updated_at": null,
+    "rank_hs": null,
+    "rank_hs_updated_at": null,
+    "pd": null
+  },
+  "creations": {
+    "maps": {
+      "items": [],
+      "count": 0
+    },
+    "skins": []
+  },
+  "archived_at": "2025-06-03T08:26:32.820Z"
+}
