@@ -1,24 +1,24 @@
 {
   "id": 21395220,
-  "username": "ميف",
+  "username": "فلسطين",
   "description": "لا اله الئ الله\n",
-  "about": "لااله الئ الله\n",
+  "about": "لا اله الئ الله",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-12-25T18:44:38.000Z",
-  "date_last_played": "2025-05-24T22:40:37.000Z",
-  "profile_views": 242,
-  "kill_count": 3000,
-  "play_count": 3405,
-  "highest_score": 5418187,
-  "picture": "21395220-84bb6671bbc4dad681e456696252e7ef-4f886faf-8388-43ef-9f3c-59f925d302b6.png",
+  "date_last_played": "2025-06-02T21:47:11.000Z",
+  "profile_views": 402,
+  "kill_count": 3397,
+  "play_count": 3804,
+  "highest_score": 10072296,
+  "picture": "21395220-89c534bbde07108d171a0a46b72102af1b-c795086f-09f5-4416-be0e-546f644cee3f.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 406,
+  "coins": 105,
   "tier": 10,
-  "xp": 1264500,
+  "xp": 1437450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-24T22:40:37.000Z",
-    "updated_at": "2025-05-24T22:40:37.000Z",
-    "pd": null
+    "created_at": "2025-06-02T21:47:10.000Z",
+    "updated_at": "2025-06-02T21:47:11.000Z",
+    "pd": {
+      "played": 9,
+      "won": 7,
+      "ratio": 78
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T01:39:12.833Z"
+  "archived_at": "2025-06-03T06:23:44.876Z"
 }
