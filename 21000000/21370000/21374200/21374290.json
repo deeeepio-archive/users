@@ -2,28 +2,39 @@
   "id": 21374290,
   "username": "Hibblerss",
   "description": "Istg my name is not inspired by Austrian painter",
-  "about": "I might be the biggest naruto glazer ong\n\nDo not edge to deeeep characters that sht ruins you",
+  "about": "I AM the the biggest naruto glazer ong\n\nDo not edge to deeeep characters that sht ruins you",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-07-11T16:53:40.000Z",
-  "date_last_played": "2025-04-10T12:04:05.000Z",
-  "profile_views": 599,
-  "kill_count": 1019,
-  "play_count": 342,
-  "highest_score": 3950276,
-  "picture": "21374290-b112af713a2c6278dd24ed4fb18b4dad-538ead08-230c-4b3b-920f-3fab833cc942.png",
+  "date_last_played": "2025-06-02T23:00:06.000Z",
+  "profile_views": 688,
+  "kill_count": 1216,
+  "play_count": 545,
+  "highest_score": 5249021,
+  "picture": "21374290-f7d4a93d882803c410f1353ecbb2be5f8-a6b43d3e-87cb-4932-bf89-0fc79c91a208.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 323,
-  "tier": 3,
-  "xp": 145200,
+  "coins": 389,
+  "tier": 4,
+  "xp": 233850,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105155,
+      "user_id": 21374290,
+      "platform_id": "dc",
+      "platform_user_id": "hibblers",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-31T16:14:58.000Z",
+      "updated_at": "2025-05-31T16:14:58.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21374290,
     "rank_kc": null,
@@ -35,9 +46,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-10T12:04:04.000Z",
-    "updated_at": "2025-04-10T12:04:05.000Z",
-    "pd": null
+    "created_at": "2025-06-02T23:00:06.000Z",
+    "updated_at": "2025-06-02T23:00:07.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T23:11:50.485Z"
+  "archived_at": "2025-06-03T03:24:02.651Z"
 }
