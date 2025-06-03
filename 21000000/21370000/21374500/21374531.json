@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-07-14T01:45:33.000Z",
-  "date_last_played": "2025-03-22T06:03:43.000Z",
-  "profile_views": 816,
-  "kill_count": 2467,
-  "play_count": 1373,
+  "date_last_played": "2025-06-02T03:32:19.000Z",
+  "profile_views": 829,
+  "kill_count": 2507,
+  "play_count": 1387,
   "highest_score": 2266173,
-  "picture": "21374531-73fa762f89b1b9603b5c8aaad69dea9f-0bee7203-93e3-4660-82fa-595796aee751.png",
+  "picture": "21374531-12a8ae371dedeb2ede93ee7b87d5adaf-8e7a8bd6-4e19-4c88-9640-71dcf6cdbb7c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 134,
+  "coins": 240,
   "tier": 7,
-  "xp": 586800,
+  "xp": 602700,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-03-22T06:03:43.000Z",
-    "updated_at": "2025-03-22T06:03:43.000Z",
-    "pd": null
+    "created_at": "2025-06-02T03:32:19.000Z",
+    "updated_at": "2025-06-02T03:32:19.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -66,18 +70,18 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2024-07-14T01:45:33.000Z",
-            "date_last_played": "2025-03-22T06:03:43.000Z",
-            "kill_count": 2467,
-            "play_count": 1373,
+            "date_last_played": "2025-06-02T03:32:19.000Z",
+            "kill_count": 2507,
+            "play_count": 1387,
             "highest_score": 2266173,
-            "picture": "21374531-73fa762f89b1b9603b5c8aaad69dea9f-0bee7203-93e3-4660-82fa-595796aee751.png",
+            "picture": "21374531-12a8ae371dedeb2ede93ee7b87d5adaf-8e7a8bd6-4e19-4c88-9640-71dcf6cdbb7c.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 134,
+            "coins": 240,
             "tier": 7,
-            "xp": 586800,
+            "xp": 602700,
             "migrated": false,
             "verified": false,
             "beta": false
@@ -93,5 +97,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T23:14:50.099Z"
+  "archived_at": "2025-06-03T03:25:31.066Z"
 }
