@@ -2,28 +2,39 @@
   "id": 21406030,
   "username": "Error880",
   "description": "Don’t get mad, get even    ;P\n",
-  "about": "Everybody dies…irl\nand I’m the exception  >:)",
+  "about": "Everybody dies…irl\nand I’m the exception  >:)\n\n\nI used to go as Xero and🌒\nMainly use🥶 now but might change depending on mood",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-29T13:53:19.000Z",
-  "date_last_played": "2025-05-24T14:11:36.000Z",
-  "profile_views": 1151,
-  "kill_count": 1871,
-  "play_count": 819,
+  "date_last_played": "2025-06-03T05:21:47.000Z",
+  "profile_views": 1359,
+  "kill_count": 2147,
+  "play_count": 937,
   "highest_score": 2236162,
   "picture": "21406030-a2b7910da37e88071dd229912de88ac7a-5a7aeefe-0cd2-46ac-945e-a1c343fcafee.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 550,
-  "tier": 6,
-  "xp": 468150,
+  "coins": 837,
+  "tier": 7,
+  "xp": 548700,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105194,
+      "user_id": 21406030,
+      "platform_id": "dc",
+      "platform_user_id": "error880",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-02T06:24:15.000Z",
+      "updated_at": "2025-06-02T06:24:15.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21406030,
     "rank_kc": null,
@@ -35,11 +46,11 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-24T14:11:36.000Z",
-    "updated_at": "2025-05-24T14:11:36.000Z",
+    "created_at": "2025-06-03T05:21:46.000Z",
+    "updated_at": "2025-06-03T05:21:47.000Z",
     "pd": {
-      "played": 367,
-      "won": 156,
+      "played": 354,
+      "won": 151,
       "ratio": 43
     }
   },
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T02:53:27.928Z"
+  "archived_at": "2025-06-03T07:49:33.279Z"
 }
