@@ -2,23 +2,23 @@
   "id": 21368560,
   "username": "нотна1",
   "description": "тебе не повезло\n",
-  "about": "я тебя в рот ебал сука\n",
+  "about": " Я ЖИВУ СПОКОЙНОЙ ЖИЗНИ НЕЧЕ ТАК НЕ ЗАНИМАЮСЬ\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-05-26T05:02:38.000Z",
-  "date_last_played": "2025-01-11T10:50:14.000Z",
-  "profile_views": 137,
-  "kill_count": 259,
-  "play_count": 407,
+  "date_last_played": "2025-06-02T17:14:58.000Z",
+  "profile_views": 165,
+  "kill_count": 290,
+  "play_count": 455,
   "highest_score": 2686976,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 93,
+  "coins": 27,
   "tier": 3,
-  "xp": 118800,
+  "xp": 133650,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-01-11T10:50:14.000Z",
-    "updated_at": "2025-01-11T10:50:14.000Z",
-    "pd": null
+    "created_at": "2025-06-02T17:14:58.000Z",
+    "updated_at": "2025-06-02T17:14:58.000Z",
+    "pd": {
+      "played": 8,
+      "won": 4,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T22:33:10.911Z"
+  "archived_at": "2025-06-03T02:38:40.243Z"
 }
