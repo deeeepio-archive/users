@@ -1,15 +1,15 @@
 {
   "id": 21355290,
-  "username": "ethantsd",
-  "description": "sorry im kinda blind so i prob ate you\n",
-  "about": "IM I FUCKING FISHHHHHHH",
+  "username": "kusanali",
+  "description": "WHY WONT MY PFP FUCKING UPLOAD",
+  "about": "when a person has extreme social anxiety they struggle to communicate with others. Bear in mind, they only struggle to form connections. It doesn’t mean that they don’t want to.",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-02-27T16:31:17.000Z",
-  "date_last_played": "2024-03-07T16:30:35.000Z",
-  "profile_views": 9,
+  "date_last_played": "2025-05-28T16:19:33.000Z",
+  "profile_views": 21,
   "kill_count": 3,
-  "play_count": 26,
+  "play_count": 28,
   "highest_score": 103350,
   "picture": null,
   "displayPicture": true,
@@ -23,7 +23,28 @@
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105069,
+      "user_id": 21355290,
+      "platform_id": "dc",
+      "platform_user_id": "the_nahihi",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-28T16:08:24.000Z",
+      "updated_at": "2025-05-28T16:08:24.000Z"
+    },
+    {
+      "id": 105071,
+      "user_id": 21355290,
+      "platform_id": "rd",
+      "platform_user_id": "u/Ethantheskydude",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-28T16:16:09.000Z",
+      "updated_at": "2025-05-28T16:16:09.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21355290,
     "rank_kc": null,
@@ -35,8 +56,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T07:35:49.000Z",
-    "updated_at": "2025-04-28T07:35:49.000Z",
+    "created_at": "2025-05-28T16:19:32.000Z",
+    "updated_at": "2025-05-28T16:19:33.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +67,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T21:00:27.534Z"
+  "archived_at": "2025-06-03T00:53:14.124Z"
 }
