@@ -1,29 +1,40 @@
 {
   "id": 21408566,
-  "username": "Дядя_Сэд",
-  "description": null,
-  "about": "",
+  "username": "UncleSad",
+  "description": "sorry if you were kind to me. ",
+  "about": "friendly coconut crab enjoyer ",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-05-01T13:56:53.000Z",
-  "date_last_played": "2025-05-23T14:00:02.000Z",
-  "profile_views": 9,
-  "kill_count": 69,
-  "play_count": 152,
-  "highest_score": 1928070,
-  "picture": null,
+  "date_last_played": "2025-06-02T18:45:17.000Z",
+  "profile_views": 17,
+  "kill_count": 96,
+  "play_count": 260,
+  "highest_score": 2271121,
+  "picture": "21408566-04ee3559bccdcc9e141c7bb2e2617e32-8c7e94e8-1ffc-4d76-a392-5ff15c20623a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 212,
+  "coins": 15,
   "tier": 2,
-  "xp": 31800,
+  "xp": 54000,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105002,
+      "user_id": 21408566,
+      "platform_id": "dc",
+      "platform_user_id": "_sadgg_",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-25T16:11:41.000Z",
+      "updated_at": "2025-05-25T16:11:41.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21408566,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-23T14:00:01.000Z",
-    "updated_at": "2025-05-23T14:00:02.000Z",
+    "created_at": "2025-06-02T18:45:16.000Z",
+    "updated_at": "2025-06-02T18:45:17.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T03:11:28.813Z"
+  "archived_at": "2025-06-03T08:08:11.241Z"
 }
