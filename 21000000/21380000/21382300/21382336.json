@@ -1,40 +1,29 @@
 {
   "id": 21382336,
-  "username": "gokublackㅤ",
-  "description": "goku black",
-  "about": "goku black",
+  "username": "-timmyturner",
+  "description": "oh rayos le gusto a la loca",
+  "about": "intentando aprobar el curso de crocker\n\n\n\nalt de mutanque",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-09-17T22:12:51.000Z",
-  "date_last_played": "2025-05-24T02:44:32.000Z",
-  "profile_views": 1344,
-  "kill_count": 4861,
-  "play_count": 1769,
+  "date_last_played": "2025-06-03T02:57:59.000Z",
+  "profile_views": 1479,
+  "kill_count": 4974,
+  "play_count": 1827,
   "highest_score": 10172669,
-  "picture": "21382336-91c6fb42f4b7210eba4173a3d74e5beab-441385d1-870e-4c02-a118-6348a553db98.png",
+  "picture": "21382336-01356ac1066666b6733b9c51ca7f4cf210-8f03a24a-f6f0-49d1-9974-5be47c3989da.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1177,
+  "coins": 1442,
   "tier": 10,
-  "xp": 1624050,
+  "xp": 1663800,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 104523,
-      "user_id": 21382336,
-      "platform_id": "dc",
-      "platform_user_id": "gokublack736",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-05-08T17:39:30.000Z",
-      "updated_at": "2025-05-08T17:39:30.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 21382336,
     "rank_kc": null,
@@ -46,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-24T02:44:31.000Z",
-    "updated_at": "2025-05-24T02:44:32.000Z",
+    "created_at": "2025-06-03T02:57:59.000Z",
+    "updated_at": "2025-06-03T02:57:59.000Z",
     "pd": {
-      "played": 12,
-      "won": 9,
-      "ratio": 75
+      "played": 21,
+      "won": 19,
+      "ratio": 90
     }
   },
   "creations": {
@@ -61,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T00:09:33.374Z"
+  "archived_at": "2025-06-03T04:23:55.787Z"
 }
