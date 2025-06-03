@@ -1,24 +1,24 @@
 {
   "id": 21383954,
-  "username": "광이",
+  "username": "개트롤",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-09-30T06:19:41.000Z",
-  "date_last_played": "2024-10-05T12:51:29.000Z",
-  "profile_views": 5,
+  "date_last_played": "2025-06-03T02:40:45.000Z",
+  "profile_views": 7,
   "kill_count": 1,
-  "play_count": 7,
-  "highest_score": 44203,
+  "play_count": 13,
+  "highest_score": 115465,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 10,
+  "coins": 12,
   "tier": 1,
-  "xp": 0,
+  "xp": 300,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T11:18:15.000Z",
-    "updated_at": "2025-04-28T11:18:15.000Z",
+    "created_at": "2025-06-03T02:40:44.000Z",
+    "updated_at": "2025-06-03T02:40:45.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T00:20:53.483Z"
+  "archived_at": "2025-06-03T04:33:59.343Z"
 }
