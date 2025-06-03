@@ -1,29 +1,40 @@
 {
   "id": 21381442,
-  "username": "Charles9343844",
-  "description": null,
+  "username": "MysteryGamer",
+  "description": "Hola",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-09-11T12:41:26.000Z",
-  "date_last_played": "2025-05-12T14:23:23.000Z",
-  "profile_views": 0,
-  "kill_count": 0,
-  "play_count": 13,
-  "highest_score": 73040,
+  "date_last_played": "2025-05-30T17:55:53.000Z",
+  "profile_views": 20,
+  "kill_count": 3,
+  "play_count": 30,
+  "highest_score": 192805,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 10,
+  "coins": 14,
   "tier": 1,
-  "xp": 0,
+  "xp": 600,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105207,
+      "user_id": 21381442,
+      "platform_id": "yt",
+      "platform_user_id": "@mysterygamer934",
+      "platform_user_url": "https://www.youtube.com/@MysteryGamer934",
+      "verified": false,
+      "created_at": "2025-06-02T16:52:49.000Z",
+      "updated_at": "2025-06-02T16:52:49.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21381442,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-12T14:23:23.000Z",
-    "updated_at": "2025-05-12T14:23:23.000Z",
+    "created_at": "2025-06-02T16:56:23.000Z",
+    "updated_at": "2025-06-02T16:56:23.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T00:03:06.044Z"
+  "archived_at": "2025-06-03T04:17:06.184Z"
 }
