@@ -1,40 +1,29 @@
 {
   "id": 21403267,
-  "username": "Purge",
-  "description": "GG ( Get Good )",
-  "about": "I Kill Everyone...",
+  "username": "sdfgsfdf",
+  "description": "",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-03-06T15:16:16.000Z",
-  "date_last_played": "2025-03-06T15:16:16.000Z",
-  "profile_views": 3,
+  "date_last_played": "2025-05-29T23:23:04.000Z",
+  "profile_views": 9,
   "kill_count": 0,
-  "play_count": 0,
-  "highest_score": 0,
+  "play_count": 1,
+  "highest_score": 217717,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 10,
+  "coins": 12,
   "tier": 1,
-  "xp": 0,
+  "xp": 300,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 103003,
-      "user_id": 21403267,
-      "platform_id": "dc",
-      "platform_user_id": "#RemovePiranhas",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-03-06T15:17:24.000Z",
-      "updated_at": "2025-03-06T15:17:24.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 21403267,
     "rank_kc": null,
@@ -46,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-03-06T15:16:58.000Z",
-    "updated_at": "2025-03-06T15:16:58.000Z",
+    "created_at": "2025-05-29T23:23:03.000Z",
+    "updated_at": "2025-05-29T23:23:04.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T02:34:24.563Z"
+  "archived_at": "2025-06-03T07:29:59.843Z"
 }
