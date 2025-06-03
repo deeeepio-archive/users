@@ -1,39 +1,29 @@
 {
   "id": 21410024,
   "username": "jasmine小草இ௰இ",
-  "description": "....\n\n",
-  "about": "最討厭你",
+  "description": "我不知道我在幹嘛\n\n",
+  "about": "最討厭你。如果你被我殺，代表你的實力不夠成熟。(因為我是新手)",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-05-17T03:43:21.000Z",
-  "date_last_played": "2025-05-25T02:32:21.000Z",
-  "profile_views": 25,
-  "kill_count": 35,
-  "play_count": 117,
-  "highest_score": 1371830,
-  "picture": null,
+  "date_last_played": "2025-06-01T03:07:45.000Z",
+  "profile_views": 83,
+  "kill_count": 68,
+  "play_count": 215,
+  "highest_score": 1808415,
+  "picture": "21410024-8e3a44974f5d31d844651c41ebda6188-be0ab06c-adaf-4cfb-898d-30c24d26c758.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 84,
-  "tier": 1,
-  "xp": 17100,
+  "coins": 234,
+  "tier": 2,
+  "xp": 39600,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
-    {
-      "id": 104994,
-      "user_id": 21410024,
-      "platform_id": "dc",
-      "platform_user_id": "Dc: jasmine016_10491",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-05-25T01:56:59.000Z",
-      "updated_at": "2025-05-25T01:56:59.000Z"
-    },
     {
       "id": 104995,
       "user_id": 21410024,
@@ -56,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-25T02:32:21.000Z",
-    "updated_at": "2025-05-25T02:32:21.000Z",
+    "created_at": "2025-06-01T03:07:45.000Z",
+    "updated_at": "2025-06-01T03:07:45.000Z",
     "pd": {
       "played": 2,
       "won": 0,
@@ -71,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-25T03:21:33.330Z"
+  "archived_at": "2025-06-03T08:18:04.403Z"
 }
