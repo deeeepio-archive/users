@@ -2,28 +2,39 @@
   "id": 21355705,
   "username": "speedninja249xP",
   "description": "xP",
-  "about": "xP",
+  "about": "Царство небесное твоей клавиатуре.",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-02-29T19:14:53.000Z",
-  "date_last_played": "2025-05-24T18:08:38.000Z",
-  "profile_views": 255,
-  "kill_count": 2228,
-  "play_count": 1749,
+  "date_last_played": "2025-06-02T17:23:33.000Z",
+  "profile_views": 278,
+  "kill_count": 2401,
+  "play_count": 1882,
   "highest_score": 4772304,
-  "picture": "21355705-ba157ff3d8c145988ba6b3061b25402f-17d4c78c-2273-413d-8949-914a137ab695.png",
+  "picture": "21355705-e1036131bdffda93fd41cab2553fdf10107-283d5cec-0be1-45c6-85a9-bbe95b4254ad.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 19,
-  "tier": 7,
-  "xp": 686100,
+  "coins": 13,
+  "tier": 8,
+  "xp": 748950,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105151,
+      "user_id": 21355705,
+      "platform_id": "dc",
+      "platform_user_id": "speeninja249",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-05-31T10:54:08.000Z",
+      "updated_at": "2025-05-31T10:54:08.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21355705,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-24T18:08:37.000Z",
-    "updated_at": "2025-05-24T18:08:38.000Z",
+    "created_at": "2025-06-02T17:23:32.000Z",
+    "updated_at": "2025-06-02T17:23:33.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-24T21:03:26.980Z"
+  "archived_at": "2025-06-03T00:55:45.943Z"
 }
