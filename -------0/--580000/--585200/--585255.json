@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2019-05-03T13:23:39.000Z",
   "date_last_played": "2025-05-21T19:33:23.000Z",
-  "profile_views": 7937,
+  "profile_views": 7943,
   "kill_count": 25288,
   "play_count": 8987,
   "highest_score": 14845052,
@@ -16,7 +16,7 @@
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 7570,
+  "coins": 6815,
   "tier": 10,
   "xp": 5183550,
   "migrated": false,
@@ -107,7 +107,7 @@
         "season": null,
         "on_sale": true,
         "price": 5,
-        "sales": 404,
+        "sales": 405,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -133,7 +133,7 @@
           "active": true,
           "ban_message": null,
           "ban_at": null,
-          "coins": 7570,
+          "coins": 6815,
           "tier": 10,
           "xp": 5183550,
           "migrated": false,
@@ -143,5 +143,5 @@
       }
     ]
   },
-  "archived_at": "2025-05-28T02:42:39.338Z"
+  "archived_at": "2025-06-06T12:34:05.976Z"
 }
