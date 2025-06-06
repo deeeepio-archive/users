@@ -1,29 +1,40 @@
 {
   "id": 521767,
-  "username": "allisonl_614",
-  "description": "My nama Jeff",
-  "about": null,
+  "username": "HollyTamale",
+  "description": "Keep yourself safe <3",
+  "about": "If ur a lamprey I like lampreys\nI like Star Trek too",
   "team_id": null,
   "team_role": null,
   "date_created": "2018-05-15T01:32:20.000Z",
-  "date_last_played": "2018-05-16T21:00:02.000Z",
-  "profile_views": 0,
-  "kill_count": 60,
-  "play_count": 0,
-  "highest_score": 263785,
-  "picture": "521767.jpg",
+  "date_last_played": "2025-06-05T20:53:39.000Z",
+  "profile_views": 15,
+  "kill_count": 148,
+  "play_count": 92,
+  "highest_score": 3667953,
+  "picture": "521767-a518635f48cc2d04c98b247168ab6948-b6125ed4-8d1c-4156-b4c4-c5df53dd4df4.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 0,
-  "tier": 1,
-  "xp": 0,
+  "coins": 197,
+  "tier": 2,
+  "xp": 56550,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105188,
+      "user_id": 521767,
+      "platform_id": "dc",
+      "platform_user_id": "hollytamale",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-02T01:26:26.000Z",
+      "updated_at": "2025-06-02T01:26:26.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 521767,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-24T02:53:10.000Z",
-    "updated_at": "2025-04-24T02:53:10.000Z",
+    "created_at": "2025-06-05T20:53:38.000Z",
+    "updated_at": "2025-06-05T20:53:39.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-27T19:12:10.564Z"
+  "archived_at": "2025-06-06T04:38:23.733Z"
 }
