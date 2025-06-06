@@ -2,23 +2,23 @@
   "id": 565137,
   "username": "GooDragon",
   "description": "Roses are red\nViolets are blue\nYou have been .....",
-  "about": "Been playing since 2017. (I still suck tho.)\nKnow how to tiger solo. (don't defend fr.)\n1000 views!!!  🎉🎉🎉\nAnimal roulette in PD, dont blame me if I suck with that animal.\nHighest Score: AST 1249.241m on PD.",
+  "about": "Been playing since 2017.\nKnow how to tiger solo. (don't defend fr.)\n1000 views!!!  🎉🎉🎉\nI have converted to moray. Hail moray!\nHighest Score: AST 1249.241m on PD.",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-03-17T23:03:40.000Z",
-  "date_last_played": "2025-05-24T03:08:40.000Z",
-  "profile_views": 1202,
-  "kill_count": 4643,
-  "play_count": 1795,
+  "date_last_played": "2025-06-04T02:23:38.000Z",
+  "profile_views": 1249,
+  "kill_count": 4780,
+  "play_count": 1813,
   "highest_score": 3315180,
   "picture": "565137.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1158,
+  "coins": 1084,
   "tier": 7,
-  "xp": 620400,
+  "xp": 635550,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -48,11 +48,11 @@
       "id": 96858,
       "user_id": 565137,
       "platform_id": "dc",
-      "platform_user_id": "Mains: Tiger, AST, Croc and sometimes Beaked. Old mains: GST, CS, GS and Conda. (Can't believe i stopped maining GST just because it couldn't solo pearls anymore lol.)",
+      "platform_user_id": "Mains: Tiger, Moray, AST, Croc. Old mains: GST, Beaked, CS, GS and Conda.",
       "platform_user_url": null,
       "verified": false,
       "created_at": "2024-07-27T02:50:02.000Z",
-      "updated_at": "2025-04-21T02:10:08.000Z"
+      "updated_at": "2025-06-04T01:58:19.000Z"
     },
     {
       "id": 104223,
@@ -73,16 +73,6 @@
       "verified": false,
       "created_at": "2023-05-05T21:05:03.000Z",
       "updated_at": "2025-01-18T01:14:36.000Z"
-    },
-    {
-      "id": 104816,
-      "user_id": 565137,
-      "platform_id": "rd",
-      "platform_user_id": "Animal Roulette in PD.",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-05-18T16:28:05.000Z",
-      "updated_at": "2025-05-24T02:01:51.000Z"
     }
   ],
   "user_stats": {
@@ -96,12 +86,12 @@
     "rank_hs": 45531,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-20T00:29:38.000Z",
-    "created_at": "2025-05-24T03:08:39.000Z",
-    "updated_at": "2025-05-24T03:08:40.000Z",
+    "created_at": "2025-06-04T02:23:37.000Z",
+    "updated_at": "2025-06-04T02:23:38.000Z",
     "pd": {
-      "played": 33,
-      "won": 13,
-      "ratio": 39
+      "played": 49,
+      "won": 22,
+      "ratio": 45
     }
   },
   "creations": {
@@ -111,5 +101,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-28T00:10:25.753Z"
+  "archived_at": "2025-06-06T09:56:13.700Z"
 }
