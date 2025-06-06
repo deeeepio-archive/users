@@ -1,24 +1,24 @@
 {
   "id": 609004,
   "username": "lunchbigonee",
-  "description": "whistle!",
+  "description": "",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-06-18T15:31:21.000Z",
-  "date_last_played": "2025-05-04T17:39:54.000Z",
-  "profile_views": 4493,
-  "kill_count": 26515,
-  "play_count": 9845,
+  "date_last_played": "2025-05-31T12:40:32.000Z",
+  "profile_views": 4496,
+  "kill_count": 26518,
+  "play_count": 9849,
   "highest_score": 10128375,
   "picture": "609004-f37823d1c1ededd4988d9a4b1445e5ea-14c6f2ce-281f-4be6-a33b-99fc4d7d9fde.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2811,
+  "coins": 2833,
   "tier": 10,
-  "xp": 3607950,
+  "xp": 3611250,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,8 +46,8 @@
     "rank_hs": 2631,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-12T20:56:07.000Z",
-    "created_at": "2025-05-04T17:39:53.000Z",
-    "updated_at": "2025-05-04T17:39:54.000Z",
+    "created_at": "2025-05-31T12:40:32.000Z",
+    "updated_at": "2025-05-31T12:40:32.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-28T06:16:33.042Z"
+  "archived_at": "2025-06-06T15:28:16.624Z"
 }
