@@ -1,24 +1,24 @@
 {
   "id": 590167,
   "username": "Eagle",
-  "description": "ayy lmao",
+  "description": "you are gay",
   "about": "I love Pepoyo!",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-05-10T23:39:11.000Z",
-  "date_last_played": "2025-05-27T13:29:52.000Z",
-  "profile_views": 5951,
-  "kill_count": 24449,
-  "play_count": 8682,
+  "date_last_played": "2025-05-28T15:03:26.000Z",
+  "profile_views": 5993,
+  "kill_count": 24494,
+  "play_count": 8688,
   "highest_score": 8428619,
   "picture": "590167-cf5027ce710f3dc4ecfe33a031bb8e0ca-8303ba17-377b-475e-a9f3-d217cba3359d.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2731,
+  "coins": 2782,
   "tier": 10,
-  "xp": 2169900,
+  "xp": 2177550,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,11 +46,11 @@
     "rank_hs": 7605,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-14T13:11:26.000Z",
-    "created_at": "2025-05-27T13:29:52.000Z",
-    "updated_at": "2025-05-27T13:29:52.000Z",
+    "created_at": "2025-05-28T15:03:25.000Z",
+    "updated_at": "2025-05-28T15:03:26.000Z",
     "pd": {
-      "played": 312,
-      "won": 261,
+      "played": 203,
+      "won": 170,
       "ratio": 84
     }
   },
@@ -61,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-28T03:26:52.542Z"
+  "archived_at": "2025-06-06T13:10:49.582Z"
 }
