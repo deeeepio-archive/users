@@ -1,17 +1,17 @@
 {
   "id": 743387,
-  "username": "070121",
+  "username": "HyperManzz",
   "description": "",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-05-25T20:32:38.000Z",
-  "date_last_played": "2025-05-12T15:50:49.000Z",
-  "profile_views": 862,
+  "date_last_played": "2025-06-05T20:11:35.000Z",
+  "profile_views": 864,
   "kill_count": 12582,
-  "play_count": 9474,
+  "play_count": 9475,
   "highest_score": 50680423,
-  "picture": "743387-33816976c85d983e3b884cc54f117fb3-007dcc9a-086c-4053-b070-a967414f2cef.png",
+  "picture": "743387-efafa310c9d05d8d5774d1297fb5f9b3d-8bac907c-c150-46de-a71a-c2c605f1a063.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
@@ -35,8 +35,8 @@
     "rank_hs": 792,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-14T17:51:42.000Z",
-    "created_at": "2025-05-12T15:50:49.000Z",
-    "updated_at": "2025-05-12T15:50:49.000Z",
+    "created_at": "2025-06-05T20:11:34.000Z",
+    "updated_at": "2025-06-05T20:11:35.000Z",
     "pd": null
   },
   "creations": {
@@ -60,17 +60,17 @@
           "deleted_at": null,
           "user": {
             "id": 743387,
-            "username": "070121",
+            "username": "HyperManzz",
             "description": "",
             "about": "",
             "team_id": null,
             "team_role": null,
             "date_created": "2020-05-25T20:32:38.000Z",
-            "date_last_played": "2025-05-12T15:50:49.000Z",
+            "date_last_played": "2025-06-05T20:11:35.000Z",
             "kill_count": 12582,
-            "play_count": 9474,
+            "play_count": 9475,
             "highest_score": 50680423,
-            "picture": "743387-33816976c85d983e3b884cc54f117fb3-007dcc9a-086c-4053-b070-a967414f2cef.png",
+            "picture": "743387-efafa310c9d05d8d5774d1297fb5f9b3d-8bac907c-c150-46de-a71a-c2c605f1a063.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
@@ -89,5 +89,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-28T21:21:12.081Z"
+  "archived_at": "2025-06-07T07:32:15.991Z"
 }
