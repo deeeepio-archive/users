@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2021-01-10T05:05:39.000Z",
-  "date_last_played": "2024-07-10T22:12:05.000Z",
-  "profile_views": 52,
-  "kill_count": 5851,
-  "play_count": 2099,
+  "date_last_played": "2025-06-03T22:49:46.000Z",
+  "profile_views": 72,
+  "kill_count": 5900,
+  "play_count": 2135,
   "highest_score": 2934229,
   "picture": "811192.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 140,
-  "tier": 2,
-  "xp": 64650,
+  "coins": 193,
+  "tier": 3,
+  "xp": 89100,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105250,
+      "user_id": 811192,
+      "platform_id": "ig",
+      "platform_user_id": "Bazylieef",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-03T21:47:19.000Z",
+      "updated_at": "2025-06-03T21:47:19.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 811192,
     "rank_kc": 4967,
@@ -35,9 +46,13 @@
     "rank_hs": 22406,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-12-04T03:37:25.000Z",
-    "created_at": "2024-07-10T22:12:05.000Z",
-    "updated_at": "2024-07-10T22:12:05.000Z",
-    "pd": null
+    "created_at": "2025-06-03T22:49:45.000Z",
+    "updated_at": "2025-06-03T22:49:46.000Z",
+    "pd": {
+      "played": 8,
+      "won": 6,
+      "ratio": 75
+    }
   },
   "creations": {
     "maps": {
@@ -66,18 +81,18 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2021-01-10T05:05:39.000Z",
-            "date_last_played": "2024-07-10T22:12:05.000Z",
-            "kill_count": 5851,
-            "play_count": 2099,
+            "date_last_played": "2025-06-03T22:49:46.000Z",
+            "kill_count": 5900,
+            "play_count": 2135,
             "highest_score": 2934229,
             "picture": "811192.png",
             "displayPicture": false,
             "active": true,
             "ban_message": null,
             "ban_at": null,
-            "coins": 140,
-            "tier": 2,
-            "xp": 64650,
+            "coins": 193,
+            "tier": 3,
+            "xp": 89100,
             "migrated": true,
             "verified": false,
             "beta": false
@@ -89,5 +104,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-29T04:59:59.203Z"
+  "archived_at": "2025-06-07T15:08:46.875Z"
 }
