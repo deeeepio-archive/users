@@ -1,13 +1,13 @@
 {
   "id": 775178,
   "username": "AGHL",
-  "description": "You always have to try your best no matter what. ",
-  "about": "Terraria is the best sandbox type game.\n\nMarlin is my favourite animal but I'm not the best at it.\n\nDiscord is threecalleros, This is mostly for Dino lol",
+  "description": "Get Impaled",
+  "about": "Terraria is the best sandbox type game.\n\nMarlin is my favourite animal but I'm not the best at it.\n\nDiscord is mostly for Dino lol",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-09-21T00:08:43.000Z",
   "date_last_played": "2025-05-26T01:04:10.000Z",
-  "profile_views": 598,
+  "profile_views": 606,
   "kill_count": 4830,
   "play_count": 1577,
   "highest_score": 2534814,
@@ -23,7 +23,18 @@
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105189,
+      "user_id": 775178,
+      "platform_id": "dc",
+      "platform_user_id": "threecaballeros",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-02T01:34:01.000Z",
+      "updated_at": "2025-06-02T01:34:01.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 775178,
     "rank_kc": 7542,
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-29T00:57:32.967Z"
+  "archived_at": "2025-06-07T11:04:44.105Z"
 }
