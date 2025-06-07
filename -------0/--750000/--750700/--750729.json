@@ -1,24 +1,24 @@
 {
   "id": 750729,
-  "username": "Ryguy1",
+  "username": "FrostyOnPhone",
   "description": "So... how about we forget about that because I didn't want to kill you, nvm that's a lie, but lets just be friends ok :)\n",
-  "about": null,
+  "about": "First person to bench 315 and play deeeep",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-06-16T14:04:49.000Z",
-  "date_last_played": "2024-09-30T18:26:03.000Z",
-  "profile_views": 55,
-  "kill_count": 9597,
-  "play_count": 4187,
+  "date_last_played": "2025-06-05T21:22:18.000Z",
+  "profile_views": 66,
+  "kill_count": 9920,
+  "play_count": 4382,
   "highest_score": 32055276,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 61,
-  "tier": 3,
-  "xp": 137250,
+  "coins": 486,
+  "tier": 5,
+  "xp": 268500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 997,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-05-24T18:41:57.000Z",
-    "created_at": "2024-09-30T18:26:02.000Z",
-    "updated_at": "2024-09-30T18:26:03.000Z",
-    "pd": null
+    "created_at": "2025-06-05T21:22:17.000Z",
+    "updated_at": "2025-06-05T21:22:18.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-28T22:11:31.663Z"
+  "archived_at": "2025-06-07T08:21:45.704Z"
 }
