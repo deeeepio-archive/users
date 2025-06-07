@@ -6,35 +6,24 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2020-10-23T12:24:22.000Z",
-  "date_last_played": "2025-01-06T17:21:58.000Z",
-  "profile_views": 20,
-  "kill_count": 183,
-  "play_count": 655,
+  "date_last_played": "2025-06-01T18:45:54.000Z",
+  "profile_views": 24,
+  "kill_count": 188,
+  "play_count": 659,
   "highest_score": 1375693,
   "picture": "784770-affa8fdf359ea2198ad108ede65c83ce10.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 52,
+  "coins": 72,
   "tier": 2,
-  "xp": 26700,
+  "xp": 29700,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 18746,
-      "user_id": 784770,
-      "platform_id": "dc",
-      "platform_user_id": "Shanut#4260",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2023-05-06T20:31:57.000Z",
-      "updated_at": "2023-05-06T20:31:57.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 784770,
     "rank_kc": null,
@@ -46,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-01-06T17:21:58.000Z",
-    "updated_at": "2025-01-06T17:21:58.000Z",
+    "created_at": "2025-06-01T18:45:54.000Z",
+    "updated_at": "2025-06-01T18:45:54.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-29T02:00:40.912Z"
+  "archived_at": "2025-06-07T12:09:26.452Z"
 }
