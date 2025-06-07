@@ -1,24 +1,24 @@
 {
   "id": 725746,
-  "username": "Azulejo",
-  "description": "Playing depio\nManolo, soy tu Ano",
-  "about": "si2o",
+  "username": "Azulejo_Offline",
+  "description": "Offline Forever.",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-04-16T20:42:52.000Z",
-  "date_last_played": "2025-05-25T18:21:20.000Z",
-  "profile_views": 6170,
-  "kill_count": 76721,
-  "play_count": 18630,
+  "date_last_played": "2025-05-29T23:47:07.000Z",
+  "profile_views": 6192,
+  "kill_count": 76722,
+  "play_count": 18633,
   "highest_score": 16430608,
   "picture": "725746-e8f79638d2b9fc3a3f580a2b16fb3dac.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 251,
+  "coins": 253,
   "tier": 10,
-  "xp": 8733150,
+  "xp": 8733450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,12 +46,12 @@
     "rank_hs": 2471,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-19T23:27:42.000Z",
-    "created_at": "2025-05-25T18:21:20.000Z",
-    "updated_at": "2025-05-25T18:21:20.000Z",
+    "created_at": "2025-05-29T23:47:07.000Z",
+    "updated_at": "2025-05-29T23:47:07.000Z",
     "pd": {
-      "played": 3,
+      "played": 1,
       "won": 1,
-      "ratio": 33
+      "ratio": 100
     }
   },
   "creations": {
@@ -61,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-28T19:25:11.475Z"
+  "archived_at": "2025-06-07T05:33:33.615Z"
 }
