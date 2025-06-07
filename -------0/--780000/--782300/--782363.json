@@ -1,24 +1,24 @@
 {
   "id": 782363,
   "username": "5Lulu_Bunny5",
-  "description": null,
+  "description": "Sorrus you died cause you know the best player KILLER DEEPER!!!",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2020-10-15T18:01:16.000Z",
-  "date_last_played": "2025-03-27T15:00:53.000Z",
-  "profile_views": 6,
-  "kill_count": 12,
-  "play_count": 103,
-  "highest_score": 322870,
+  "date_last_played": "2025-06-04T16:40:11.000Z",
+  "profile_views": 18,
+  "kill_count": 22,
+  "play_count": 136,
+  "highest_score": 339623,
   "picture": null,
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 0,
+  "coins": 4,
   "tier": 1,
-  "xp": 4200,
+  "xp": 7800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-25T06:07:21.000Z",
-    "updated_at": "2025-04-25T06:07:21.000Z",
-    "pd": null
+    "created_at": "2025-06-04T16:40:10.000Z",
+    "updated_at": "2025-06-04T16:40:11.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-29T01:44:18.419Z"
+  "archived_at": "2025-06-07T11:52:49.051Z"
 }
