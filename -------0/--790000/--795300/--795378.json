@@ -1,60 +1,29 @@
 {
   "id": 795378,
-  "username": "wal_",
+  "username": "blessys",
   "description": "bless ys before a hoe",
   "about": "Walrus\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-11-25T00:47:42.000Z",
-  "date_last_played": "2025-05-29T00:33:31.000Z",
-  "profile_views": 1754,
-  "kill_count": 8364,
-  "play_count": 3438,
+  "date_last_played": "2025-06-03T00:19:57.000Z",
+  "profile_views": 1778,
+  "kill_count": 8498,
+  "play_count": 3494,
   "highest_score": 15095450,
   "picture": "795378-b10fa28e1c0f97887dc8616e842423efe-bfa64a27-0e74-40bd-b4b0-34e4852fbe18.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 2625,
+  "coins": 2469,
   "tier": 10,
-  "xp": 2317500,
+  "xp": 2366100,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 24455,
-      "user_id": 795378,
-      "platform_id": "dc",
-      "platform_user_id": "2ds.wal#0",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2023-08-13T02:48:25.000Z",
-      "updated_at": "2024-11-14T00:18:24.000Z"
-    },
-    {
-      "id": 100331,
-      "user_id": 795378,
-      "platform_id": "yt",
-      "platform_user_id": "My bro mercy",
-      "platform_user_url": "https://www.youtube.com/@mercydrive00/videos",
-      "verified": false,
-      "created_at": "2024-11-16T22:57:18.000Z",
-      "updated_at": "2024-11-16T22:57:18.000Z"
-    },
-    {
-      "id": 20487,
-      "user_id": 795378,
-      "platform_id": "yt",
-      "platform_user_id": "TheWalrus-",
-      "platform_user_url": "https://www.youtube.com/channel/UCJtdJpn0xbN8ui0lhaMeyMA",
-      "verified": false,
-      "created_at": "2023-06-07T00:35:52.000Z",
-      "updated_at": "2023-06-07T00:35:52.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 795378,
     "rank_kc": 4670,
@@ -66,8 +35,8 @@
     "rank_hs": 2651,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-26T19:44:19.000Z",
-    "created_at": "2025-05-29T00:33:30.000Z",
-    "updated_at": "2025-05-29T00:33:31.000Z",
+    "created_at": "2025-06-03T00:19:56.000Z",
+    "updated_at": "2025-06-03T00:19:57.000Z",
     "pd": null
   },
   "creations": {
@@ -77,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-29T03:11:56.888Z"
+  "archived_at": "2025-06-07T13:21:26.743Z"
 }
