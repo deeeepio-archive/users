@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2020-03-29T20:07:24.000Z",
-  "date_last_played": "2025-05-27T23:48:19.000Z",
-  "profile_views": 4362,
-  "kill_count": 25092,
-  "play_count": 6154,
+  "date_last_played": "2025-06-06T18:22:24.000Z",
+  "profile_views": 4404,
+  "kill_count": 25184,
+  "play_count": 6161,
   "highest_score": 6296097,
-  "picture": "718366-b5578a41a86a5a15af13c9222e4495d6-be3802fb-d9ee-4de7-9506-4d312ea7d34d.png",
+  "picture": "718366-5e17d6df310717f9a7f8727a0ac210f99d-bcc7df4a-8c54-4c0b-b44d-1c9f52e4126a.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 9028,
+  "coins": 9071,
   "tier": 10,
-  "xp": 4652250,
+  "xp": 4677450,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -31,14 +31,14 @@
   ],
   "social_networks": [
     {
-      "id": 14380,
+      "id": 105280,
       "user_id": 718366,
       "platform_id": "dc",
-      "platform_user_id": "𝒮𝓃𝑜𝓌𝒻𝒶𝓁𝓁#7275",
+      "platform_user_id": "absolute_snowfall",
       "platform_user_url": null,
       "verified": false,
-      "created_at": "2023-02-03T02:44:35.000Z",
-      "updated_at": "2023-02-03T02:44:35.000Z"
+      "created_at": "2025-06-05T00:33:39.000Z",
+      "updated_at": "2025-06-05T00:33:39.000Z"
     }
   ],
   "user_stats": {
@@ -52,8 +52,8 @@
     "rank_hs": 11278,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T03:23:23.000Z",
-    "created_at": "2025-05-27T23:48:18.000Z",
-    "updated_at": "2025-05-27T23:48:19.000Z",
+    "created_at": "2025-06-06T18:22:24.000Z",
+    "updated_at": "2025-06-06T18:22:24.000Z",
     "pd": null
   },
   "creations": {
@@ -63,5 +63,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-28T18:34:27.056Z"
+  "archived_at": "2025-06-07T04:44:16.414Z"
 }
