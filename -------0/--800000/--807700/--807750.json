@@ -1,13 +1,13 @@
 {
   "id": 807750,
   "username": "luhhswisha",
-  "description": "bomb threat",
+  "description": "",
   "about": "⃟\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-12-30T00:26:51.000Z",
   "date_last_played": "2025-05-24T01:00:20.000Z",
-  "profile_views": 3828,
+  "profile_views": 3849,
   "kill_count": 17659,
   "play_count": 6887,
   "highest_score": 11423957,
@@ -49,9 +49,9 @@
     "created_at": "2025-05-24T01:00:19.000Z",
     "updated_at": "2025-05-24T01:00:20.000Z",
     "pd": {
-      "played": 5,
-      "won": 2,
-      "ratio": 40
+      "played": 2,
+      "won": 1,
+      "ratio": 50
     }
   },
   "creations": {
@@ -61,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-29T04:37:22.076Z"
+  "archived_at": "2025-06-07T14:45:31.167Z"
 }
