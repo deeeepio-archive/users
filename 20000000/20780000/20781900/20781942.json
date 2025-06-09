@@ -1,29 +1,40 @@
 {
   "id": 20781942,
-  "username": "1blanco",
+  "username": "xblanco",
   "description": "",
-  "about": "",
+  "about": "fake",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-11-26T19:26:53.000Z",
-  "date_last_played": "2025-05-30T19:43:37.000Z",
-  "profile_views": 336,
-  "kill_count": 748,
-  "play_count": 704,
+  "date_last_played": "2025-06-02T16:52:51.000Z",
+  "profile_views": 353,
+  "kill_count": 762,
+  "play_count": 713,
   "highest_score": 3053913,
-  "picture": "20781942-045e18e72e82de6c84842d66df5421a8-3018a307-60a2-4813-85d4-6fffc76b90f7.png",
+  "picture": "20781942-c9a9be2d96bed891b7e48bed6b10e37a8-f648dd9a-e220-4a0f-9137-8556b06477bb.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 408,
+  "coins": 449,
   "tier": 5,
-  "xp": 319950,
+  "xp": 326100,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105204,
+      "user_id": 20781942,
+      "platform_id": "dc",
+      "platform_user_id": "vvz77",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-02T14:55:03.000Z",
+      "updated_at": "2025-06-02T14:55:03.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 20781942,
     "rank_kc": 228865,
@@ -35,8 +46,8 @@
     "rank_hs": 165476,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T09:11:15.000Z",
-    "created_at": "2025-05-30T19:43:36.000Z",
-    "updated_at": "2025-05-30T19:43:37.000Z",
+    "created_at": "2025-06-02T16:52:51.000Z",
+    "updated_at": "2025-06-02T16:52:51.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-31T03:49:28.949Z"
+  "archived_at": "2025-06-09T13:26:16.409Z"
 }
