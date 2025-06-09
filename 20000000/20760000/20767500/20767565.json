@@ -1,17 +1,17 @@
 {
   "id": 20767565,
-  "username": "阿卜杜勒迈吉德",
+  "username": "ExtI23",
   "description": "",
-  "about": "奥斯曼帝国第三十一任苏丹兼任哈里发\n坚定不移的改革者",
+  "about": "操你妈都过去听ここからはエンドロール！",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-10-16T07:03:21.000Z",
   "date_last_played": "2025-05-25T04:03:19.000Z",
-  "profile_views": 5488,
+  "profile_views": 5495,
   "kill_count": 13719,
   "play_count": 2360,
   "highest_score": 8460549,
-  "picture": "20767565-8958734ef6eab96ad10e964f217725bab-1076702a-317d-4e13-aeb7-18ee83099412.png",
+  "picture": "20767565-bb9d59b972f1045ae8c770573889da3e9-e4e711e7-a611-4099-9c12-d6653ca8bceb.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
@@ -33,6 +33,16 @@
       "verified": false,
       "created_at": "2025-04-19T02:30:08.000Z",
       "updated_at": "2025-04-19T02:30:08.000Z"
+    },
+    {
+      "id": 105162,
+      "user_id": 20767565,
+      "platform_id": "yt",
+      "platform_user_id": "ここからはエンドロール！full ver. /flower&歌愛ユキ",
+      "platform_user_url": "https://www.youtube.com/watch?v=2Eq5FHlwjYE",
+      "verified": false,
+      "created_at": "2025-06-01T00:22:46.000Z",
+      "updated_at": "2025-06-01T00:22:46.000Z"
     }
   ],
   "user_stats": {
@@ -49,9 +59,9 @@
     "created_at": "2025-05-25T04:03:18.000Z",
     "updated_at": "2025-05-25T04:03:19.000Z",
     "pd": {
-      "played": 8,
-      "won": 5,
-      "ratio": 63
+      "played": 6,
+      "won": 3,
+      "ratio": 50
     }
   },
   "creations": {
@@ -61,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-31T02:13:10.743Z"
+  "archived_at": "2025-06-09T11:38:44.745Z"
 }
