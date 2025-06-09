@@ -1,24 +1,24 @@
 {
   "id": 20817904,
   "username": "Pondie",
-  "description": "yawn",
+  "description": "licked",
   "about": "no",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-04-21T23:52:53.000Z",
-  "date_last_played": "2025-05-30T17:10:22.000Z",
-  "profile_views": 233,
-  "kill_count": 3296,
-  "play_count": 1076,
+  "date_last_played": "2025-06-04T21:06:55.000Z",
+  "profile_views": 236,
+  "kill_count": 3403,
+  "play_count": 1099,
   "highest_score": 2907380,
   "picture": null,
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 336,
+  "coins": 510,
   "tier": 6,
-  "xp": 445200,
+  "xp": 472800,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -46,8 +46,8 @@
     "rank_hs": 20775,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-06-04T15:04:48.000Z",
-    "created_at": "2025-05-30T17:10:21.000Z",
-    "updated_at": "2025-05-30T17:10:22.000Z",
+    "created_at": "2025-06-04T21:06:54.000Z",
+    "updated_at": "2025-06-04T21:06:55.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-31T07:53:05.920Z"
+  "archived_at": "2025-06-09T17:45:06.483Z"
 }
