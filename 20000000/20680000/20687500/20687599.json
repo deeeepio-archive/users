@@ -1,40 +1,29 @@
 {
   "id": 20687599,
   "username": "Cronos",
-  "description": "Starry Light\n",
+  "description": "Fair game\n\n",
   "about": "                                                xp\n                         (adj.) Secret, hidden, dark | (also of feelings)\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2021-01-31T23:04:41.000Z",
-  "date_last_played": "2025-05-30T13:38:15.000Z",
-  "profile_views": 70,
-  "kill_count": 7646,
-  "play_count": 7176,
+  "date_last_played": "2025-06-08T23:23:16.000Z",
+  "profile_views": 80,
+  "kill_count": 7769,
+  "play_count": 7315,
   "highest_score": 8662052,
   "picture": "20687599-543478d5b69eeb58eab831cb3c25f47e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1163,
-  "tier": 2,
-  "xp": 33150,
+  "coins": 1024,
+  "tier": 3,
+  "xp": 91050,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 21047,
-      "user_id": 20687599,
-      "platform_id": "dc",
-      "platform_user_id": "ennmor",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2023-06-14T22:38:53.000Z",
-      "updated_at": "2023-07-12T14:05:33.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 20687599,
     "rank_kc": 3198,
@@ -46,9 +35,13 @@
     "rank_hs": 2993,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-06-15T18:50:51.000Z",
-    "created_at": "2025-05-30T13:38:15.000Z",
-    "updated_at": "2025-05-30T13:38:15.000Z",
-    "pd": null
+    "created_at": "2025-06-08T23:23:16.000Z",
+    "updated_at": "2025-06-08T23:23:16.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-30T17:15:32.063Z"
+  "archived_at": "2025-06-09T02:42:36.812Z"
 }
