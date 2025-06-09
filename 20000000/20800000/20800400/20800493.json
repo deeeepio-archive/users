@@ -1,24 +1,24 @@
 {
   "id": 20800493,
   "username": "Vliner",
-  "description": "саси бибу",
+  "description": "okak",
   "about": "\n😐 😕\n👕 <👗\\\n👖 /\\\n\n😉 . . . 😳\n👕 /👗\\\n👖 /\\\n\n😚 😒\n👕 <👗>\n👖 /\\\n\n😍 😅\n👕 /👗\\\n👖 /\\\n\n😍 😍\n👕 /👗\\\n👖 /\\\n\n😘 😊\n👕 /👗\\\n👖 /\\\n\n😳 😁\n/|\\ /👙\\\n/\\ / \\\n\n😈 /😰\\\n<|\\ 👙\n/🍆 / \\\n\n😅\n/()__,✊😮\n/\\ /\\\\/\\\n\n😎\n/\\\\___,____😫\n// / \\\n\n😖\n/\\\\___,💦_____😋\n// / \\\n\n😭 🥰\n/|\\ /(👶)\\\n/\\ / \\\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-02-15T16:37:33.000Z",
-  "date_last_played": "2025-05-30T17:57:17.000Z",
-  "profile_views": 1376,
-  "kill_count": 6773,
-  "play_count": 3253,
+  "date_last_played": "2025-06-08T16:29:19.000Z",
+  "profile_views": 1465,
+  "kill_count": 6889,
+  "play_count": 3336,
   "highest_score": 8406830,
-  "picture": "20800493-4a5fbcf31aae875a55f0b74b0bf8c3c8.png",
+  "picture": "20800493-0f9b1083b0e53c08b65827159ccf288ea-82c3828e-aef1-422a-8d7b-0a5d008b8e90.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 437,
+  "coins": 565,
   "tier": 10,
-  "xp": 1346700,
+  "xp": 1386150,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,9 +46,13 @@
     "rank_hs": 3380,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-12-25T10:06:48.000Z",
-    "created_at": "2025-05-30T17:57:16.000Z",
-    "updated_at": "2025-05-30T17:57:17.000Z",
-    "pd": null
+    "created_at": "2025-06-08T16:29:18.000Z",
+    "updated_at": "2025-06-08T16:29:19.000Z",
+    "pd": {
+      "played": 8,
+      "won": 5,
+      "ratio": 63
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-31T05:54:03.751Z"
+  "archived_at": "2025-06-09T15:42:48.579Z"
 }
