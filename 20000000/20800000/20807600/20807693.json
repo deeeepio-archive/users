@@ -2,23 +2,23 @@
   "id": 20807693,
   "username": "Takma",
   "description": "end.\n",
-  "about": "𓂀\n🔪\n#1\n",
+  "about": "𓂀\n🔪\n#1\n✡\nkbagstth982\nmaybe someday maybe\nar15",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-03-15T21:23:32.000Z",
-  "date_last_played": "2025-05-28T19:42:33.000Z",
-  "profile_views": 20389,
-  "kill_count": 17760,
-  "play_count": 4906,
+  "date_last_played": "2025-06-09T06:14:36.000Z",
+  "profile_views": 20568,
+  "kill_count": 17836,
+  "play_count": 4921,
   "highest_score": 7763413,
-  "picture": "20807693-69bae1bc475c36a13e10443a82ee1a119-5af15af5-a7b5-42b6-bfd4-7cc0b3293364.png",
+  "picture": "20807693-88d867b10d108d87b87ebe5b4b81dde3f3-73d3ba10-1739-420e-bcc1-f4fe3291ed66.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1226,
+  "coins": 1330,
   "tier": 10,
-  "xp": 3999300,
+  "xp": 4014900,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -43,6 +43,16 @@
       "verified": false,
       "created_at": "2025-05-25T07:53:23.000Z",
       "updated_at": "2025-05-25T07:53:23.000Z"
+    },
+    {
+      "id": 105380,
+      "user_id": 20807693,
+      "platform_id": "yt",
+      "platform_user_id": "‎ ‎ ‎ ",
+      "platform_user_url": "https://www.youtube.com/watch?v=UOdeIZxfcQI",
+      "verified": false,
+      "created_at": "2025-06-09T06:38:18.000Z",
+      "updated_at": "2025-06-09T06:38:18.000Z"
     }
   ],
   "user_stats": {
@@ -56,12 +66,12 @@
     "rank_hs": 116577,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-18T18:37:58.000Z",
-    "created_at": "2025-05-28T19:42:32.000Z",
-    "updated_at": "2025-05-28T19:42:33.000Z",
+    "created_at": "2025-06-09T06:14:36.000Z",
+    "updated_at": "2025-06-09T06:14:36.000Z",
     "pd": {
-      "played": 32,
-      "won": 22,
-      "ratio": 69
+      "played": 41,
+      "won": 29,
+      "ratio": 71
     }
   },
   "creations": {
@@ -71,5 +81,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-05-31T06:43:05.289Z"
+  "archived_at": "2025-06-09T16:33:55.684Z"
 }
