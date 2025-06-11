@@ -2,14 +2,14 @@
   "id": 21280059,
   "username": "牧間💤",
   "description": "Milk outside a bag of milk",
-  "about": "-Prepare for trouble! \n-And make it double! \n-To protect the world from devastation!\n-To unite all peoples within our nation!",
+  "about": " ",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-04-04T23:43:39.000Z",
-  "date_last_played": "2025-05-29T23:36:14.000Z",
-  "profile_views": 3962,
+  "date_last_played": "2025-06-04T12:42:29.000Z",
+  "profile_views": 3969,
   "kill_count": 6919,
-  "play_count": 1756,
+  "play_count": 1759,
   "highest_score": 4728220,
   "picture": "21280059-2ec7b7f67d55c920032935e862164103a-76f617ae-96a4-4aad-b7b2-8a9f27029158.png",
   "displayPicture": true,
@@ -35,9 +35,13 @@
     "rank_hs": 9414,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-21T10:43:22.000Z",
-    "created_at": "2025-05-29T23:36:14.000Z",
-    "updated_at": "2025-05-29T23:36:14.000Z",
-    "pd": null
+    "created_at": "2025-06-04T12:42:29.000Z",
+    "updated_at": "2025-06-04T12:42:29.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-02T15:05:50.620Z"
+  "archived_at": "2025-06-11T21:56:03.227Z"
 }
