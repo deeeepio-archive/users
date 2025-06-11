@@ -1,29 +1,40 @@
 {
   "id": 21221328,
   "username": "I_Like_Wolves",
-  "description": "Looks like hunting season started early",
+  "description": "Still waters, hidden currents ",
   "about": "I beat shru in chess :)\nShe/her\nIM NOT A FURRY SO STFU TOXIC RATS\nI beat pi 7-1\nEagle on top\nFOR GLORY, FOR GOD, AND FOR COUNTRY! FRILLED FOREVER\nI won most beloved forumer\n늑대\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2022-12-10T04:03:00.000Z",
-  "date_last_played": "2025-06-02T02:32:03.000Z",
-  "profile_views": 3794,
-  "kill_count": 15226,
-  "play_count": 9426,
+  "date_last_played": "2025-06-09T02:13:21.000Z",
+  "profile_views": 3832,
+  "kill_count": 15254,
+  "play_count": 9452,
   "highest_score": 9383130,
   "picture": "21221328-c18857bac8987c6b33554d010a46791cb-8a73097b-87b1-4fff-8df1-6cf4dbf8947e.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 10157,
+  "coins": 9326,
   "tier": 10,
-  "xp": 4472850,
+  "xp": 4488450,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105327,
+      "user_id": 21221328,
+      "platform_id": "dc",
+      "platform_user_id": "I_like_wolves",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-06T23:50:32.000Z",
+      "updated_at": "2025-06-06T23:50:32.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21221328,
     "rank_kc": 5976,
@@ -35,8 +46,8 @@
     "rank_hs": 7788,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-17T22:19:52.000Z",
-    "created_at": "2025-06-02T02:32:03.000Z",
-    "updated_at": "2025-06-02T02:32:03.000Z",
+    "created_at": "2025-06-09T02:13:21.000Z",
+    "updated_at": "2025-06-09T02:13:21.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-02T07:44:01.188Z"
+  "archived_at": "2025-06-11T13:25:24.228Z"
 }
