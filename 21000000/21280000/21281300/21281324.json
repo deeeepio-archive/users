@@ -1,24 +1,24 @@
 {
   "id": 21281324,
   "username": "sunfish1",
-  "description": "javascript:(function () { \n    var script =  document.createElement('script');\n    script.src=\"//cdn.jsdelivr.net/npm/eruda\"; \n    document.body.appendChild(script);\n    script.onload = function () { \n        eruda.init() \n    } \n})();",
+  "description": "Your time is up, my time is now\nYou can't see me, my time is now\nIts the franchise, Boy, I'm shining now\nYou can't see me, my time is now\n\nas know as Localhost",
   "about": "Mola Mola je zapravo naučno ime okeanske sunčanice.\nVole da se sunčaju.\nSklone su infestaciji parazitima.\nMogu težiti više od automobila.\nPolažu milione jaja.\nMogu zaroniti do 2600 stopa.\nOni su bili prihvatljiv oblik plaćanja poreza u Japanu u 17. veku.",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-04-10T13:45:02.000Z",
-  "date_last_played": "2025-06-01T07:33:01.000Z",
-  "profile_views": 7322,
-  "kill_count": 13855,
-  "play_count": 7540,
+  "date_last_played": "2025-06-11T09:45:54.000Z",
+  "profile_views": 7528,
+  "kill_count": 14080,
+  "play_count": 7564,
   "highest_score": 12496646,
-  "picture": "21281324-4199226193381049397357ed44e196a26-5bcd3b0f-c17b-4c1c-8ad5-d0767ea6e853.png",
+  "picture": "21281324-ee6571088a8ed1025e9a79a46194eb7aa1-ed8d54f2-05e6-4db3-8632-df5a74a51f82.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 80,
+  "coins": 276,
   "tier": 10,
-  "xp": 3172950,
+  "xp": 3202350,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": 1969,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-13T01:18:38.000Z",
-    "created_at": "2025-06-01T07:33:00.000Z",
-    "updated_at": "2025-06-01T07:33:01.000Z",
+    "created_at": "2025-06-11T09:45:53.000Z",
+    "updated_at": "2025-06-11T09:45:54.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-02T15:14:40.428Z"
+  "archived_at": "2025-06-11T22:10:42.417Z"
 }
