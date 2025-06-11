@@ -2,23 +2,23 @@
   "id": 21268865,
   "username": "Altwidus",
   "description": "If you're toxic, you deserve it.\n\nIf you were minding your business, sorry but i need moola.",
-  "about": "Manta Ray Goober!!!",
+  "about": "YUM",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-02-16T19:03:37.000Z",
-  "date_last_played": "2024-07-30T14:20:20.000Z",
-  "profile_views": 127,
+  "date_last_played": "2025-06-09T09:44:46.000Z",
+  "profile_views": 131,
   "kill_count": 301,
-  "play_count": 573,
+  "play_count": 582,
   "highest_score": 974409,
   "picture": "21268865-eb05def9a92bc2e4e796df19ce101f101010.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 13,
+  "coins": 35,
   "tier": 2,
-  "xp": 66000,
+  "xp": 69300,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 142477,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-06-17T19:01:18.000Z",
-    "created_at": "2024-07-30T14:20:19.000Z",
-    "updated_at": "2024-07-30T14:20:20.000Z",
-    "pd": null
+    "created_at": "2025-06-09T09:44:45.000Z",
+    "updated_at": "2025-06-09T09:44:46.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-02T13:37:22.282Z"
+  "archived_at": "2025-06-11T20:28:02.911Z"
 }
