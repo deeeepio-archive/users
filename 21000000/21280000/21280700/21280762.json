@@ -1,24 +1,24 @@
 {
   "id": 21280762,
   "username": "0rbitaltacc",
-  "description": "Im canadian, so obviously i live in a igloo and ride to work on a moose every morning\n \n\n\n",
+  "description": "hell yeah brother\n \n\n\n",
   "about": "my real record is 11 mil on halli FFa, did it on my other account\n\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-04-07T20:44:12.000Z",
-  "date_last_played": "2025-06-01T23:50:19.000Z",
-  "profile_views": 337,
-  "kill_count": 2325,
-  "play_count": 754,
-  "highest_score": 5746870,
+  "date_last_played": "2025-06-08T03:58:36.000Z",
+  "profile_views": 394,
+  "kill_count": 2373,
+  "play_count": 779,
+  "highest_score": 6054821,
   "picture": "21280762-24a9aaaf2a78dcc109e50b1529d37bd71.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 403,
-  "tier": 6,
-  "xp": 521700,
+  "coins": 619,
+  "tier": 7,
+  "xp": 554100,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 8808,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-07-21T23:21:15.000Z",
-    "created_at": "2025-06-01T23:50:19.000Z",
-    "updated_at": "2025-06-01T23:50:19.000Z",
-    "pd": null
+    "created_at": "2025-06-08T03:58:36.000Z",
+    "updated_at": "2025-06-08T03:58:36.000Z",
+    "pd": {
+      "played": 8,
+      "won": 5,
+      "ratio": 63
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-02T15:10:37.079Z"
+  "archived_at": "2025-06-11T22:06:33.645Z"
 }
