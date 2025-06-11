@@ -1,24 +1,24 @@
 {
   "id": 21290753,
   "username": "3192300447",
-  "description": "Got you!\n",
+  "description": "Sorry, it's just business\n",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2023-05-12T03:06:22.000Z",
-  "date_last_played": "2025-05-29T17:30:37.000Z",
-  "profile_views": 270,
-  "kill_count": 154,
-  "play_count": 609,
+  "date_last_played": "2025-06-09T07:55:13.000Z",
+  "profile_views": 309,
+  "kill_count": 201,
+  "play_count": 703,
   "highest_score": 1179223,
-  "picture": "21290753-7d671910109f55e9a78d8391bc784c5bd5-671dc535-b423-4d31-ba7e-214933cd4bd4.png",
+  "picture": "21290753-9101023e87efd4e6fef3536275e90ae0bf-e2c884d8-20f1-49e8-841f-4a7fb3ec9125.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 174,
+  "coins": 273,
   "tier": 3,
-  "xp": 77250,
+  "xp": 92100,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": 235105,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-10-06T02:26:34.000Z",
-    "created_at": "2025-05-29T19:00:01.000Z",
-    "updated_at": "2025-05-29T19:00:01.000Z",
+    "created_at": "2025-06-09T07:55:12.000Z",
+    "updated_at": "2025-06-09T07:55:13.000Z",
     "pd": {
-      "played": 4,
-      "won": 2,
-      "ratio": 50
+      "played": 23,
+      "won": 9,
+      "ratio": 39
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-02T16:20:45.085Z"
+  "archived_at": "2025-06-11T23:26:39.357Z"
 }
