@@ -2,23 +2,23 @@
   "id": 21379976,
   "username": "killaur",
   "description": "Gg you good!",
-  "about": ".My good team-Loves.\n",
+  "about": ".My good team-Loves.\nМеня не загружают в игру всем пока😞\nМожет ещё вернусь\nLeave 09.06.2025⚰️\nИз за проблем интернета в сибири",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-08-31T04:28:47.000Z",
-  "date_last_played": "2025-06-03T03:01:49.000Z",
-  "profile_views": 186,
-  "kill_count": 400,
-  "play_count": 915,
+  "date_last_played": "2025-06-09T11:09:45.000Z",
+  "profile_views": 245,
+  "kill_count": 446,
+  "play_count": 957,
   "highest_score": 8307928,
   "picture": "21379976-23beb2654cb3a7de141b7f53ab2beec5-05f294f7-272e-4390-b57b-166b8bc87064.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 68,
+  "coins": 97,
   "tier": 5,
-  "xp": 262650,
+  "xp": 285750,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-03T03:01:48.000Z",
-    "updated_at": "2025-06-03T03:01:49.000Z",
-    "pd": null
+    "created_at": "2025-06-09T11:09:44.000Z",
+    "updated_at": "2025-06-09T11:09:45.000Z",
+    "pd": {
+      "played": 11,
+      "won": 7,
+      "ratio": 64
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T04:07:05.834Z"
+  "archived_at": "2025-06-12T12:13:31.293Z"
 }
