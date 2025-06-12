@@ -1,24 +1,24 @@
 {
   "id": 21315154,
-  "username": "曲奇✔",
-  "description": "⠙⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⢹⠿⣿⣿⣿⣿⣿\n⣷⣶⡀⠿⠿⣿⣿⣿⣿⣿⣿⡇⠐⠂⢒⡢⠀⣿⣿⣿\n⣿⣿⣿⣆⠀⠈⢻⣿⣿⣿⣿⣿⡆⢈⣿⣿⣿⣿⣿⣿\n⣿⣿⣿⣿⣷⣄⠀⠙⠻⢻⢿⣿⠷⢠⢽⣿⣿⣿⣿⣿\n⣿⣿⣿⣿⣿⣿⣧⡀⠁⠀⢘⣱⣍⠿⣾⢿⣿⢿⣿⣿\n⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⢉⢷⣌⠳⣿⣽⣛⣿\n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠋⠽⠶⡌⣿⣻⣀\n⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣠⡀⠀⠀⠀⠐⠇⢿⣿⣿\n⠿⠿⠿⠿⠿⠿⠿⠿⠏⠁⠀⠈⠀⠅⠶⠲⠶⠆⠔⠿",
-  "about": "Infected卐",
+  "username": "cake✔",
+  "description": " ",
+  "about": " ",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-08-30T17:40:47.000Z",
-  "date_last_played": "2025-06-02T01:05:19.000Z",
-  "profile_views": 13866,
-  "kill_count": 9434,
-  "play_count": 3348,
+  "date_last_played": "2025-06-10T03:10:03.000Z",
+  "profile_views": 14005,
+  "kill_count": 9575,
+  "play_count": 3403,
   "highest_score": 16104562,
-  "picture": "21315154-222e86369808b7950ac7030746b10a7c9-0dff9afe-a673-473b-a5a2-930bc15c1e21.png",
+  "picture": "21315154-4e4ad48f4dfdaec604589e6fabed56ba-0612e942-764d-44ab-b3f5-f3541630f942.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 3186,
+  "coins": 3238,
   "tier": 10,
-  "xp": 2414250,
+  "xp": 2476050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,6 +33,16 @@
       "verified": false,
       "created_at": "2025-05-06T11:16:34.000Z",
       "updated_at": "2025-05-06T11:16:34.000Z"
+    },
+    {
+      "id": 105384,
+      "user_id": 21315154,
+      "platform_id": "dc",
+      "platform_user_id": "https://discord.gg/xJYKrdEE",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-09T16:02:10.000Z",
+      "updated_at": "2025-06-09T16:02:10.000Z"
     },
     {
       "id": 103599,
@@ -76,12 +86,12 @@
     "rank_hs": 64143,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-11-05T10:45:51.000Z",
-    "created_at": "2025-06-02T01:05:19.000Z",
-    "updated_at": "2025-06-02T01:05:19.000Z",
+    "created_at": "2025-06-10T03:10:03.000Z",
+    "updated_at": "2025-06-10T03:10:03.000Z",
     "pd": {
-      "played": 148,
-      "won": 76,
-      "ratio": 51
+      "played": 53,
+      "won": 30,
+      "ratio": 57
     }
   },
   "creations": {
@@ -91,5 +101,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-02T19:19:10.362Z"
+  "archived_at": "2025-06-12T02:53:18.116Z"
 }
