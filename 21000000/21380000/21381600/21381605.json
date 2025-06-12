@@ -1,24 +1,24 @@
 {
   "id": 21381605,
   "username": "Barmelin",
-  "description": null,
+  "description": "Sorry bro i need coins",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-09-12T16:13:14.000Z",
-  "date_last_played": "2024-09-13T20:54:30.000Z",
-  "profile_views": 3,
-  "kill_count": 22,
-  "play_count": 11,
-  "highest_score": 0,
+  "date_last_played": "2025-06-11T19:12:02.000Z",
+  "profile_views": 45,
+  "kill_count": 133,
+  "play_count": 142,
+  "highest_score": 1915812,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 65,
-  "tier": 1,
-  "xp": 8250,
+  "coins": 209,
+  "tier": 2,
+  "xp": 59850,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2024-09-13T20:54:30.000Z",
-    "updated_at": "2024-09-13T20:54:30.000Z",
-    "pd": null
+    "created_at": "2025-06-11T19:12:01.000Z",
+    "updated_at": "2025-06-11T19:12:02.000Z",
+    "pd": {
+      "played": 8,
+      "won": 5,
+      "ratio": 63
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T04:18:07.761Z"
+  "archived_at": "2025-06-12T12:25:13.993Z"
 }
