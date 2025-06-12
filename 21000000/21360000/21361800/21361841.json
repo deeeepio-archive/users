@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2024-04-05T17:24:12.000Z",
   "date_last_played": "2025-05-21T21:54:25.000Z",
-  "profile_views": 2535,
+  "profile_views": 2544,
   "kill_count": 4340,
   "play_count": 1585,
   "highest_score": 9999844,
@@ -23,7 +23,18 @@
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105400,
+      "user_id": 21361841,
+      "platform_id": "yt",
+      "platform_user_id": "Good Song",
+      "platform_user_url": "https://www.youtube.com/watch?v=fmBD7oWHGBs",
+      "verified": false,
+      "created_at": "2025-06-10T13:24:22.000Z",
+      "updated_at": "2025-06-10T13:24:22.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21361841,
     "rank_kc": null,
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T01:42:21.886Z"
+  "archived_at": "2025-06-12T09:22:43.056Z"
 }
