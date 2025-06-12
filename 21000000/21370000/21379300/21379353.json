@@ -1,24 +1,24 @@
 {
   "id": 21379353,
   "username": "仙尊",
-  "description": null,
+  "description": "cnm",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-08-27T04:53:11.000Z",
-  "date_last_played": "2025-06-01T12:58:20.000Z",
-  "profile_views": 3,
-  "kill_count": 99,
-  "play_count": 93,
+  "date_last_played": "2025-06-11T11:59:45.000Z",
+  "profile_views": 8,
+  "kill_count": 149,
+  "play_count": 151,
   "highest_score": 3111036,
-  "picture": null,
+  "picture": "21379353-893e8501f1dff01ece846bb287f764fa-307142eb-122e-465e-b962-d97c4a1f8365.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 97,
+  "coins": 251,
   "tier": 2,
-  "xp": 43050,
+  "xp": 66150,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-01T12:58:19.000Z",
-    "updated_at": "2025-06-01T12:58:20.000Z",
+    "created_at": "2025-06-11T11:59:45.000Z",
+    "updated_at": "2025-06-11T11:59:45.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T03:58:42.261Z"
+  "archived_at": "2025-06-12T12:09:18.382Z"
 }
