@@ -2,23 +2,23 @@
   "id": 21391988,
   "username": "♡Aurora♡",
   "description": ":3",
-  "about": "I love to spectate people ❤️ :3",
+  "about": "I love to spectate people ❤️ :3\nI love to play as whale too ;)\nShe/her",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-12-01T02:55:10.000Z",
-  "date_last_played": "2025-06-02T02:36:57.000Z",
-  "profile_views": 39,
-  "kill_count": 35,
-  "play_count": 16,
-  "highest_score": 1017830,
-  "picture": null,
+  "date_last_played": "2025-06-11T22:46:52.000Z",
+  "profile_views": 269,
+  "kill_count": 262,
+  "play_count": 114,
+  "highest_score": 3934432,
+  "picture": "21391988-c9e4810a96b5398a2bc5e71b5799d5555-98c10ae4-8a0d-48fc-a56a-3c3b500f99ff.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 71,
-  "tier": 1,
-  "xp": 9150,
+  "coins": 77,
+  "tier": 3,
+  "xp": 88800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-02T02:36:57.000Z",
-    "updated_at": "2025-06-02T02:36:57.000Z",
-    "pd": null
+    "created_at": "2025-06-11T22:46:52.000Z",
+    "updated_at": "2025-06-11T22:46:52.000Z",
+    "pd": {
+      "played": 42,
+      "won": 27,
+      "ratio": 64
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T05:50:59.596Z"
+  "archived_at": "2025-06-12T14:02:41.970Z"
 }
