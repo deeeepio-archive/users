@@ -1,24 +1,24 @@
 {
   "id": 21370703,
-  "username": "Freeaccount",
-  "description": "",
-  "about": null,
+  "username": "ɓāỊơọ-",
+  "description": "I run dis hood bitch",
+  "about": "nigga get off my profile and play the damn game",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-06-11T15:19:07.000Z",
-  "date_last_played": "2025-01-23T06:10:59.000Z",
-  "profile_views": 836,
-  "kill_count": 5295,
-  "play_count": 1359,
+  "date_last_played": "2025-06-08T20:02:27.000Z",
+  "profile_views": 1413,
+  "kill_count": 5313,
+  "play_count": 1376,
   "highest_score": 5564744,
-  "picture": "21370703-db42a991012109b0338f6528810fefd127e-75f6835f-171c-4a11-8917-3db9f70fd964.png",
+  "picture": "21370703-792f41cdc7ba39adca983e1098810ca4b6-71c6a98a-0dbc-4bdc-9703-dfe7a0d4cf30.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 559,
+  "coins": 84,
   "tier": 10,
-  "xp": 1161900,
+  "xp": 1164150,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-01-23T06:10:58.000Z",
-    "updated_at": "2025-01-23T06:10:59.000Z",
-    "pd": null
+    "created_at": "2025-06-08T20:02:26.000Z",
+    "updated_at": "2025-06-08T20:02:27.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T02:53:39.193Z"
+  "archived_at": "2025-06-12T10:35:50.124Z"
 }
