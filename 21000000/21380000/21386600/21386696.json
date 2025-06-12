@@ -1,24 +1,24 @@
 {
   "id": 21386696,
-  "username": "dar_king",
-  "description": "5",
-  "about": "23/10",
+  "username": "LOCKED",
+  "description": "LOCKED",
+  "about": "LOCKED",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-23T14:40:40.000Z",
-  "date_last_played": "2025-06-03T04:30:06.000Z",
-  "profile_views": 1587,
-  "kill_count": 2926,
-  "play_count": 1043,
+  "date_last_played": "2025-06-05T10:21:49.000Z",
+  "profile_views": 1635,
+  "kill_count": 2938,
+  "play_count": 1064,
   "highest_score": 5441896,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 6353,
+  "coins": 6406,
   "tier": 9,
-  "xp": 951450,
+  "xp": 959400,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-03T04:30:05.000Z",
-    "updated_at": "2025-06-03T04:30:06.000Z",
+    "created_at": "2025-06-05T10:21:48.000Z",
+    "updated_at": "2025-06-05T10:21:49.000Z",
     "pd": {
-      "played": 101,
-      "won": 64,
-      "ratio": 63
+      "played": 63,
+      "won": 38,
+      "ratio": 60
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T04:58:05.999Z"
+  "archived_at": "2025-06-12T13:19:04.149Z"
 }
