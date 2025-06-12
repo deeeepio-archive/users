@@ -1,24 +1,24 @@
 {
   "id": 21411294,
-  "username": "Sunky",
+  "username": "NEWFIRExDRAGONHART",
   "description": "Hey I’m sorry if I killed you it’s prob cuz you attacked me or my team or you were low health don’t worry your points will be put to a good cause <3",
-  "about": "I like cereal ",
+  "about": "When the world ends remember you did not have to fight me",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-05-29T21:32:43.000Z",
-  "date_last_played": "2025-06-02T22:52:14.000Z",
-  "profile_views": 22,
-  "kill_count": 81,
-  "play_count": 142,
-  "highest_score": 2720241,
-  "picture": null,
+  "date_last_played": "2025-06-11T23:30:10.000Z",
+  "profile_views": 63,
+  "kill_count": 188,
+  "play_count": 292,
+  "highest_score": 4064591,
+  "picture": "21411294-a18940cd4152ab5f347b9ccc1d659e95-a7565065-5858-42c0-899f-6d61b2be9abd.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 36,
-  "tier": 2,
-  "xp": 46800,
+  "coins": 174,
+  "tier": 3,
+  "xp": 100500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-02T22:52:13.000Z",
-    "updated_at": "2025-06-02T22:52:14.000Z",
-    "pd": null
+    "created_at": "2025-06-11T23:30:09.000Z",
+    "updated_at": "2025-06-11T23:30:10.000Z",
+    "pd": {
+      "played": 8,
+      "won": 3,
+      "ratio": 38
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T08:27:32.477Z"
+  "archived_at": "2025-06-12T16:42:13.483Z"
 }
