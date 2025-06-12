@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-02-28T18:38:29.000Z",
-  "date_last_played": "2025-06-02T20:16:36.000Z",
-  "profile_views": 41,
-  "kill_count": 114,
-  "play_count": 228,
+  "date_last_played": "2025-06-03T17:51:36.000Z",
+  "profile_views": 44,
+  "kill_count": 115,
+  "play_count": 233,
   "highest_score": 2216009,
   "picture": "21355495-3f05c38d6bbce338439846f7f43d39210-0ea48b10-cbe4-4b6d-9118-843dac945775.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 190,
+  "coins": 193,
   "tier": 2,
-  "xp": 40650,
+  "xp": 41100,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105228,
+      "user_id": 21355495,
+      "platform_id": "dc",
+      "platform_user_id": "gamer_rampage5",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-03T17:30:30.000Z",
+      "updated_at": "2025-06-03T17:30:30.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21355495,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-02T20:16:36.000Z",
-    "updated_at": "2025-06-02T20:16:36.000Z",
+    "created_at": "2025-06-03T17:51:35.000Z",
+    "updated_at": "2025-06-03T17:51:36.000Z",
     "pd": {
       "played": 15,
       "won": 7,
@@ -50,5 +61,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T00:54:39.148Z"
+  "archived_at": "2025-06-12T08:19:14.845Z"
 }
