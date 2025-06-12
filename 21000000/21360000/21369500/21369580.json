@@ -1,29 +1,40 @@
 {
   "id": 21369580,
-  "username": "Jay2947_28373",
-  "description": "",
-  "about": "Hiro ❤",
+  "username": "Jayden_",
+  "description": "World isn't black and white its just shades of gray",
+  "about": "Hiro ❤\n@///@",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-06-02T17:51:56.000Z",
-  "date_last_played": "2025-06-02T19:17:39.000Z",
-  "profile_views": 2268,
-  "kill_count": 8245,
-  "play_count": 9223,
+  "date_last_played": "2025-06-11T09:42:22.000Z",
+  "profile_views": 2366,
+  "kill_count": 8506,
+  "play_count": 9558,
   "highest_score": 3155740,
-  "picture": "21369580-02fd10ab4b3d4e3b0f10cc1c85b8c353c0-d8dbfc00-cd5d-420d-aadf-e09ccb7af239.png",
+  "picture": "21369580-2ad3ff1105c8e29c025fa371ec10c5c59-fae40205-b34c-443e-8f79-e6f4f62ea0be.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 141,
+  "coins": 809,
   "tier": 10,
-  "xp": 2748750,
+  "xp": 2882700,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105214,
+      "user_id": 21369580,
+      "platform_id": "dc",
+      "platform_user_id": "Xteeat",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-03T06:57:29.000Z",
+      "updated_at": "2025-06-03T06:57:29.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 21369580,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-02T19:17:39.000Z",
-    "updated_at": "2025-06-02T19:17:39.000Z",
+    "created_at": "2025-06-11T09:42:21.000Z",
+    "updated_at": "2025-06-11T09:42:22.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T02:46:23.479Z"
+  "archived_at": "2025-06-12T10:22:43.731Z"
 }
