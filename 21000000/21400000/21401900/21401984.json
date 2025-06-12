@@ -1,40 +1,29 @@
 {
   "id": 21401984,
-  "username": "yydss😰",
-  "description": null,
-  "about": "你死於五年級小學生",
+  "username": "貓meme",
+  "description": "為什麼你死了，我可不殺國人的，除非你打我哦。\n如果你是歪果仁，你就要怪自己了哦",
+  "about": "第一次玩是三年前，看過阿神、紅月影片才玩的",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-02-22T14:35:30.000Z",
-  "date_last_played": "2025-06-03T07:13:05.000Z",
-  "profile_views": 97,
-  "kill_count": 264,
-  "play_count": 113,
+  "date_last_played": "2025-06-11T10:22:23.000Z",
+  "profile_views": 139,
+  "kill_count": 289,
+  "play_count": 141,
   "highest_score": 4489527,
-  "picture": "21401984-ba71105244916e9458522621010261b163-9ad2031c-49ba-4873-b8dc-8f88642994ca.png",
+  "picture": "21401984-7263cb3786b8ab615f2094cdf23274ea-15e0d1d4-4247-4022-bd33-72e042c5df16.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 134,
+  "coins": 227,
   "tier": 3,
-  "xp": 76200,
+  "xp": 90150,
   "migrated": false,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 102791,
-      "user_id": 21401984,
-      "platform_id": "dc",
-      "platform_user_id": "坤",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-02-22T14:54:06.000Z",
-      "updated_at": "2025-02-22T14:54:06.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 21401984,
     "rank_kc": null,
@@ -46,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-03T07:13:05.000Z",
-    "updated_at": "2025-06-03T07:13:05.000Z",
-    "pd": null
+    "created_at": "2025-06-11T10:22:22.000Z",
+    "updated_at": "2025-06-11T10:22:23.000Z",
+    "pd": {
+      "played": 2,
+      "won": 1,
+      "ratio": 50
+    }
   },
   "creations": {
     "maps": {
@@ -57,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T07:17:38.310Z"
+  "archived_at": "2025-06-12T15:16:42.959Z"
 }
