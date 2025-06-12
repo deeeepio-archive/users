@@ -1,24 +1,24 @@
 {
   "id": 21401726,
   "username": "ParallaxMJ",
-  "description": "You died at muffin time.",
-  "about": "Do you have room for a muffin?",
+  "description": "I can accept failure; everyone fails at something. \nBut I can't accept not trying.\n\n-Michael Jordan",
+  "about": "A chill guy",
   "team_id": null,
   "team_role": null,
   "date_created": "2025-02-20T07:43:04.000Z",
-  "date_last_played": "2025-06-03T07:14:26.000Z",
-  "profile_views": 1513,
-  "kill_count": 1701,
-  "play_count": 1666,
+  "date_last_played": "2025-06-12T12:48:15.000Z",
+  "profile_views": 1694,
+  "kill_count": 2190,
+  "play_count": 1982,
   "highest_score": 18541245,
   "picture": "21401726-41009a55d9b8121ada30aa3d00bb10834a-954df818-f413-444f-a6a5-b2cd18031eb1.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1620,
-  "tier": 8,
-  "xp": 751950,
+  "coins": 1892,
+  "tier": 9,
+  "xp": 958500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-03T07:14:26.000Z",
-    "updated_at": "2025-06-03T07:14:26.000Z",
+    "created_at": "2025-06-12T12:48:15.000Z",
+    "updated_at": "2025-06-12T12:48:15.000Z",
     "pd": {
-      "played": 64,
-      "won": 30,
-      "ratio": 47
+      "played": 24,
+      "won": 11,
+      "ratio": 46
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T07:15:51.660Z"
+  "archived_at": "2025-06-12T15:15:01.166Z"
 }
