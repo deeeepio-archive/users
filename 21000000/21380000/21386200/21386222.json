@@ -1,24 +1,24 @@
 {
   "id": 21386222,
   "username": "todly",
-  "description": null,
+  "description": "\"You're as beautiful as the day I lost you\"",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-20T01:56:31.000Z",
-  "date_last_played": "2024-10-20T14:51:58.000Z",
-  "profile_views": 0,
+  "date_last_played": "2025-06-08T22:02:22.000Z",
+  "profile_views": 1,
   "kill_count": 2,
-  "play_count": 10,
+  "play_count": 11,
   "highest_score": 379865,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 18,
+  "coins": 22,
   "tier": 1,
-  "xp": 1200,
+  "xp": 1800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-28T11:33:16.000Z",
-    "updated_at": "2025-04-28T11:33:16.000Z",
+    "created_at": "2025-06-08T22:02:21.000Z",
+    "updated_at": "2025-06-08T22:02:22.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T04:54:47.425Z"
+  "archived_at": "2025-06-12T13:12:18.028Z"
 }
