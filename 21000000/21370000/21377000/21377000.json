@@ -1,24 +1,24 @@
 {
   "id": 21377000,
   "username": "OuO_",
-  "description": "",
+  "description": "a man must do great evil to become rich  -my dumbass who grinds coins using paima and isnt even a man",
   "about": "i main the slappy squid and the 2 crabs",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-08-07T05:03:47.000Z",
-  "date_last_played": "2025-06-01T05:25:57.000Z",
-  "profile_views": 6104,
-  "kill_count": 5632,
-  "play_count": 2613,
+  "date_last_played": "2025-06-11T10:34:23.000Z",
+  "profile_views": 6306,
+  "kill_count": 5764,
+  "play_count": 2748,
   "highest_score": 13678333,
   "picture": "21377000-c85041e84e5208f9fd3d24d25388a49b-b528a518-a312-40d5-8806-1dcda469a7bd.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 954,
+  "coins": 269,
   "tier": 10,
-  "xp": 1677750,
+  "xp": 1745250,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -46,20 +46,67 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-01T05:25:56.000Z",
-    "updated_at": "2025-06-01T05:25:57.000Z",
+    "created_at": "2025-06-11T10:34:23.000Z",
+    "updated_at": "2025-06-11T10:34:23.000Z",
     "pd": {
-      "played": 7,
-      "won": 2,
-      "ratio": 29
+      "played": 5,
+      "won": 1,
+      "ratio": 20
     }
   },
   "creations": {
     "maps": {
-      "items": [],
-      "count": 0
+      "items": [
+        {
+          "id": 245383,
+          "user_id": 21377000,
+          "cloneof_id": null,
+          "string_id": "sky_tffa",
+          "title": "sky tffa",
+          "description": "",
+          "public": true,
+          "locked": false,
+          "clonable": false,
+          "permissions": 1,
+          "likes": 2,
+          "objects": 182,
+          "created_at": "2025-06-08T04:14:42.000Z",
+          "updated_at": "2025-06-08T04:33:12.000Z",
+          "deleted_at": null,
+          "user": {
+            "id": 21377000,
+            "username": "OuO_",
+            "description": "a man must do great evil to become rich  -my dumbass who grinds coins using paima and isnt even a man",
+            "about": "i main the slappy squid and the 2 crabs",
+            "team_id": null,
+            "team_role": null,
+            "date_created": "2024-08-07T05:03:47.000Z",
+            "date_last_played": "2025-06-11T10:34:23.000Z",
+            "kill_count": 5764,
+            "play_count": 2748,
+            "highest_score": 13678333,
+            "picture": "21377000-c85041e84e5208f9fd3d24d25388a49b-b528a518-a312-40d5-8806-1dcda469a7bd.png",
+            "displayPicture": true,
+            "active": true,
+            "ban_message": null,
+            "ban_at": null,
+            "coins": 269,
+            "tier": 10,
+            "xp": 1745250,
+            "migrated": false,
+            "verified": false,
+            "beta": false
+          },
+          "tags": [
+            {
+              "id": "WIP"
+            }
+          ]
+        }
+      ],
+      "count": 1
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T03:43:02.092Z"
+  "archived_at": "2025-06-12T11:45:55.186Z"
 }
