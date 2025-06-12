@@ -1,24 +1,24 @@
 {
   "id": 21395923,
-  "username": "ввв",
+  "username": "sidopik",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-01-02T11:57:12.000Z",
-  "date_last_played": "2025-01-24T11:08:12.000Z",
-  "profile_views": 16,
-  "kill_count": 63,
-  "play_count": 195,
+  "date_last_played": "2025-06-10T08:07:38.000Z",
+  "profile_views": 25,
+  "kill_count": 131,
+  "play_count": 313,
   "highest_score": 1049616,
-  "picture": null,
+  "picture": "21395923-76994103ffc1c669ecd96e610ae36eb569-6d9480d4-2692-405f-a403-809b7e1218f9.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 8,
-  "tier": 1,
-  "xp": 19350,
+  "coins": 162,
+  "tier": 2,
+  "xp": 42450,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-01-24T11:08:12.000Z",
-    "updated_at": "2025-01-24T11:08:12.000Z",
+    "created_at": "2025-06-10T08:07:38.000Z",
+    "updated_at": "2025-06-10T08:07:38.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T06:28:56.848Z"
+  "archived_at": "2025-06-12T14:31:12.984Z"
 }
