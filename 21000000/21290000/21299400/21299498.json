@@ -1,24 +1,24 @@
 {
   "id": 21299498,
-  "username": "CYBERTRUCK_44",
-  "description": "WHEN  die it was probably nothing compared to what is happening in GAZA ",
+  "username": "GT3",
+  "description": "WHEN I die it was probably nothing compared to what is happening in GAZA.\nFREE PALESTINE!!!!",
   "about": "\n\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2023-06-14T18:33:02.000Z",
-  "date_last_played": "2025-05-29T19:01:28.000Z",
-  "profile_views": 67,
-  "kill_count": 392,
-  "play_count": 291,
+  "date_last_played": "2025-06-10T23:47:40.000Z",
+  "profile_views": 89,
+  "kill_count": 422,
+  "play_count": 340,
   "highest_score": 2094385,
   "picture": "21299498-79c4bb222e67bd65cb1b742cf28ea7c7.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 124,
-  "tier": 2,
-  "xp": 72750,
+  "coins": 170,
+  "tier": 3,
+  "xp": 81150,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 35745,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-07-13T03:47:00.000Z",
-    "created_at": "2025-05-29T19:01:27.000Z",
-    "updated_at": "2025-05-29T19:01:28.000Z",
-    "pd": null
+    "created_at": "2025-06-10T23:47:40.000Z",
+    "updated_at": "2025-06-10T23:47:40.000Z",
+    "pd": {
+      "played": 2,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-02T17:20:36.279Z"
+  "archived_at": "2025-06-12T00:37:46.515Z"
 }
