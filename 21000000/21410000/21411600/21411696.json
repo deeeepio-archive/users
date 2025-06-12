@@ -1,16 +1,16 @@
 {
-  "id": 21411659,
-  "username": "なんかすごそうなひと",
+  "id": 21411696,
+  "username": "alexisdollar",
   "description": null,
   "about": null,
   "team_id": null,
   "team_role": null,
-  "date_created": "2025-06-03T08:13:37.000Z",
-  "date_last_played": "2025-06-05T07:35:34.000Z",
+  "date_created": "2025-06-03T15:25:07.000Z",
+  "date_last_played": "2025-06-04T10:57:29.000Z",
   "profile_views": 0,
   "kill_count": 0,
-  "play_count": 4,
-  "highest_score": 80255,
+  "play_count": 17,
+  "highest_score": 140205,
   "picture": null,
   "displayPicture": true,
   "active": true,
@@ -25,18 +25,18 @@
   "badges": [],
   "social_networks": [],
   "user_stats": {
-    "user_id": 21411659,
-    "rank_kc": null,
+    "user_id": 21411696,
     "rank_kc_dirty": true,
+    "rank_pc_dirty": true,
+    "rank_hs_dirty": true,
+    "created_at": "2025-06-12T16:45:21.316Z",
+    "updated_at": "2025-06-12T16:45:21.000Z",
+    "rank_kc": null,
     "rank_kc_updated_at": null,
     "rank_pc": null,
-    "rank_pc_dirty": true,
     "rank_pc_updated_at": null,
     "rank_hs": null,
-    "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-05T07:35:34.000Z",
-    "updated_at": "2025-06-05T07:35:34.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-12T16:45:14.318Z"
+  "archived_at": "2025-06-12T16:45:21.380Z"
 }
