@@ -1,24 +1,24 @@
 {
   "id": 21411528,
   "username": "Кар",
-  "description": null,
+  "description": "О привет извини что убил тебя. я знаю у тебя все получится не сдавайся ",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2025-06-01T15:49:55.000Z",
-  "date_last_played": "2025-06-02T15:51:57.000Z",
-  "profile_views": 9,
-  "kill_count": 1,
-  "play_count": 7,
-  "highest_score": 127282,
+  "date_last_played": "2025-06-03T09:41:01.000Z",
+  "profile_views": 22,
+  "kill_count": 4,
+  "play_count": 13,
+  "highest_score": 156971,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 4,
+  "coins": 8,
   "tier": 1,
-  "xp": 600,
+  "xp": 1200,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,8 +35,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-02T15:51:56.000Z",
-    "updated_at": "2025-06-02T15:51:57.000Z",
+    "created_at": "2025-06-03T09:41:00.000Z",
+    "updated_at": "2025-06-03T09:41:01.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T08:28:46.192Z"
+  "archived_at": "2025-06-12T16:43:56.211Z"
 }
