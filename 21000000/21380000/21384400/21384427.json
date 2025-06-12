@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2024-10-06T02:27:00.000Z",
-  "date_last_played": "2025-06-02T07:27:36.000Z",
-  "profile_views": 918,
-  "kill_count": 3902,
-  "play_count": 1494,
+  "date_last_played": "2025-06-12T03:01:18.000Z",
+  "profile_views": 954,
+  "kill_count": 3965,
+  "play_count": 1540,
   "highest_score": 7003232,
   "picture": "21384427-3f20e185a5ec28c59c94dc752d6f203b-211bb621-4341-4213-bf88-3b70085d159c.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1963,
+  "coins": 1933,
   "tier": 10,
-  "xp": 1141800,
+  "xp": 1174800,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -33,6 +33,16 @@
       "verified": false,
       "created_at": "2025-05-06T02:35:10.000Z",
       "updated_at": "2025-05-06T02:35:10.000Z"
+    },
+    {
+      "id": 105443,
+      "user_id": 21384427,
+      "platform_id": "yt",
+      "platform_user_id": "@AcidBlaze",
+      "platform_user_url": "https://www.youtube.com/@AcidBlaze",
+      "verified": false,
+      "created_at": "2025-06-11T14:08:13.000Z",
+      "updated_at": "2025-06-11T14:08:13.000Z"
     }
   ],
   "user_stats": {
@@ -46,12 +56,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-02T07:27:36.000Z",
-    "updated_at": "2025-06-02T07:27:36.000Z",
+    "created_at": "2025-06-12T03:01:17.000Z",
+    "updated_at": "2025-06-12T03:01:18.000Z",
     "pd": {
-      "played": 52,
-      "won": 27,
-      "ratio": 52
+      "played": 21,
+      "won": 10,
+      "ratio": 48
     }
   },
   "creations": {
@@ -61,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T04:37:05.660Z"
+  "archived_at": "2025-06-12T12:59:31.585Z"
 }
