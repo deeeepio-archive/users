@@ -1,24 +1,24 @@
 {
   "id": 21391677,
   "username": "Saibot",
-  "description": "GG\n\n\n\n",
-  "about": "",
+  "description": "GGWP\n\nclient = skill issue\n\n\n\n",
+  "about": "orcatard\n\n<tribe>Saibot<RED>MK\nI like invincible\n\nthis.creatImgUrl = this.sourceImgUrl",
   "team_id": null,
   "team_role": null,
   "date_created": "2024-11-28T16:14:20.000Z",
-  "date_last_played": "2025-06-02T19:02:09.000Z",
-  "profile_views": 1122,
-  "kill_count": 2493,
-  "play_count": 1018,
-  "highest_score": 3643472,
-  "picture": "21391677-abd106e55e12e2311c2b44fae4d6cc35d-a0876c10-23f5-459e-88bc-8cb67dfba4b9.png",
+  "date_last_played": "2025-06-10T12:47:58.000Z",
+  "profile_views": 1302,
+  "kill_count": 2649,
+  "play_count": 1136,
+  "highest_score": 3673330,
+  "picture": "21391677-5811001490eb3e3b6f873d8ff5dc532b9-7fbac0fb-fe8b-4a8b-8a06-efaa4c1c377f.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 714,
-  "tier": 7,
-  "xp": 678600,
+  "coins": 119,
+  "tier": 8,
+  "xp": 731850,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -56,9 +56,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-02T19:02:09.000Z",
-    "updated_at": "2025-06-02T19:02:09.000Z",
-    "pd": null
+    "created_at": "2025-06-10T12:47:58.000Z",
+    "updated_at": "2025-06-10T12:47:58.000Z",
+    "pd": {
+      "played": 1,
+      "won": 1,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -67,5 +71,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-03T05:49:00.600Z"
+  "archived_at": "2025-06-12T14:00:26.218Z"
 }
