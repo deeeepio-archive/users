@@ -6,19 +6,19 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2019-05-18T06:09:09.000Z",
-  "date_last_played": "2025-06-05T23:42:45.000Z",
-  "profile_views": 1199,
-  "kill_count": 18516,
-  "play_count": 5499,
+  "date_last_played": "2025-06-15T23:36:05.000Z",
+  "profile_views": 1278,
+  "kill_count": 18550,
+  "play_count": 5526,
   "highest_score": 188357722,
   "picture": "594642-8376ff1ee3b4b2e4d610721aa10a5b8449-bcaad637-48cb-4b04-9b82-9d6190acd3f4.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 14297,
+  "coins": 14000,
   "tier": 10,
-  "xp": 1800300,
+  "xp": 1819500,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -33,6 +33,26 @@
       "verified": false,
       "created_at": "2025-02-05T08:42:27.000Z",
       "updated_at": "2025-02-05T08:42:27.000Z"
+    },
+    {
+      "id": 105370,
+      "user_id": 594642,
+      "platform_id": "dc",
+      "platform_user_id": "https://deeeep.io/u/mahdighurb",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-08T06:07:50.000Z",
+      "updated_at": "2025-06-08T06:07:50.000Z"
+    },
+    {
+      "id": 105369,
+      "user_id": 594642,
+      "platform_id": "ig",
+      "platform_user_id": "https://deeeep.io/u/deleted-user-3848",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-08T06:06:58.000Z",
+      "updated_at": "2025-06-08T06:15:35.000Z"
     }
   ],
   "user_stats": {
@@ -46,8 +66,8 @@
     "rank_hs": 446,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2022-06-09T08:31:04.000Z",
-    "created_at": "2025-06-05T23:42:44.000Z",
-    "updated_at": "2025-06-05T23:42:45.000Z",
+    "created_at": "2025-06-15T23:36:04.000Z",
+    "updated_at": "2025-06-15T23:36:05.000Z",
     "pd": null
   },
   "creations": {
@@ -57,5 +77,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-06T13:43:45.262Z"
+  "archived_at": "2025-06-15T23:37:06.169Z"
 }
