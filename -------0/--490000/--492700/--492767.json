@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2018-01-29T09:14:24.000Z",
   "date_last_played": "2025-05-16T10:02:13.000Z",
-  "profile_views": 9712,
+  "profile_views": 10336,
   "kill_count": 13117,
   "play_count": 3360,
   "highest_score": 6311333,
@@ -22,18 +22,7 @@
   "migrated": true,
   "verified": false,
   "beta": false,
-  "badges": [
-    {
-      "id": 1,
-      "slug": "artistry-member",
-      "title": "Artistry Member"
-    },
-    {
-      "id": 7,
-      "slug": "crabinet-member",
-      "title": "Crabinet Member"
-    }
-  ],
+  "badges": [],
   "social_networks": [
     {
       "id": 1611,
@@ -508,7 +497,7 @@
         "season": null,
         "on_sale": true,
         "price": 175,
-        "sales": 1410,
+        "sales": 1412,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -712,7 +701,7 @@
         "season": null,
         "on_sale": true,
         "price": 20,
-        "sales": 183,
+        "sales": 184,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -1681,7 +1670,7 @@
         "season": null,
         "on_sale": true,
         "price": 250,
-        "sales": 578,
+        "sales": 580,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -2752,7 +2741,7 @@
         "season": null,
         "on_sale": true,
         "price": 10,
-        "sales": 412,
+        "sales": 413,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -3298,5 +3287,5 @@
       }
     ]
   },
-  "archived_at": "2025-06-06T01:01:28.594Z"
+  "archived_at": "2025-06-15T09:11:33.545Z"
 }
