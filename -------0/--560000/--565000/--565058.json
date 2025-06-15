@@ -6,10 +6,10 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2019-03-17T18:39:31.000Z",
-  "date_last_played": "2025-01-05T17:27:44.000Z",
-  "profile_views": 371,
+  "date_last_played": "2025-06-09T12:17:02.000Z",
+  "profile_views": 392,
   "kill_count": 27618,
-  "play_count": 5166,
+  "play_count": 5170,
   "highest_score": 7558862,
   "picture": "565058.jpg",
   "displayPicture": false,
@@ -52,8 +52,8 @@
     "rank_hs": 3956,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2024-01-02T19:01:05.000Z",
-    "created_at": "2025-01-05T17:27:44.000Z",
-    "updated_at": "2025-01-05T17:27:44.000Z",
+    "created_at": "2025-06-09T12:17:01.000Z",
+    "updated_at": "2025-06-09T12:17:02.000Z",
     "pd": null
   },
   "creations": {
@@ -83,9 +83,9 @@
             "team_id": null,
             "team_role": null,
             "date_created": "2019-03-17T18:39:31.000Z",
-            "date_last_played": "2025-01-05T17:27:44.000Z",
+            "date_last_played": "2025-06-09T12:17:02.000Z",
             "kill_count": 27618,
-            "play_count": 5166,
+            "play_count": 5170,
             "highest_score": 7558862,
             "picture": "565058.jpg",
             "displayPicture": false,
@@ -106,5 +106,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-06T09:55:46.951Z"
+  "archived_at": "2025-06-15T19:28:33.703Z"
 }
