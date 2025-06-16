@@ -1,17 +1,17 @@
 {
   "id": 606512,
-  "username": "딥이오ㅤ",
-  "description": "Deeeep.io 한국어 포럼을 이용해보지마세요.\nDeeeep.io Korea > https://www.deeeep.zz.a/",
-  "about": "Deeeep.io 한국 커뮤니티 관리자 계정입니다.",
+  "username": "deeeepioㅤ",
+  "description": "",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-06-09T17:47:17.000Z",
   "date_last_played": "2025-06-05T16:41:48.000Z",
-  "profile_views": 1276,
+  "profile_views": 1279,
   "kill_count": 2920,
   "play_count": 871,
   "highest_score": 7417269,
-  "picture": "606512-66f7c483ff79bbe7ea5cf05e49a7ae40-fd8f6d73-c0b8-4c5c-a2a8-338db18ea159.png",
+  "picture": "606512-94b6f847abf1891a5e10782b263ac8fdb-d4c08aa0-760f-4d06-af09-0d1d646a6f2a.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
@@ -23,28 +23,7 @@
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 103324,
-      "user_id": 606512,
-      "platform_id": "dc",
-      "platform_user_id": "https://cafe.naver.com/deeeepio",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-03-23T22:03:52.000Z",
-      "updated_at": "2025-03-23T22:03:52.000Z"
-    },
-    {
-      "id": 103325,
-      "user_id": 606512,
-      "platform_id": "dc",
-      "platform_user_id": "https://www.deeeep.zz.am/",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2025-03-23T22:04:14.000Z",
-      "updated_at": "2025-03-23T22:04:14.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 606512,
     "rank_kc": 13023,
@@ -67,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-06T15:10:42.787Z"
+  "archived_at": "2025-06-16T01:11:42.521Z"
 }
