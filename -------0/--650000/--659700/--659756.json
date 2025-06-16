@@ -1,24 +1,24 @@
 {
   "id": 659756,
   "username": "SOjuu",
-  "description": null,
+  "description": "Unlucky",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2019-11-18T13:20:04.000Z",
-  "date_last_played": "2025-06-06T21:30:54.000Z",
-  "profile_views": 8,
-  "kill_count": 827,
-  "play_count": 305,
-  "highest_score": 2132675,
+  "date_last_played": "2025-06-15T14:17:35.000Z",
+  "profile_views": 14,
+  "kill_count": 889,
+  "play_count": 329,
+  "highest_score": 3072984,
   "picture": null,
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 368,
+  "coins": 524,
   "tier": 2,
-  "xp": 48600,
+  "xp": 73500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-06-06T21:30:53.000Z",
-    "updated_at": "2025-06-06T21:30:54.000Z",
-    "pd": null
+    "created_at": "2025-06-15T14:17:34.000Z",
+    "updated_at": "2025-06-15T14:17:35.000Z",
+    "pd": {
+      "played": 2,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-06T21:48:05.983Z"
+  "archived_at": "2025-06-16T08:35:34.797Z"
 }
