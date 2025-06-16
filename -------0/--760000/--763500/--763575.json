@@ -1,24 +1,24 @@
 {
   "id": 763575,
-  "username": "Un3h焔マ",
-  "description": "《なんてイメージしてしまえば泣いてしまう》",
-  "about": "@Re/蜃気楼\nPossible playing time: (6/7~6/13)\nSAT 9:00~0:30 TST\nSUN 9:00~0:30 TST\nMON 9:00~0:30 TST\nTUE 9:00~0:30 TST\nWED 9:00~15:00 TST\nFRI 21:00~0:30 TST\n#If AS server revive\n#Doesn’t mean I will definitely play the game\n (*TST=Taiwan Standard Time= UTC+8*)",
+  "username": "Un3h",
+  "description": "《なんてイメージしてしまえば泣いてしまう》\n是啊，生活還要繼續。\n\n　　\n\n　　已經如此久遠了，如此久遠沒有因為事物或時光的離去而哀傷。\n\n        猶如轟雷灌頂。\n\n　　傷感和拖著疲累硬是喝了六瓶手搖的身體交雜在一起。飲恨是不得不的結果，或許可以避免，卻也為時已晚。不充分的準備、不存在的分工、最可怕的拖延症和自我懷疑、以及大演出後的鬆懈。有太多理由了，後悔就等夜晚過去了，再讓他佔據腦海的一角。",
+  "about": "@Re/蜃気楼",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-08-05T00:45:13.000Z",
-  "date_last_played": "2025-05-25T10:42:28.000Z",
-  "profile_views": 27767,
-  "kill_count": 57526,
-  "play_count": 4910,
+  "date_last_played": "2025-06-16T15:27:56.000Z",
+  "profile_views": 28209,
+  "kill_count": 57917,
+  "play_count": 4930,
   "highest_score": 16845095,
-  "picture": "763575-59a9fa2acdd0e2a782d10b6aa5b94069f-7f462788-3bbf-4cfa-938e-4e10f66a2b2b.png",
+  "picture": "763575-4b47785ddfdb967541910fdab10027de81-4fbd8144-2468-4cae-ad0c-9a57a85ad227.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 18694,
+  "coins": 15459,
   "tier": 10,
-  "xp": 7677900,
+  "xp": 7768650,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -44,6 +44,16 @@
       "verified": false,
       "created_at": "2025-05-10T11:50:11.000Z",
       "updated_at": "2025-05-10T11:50:11.000Z"
+    },
+    {
+      "id": 105540,
+      "user_id": 763575,
+      "platform_id": "yt",
+      "platform_user_id": "スゴすぎ前橋ウィッチーズ！",
+      "platform_user_url": "https://youtu.be/i4GNxr-uKpk?si=aAjNbZCC4hrtJ1JK",
+      "verified": false,
+      "created_at": "2025-06-15T17:10:11.000Z",
+      "updated_at": "2025-06-15T17:10:11.000Z"
     }
   ],
   "user_stats": {
@@ -57,12 +67,12 @@
     "rank_hs": 1864,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2024-01-21T05:09:29.000Z",
-    "created_at": "2025-05-25T10:42:27.000Z",
-    "updated_at": "2025-05-25T10:42:28.000Z",
+    "created_at": "2025-06-16T15:27:55.000Z",
+    "updated_at": "2025-06-16T15:27:56.000Z",
     "pd": {
-      "played": 14,
-      "won": 7,
-      "ratio": 50
+      "played": 23,
+      "won": 15,
+      "ratio": 65
     }
   },
   "creations": {
@@ -72,5 +82,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-07T09:47:25.392Z"
+  "archived_at": "2025-06-16T23:46:18.909Z"
 }
