@@ -6,24 +6,35 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2020-04-11T04:29:38.000Z",
-  "date_last_played": "2025-05-31T14:58:47.000Z",
-  "profile_views": 156,
-  "kill_count": 7946,
-  "play_count": 7989,
+  "date_last_played": "2025-06-15T03:46:15.000Z",
+  "profile_views": 157,
+  "kill_count": 7948,
+  "play_count": 7992,
   "highest_score": 7162315,
   "picture": "723354-0ca8eb37b9d101e2172d64da84e719776-da5b1f3f-1ced-49f7-aa65-23cf8860f611.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 102,
+  "coins": 114,
   "tier": 2,
-  "xp": 60900,
+  "xp": 62700,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105474,
+      "user_id": 723354,
+      "platform_id": "dc",
+      "platform_user_id": "cornhub1.com",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-13T02:32:54.000Z",
+      "updated_at": "2025-06-13T02:32:54.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 723354,
     "rank_kc": 3434,
@@ -35,8 +46,8 @@
     "rank_hs": 4296,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-12-28T12:22:04.000Z",
-    "created_at": "2025-05-31T14:58:47.000Z",
-    "updated_at": "2025-05-31T14:58:47.000Z",
+    "created_at": "2025-06-15T03:46:14.000Z",
+    "updated_at": "2025-06-15T03:46:15.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-07T05:17:30.104Z"
+  "archived_at": "2025-06-16T18:18:41.181Z"
 }
