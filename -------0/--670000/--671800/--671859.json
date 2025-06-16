@@ -1,24 +1,24 @@
 {
   "id": 671859,
-  "username": "silver6",
+  "username": "sunnylobster",
   "description": "gg",
   "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-12-15T02:45:49.000Z",
-  "date_last_played": "2025-06-06T20:51:41.000Z",
-  "profile_views": 239,
-  "kill_count": 11665,
-  "play_count": 6617,
-  "highest_score": 3848208,
-  "picture": "671859-36e1e272fba5e4da8d6edcb88d971f8b-0d839e63-9836-4a52-9707-4d95591bee94.png",
+  "date_last_played": "2025-06-16T03:06:44.000Z",
+  "profile_views": 298,
+  "kill_count": 11953,
+  "play_count": 6835,
+  "highest_score": 4124201,
+  "picture": "671859-b210b560b40e52c98d6c87562d5a23d93-02954029-130b-4e25-a64b-caf4c51f21db.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 1008,
-  "tier": 7,
-  "xp": 611550,
+  "coins": 1236,
+  "tier": 8,
+  "xp": 723750,
   "migrated": true,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 13404,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-10-27T00:18:26.000Z",
-    "created_at": "2025-06-06T20:51:40.000Z",
-    "updated_at": "2025-06-06T20:51:41.000Z",
-    "pd": null
+    "created_at": "2025-06-16T03:06:44.000Z",
+    "updated_at": "2025-06-16T03:06:44.000Z",
+    "pd": {
+      "played": 1,
+      "won": 0,
+      "ratio": 0
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-06T23:16:06.590Z"
+  "archived_at": "2025-06-16T10:33:57.973Z"
 }
