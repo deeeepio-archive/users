@@ -1,24 +1,24 @@
 {
   "id": 713513,
   "username": "CookieBiskuit",
-  "description": "This is a death message\n",
+  "description": "nom",
   "about": "A fish manifold",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-03-17T21:53:53.000Z",
-  "date_last_played": "2025-06-06T18:13:43.000Z",
-  "profile_views": 148,
-  "kill_count": 1688,
-  "play_count": 1536,
+  "date_last_played": "2025-06-09T09:44:46.000Z",
+  "profile_views": 187,
+  "kill_count": 1803,
+  "play_count": 1565,
   "highest_score": 2579877,
   "picture": "713513.jpg",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 688,
+  "coins": 855,
   "tier": 3,
-  "xp": 84900,
+  "xp": 109950,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": 21606,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2022-09-09T17:22:04.000Z",
-    "created_at": "2025-06-06T18:13:42.000Z",
-    "updated_at": "2025-06-06T18:13:43.000Z",
+    "created_at": "2025-06-09T09:44:46.000Z",
+    "updated_at": "2025-06-09T09:44:46.000Z",
     "pd": {
-      "played": 20,
-      "won": 10,
-      "ratio": 50
+      "played": 49,
+      "won": 27,
+      "ratio": 55
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-07T04:12:38.855Z"
+  "archived_at": "2025-06-16T17:00:01.963Z"
 }
