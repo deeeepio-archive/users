@@ -6,24 +6,34 @@
   "team_id": null,
   "team_role": null,
   "date_created": "2020-06-23T12:11:14.000Z",
-  "date_last_played": "2025-06-06T19:20:27.000Z",
-  "profile_views": 572,
-  "kill_count": 16259,
-  "play_count": 4424,
+  "date_last_played": "2025-06-10T12:14:01.000Z",
+  "profile_views": 642,
+  "kill_count": 16313,
+  "play_count": 4476,
   "highest_score": 750083781,
   "picture": "752821-c310b147955b5926d385272e8e8168ad1-0140145f-c553-4a14-a9f8-f8cc844efe05.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 520,
+  "coins": 664,
   "tier": 7,
-  "xp": 563700,
+  "xp": 585300,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
   "social_networks": [
+    {
+      "id": 105336,
+      "user_id": 752821,
+      "platform_id": "dc",
+      "platform_user_id": "sexwinex",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-07T10:02:52.000Z",
+      "updated_at": "2025-06-14T03:32:08.000Z"
+    },
     {
       "id": 104884,
       "user_id": 752821,
@@ -33,16 +43,6 @@
       "verified": false,
       "created_at": "2025-05-21T15:52:37.000Z",
       "updated_at": "2025-05-21T15:52:37.000Z"
-    },
-    {
-      "id": 100183,
-      "user_id": 752821,
-      "platform_id": "qq",
-      "platform_user_id": "WhatsApp 5425673225",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2024-11-12T14:07:17.000Z",
-      "updated_at": "2024-11-12T14:07:17.000Z"
     },
     {
       "id": 98504,
@@ -66,9 +66,13 @@
     "rank_hs": 302,
     "rank_hs_dirty": false,
     "rank_hs_updated_at": "2023-12-28T14:39:38.000Z",
-    "created_at": "2025-06-06T19:20:26.000Z",
-    "updated_at": "2025-06-06T19:20:27.000Z",
-    "pd": null
+    "created_at": "2025-06-10T12:14:01.000Z",
+    "updated_at": "2025-06-10T12:14:01.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -77,5 +81,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-07T08:35:12.986Z"
+  "archived_at": "2025-06-16T22:18:05.760Z"
 }
