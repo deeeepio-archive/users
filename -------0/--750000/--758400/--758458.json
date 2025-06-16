@@ -1,17 +1,17 @@
 {
   "id": 758458,
   "username": "adolfhitlergaming",
-  "description": "https://pastebin.com/CtnN87xp",
-  "about": "meine ehre heißt treue",
+  "description": "\nLook back.",
+  "about": "",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-07-14T13:04:10.000Z",
   "date_last_played": "2023-11-12T14:21:44.000Z",
-  "profile_views": 2603,
+  "profile_views": 2621,
   "kill_count": 37594,
   "play_count": 8887,
   "highest_score": 11110876,
-  "picture": "758458-b51e8e21014b3dda843b9a449d7e109829.png",
+  "picture": "758458-b918e4e559bac9ed3cf719163b5957f8-8649c191-0637-4979-875e-dd7c67b47197.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
@@ -23,18 +23,7 @@
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 17479,
-      "user_id": 758458,
-      "platform_id": "dc",
-      "platform_user_id": "kattobomber",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2023-04-14T16:22:24.000Z",
-      "updated_at": "2023-08-18T11:25:30.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 758458,
     "rank_kc": 163,
@@ -72,8 +61,8 @@
           "user": {
             "id": 758458,
             "username": "adolfhitlergaming",
-            "description": "https://pastebin.com/CtnN87xp",
-            "about": "meine ehre heißt treue",
+            "description": "\nLook back.",
+            "about": "",
             "team_id": null,
             "team_role": null,
             "date_created": "2020-07-14T13:04:10.000Z",
@@ -81,7 +70,7 @@
             "kill_count": 37594,
             "play_count": 8887,
             "highest_score": 11110876,
-            "picture": "758458-b51e8e21014b3dda843b9a449d7e109829.png",
+            "picture": "758458-b918e4e559bac9ed3cf719163b5957f8-8649c191-0637-4979-875e-dd7c67b47197.png",
             "displayPicture": true,
             "active": true,
             "ban_message": null,
@@ -125,5 +114,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-07T09:12:17.936Z"
+  "archived_at": "2025-06-16T23:04:49.174Z"
 }
