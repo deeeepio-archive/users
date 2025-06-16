@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2019-11-01T23:27:41.000Z",
   "date_last_played": "2025-01-15T17:53:34.000Z",
-  "profile_views": 552,
+  "profile_views": 1090,
   "kill_count": 763,
   "play_count": 301,
   "highest_score": 3288481,
@@ -150,7 +150,7 @@
         "season": null,
         "on_sale": true,
         "price": 150,
-        "sales": 3,
+        "sales": 6,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -201,7 +201,7 @@
         "season": null,
         "on_sale": true,
         "price": 10,
-        "sales": 2,
+        "sales": 6,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -252,7 +252,7 @@
         "season": null,
         "on_sale": true,
         "price": 100,
-        "sales": 4,
+        "sales": 13,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -303,7 +303,7 @@
         "season": null,
         "on_sale": true,
         "price": 125,
-        "sales": 2,
+        "sales": 3,
         "usable": true,
         "reviewed": true,
         "approved": true,
@@ -339,5 +339,5 @@
       }
     ]
   },
-  "archived_at": "2025-06-06T20:42:50.524Z"
+  "archived_at": "2025-06-16T07:24:30.152Z"
 }
