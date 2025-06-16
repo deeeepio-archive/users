@@ -1,29 +1,40 @@
 {
   "id": 652381,
   "username": "SkejtakEda",
-  "description": "TeaTime",
+  "description": "TeaTime 🐸/°🍵",
   "about": "🐸/°🍵",
   "team_id": null,
   "team_role": null,
   "date_created": "2019-11-05T17:17:33.000Z",
-  "date_last_played": "2022-09-12T17:43:57.000Z",
-  "profile_views": 3,
-  "kill_count": 1835,
-  "play_count": 285,
+  "date_last_played": "2025-06-08T18:01:18.000Z",
+  "profile_views": 10,
+  "kill_count": 1849,
+  "play_count": 306,
   "highest_score": 3007829,
   "picture": "652381-a1c4bcd36d6a8ee85d3d87cf8b18ab65.png",
   "displayPicture": false,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 16,
+  "coins": 77,
   "tier": 1,
-  "xp": 1800,
+  "xp": 10950,
   "migrated": true,
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [],
+  "social_networks": [
+    {
+      "id": 105350,
+      "user_id": 652381,
+      "platform_id": "dc",
+      "platform_user_id": "DripposaurusFlex",
+      "platform_user_url": null,
+      "verified": false,
+      "created_at": "2025-06-07T20:33:02.000Z",
+      "updated_at": "2025-06-07T20:33:02.000Z"
+    }
+  ],
   "user_stats": {
     "user_id": 652381,
     "rank_kc": null,
@@ -35,8 +46,8 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-04-24T16:10:26.000Z",
-    "updated_at": "2025-04-24T16:10:26.000Z",
+    "created_at": "2025-06-08T18:01:17.000Z",
+    "updated_at": "2025-06-08T18:01:18.000Z",
     "pd": null
   },
   "creations": {
@@ -46,5 +57,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-06T20:52:53.141Z"
+  "archived_at": "2025-06-16T07:35:26.570Z"
 }
