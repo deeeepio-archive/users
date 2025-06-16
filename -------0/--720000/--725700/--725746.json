@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2020-04-16T20:42:52.000Z",
   "date_last_played": "2025-05-29T23:47:07.000Z",
-  "profile_views": 6192,
+  "profile_views": 6199,
   "kill_count": 76722,
   "play_count": 18633,
   "highest_score": 16430608,
@@ -23,18 +23,7 @@
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 21390,
-      "user_id": 725746,
-      "platform_id": "dc",
-      "platform_user_id": "𝐀𝐙𝐔𝐋™",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2023-06-22T00:13:32.000Z",
-      "updated_at": "2023-08-26T21:01:55.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 725746,
     "rank_kc": 52,
@@ -61,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-07T05:33:33.615Z"
+  "archived_at": "2025-06-16T18:37:32.759Z"
 }
