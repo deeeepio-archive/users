@@ -1,17 +1,17 @@
 {
   "id": 767727,
-  "username": "Анкалогон",
-  "description": "Житель средиземья",
+  "username": "FEANOR",
+  "description": "велком ту лобби",
   "about": null,
   "team_id": null,
   "team_role": null,
   "date_created": "2020-08-23T10:57:30.000Z",
   "date_last_played": "2023-04-11T11:48:06.000Z",
-  "profile_views": 19,
+  "profile_views": 26,
   "kill_count": 4344,
   "play_count": 1876,
   "highest_score": 4119435,
-  "picture": "767727.jpg",
+  "picture": "767727-ca4010f3bb93c94b6a43e1024c475291b6-33d41a9b-257b-49e4-99c5-3194c385a6a5.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
@@ -23,18 +23,7 @@
   "verified": false,
   "beta": false,
   "badges": [],
-  "social_networks": [
-    {
-      "id": 3153,
-      "user_id": 767727,
-      "platform_id": "dc",
-      "platform_user_id": "анкалогон#9345",
-      "platform_user_url": null,
-      "verified": false,
-      "created_at": "2022-07-01T09:36:05.000Z",
-      "updated_at": "2022-07-01T09:36:05.000Z"
-    }
-  ],
+  "social_networks": [],
   "user_stats": {
     "user_id": 767727,
     "rank_kc": 5371,
@@ -57,5 +46,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-07T10:15:15.659Z"
+  "archived_at": "2025-06-17T00:35:03.256Z"
 }
