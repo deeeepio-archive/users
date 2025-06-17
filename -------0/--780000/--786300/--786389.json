@@ -68,11 +68,7 @@
     "rank_hs_updated_at": null,
     "created_at": "2025-05-08T13:59:07.000Z",
     "updated_at": "2025-05-08T13:59:07.000Z",
-    "pd": {
-      "played": 1,
-      "won": 1,
-      "ratio": 100
-    }
+    "pd": null
   },
   "creations": {
     "maps": {
@@ -81,5 +77,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-07T12:20:33.555Z"
+  "archived_at": "2025-06-17T03:32:32.807Z"
 }
