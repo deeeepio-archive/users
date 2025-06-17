@@ -7,7 +7,7 @@
   "team_role": null,
   "date_created": "2020-12-17T01:11:22.000Z",
   "date_last_played": "2025-06-01T23:10:22.000Z",
-  "profile_views": 24967,
+  "profile_views": 25320,
   "kill_count": 64276,
   "play_count": 27143,
   "highest_score": 11788516,
@@ -238,16 +238,16 @@
           "user_id": 803418,
           "cloneof_id": null,
           "string_id": "submarine",
-          "title": "Submarine World",
+          "title": "this map killed itself for some reason",
           "description": "what is lurking in the depths..?",
           "public": true,
           "locked": false,
           "clonable": false,
           "permissions": 1,
           "likes": 11,
-          "objects": 680,
+          "objects": 757,
           "created_at": "2023-04-24T17:12:08.000Z",
-          "updated_at": "2025-06-05T08:28:20.000Z",
+          "updated_at": "2025-06-10T05:27:57.000Z",
           "deleted_at": null,
           "user": {
             "id": 803418,
@@ -336,5 +336,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-07T14:16:53.319Z"
+  "archived_at": "2025-06-17T05:57:31.819Z"
 }
