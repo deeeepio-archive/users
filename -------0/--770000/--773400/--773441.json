@@ -1,24 +1,24 @@
 {
   "id": 773441,
-  "username": "Simon-",
+  "username": "Simon_1",
   "description": "you died bitten",
-  "about": "I like to take Bites",
+  "about": "What?\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-09-14T21:59:31.000Z",
-  "date_last_played": "2025-05-17T16:50:52.000Z",
-  "profile_views": 150,
-  "kill_count": 339,
-  "play_count": 85,
+  "date_last_played": "2025-06-08T14:53:25.000Z",
+  "profile_views": 185,
+  "kill_count": 342,
+  "play_count": 87,
   "highest_score": 177300,
   "picture": "773441-f6fb06e639238229649d94f1292ece91-b2175ecf-1290-45f9-b7f4-a0d62e590426.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 161,
+  "coins": 170,
   "tier": 2,
-  "xp": 45150,
+  "xp": 46500,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,12 +35,12 @@
     "rank_hs": null,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": null,
-    "created_at": "2025-05-17T16:50:51.000Z",
-    "updated_at": "2025-05-17T16:50:52.000Z",
+    "created_at": "2025-06-08T14:53:25.000Z",
+    "updated_at": "2025-06-08T14:53:25.000Z",
     "pd": {
-      "played": 21,
-      "won": 11,
-      "ratio": 52
+      "played": 2,
+      "won": 1,
+      "ratio": 50
     }
   },
   "creations": {
@@ -50,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-07T10:53:57.966Z"
+  "archived_at": "2025-06-17T01:23:20.941Z"
 }
