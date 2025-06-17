@@ -2,23 +2,23 @@
   "id": 785389,
   "username": "MysteryxMys",
   "description": "Sen Kimsin de Benim Tahtımda Olucaksın Len Lolipop",
-  "about": "\n",
+  "about": "since 2016 beta\n",
   "team_id": null,
   "team_role": null,
   "date_created": "2020-10-25T08:08:42.000Z",
-  "date_last_played": "2025-06-07T11:30:08.000Z",
-  "profile_views": 1014,
-  "kill_count": 59680,
-  "play_count": 10354,
+  "date_last_played": "2025-06-16T07:02:38.000Z",
+  "profile_views": 1083,
+  "kill_count": 60142,
+  "play_count": 10485,
   "highest_score": 14482226,
   "picture": "785389-238780c3e28a597d10f107436aa4103123d-79d8d47c-8902-4994-9c66-35c3f7c6bbbd.png",
   "displayPicture": true,
   "active": true,
   "ban_message": null,
   "ban_at": null,
-  "coins": 40671,
+  "coins": 41670,
   "tier": 10,
-  "xp": 2929200,
+  "xp": 3079050,
   "migrated": false,
   "verified": false,
   "beta": false,
@@ -35,9 +35,13 @@
     "rank_hs": 1704,
     "rank_hs_dirty": true,
     "rank_hs_updated_at": "2023-10-04T03:10:14.000Z",
-    "created_at": "2025-06-07T11:30:08.000Z",
-    "updated_at": "2025-06-07T11:30:08.000Z",
-    "pd": null
+    "created_at": "2025-06-16T07:02:38.000Z",
+    "updated_at": "2025-06-16T07:02:38.000Z",
+    "pd": {
+      "played": 2,
+      "won": 2,
+      "ratio": 100
+    }
   },
   "creations": {
     "maps": {
@@ -46,5 +50,5 @@
     },
     "skins": []
   },
-  "archived_at": "2025-06-07T12:13:38.442Z"
+  "archived_at": "2025-06-17T03:25:21.408Z"
 }
